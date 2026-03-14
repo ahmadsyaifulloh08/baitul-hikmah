@@ -4,16 +4,13 @@
 
 | Branch | Environment | URL | Deploy |
 |--------|-------------|-----|--------|
-| `develop` | Development/QA | dev.baitul-hikmah.id | Auto on push |
-| `main` | Production | baitul-hikmah.id | Ahmad approve → merge |
+| `main` | Production | baitul-hikmah.id | Auto via Cloudflare Pages |
 
 ## Workflow
 
-1. All work happens on `develop` branch (or feature branches → PR to `develop`)
-2. QA tests on `dev.baitul-hikmah.id`
-3. When ready: PR from `develop` → `main`
-4. Ahmad reviews & approves
-5. Merge → auto-deploy to production
+1. Feature branches → PR to `main`
+2. Ahmad reviews & approves
+3. Merge → auto-deploy to production via Cloudflare Pages
 
 ## Content Validation
 

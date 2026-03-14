@@ -9,7 +9,7 @@
 - [ ] Infrastructure
 
 ## Checklist
-- [ ] Tested on `dev.baitul-hikmah.id`
+- [ ] Tested locally (`npm run build`)
 - [ ] Mobile responsive verified
 - [ ] Bilingual content (ID + EN) if content PR
 - [ ] Sources validated (Manhaj Bukhari) if content PR

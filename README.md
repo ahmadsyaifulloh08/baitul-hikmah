@@ -8,7 +8,6 @@ Portal digital interaktif untuk menelusuri sejarah peradaban Islam — dari Tahu
 ## 🌐 Links
 
 - **Production**: [baitul-hikmah.id](https://baitul-hikmah.id)
-- **Development**: [dev.baitul-hikmah.id](https://dev.baitul-hikmah.id)
 
 ## ✨ Features
 
