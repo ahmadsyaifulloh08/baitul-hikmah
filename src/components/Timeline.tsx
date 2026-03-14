@@ -148,12 +148,7 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
 // ============================================================
 // MAIN TIMELINE EXPORT
 // ============================================================
-interface TimelineProps {
-  mode?: 'timeline' | 'map'
-  onModeChange?: (mode: 'timeline' | 'map') => void
-}
-
-export default function Timeline({ mode, onModeChange }: TimelineProps = {}) {
+export default function Timeline() {
   const [search, setSearch] = useState('')
   const [hiddenCategories, setHiddenCategories] = useState<Set<string>>(new Set())
   const [hiddenEras, setHiddenEras] = useState<Set<string>>(new Set())
@@ -217,58 +212,8 @@ export default function Timeline({ mode, onModeChange }: TimelineProps = {}) {
 
   return (
     <div>
-      {/* ==================== HERO SECTION ==================== */}
-      <div className="islamic-pattern" style={{
-        textAlign: 'center', padding: '48px 16px 32px',
-        borderBottom: '1px solid var(--border)',
-      }}>
-        <h2 className="font-heading" style={{
-          fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
-          marginBottom: 8, lineHeight: 1.2,
-        }}>
-          🏛 Baitul Hikmah
-        </h2>
-        <p style={{
-          fontSize: 'clamp(0.85rem, 2vw, 1.1rem)', color: 'var(--text-secondary)',
-          marginBottom: 24, maxWidth: 600, margin: '0 auto 24px',
-        }}>
-          The Golden Age and Beyond — Menelusuri Jejak Peradaban Islam
-        </p>
-        {/* ==================== MODE TOGGLE ==================== */}
-        {onModeChange && (
-          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
-            <div style={{
-              display: 'inline-flex', gap: 0, borderRadius: 12,
-              background: 'var(--bg-secondary)', border: '1px solid var(--border)', padding: 3,
-            }}>
-              <button
-                onClick={() => onModeChange('timeline')}
-                style={{
-                  padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
-                  border: 'none', cursor: 'pointer', transition: 'all 0.2s',
-                  background: mode === 'timeline' ? 'var(--bg-primary)' : 'transparent',
-                  color: mode === 'timeline' ? 'var(--text-primary)' : 'var(--text-secondary)',
-                  boxShadow: mode === 'timeline' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
-                }}
-              >
-                📜 Timeline
-              </button>
-              <button
-                onClick={() => onModeChange('map')}
-                style={{
-                  padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
-                  border: 'none', cursor: 'pointer', transition: 'all 0.2s',
-                  background: mode === 'map' ? 'var(--bg-primary)' : 'transparent',
-                  color: mode === 'map' ? 'var(--text-primary)' : 'var(--text-secondary)',
-                  boxShadow: mode === 'map' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
-                }}
-              >
-                🗺️ Peta
-              </button>
-            </div>
-          </div>
-        )}
-
+      {/* ==================== SEARCH BAR ==================== */}
+      <div style={{ textAlign: 'center', padding: '16px 16px 0' }}>
         <div style={{ maxWidth: 640, margin: '0 auto' }}>
           <input
             type="text"

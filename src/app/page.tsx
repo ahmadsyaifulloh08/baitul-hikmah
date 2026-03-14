@@ -12,8 +12,58 @@ export default function Home() {
 
   return (
     <main className="min-h-screen">
-      <Header mode={mode} onModeChange={setMode} />
-      {mode === 'timeline' ? <Timeline mode={mode} onModeChange={setMode} /> : <MapView />}
+      <Header />
+      {/* Hero + Toggle always visible */}
+      <div style={{ textAlign: 'center', padding: '40px 16px 0' }}>
+        <h2 className="font-heading" style={{
+          fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
+          marginBottom: 8, lineHeight: 1.2,
+        }}>
+          🏛 Baitul Hikmah
+        </h2>
+        <p style={{
+          fontSize: 'clamp(0.85rem, 2vw, 1.1rem)', color: 'var(--text-secondary)',
+          marginBottom: 24, maxWidth: 600, margin: '0 auto 24px',
+        }}>
+          The Golden Age and Beyond — Menelusuri Jejak Peradaban Islam
+        </p>
+
+        {/* Mode Toggle */}
+        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+          <div style={{
+            display: 'inline-flex', gap: 0, borderRadius: 12,
+            background: 'var(--bg-secondary)', border: '1px solid var(--border)', padding: 3,
+          }}>
+            <button
+              onClick={() => setMode('timeline')}
+              style={{
+                padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
+                border: 'none', cursor: 'pointer', transition: 'all 0.2s',
+                background: mode === 'timeline' ? 'var(--bg-primary)' : 'transparent',
+                color: mode === 'timeline' ? 'var(--text-primary)' : 'var(--text-secondary)',
+                boxShadow: mode === 'timeline' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
+              }}
+            >
+              📜 Timeline
+            </button>
+            <button
+              onClick={() => setMode('map')}
+              style={{
+                padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
+                border: 'none', cursor: 'pointer', transition: 'all 0.2s',
+                background: mode === 'map' ? 'var(--bg-primary)' : 'transparent',
+                color: mode === 'map' ? 'var(--text-primary)' : 'var(--text-secondary)',
+                boxShadow: mode === 'map' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
+              }}
+            >
+              🗺️ Peta
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* Content area - swap between Timeline and Map */}
+      {mode === 'timeline' ? <Timeline /> : <MapView />}
       {mode === 'timeline' && (
         <footer className="text-center py-8 text-xs text-[var(--text-secondary)] border-t border-[var(--border)]">
           <p>🏛 Baitul Hikmah — Menelusuri Jejak Peradaban Islam</p>
