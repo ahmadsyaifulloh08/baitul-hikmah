@@ -8,9 +8,23 @@ export const metadata: Metadata = {
   themeColor: '#0d1117',
 }
 
+const themeScript = `
+(function(){
+  var t = localStorage.getItem('theme');
+  if (t === 'light') {
+    document.documentElement.classList.remove('dark');
+  } else {
+    document.documentElement.classList.add('dark');
+  }
+})();
+`
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="id" suppressHydrationWarning>
+    <html lang="id" className="dark" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
       <body className="antialiased">
         {children}
       </body>

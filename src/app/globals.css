@@ -10,7 +10,12 @@
     --bg-secondary: #f0ece4;
     --text-primary: #1a1a1a;
     --text-secondary: #555;
-    --border: #e0dcd4;
+    --border: #d0ccc4;
+    /* Timeline-specific vars */
+    --surface: #f5f1eb;
+    --surface2: #e8e4dc;
+    --text: #1a1a1a;
+    --text2: #555;
   }
   .dark {
     --bg-primary: #0d1117;
@@ -18,9 +23,13 @@
     --text-primary: #e6edf3;
     --text-secondary: #8b949e;
     --border: #30363d;
+    --surface: #161b22;
+    --surface2: #21262d;
+    --text: #c9d1d9;
+    --text2: #8b949e;
   }
   body {
-    @apply bg-[var(--bg-primary)] text-[var(--text-primary)] font-body;
+    @apply bg-[var(--bg-primary)] text-[var(--text-primary)] font-body transition-colors duration-200;
   }
 }
 

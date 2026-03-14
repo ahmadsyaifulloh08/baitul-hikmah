@@ -1,13 +1,26 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 export default function Header() {
-  const [dark, setDark] = useState(false)
+  const [dark, setDark] = useState(true)
+
+  useEffect(() => {
+    // Init from current state (set by inline script in layout)
+    const isDark = document.documentElement.classList.contains('dark')
+    setDark(isDark)
+  }, [])
 
   const toggleDark = () => {
-    setDark(!dark)
-    document.documentElement.classList.toggle('dark')
+    const next = !dark
+    setDark(next)
+    if (next) {
+      document.documentElement.classList.add('dark')
+      localStorage.setItem('theme', 'dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+      localStorage.setItem('theme', 'light')
+    }
   }
 
   return (
