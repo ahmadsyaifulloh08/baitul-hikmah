@@ -39,7 +39,7 @@ function EventPopup({ event, onClose }: { event: MapEvent; onClose: () => void }
       <div className="flex items-center gap-2 mb-2">
         <span
           className="inline-block w-2.5 h-2.5 rounded-full"
-          style={{ backgroundColor: eraColors[event.era] || '#888' }}
+          style={{ backgroundColor: categories.find(c => c.id === event.category)?.color || '#888' }}
         />
         <span className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)]">
           {era?.name} · {event.year} M
@@ -224,13 +224,12 @@ export default function MapView({ search }: MapViewProps = {}) {
             3,
           ],
           'circle-color': [
-            'match', ['get', 'era'],
-            'pre_islamic', '#8b949e',
+            'match', ['get', 'category'],
             'prophetic', '#3fb950',
-            'rashidun', '#58a6ff',
-            'umayyad', '#d29922',
-            'golden_age', '#bc8cff',
-            'fragmentation', '#f778ba',
+            'political', '#d29922',
+            'knowledge', '#58a6ff',
+            'military', '#f85149',
+            'heritage', '#bc8cff',
             'decline', '#da3633',
             '#888',
           ],
@@ -249,13 +248,12 @@ export default function MapView({ search }: MapViewProps = {}) {
         paint: {
           'circle-radius': 14,
           'circle-color': [
-            'match', ['get', 'era'],
-            'pre_islamic', '#8b949e',
+            'match', ['get', 'category'],
             'prophetic', '#3fb950',
-            'rashidun', '#58a6ff',
-            'umayyad', '#d29922',
-            'golden_age', '#bc8cff',
-            'fragmentation', '#f778ba',
+            'political', '#d29922',
+            'knowledge', '#58a6ff',
+            'military', '#f85149',
+            'heritage', '#bc8cff',
             'decline', '#da3633',
             '#888',
           ],
@@ -455,12 +453,12 @@ export default function MapView({ search }: MapViewProps = {}) {
 
         {/* Legend */}
         <div className="absolute bottom-4 left-4 z-10 rounded-lg p-3 border border-[var(--border)] max-w-[200px]" style={{ background: 'var(--bg-primary)' }}>
-          <p className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)] mb-2 font-medium">Era</p>
+          <p className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)] mb-2 font-medium">Kategori</p>
           <div className="space-y-1">
-            {eras.map(era => (
-              <div key={era.id} className="flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: era.color }} />
-                <span className="text-[10px] text-[var(--text-secondary)] truncate">{era.name}</span>
+            {categories.map(cat => (
+              <div key={cat.id} className="flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: cat.color }} />
+                <span className="text-[10px] text-[var(--text-secondary)] truncate">{cat.emoji} {cat.name}</span>
               </div>
             ))}
           </div>
