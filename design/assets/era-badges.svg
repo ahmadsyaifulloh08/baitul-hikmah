@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+  <!-- Era Badge Collection — each 100px wide, use individually or as sprite -->
+  
+  <!-- 1. Pra-Islam -->
+  <g transform="translate(0,0)">
+    <rect x="2" y="6" width="96" height="28" rx="14" fill="#8b949e" fill-opacity="0.15" stroke="#8b949e" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Crescent (pre-Islamic) -->
+    <path d="M16,20 a6,6 0 1,1 0,0.01" fill="none" stroke="#8b949e" stroke-width="1.2"/>
+    <path d="M18,20 a4,4 0 1,0 0,0.01" fill="#8b949e" fill-opacity="0.15" stroke="none"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#8b949e">Pra-Islam</text>
+  </g>
+  
+  <!-- 2. Kenabian -->
+  <g transform="translate(110,0)">
+    <rect x="2" y="6" width="96" height="28" rx="14" fill="#3fb950" fill-opacity="0.15" stroke="#3fb950" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- 8-pointed star -->
+    <polygon points="16,13 18,18 14,16 19,16 15,18 17,13 19,18 14,15" fill="#3fb950" opacity="0.8" transform="translate(0,4) scale(0.9)"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#3fb950">Kenabian</text>
+  </g>
+
+  <!-- 3. Rashidin -->
+  <g transform="translate(220,0)">
+    <rect x="2" y="6" width="96" height="28" rx="14" fill="#58a6ff" fill-opacity="0.15" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Shield -->
+    <path d="M16,14 L22,14 L22,22 L19,26 L16,22 Z" fill="none" stroke="#58a6ff" stroke-width="1.2"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#58a6ff">Rashidin</text>
+  </g>
+
+  <!-- 4. Umayyah -->
+  <g transform="translate(330,0)">
+    <rect x="2" y="6" width="96" height="28" rx="14" fill="#d29922" fill-opacity="0.15" stroke="#d29922" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Dome -->
+    <path d="M15,24 L15,20 Q19,12 23,20 L23,24" fill="none" stroke="#d29922" stroke-width="1.2"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#d29922">Umayyah</text>
+  </g>
+
+  <!-- 5. Abbasiyah -->
+  <g transform="translate(440,0)">
+    <rect x="2" y="6" width="104" height="28" rx="14" fill="#bc8cff" fill-opacity="0.15" stroke="#bc8cff" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Book -->
+    <path d="M14,15 L19,14 L19,26 L14,25 Z M19,14 L24,15 L24,25 L19,26 Z" fill="none" stroke="#bc8cff" stroke-width="1"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#bc8cff">Abbasiyah</text>
+  </g>
+
+  <!-- 6. Fragmentasi -->
+  <g transform="translate(560,0)">
+    <rect x="2" y="6" width="110" height="28" rx="14" fill="#f778ba" fill-opacity="0.15" stroke="#f778ba" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Zellige tile fragment -->
+    <rect x="14" y="14" width="10" height="10" rx="1" fill="none" stroke="#f778ba" stroke-width="1" transform="rotate(45 19 19)"/>
+    <text x="30" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#f778ba">Fragmentasi</text>
+  </g>
+
+  <!-- 7. Kemunduran -->
+  <g transform="translate(685,0)">
+    <rect x="2" y="6" width="110" height="28" rx="14" fill="#da3633" fill-opacity="0.15" stroke="#da3633" stroke-width="1" stroke-opacity="0.3"/>
+    <!-- Dimming lamp -->
+    <path d="M17,14 L21,14 L22,18 L20,24 L18,24 L16,18 Z" fill="none" stroke="#da3633" stroke-width="1"/>
+    <line x1="19" y1="12" x2="19" y2="14" stroke="#da3633" stroke-width="0.8"/>
+    <text x="28" y="24" font-family="Inter,sans-serif" font-size="11" font-weight="500" fill="#da3633">Kemunduran</text>
+  </g>
+</svg>

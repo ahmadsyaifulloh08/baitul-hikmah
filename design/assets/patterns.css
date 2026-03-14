@@ -1,0 +1,265 @@
+/* Baitul Hikmah — Islamic Pattern CSS Utilities
+   Use these as background patterns on sections, cards, and headers.
+   All patterns are CSS-only with inline SVG data URIs. */
+
+/* ============================================
+   ERA COLORS — CSS Custom Properties
+   ============================================ */
+:root {
+  --era-pra-islam: #8b949e;
+  --era-kenabian: #3fb950;
+  --era-rashidin: #58a6ff;
+  --era-umayyah: #d29922;
+  --era-abbasiyah: #bc8cff;
+  --era-fragmentasi: #f778ba;
+  --era-kemunduran: #da3633;
+
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #21262d;
+  --text-primary: #f0f6fc;
+  --text-secondary: #8b949e;
+  --border-color: #30363d;
+}
+
+[data-mode="children"] {
+  --bg-primary: #fdf6e3;
+  --bg-secondary: #faf0d7;
+  --bg-tertiary: #f5e6c4;
+  --text-primary: #1f2328;
+  --text-secondary: #57606a;
+  --border-color: #d0d7de;
+}
+
+/* ============================================
+   PATTERN BACKGROUNDS (inline SVG)
+   ============================================ */
+
+/* 8-pointed star pattern — headers & hero sections */
+.pattern-star-cross {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Cpolygon points='30,4 34.5,21.5 52,14 40.5,27 56,30 40.5,33 52,46 34.5,38.5 30,56 25.5,38.5 8,46 19.5,33 4,30 19.5,27 8,14 25.5,21.5' stroke='%238b949e' stroke-width='0.75' fill='none' opacity='0.08'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 60px 60px;
+}
+
+/* Hexagonal pattern — section dividers */
+.pattern-hexagonal {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='48'%3E%3Cpolygon points='14,0 42,0 56,24 42,48 14,48 0,24' stroke='%238b949e' stroke-width='0.75' fill='none' opacity='0.07'/%3E%3Cpolygon points='28,8 38,14 38,26 28,32 18,26 18,14' stroke='%238b949e' stroke-width='0.5' fill='none' opacity='0.05'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 56px 48px;
+}
+
+/* Interlocking squares — subtle card backgrounds */
+.pattern-interlocking {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48'%3E%3Cpolygon points='24,2 46,24 24,46 2,24' stroke='%238b949e' stroke-width='0.75' fill='none' opacity='0.07'/%3E%3Crect x='10' y='10' width='28' height='28' stroke='%238b949e' stroke-width='0.75' fill='none' opacity='0.06'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 48px 48px;
+}
+
+/* ============================================
+   ERA-SPECIFIC PATTERN COLORS
+   Apply [data-era="kenabian"] etc. to parent
+   ============================================ */
+[data-era="pra-islam"] .pattern-star-cross,
+[data-era="pra-islam"] .pattern-hexagonal,
+[data-era="pra-islam"] .pattern-interlocking { filter: hue-rotate(0deg); }
+
+[data-era="kenabian"] .pattern-star-cross,
+[data-era="kenabian"] .pattern-hexagonal,
+[data-era="kenabian"] .pattern-interlocking { filter: hue-rotate(120deg) saturate(1.5); }
+
+[data-era="rashidin"] .pattern-star-cross,
+[data-era="rashidin"] .pattern-hexagonal,
+[data-era="rashidin"] .pattern-interlocking { filter: hue-rotate(200deg) saturate(1.5); }
+
+[data-era="umayyah"] .pattern-star-cross,
+[data-era="umayyah"] .pattern-hexagonal,
+[data-era="umayyah"] .pattern-interlocking { filter: hue-rotate(40deg) saturate(2); }
+
+[data-era="abbasiyah"] .pattern-star-cross,
+[data-era="abbasiyah"] .pattern-hexagonal,
+[data-era="abbasiyah"] .pattern-interlocking { filter: hue-rotate(260deg) saturate(1.5); }
+
+[data-era="fragmentasi"] .pattern-star-cross,
+[data-era="fragmentasi"] .pattern-hexagonal,
+[data-era="fragmentasi"] .pattern-interlocking { filter: hue-rotate(320deg) saturate(1.5); }
+
+[data-era="kemunduran"] .pattern-star-cross,
+[data-era="kemunduran"] .pattern-hexagonal,
+[data-era="kemunduran"] .pattern-interlocking { filter: hue-rotate(0deg) saturate(2) brightness(0.8); }
+
+/* ============================================
+   DECORATIVE ELEMENTS
+   ============================================ */
+
+/* Arabesque divider — use as <hr class="divider-arabesque"> */
+.divider-arabesque {
+  border: none;
+  height: 24px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='24'%3E%3Ccircle cx='100' cy='12' r='6' stroke='%238b949e' stroke-width='0.8' fill='none' opacity='0.15'/%3E%3Ccircle cx='100' cy='12' r='3' stroke='%238b949e' stroke-width='0.5' fill='none' opacity='0.1'/%3E%3Cpath d='M94,12 Q80,4 66,12 Q52,20 38,12 Q24,4 10,12 Q4,16 0,12' stroke='%238b949e' stroke-width='0.8' fill='none' opacity='0.12'/%3E%3Cpath d='M106,12 Q120,4 134,12 Q148,20 162,12 Q176,4 190,12 Q196,16 200,12' stroke='%238b949e' stroke-width='0.8' fill='none' opacity='0.12'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200px 24px;
+  margin: 32px auto;
+}
+
+/* ============================================
+   ERA BADGE COMPONENT
+   ============================================ */
+.era-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.era-badge[data-era="pra-islam"]    { background: #8b949e26; color: #8b949e; }
+.era-badge[data-era="kenabian"]     { background: #3fb95026; color: #3fb950; }
+.era-badge[data-era="rashidin"]     { background: #58a6ff26; color: #58a6ff; }
+.era-badge[data-era="umayyah"]     { background: #d2992226; color: #d29922; }
+.era-badge[data-era="abbasiyah"]   { background: #bc8cff26; color: #bc8cff; }
+.era-badge[data-era="fragmentasi"] { background: #f778ba26; color: #f778ba; }
+.era-badge[data-era="kemunduran"]  { background: #da363326; color: #da3633; }
+
+/* ============================================
+   CATEGORY ICON STYLING
+   ============================================ */
+.category-icon {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  color: var(--text-secondary);
+}
+
+/* ============================================
+   MODE TOGGLE
+   ============================================ */
+.mode-toggle {
+  position: relative;
+  width: 96px;
+  height: 48px;
+  border-radius: 24px;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: background 300ms ease;
+}
+
+.mode-toggle[data-active="children"] {
+  background: #fdf6e3;
+  border-color: #d29922;
+}
+
+.mode-toggle .toggle-thumb {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--text-primary);
+  transition: transform 300ms ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mode-toggle[data-active="children"] .toggle-thumb {
+  transform: translateX(48px);
+  background: #d29922;
+}
+
+/* ============================================
+   DALIL CARD
+   ============================================ */
+.dalil-card {
+  background: var(--bg-tertiary);
+  border-radius: 8px;
+  padding: 24px;
+  border-left: 3px solid var(--era-kenabian);
+  text-align: center;
+}
+
+.dalil-card.hadits {
+  border-left-color: var(--era-rashidin);
+}
+
+.dalil-card .arabic {
+  font-family: 'Amiri', serif;
+  font-size: 28px;
+  line-height: 2;
+  direction: rtl;
+  margin-bottom: 16px;
+}
+
+.dalil-card .translation {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+.dalil-card .source {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  color: var(--text-secondary);
+  text-align: right;
+}
+
+/* ============================================
+   EVENT CARD
+   ============================================ */
+.event-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 20px;
+  border-left: 3px solid var(--era-kenabian);
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+
+.event-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+[data-mode="children"] .event-card {
+  border-radius: 16px;
+  padding: 28px;
+}
+
+/* ============================================
+   TIMELINE
+   ============================================ */
+.timeline-line {
+  width: 2px;
+  background: var(--border-color);
+}
+
+.timeline-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid white;
+  background: var(--era-kenabian);
+}
+
+.timeline-dot.era-change {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  transform: rotate(45deg);
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 currentColor; }
+  50% { box-shadow: 0 0 0 6px transparent; }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <!-- Islamic 8-pointed star & cross pattern tile -->
+  <defs>
+    <pattern id="star-cross" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <!-- 8-pointed star -->
+      <polygon points="30,4 34.5,21.5 52,14 40.5,27 56,30 40.5,33 52,46 34.5,38.5 30,56 25.5,38.5 8,46 19.5,33 4,30 19.5,27 8,14 25.5,21.5" stroke="currentColor" stroke-width="0.75" fill="none" opacity="0.08"/>
+      <!-- Cross connectors -->
+      <line x1="30" y1="0" x2="30" y2="4" stroke="currentColor" stroke-width="0.5" opacity="0.06"/>
+      <line x1="30" y1="56" x2="30" y2="60" stroke="currentColor" stroke-width="0.5" opacity="0.06"/>
+      <line x1="0" y1="30" x2="4" y2="30" stroke="currentColor" stroke-width="0.5" opacity="0.06"/>
+      <line x1="56" y1="30" x2="60" y2="30" stroke="currentColor" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="60" height="60" fill="url(#star-cross)"/>
+</svg>

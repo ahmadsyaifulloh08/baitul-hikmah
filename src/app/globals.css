@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+@layer base {
+  :root {
+    --bg-primary: #faf8f5;
+    --bg-secondary: #f0ece4;
+    --text-primary: #1a1a1a;
+    --text-secondary: #555;
+    --border: #e0dcd4;
+  }
+  .dark {
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
+    --text-primary: #e6edf3;
+    --text-secondary: #8b949e;
+    --border: #30363d;
+  }
+  body {
+    @apply bg-[var(--bg-primary)] text-[var(--text-primary)] font-body;
+  }
+}
+
+@layer components {
+  .islamic-pattern {
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%239C92AC' fill-opacity='0.06'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+  .geometric-border {
+    border-image: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 5px,
+      rgba(188, 140, 255, 0.2) 5px,
+      rgba(188, 140, 255, 0.2) 10px
+    ) 10;
+  }
+}
+
+/* Timeline scrollbar */
+.timeline-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.timeline-scroll::-webkit-scrollbar-track {
+  @apply bg-[var(--bg-secondary)] rounded-full;
+}
+.timeline-scroll::-webkit-scrollbar-thumb {
+  @apply bg-[var(--border)] rounded-full;
+}

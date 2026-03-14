@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="24" viewBox="0 0 200 24" fill="none">
+  <!-- Arabesque horizontal divider — repeatable -->
+  <!-- Central medallion -->
+  <circle cx="100" cy="12" r="6" stroke="currentColor" stroke-width="0.8" fill="none" opacity="0.15"/>
+  <circle cx="100" cy="12" r="3" stroke="currentColor" stroke-width="0.5" fill="none" opacity="0.1"/>
+  <!-- Vine scrolls left -->
+  <path d="M94,12 Q80,4 66,12 Q52,20 38,12 Q24,4 10,12 Q4,16 0,12" stroke="currentColor" stroke-width="0.8" fill="none" opacity="0.12"/>
+  <path d="M94,12 Q80,20 66,12 Q52,4 38,12 Q24,20 10,12" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.06"/>
+  <!-- Vine scrolls right -->
+  <path d="M106,12 Q120,4 134,12 Q148,20 162,12 Q176,4 190,12 Q196,16 200,12" stroke="currentColor" stroke-width="0.8" fill="none" opacity="0.12"/>
+  <path d="M106,12 Q120,20 134,12 Q148,4 162,12 Q176,20 190,12" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.06"/>
+  <!-- Leaf accents -->
+  <ellipse cx="66" cy="10" rx="4" ry="2" transform="rotate(-20 66 10)" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.08"/>
+  <ellipse cx="134" cy="10" rx="4" ry="2" transform="rotate(20 134 10)" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.08"/>
+  <ellipse cx="38" cy="14" rx="4" ry="2" transform="rotate(15 38 14)" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.08"/>
+  <ellipse cx="162" cy="14" rx="4" ry="2" transform="rotate(-15 162 14)" stroke="currentColor" stroke-width="0.4" fill="none" opacity="0.08"/>
+</svg>
