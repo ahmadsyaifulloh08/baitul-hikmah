@@ -1,161 +1,89 @@
 {
   "id": "e01",
-  "slug": "tahun-gajah",
-  "title": {
-    "id": "Tahun Gajah dan Kelahiran Nabi Muhammad SAW",
-    "en": "The Year of the Elephant and the Birth of Prophet Muhammad ﷺ"
-  },
-  "year": 570,
-  "year_hijri_approx": null,
-  "era": "pra-islam",
-  "category": "sirah-nabawiyyah",
-  "regions": [
-    {
-      "name": "Makkah",
-      "modern_country": "Saudi Arabia",
-      "coordinates": {
-        "lat": 21.4225,
-        "lng": 39.8262
-      }
-    },
-    {
-      "name": "Yaman (Sana'a)",
-      "modern_country": "Yemen",
-      "coordinates": {
-        "lat": 15.3694,
-        "lng": 44.191
-      }
-    }
+  "title_id": "Tahun Gajah dan Kelahiran Nabi Muhammad SAW",
+  "title_en": "The Year of the Elephant and the Birth of Prophet Muhammad ﷺ",
+  "year": "570 M",
+  "era": "Pra-Islam",
+  "location": "Makkah, Jazirah Arab",
+  "tags": [
+    "tahun-gajah",
+    "amul-fil",
+    "kelahiran-nabi",
+    "abrahah",
+    "kaabah",
+    "surah-al-fil",
+    "pra-islam",
+    "makkah",
+    "quraisy"
   ],
-  "figures": [
+  "sources": [
     {
-      "name": "Nabi Muhammad SAW",
-      "name_ar": "محمد ﷺ",
-      "role": "Nabi dan Rasul terakhir, lahir pada Tahun Gajah"
+      "id": "ibn-hisham",
+      "title": "Sirah Nabawiyyah",
+      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "type": "primary"
     },
     {
-      "name": "Abdul Muttalib bin Hasyim",
-      "name_ar": "عبد المطلب بن هاشم",
-      "role": "Kakek Nabi Muhammad SAW, pemimpin Bani Hasyim, penjaga Ka'bah"
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum (The Sealed Nectar)",
+      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "type": "primary"
     },
     {
-      "name": "Abdullah bin Abdul Muttalib",
-      "name_ar": "عبد الله بن عبد المطلب",
-      "role": "Ayah Nabi Muhammad SAW"
+      "id": "tafsir-ibn-kathir",
+      "title": "Tafsir Al-Quran Al-Azhim — Surah Al-Fil",
+      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "type": "primary"
     },
     {
-      "name": "Aminah binti Wahb",
-      "name_ar": "آمنة بنت وهب",
-      "role": "Ibu Nabi Muhammad SAW"
-    },
-    {
-      "name": "Abrahah al-Asyram",
-      "name_ar": "أبرهة الأشرم",
-      "role": "Gubernur Habasyah di Yaman, pemimpin pasukan gajah"
-    }
-  ],
-  "significance": {
-    "id": "Peristiwa perlindungan ilahiyyah terhadap Ka'bah dari serangan pasukan gajah Abrahah, dan kelahiran Nabi Muhammad SAW pada tahun yang sama — menandai dimulainya era baru dalam sejarah umat manusia.",
-    "en": "The divine protection of the Ka'bah from Abrahah's elephant army, and the birth of Prophet Muhammad ﷺ in the same year — marking the dawn of a new era in human history."
-  },
-  "dalil": [
-    {
-      "type": "quran",
-      "reference": "105:1-5",
-      "surah": "Al-Fil",
-      "description": "Surah yang mengabadikan peristiwa penghancuran pasukan gajah"
-    },
-    {
-      "type": "hadith",
-      "source": "Sahih Muslim",
-      "number": 1162,
-      "book": "Kitab al-Siyam",
-      "description": "Hadits Abu Qatadah RA tentang kelahiran Nabi di hari Senin",
-      "grade": "sahih"
-    }
-  ],
-  "bibliography": [
-    {
-      "author": "Ibn Hisham, Abu Muhammad Abdul Malik",
-      "title": "al-Sirah al-Nabawiyyah",
-      "publisher": "Dar al-Ma'rifah",
-      "city": "Beirut",
-      "type": "sirah"
-    },
-    {
-      "author": "Al-Mubarakfuri, Shafiyyurrahman",
-      "title": "al-Rahiq al-Makhtum (The Sealed Nectar)",
-      "publisher": "Dar al-Salam",
-      "city": "Riyadh",
-      "year": 1976,
-      "type": "sirah"
-    },
-    {
-      "author": "Ibn Kathir, Ismail bin Umar",
-      "title": "Tafsir al-Qur'an al-'Azhim",
-      "publisher": "Dar Taybah",
-      "city": "Riyadh",
-      "type": "tafsir"
-    },
-    {
-      "author": "Ibn Kathir, Ismail bin Umar",
-      "title": "al-Bidayah wa al-Nihayah",
-      "publisher": "Dar al-Fikr",
-      "city": "Beirut",
-      "type": "tarikh"
-    },
-    {
-      "author": "Al-Thabari, Muhammad bin Jarir",
-      "title": "Jami' al-Bayan fi Ta'wil al-Qur'an",
-      "type": "tafsir"
-    },
-    {
-      "author": "Al-Thabari, Muhammad bin Jarir",
-      "title": "Tarikh al-Rusul wa al-Muluk",
-      "type": "tarikh"
-    },
-    {
-      "author": "Muslim bin al-Hajjaj",
-      "title": "Sahih Muslim",
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
       "type": "hadith"
     },
     {
-      "author": "Al-Ghazali, Abu Hamid",
-      "title": "Ihya' Ulum al-Din",
-      "publisher": "Dar al-Ma'rifah",
-      "city": "Beirut",
-      "type": "tasawuf"
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Imam Muslim (w. 261 H / 875 M)",
+      "type": "hadith"
     },
     {
-      "author": "Ibn Rushd, Abu al-Walid",
-      "title": "Tahafut al-Tahafut",
-      "publisher": "Dar al-Ma'arif",
-      "city": "Cairo",
-      "type": "falsafah"
-    },
-    {
-      "author": "Ibn Taimiyah, Taqiyuddin Ahmad",
-      "title": "Minhaj al-Sunnah al-Nabawiyyah",
-      "type": "aqidah"
-    },
-    {
-      "author": "Ibn Taimiyah, Taqiyuddin Ahmad",
-      "title": "Iqtida' al-Shirath al-Mustaqim",
-      "publisher": "Dar Alam al-Kutub",
-      "city": "Riyadh",
-      "type": "aqidah"
+      "id": "tabaqat-ibn-sad",
+      "title": "Tabaqat al-Kubra",
+      "author": "Ibn Sa'd (w. 230 H / 845 M)",
+      "type": "primary"
     }
   ],
-  "content_files": {
-    "adult-id": "adult-id.mdx",
-    "adult-en": "adult-en.mdx",
-    "children-id": "children-id.mdx",
-    "children-en": "children-en.mdx"
-  },
-  "methodology": {
-    "approach": "Manhaj Bukhari → Elaborasi",
-    "validation": ["isnad", "matan", "jarh-wa-tadil", "tawatur"],
-    "elaboration": ["al-ghazali-synthesis", "ibn-rushd-rationalism", "ibn-taimiyah-critical"],
-    "notes": "Riwayat dha'if ditandai. Riwayat maudhu' ditolak. Wallahu a'lam."
-  }
+  "characters": [
+    {
+      "name_id": "Nabi Muhammad SAW",
+      "name_en": "Prophet Muhammad ﷺ",
+      "role": "protagonist"
+    },
+    {
+      "name_id": "Abdullah bin Abdul Muthalib",
+      "name_en": "Abdullah ibn Abd al-Muttalib",
+      "role": "father"
+    },
+    {
+      "name_id": "Aminah binti Wahb",
+      "name_en": "Aminah bint Wahb",
+      "role": "mother"
+    },
+    {
+      "name_id": "Abdul Muthalib",
+      "name_en": "Abd al-Muttalib",
+      "role": "grandfather"
+    },
+    {
+      "name_id": "Abrahah al-Asyram",
+      "name_en": "Abraha al-Ashram",
+      "role": "antagonist"
+    },
+    {
+      "name_id": "Halimah as-Sa'diyyah",
+      "name_en": "Halimah al-Sa'diyyah",
+      "role": "wet-nurse"
+    }
+  ]
 }

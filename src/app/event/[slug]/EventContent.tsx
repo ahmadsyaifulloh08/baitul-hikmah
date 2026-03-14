@@ -4,16 +4,64 @@ import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { getEra, getCategory, slugify, events, type Event } from '@/lib/data'
 import Header from '@/components/Header'
+import eventContentData from '@/data/event-content.json'
+import eventContentMap from '@/data/event-content-map.json'
 
 const categoryEmoji: Record<string, string> = {
   prophetic: '☆', political: '♛', knowledge: '≡',
   military: '⚔', heritage: '◆', decline: '↓',
 }
 
+// Simple markdown to HTML (headers, bold, italic, lists, paragraphs)
+function renderMarkdown(md: string) {
+  const lines = md.split('\n')
+  let html = ''
+  let inList = false
+
+  for (const line of lines) {
+    const trimmed = line.trim()
+    if (!trimmed) { 
+      if (inList) { html += '</ul>'; inList = false }
+      continue 
+    }
+    if (trimmed.startsWith('# ')) {
+      html += `<h1 class="font-heading text-2xl font-bold mt-8 mb-4">${trimmed.slice(2)}</h1>`
+    } else if (trimmed.startsWith('## ')) {
+      html += `<h2 class="font-heading text-xl font-semibold mt-6 mb-3">${trimmed.slice(3)}</h2>`
+    } else if (trimmed.startsWith('### ')) {
+      html += `<h3 class="font-heading text-lg font-semibold mt-4 mb-2">${trimmed.slice(4)}</h3>`
+    } else if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
+      if (!inList) { html += '<ul class="list-disc list-inside space-y-1 mb-4">'; inList = true }
+      html += `<li class="text-sm text-[var(--text-secondary)]">${formatInline(trimmed.slice(2))}</li>`
+    } else if (/^\d+\./.test(trimmed)) {
+      if (!inList) { html += '<ol class="list-decimal list-inside space-y-1 mb-4">'; inList = true }
+      html += `<li class="text-sm text-[var(--text-secondary)]">${formatInline(trimmed.replace(/^\d+\.\s*/, ''))}</li>`
+    } else {
+      if (inList) { html += '</ul>'; inList = false }
+      html += `<p class="text-[var(--text-secondary)] leading-relaxed mb-4">${formatInline(trimmed)}</p>`
+    }
+  }
+  if (inList) html += '</ul>'
+  return html
+}
+
+function formatInline(text: string) {
+  return text
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`(.+?)`/g, '<code class="text-sm bg-[var(--bg-secondary)] px-1 rounded">$1</code>')
+}
+
 export default function EventContent({ event }: { event: Event }) {
   const [storyMode, setStoryMode] = useState(false)
   const era = getEra(event.era)
   const cat = getCategory(event.category)
+  
+  // Load rich content if available
+  const slug = slugify(event.title)
+  const contentDir = (eventContentMap as Record<string, string>)[slug]
+  const content = contentDir ? (eventContentData as any)[contentDir] : null
+  const hasRichContent = !!content
 
   return (
     <main className="min-h-screen">
@@ -60,26 +108,33 @@ export default function EventContent({ event }: { event: Event }) {
 
         {storyMode ? (
           <motion.div key="story" initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-            className="bg-amber-50 dark:bg-amber-900/10 rounded-2xl p-6 border border-amber-200 dark:border-amber-800 prose prose-amber dark:prose-invert max-w-none">
-            <p className="text-lg italic font-heading mb-4">
-              ✨ Hai nak, malam ini kita akan bercerita tentang...
-            </p>
-            <h3>🧑 Siapa tokohnya?</h3>
-            <p>{event.figures.join(', ') || 'Tokoh-tokoh dalam peristiwa ini'}</p>
-            <h3>📖 Ceritanya...</h3>
-            <p>{event.desc}</p>
-            <h3>🌟 Pelajarannya...</h3>
-            <p className="italic text-[var(--text-secondary)]">[Konten dongeng akan ditambahkan oleh Researcher]</p>
-            <h3>🤲 Doa & Dalil</h3>
-            <p className="italic text-[var(--text-secondary)]">[Dalil dari sumber primer akan ditambahkan]</p>
+            className="bg-amber-50 dark:bg-amber-900/10 rounded-2xl p-6 border border-amber-200 dark:border-amber-800 max-w-none">
+            {hasRichContent && content['children-id'] ? (
+              <div dangerouslySetInnerHTML={{ __html: renderMarkdown(content['children-id']) }} />
+            ) : (
+              <>
+                <p className="text-lg italic font-heading mb-4">
+                  ✨ Hai nak, malam ini kita akan bercerita tentang...
+                </p>
+                <h3>🧑 Siapa tokohnya?</h3>
+                <p>{event.figures.join(', ') || 'Tokoh-tokoh dalam peristiwa ini'}</p>
+                <h3>📖 Ceritanya...</h3>
+                <p>{event.desc}</p>
+                <p className="italic text-[var(--text-secondary)] mt-4">[Konten dongeng sedang disiapkan oleh Researcher]</p>
+              </>
+            )}
           </motion.div>
         ) : (
           <motion.div key="adult" initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-            className="prose dark:prose-invert max-w-none">
-            <section className="mb-8">
-              <h2 className="font-heading text-xl font-semibold mb-3">Narasi</h2>
-              <p className="text-[var(--text-secondary)] leading-relaxed">{event.desc}</p>
-            </section>
+            className="max-w-none">
+            {hasRichContent && content['adult-id'] ? (
+              <div dangerouslySetInnerHTML={{ __html: renderMarkdown(content['adult-id']) }} />
+            ) : (
+              <section className="mb-8">
+                <h2 className="font-heading text-xl font-semibold mb-3">Narasi</h2>
+                <p className="text-[var(--text-secondary)] leading-relaxed">{event.desc}</p>
+              </section>
+            )}
 
             {event.figures.length > 0 && (
               <section className="mb-8">

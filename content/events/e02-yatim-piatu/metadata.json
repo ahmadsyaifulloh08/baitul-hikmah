@@ -1,0 +1,142 @@
+{
+  "id": "e02",
+  "title_id": "Yatim Piatu: Wafat Ayah, Ibu, dan Kakek Nabi Muhammad SAW",
+  "title_en": "Orphanhood: The Death of the Father, Mother, and Grandfather of Prophet Muhammad ﷺ",
+  "year": "576-578 M",
+  "era": "Pra-Islam",
+  "location": "Makkah - Madinah, Jazirah Arab",
+  "tags": [
+    "yatim-piatu",
+    "orphanhood",
+    "abdullah-bin-abdul-muthalib",
+    "aminah-binti-wahab",
+    "abdul-muthalib",
+    "halimah-sadiyah",
+    "abu-thalib",
+    "bani-sad",
+    "penyusuan",
+    "wet-nursing",
+    "abwa",
+    "ummu-aiman",
+    "surah-ad-dhuha",
+    "syaqq-al-shadr"
+  ],
+  "sources": [
+    {
+      "id": "ibn-hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
+      "type": "primary"
+    },
+    {
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum (The Sealed Nectar)",
+      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "type": "primary"
+    },
+    {
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Imam al-Bukhari",
+      "type": "hadith",
+      "references": ["no. 2262", "no. 5304"]
+    },
+    {
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Imam Muslim",
+      "type": "hadith",
+      "references": ["Kitab al-Iman (syaqq al-shadr)", "Kitab al-Jana'iz (ziarah kubur Aminah)"]
+    },
+    {
+      "id": "tabaqat-ibn-sad",
+      "title": "Al-Tabaqat al-Kubra",
+      "author": "Ibn Sa'd",
+      "type": "primary"
+    },
+    {
+      "id": "dalail-nubuwwah-bayhaqi",
+      "title": "Dalail al-Nubuwwah",
+      "author": "Al-Bayhaqi",
+      "type": "primary"
+    },
+    {
+      "id": "zad-al-maad",
+      "title": "Zad al-Ma'ad fi Hady Khair al-'Ibad",
+      "author": "Ibn Qayyim al-Jauziyyah",
+      "type": "secondary"
+    }
+  ],
+  "characters": [
+    {
+      "name_id": "Muhammad ﷺ",
+      "name_en": "Muhammad ﷺ",
+      "role": "Nabi & Rasul / Prophet & Messenger"
+    },
+    {
+      "name_id": "Abdullah bin Abdul Muthalib",
+      "name_en": "Abdullah ibn Abd al-Muttalib",
+      "role": "Ayah Nabi / Prophet's Father"
+    },
+    {
+      "name_id": "Aminah binti Wahab",
+      "name_en": "Aminah bint Wahb",
+      "role": "Ibu Nabi / Prophet's Mother"
+    },
+    {
+      "name_id": "Abdul Muthalib bin Hasyim",
+      "name_en": "Abd al-Muttalib ibn Hashim",
+      "role": "Kakek Nabi / Prophet's Grandfather"
+    },
+    {
+      "name_id": "Halimah As-Sa'diyah",
+      "name_en": "Halimah al-Sa'diyyah",
+      "role": "Ibu Susu / Wet-nurse"
+    },
+    {
+      "name_id": "Abu Thalib bin Abdul Muthalib",
+      "name_en": "Abu Talib ibn Abd al-Muttalib",
+      "role": "Paman & Pengasuh / Uncle & Guardian"
+    },
+    {
+      "name_id": "Ummu Aiman (Barakah)",
+      "name_en": "Umm Ayman (Barakah)",
+      "role": "Pengasuh setia / Faithful caretaker"
+    },
+    {
+      "name_id": "Al-Harits bin Abdul Uzza",
+      "name_en": "Al-Harith ibn Abd al-Uzza",
+      "role": "Suami Halimah / Halimah's husband"
+    }
+  ],
+  "quran_references": [
+    {
+      "surah": "Ad-Dhuha",
+      "chapter": 93,
+      "verses": "6-8",
+      "topic": "Ketimupiatu Nabi dan perlindungan Allah"
+    },
+    {
+      "surah": "Ad-Dhuha",
+      "chapter": 93,
+      "verses": "9",
+      "topic": "Larangan menindas anak yatim"
+    },
+    {
+      "surah": "Al-An'am",
+      "chapter": 6,
+      "verses": "152",
+      "topic": "Perlindungan harta anak yatim"
+    },
+    {
+      "surah": "An-Nisa",
+      "chapter": 4,
+      "verses": "10",
+      "topic": "Ancaman bagi pemakan harta yatim"
+    }
+  ],
+  "connects_to": {
+    "previous": "e01-tahun-gajah",
+    "next": "e03"
+  }
+}
