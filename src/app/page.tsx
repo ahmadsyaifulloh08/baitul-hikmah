@@ -19,7 +19,8 @@ export default function Home() {
           fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
           marginBottom: 8, lineHeight: 1.2,
         }}>
-          🏛 Baitul Hikmah
+          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={48} height={48} style={{ display: 'inline-block', verticalAlign: 'middle', marginRight: 8 }} />
+          Baitul Hikmah
         </h2>
         <p style={{
           fontSize: 'clamp(0.85rem, 2vw, 1.1rem)', color: 'var(--text-secondary)',
@@ -66,7 +67,7 @@ export default function Home() {
       {mode === 'timeline' ? <Timeline /> : <MapView />}
       {mode === 'timeline' && (
         <footer className="text-center py-8 text-xs text-[var(--text-secondary)] border-t border-[var(--border)]">
-          <p>🏛 Baitul Hikmah — Menelusuri Jejak Peradaban Islam</p>
+          <p>Baitul Hikmah — Menelusuri Jejak Peradaban Islam</p>
           <p className="mt-1">Manhaj Bukhari · Riset Sahih · Open Source</p>
         </footer>
       )}

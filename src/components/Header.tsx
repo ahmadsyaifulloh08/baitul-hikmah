@@ -31,7 +31,7 @@ export default function Header({ mode = 'timeline', onModeChange }: HeaderProps)
     <header className="sticky top-0 z-50 bg-[var(--bg-primary)]/80 backdrop-blur-md border-b border-[var(--border)]">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <a href="/" className="flex items-center gap-2">
-          <span className="text-2xl">🏛</span>
+          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={32} height={32} />
           <div>
             <h1 className="font-heading text-lg font-bold leading-tight">Baitul Hikmah</h1>
             <p className="text-[10px] text-[var(--text-secondary)] leading-none">Jejak Peradaban Islam</p>
