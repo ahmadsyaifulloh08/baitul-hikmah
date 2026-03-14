@@ -7,37 +7,7 @@ import { Protocol } from 'pmtiles'
 import { events, eras, categories, regions, slugify, type Era } from '@/lib/data'
 import { getMapEvents, eventsToGeoJSON, eraColors, getEraBoundaries, regionCoordinates, type MapEvent } from '@/lib/map-data'
 
-// ─── Era Filter Bar ───
-function EraFilter({ selectedEra, onSelect }: { selectedEra: string | null; onSelect: (id: string | null) => void }) {
-  return (
-    <div className="flex flex-wrap gap-1.5 p-2">
-      <button
-        onClick={() => onSelect(null)}
-        className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all ${
-          !selectedEra
-            ? 'bg-[var(--text-primary)] text-[var(--bg-primary)]'
-            : 'bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
-        }`}
-      >
-        Semua Era
-      </button>
-      {eras.map(era => (
-        <button
-          key={era.id}
-          onClick={() => onSelect(era.id === selectedEra ? null : era.id)}
-          className={`px-2.5 py-1 rounded-full text-xs font-medium transition-all ${
-            era.id === selectedEra
-              ? 'text-white'
-              : 'bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
-          }`}
-          style={era.id === selectedEra ? { backgroundColor: era.color } : undefined}
-        >
-          {era.name}
-        </button>
-      ))}
-    </div>
-  )
-}
+// Inline filter components removed - using same style as Timeline directly in JSX
 
 // ─── Year Slider ───
 function YearSlider({ year, onChange }: { year: number; onChange: (y: number) => void }) {
@@ -113,51 +83,7 @@ const regionCenters: Record<string, { center: [number, number]; zoom: number }> 
   china: { center: [105, 35], zoom: 4.5 },
 }
 
-// Category filter
-function CategoryFilter({ selected, onSelect }: { selected: string | null; onSelect: (id: string | null) => void }) {
-  return (
-    <div className="flex flex-wrap gap-1.5 px-2">
-      <span className="text-[10px] text-[var(--text-secondary)] self-center mr-1">Kategori:</span>
-      {categories.map(cat => (
-        <button
-          key={cat.id}
-          onClick={() => onSelect(cat.id === selected ? null : cat.id)}
-          className={`px-2 py-0.5 rounded-full text-[10px] font-medium transition-all ${
-            cat.id === selected
-              ? 'text-white'
-              : 'bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
-          }`}
-          style={cat.id === selected ? { backgroundColor: cat.color } : undefined}
-        >
-          {cat.emoji} {cat.name}
-        </button>
-      ))}
-    </div>
-  )
-}
-
-// Region filter
-function RegionFilter({ selected, onSelect }: { selected: string | null; onSelect: (id: string | null) => void }) {
-  return (
-    <div className="flex flex-wrap gap-1.5 px-2 pb-2">
-      <span className="text-[10px] text-[var(--text-secondary)] self-center mr-1">Wilayah:</span>
-      {regions.map(reg => (
-        <button
-          key={reg.id}
-          onClick={() => onSelect(reg.id === selected ? null : reg.id)}
-          className={`px-2 py-0.5 rounded-full text-[10px] font-medium transition-all ${
-            reg.id === selected
-              ? 'text-white'
-              : 'bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
-          }`}
-          style={reg.id === selected ? { backgroundColor: reg.color } : undefined}
-        >
-          {reg.name}
-        </button>
-      ))}
-    </div>
-  )
-}
+// Filters now inline in JSX (same style as Timeline)
 
 interface MapViewProps {
   search?: string
@@ -424,14 +350,70 @@ export default function MapView({ search }: MapViewProps = {}) {
 
       {/* Controls overlay */}
       <div className="absolute top-0 left-0 right-0 z-10 bg-[var(--bg-primary)]/90 backdrop-blur-md border-b border-[var(--border)]">
-        <EraFilter selectedEra={selectedEra} onSelect={setSelectedEra} />
-        <CategoryFilter selected={selectedCategory} onSelect={setSelectedCategory} />
-        <RegionFilter selected={selectedRegion} onSelect={(id) => {
-          setSelectedRegion(id)
-          if (!id && mapRef.current) {
-            mapRef.current.flyTo({ center: [42, 28], zoom: 3, duration: 1000 })
-          }
-        }} />
+        <div style={{ maxWidth: 1400, margin: '0 auto', padding: '12px 12px 0' }}>
+          {/* Era pills - same as Timeline */}
+          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
+            <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Era:</span>
+            {eras.map(era => {
+              const active = selectedEra === era.id
+              return (
+                <button key={era.id} onClick={() => setSelectedEra(active ? null : era.id)} style={{
+                  fontSize: 11, padding: '3px 10px', borderRadius: 14,
+                  border: active ? '1px solid transparent' : '1px solid var(--border)',
+                  background: active ? era.color : 'var(--surface2)',
+                  color: active ? '#fff' : 'var(--text2)',
+                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                }}>
+                  {era.name}
+                </button>
+              )
+            })}
+          </div>
+
+          {/* Category pills - same as Timeline */}
+          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
+            <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Kategori:</span>
+            {categories.map(cat => {
+              const active = selectedCategory === cat.id
+              return (
+                <button key={cat.id} onClick={() => setSelectedCategory(active ? null : cat.id)} style={{
+                  fontSize: 11, padding: '3px 10px', borderRadius: 14,
+                  border: active ? '1px solid transparent' : '1px solid var(--border)',
+                  background: active ? cat.color : 'var(--surface2)',
+                  color: active ? '#fff' : 'var(--text2)',
+                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                }}>
+                  {cat.emoji} {cat.name}
+                </button>
+              )
+            })}
+          </div>
+
+          {/* Region pills - same as Timeline + map panning */}
+          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 12, alignItems: 'center' }}>
+            <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Wilayah:</span>
+            {regions.map(reg => {
+              const active = selectedRegion === reg.id
+              return (
+                <button key={reg.id} onClick={() => {
+                  const newId = active ? null : reg.id
+                  setSelectedRegion(newId)
+                  if (!newId && mapRef.current) {
+                    mapRef.current.flyTo({ center: [42, 28], zoom: 3, duration: 1000 })
+                  }
+                }} style={{
+                  fontSize: 11, padding: '3px 10px', borderRadius: 14,
+                  border: active ? '1px solid transparent' : '1px solid var(--border)',
+                  background: active ? reg.color : 'var(--surface2)',
+                  color: active ? '#fff' : 'var(--text2)',
+                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                }}>
+                  {reg.name}
+                </button>
+              )
+            })}
+          </div>
+        </div>
         <YearSlider year={sliderYear} onChange={setSliderYear} />
       </div>
 

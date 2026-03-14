@@ -16,11 +16,13 @@ export default function Home() {
       <Header />
       {/* Hero section */}
       <div style={{ textAlign: 'center', padding: '40px 16px 0' }}>
+        <div style={{ marginBottom: 12 }}>
+          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={80} height={80} style={{ display: 'block', margin: '0 auto' }} />
+        </div>
         <h2 className="font-heading" style={{
           fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
           marginBottom: 8, lineHeight: 1.2,
         }}>
-          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={48} height={48} style={{ display: 'inline-block', verticalAlign: 'middle', marginRight: 8 }} />
           Baitul Hikmah
         </h2>
         <p style={{

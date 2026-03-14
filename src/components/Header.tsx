@@ -46,6 +46,9 @@ export default function Header({ mode = 'timeline', onModeChange }: HeaderProps)
           >
             {dark ? '☀️' : '🌙'}
           </button>
+          <button className="text-sm px-3 py-1.5 rounded-lg border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors">
+            EN
+          </button>
         </div>
       </div>
     </header>
