@@ -148,8 +148,12 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
 // ============================================================
 // MAIN TIMELINE EXPORT
 // ============================================================
-export default function Timeline() {
-  const [search, setSearch] = useState('')
+interface TimelineProps {
+  search?: string
+}
+
+export default function Timeline({ search: externalSearch }: TimelineProps = {}) {
+  const search = externalSearch || ''
   const [hiddenCategories, setHiddenCategories] = useState<Set<string>>(new Set())
   const [hiddenEras, setHiddenEras] = useState<Set<string>>(new Set())
   const [hiddenRegions, setHiddenRegions] = useState<Set<string>>(new Set())
@@ -212,25 +216,7 @@ export default function Timeline() {
 
   return (
     <div>
-      {/* ==================== SEARCH BAR ==================== */}
-      <div style={{ textAlign: 'center', padding: '16px 16px 0' }}>
-        <div style={{ maxWidth: 640, margin: '0 auto' }}>
-          <input
-            type="text"
-            placeholder="🔍 Cari peristiwa, tokoh, atau kata kunci..."
-            value={search}
-            onChange={e => setSearch(e.target.value)}
-            style={{
-              width: '100%', padding: '14px 20px', borderRadius: 12,
-              border: '2px solid var(--border)', background: 'var(--bg-secondary)',
-              color: 'var(--text-primary)', fontSize: 16, outline: 'none',
-              transition: 'border-color 0.2s',
-            }}
-            onFocus={e => e.currentTarget.style.borderColor = '#58a6ff'}
-            onBlur={e => e.currentTarget.style.borderColor = 'var(--border)'}
-          />
-        </div>
-      </div>
+      {/* Search bar moved to parent (page.tsx) */}
 
       {/* ==================== FILTER PILLS ==================== */}
       <div style={{ maxWidth: 1400, margin: '0 auto', padding: '12px 12px 0' }}>
