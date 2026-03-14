@@ -133,39 +133,20 @@ export default function MapView() {
       style: {
         version: 8,
         sources: {
-          'protomaps': {
-            type: 'vector',
-            url: 'pmtiles://https://build.protomaps.com/20230408.pmtiles',
-            attribution: '© <a href="https://protomaps.com">Protomaps</a> © <a href="https://openstreetmap.org">OpenStreetMap</a>',
+          'carto': {
+            type: 'raster',
+            tiles: ['https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'],
+            tileSize: 256,
+            attribution: '© <a href="https://carto.com">CARTO</a> © <a href="https://openstreetmap.org">OpenStreetMap</a>',
           }
         },
         layers: [
-          // Water
           {
-            id: 'water',
-            type: 'fill',
-            source: 'protomaps',
-            'source-layer': 'water',
-            paint: { 'fill-color': '#1a2332' },
-          },
-          // Land
-          {
-            id: 'land',
-            type: 'fill',
-            source: 'protomaps',
-            'source-layer': 'land',
-            paint: { 'fill-color': '#1e2a3a' },
-          },
-          // Boundaries
-          {
-            id: 'boundaries',
-            type: 'line',
-            source: 'protomaps',
-            'source-layer': 'boundaries',
-            paint: {
-              'line-color': '#2d3f52',
-              'line-width': 0.5,
-            },
+            id: 'carto-basemap',
+            type: 'raster',
+            source: 'carto',
+            minzoom: 0,
+            maxzoom: 19,
           },
         ],
         glyphs: 'https://cdn.protomaps.com/fonts/pbf/{fontstack}/{range}.pbf',

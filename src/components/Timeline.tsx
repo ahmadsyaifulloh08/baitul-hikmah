@@ -234,26 +234,9 @@ export default function Timeline({ mode, onModeChange }: TimelineProps = {}) {
         }}>
           The Golden Age and Beyond — Menelusuri Jejak Peradaban Islam
         </p>
-        <div style={{ maxWidth: 640, margin: '0 auto' }}>
-          <input
-            type="text"
-            placeholder="🔍 Cari peristiwa, tokoh, atau kata kunci..."
-            value={search}
-            onChange={e => setSearch(e.target.value)}
-            style={{
-              width: '100%', padding: '14px 20px', borderRadius: 12,
-              border: '2px solid var(--border)', background: 'var(--bg-secondary)',
-              color: 'var(--text-primary)', fontSize: 16, outline: 'none',
-              transition: 'border-color 0.2s',
-            }}
-            onFocus={e => e.currentTarget.style.borderColor = '#58a6ff'}
-            onBlur={e => e.currentTarget.style.borderColor = 'var(--border)'}
-          />
-        </div>
-
         {/* ==================== MODE TOGGLE ==================== */}
         {onModeChange && (
-          <div style={{ display: 'flex', justifyContent: 'center', marginTop: 16 }}>
+          <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
             <div style={{
               display: 'inline-flex', gap: 0, borderRadius: 12,
               background: 'var(--bg-secondary)', border: '1px solid var(--border)', padding: 3,
@@ -285,6 +268,23 @@ export default function Timeline({ mode, onModeChange }: TimelineProps = {}) {
             </div>
           </div>
         )}
+
+        <div style={{ maxWidth: 640, margin: '0 auto' }}>
+          <input
+            type="text"
+            placeholder="🔍 Cari peristiwa, tokoh, atau kata kunci..."
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+            style={{
+              width: '100%', padding: '14px 20px', borderRadius: 12,
+              border: '2px solid var(--border)', background: 'var(--bg-secondary)',
+              color: 'var(--text-primary)', fontSize: 16, outline: 'none',
+              transition: 'border-color 0.2s',
+            }}
+            onFocus={e => e.currentTarget.style.borderColor = '#58a6ff'}
+            onBlur={e => e.currentTarget.style.borderColor = 'var(--border)'}
+          />
+        </div>
       </div>
 
       {/* ==================== FILTER PILLS ==================== */}
