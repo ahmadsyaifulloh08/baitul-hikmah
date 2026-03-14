@@ -9,21 +9,21 @@ import { getMapEvents, eventsToGeoJSON, eraColors, getEraBoundaries, regionCoord
 
 // Inline filter components removed - using same style as Timeline directly in JSX
 
-// ─── Year Slider ─── styled to match filter rows
+// ─── Year Slider ─── same spacing as other filter rows
 function YearSlider({ year, onChange }: { year: number; onChange: (y: number) => void }) {
   const minYear = 500
   const maxYear = 1500
   return (
-    <div style={{ display: 'flex', gap: 8, alignItems: 'center', padding: '4px 12px 8px', maxWidth: 1400, margin: '0 auto' }}>
+    <div style={{ display: 'flex', gap: 6, alignItems: 'center', marginBottom: 8, padding: '0 12px', maxWidth: 1400, margin: '0 auto 8px' }}>
       <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4, whiteSpace: 'nowrap' }}>Tahun:</span>
-      <span style={{ fontSize: 11, color: '#8B6914', fontWeight: 600, fontFamily: 'monospace', minWidth: 48, textAlign: 'right' }}>{year} M</span>
+      <span style={{ fontSize: 11, color: 'var(--text-secondary)', fontWeight: 600, fontFamily: 'monospace', minWidth: 48, textAlign: 'right' }}>{year} M</span>
       <input
         type="range"
         min={minYear}
         max={maxYear}
         value={year}
         onChange={e => onChange(Number(e.target.value))}
-        style={{ flex: 1, height: 4, cursor: 'pointer', accentColor: '#8B6914' }}
+        style={{ flex: 1, height: 4, cursor: 'pointer', accentColor: 'var(--text-secondary)' }}
       />
       <span style={{ fontSize: 11, color: 'var(--text-secondary)', fontFamily: 'monospace', minWidth: 40 }}>{maxYear}</span>
     </div>
@@ -412,7 +412,7 @@ export default function MapView({ search }: MapViewProps = {}) {
           </div>
 
           {/* Region pills - same as Timeline + map panning */}
-          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 12, alignItems: 'center' }}>
+          <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
             <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Wilayah:</span>
             {regions.map(reg => {
               const active = selectedRegion === reg.id
@@ -444,7 +444,7 @@ export default function MapView({ search }: MapViewProps = {}) {
         <div ref={mapContainer} style={{ width: '100%', height: '100%' }} />
 
         {/* Event count badge */}
-        <div className="absolute top-2 right-12 z-10 bg-[var(--bg-primary)]/80 backdrop-blur-sm rounded-lg px-2.5 py-1 text-xs text-[var(--text-secondary)] border border-[var(--border)]">
+        <div className="absolute top-2 right-12 z-10 rounded-lg px-2.5 py-1 text-xs text-[var(--text-secondary)] border border-[var(--border)]" style={{ background: 'var(--bg-primary)' }}>
           {filteredEvents.length} peristiwa
         </div>
 
@@ -454,7 +454,7 @@ export default function MapView({ search }: MapViewProps = {}) {
         )}
 
         {/* Legend */}
-        <div className="absolute bottom-4 left-4 z-10 bg-[var(--bg-primary)]/90 backdrop-blur-sm rounded-lg p-3 border border-[var(--border)] max-w-[200px]">
+        <div className="absolute bottom-4 left-4 z-10 rounded-lg p-3 border border-[var(--border)] max-w-[200px]" style={{ background: 'var(--bg-primary)' }}>
           <p className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)] mb-2 font-medium">Era</p>
           <div className="space-y-1">
             {eras.map(era => (
