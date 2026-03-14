@@ -3,28 +3,29 @@
 import { useEffect, useRef, useState, useMemo, useCallback } from 'react'
 import maplibregl from 'maplibre-gl'
 import 'maplibre-gl/dist/maplibre-gl.css'
-import { Protocol } from 'pmtiles'
+// pmtiles removed - using CARTO raster tiles
 import { events, eras, categories, regions, slugify, type Era } from '@/lib/data'
 import { getMapEvents, eventsToGeoJSON, eraColors, getEraBoundaries, regionCoordinates, type MapEvent } from '@/lib/map-data'
 
 // Inline filter components removed - using same style as Timeline directly in JSX
 
-// ─── Year Slider ───
+// ─── Year Slider ─── styled to match filter rows
 function YearSlider({ year, onChange }: { year: number; onChange: (y: number) => void }) {
   const minYear = 500
   const maxYear = 1500
   return (
-    <div className="px-3 py-2 flex items-center gap-3">
-      <span className="text-xs text-[var(--text-secondary)] w-12 text-right font-mono">{year} M</span>
+    <div style={{ display: 'flex', gap: 8, alignItems: 'center', padding: '4px 12px 8px', maxWidth: 1400, margin: '0 auto' }}>
+      <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4, whiteSpace: 'nowrap' }}>Tahun:</span>
+      <span style={{ fontSize: 11, color: '#8B6914', fontWeight: 600, fontFamily: 'monospace', minWidth: 48, textAlign: 'right' }}>{year} M</span>
       <input
         type="range"
         min={minYear}
         max={maxYear}
         value={year}
         onChange={e => onChange(Number(e.target.value))}
-        className="flex-1 h-1.5 accent-[var(--text-primary)] cursor-pointer"
+        style={{ flex: 1, height: 4, cursor: 'pointer', accentColor: '#8B6914' }}
       />
-      <span className="text-xs text-[var(--text-secondary)] w-8 font-mono">{maxYear}</span>
+      <span style={{ fontSize: 11, color: 'var(--text-secondary)', fontFamily: 'monospace', minWidth: 40 }}>{maxYear}</span>
     </div>
   )
 }
@@ -92,9 +93,16 @@ interface MapViewProps {
 export default function MapView({ search }: MapViewProps = {}) {
   const mapContainer = useRef<HTMLDivElement>(null)
   const mapRef = useRef<maplibregl.Map | null>(null)
-  const [selectedEra, setSelectedEra] = useState<string | null>(null)
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [hiddenEras, setHiddenEras] = useState<Set<string>>(new Set())
+  const [hiddenCategories, setHiddenCategories] = useState<Set<string>>(new Set())
   const [selectedRegion, setSelectedRegion] = useState<string | null>(null)
+
+  const toggleEra = (id: string) => {
+    setHiddenEras(prev => { const s = new Set(prev); s.has(id) ? s.delete(id) : s.add(id); return s })
+  }
+  const toggleCategory = (id: string) => {
+    setHiddenCategories(prev => { const s = new Set(prev); s.has(id) ? s.delete(id) : s.add(id); return s })
+  }
   const [sliderYear, setSliderYear] = useState(750)
   const [selectedEvent, setSelectedEvent] = useState<MapEvent | null>(null)
   const [mapReady, setMapReady] = useState(false)
@@ -103,11 +111,11 @@ export default function MapView({ search }: MapViewProps = {}) {
 
   const filteredEvents = useMemo(() => {
     let filtered = allMapEvents
-    if (selectedEra) {
-      filtered = filtered.filter(e => e.era === selectedEra)
+    if (hiddenEras.size > 0) {
+      filtered = filtered.filter(e => !hiddenEras.has(e.era))
     }
-    if (selectedCategory) {
-      filtered = filtered.filter(e => e.category === selectedCategory)
+    if (hiddenCategories.size > 0) {
+      filtered = filtered.filter(e => !hiddenCategories.has(e.category))
     }
     if (selectedRegion) {
       filtered = filtered.filter(e => e.regions?.includes(selectedRegion))
@@ -118,7 +126,7 @@ export default function MapView({ search }: MapViewProps = {}) {
     }
     filtered = filtered.filter(e => e.year <= sliderYear)
     return filtered
-  }, [allMapEvents, selectedEra, selectedCategory, selectedRegion, search, sliderYear])
+  }, [allMapEvents, hiddenEras, hiddenCategories, selectedRegion, search, sliderYear])
 
   // Pan map when region selected
   useEffect(() => {
@@ -130,22 +138,17 @@ export default function MapView({ search }: MapViewProps = {}) {
     }
   }, [selectedRegion, mapReady])
 
-  // Auto-adjust slider when era selected
-  useEffect(() => {
-    if (!selectedEra) return
-    const era = eras.find(e => e.id === selectedEra)
-    if (era) {
-      setSliderYear(era.end)
-    }
-  }, [selectedEra])
+  // Multi-select: no auto-adjust needed
 
   // Init map
   useEffect(() => {
     if (!mapContainer.current) return
 
-    // Register PMTiles protocol
-    const protocol = new Protocol()
-    maplibregl.addProtocol('pmtiles', protocol.tile)
+    // Detect theme for appropriate basemap
+    const isDark = document.documentElement.classList.contains('dark')
+    const tileUrl = isDark
+      ? 'https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'
+      : 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
 
     const map = new maplibregl.Map({
       container: mapContainer.current,
@@ -154,7 +157,7 @@ export default function MapView({ search }: MapViewProps = {}) {
         sources: {
           'carto': {
             type: 'raster',
-            tiles: ['https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'],
+            tiles: [tileUrl],
             tileSize: 256,
             attribution: '© <a href="https://carto.com">CARTO</a> © <a href="https://openstreetmap.org">OpenStreetMap</a>',
           }
@@ -317,7 +320,6 @@ export default function MapView({ search }: MapViewProps = {}) {
 
     mapRef.current = map
     return () => {
-      maplibregl.removeProtocol('pmtiles')
       map.remove()
     }
   }, [])
@@ -332,32 +334,29 @@ export default function MapView({ search }: MapViewProps = {}) {
       src.setData(eventsToGeoJSON(filteredEvents))
     }
 
-    // Show/hide era boundaries
+    // Show/hide era boundaries - show visible eras
     const boundaries = getEraBoundaries()
     Object.keys(boundaries).forEach(eraId => {
-      const show = selectedEra === eraId
+      const show = !hiddenEras.has(eraId) && hiddenEras.size > 0
       try {
         map.setPaintProperty(`era-${eraId}-fill`, 'fill-opacity', show ? 0.08 : 0)
         map.setPaintProperty(`era-${eraId}-line`, 'line-opacity', show ? 0.5 : 0)
       } catch {}
     })
-  }, [filteredEvents, selectedEra, mapReady])
+  }, [filteredEvents, hiddenEras, mapReady])
 
   return (
-    <div className="relative w-full" style={{ height: 'calc(100vh - 52px)' }}>
-      {/* Map */}
-      <div ref={mapContainer} className="absolute inset-0" />
-
-      {/* Controls overlay */}
-      <div className="absolute top-0 left-0 right-0 z-10 bg-[var(--bg-primary)]/90 backdrop-blur-md border-b border-[var(--border)]">
+    <div>
+      {/* Filter controls */}
+      <div className="border-b border-[var(--border)]" style={{ background: 'var(--bg-primary)' }}>
         <div style={{ maxWidth: 1400, margin: '0 auto', padding: '12px 12px 0' }}>
-          {/* Era pills - same as Timeline */}
+          {/* Era pills - multi-select like Timeline */}
           <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
             <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Era:</span>
             {eras.map(era => {
-              const active = selectedEra === era.id
+              const active = !hiddenEras.has(era.id)
               return (
-                <button key={era.id} onClick={() => setSelectedEra(active ? null : era.id)} style={{
+                <button key={era.id} onClick={() => toggleEra(era.id)} style={{
                   fontSize: 11, padding: '3px 10px', borderRadius: 14,
                   border: active ? '1px solid transparent' : '1px solid var(--border)',
                   background: active ? era.color : 'var(--surface2)',
@@ -370,13 +369,13 @@ export default function MapView({ search }: MapViewProps = {}) {
             })}
           </div>
 
-          {/* Category pills - same as Timeline */}
+          {/* Category pills - multi-select like Timeline */}
           <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
             <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Kategori:</span>
             {categories.map(cat => {
-              const active = selectedCategory === cat.id
+              const active = !hiddenCategories.has(cat.id)
               return (
-                <button key={cat.id} onClick={() => setSelectedCategory(active ? null : cat.id)} style={{
+                <button key={cat.id} onClick={() => toggleCategory(cat.id)} style={{
                   fontSize: 11, padding: '3px 10px', borderRadius: 14,
                   border: active ? '1px solid transparent' : '1px solid var(--border)',
                   background: active ? cat.color : 'var(--surface2)',
@@ -417,26 +416,31 @@ export default function MapView({ search }: MapViewProps = {}) {
         <YearSlider year={sliderYear} onChange={setSliderYear} />
       </div>
 
-      {/* Event count badge */}
-      <div className="absolute top-2 right-12 z-10 bg-[var(--bg-primary)]/80 backdrop-blur-sm rounded-lg px-2.5 py-1 text-xs text-[var(--text-secondary)] border border-[var(--border)]">
-        {filteredEvents.length} peristiwa
-      </div>
+      {/* Map container */}
+      <div className="relative" style={{ height: 'calc(100vh - 280px)', minHeight: 400 }}>
+        <div ref={mapContainer} style={{ width: '100%', height: '100%' }} />
 
-      {/* Event popup */}
-      {selectedEvent && (
-        <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} />
-      )}
+        {/* Event count badge */}
+        <div className="absolute top-2 right-12 z-10 bg-[var(--bg-primary)]/80 backdrop-blur-sm rounded-lg px-2.5 py-1 text-xs text-[var(--text-secondary)] border border-[var(--border)]">
+          {filteredEvents.length} peristiwa
+        </div>
 
-      {/* Legend */}
-      <div className="absolute bottom-4 left-4 z-10 bg-[var(--bg-primary)]/90 backdrop-blur-sm rounded-lg p-3 border border-[var(--border)] max-w-[200px]">
-        <p className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)] mb-2 font-medium">Era</p>
-        <div className="space-y-1">
-          {eras.map(era => (
-            <div key={era.id} className="flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: era.color }} />
-              <span className="text-[10px] text-[var(--text-secondary)] truncate">{era.name}</span>
-            </div>
-          ))}
+        {/* Event popup */}
+        {selectedEvent && (
+          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+        )}
+
+        {/* Legend */}
+        <div className="absolute bottom-4 left-4 z-10 bg-[var(--bg-primary)]/90 backdrop-blur-sm rounded-lg p-3 border border-[var(--border)] max-w-[200px]">
+          <p className="text-[10px] uppercase tracking-wider text-[var(--text-secondary)] mb-2 font-medium">Era</p>
+          <div className="space-y-1">
+            {eras.map(era => (
+              <div key={era.id} className="flex items-center gap-2">
+                <span className="w-2 h-2 rounded-full flex-shrink-0" style={{ backgroundColor: era.color }} />
+                <span className="text-[10px] text-[var(--text-secondary)] truncate">{era.name}</span>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>

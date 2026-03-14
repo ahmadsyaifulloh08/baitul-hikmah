@@ -17,7 +17,7 @@ export default function Home() {
       {/* Hero section */}
       <div style={{ textAlign: 'center', padding: '40px 16px 0' }}>
         <div style={{ marginBottom: 12 }}>
-          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={80} height={80} style={{ display: 'block', margin: '0 auto' }} />
+          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={120} height={120} style={{ display: 'block', margin: '0 auto' }} />
         </div>
         <h2 className="font-heading" style={{
           fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
@@ -78,7 +78,7 @@ export default function Home() {
                 boxShadow: mode === 'map' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
               }}
             >
-              🗺️ Peta
+              🗺️ Maps
             </button>
           </div>
         </div>
