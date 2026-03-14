@@ -2,11 +2,15 @@
 
 import { useState, useEffect } from 'react'
 
-export default function Header() {
+interface HeaderProps {
+  mode?: 'timeline' | 'map'
+  onModeChange?: (mode: 'timeline' | 'map') => void
+}
+
+export default function Header({ mode = 'timeline', onModeChange }: HeaderProps) {
   const [dark, setDark] = useState(true)
 
   useEffect(() => {
-    // Init from current state (set by inline script in layout)
     const isDark = document.documentElement.classList.contains('dark')
     setDark(isDark)
   }, [])
@@ -34,16 +38,39 @@ export default function Header() {
           </div>
         </a>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2">
+          {/* Mode Toggle */}
+          {onModeChange && (
+            <div className="flex items-center bg-[var(--bg-secondary)] rounded-lg p-0.5 border border-[var(--border)]">
+              <button
+                onClick={() => onModeChange('timeline')}
+                className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
+                  mode === 'timeline'
+                    ? 'bg-[var(--bg-primary)] text-[var(--text-primary)] shadow-sm'
+                    : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                📜 Timeline
+              </button>
+              <button
+                onClick={() => onModeChange('map')}
+                className={`px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
+                  mode === 'map'
+                    ? 'bg-[var(--bg-primary)] text-[var(--text-primary)] shadow-sm'
+                    : 'text-[var(--text-secondary)] hover:text-[var(--text-primary)]'
+                }`}
+              >
+                🗺️ Peta
+              </button>
+            </div>
+          )}
+
           <button
             onClick={toggleDark}
             className="p-2 rounded-lg hover:bg-[var(--bg-secondary)] transition-colors"
             aria-label="Toggle dark mode"
           >
             {dark ? '☀️' : '🌙'}
-          </button>
-          <button className="text-sm px-3 py-1.5 rounded-lg border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors">
-            EN
           </button>
         </div>
       </div>

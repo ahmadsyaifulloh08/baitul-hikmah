@@ -58,3 +58,23 @@
 .timeline-scroll::-webkit-scrollbar-thumb {
   @apply bg-[var(--border)] rounded-full;
 }
+
+/* Map animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(8px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeIn 0.2s ease-out;
+}
+
+/* MapLibre overrides */
+.maplibregl-ctrl-group {
+  background: var(--bg-primary) !important;
+  border: 1px solid var(--border) !important;
+}
+.maplibregl-ctrl-group button {
+  filter: var(--map-ctrl-filter, invert(1));
+}
+:root { --map-ctrl-filter: none; }
+.dark { --map-ctrl-filter: invert(1); }
