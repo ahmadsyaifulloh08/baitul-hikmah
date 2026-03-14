@@ -148,7 +148,12 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
 // ============================================================
 // MAIN TIMELINE EXPORT
 // ============================================================
-export default function Timeline() {
+interface TimelineProps {
+  mode?: 'timeline' | 'map'
+  onModeChange?: (mode: 'timeline' | 'map') => void
+}
+
+export default function Timeline({ mode, onModeChange }: TimelineProps = {}) {
   const [search, setSearch] = useState('')
   const [hiddenCategories, setHiddenCategories] = useState<Set<string>>(new Set())
   const [hiddenEras, setHiddenEras] = useState<Set<string>>(new Set())
@@ -227,7 +232,7 @@ export default function Timeline() {
           fontSize: 'clamp(0.85rem, 2vw, 1.1rem)', color: 'var(--text-secondary)',
           marginBottom: 24, maxWidth: 600, margin: '0 auto 24px',
         }}>
-          Menelusuri Jejak Peradaban Islam — dari Tahun Gajah hingga Jatuhnya Al-Andalus
+          The Golden Age and Beyond — Menelusuri Jejak Peradaban Islam
         </p>
         <div style={{ maxWidth: 640, margin: '0 auto' }}>
           <input
@@ -245,6 +250,41 @@ export default function Timeline() {
             onBlur={e => e.currentTarget.style.borderColor = 'var(--border)'}
           />
         </div>
+
+        {/* ==================== MODE TOGGLE ==================== */}
+        {onModeChange && (
+          <div style={{ display: 'flex', justifyContent: 'center', marginTop: 16 }}>
+            <div style={{
+              display: 'inline-flex', gap: 0, borderRadius: 12,
+              background: 'var(--bg-secondary)', border: '1px solid var(--border)', padding: 3,
+            }}>
+              <button
+                onClick={() => onModeChange('timeline')}
+                style={{
+                  padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
+                  border: 'none', cursor: 'pointer', transition: 'all 0.2s',
+                  background: mode === 'timeline' ? 'var(--bg-primary)' : 'transparent',
+                  color: mode === 'timeline' ? 'var(--text-primary)' : 'var(--text-secondary)',
+                  boxShadow: mode === 'timeline' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
+                }}
+              >
+                📜 Timeline
+              </button>
+              <button
+                onClick={() => onModeChange('map')}
+                style={{
+                  padding: '8px 20px', borderRadius: 10, fontSize: 14, fontWeight: 600,
+                  border: 'none', cursor: 'pointer', transition: 'all 0.2s',
+                  background: mode === 'map' ? 'var(--bg-primary)' : 'transparent',
+                  color: mode === 'map' ? 'var(--text-primary)' : 'var(--text-secondary)',
+                  boxShadow: mode === 'map' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
+                }}
+              >
+                🗺️ Peta
+              </button>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* ==================== FILTER PILLS ==================== */}
