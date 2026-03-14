@@ -231,7 +231,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
                 border: active ? '1px solid transparent' : '1px solid var(--border)',
                 background: active ? era.color : 'var(--surface2)',
                 color: active ? '#fff' : 'var(--text2)',
-                cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
               }}>
                 {era.name}
               </button>
@@ -250,7 +250,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
                 border: active ? '1px solid transparent' : '1px solid var(--border)',
                 background: active ? cat.color : 'var(--surface2)',
                 color: active ? '#fff' : 'var(--text2)',
-                cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
               }}>
                 {cat.emoji} {cat.name}
               </button>
@@ -269,7 +269,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
                 border: active ? '1px solid transparent' : '1px solid var(--border)',
                 background: active ? reg.color : 'var(--surface2)',
                 color: active ? '#fff' : 'var(--text2)',
-                cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
               }}>
                 {reg.name}
               </button>

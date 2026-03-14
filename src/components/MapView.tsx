@@ -106,6 +106,29 @@ export default function MapView({ search }: MapViewProps = {}) {
   const [sliderYear, setSliderYear] = useState(750)
   const [selectedEvent, setSelectedEvent] = useState<MapEvent | null>(null)
   const [mapReady, setMapReady] = useState(false)
+  const [isDark, setIsDark] = useState(true)
+
+  // Watch for dark mode changes
+  useEffect(() => {
+    const check = () => setIsDark(document.documentElement.classList.contains('dark'))
+    check()
+    const observer = new MutationObserver(check)
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] })
+    return () => observer.disconnect()
+  }, [])
+
+  // Update map tiles when dark mode changes
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !mapReady) return
+    const tileUrl = isDark
+      ? 'https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'
+      : 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
+    const src = map.getSource('carto') as any
+    if (src) {
+      src.setTiles([tileUrl])
+    }
+  }, [isDark, mapReady])
 
   const allMapEvents = useMemo(() => getMapEvents(), [])
 
@@ -361,7 +384,7 @@ export default function MapView({ search }: MapViewProps = {}) {
                   border: active ? '1px solid transparent' : '1px solid var(--border)',
                   background: active ? era.color : 'var(--surface2)',
                   color: active ? '#fff' : 'var(--text2)',
-                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                  cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
                 }}>
                   {era.name}
                 </button>
@@ -380,7 +403,7 @@ export default function MapView({ search }: MapViewProps = {}) {
                   border: active ? '1px solid transparent' : '1px solid var(--border)',
                   background: active ? cat.color : 'var(--surface2)',
                   color: active ? '#fff' : 'var(--text2)',
-                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                  cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
                 }}>
                   {cat.emoji} {cat.name}
                 </button>
@@ -405,7 +428,7 @@ export default function MapView({ search }: MapViewProps = {}) {
                   border: active ? '1px solid transparent' : '1px solid var(--border)',
                   background: active ? reg.color : 'var(--surface2)',
                   color: active ? '#fff' : 'var(--text2)',
-                  cursor: 'pointer', transition: 'all 0.15s', userSelect: 'none',
+                  cursor: 'pointer', transition: 'background 0.15s, border-color 0.15s', userSelect: 'none',
                 }}>
                   {reg.name}
                 </button>
