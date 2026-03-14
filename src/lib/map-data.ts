@@ -1,4 +1,5 @@
 import { events, eras, type Event, type Era } from './data'
+import eventCoordinates from '@/data/event-coordinates.json'
 
 // Center coordinates for each region
 export const regionCoordinates: Record<string, [number, number]> = {
@@ -38,14 +39,23 @@ export interface MapEvent {
 }
 
 export function getMapEvents(): MapEvent[] {
+  const coords = (eventCoordinates as any).coordinates || {}
   const regionCounter: Record<string, number> = {}
   
   return events.map(e => {
-    const primaryRegion = e.regions[0] || 'arabia'
-    const base = regionCoordinates[primaryRegion] || regionCoordinates.arabia
-    const idx = regionCounter[primaryRegion] || 0
-    regionCounter[primaryRegion] = idx + 1
-    const [lng, lat] = jitter(base, idx)
+    // Use researched coordinates if available, fallback to region jitter
+    const accurate = coords[e.title]
+    let lng: number, lat: number
+    if (accurate) {
+      lng = accurate[0]
+      lat = accurate[1]
+    } else {
+      const primaryRegion = e.regions[0] || 'arabia'
+      const base = regionCoordinates[primaryRegion] || regionCoordinates.arabia
+      const idx = regionCounter[primaryRegion] || 0
+      regionCounter[primaryRegion] = idx + 1
+      ;[lng, lat] = jitter(base, idx)
+    }
     
     return {
       id: e.id,
