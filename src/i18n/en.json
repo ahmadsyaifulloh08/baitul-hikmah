@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "House of Wisdom",
+    "subtitle": "The Islamic Golden Age and Beyond"
+  },
+  "header": {
+    "title": "Baitul Hikmah",
+    "subtitle": "Tracing Islamic Civilization"
+  },
+  "search": {
+    "placeholder": "🔍 Search events, figures, or keywords..."
+  },
+  "nav": {
+    "timeline": "📜 Timeline",
+    "maps": "🗺️ Maps"
+  },
+  "filters": {
+    "era": "Era:",
+    "category": "Category:",
+    "region": "Region:",
+    "year": "Year:"
+  },
+  "detail": {
+    "readMore": "Read More →",
+    "source": "Sources:",
+    "figures": "Figures:",
+    "back": "← Back",
+    "notFound": "No matching events found."
+  },
+  "footer": {
+    "tagline": "House of Wisdom — Tracing Islamic Civilization",
+    "methodology": "Manhaj Bukhari · Sahih Research · Open Source"
+  }
+}

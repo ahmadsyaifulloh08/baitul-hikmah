@@ -2,56 +2,56 @@
 
 import { useState } from 'react'
 import dynamic from 'next/dynamic'
+import { I18nProvider, useI18n } from '@/i18n/context'
 import Header from '@/components/Header'
 import Timeline from '@/components/Timeline'
 
 const MapView = dynamic(() => import('@/components/MapView'), { ssr: false })
 
-export default function Home() {
+function HomeContent() {
   const [mode, setMode] = useState<'timeline' | 'map'>('timeline')
   const [search, setSearch] = useState('')
+  const { t } = useI18n()
 
   return (
     <main className="min-h-screen">
       <Header />
       {/* Hero section */}
-      <div style={{ textAlign: 'center', padding: '40px 16px 0' }}>
-        <div style={{ marginBottom: 12 }}>
-          <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={120} height={120} style={{ display: 'block', margin: '0 auto' }} />
-        </div>
+      <div style={{ textAlign: 'center', padding: '24px 16px 0', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 4 }}>
+        <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={100} height={100} />
         <h2 className="font-heading" style={{
-          fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontWeight: 800,
-          marginBottom: 8, lineHeight: 1.2,
+          fontSize: 'clamp(1.6rem, 3.5vw, 2.4rem)', fontWeight: 800,
+          lineHeight: 1.2, margin: 0,
         }}>
-          Baitul Hikmah
+          {t('hero.title')}
         </h2>
         <p style={{
-          fontSize: 'clamp(0.85rem, 2vw, 1.1rem)', color: 'var(--text-secondary)',
-          marginBottom: 24, maxWidth: 600, margin: '0 auto 24px',
+          fontSize: 'clamp(0.8rem, 1.8vw, 1rem)', color: 'var(--text-secondary)',
+          maxWidth: 600, margin: '2px 0 0',
         }}>
-          The Golden Age and Beyond — Menelusuri Jejak Peradaban Islam
+          {t('hero.subtitle')}
         </p>
 
-        {/* Search bar - always on top */}
-        <div style={{ maxWidth: 640, margin: '0 auto 16px' }}>
+        {/* Search bar */}
+        <div style={{ maxWidth: 560, width: '100%', marginTop: 14 }}>
           <input
             type="text"
-            placeholder="🔍 Cari peristiwa, tokoh, atau kata kunci..."
+            placeholder={t('search.placeholder')}
             value={search}
             onChange={e => setSearch(e.target.value)}
             style={{
-              width: '100%', padding: '14px 20px', borderRadius: 12,
+              width: '100%', padding: '12px 18px', borderRadius: 12,
               border: '2px solid var(--border)', background: 'var(--bg-secondary)',
               color: 'var(--text-primary)', fontSize: 16, outline: 'none',
               transition: 'border-color 0.2s',
             }}
-            onFocus={e => e.currentTarget.style.borderColor = '#58a6ff'}
+            onFocus={e => e.currentTarget.style.borderColor = '#8B6914'}
             onBlur={e => e.currentTarget.style.borderColor = 'var(--border)'}
           />
         </div>
 
-        {/* Mode Toggle - below search */}
-        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 16 }}>
+        {/* Mode Toggle */}
+        <div style={{ display: 'flex', justifyContent: 'center', marginTop: 16 }}>
           <div style={{
             display: 'inline-flex', gap: 0, borderRadius: 12,
             background: 'var(--bg-secondary)', border: '1px solid var(--border)', padding: 3,
@@ -66,7 +66,7 @@ export default function Home() {
                 boxShadow: mode === 'timeline' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
               }}
             >
-              📜 Timeline
+              {t('nav.timeline')}
             </button>
             <button
               onClick={() => setMode('map')}
@@ -78,20 +78,30 @@ export default function Home() {
                 boxShadow: mode === 'map' ? '0 1px 3px rgba(0,0,0,0.1)' : 'none',
               }}
             >
-              🗺️ Maps
+              {t('nav.maps')}
             </button>
           </div>
         </div>
       </div>
 
+      <div style={{ height: 12 }} />
+
       {/* Content area */}
       {mode === 'timeline' ? <Timeline search={search} /> : <MapView search={search} />}
       {mode === 'timeline' && (
         <footer className="text-center py-8 text-xs text-[var(--text-secondary)] border-t border-[var(--border)]">
-          <p>Baitul Hikmah — Menelusuri Jejak Peradaban Islam</p>
-          <p className="mt-1">Manhaj Bukhari · Riset Sahih · Open Source</p>
+          <p>{t('footer.tagline')}</p>
+          <p className="mt-1">{t('footer.methodology')}</p>
         </footer>
       )}
     </main>
+  )
+}
+
+export default function Home() {
+  return (
+    <I18nProvider>
+      <HomeContent />
+    </I18nProvider>
   )
 }

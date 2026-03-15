@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Baitul Hikmah",
+    "subtitle": "Menelusuri Jejak Keemasan Peradaban Islam"
+  },
+  "header": {
+    "title": "Baitul Hikmah",
+    "subtitle": "Jejak Peradaban Islam"
+  },
+  "search": {
+    "placeholder": "🔍 Cari peristiwa, tokoh, atau kata kunci..."
+  },
+  "nav": {
+    "timeline": "📜 Timeline",
+    "maps": "🗺️ Maps"
+  },
+  "filters": {
+    "era": "Era:",
+    "category": "Kategori:",
+    "region": "Wilayah:",
+    "year": "Tahun:"
+  },
+  "detail": {
+    "readMore": "Baca Selengkapnya →",
+    "source": "Sumber:",
+    "figures": "Tokoh:",
+    "back": "← Kembali",
+    "notFound": "Tidak ditemukan peristiwa yang cocok."
+  },
+  "footer": {
+    "tagline": "Baitul Hikmah — Menelusuri Jejak Peradaban Islam",
+    "methodology": "Manhaj Bukhari · Riset Sahih · Open Source"
+  }
+}

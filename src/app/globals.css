@@ -11,22 +11,10 @@
     --text-primary: #1a1a1a;
     --text-secondary: #555;
     --border: #d0ccc4;
-    /* Timeline-specific vars */
     --surface: #f5f1eb;
     --surface2: #e8e4dc;
     --text: #1a1a1a;
     --text2: #555;
-  }
-  .dark {
-    --bg-primary: #0d1117;
-    --bg-secondary: #161b22;
-    --text-primary: #e6edf3;
-    --text-secondary: #8b949e;
-    --border: #30363d;
-    --surface: #161b22;
-    --surface2: #21262d;
-    --text: #c9d1d9;
-    --text2: #8b949e;
   }
   body {
     @apply bg-[var(--bg-primary)] text-[var(--text-primary)] font-body transition-colors duration-200;
@@ -77,4 +65,3 @@
   filter: var(--map-ctrl-filter, invert(1));
 }
 :root { --map-ctrl-filter: none; }
-.dark { --map-ctrl-filter: invert(1); }

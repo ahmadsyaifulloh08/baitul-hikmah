@@ -1,29 +1,20 @@
 import type { Metadata } from 'next'
-import './globals.css'
+// CSS loaded via <link> in <head> to avoid webpack CSS parsing issues in dev mode
 
 export const metadata: Metadata = {
   title: 'Baitul Hikmah — Menelusuri Jejak Peradaban Islam',
   description: 'Portal digital interaktif sejarah peradaban Islam dari Tahun Gajah (570 M) hingga jatuhnya Al-Andalus (1492 M)',
   manifest: '/manifest.json',
-  themeColor: '#0d1117',
+  themeColor: '#faf8f5',
 }
-
-const themeScript = `
-(function(){
-  var t = localStorage.getItem('theme');
-  if (t === 'light') {
-    document.documentElement.classList.remove('dark');
-  } else {
-    document.documentElement.classList.add('dark');
-  }
-})();
-`
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="id" className="dark" suppressHydrationWarning>
+    <html lang="id" suppressHydrationWarning>
       <head>
-        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <link href="/styles.css" rel="stylesheet" />
+        <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
       </head>
       <body className="antialiased">
         {children}

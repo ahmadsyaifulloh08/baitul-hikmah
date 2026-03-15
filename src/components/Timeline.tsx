@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useRef } from 'react'
 import { events, eras, categories, regions, getEra, getCategory, slugify, type Event } from '@/lib/data'
+import { useI18n } from '@/i18n/context'
 
 // ============================================================
 // ERA LAYOUT — exact match from dashboard _civEraLayout
@@ -77,7 +78,7 @@ function getEraColor(eraId: string): string {
 // ============================================================
 // EVENT DETAIL PANEL
 // ============================================================
-function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) {
+function EventDetail({ event, onClose, t }: { event: Event; onClose: () => void; t: (key: string) => string }) {
   const yearStr = event.year + (event.year_end ? ' - ' + event.year_end : '') + ' M'
   const catColor = getCategoryColor(event.category)
 
@@ -123,7 +124,7 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
       {/* Figures */}
       {event.figures?.length > 0 && (
         <div style={{ fontSize: 12, color: 'var(--text2, #8b949e)' }}>
-          <strong>Tokoh:</strong> {event.figures.join(', ')}
+          <strong>{t('detail.figures')}</strong> {event.figures.join(', ')}
         </div>
       )}
 
@@ -133,7 +134,7 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
           marginTop: 10, padding: '10px 12px',
           background: 'rgba(210,169,34,0.08)', borderRadius: 6,
         }}>
-          <div style={{ fontSize: 11, fontWeight: 600, color: '#d29922', marginBottom: 4 }}>Sumber:</div>
+          <div style={{ fontSize: 11, fontWeight: 600, color: '#d29922', marginBottom: 4 }}>{t('detail.source')}</div>
           <ul style={{ margin: 0, paddingLeft: 16 }}>
             {event.sumber.map((s, i) => (
               <li key={i} style={{ fontSize: 11, color: 'var(--text2, #8b949e)', marginBottom: 2 }}>{s}</li>
@@ -141,6 +142,23 @@ function EventDetail({ event, onClose }: { event: Event; onClose: () => void }) 
           </ul>
         </div>
       )}
+
+      {/* Baca Selengkapnya button */}
+      <div style={{ marginTop: 16 }}>
+        <a
+          href={`/event/${slugify(event.title)}/`}
+          style={{
+            display: 'inline-block', padding: '8px 16px', borderRadius: 8,
+            background: 'var(--bg-secondary)', fontSize: 12, fontWeight: 600,
+            textDecoration: 'none', transition: 'background 0.2s',
+            color: 'var(--text-primary)', cursor: 'pointer',
+          }}
+          onMouseEnter={e => e.currentTarget.style.background = 'var(--border)'}
+          onMouseLeave={e => e.currentTarget.style.background = 'var(--bg-secondary)'}
+        >
+          {t('detail.readMore')}
+        </a>
+      </div>
     </div>
   )
 }
@@ -152,7 +170,8 @@ interface TimelineProps {
   search?: string
 }
 
-export default function Timeline({ search: externalSearch }: TimelineProps = {}) {
+export default function Timeline({ search: externalSearch }: TimelineProps) {
+  const { t } = useI18n()
   const search = externalSearch || ''
   const [hiddenCategories, setHiddenCategories] = useState<Set<string>>(new Set())
   const [hiddenEras, setHiddenEras] = useState<Set<string>>(new Set())
@@ -160,6 +179,8 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null)
   const [openEras, setOpenEras] = useState<Set<string>>(new Set([eras[0]?.id]))
   const detailRef = useRef<HTMLDivElement>(null)
+
+  // bfcache handles state restoration in production (static export)
 
   const toggleCategory = (catId: string) => {
     setHiddenCategories(prev => {
@@ -222,7 +243,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
       <div style={{ maxWidth: 1400, margin: '0 auto', padding: '12px 12px 0' }}>
         {/* Era pills */}
         <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
-          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Era:</span>
+          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>{t('filters.era')}</span>
           {eras.map(era => {
             const active = !hiddenEras.has(era.id)
             return (
@@ -241,7 +262,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
 
         {/* Category pills */}
         <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 8, alignItems: 'center' }}>
-          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Kategori:</span>
+          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>{t('filters.category')}</span>
           {categories.map(cat => {
             const active = !hiddenCategories.has(cat.id)
             return (
@@ -260,7 +281,7 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
 
         {/* Region pills */}
         <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 12, alignItems: 'center' }}>
-          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>Wilayah:</span>
+          <span style={{ fontSize: 11, fontWeight: 600, color: 'var(--text-secondary)', marginRight: 4 }}>{t('filters.region')}</span>
           {regions.map(reg => {
             const active = !hiddenRegions.has(reg.id)
             return (
@@ -500,13 +521,13 @@ export default function Timeline({ search: externalSearch }: TimelineProps = {})
       {/* Event detail panel */}
       <div ref={detailRef}>
         {selectedEvent && (
-          <EventDetail event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+          <EventDetail event={selectedEvent} onClose={() => setSelectedEvent(null)} t={t} />
         )}
       </div>
 
       {filteredEvents.length === 0 && (
         <div style={{ textAlign: 'center', padding: 40, color: 'var(--text2, #8b949e)' }}>
-          Tidak ditemukan peristiwa yang cocok.
+          {t('detail.notFound')}
         </div>
       )}
       </div>

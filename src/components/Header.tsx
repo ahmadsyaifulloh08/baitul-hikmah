@@ -1,31 +1,9 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useI18n } from '@/i18n/context'
 
-interface HeaderProps {
-  mode?: 'timeline' | 'map'
-  onModeChange?: (mode: 'timeline' | 'map') => void
-}
-
-export default function Header({ mode = 'timeline', onModeChange }: HeaderProps) {
-  const [dark, setDark] = useState(true)
-
-  useEffect(() => {
-    const isDark = document.documentElement.classList.contains('dark')
-    setDark(isDark)
-  }, [])
-
-  const toggleDark = () => {
-    const next = !dark
-    setDark(next)
-    if (next) {
-      document.documentElement.classList.add('dark')
-      localStorage.setItem('theme', 'dark')
-    } else {
-      document.documentElement.classList.remove('dark')
-      localStorage.setItem('theme', 'light')
-    }
-  }
+export default function Header() {
+  const { lang, setLang, t } = useI18n()
 
   return (
     <header className="sticky top-0 z-50 bg-[var(--bg-primary)]/80 backdrop-blur-md border-b border-[var(--border)]">
@@ -33,20 +11,36 @@ export default function Header({ mode = 'timeline', onModeChange }: HeaderProps)
         <a href="/" className="flex items-center gap-2">
           <img src="/baitul-hikmah.svg" alt="Baitul Hikmah" width={32} height={32} />
           <div>
-            <h1 className="font-heading text-lg font-bold leading-tight">Baitul Hikmah</h1>
-            <p className="text-[10px] text-[var(--text-secondary)] leading-none">Jejak Peradaban Islam</p>
+            <h1 className="font-heading text-lg font-bold leading-tight">{t('header.title')}</h1>
+            <p className="text-[10px] text-[var(--text-secondary)] leading-none">
+              {t('header.subtitle')}
+            </p>
           </div>
         </a>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-0">
           <button
-            onClick={toggleDark}
-            className="p-2 rounded-lg hover:bg-[var(--bg-secondary)] transition-colors"
-            aria-label="Toggle dark mode"
+            onClick={() => setLang('id')}
+            className="text-sm px-3 py-1.5 rounded-l-lg border transition-colors"
+            style={{
+              background: lang === 'id' ? '#8B6914' : 'var(--bg-secondary)',
+              color: lang === 'id' ? '#fff' : 'var(--text-secondary)',
+              borderColor: lang === 'id' ? '#8B6914' : 'var(--border)',
+              fontWeight: lang === 'id' ? 700 : 400,
+            }}
           >
-            {dark ? '☀️' : '🌙'}
+            ID
           </button>
-          <button className="text-sm px-3 py-1.5 rounded-lg border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors">
+          <button
+            onClick={() => setLang('en')}
+            className="text-sm px-3 py-1.5 rounded-r-lg border transition-colors"
+            style={{
+              background: lang === 'en' ? '#8B6914' : 'var(--bg-secondary)',
+              color: lang === 'en' ? '#fff' : 'var(--text-secondary)',
+              borderColor: lang === 'en' ? '#8B6914' : 'var(--border)',
+              fontWeight: lang === 'en' ? 700 : 400,
+            }}
+          >
             EN
           </button>
         </div>

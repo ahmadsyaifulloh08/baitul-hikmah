@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, useMemo, useCallback } from 'react'
 import maplibregl from 'maplibre-gl'
-import 'maplibre-gl/dist/maplibre-gl.css'
+// CSS moved to layout.tsx
 // pmtiles removed - using CARTO raster tiles
 import { events, eras, categories, regions, slugify, type Era } from '@/lib/data'
 import { getMapEvents, eventsToGeoJSON, eraColors, getEraBoundaries, regionCoordinates, type MapEvent } from '@/lib/map-data'
@@ -31,10 +31,19 @@ function YearSlider({ year, onChange }: { year: number; onChange: (y: number) =>
 }
 
 // ─── Popup Card ───
-function EventPopup({ event, onClose }: { event: MapEvent; onClose: () => void }) {
+function EventPopup({ event, onClose, position }: { event: MapEvent; onClose: () => void; position: { x: number; y: number } }) {
   const era = eras.find(e => e.id === event.era)
+  // Position popup above the click point, clamped to container
+  const popupStyle: React.CSSProperties = {
+    position: 'absolute',
+    left: Math.max(10, Math.min(position.x - 160, window.innerWidth - 340)),
+    top: Math.max(10, position.y - 220),
+    width: 320,
+    maxWidth: 'calc(100% - 20px)',
+    zIndex: 50,
+  }
   return (
-    <div className="absolute bottom-20 left-1/2 -translate-x-1/2 w-[90%] max-w-sm z-50 bg-[var(--bg-primary)] border border-[var(--border)] rounded-xl shadow-2xl p-4 animate-fade-in">
+    <div style={popupStyle} className="bg-[var(--bg-primary)] border border-[var(--border)] rounded-xl shadow-2xl p-4 animate-fade-in">
       <button onClick={onClose} className="absolute top-2 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-lg">×</button>
       <div className="flex items-center gap-2 mb-2">
         <span
@@ -105,30 +114,8 @@ export default function MapView({ search }: MapViewProps = {}) {
   }
   const [sliderYear, setSliderYear] = useState(750)
   const [selectedEvent, setSelectedEvent] = useState<MapEvent | null>(null)
+  const [popupPos, setPopupPos] = useState<{ x: number; y: number }>({ x: 0, y: 0 })
   const [mapReady, setMapReady] = useState(false)
-  const [isDark, setIsDark] = useState(true)
-
-  // Watch for dark mode changes
-  useEffect(() => {
-    const check = () => setIsDark(document.documentElement.classList.contains('dark'))
-    check()
-    const observer = new MutationObserver(check)
-    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] })
-    return () => observer.disconnect()
-  }, [])
-
-  // Update map tiles when dark mode changes
-  useEffect(() => {
-    const map = mapRef.current
-    if (!map || !mapReady) return
-    const tileUrl = isDark
-      ? 'https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'
-      : 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
-    const src = map.getSource('carto') as any
-    if (src) {
-      src.setTiles([tileUrl])
-    }
-  }, [isDark, mapReady])
 
   const allMapEvents = useMemo(() => getMapEvents(), [])
 
@@ -167,11 +154,7 @@ export default function MapView({ search }: MapViewProps = {}) {
   useEffect(() => {
     if (!mapContainer.current) return
 
-    // Detect theme for appropriate basemap
-    const isDark = document.documentElement.classList.contains('dark')
-    const tileUrl = isDark
-      ? 'https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png'
-      : 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
+    const tileUrl = 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}@2x.png'
 
     const map = new maplibregl.Map({
       container: mapContainer.current,
@@ -325,7 +308,14 @@ export default function MapView({ search }: MapViewProps = {}) {
         if (e.features?.[0]) {
           const props = e.features[0].properties
           const me = allMapEvents.find(ev => ev.id === props?.id)
-          if (me) setSelectedEvent(me)
+          if (me) {
+            // Get position relative to map container
+            const containerRect = mapContainer.current?.getBoundingClientRect()
+            const x = e.point.x
+            const y = e.point.y
+            setPopupPos({ x, y })
+            setSelectedEvent(me)
+          }
         }
       })
 
@@ -448,7 +438,7 @@ export default function MapView({ search }: MapViewProps = {}) {
 
         {/* Event popup */}
         {selectedEvent && (
-          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} position={popupPos} />
         )}
 
         {/* Legend */}

@@ -1,102 +1,77 @@
 ---
-title: "Little Muhammad the Brave: The Story of a Very Special Orphan"
-date: "576-578 CE"
+title: "Orphanhood: The Death of the Father, Mother, and Grandfather of Prophet Muhammad ﷺ"
+date: "570-578 CE"
 era: "Pre-Islamic"
-audience: "children-6-12"
+audience: "children"
+ageRange: "6-12"
 language: "en"
 ---
 
-# Little Muhammad the Brave: The Story of a Very Special Orphan 🌟
-
-## Part 1: A Baby in the Desert 🐪
-
-**[Illustration: A smiling Bedouin woman holding a baby in a vast golden desert landscape, surrounded by camels and sheep under a warm amber sky.]**
-
-Did you know that long ago in Arabia, there was a special tradition? Babies from the city of Makkah were sent to live with Bedouin families in the desert so they would grow up strong and healthy in the fresh air!
-
-One day, a kind woman named **Halimah** came from the Banu Sa'd tribe looking for a baby to care for. But that year was very hard — it hadn't rained in a long time, the grass had dried up, and all the animals were thin and tired.
-
-In Makkah, there was a baby named **Muhammad**. This baby was very special, but also very sad — his father, Abdullah, had already gone to heaven even before Muhammad was born. Because his family wasn't rich, none of the Bedouin women wanted to take him.
-
-Halimah wasn't sure at first either. But something in her heart told her to take this child. "Let me take this little orphan," she said to her husband.
-
-And guess what happened? The moment baby Muhammad was in Halimah's arms, something amazing occurred! Halimah's milk, which had almost dried up, started flowing abundantly. Their thin camel suddenly gave lots and lots of milk. Even their weak little donkey became the fastest in the group!
-
-Little Muhammad lived in the desert for four years. There, he played with other children, learned about the stars in the night sky, and ran across the sand dunes. The fresh desert air made him strong, and his ears grew used to hearing beautiful, pure Arabic. 🌙
+# Orphanhood 🌙
 
 ---
 
-## Part 2: A Very Sad Goodbye 😢
+## The Death of Abdullah — The Prophet's Father
 
-**[Illustration: A six-year-old boy standing beside his mother who is lying ill in a small tent in the desert. The boy looks sad but brave. A dusty path stretches into the distance.]**
+**Abdullah ibn Abd al-Muttalib**, the father of Prophet Muhammad ﷺ, died in Madinah (then called Yathrib) during a trading journey. He passed away young, at around 25 years old.
 
-After some years in the desert, little Muhammad returned to Makkah, back to his mother, **Aminah**. Aminah loved her only son more than anything in the world.
+According to the majority of scholars, Abdullah died **before Prophet Muhammad was born**. He left behind very little — five camels, a small flock of sheep, and a caretaker named **Umm Ayman (Barakah)**.
 
-One day, Aminah decided to take Muhammad on a trip to the city of **Madinah**. That's where his father's family lived. Six-year-old Muhammad was so excited — it was his first big journey!
-
-In Madinah, Muhammad played with his cousins. His mother showed him where his father was buried. Even though it made him sad, Muhammad was glad to know his father's family.
-
-But on the journey home to Makkah, something terribly sad happened. At a place called **al-Abwa'**, Aminah became very sick. And the sickness got worse and worse...
-
-Aminah, Muhammad's beloved mother, passed away at al-Abwa'.
-
-Little Muhammad, only six years old, had now lost his mother too. His father was already gone. And now his mother was gone as well.
-
-**Umm Ayman**, the faithful caretaker who had been with Muhammad's family for a long time, hugged little Muhammad tightly. With tears streaming down her face, she carried him back to Makkah.
-
-Even though he was very sad, Muhammad never gave up. Allah was watching over him, just as He promised in the Quran:
-
-> *"Did He not find you an orphan and give you shelter?"* ❤️
+Prophet Muhammad ﷺ was born an orphan. Allah said about this in Surah Ad-Dhuha: **"Did He not find you an orphan and give you refuge?"**
 
 ---
 
-## Part 3: A Loving Grandfather 👴
+## The Nursing Years in the Desert
 
-**[Illustration: A dignified elderly man sitting on a mat near the Ka'bah, with his young grandson sitting happily on his lap. People around them smile warmly at the pair.]**
+It was the custom of the Quraysh tribe to send their babies to Bedouin wet-nurses in the desert. This way, children would grow strong and learn pure Arabic.
 
-After Aminah passed away, Muhammad was cared for by his grandfather, **Abd al-Muttalib**. Muhammad's grandfather was a very important person in Makkah — he was the leader of the Quraysh tribe and the guardian of the Ka'bah!
+**Halimah bint Abi Dhu'ayb** from the Banu Sa'd tribe came to Makkah looking for a baby to nurse. No one wanted to take baby Muhammad because he was an orphan — wet-nurses usually expected payment from the baby's father.
 
-Abd al-Muttalib loved Muhammad sooo much. Did you know? In front of the Ka'bah, there was a special mat just for Abd al-Muttalib. None of his sons dared to sit on it. But when Muhammad came and sat there? Abd al-Muttalib smiled and said: *"Leave my grandson alone. He is a very special child!"*
-
-Wherever Abd al-Muttalib went, Muhammad went too. Important meetings? Muhammad came along. To the mosque? Muhammad was right there. This grandfather and grandson were inseparable! 👴👦
-
-Muhammad felt safe and happy with his grandfather. But two years later, when Muhammad was eight years old, his beloved grandfather passed away too...
-
-Now Muhammad had lost the three people he loved most: his father, his mother, and his grandfather. But Allah never left Muhammad alone.
+Halimah finally took Muhammad. From that moment, her life changed — her milk became plentiful, her animals grew fat, and her land became fertile. Muhammad lived with the Banu Sa'd for about **four years**.
 
 ---
 
-## Part 4: Uncle Abu Talib and Precious Lessons 💪
+## The Opening of the Chest
 
-**[Illustration: A boy of about 8-10 years old herding sheep on green hills near Makkah, with a smile on his face. The city of Makkah is visible in the distance under a bright sky with white clouds.]**
+During his time with the Banu Sa'd, an event called **shaqq al-sadr** (the opening of the chest) took place. It is narrated in Sahih Muslim that the angel Jibril came, opened young Muhammad's chest, removed a clot of black substance, and washed his heart with Zamzam water.
 
-Before he died, Abd al-Muttalib asked his son **Abu Talib** to take care of Muhammad. Abu Talib was Muhammad's father's brother, and he loved his nephew very much.
+This event worried Halimah. She decided to return Muhammad to his mother, Aminah, in Makkah.
 
-Abu Talib wasn't a rich man. He had a big family and just enough money to get by. But his love for Muhammad was enormous! He wouldn't go to sleep unless Muhammad was by his side. Whenever he traveled far, Muhammad always came along.
+---
 
-In Abu Talib's home, Muhammad learned many important things:
+## The Death of Aminah — The Prophet's Mother
 
-🐑 **He learned to work hard.** Muhammad herded sheep to help his uncle earn a living. Even though he was young, he wasn't ashamed to work!
+When Muhammad was **six years old**, his mother **Aminah bint Wahb** took him to visit his father's grave in Madinah.
 
-❤️ **He learned empathy.** Because he had experienced loss and hardship himself, Muhammad truly understood how other people felt when they were sad or struggling.
+On the journey home, Aminah fell ill and died at a place called **al-Abwa'**, between Makkah and Madinah. Young Muhammad was now a complete orphan.
 
-🤝 **He learned gratitude.** Even though life was simple, Muhammad was always thankful for what he had.
+**Umm Ayman** carried him back to Makkah, to the care of his grandfather Abd al-Muttalib.
 
-💪 **He learned to be strong.** Every difficulty made Muhammad braver and wiser.
+---
 
-Did you know? When he grew up and became a Prophet, Muhammad ﷺ once said:
+## Under the Care of Abd al-Muttalib
 
-> *"The one who cares for an orphan and I will be together in Paradise like this"* — and he held up two fingers close together. ✌️
+**Abd al-Muttalib** loved his grandson deeply — more than his own sons. He took Muhammad everywhere: to the councils of the Quraysh, to gatherings of honor, always keeping him close.
 
-That's because Muhammad knew exactly what it felt like to be an orphan. And he wanted everyone to love and care for orphaned children, just as he had been loved by Halimah, Umm Ayman, his grandfather, and his uncle.
+But two years later, when Muhammad was **eight years old**, Abd al-Muttalib passed away. Before his death, he entrusted Muhammad to his son **Abu Talib**.
 
-### Lessons for All of Us 🌈
+---
 
-The story of little Muhammad teaches us:
+## Abu Talib — The Loyal Uncle
 
-1. **Never give up**, even when life feels hard
-2. **Every child is precious**, whether from a rich family or a poor one
-3. **Be kind to orphans** — they need our love
-4. **Allah always protects** those who are patient and strong
+**Abu Talib** was not a wealthy man, but he raised Muhammad with great love — even more than his own children. Muhammad helped his uncle's family by **herding sheep** for the people of Makkah.
 
-That little orphan grew up to become the noblest person in the world. So remember: where you start in life doesn't decide where you'll end up! 🌟
+Prophet Muhammad ﷺ once said: **"There was no prophet who did not herd sheep."** (Sahih al-Bukhari, no. 2262)
+
+---
+
+## The Wisdom Behind Orphanhood
+
+The orphanhood of Prophet Muhammad ﷺ carries great wisdom:
+
+- **Independence** — growing up without a father kept him free from inherited idol worship traditions
+- **Empathy** — experiencing loss and hardship gave him deep compassion for the weak
+- **Proof of prophethood** — an orphan without wealth built one of the greatest civilizations in history
+- **A model** — Allah elevated the dignity of every orphan through His prophet
+
+Allah said: **"So as for the orphan, do not oppress him."** (Surah Ad-Dhuha: 9)
