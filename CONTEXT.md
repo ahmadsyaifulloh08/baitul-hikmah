@@ -51,6 +51,8 @@ Website sejarah Islam interaktif dengan timeline, peta, dan mode anak-anak (slid
 | `design/image-briefs-children-v3.md` | Active briefs — 1 per slide, character consistency in header |
 | `scripts/audit-slides.js` | Simulate slide split — WAJIB jalankan sebelum generate gambar |
 | `scripts/build-content.js` | Content builder: markdown → JSON (di-run sebelum `next build`) |
+| `scripts/qa-sync-id-en.js` | ID↔EN sync QA — slide count, section count, frontmatter (WAJIB sebelum deploy) |
+| `scripts/generate-image.py` | Reusable image generation (Gemini API, auto safe zone + no text + prophet rules) |
 
 ## Credentials (JANGAN cat langsung — auto-loaded)
 
@@ -95,6 +97,23 @@ npx wrangler pages deploy out --project-name=baitul-hikmah --branch=develop --co
 
 `childrenIllustrations` di `EventContent.tsx` maps `contentDir → image paths[]` (sequential).
 
+## ID ↔ EN Content Sync (from PRD 16.8.2)
+
+```
+RULE: children-id dan children-en HARUS menghasilkan jumlah slide yang SAMA
+      (image mapping sequential — mismatch = gambar salah di EN)
+
+QA Script: node scripts/qa-sync-id-en.js
+  → Checks: file existence, slide count, section count, frontmatter
+  → WAJIB jalankan SEBELUM setiap deploy
+  → Exit code 1 = ada issue → jangan deploy
+
+Workflow:
+  1. Edit children-id.md → cek slide count → fix children-en.md jika mismatch
+  2. Edit general-id.md → cek section count → fix general-en.md
+  3. Sebelum deploy → node scripts/qa-sync-id-en.js (gate)
+```
+
 ## Content & Illustration Pipeline (from PRD 16.7)
 
 ```
@@ -116,7 +135,12 @@ Phase 2: QA ILUSTRASI (6-point checklist, vision model)
   E. No Text in Image (BLOCKER)
   F. Safe Zone Composition (BLOCKER)
 
-Phase 3: DEPLOY
+Phase 3: CONTENT SYNC
+  3.1 Translate children-id.md → children-en.md (faithful translation)
+  3.2 Translate general-id.md → general-en.md
+  3.3 Run: node scripts/qa-sync-id-en.js → MUST pass (exit 0)
+
+Phase 4: DEPLOY
   Build → CF Pages deploy → Verify di browser
 ```
 
@@ -137,6 +161,8 @@ Phase 3: DEPLOY
 - **Gemini selalu output 1024×1024** — safe zone composition adalah solusinya
 - **`object-fit: cover`** (bukan `contain`) — contain = not fullscreen, rejected
 - **Mapping audit WAJIB** setelah generate batch (jangan asumsikan urutan)
+- **ID↔EN slide count HARUS sama** — image mapping sequential, mismatch = gambar salah di EN
+- **Setelah edit narasi ID → SELALU cek & fix EN** — `node scripts/qa-sync-id-en.js`
 
 ## Current Status (2026-03-16)
 
