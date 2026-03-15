@@ -51,9 +51,11 @@ On the journey home, Aminah fell ill and died at a place called **al-Abwa'**, be
 
 ## Under the Care of Abd al-Muttalib
 
-**Abd al-Muttalib** loved his grandson deeply — more than his own sons. He took Muhammad everywhere: to the councils of the Quraysh, to gatherings of honor, always keeping him close.
+**Abd al-Muttalib** loved his grandson deeply — his love for Muhammad was even greater than his love for his own sons. In his grandfather's home, Muhammad felt a family warmth he had never known before.
 
-But two years later, when Muhammad was **eight years old**, Abd al-Muttalib passed away. Before his death, he entrusted Muhammad to his son **Abu Talib**.
+Abd al-Muttalib always brought Muhammad to the councils of the Quraysh and made him his closest companion. The leaders of Quraysh often saw the old man gently stroking his grandson's head with deep affection, and they could tell how special Muhammad was to Abd al-Muttalib.
+
+But this happiness did not last long. Two years later, when Muhammad was **eight years old**, Abd al-Muttalib fell ill and passed away. Before breathing his last, he called his son **Abu Talib** and gave him a final wish: "Take care of Muhammad for me." Abu Talib promised to raise his nephew as his own child.
 
 ---
 

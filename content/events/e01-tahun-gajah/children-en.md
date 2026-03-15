@@ -33,11 +33,9 @@ Abd al-Muttalib replied calmly: **"I am the owner of those camels. The Ka'bah ha
 
 ## The Elephant Refuses and the Birds Arrive
 
-When the army was ordered to advance, the elephant Mahmud **refused to walk toward the Ka'bah**. Every time it was pointed toward Makkah, it knelt down. But it would walk in any other direction.
+When the army was ordered to advance toward the Ka'bah, something extraordinary happened. The mighty elephant Mahmud suddenly **refused to walk toward the Ka'bah** — every time its handler pointed it toward Makkah, Mahmud knelt down and pressed its head to the ground, yet it would walk happily in any other direction, as if the elephant itself knew that the house of Allah must not be destroyed.
 
-Then flocks of **ababil birds** came from the sky. Each bird carried three small stones — one in its beak and one in each claw. These stones destroyed Abraha's entire army.
-
-Allah recorded this event in **Surah Al-Fil (105:1-5)** — about how the elephant army was destroyed by small birds carrying stones.
+Then the sky darkened and from the distance came flocks of **ababil birds** — hundreds of small birds flying in great formation, each carrying three small stones in its beak and claws. The stones rained down upon Abraha's army, destroying them one by one. Allah recorded this extraordinary event in **Surah Al-Fil (105:1-5)** — even the mightiest human force is powerless before the will of Allah.
 
 ---
 

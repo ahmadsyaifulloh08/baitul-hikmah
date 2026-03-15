@@ -90,7 +90,7 @@ npx wrangler pages deploy out --project-name=baitul-hikmah --branch=develop --co
 
 | Event | Slides | Images | Image naming |
 |-------|--------|--------|-------------|
-| e01-tahun-gajah | 11 | 11 | `e01-slide-01.png` ... `e01-slide-11.png` |
+| e01-tahun-gajah | 10 | 10 | `e01-slide-01.png` ... `e01-slide-10.png` |
 | e02-yatim-piatu | 15 | 15 | `e02-slide-01.png` ... `e02-slide-15.png` |
 
 `childrenIllustrations` di `EventContent.tsx` maps `contentDir → image paths[]` (sequential).
