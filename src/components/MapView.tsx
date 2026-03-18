@@ -31,20 +31,23 @@ function YearSlider({ year, onChange }: { year: number; onChange: (y: number) =>
 }
 
 // ─── Popup Card ───
-function EventPopup({ event, onClose }: { event: MapEvent; onClose: () => void }) {
+function EventPopup({ event, onClose, position }: { event: MapEvent; onClose: () => void; position: { x: number; y: number } }) {
   const era = eras.find(e => e.id === event.era)
-  // Fixed center-top position — no jumping
+  // Position above clicked dot, clamped to viewport
+  const popupWidth = 320
+  const popupHeight = 200
+  const left = Math.max(10, Math.min(position.x - popupWidth / 2, (typeof window !== 'undefined' ? window.innerWidth : 800) - popupWidth - 10))
+  const top = Math.max(10, position.y - popupHeight - 12)
   const popupStyle: React.CSSProperties = {
     position: 'absolute',
-    left: '50%',
-    top: 16,
-    transform: 'translateX(-50%)',
-    width: 320,
+    left,
+    top,
+    width: popupWidth,
     maxWidth: 'calc(100% - 20px)',
     zIndex: 50,
   }
   return (
-    <div style={popupStyle} className="bg-[var(--bg-primary)] border border-[var(--border)] rounded-xl shadow-2xl p-4 animate-fade-in">
+    <div style={popupStyle} className="bg-[var(--bg-primary)] border border-[var(--border)] rounded-xl shadow-2xl p-4">
       <button onClick={onClose} className="absolute top-2 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-lg">×</button>
       <div className="flex items-center gap-2 mb-2">
         <span
@@ -437,9 +440,9 @@ export default function MapView({ search }: MapViewProps = {}) {
           {filteredEvents.length} peristiwa
         </div>
 
-        {/* Event popup */}
-        {selectedEvent && (
-          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+        {/* Event popup — only render when position is set */}
+        {selectedEvent && popupPos.x > 0 && popupPos.y > 0 && (
+          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} position={popupPos} />
         )}
 
         {/* Legend */}
