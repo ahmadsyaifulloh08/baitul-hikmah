@@ -121,6 +121,8 @@ function renderMarkdown(md: string) {
       html += `<h2 class="font-heading" style="font-size:1.25rem;font-weight:600;margin:24px 0 12px">${formatInline(trimmed.slice(3))}</h2>`
     } else if (trimmed.startsWith('### ')) {
       html += `<h3 class="font-heading" style="font-size:1.1rem;font-weight:600;margin:16px 0 8px">${formatInline(trimmed.slice(4))}</h3>`
+    } else if (trimmed.startsWith('#### ')) {
+      html += `<h4 class="font-heading" style="font-size:1rem;font-weight:600;margin:12px 0 6px">${formatInline(trimmed.slice(5))}</h4>`
     }
     // Unordered list
     else if (trimmed.startsWith('- ') || (trimmed.startsWith('* ') && !trimmed.startsWith('**'))) {
