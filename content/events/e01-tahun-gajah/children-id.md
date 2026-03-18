@@ -33,9 +33,13 @@ Abdul Muthalib menjawab dengan tenang: **"Aku pemilik unta itu. Ka'bah punya Tuh
 
 ## Gajah Menolak Maju dan Burung Ababil
 
-Ketika pasukan diperintahkan maju menuju Ka'bah, sesuatu yang luar biasa terjadi. Gajah Mahmud yang perkasa itu tiba-tiba **menolak berjalan ke arah Ka'bah** — setiap kali pawangnya mengarahkannya ke Makkah, Mahmud berlutut dan menundukkan kepalanya ke tanah. Yang mengherankan, kalau diarahkan ke utara, selatan, atau timur, Mahmud mau berjalan, tapi ke arah Ka'bah ia tetap menolak — seolah-olah sang gajah tahu bahwa rumah Allah tidak boleh dihancurkan.
+Ketika pasukan diperintahkan maju menuju Ka'bah, sesuatu yang luar biasa terjadi. Gajah Mahmud yang perkasa itu tiba-tiba **menolak berjalan ke arah Ka'bah**. Setiap kali pawangnya mengarahkannya ke Makkah, Mahmud berlutut dan menundukkan kepalanya ke tanah. Para prajurit memukul dan mendorongnya, tapi Mahmud tetap tidak bergerak.
 
-Kemudian langit berubah gelap dan dari kejauhan datang kawanan **burung ababil** — ratusan burung kecil terbang dalam formasi besar, masing-masing membawa tiga batu kecil di paruh dan kedua cakarnya. Batu-batu itu berjatuhan menghantam pasukan Abrahah, menghancurkan mereka satu per satu. Allah mengabadikan peristiwa luar biasa ini dalam **QS Al-Fil (105:1-5)** — kekuatan terbesar manusia pun tak berdaya di hadapan kehendak Allah.
+Yang mengherankan, kalau diarahkan ke utara, selatan, atau timur, Mahmud mau berjalan. Tapi ke arah Ka'bah? Ia menolak. Seolah-olah sang gajah tahu bahwa rumah Allah tidak boleh dihancurkan.
+
+Kemudian langit berubah gelap. Dari kejauhan datang kawanan **burung ababil** — ratusan burung kecil terbang dalam formasi besar. Setiap burung membawa tiga batu kecil — satu di paruh dan satu di masing-masing cakar. Batu-batu itu berjatuhan menghantam pasukan Abrahah, menghancurkan mereka satu per satu.
+
+Allah mengabadikan peristiwa luar biasa ini dalam **QS Al-Fil (105:1-5)** — tentang bagaimana pasukan bergajah yang perkasa dihancurkan oleh burung-burung kecil pembawa batu. Kekuatan terbesar manusia pun tak berdaya di hadapan kehendak Allah.
 
 ---
 

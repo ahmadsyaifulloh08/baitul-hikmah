@@ -65,7 +65,7 @@ Tapi kebahagiaan ini tidak berlangsung lama. Dua tahun kemudian, saat Muhammad b
 
 **Abu Thalib** bukan orang kaya, tapi ia merawat Muhammad dengan penuh kasih sayang — melebihi anak-anaknya sendiri. Muhammad membantu ekonomi keluarga pamannya dengan **menggembala kambing** untuk penduduk Makkah.
 
-Nabi Muhammad ﷺ pernah bersabda: **"Tidak ada seorang nabi pun kecuali ia pernah menggembala kambing"** (HR Bukhari, no. 2262).
+Nabi Muhammad ﷺ pernah bersabda: **"Tidak ada seorang nabi pun kecuali ia pernah menggembala kambing."** (HR Bukhari, no. 2262)
 
 ---
 
@@ -78,4 +78,4 @@ Keyatiman Nabi Muhammad ﷺ punya hikmah besar:
 - **Bukti kenabian** — seorang yatim tanpa kekayaan mampu membangun peradaban besar
 - **Teladan** — Allah mengangkat martabat setiap anak yatim melalui nabi-Nya
 
-Allah berfirman: **"Maka terhadap anak yatim janganlah kamu berlaku sewenang-wenang"** (QS Ad-Dhuha: 9).
+Allah berfirman: **"Maka terhadap anak yatim janganlah kamu berlaku sewenang-wenang."** (QS Ad-Dhuha: 9)

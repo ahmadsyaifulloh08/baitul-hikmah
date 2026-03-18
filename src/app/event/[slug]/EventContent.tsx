@@ -435,6 +435,7 @@ interface Slide {
 const childrenIllustrations: Record<string, string[]> = {
   'e01-tahun-gajah': Array.from({length: 10}, (_, i) => `/illustrations/children/e01-slide-${String(i+1).padStart(2,'0')}.png`),
   'e02-yatim-piatu': Array.from({length: 15}, (_, i) => `/illustrations/children/e02-slide-${String(i+1).padStart(2,'0')}.png`),
+  'e03-perjalanan-syam': Array.from({length: 4}, (_, i) => `/illustrations/children/e03-slide-${String(i+1).padStart(2,'0')}.png`),
 }
 
 const sectionEmojis: Record<number, { emoji: string; bg: string }> = {
@@ -519,8 +520,8 @@ function EventContentInner({ event }: { event: Event }) {
   const cat = getCategory(event.category)
   
   const slug = slugify(event.title)
-  const contentDir = (eventContentMap as Record<string, string>)[slug]
-  const content = contentDir ? (eventContentData as any)[contentDir] : null
+  const contentDir = (eventContentMap as any)[slug]
+  const content = contentDir ? (typeof contentDir === 'string' ? (eventContentData as any)[contentDir] : contentDir) : null
   const hasRichContent = !!content
 
   return (
