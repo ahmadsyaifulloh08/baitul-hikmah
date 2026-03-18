@@ -117,6 +117,8 @@ CHECKLIST SITASI:
 ### Format dalam Body Text
 - Superscript: `teks klaim¹`, `fakta sejarah²³`
 - Renderer auto-converts ke: `<sup><a href="#ref-1">1</a></sup>` (clickable)
+- **Multiple citations**: `^4^5` → rendered sebagai `⁴ ⁵` (dipisah spasi, standar sitasi akademis)
+- **Heading level**: Renderer support `##` (h2), `###` (h3), dan `####` (h4)
 - Daftar pustaka HANYA dari markdown content (bukan dari JSON `event.sumber`)
 - **Setiap paragraf fakta historis HARUS punya minimal 1 sitasi** — paragraf tanpa sitasi = klaim tanpa sumber
 
