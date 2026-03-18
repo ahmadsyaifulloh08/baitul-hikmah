@@ -172,7 +172,7 @@ function formatInline(text: string) {
     .replace(/`(.+?)`/g, '<code style="font-size:13px;background:var(--bg-secondary);padding:2px 6px;border-radius:4px">$1</code>')
     // Superscript citations with anchor links (^1 → linked to #ref-1)
     .replace(/\^(\d+)/g, '<sup style="font-size:10px;color:#8B6914;font-weight:700"><a href="#ref-$1" style="color:#8B6914;text-decoration:none">$1</a></sup>')
-    .replace(/<\/sup><sup/g, '</sup><sup style="font-size:8px;color:#8B6914">,</sup><sup')
+    .replace(/<\/sup><sup/g, '</sup> <sup')
     // Unicode superscript numbers (¹²³⁴⁵⁶⁷⁸⁹⁰) → linked
     .replace(/([\u00B9\u00B2\u00B3\u2074\u2075\u2076\u2077\u2078\u2079\u2070]+)/g, (match) => {
       const numMap: Record<string, string> = {'\u00B9':'1','\u00B2':'2','\u00B3':'3','\u2074':'4','\u2075':'5','\u2076':'6','\u2077':'7','\u2078':'8','\u2079':'9','\u2070':'0'}
