@@ -31,13 +31,14 @@ function YearSlider({ year, onChange }: { year: number; onChange: (y: number) =>
 }
 
 // ─── Popup Card ───
-function EventPopup({ event, onClose, position }: { event: MapEvent; onClose: () => void; position: { x: number; y: number } }) {
+function EventPopup({ event, onClose }: { event: MapEvent; onClose: () => void }) {
   const era = eras.find(e => e.id === event.era)
-  // Position popup above the click point, clamped to container
+  // Fixed center-top position — no jumping
   const popupStyle: React.CSSProperties = {
     position: 'absolute',
-    left: Math.max(10, Math.min(position.x - 160, window.innerWidth - 340)),
-    top: Math.max(10, position.y - 220),
+    left: '50%',
+    top: 16,
+    transform: 'translateX(-50%)',
     width: 320,
     maxWidth: 'calc(100% - 20px)',
     zIndex: 50,
@@ -438,7 +439,7 @@ export default function MapView({ search }: MapViewProps = {}) {
 
         {/* Event popup */}
         {selectedEvent && (
-          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} position={popupPos} />
+          <EventPopup event={selectedEvent} onClose={() => setSelectedEvent(null)} />
         )}
 
         {/* Legend */}
