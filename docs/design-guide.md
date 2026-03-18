@@ -181,7 +181,65 @@ Mode switch: color morph 500ms + layout reflow 300ms. Scroll: fade-in + slide al
 
 ---
 
-## 8. Accessibility
+## 8. Iconography
+
+### 5.1 Category Icons
+
+All category icons are inline SVGs, 20px default, stroke-based (1.5px stroke).
+
+| Category | Symbol | File |
+|----------|--------|------|
+| Kenabian | ☆ (Star) | `assets/icon-kenabian.svg` |
+| Politik | ♛ (Crown) | `assets/icon-politik.svg` |
+| Ilmu Pengetahuan | ≡ (Book/Lines) | `assets/icon-ilmu.svg` |
+| Militer | ⚔ (Crossed Swords) | `assets/icon-militer.svg` |
+| Peradaban | ◆ (Diamond) | `assets/icon-peradaban.svg` |
+| Kemunduran | ↓ (Down Arrow) | `assets/icon-kemunduran.svg` |
+
+### 5.2 UI Icons
+
+Use **Lucide** icon set for general UI (search, menu, filter, chevron, share, etc.).
+
+### 5.3 Mode Toggle Icon
+
+Crescent moon (`assets/icon-mode-dongeng.svg`) — animated rotation on toggle.
+
+---
+
+---
+
+## 9. Responsive Breakpoints
+
+| Name | Min Width | Key Changes |
+|------|-----------|-------------|
+| `mobile` | 0 | Single column, bottom sheets, hamburger nav |
+| `tablet` | 768px | 2-column grids, side panels |
+| `desktop` | 1024px | Full layout, map + timeline side-by-side |
+| `wide` | 1280px | Wider containers, 3-column grids |
+
+### Mobile-Specific
+
+- Timeline: Vertical only, left-aligned markers
+- Event cards: Full width, swipe to navigate
+- Map: Full screen, bottom sheet for event details
+- Navigation: Bottom tab bar (Timeline | Map | Search | Settings)
+
+---
+
+---
+
+## 10. Dark/Light Mode
+
+- **Default**: Follows system preference (`prefers-color-scheme`)
+- **Manual toggle**: Available in settings
+- **Children mode**: Always light (warm cream background)
+- **Transition**: 200ms background, 150ms text color
+
+---
+
+---
+
+## 11. Accessibility
 
 - Contrast: WCAG AA minimum (4.5:1 text, 3:1 large)
 - Focus: 2px solid ring, era color, 2px offset
