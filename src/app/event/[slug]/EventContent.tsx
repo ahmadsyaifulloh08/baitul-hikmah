@@ -523,9 +523,15 @@ function EventContentInner({ event }: { event: Event }) {
   const cat = getCategory(event.category)
   
   const slug = slugify(event.title)
-  const contentDir = (eventContentMap as any)[slug]
-  const content = contentDir ? (typeof contentDir === 'string' ? (eventContentData as any)[contentDir] : contentDir) : null
+  const contentMapEntry = (eventContentMap as any)[slug]
+  const contentDir = typeof contentMapEntry === 'string' ? contentMapEntry : undefined
+  const content = contentMapEntry ? (typeof contentMapEntry === 'string' ? (eventContentData as any)[contentMapEntry] : contentMapEntry) : null
   const hasRichContent = !!content
+  // Resolve illustration key: try contentDir (string), or match slug against illustration keys
+  const illustrationKey = contentDir || Object.keys(childrenIllustrations).find(k => {
+    const parts = k.replace(/^e\d+-/, '').split('-')
+    return parts.every(p => slug.includes(p))
+  })
 
   return (
     <main className="min-h-screen">
@@ -610,7 +616,7 @@ function EventContentInner({ event }: { event: Event }) {
         {/* Fullscreen slideshow modal */}
         <AnimatePresence>
           {storyMode && hasRichContent && content['children-id'] && (
-            <ChildrenSlideshow content={content['children-id']} contentDir={contentDir} onClose={() => setStoryMode(false)} />
+            <ChildrenSlideshow content={content['children-id']} contentDir={illustrationKey} onClose={() => setStoryMode(false)} />
           )}
         </AnimatePresence>
 
