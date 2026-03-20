@@ -1,12 +1,3 @@
----
-title: "The Battle of Ajnadayn: The First Step into the Blessed Land"
-date: "634 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Ajnadayn 🗡️🌍
 
 ---
@@ -88,6 +79,6 @@ The Battle of Ajnadayn teaches us:
 - **Ethics matter** — even in war, there are rules to protect the vulnerable
 - **Small steps open great paths** — one victory at Ajnadayn opened the door to the conquest of all al-Sham
 
-Allah says about the land of al-Sham: **"...al-Masjid al-Aqsa, whose surroundings We have blessed."** (QS. Al-Isra: 1)
+Allah says about the land of al-Sham: **"...al-Masjid al-Aqsa, whose surroundings We have blessed. ﴾1﴿"** (QS. Al-Isra: 1)
 
 🎨 *Illustration: Khalid and Amr standing side by side on a hilltop, gazing toward the green expanse of al-Sham stretching before them. A gentle wind blows, their robes billowing. Dominant colors: al-Sham green, blue sky, and golden sunlight. Mood: triumphant and reflective. Composition: two figures on a hill from behind, looking out over the vast panorama of al-Sham.*

@@ -1,12 +1,3 @@
----
-title: "The Second Pledge of Aqabah: The Brave Promise of 75 People from Madinah"
-date: "622 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Second Pledge of Aqabah 🤝
 
 ---

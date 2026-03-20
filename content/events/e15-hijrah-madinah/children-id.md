@@ -1,12 +1,3 @@
----
-title: "Hijrah ke Madinah: Perjalanan Besar Nabi Muhammad ﷺ"
-date: "622 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Hijrah ke Madinah 🌙
 
 ---

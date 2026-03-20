@@ -1,12 +1,3 @@
----
-title: "The Beginning of the Translation Movement"
-date: "700 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Translation Movement — Translating the World's Knowledge 📚
 
 ---

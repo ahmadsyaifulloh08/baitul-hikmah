@@ -1,12 +1,3 @@
----
-title: "Penghancuran Berhala: Ka'bah Kembali Suci"
-date: "630 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Penghancuran Berhala di Ka'bah 🕋✨
 
 ---

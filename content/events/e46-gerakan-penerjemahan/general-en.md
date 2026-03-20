@@ -1,23 +1,14 @@
----
-title: "The Beginning of the Translation Movement"
-date: "700 CE"
-era: "Umayyad"
-location: "Damascus, Syria"
-tags: ["translation-movement", "khalid-ibn-yazid", "alchemy", "science", "translation", "greek", "umayyad-dynasty"]
-sources: ["tarikh-al-hukama-ibn-al-qifti", "uyun-al-anba-ibn-abi-usaybiah", "al-fihrist-ibn-al-nadim"]
----
-
 # The Beginning of the Translation Movement (c. 700 CE)
 
 ## Historical Context: The Intellectual Heritage of the Ancient World
 
-As Islam spread across the former territories of the Byzantine and Persian empires, Muslims encountered an extraordinary wealth of knowledge — libraries housing works of Greek philosophy, Roman medicine, Persian astronomy, and Indian mathematics. This heritage had not vanished with the collapse of the old empires; it awaited discovery, translation, and development.¹
+As Islam spread across the former territories of the Byzantine and Persian empires, Muslims encountered an extraordinary wealth of knowledge — libraries housing works of Greek philosophy, Roman medicine, Persian astronomy, and Indian mathematics. This heritage had not vanished with the collapse of the old empires; it awaited discovery, translation, and development.^1
 
 The Quran itself urges Muslims to seek knowledge without geographical or ethnic boundaries:
 
 > اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾
 >
-> *"Read in the name of your Lord who created."*
+> *"Read in the name of your Lord who created. ﴾1﴿"*
 > — QS. Al-Alaq (96): 1
 
 The very first command in Islamic revelation was the command to read and seek knowledge — and it was this spirit that drove the translation movement.
@@ -26,21 +17,21 @@ The very first command in Islamic revelation was the command to read and seek kn
 
 ### The Prince Who Chose Knowledge
 
-The figure widely recognized as the pioneer of the translation movement in Islam is **Khalid ibn Yazid ibn Muawiyah** — the grandson of the Umayyad Dynasty's founder. Khalid was a prince who had been considered for the caliphate, but the position was taken by Marwan ibn al-Hakam. Rather than pursuing political power, Khalid devoted his life to the pursuit of knowledge.¹ ²
+The figure widely recognized as the pioneer of the translation movement in Islam is **Khalid ibn Yazid ibn Muawiyah** — the grandson of the Umayyad Dynasty's founder. Khalid was a prince who had been considered for the caliphate, but the position was taken by Marwan ibn al-Hakam. Rather than pursuing political power, Khalid devoted his life to the pursuit of knowledge.^1 ^2
 
-Ibn al-Nadim in *Al-Fihrist* — the monumental bibliographic encyclopedia — records that Khalid ibn Yazid was *"the first to have books of astronomy, medicine, and alchemy translated from Greek and Coptic into Arabic."*³
+Ibn al-Nadim in *Al-Fihrist* — the monumental bibliographic encyclopedia — records that Khalid ibn Yazid was *"the first to have books of astronomy, medicine, and alchemy translated from Greek and Coptic into Arabic."*^3
 
-Ibn al-Qifti in *Tarikh al-Hukama* (History of the Scholars) provides further detail: Khalid brought a group of Greek scholars from Egypt, including a monk named **Marianos** (or Morienus in Latin sources), to teach the ancient sciences and translate important works into Arabic.¹
+Ibn al-Qifti in *Tarikh al-Hukama* (History of the Scholars) provides further detail: Khalid brought a group of Greek scholars from Egypt, including a monk named **Marianos** (or Morienus in Latin sources), to teach the ancient sciences and translate important works into Arabic.^1
 
 ### Alchemy: The First Science Translated
 
-The field that most captivated Khalid was **alchemy** (*al-kimiya'*) — the precursor to modern chemistry. Ibn Abi Usaybi'ah in *Uyun al-Anba fi Tabaqat al-Atibba'* (Sources of Information on the Classes of Physicians) records that Khalid not only translated works of alchemy but also wrote his own treatises on the subject.²
+The field that most captivated Khalid was **alchemy** (*al-kimiya'*) — the precursor to modern chemistry. Ibn Abi Usaybi'ah in *Uyun al-Anba fi Tabaqat al-Atibba'* (Sources of Information on the Classes of Physicians) records that Khalid not only translated works of alchemy but also wrote his own treatises on the subject.^2
 
 Khalid's interest in alchemy was not merely about the ambition to turn base metals into gold — the myth often associated with alchemy. Rather, alchemy at the time encompassed an understanding of the properties of matter, chemical reactions, and natural processes that would form the basis of experimental science.
 
 ### Translation Beyond Alchemy
 
-Although alchemy was the primary focus, the early translation movement was not limited to a single field. Ibn al-Nadim records that works translated during this period included:³
+Although alchemy was the primary focus, the early translation movement was not limited to a single field. Ibn al-Nadim records that works translated during this period included:^3
 
 - **Astronomy** — Knowledge of stars and planets from the Greek and Persian traditions
 - **Medicine** — The works of Galen and Hippocrates began to be rendered into Arabic

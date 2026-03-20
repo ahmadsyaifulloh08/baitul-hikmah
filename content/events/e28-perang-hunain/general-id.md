@@ -1,73 +1,62 @@
----
-title: "Perang Hunain dan Pengepungan Thaif"
-date: "630 M"
-era: "Kenabian"
-location: "Lembah Hunain dan Thaif, Jazirah Arab"
-category: "military"
-significance: "MEDIUM"
-tags: ["perang-hunain", "thaif", "hawazin", "tsaqif", "nabi-muhammad", "malik-bin-auf"]
-sources: ["shahih-muslim", "ibn-hisham", "rahiq-makhtum"]
----
-
 # Perang Hunain dan Pengepungan Thaif
 
 ## Konteks: Ancaman dari Selatan
 
-Pembebasan Makkah pada Ramadhan tahun 8 Hijriah (630 M) mengubah keseimbangan kekuatan di Jazirah Arab secara fundamental. Namun tidak semua suku menerima kenyataan baru ini. Dua konfederasi suku besar di sebelah selatan dan tenggara Makkah — **Hawazin** dan **Tsaqif** — melihat kebangkitan Islam sebagai ancaman langsung terhadap kekuasaan dan cara hidup mereka.¹
+Pembebasan Makkah pada Ramadhan tahun 8 Hijriah (630 M) mengubah keseimbangan kekuatan di Jazirah Arab secara fundamental. Namun tidak semua suku menerima kenyataan baru ini. Dua konfederasi suku besar di sebelah selatan dan tenggara Makkah — **Hawazin** dan **Tsaqif** — melihat kebangkitan Islam sebagai ancaman langsung terhadap kekuasaan dan cara hidup mereka.^1
 
-**Malik bin Auf al-Nashri**, seorang pemuda berusia sekitar tiga puluh tahun yang memimpin Hawazin, mengambil keputusan berani: ia menghimpun seluruh kekuatan Hawazin dan sekutunya untuk menyerang kaum muslimin sebelum mereka sempat mengonsolidasi kekuatan pasca-Fath Makkah.¹ ² Malik menggunakan taktik psikologis yang tidak lazim — ia memerintahkan seluruh pasukannya membawa keluarga, harta, dan ternak mereka ke medan perang. Logikanya: jika para prajurit melihat keluarga mereka di belakang, mereka akan bertempur mati-matian dan tidak ada yang berani melarikan diri.
+**Malik bin Auf al-Nashri**, seorang pemuda berusia sekitar tiga puluh tahun yang memimpin Hawazin, mengambil keputusan berani: ia menghimpun seluruh kekuatan Hawazin dan sekutunya untuk menyerang kaum muslimin sebelum mereka sempat mengonsolidasi kekuatan pasca-Fath Makkah.^1 ^2 Malik menggunakan taktik psikologis yang tidak lazim — ia memerintahkan seluruh pasukannya membawa keluarga, harta, dan ternak mereka ke medan perang. Logikanya: jika para prajurit melihat keluarga mereka di belakang, mereka akan bertempur mati-matian dan tidak ada yang berani melarikan diri.
 
-Namun keputusan ini dikritik keras oleh **Duraid bin al-Shimmah**, seorang panglima perang Hawazin yang sudah sangat tua dan berpengalaman. Duraid — yang dibawa ke medan perang di atas tandu karena usianya yang sudah lebih dari seratus tahun — berkata kepada Malik:¹
+Namun keputusan ini dikritik keras oleh **Duraid bin al-Shimmah**, seorang panglima perang Hawazin yang sudah sangat tua dan berpengalaman. Duraid — yang dibawa ke medan perang di atas tandu karena usianya yang sudah lebih dari seratus tahun — berkata kepada Malik:^1
 
-*"Demi Allah, engkau hanyalah penggembala unta dan kambing! Apakah ada sesuatu yang bisa menghentikan orang yang melarikan diri? Jika pasukanmu menang, hanya prajurit berpedang dan bertombak yang berguna. Tapi jika kalah, engkau telah mempermalukan keluargamu dan menyerahkan hartamu."*
+*"Demi Allah, engkau hanyalah penggembala unta dan kambing! Apakah ada sesuatu yang bisa menghentikan orang yang melarikan diri? Jika pasukanmu menang, hanya prajurit berpedang dan bertombak yang berguna. Tapi jika kalah, engkau telah mempermalukan keluargamu dan menyerahkan hartamu. ﴾25﴿"*
 
 Malik menolak nasihat Duraid, sebuah keputusan yang kelak terbukti mahal.
 
 ## Peristiwa: Penyergapan di Lembah Hunain
 
-Rasulullah ﷺ berangkat dari Makkah dengan pasukan berjumlah sekitar 12.000 orang — 10.000 pasukan yang ikut Fath Makkah ditambah 2.000 penduduk Makkah yang baru masuk Islam.¹ ² Ini adalah pasukan terbesar yang pernah dipimpin beliau. Jumlah yang besar ini membuat sebagian sahabat merasa percaya diri berlebihan. Seseorang bahkan berkata: *"Kita tidak akan kalah hari ini karena sedikitnya jumlah kita."*²
+Rasulullah ﷺ berangkat dari Makkah dengan pasukan berjumlah sekitar 12.000 orang — 10.000 pasukan yang ikut Fath Makkah ditambah 2.000 penduduk Makkah yang baru masuk Islam.^1 ^2 Ini adalah pasukan terbesar yang pernah dipimpin beliau. Jumlah yang besar ini membuat sebagian sahabat merasa percaya diri berlebihan. Seseorang bahkan berkata: *"Kita tidak akan kalah hari ini karena sedikitnya jumlah kita. ﴾25﴿"*^2
 
 Al-Quran merekam sikap ini dan konsekuensinya:
 
 > لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ ﴿٢٥﴾
 >
-> *"Sesungguhnya Allah telah menolong kamu dalam banyak medan perang, dan pada Hari Hunain, ketika jumlahmu yang besar itu membanggakanmu, ternyata jumlah itu tidak berguna bagimu sedikit pun, dan bumi yang luas itu terasa sempit bagimu, kemudian kamu berbalik melarikan diri."*
+> *"Sesungguhnya Allah telah menolong kamu dalam banyak medan perang, dan pada Hari Hunain, ketika jumlahmu yang besar itu membanggakanmu, ternyata jumlah itu tidak berguna bagimu sedikit pun, dan bumi yang luas itu terasa sempit bagimu, kemudian kamu berbalik melarikan diri. ﴾25﴿"*
 > — QS. At-Taubah (9): 25
 
-Malik bin Auf telah menyiapkan perangkap yang cerdik. Ia menyusun pasukannya di celah-celah dan lereng-lereng Lembah Hunain — sebuah lembah sempit yang dikelilingi bukit-bukit curam.¹ Ketika pasukan muslim memasuki lembah di waktu fajar yang masih gelap, tiba-tiba hujan anak panah menghujani mereka dari segala arah, disusul serangan kavaleri yang brutal dari samping.
+Malik bin Auf telah menyiapkan perangkap yang cerdik. Ia menyusun pasukannya di celah-celah dan lereng-lereng Lembah Hunain — sebuah lembah sempit yang dikelilingi bukit-bukit curam.^1 Ketika pasukan muslim memasuki lembah di waktu fajar yang masih gelap, tiba-tiba hujan anak panah menghujani mereka dari segala arah, disusul serangan kavaleri yang brutal dari samping.
 
-Pasukan muslimin yang tidak siap menghadapi penyergapan ini langsung panik dan lari cerai-berai.¹ ² Dalam hitungan menit, pasukan besar yang berjumlah 12.000 itu buyar. Hanya segelintir sahabat yang tetap bertahan di sisi Rasulullah ﷺ — di antaranya **Abu Bakr**, **Umar**, **Ali bin Abi Thalib**, **al-Abbas bin Abdul Muthalib**, dan **Abu Sufyan bin al-Harits** (sepupu Nabi).
+Pasukan muslimin yang tidak siap menghadapi penyergapan ini langsung panik dan lari cerai-berai.^1 ^2 Dalam hitungan menit, pasukan besar yang berjumlah 12.000 itu buyar. Hanya segelintir sahabat yang tetap bertahan di sisi Rasulullah ﷺ — di antaranya **Abu Bakr**, **Umar**, **Ali bin Abi Thalib**, **al-Abbas bin Abdul Muthalib**, dan **Abu Sufyan bin al-Harits** (sepupu Nabi).
 
-Dalam momen kritis itu, Rasulullah ﷺ menunjukkan keberanian luar biasa. Alih-alih mundur, beliau justru memacu bighalnya (keledai besar) ke arah musuh. **Al-Abbas**, yang dikenal memiliki suara yang sangat keras, diperintahkan untuk memanggil pasukan yang melarikan diri:¹ ²
+Dalam momen kritis itu, Rasulullah ﷺ menunjukkan keberanian luar biasa. Alih-alih mundur, beliau justru memacu bighalnya (keledai besar) ke arah musuh. **Al-Abbas**, yang dikenal memiliki suara yang sangat keras, diperintahkan untuk memanggil pasukan yang melarikan diri:^1 ^2
 
-*"Wahai kaum Anshar! Wahai para sahabat pohon Samurah (Bai'at Ridwan)!"*
+*"Wahai kaum Anshar! Wahai para sahabat pohon Samurah (Bai'at Ridwan)! ﴾26﴿"*
 
-Seruan ini menggema di seluruh lembah. Para sahabat yang mendengarnya segera berbalik dan bergegas kembali ke sisi Rasulullah ﷺ, menjawab: *"Labbaik! Labbaik!"* (Kami penuhi! Kami penuhi!) Imam Muslim meriwayatkan bahwa pertempuran kemudian berbalik arah — pasukan Hawazin yang semula mendominasi kini terdesak mundur.³
+Seruan ini menggema di seluruh lembah. Para sahabat yang mendengarnya segera berbalik dan bergegas kembali ke sisi Rasulullah ﷺ, menjawab: *"Labbaik! Labbaik! ﴾26﴿"* (Kami penuhi! Kami penuhi!) Imam Muslim meriwayatkan bahwa pertempuran kemudian berbalik arah — pasukan Hawazin yang semula mendominasi kini terdesak mundur.^3
 
 Al-Quran menggambarkan pertolongan ilahi di momen ini:
 
 > ثُمَّ أَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ كَفَرُوا ﴿٢٦﴾
 >
-> *"Kemudian Allah menurunkan ketenangan-Nya kepada Rasul-Nya dan kepada orang-orang yang beriman, dan menurunkan tentara yang tidak kamu lihat, dan Dia mengazab orang-orang kafir."*
+> *"Kemudian Allah menurunkan ketenangan-Nya kepada Rasul-Nya dan kepada orang-orang yang beriman, dan menurunkan tentara yang tidak kamu lihat, dan Dia mengazab orang-orang kafir. ﴾26﴿"*
 > — QS. At-Taubah (9): 26
 
-Hawazin mengalami kekalahan telak. Pasukan mereka melarikan diri meninggalkan keluarga, harta, dan ternak mereka — persis seperti yang dikhawatirkan Duraid bin al-Shimmah. Kaum muslimin menawan 6.000 orang dan merampas 24.000 unta, 40.000 kambing, dan sejumlah besar perak.¹ ²
+Hawazin mengalami kekalahan telak. Pasukan mereka melarikan diri meninggalkan keluarga, harta, dan ternak mereka — persis seperti yang dikhawatirkan Duraid bin al-Shimmah. Kaum muslimin menawan 6.000 orang dan merampas 24.000 unta, 40.000 kambing, dan sejumlah besar perak.^1 ^2
 
 ## Pengepungan Thaif
 
-Sisa pasukan Hawazin dan Tsaqif mundur ke kota Thaif — sebuah kota yang dikelilingi benteng tinggi di dataran tinggi Hijaz.¹ Rasulullah ﷺ mengepung Thaif selama sekitar dua puluh hari. Kaum muslimin menggunakan *dababah* (kendaraan perang berlapis kulit untuk melindungi prajurit) dan *manjaniq* (ketapel besar) — pertama kalinya teknologi pengepungan semacam ini digunakan oleh pasukan muslim.²
+Sisa pasukan Hawazin dan Tsaqif mundur ke kota Thaif — sebuah kota yang dikelilingi benteng tinggi di dataran tinggi Hijaz.^1 Rasulullah ﷺ mengepung Thaif selama sekitar dua puluh hari. Kaum muslimin menggunakan *dababah* (kendaraan perang berlapis kulit untuk melindungi prajurit) dan *manjaniq* (ketapel besar) — pertama kalinya teknologi pengepungan semacam ini digunakan oleh pasukan muslim.^2
 
-Namun benteng Thaif terlalu kokoh, dan penduduknya telah menyiapkan perbekalan untuk bertahan lama. Setelah berkonsultasi dengan para sahabat, Rasulullah ﷺ memutuskan untuk mengangkat pengepungan dan kembali.¹
+Namun benteng Thaif terlalu kokoh, dan penduduknya telah menyiapkan perbekalan untuk bertahan lama. Setelah berkonsultasi dengan para sahabat, Rasulullah ﷺ memutuskan untuk mengangkat pengepungan dan kembali.^1
 
-Ketika **Umar bin al-Khaththab** mengumumkan bahwa pasukan akan kembali, beberapa sahabat protes. Rasulullah ﷺ bersabda: *"Maka berperanglah besok."* Keesokan harinya, banyak yang terluka, dan Rasulullah ﷺ kembali berkata: *"Kita akan kembali besok insya Allah."* Kali ini mereka menerima keputusan itu.² Nabi kemudian mendoakan penduduk Thaif: *"Ya Allah, berikanlah hidayah kepada Tsaqif dan datangkanlah mereka."*
+Ketika **Umar bin al-Khaththab** mengumumkan bahwa pasukan akan kembali, beberapa sahabat protes. Rasulullah ﷺ bersabda: *"Maka berperanglah besok."* Keesokan harinya, banyak yang terluka, dan Rasulullah ﷺ kembali berkata: *"Kita akan kembali besok insya Allah."* Kali ini mereka menerima keputusan itu.^2 Nabi kemudian mendoakan penduduk Thaif: *"Ya Allah, berikanlah hidayah kepada Tsaqif dan datangkanlah mereka."*
 
-Doa ini terkabul — beberapa bulan kemudian, delegasi Tsaqif datang ke Madinah dan menyatakan masuk Islam tanpa pertempuran.²
+Doa ini terkabul — beberapa bulan kemudian, delegasi Tsaqif datang ke Madinah dan menyatakan masuk Islam tanpa pertempuran.^2
 
 ## Dialog dan Dalil: Pembagian Rampasan Perang
 
-Salah satu episode paling menarik setelah Hunain adalah pembagian harta rampasan di Ji'ranah. Rasulullah ﷺ memberikan bagian yang sangat besar kepada para pemimpin Quraisy yang baru masuk Islam — seperti Abu Sufyan, anaknya Mu'awiyah, dan Shafwan bin Umayyah — untuk melunakkan hati mereka (*ta'lif al-qulub*).¹ ²
+Salah satu episode paling menarik setelah Hunain adalah pembagian harta rampasan di Ji'ranah. Rasulullah ﷺ memberikan bagian yang sangat besar kepada para pemimpin Quraisy yang baru masuk Islam — seperti Abu Sufyan, anaknya Mu'awiyah, dan Shafwan bin Umayyah — untuk melunakkan hati mereka (*ta'lif al-qulub*).^1 ^2
 
-Keputusan ini membuat sebagian kaum Anshar kecewa. Mereka merasa dipinggirkan — mereka yang telah berjuang bersama Nabi sejak awal justru mendapat lebih sedikit daripada orang-orang yang baru saja masuk Islam. Kabar ini sampai kepada Rasulullah ﷺ, yang kemudian mengumpulkan kaum Anshar dan menyampaikan khutbah yang mengharukan:¹ ²
+Keputusan ini membuat sebagian kaum Anshar kecewa. Mereka merasa dipinggirkan — mereka yang telah berjuang bersama Nabi sejak awal justru mendapat lebih sedikit daripada orang-orang yang baru saja masuk Islam. Kabar ini sampai kepada Rasulullah ﷺ, yang kemudian mengumpulkan kaum Anshar dan menyampaikan khutbah yang mengharukan:^1 ^2
 
 *"Wahai kaum Anshar, bukankah aku mendatangi kalian dalam keadaan sesat lalu Allah memberi kalian hidayah melaluiku? Bukankah kalian dalam keadaan miskin lalu Allah menjadikan kalian kecukupan? Bukankah kalian bercerai-berai lalu Allah menyatukan hati kalian?"*
 
@@ -79,7 +68,7 @@ Rasulullah ﷺ melanjutkan:
 
 Kemudian beliau berkata dengan suara yang menggetarkan:
 
-*"Tidakkah kalian rela bahwa orang-orang itu pulang membawa kambing dan unta, sementara kalian pulang membawa Rasulullah ke rumah-rumah kalian? Demi Yang jiwa Muhammad di tangan-Nya, seandainya bukan karena hijrah, niscaya aku adalah seorang Anshari. Jika manusia melewati satu lembah dan kaum Anshar melewati lembah yang lain, niscaya aku akan melewati lembah kaum Anshar."*¹ ²
+*"Tidakkah kalian rela bahwa orang-orang itu pulang membawa kambing dan unta, sementara kalian pulang membawa Rasulullah ke rumah-rumah kalian? Demi Yang jiwa Muhammad di tangan-Nya, seandainya bukan karena hijrah, niscaya aku adalah seorang Anshari. Jika manusia melewati satu lembah dan kaum Anshar melewati lembah yang lain, niscaya aku akan melewati lembah kaum Anshar."*^1 ^2
 
 Kaum Anshar menangis hingga jenggot mereka basah, dan mereka berkata: *"Kami rela dengan Rasulullah sebagai bagian kami."*
 

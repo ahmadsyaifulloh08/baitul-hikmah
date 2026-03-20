@@ -2,6 +2,13 @@
 
 > Panduan generate & QA ilustrasi slideshow anak-anak.
 > Extracted from PRD Section 16.
+>
+> **Related docs:**
+> - **[Illustration Registry](illustration-registry.md)** — ⭐ BACA PERTAMA. Characters, locations, time palettes, scene rules, prompt template
+> - [Batch Workflow v2](operations/batch-image-generation-v2.md) — ✅ PROVEN parallel generation workflow
+> - [PinchTab Image Pipeline](operations/pinchtab-image-pipeline.md) — single image step-by-step
+> - [Image Briefs](image-briefs-children.md) — prompt per event/slide
+> - [Design Guide](design-guide.md) — color system, moodboard per era
 
 ---
 
@@ -132,12 +139,24 @@ Subjek utama di **CENTER 70%** gambar. Edge akan ter-crop pada berbagai viewport
 ### Phase 1: Image Generation
 
 ```
-1.1: GENERATE per brief via Gemini API
+1.1: GENERATE per brief via Gemini
      Setiap prompt include: safe zone + no text + prophet rule + 16:9
 1.2: SLIDE ↔ IMAGE MAPPING AUDIT (WAJIB)
      Buat tabel: Slide N → Narasi → Gambar → Match?
      Jangan asumsikan urutan generate = urutan slide!
 ```
+
+```bash
+# Single image
+python3 scripts/pinchtab-gemini-single.py --prompt-file /tmp/prompt.txt --output e03-slide-01
+
+# Batch (auto-extract briefs dari children-id.md)
+python3 scripts/pinchtab-gemini-batch.py --event e03
+```
+
+> **Pipeline docs:**
+> - [`docs/operations/pinchtab-image-pipeline.md`](operations/pinchtab-image-pipeline.md) — single image step-by-step
+> - [`docs/operations/batch-image-generation-v2.md`](operations/batch-image-generation-v2.md) — **✅ PROVEN** batch workflow (parallel generation via named Gemini chats, composite QA, post-batch evaluation)
 
 ### Phase 2: QA (MANDATORY sebelum deploy)
 
@@ -274,3 +293,7 @@ python3 scripts/qa-images.py --json
 ### Full Batch Regeneration = Risiko
 - Regenerate semua 27 → kualitas menurun
 - Fix: SELEKTIF — hanya regenerate yang bermasalah. Selalu backup.
+
+### Docker Copy Container Name
+- Container OpenClaw = `openclaw-gateway` (bukan `openclaw`) untuk `docker cp`
+- PinchTab downloads dir: `/home/pinchtab/Downloads/Gemini_Generated_Image_*.png`

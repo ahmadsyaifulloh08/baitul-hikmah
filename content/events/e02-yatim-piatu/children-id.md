@@ -1,12 +1,3 @@
----
-title: "Yatim Piatu: Wafat Ayah, Ibu, dan Kakek Nabi Muhammad ﷺ"
-date: "570-578 M"
-era: "Pra-Islam"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Yatim Piatu 🌙
 
 ---
@@ -17,7 +8,7 @@ language: "id"
 
 Menurut pendapat mayoritas ulama, Abdullah wafat **sebelum Nabi Muhammad lahir**. Beliau meninggalkan sedikit harta — lima ekor unta, beberapa kambing, dan seorang pengasuh bernama **Ummu Aiman (Barakah)**.
 
-Nabi Muhammad ﷺ lahir sebagai anak yatim. Allah berfirman tentang ini dalam QS Ad-Dhuha: **"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?"**
+Nabi Muhammad ﷺ lahir sebagai anak yatim. Allah berfirman tentang ini dalam QS Ad-Dhuha: **"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿"**
 
 ---
 

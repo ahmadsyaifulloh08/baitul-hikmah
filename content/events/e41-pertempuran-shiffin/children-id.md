@@ -1,12 +1,3 @@
----
-title: "Pertempuran Shiffin — Ketika Umat Islam Berselisih"
-date: "657 M"
-era: "Khulafa al-Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Ketika Umat Islam Berselisih 🕊️
 
 ---

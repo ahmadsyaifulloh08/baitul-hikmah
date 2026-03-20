@@ -1,12 +1,3 @@
----
-title: "Haji Wada' dan Khutbah Terakhir Nabi Muhammad ﷺ"
-date: "632 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Haji Perpisahan 🕋
 
 ---

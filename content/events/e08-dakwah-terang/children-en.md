@@ -1,19 +1,10 @@
----
-title: "The Proclamation from Mount Safa — When the Prophet Spoke Aloud"
-date: "613-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # The Call from the Hill! 📢
 
 ## 🤫 From Secret to Open
 
 Friends, remember the story of the secret da'wah? For three years, Prophet Muhammad SAW invited people to Islam quietly. But now, Allah commanded something new:
 
-"And warn your closest kindred!" (QS. Al-Shu'ara': 214)
+"And warn your closest kindred! ﴾214﴿" (QS. Al-Shu'ara': 214)
 
 It was time to speak openly! No more hiding. Prophet Muhammad SAW had to deliver the message of Islam to everyone — starting with his own family.
 

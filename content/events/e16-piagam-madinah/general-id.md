@@ -1,23 +1,12 @@
----
-title: "Piagam Madinah: Konstitusi Tertulis Pertama dalam Sejarah Peradaban"
-date: "622 M"
-era: "Kenabian"
-category: "political"
-location: "Madinah, Jazirah Arab"
-significance: "HIGH"
-tags: ["piagam-madinah", "konstitusi", "mitsaq-madinah", "shahifah", "yahudi", "muhajirin", "anshar", "ummah"]
-sources: ["ibn-hisham", "tabaqat-ibn-sad", "al-amwal-abu-ubayd"]
----
-
 # Piagam Madinah: Konstitusi Tertulis Pertama dalam Sejarah Peradaban
 
 ## Konteks: Madinah Sebelum Piagam
 
-Ketika Nabi Muhammad ﷺ tiba di Madinah pada tahun 622 M, kota itu bukanlah entitas politik yang bersatu. Madinah adalah mozaik kompleks dari berbagai kelompok yang saling bersaing dan sering bertikai.¹ ²
+Ketika Nabi Muhammad ﷺ tiba di Madinah pada tahun 622 M, kota itu bukanlah entitas politik yang bersatu. Madinah adalah mozaik kompleks dari berbagai kelompok yang saling bersaing dan sering bertikai.^1 ^2
 
-Dua suku Arab utama — **Aus** dan **Khazraj** — baru saja mengakhiri perang saudara berkepanjangan yang memuncak dalam **Perang Bu'ats** hanya beberapa tahun sebelum hijrah.¹ Luka-luka perang ini masih segar, dan ketegangan antar-klan tetap membara di bawah permukaan.
+Dua suku Arab utama — **Aus** dan **Khazraj** — baru saja mengakhiri perang saudara berkepanjangan yang memuncak dalam **Perang Bu'ats** hanya beberapa tahun sebelum hijrah.^1 Luka-luka perang ini masih segar, dan ketegangan antar-klan tetap membara di bawah permukaan.
 
-Di samping kedua suku Arab itu, terdapat tiga suku Yahudi besar: **Bani Qainuqa'**, **Bani Nadhir**, dan **Bani Quraizhah**. Mereka menguasai sebagian besar kegiatan ekonomi di Madinah — pertanian, perdagangan, dan kerajinan logam — serta memiliki benteng-benteng yang kokoh.¹ ³ Hubungan mereka dengan suku-suku Arab bersifat transaksional: mereka bersekutu dengan salah satu pihak (Aus atau Khazraj) demi keuntungan ekonomi dan perlindungan.
+Di samping kedua suku Arab itu, terdapat tiga suku Yahudi besar: **Bani Qainuqa'**, **Bani Nadhir**, dan **Bani Quraizhah**. Mereka menguasai sebagian besar kegiatan ekonomi di Madinah — pertanian, perdagangan, dan kerajinan logam — serta memiliki benteng-benteng yang kokoh.^1 ^3 Hubungan mereka dengan suku-suku Arab bersifat transaksional: mereka bersekutu dengan salah satu pihak (Aus atau Khazraj) demi keuntungan ekonomi dan perlindungan.
 
 Selain itu, terdapat juga orang-orang Arab Madinah yang masih musyrik dan belum memeluk Islam. Serta para *muhajirin* — kaum muslimin dari Makkah yang baru datang, tanpa rumah, tanpa harta, tanpa mata pencaharian.
 
@@ -25,40 +14,40 @@ Dalam kondisi sosial-politik yang begitu rumit ini, Nabi Muhammad ﷺ menyusun s
 
 ## Peristiwa: Penyusunan *al-Shahifah*
 
-Dokumen ini dikenal dalam sumber-sumber klasik sebagai *al-Shahifah* (lembaran/piagam) atau *al-Kitab* (dokumen tertulis). Ibn Hisham memuatnya secara lengkap dalam *Sirah Nabawiyyah*-nya, dan Abu Ubayd al-Qasim mengutipnya dalam *al-Amwal*.¹ ³
+Dokumen ini dikenal dalam sumber-sumber klasik sebagai *al-Shahifah* (lembaran/piagam) atau *al-Kitab* (dokumen tertulis). Ibn Hisham memuatnya secara lengkap dalam *Sirah Nabawiyyah*-nya, dan Abu Ubayd al-Qasim mengutipnya dalam *al-Amwal*.^1 ^3
 
-Ibn Hisham membuka teks piagam dengan kalimat: *"Bismillahirrahmanirrahim. Hadzihi kitabun min Muhammad al-Nabiy..."* ("Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ini adalah piagam dari Muhammad sang Nabi...").¹
+Ibn Hisham membuka teks piagam dengan kalimat: *"Bismillahirrahmanirrahim. Hadzihi kitabun min Muhammad al-Nabiy..."* ("Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Ini adalah piagam dari Muhammad sang Nabi...").^1
 
-Piagam ini terdiri dari sekitar **47 pasal** (menurut penomoran para sarjana modern) yang mengatur hubungan antara semua kelompok di Madinah.¹ ² ³ Beberapa prinsip utamanya:
+Piagam ini terdiri dari sekitar **47 pasal** (menurut penomoran para sarjana modern) yang mengatur hubungan antara semua kelompok di Madinah.^1 ^2 ^3 Beberapa prinsip utamanya:
 
 ### Konsep *Ummah* yang Inklusif
 
-Pasal pertama menyatakan bahwa kaum muslimin dari Quraisy (Muhajirin) dan Yatsrib (Anshar), serta siapa pun yang mengikuti mereka, berjuang bersama mereka, dan berjihad bersama mereka, adalah **satu umat (*ummah wahidah*) yang berbeda dari manusia lainnya**.¹
+Pasal pertama menyatakan bahwa kaum muslimin dari Quraisy (Muhajirin) dan Yatsrib (Anshar), serta siapa pun yang mengikuti mereka, berjuang bersama mereka, dan berjihad bersama mereka, adalah **satu umat (*ummah wahidah*) yang berbeda dari manusia lainnya**.^1
 
-Namun yang revolusioner, piagam ini juga memasukkan komunitas Yahudi ke dalam kerangka politik yang sama. Pasal 25 dan seterusnya menyebutkan: *"Yahudi Bani Auf adalah satu umat bersama kaum mukminin — bagi orang Yahudi agama mereka dan bagi kaum muslimin agama mereka — baik sekutu-sekutu mereka maupun diri mereka sendiri..."*¹ ³
+Namun yang revolusioner, piagam ini juga memasukkan komunitas Yahudi ke dalam kerangka politik yang sama. Pasal 25 dan seterusnya menyebutkan: *"Yahudi Bani Auf adalah satu umat bersama kaum mukminin — bagi orang Yahudi agama mereka dan bagi kaum muslimin agama mereka — baik sekutu-sekutu mereka maupun diri mereka sendiri... ﴾256﴿"*^1 ^3
 
 Ini berarti *ummah* dalam konteks Piagam Madinah memiliki dua lapisan: umat Islam sebagai komunitas keagamaan, dan *ummah* politik Madinah yang mencakup semua penduduk — muslim, Yahudi, dan lainnya — sebagai satu entitas sipil.
 
 ### Prinsip Kebebasan Beragama
 
-Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak menjalankan agamanya masing-masing. Tidak ada pemaksaan dalam beragama.¹ ³ Ini merupakan implementasi nyata dari prinsip al-Quran:
+Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak menjalankan agamanya masing-masing. Tidak ada pemaksaan dalam beragama.^1 ^3 Ini merupakan implementasi nyata dari prinsip al-Quran:
 
 > لَا إِكْرَاهَ فِي الدِّينِ ﴿٢٥٦﴾
 >
-> *"Tidak ada paksaan dalam agama."*
+> *"Tidak ada paksaan dalam agama. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256
 
 ### Pertahanan Bersama
 
-Piagam menetapkan bahwa semua pihak yang menandatangani berkewajiban membela Madinah dari serangan luar. Jika Madinah diserang, semua kelompok — muslim dan non-muslim — harus berpartisipasi dalam pertahanan. Tidak boleh ada pihak yang berdamai secara sepihak dengan musuh Madinah tanpa persetujuan bersama.¹ ²
+Piagam menetapkan bahwa semua pihak yang menandatangani berkewajiban membela Madinah dari serangan luar. Jika Madinah diserang, semua kelompok — muslim dan non-muslim — harus berpartisipasi dalam pertahanan. Tidak boleh ada pihak yang berdamai secara sepihak dengan musuh Madinah tanpa persetujuan bersama.^1 ^2
 
 ### Keadilan dan Perlindungan Hukum
 
-Setiap kelompok bertanggung jawab atas urusan internal dan pembayaran diyat (tebusan darah) anggotanya masing-masing. Namun prinsip keadilan berlaku universal: tidak boleh ada orang yang dilindungi jika ia berbuat zalim, dan setiap orang yang dizalimi berhak mendapat pertolongan.¹ ³
+Setiap kelompok bertanggung jawab atas urusan internal dan pembayaran diyat (tebusan darah) anggotanya masing-masing. Namun prinsip keadilan berlaku universal: tidak boleh ada orang yang dilindungi jika ia berbuat zalim, dan setiap orang yang dizalimi berhak mendapat pertolongan.^1 ^3
 
 ### Otoritas Penyelesaian Sengketa
 
-Pasal 42 menyebutkan bahwa jika terjadi perselisihan yang berpotensi menimbulkan kerusakan, maka penyelesaiannya harus dikembalikan kepada **Allah dan Muhammad** — artinya Nabi Muhammad ﷺ menjadi hakim tertinggi (*hakam*) dalam sengketa antar-kelompok.¹ ³ Ini secara de facto menjadikan beliau kepala negara Madinah.
+Pasal 42 menyebutkan bahwa jika terjadi perselisihan yang berpotensi menimbulkan kerusakan, maka penyelesaiannya harus dikembalikan kepada **Allah dan Muhammad** — artinya Nabi Muhammad ﷺ menjadi hakim tertinggi (*hakam*) dalam sengketa antar-kelompok.^1 ^3 Ini secara de facto menjadikan beliau kepala negara Madinah.
 
 ## Analisis: Mengapa Piagam Madinah Revolusioner
 

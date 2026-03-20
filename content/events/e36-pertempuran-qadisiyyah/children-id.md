@@ -1,12 +1,3 @@
----
-title: "Pertempuran Qadisiyyah — Penaklukan Persia"
-date: "636 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Pertempuran Qadisiyyah ⚔️
 
 ---

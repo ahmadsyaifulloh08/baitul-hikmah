@@ -1,12 +1,3 @@
----
-title: "The Tragedy of Karbala — The Martyrdom of Husayn ibn Ali"
-date: "680 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Tragedy of Karbala 🕊️
 
 ---

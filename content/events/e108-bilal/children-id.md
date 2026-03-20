@@ -1,12 +1,3 @@
----
-title: "Bilal — Sang Pemberani yang Bersuara Merdu"
-date: "614-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Bilal — Sang Pemberani 💪
 
 ## 💔 Seorang Budak yang Berani

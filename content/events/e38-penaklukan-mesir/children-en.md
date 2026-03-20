@@ -1,12 +1,3 @@
----
-title: "The Conquest of Egypt"
-date: "639-641 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Conquest of Egypt 🏛️
 
 ---

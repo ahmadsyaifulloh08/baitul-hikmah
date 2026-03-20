@@ -1,89 +1,79 @@
----
-title: "The Hijrah to Madinah: A Turning Point in History and the Dawn of the Islamic Calendar"
-date: "622 CE"
-era: "Prophetic"
-location: "Makkah — Cave of Thawr — Madinah"
-significance: "HIGH"
-tags: ["hijrah", "madinah", "cave-thawr", "abu-bakr", "suraqah", "quba", "hijri-calendar"]
-sources: ["sahih-bukhari", "ibn-hisham", "rahiq-makhtum"]
----
-
 # The Hijrah to Madinah: A Turning Point in History and the Dawn of the Islamic Calendar
 
 ## Context: Why the Hijrah Had to Happen
 
-After the Second Pledge of Aqabah had secured protection from the people of Madinah, Prophet Muhammad ﷺ instructed his companions to begin emigrating — quietly slipping out of Makkah to Madinah.¹ ² One by one, Muslim families departed. Houses in the Muslim quarters of Makkah began to empty.
+After the Second Pledge of Aqabah had secured protection from the people of Madinah, Prophet Muhammad ﷺ instructed his companions to begin emigrating — quietly slipping out of Makkah to Madinah.^1 ^2 One by one, Muslim families departed. Houses in the Muslim quarters of Makkah began to empty.
 
-The situation in Makkah had become untenable. During thirteen years of preaching, Prophet Muhammad ﷺ and his followers endured a three-year economic and social boycott in Shi'b Abi Talib, physical torture of the weaker companions, and even assassination attempts against the Prophet himself.¹ ²
+The situation in Makkah had become untenable. During thirteen years of preaching, Prophet Muhammad ﷺ and his followers endured a three-year economic and social boycott in Shi'b Abi Talib, physical torture of the weaker companions, and even assassination attempts against the Prophet himself.^1 ^2
 
-Ibn Hisham and al-Mubarakfuri record that the Quraysh recognised the grave danger of this migration.² If Muhammad established a power base in Madinah — a city situated on the Quraysh's main trade route to al-Sham — their economic and political dominance would be threatened. They convened an emergency council at **Dar al-Nadwah** (the Quraysh assembly hall).
+Ibn Hisham and al-Mubarakfuri record that the Quraysh recognised the grave danger of this migration.^2 If Muhammad established a power base in Madinah — a city situated on the Quraysh's main trade route to al-Sham — their economic and political dominance would be threatened. They convened an emergency council at **Dar al-Nadwah** (the Quraysh assembly hall).
 
 ## The Event: The Dar al-Nadwah Conspiracy
 
-Ibn Hisham narrates that the Quraysh leaders assembled and debated three options: imprison Muhammad, exile him, or kill him.¹ **Abu Jahl** proposed what was deemed the most cunning plan: select one strong young man from each Quraysh clan, then have them all strike Muhammad simultaneously. This way, his blood would be distributed among all clans, and the Banu Hashim would be unable to fight the entire Quraysh for blood-vengeance.¹ ²
+Ibn Hisham narrates that the Quraysh leaders assembled and debated three options: imprison Muhammad, exile him, or kill him.^1 **Abu Jahl** proposed what was deemed the most cunning plan: select one strong young man from each Quraysh clan, then have them all strike Muhammad simultaneously. This way, his blood would be distributed among all clans, and the Banu Hashim would be unable to fight the entire Quraysh for blood-vengeance.^1 ^2
 
 Allah informed Prophet Muhammad ﷺ of this conspiracy through revelation:
 
 > وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ ﴿٣٠﴾
 >
-> *"And [remember] when those who disbelieved plotted against you to restrain you or kill you or evict you. They plan, and Allah plans. And Allah is the best of planners."*
+> *"And [remember] when those who disbelieved plotted against you to restrain you or kill you or evict you. They plan, and Allah plans. And Allah is the best of planners. ﴾30﴿"*
 > — QS. Al-Anfal (8): 30
 
 ## The Night of Departure: Ali in the Prophet's Bed
 
-On the appointed night, the Quraysh youth had already surrounded the Prophet's house with drawn swords, waiting for him to emerge.¹ ³ The Prophet asked **Ali ibn Abi Talib** — his young cousin — to sleep in his bed, wrapped in his green cloak, so the besiegers would think he was still inside.
+On the appointed night, the Quraysh youth had already surrounded the Prophet's house with drawn swords, waiting for him to emerge.^1 ^3 The Prophet asked **Ali ibn Abi Talib** — his young cousin — to sleep in his bed, wrapped in his green cloak, so the besiegers would think he was still inside.
 
-Imam al-Bukhari narrates that Prophet Muhammad ﷺ walked out past them unseen, casting dust toward them while reciting the opening of Surah Yasin:³
+Imam al-Bukhari narrates that Prophet Muhammad ﷺ walked out past them unseen, casting dust toward them while reciting the opening of Surah Yasin:^3
 
 > وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَاهُمْ فَهُمْ لَا يُبْصِرُونَ ﴿٩﴾
 >
-> *"And We have placed before them a barrier and behind them a barrier and covered them, so they do not see."*
+> *"And We have placed before them a barrier and behind them a barrier and covered them, so they do not see. ﴾9﴿"*
 > — QS. Yasin (36): 9
 
-He went straight to the home of **Abu Bakr al-Siddiq**, his closest companion, who had prepared two camels for this journey months in advance.³
+He went straight to the home of **Abu Bakr al-Siddiq**, his closest companion, who had prepared two camels for this journey months in advance.^3
 
 ## Three Days in the Cave of Thawr
 
-Rather than heading directly north toward Madinah — the obvious route the Quraysh would track — Prophet Muhammad ﷺ and Abu Bakr went south instead, toward the **Cave of Thawr** on Jabal Thawr, approximately five kilometres south of Makkah.¹ ² ³ This was a brilliant strategic decision: the enemy would certainly search northward toward Madinah, not south.
+Rather than heading directly north toward Madinah — the obvious route the Quraysh would track — Prophet Muhammad ﷺ and Abu Bakr went south instead, toward the **Cave of Thawr** on Jabal Thawr, approximately five kilometres south of Makkah.^1 ^2 ^3 This was a brilliant strategic decision: the enemy would certainly search northward toward Madinah, not south.
 
-Al-Bukhari narrates the events inside the cave in vivid detail.³ Abu Bakr entered first and cleaned the cave of holes that might harbour snakes or scorpions, plugging them with torn pieces of his own garment. When one hole remained and he had no cloth left, he sealed it with his heel. A snake bit his heel, but Abu Bakr did not move so as not to wake the Prophet, who slept with his head in Abu Bakr's lap.³
+Al-Bukhari narrates the events inside the cave in vivid detail.^3 Abu Bakr entered first and cleaned the cave of holes that might harbour snakes or scorpions, plugging them with torn pieces of his own garment. When one hole remained and he had no cloth left, he sealed it with his heel. A snake bit his heel, but Abu Bakr did not move so as not to wake the Prophet, who slept with his head in Abu Bakr's lap.^3
 
-The most dramatic moment came when the Quraysh trackers reached the mouth of the cave. Abu Bakr whispered in anguish: *"O Messenger of Allah, if any of them were to look beneath his feet, he would see us."* Prophet Muhammad ﷺ replied with extraordinary calm:
+The most dramatic moment came when the Quraysh trackers reached the mouth of the cave. Abu Bakr whispered in anguish: *"O Messenger of Allah, if any of them were to look beneath his feet, he would see us. ﴾40﴿"* Prophet Muhammad ﷺ replied with extraordinary calm:
 
-*"O Abu Bakr, what do you think of two whose third is Allah?"*³
+*"O Abu Bakr, what do you think of two whose third is Allah? ﴾40﴿"*^3
 
 The Quran immortalised this moment:
 
 > إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ﴿٤٠﴾
 >
-> *"If you do not aid him — Allah has already aided him when those who disbelieved drove him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.'"*
+> *"If you do not aid him — Allah has already aided him when those who disbelieved drove him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' ﴾40﴿"*
 > — QS. Al-Tawbah (9): 40
 
-During the three days in the cave, **Abdullah ibn Abi Bakr** — Abu Bakr's young son — served as their spy, spending the night in the cave then returning to Makkah each morning to gather intelligence.³ **Asma' bint Abi Bakr**, Abu Bakr's daughter, brought food each night, tearing her waist-belt in two to tie the provisions — earning her the title *Dhat al-Nitaqayn* (She of the Two Belts).² ³ **Amir ibn Fuhayrah**, Abu Bakr's freed slave, drove his flock of sheep over their tracks to erase their footprints.³
+During the three days in the cave, **Abdullah ibn Abi Bakr** — Abu Bakr's young son — served as their spy, spending the night in the cave then returning to Makkah each morning to gather intelligence.^3 **Asma' bint Abi Bakr**, Abu Bakr's daughter, brought food each night, tearing her waist-belt in two to tie the provisions — earning her the title *Dhat al-Nitaqayn* (She of the Two Belts).^2 ^3 **Amir ibn Fuhayrah**, Abu Bakr's freed slave, drove his flock of sheep over their tracks to erase their footprints.^3
 
 ## The Journey to Madinah: The Story of Suraqah ibn Malik
 
-After three nights, the Prophet and Abu Bakr set out for Madinah via an unconventional coastal route, guided by **Abdullah ibn Urayqit** — a professional guide from the Banu al-Dil who was still a polytheist but was trusted for his expertise.¹ ²
+After three nights, the Prophet and Abu Bakr set out for Madinah via an unconventional coastal route, guided by **Abdullah ibn Urayqit** — a professional guide from the Banu al-Dil who was still a polytheist but was trusted for his expertise.^1 ^2
 
-The Quraysh had placed a bounty of **one hundred camels** on Muhammad's head — dead or alive.¹ ² This was an enormous fortune. **Suraqah ibn Malik**, an expert tracker from the Banu Mudlij, heard about two riders spotted on the coastal route and immediately gave chase, lured by the massive reward.
+The Quraysh had placed a bounty of **one hundred camels** on Muhammad's head — dead or alive.^1 ^2 This was an enormous fortune. **Suraqah ibn Malik**, an expert tracker from the Banu Mudlij, heard about two riders spotted on the coastal route and immediately gave chase, lured by the massive reward.
 
-Al-Bukhari narrates Suraqah's account in his own words.³ As Suraqah closed in, his horse suddenly sank into the sand up to its knees — something that had never happened before. He spurred his horse again, and a second time it sank. On the third attempt, the horse plunged in up to its chest, and from its hoofprints rose a column of dust like smoke.
+Al-Bukhari narrates Suraqah's account in his own words.^3 As Suraqah closed in, his horse suddenly sank into the sand up to its knees — something that had never happened before. He spurred his horse again, and a second time it sank. On the third attempt, the horse plunged in up to its chest, and from its hoofprints rose a column of dust like smoke.
 
-Suraqah realised that a force was protecting Muhammad. He called out for a guarantee of safety. Prophet Muhammad ﷺ granted it and even made a promise that seemed impossible at the time: *"How will you feel, Suraqah, when you wear the bracelets of Kisra (the king of Persia)?"*² ³
+Suraqah realised that a force was protecting Muhammad. He called out for a guarantee of safety. Prophet Muhammad ﷺ granted it and even made a promise that seemed impossible at the time: *"How will you feel, Suraqah, when you wear the bracelets of Kisra (the king of Persia)?"*^2 ^3
 
-This promise was fulfilled over a decade later, during the caliphate of Umar ibn al-Khattab, when Persia was conquered and Kisra's bracelets were indeed placed upon Suraqah's wrists.²
+This promise was fulfilled over a decade later, during the caliphate of Umar ibn al-Khattab, when Persia was conquered and Kisra's bracelets were indeed placed upon Suraqah's wrists.^2
 
 ## Arrival at Quba and Madinah
 
-Prophet Muhammad ﷺ arrived first at **Quba**, a village on the southern outskirts of Madinah, on Monday 12 Rabi' al-Awwal (approximately 24 September 622 CE).¹ ² There he established **Masjid Quba** — the first mosque built in Islam.
+Prophet Muhammad ﷺ arrived first at **Quba**, a village on the southern outskirts of Madinah, on Monday 12 Rabi' al-Awwal (approximately 24 September 622 CE).^1 ^2 There he established **Masjid Quba** — the first mosque built in Islam.
 
-The people of Madinah had been expecting his arrival daily. Al-Bukhari narrates that they went out each morning to the high ground on the city's edge, waiting until the midday heat forced them back.³ On the day of his arrival, a Jewish man in Madinah who spotted them from atop a fortress cried out: *"O Arabs! Here is the one you have been waiting for!"* The whole of Madinah erupted in joy. The young girls of the Ansar sang the famous verses:
+The people of Madinah had been expecting his arrival daily. Al-Bukhari narrates that they went out each morning to the high ground on the city's edge, waiting until the midday heat forced them back.^3 On the day of his arrival, a Jewish man in Madinah who spotted them from atop a fortress cried out: *"O Arabs! Here is the one you have been waiting for!"* The whole of Madinah erupted in joy. The young girls of the Ansar sang the famous verses:
 
-*"Tala'a al-badru 'alayna / min Thaniyyat al-Wada'... / The full moon has risen upon us / from the pass of Wada'..."*²
+*"Tala'a al-badru 'alayna / min Thaniyyat al-Wada'... / The full moon has risen upon us / from the pass of Wada'..."*^2
 
 ## Analysis: Why the Hijrah Became Year Zero of the Islamic Calendar
 
-The hijrah was not merely a geographical relocation — it was a fundamental transformation from an oppressed community into a sovereign state. **Umar ibn al-Khattab** later designated the hijrah as the starting point of the Islamic calendar (*tarikh Hijri*), not the Prophet's birth, not the first revelation, not the victory at Badr — but the hijrah.¹ ²
+The hijrah was not merely a geographical relocation — it was a fundamental transformation from an oppressed community into a sovereign state. **Umar ibn al-Khattab** later designated the hijrah as the starting point of the Islamic calendar (*tarikh Hijri*), not the Prophet's birth, not the first revelation, not the victory at Badr — but the hijrah.^1 ^2
 
 The reasoning was profound: the hijrah marked the moment when Islam shifted from a phase of individual preaching to civilisation-building. Before the hijrah, Islam was a faith held by scattered, persecuted individuals. After the hijrah, Islam became the foundation of a society, a legal system, an economy, and a polity.
 
@@ -91,7 +81,7 @@ The reasoning was profound: the hijrah marked the moment when Islam shifted from
 
 **Second, collective sacrifice.** The hijrah was not one person's act. Ali risked his life sleeping in the Prophet's bed. Abu Bakr sacrificed his wealth. Abdullah and Asma' risked their safety as intelligence agents and couriers. Amir ibn Fuhayrah devoted his time to covering tracks. Every small role contributed to the greater success.
 
-**Third, leaving home for principle.** The *muhajirin* left their homes, their wealth, even their families in Makkah for the sake of their faith. **Suhayb al-Rumi** had to surrender his entire fortune, seized by the Quraysh as a "ransom" to be allowed to leave. When the Prophet heard this, he said: *"Suhayb has profited! Suhayb has profited!"*²
+**Third, leaving home for principle.** The *muhajirin* left their homes, their wealth, even their families in Makkah for the sake of their faith. **Suhayb al-Rumi** had to surrender his entire fortune, seized by the Quraysh as a "ransom" to be allowed to leave. When the Prophet heard this, he said: *"Suhayb has profited! Suhayb has profited!"*^2
 
 ## Lessons: The Enduring Wisdom of the Hijrah
 

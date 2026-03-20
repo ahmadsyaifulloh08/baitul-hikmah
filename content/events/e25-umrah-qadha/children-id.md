@@ -1,12 +1,3 @@
----
-title: "Umrah Qadha: Kembali ke Makkah Secara Damai"
-date: "629 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Umrah Qadha 🕋
 
 ---

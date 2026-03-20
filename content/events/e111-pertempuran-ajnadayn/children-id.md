@@ -1,12 +1,3 @@
----
-title: "Pertempuran Ajnadayn: Langkah Pertama ke Tanah Syam"
-date: "634 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Pertempuran Ajnadayn 🗡️🌍
 
 ---

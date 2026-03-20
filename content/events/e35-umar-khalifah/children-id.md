@@ -1,12 +1,3 @@
----
-title: "Umar ibn al-Khattab — Khalifah Kedua"
-date: "634-644 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Umar al-Faruq — Pemimpin yang Adil ⚖️
 
 ---

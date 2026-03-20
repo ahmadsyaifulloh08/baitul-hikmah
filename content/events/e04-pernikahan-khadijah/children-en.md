@@ -1,12 +1,3 @@
----
-title: "A Beautiful Love Story — The Marriage of Muhammad and Khadijah"
-date: "595-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # A Beautiful Love Story
 
 ## 💎 An Amazing Woman of Mecca

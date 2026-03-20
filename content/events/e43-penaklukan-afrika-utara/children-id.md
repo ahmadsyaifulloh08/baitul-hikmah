@@ -1,12 +1,3 @@
----
-title: "Penaklukan Afrika Utara"
-date: "670-710 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Penaklukan Afrika Utara 🌍
 
 ---

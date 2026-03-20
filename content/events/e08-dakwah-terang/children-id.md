@@ -1,19 +1,10 @@
----
-title: "Seruan dari Bukit Shafa — Ketika Nabi Berteriak Lantang"
-date: "613-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Seruan dari Bukit! 📢
 
 ## 🤫 Dari Rahasia Menjadi Terbuka
 
 Teman-teman, ingat kisah dakwah sembunyi-sembunyi? Selama tiga tahun, Nabi Muhammad SAW mengajak orang masuk Islam secara diam-diam. Tapi sekarang, Allah memerintahkan sesuatu yang baru:
 
-"Peringatilah kerabat-kerabatmu yang terdekat!" (QS. Al-Syu'ara': 214)
+"Peringatilah kerabat-kerabatmu yang terdekat! ﴾214﴿" (QS. Al-Syu'ara': 214)
 
 Artinya, waktunya berbicara terang-terangan sudah tiba! Tidak ada lagi sembunyi-sembunyi. Nabi Muhammad SAW harus menyampaikan pesan Islam kepada semua orang — dimulai dari keluarganya sendiri.
 

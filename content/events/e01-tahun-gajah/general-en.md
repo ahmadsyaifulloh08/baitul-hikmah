@@ -10,7 +10,7 @@ Economically, Makkah occupied a position of strategic importance. The city lay o
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
-> *"For the accustomed security of the Quraysh ﴿1﴾ — their accustomed security in the caravan of winter and summer. ﴿2﴾ Let them worship the Lord of this House, ﴿3﴾ who has fed them against hunger and made them safe from fear. ﴿4﴾"*
+> *"For the accustomed security of the Quraysh ﴾1﴿ — their accustomed security in the caravan of winter and summer. ﴾2﴿ Let them worship the Lord of this House, ﴾3﴿ who has fed them against hunger and made them safe from fear. ﴾4﴿"*
 > — QS. Quraysh (106): 1-4
 
 Yet Makkah was far more than a commercial hub — it was the spiritual epicenter of the entire Arabian Peninsula. At its heart stood the Ka'bah, a cube-shaped structure that, according to Islamic tradition, was first built by Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael), peace be upon them. Although by this time the Ka'bah was surrounded by 360 idols (*ashnam*), its sanctity was universally recognized across all Arab tribes.^1 Every year, people from across the peninsula gathered for pilgrimage, and during the sacred months (*al-ashhur al-hurum*), all warfare ceased. This made the Ka'bah — and whoever controlled it — a source of immense political and economic influence.
@@ -54,7 +54,7 @@ Then came flocks of birds — *ababil* — from the direction of the sea, each c
 
 > أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ﴿١﴾ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِى تَضۡلِيلٍ ﴿٢﴾ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ﴿٣﴾ تَرۡمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ﴿٤﴾ فَجَعَلَهُمۡ كَعَصۡفٍ مَّأۡكُولٍ ﴿٥﴾
 >
-> *"Have you not seen how your Lord dealt with the People of the Elephant? ﴿1﴾ Did He not make their plot go astray? ﴿2﴾ And He sent against them birds in flocks, ﴿3﴾ striking them with stones of baked clay, ﴿4﴾ and He made them like eaten straw. ﴿5﴾"*
+> *"Have you not seen how your Lord dealt with the People of the Elephant? ﴾1﴿ Did He not make their plot go astray? ﴾2﴿ And He sent against them birds in flocks, ﴾3﴿ striking them with stones of baked clay, ﴾4﴿ and He made them like eaten straw. ﴾5﴿"*
 > — QS Al-Fil (105:1-5)
 
 Abraha himself was struck by these stones. His body decomposed piece by piece on the journey home, and he died in Sana'a in a wretched state — his flesh falling away until his bones and heart were exposed. Ibn Hisham records these details vividly in his *Sirah Nabawiyyah*.^1

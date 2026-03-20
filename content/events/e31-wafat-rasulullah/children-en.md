@@ -1,12 +1,3 @@
----
-title: "The Death of Prophet Muhammad ﷺ"
-date: "632 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Death of Prophet Muhammad ﷺ 🌙
 
 ---

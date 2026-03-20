@@ -1,12 +1,3 @@
----
-title: "Perjanjian Hudaibiyah: Diplomasi dan Perdamaian"
-date: "628 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perjanjian Hudaibiyah 🕊️
 
 ---

@@ -1,12 +1,3 @@
----
-title: "The Conquest of Makkah: The Holy City Returns to Islam"
-date: "630 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Conquest of Makkah ⚔️🕊
 
 ---

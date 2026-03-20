@@ -1,12 +1,3 @@
----
-title: "Perubahan Kiblat: Dari Baitul Maqdis ke Ka'bah"
-date: "623 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perubahan Kiblat 🕌
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Perang Khandaq (Parit): Strategi Pertahanan Salman al-Farisi"
-date: "627 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Khandaq (Parit) ⚔️
 
 ---

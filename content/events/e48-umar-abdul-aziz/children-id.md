@@ -1,12 +1,3 @@
----
-title: "Umar ibn Abd al-Aziz — Khalifah Reformis"
-date: "717-720 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Umar ibn Abd al-Aziz — Khalifah yang Adil 🌟
 
 ---

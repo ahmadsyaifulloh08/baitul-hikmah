@@ -1,12 +1,3 @@
----
-title: "Hijrah ke Habasyah — Perjalanan Jauh Mencari Keamanan"
-date: "615-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Perjalanan Jauh Melintasi Laut! ⛵
 
 ## ⚔️ Kenapa Harus Pergi?

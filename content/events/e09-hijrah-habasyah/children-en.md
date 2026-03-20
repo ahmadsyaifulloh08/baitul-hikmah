@@ -1,12 +1,3 @@
----
-title: "The Hijrah to Abyssinia — A Journey Across the Sea for Safety"
-date: "615-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # A Journey Across the Sea! ⛵
 
 ## ⚔️ Why Did They Have to Leave?

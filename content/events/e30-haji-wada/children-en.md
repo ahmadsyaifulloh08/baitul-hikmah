@@ -1,12 +1,3 @@
----
-title: "The Farewell Hajj and the Prophet's Final Sermon"
-date: "632 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Farewell Pilgrimage 🕋
 
 ---

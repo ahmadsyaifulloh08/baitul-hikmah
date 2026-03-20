@@ -1,12 +1,3 @@
----
-title: "Penaklukan Al-Andalus — Tariq ibn Ziyad"
-date: "711 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Tariq ibn Ziyad dan Penaklukan Al-Andalus ⚔️
 
 ---

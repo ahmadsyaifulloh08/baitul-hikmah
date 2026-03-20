@@ -1,12 +1,3 @@
----
-title: "Fath Makkah: Kota Suci Kembali ke Pelukan Islam"
-date: "630 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Fath Makkah ⚔️🕊
 
 ---

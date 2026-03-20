@@ -1,12 +1,3 @@
----
-title: "'Am al-Wufud: The Year of Delegations"
-date: "631 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Year of Delegations 🕌
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Dakwah Sembunyi-Sembunyi — Kisah Rahasia Pertama Islam"
-date: "610-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Rahasia yang Mengubah Dunia 🤫
 
 ## 🌙 Bagaimana Semuanya Dimulai

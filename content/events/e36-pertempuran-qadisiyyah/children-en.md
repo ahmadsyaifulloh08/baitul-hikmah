@@ -1,12 +1,3 @@
----
-title: "The Battle of Qadisiyyah — The Conquest of Persia"
-date: "636 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Qadisiyyah ⚔️
 
 ---

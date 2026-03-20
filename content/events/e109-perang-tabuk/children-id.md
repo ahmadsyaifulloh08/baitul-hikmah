@@ -1,12 +1,3 @@
----
-title: "Perang Tabuk: Perjalanan Terjauh Nabi Muhammad ﷺ"
-date: "630 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Tabuk ⚔️🏜️
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Perang Khaibar"
-date: "629 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Khaibar ⚔️
 
 ---

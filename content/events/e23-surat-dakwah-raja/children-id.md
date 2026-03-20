@@ -1,12 +1,3 @@
----
-title: "Surat-surat Dakwah ke Raja-raja"
-date: "628 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Surat untuk Raja-raja 📜
 
 ---

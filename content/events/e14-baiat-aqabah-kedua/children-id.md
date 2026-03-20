@@ -1,12 +1,3 @@
----
-title: "Bai'at Aqabah Kedua: Janji Setia 75 Orang Madinah"
-date: "622 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Bai'at Aqabah Kedua 🤝
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Umrah al-Qada: The Peaceful Return to Makkah"
-date: "629 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Umrah al-Qada 🕋
 
 ---

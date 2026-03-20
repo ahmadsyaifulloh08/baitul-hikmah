@@ -1,12 +1,3 @@
----
-title: "Bacalah! — Kisah Wahyu Pertama di Gua Hira"
-date: "610-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Bacalah! — Kisah Wahyu Pertama
 
 ## 🏔️ Gua Kecil di Puncak Gunung

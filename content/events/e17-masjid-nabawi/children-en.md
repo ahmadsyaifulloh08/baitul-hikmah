@@ -1,12 +1,3 @@
----
-title: "Masjid Nabawi and the Brotherhood of Muhajirin and Ansar"
-date: "622 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Masjid Nabawi 🕌
 
 ---

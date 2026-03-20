@@ -1,12 +1,3 @@
----
-title: "Kisah Cinta yang Indah — Pernikahan Muhammad dan Khadijah"
-date: "595-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Kisah Cinta yang Indah
 
 ## 💎 Wanita Hebat dari Makkah

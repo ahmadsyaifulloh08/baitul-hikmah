@@ -1,12 +1,3 @@
----
-title: "Wafat Rasulullah ﷺ"
-date: "632 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Wafat Rasulullah ﷺ 🌙
 
 ---

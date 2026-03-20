@@ -1,12 +1,3 @@
----
-title: "The Battle of Siffin — When Muslims Disagreed"
-date: "657 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # When Muslims Disagreed 🕊️
 
 ---

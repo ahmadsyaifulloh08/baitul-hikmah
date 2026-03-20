@@ -1,12 +1,3 @@
----
-title: "The Dome of the Rock Is Built"
-date: "691 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Dome of the Rock — The Golden Dome in Jerusalem ✨
 
 ---

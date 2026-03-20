@@ -1,12 +1,3 @@
----
-title: "Abu Bakr as-Siddiq — The First Caliph"
-date: "632-634 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Abu Bakr — The First Caliph 🌟
 
 ---

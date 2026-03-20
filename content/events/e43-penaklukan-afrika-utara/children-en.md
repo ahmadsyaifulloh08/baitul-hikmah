@@ -1,12 +1,3 @@
----
-title: "The Conquest of North Africa"
-date: "670-710 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Conquest of North Africa 🌍
 
 ---

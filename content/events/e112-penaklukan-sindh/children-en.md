@@ -1,12 +1,3 @@
----
-title: "The Conquest of Sindh — Muhammad bin Qasim"
-date: "711 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Muhammad bin Qasim and the Conquest of Sindh 🐘
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Perang Hunain: Ketika Jumlah Besar Belum Tentu Menang"
-date: "630 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Hunain ⚔️
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Piagam Madinah: Aturan Hidup Bersama yang Pertama di Dunia"
-date: "622 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Piagam Madinah 📜
 
 ---

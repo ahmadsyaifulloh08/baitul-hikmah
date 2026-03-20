@@ -1,12 +1,3 @@
----
-title: "The Battle of Tabuk: The Prophet's Longest Journey"
-date: "630 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Tabuk ⚔️🏜️
 
 ---

@@ -1,12 +1,3 @@
----
-title: "The Battle of Uhud: A Trial of Defeat and Lessons"
-date: "625 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Uhud ⚔️
 
 ---

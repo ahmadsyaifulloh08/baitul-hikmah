@@ -1,12 +1,3 @@
----
-title: "Uniting the Quran's Recitation"
-date: "650 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Uniting the Quran's Recitation 📖
 
 ---

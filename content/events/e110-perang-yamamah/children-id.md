@@ -1,12 +1,3 @@
----
-title: "Perang Yamamah: Ketika Para Penghafal Al-Quran Berkorban"
-date: "633 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Yamamah 📖⚔️
 
 ---

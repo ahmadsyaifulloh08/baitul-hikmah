@@ -1,12 +1,3 @@
----
-title: "The Battle of Khaybar"
-date: "629 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Khaybar ⚔️
 
 ---

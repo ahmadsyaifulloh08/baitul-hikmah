@@ -1,12 +1,3 @@
----
-title: "The Exciting Journey to Syria — Young Muhammad and the Monk Bahira"
-date: "583-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # The Exciting Journey to Syria
 
 ## 🐪 Young Muhammad Wants to Come Along

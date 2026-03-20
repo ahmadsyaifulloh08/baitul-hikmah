@@ -1,23 +1,14 @@
----
-title: "Awal Gerakan Penerjemahan"
-date: "700 M"
-era: "Umayyah"
-location: "Damaskus, Suriah"
-tags: ["gerakan-penerjemahan", "khalid-ibn-yazid", "alkimia", "ilmu-pengetahuan", "terjemahan", "yunani", "dinasti-umayyah"]
-sources: ["tarikh-al-hukama-ibn-al-qifti", "uyun-al-anba-ibn-abi-usaybiah", "al-fihrist-ibn-al-nadim"]
----
-
 # Awal Gerakan Penerjemahan (Sekitar 700 M)
 
 ## Konteks Historis: Warisan Intelektual Dunia Kuno
 
-Ketika Islam menyebar ke wilayah-wilayah bekas kekaisaran Bizantium dan Persia, kaum Muslim menemukan kekayaan intelektual yang luar biasa — perpustakaan-perpustakaan yang menyimpan karya-karya filsafat Yunani, kedokteran Romawi, astronomi Persia, dan matematika India. Warisan ini tidak hilang bersama runtuhnya kerajaan-kerajaan lama; ia menunggu untuk ditemukan, diterjemahkan, dan dikembangkan.¹
+Ketika Islam menyebar ke wilayah-wilayah bekas kekaisaran Bizantium dan Persia, kaum Muslim menemukan kekayaan intelektual yang luar biasa — perpustakaan-perpustakaan yang menyimpan karya-karya filsafat Yunani, kedokteran Romawi, astronomi Persia, dan matematika India. Warisan ini tidak hilang bersama runtuhnya kerajaan-kerajaan lama; ia menunggu untuk ditemukan, diterjemahkan, dan dikembangkan.^1
 
 Al-Quran sendiri mendorong umat Islam untuk menuntut ilmu tanpa batas geografis atau etnis:
 
 > اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾
 >
-> *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan."*
+> *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. ﴾1﴿"*
 > — QS. Al-Alaq (96): 1
 
 Perintah pertama dalam wahyu Islam adalah perintah untuk membaca dan menuntut ilmu — dan semangat inilah yang menjadi motor penggerak gerakan penerjemahan.
@@ -26,21 +17,21 @@ Perintah pertama dalam wahyu Islam adalah perintah untuk membaca dan menuntut il
 
 ### Pangeran yang Memilih Ilmu
 
-Tokoh yang secara luas diakui sebagai pelopor gerakan penerjemahan dalam Islam adalah **Khalid ibn Yazid ibn Muawiyah** — cucu pendiri Dinasti Umayyah. Khalid adalah seorang pangeran yang pernah dicalonkan sebagai khalifah, namun posisi itu diambil oleh Marwan ibn al-Hakam. Alih-alih mengejar kekuasaan politik, Khalid justru mencurahkan hidupnya untuk menuntut ilmu.¹ ²
+Tokoh yang secara luas diakui sebagai pelopor gerakan penerjemahan dalam Islam adalah **Khalid ibn Yazid ibn Muawiyah** — cucu pendiri Dinasti Umayyah. Khalid adalah seorang pangeran yang pernah dicalonkan sebagai khalifah, namun posisi itu diambil oleh Marwan ibn al-Hakam. Alih-alih mengejar kekuasaan politik, Khalid justru mencurahkan hidupnya untuk menuntut ilmu.^1 ^2
 
-Ibn al-Nadim dalam *Al-Fihrist* — ensiklopedia bibliografis yang monumental — mencatat bahwa Khalid ibn Yazid adalah *"orang pertama yang menerjemahkan buku-buku astronomi, kedokteran, dan alkimia dari bahasa Yunani dan Koptik ke bahasa Arab."*³
+Ibn al-Nadim dalam *Al-Fihrist* — ensiklopedia bibliografis yang monumental — mencatat bahwa Khalid ibn Yazid adalah *"orang pertama yang menerjemahkan buku-buku astronomi, kedokteran, dan alkimia dari bahasa Yunani dan Koptik ke bahasa Arab."*^3
 
-Ibn al-Qifti dalam *Tarikh al-Hukama* (Sejarah Para Ilmuwan) memberikan rincian lebih lanjut: Khalid mendatangkan sekelompok cendekiawan Yunani dari Mesir, termasuk seorang rahib bernama **Marianos** (atau Morienus dalam sumber Latin), untuk mengajarkan ilmu-ilmu kuno dan menerjemahkan karya-karya penting ke bahasa Arab.¹
+Ibn al-Qifti dalam *Tarikh al-Hukama* (Sejarah Para Ilmuwan) memberikan rincian lebih lanjut: Khalid mendatangkan sekelompok cendekiawan Yunani dari Mesir, termasuk seorang rahib bernama **Marianos** (atau Morienus dalam sumber Latin), untuk mengajarkan ilmu-ilmu kuno dan menerjemahkan karya-karya penting ke bahasa Arab.^1
 
 ### Alkimia: Ilmu Pertama yang Diterjemahkan
 
-Bidang yang paling diminati Khalid adalah **alkimia** (*al-kimiya'*) — cikal bakal ilmu kimia modern. Ibn Abi Usaybi'ah dalam *Uyun al-Anba fi Tabaqat al-Atibba'* (Sumber Berita tentang Kelas-Kelas Tabib) mencatat bahwa Khalid bukan hanya menerjemahkan karya-karya alkimia, tetapi juga menulis risalah-risalahnya sendiri tentang topik tersebut.²
+Bidang yang paling diminati Khalid adalah **alkimia** (*al-kimiya'*) — cikal bakal ilmu kimia modern. Ibn Abi Usaybi'ah dalam *Uyun al-Anba fi Tabaqat al-Atibba'* (Sumber Berita tentang Kelas-Kelas Tabib) mencatat bahwa Khalid bukan hanya menerjemahkan karya-karya alkimia, tetapi juga menulis risalah-risalahnya sendiri tentang topik tersebut.^2
 
 Khalid tertarik pada alkimia bukan semata-mata karena ambisi mengubah logam menjadi emas — mitos yang sering dikaitkan dengan alkimia — melainkan karena alkimia pada masa itu mencakup pemahaman tentang sifat-sifat materi, reaksi kimia, dan proses-proses alam yang menjadi dasar bagi ilmu pengetahuan eksperimental.
 
 ### Penerjemahan di Luar Alkimia
 
-Meskipun alkimia menjadi fokus utama, gerakan penerjemahan awal ini tidak terbatas pada satu bidang. Ibn al-Nadim mencatat bahwa karya-karya yang diterjemahkan pada periode ini mencakup:³
+Meskipun alkimia menjadi fokus utama, gerakan penerjemahan awal ini tidak terbatas pada satu bidang. Ibn al-Nadim mencatat bahwa karya-karya yang diterjemahkan pada periode ini mencakup:^3
 
 - **Astronomi** — Pengetahuan tentang bintang dan planet dari tradisi Yunani dan Persia
 - **Kedokteran** — Karya-karya Galen dan Hippokrates mulai dialihbahasakan

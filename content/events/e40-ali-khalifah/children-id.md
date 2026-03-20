@@ -1,12 +1,3 @@
----
-title: "Ali ibn Abi Thalib — Khalifah Keempat"
-date: "656-661 M"
-era: "Khulafa al-Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Khalifah Ali yang Berani dan Bijaksana ⚔️
 
 ---

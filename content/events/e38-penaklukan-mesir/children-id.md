@@ -1,12 +1,3 @@
----
-title: "Penaklukan Mesir"
-date: "639-641 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Penaklukan Mesir 🏛️
 
 ---

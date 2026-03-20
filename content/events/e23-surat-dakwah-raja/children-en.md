@@ -1,12 +1,3 @@
----
-title: "Letters of Invitation to Kings"
-date: "628 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Letters to the Kings 📜
 
 ---

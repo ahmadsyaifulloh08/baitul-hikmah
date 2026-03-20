@@ -1,12 +1,3 @@
----
-title: "Tragedi Karbala — Syahidnya Husain ibn Ali"
-date: "680 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Tragedi Karbala 🕊️
 
 ---

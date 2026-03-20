@@ -1,12 +1,3 @@
----
-title: "Muhammad si Pemecah Masalah — Kisah Renovasi Ka'bah"
-date: "605-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Muhammad si Pemecah Masalah
 
 ## 🏛️ Ka'bah yang Rusak

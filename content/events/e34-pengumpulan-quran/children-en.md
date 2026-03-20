@@ -1,12 +1,3 @@
----
-title: "The Compilation of the Quran: Preserving the Holy Book Forever"
-date: "633 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Compilation of the Quran 📜✨
 
 ---

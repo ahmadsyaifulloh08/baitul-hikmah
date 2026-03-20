@@ -1,12 +1,3 @@
----
-title: "The Promise at the Hill of Aqabah — The Story of 12 Brave People from Medina"
-date: "621-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # The Promise at the Hill of Aqabah
 
 ## 🔍 Searching for New Friends

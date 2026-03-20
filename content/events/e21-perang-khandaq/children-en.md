@@ -1,12 +1,3 @@
----
-title: "The Battle of the Trench (Khandaq): Salman al-Farisi's Defensive Strategy"
-date: "627 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of the Trench ⚔️
 
 ---

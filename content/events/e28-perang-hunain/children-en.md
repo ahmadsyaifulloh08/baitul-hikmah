@@ -1,12 +1,3 @@
----
-title: "The Battle of Hunayn: When Big Numbers Don't Guarantee Victory"
-date: "630 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Hunayn ⚔️
 
 ---

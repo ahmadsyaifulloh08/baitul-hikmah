@@ -1,12 +1,3 @@
----
-title: "Janji di Bukit Aqabah — Kisah 12 Orang Pemberani dari Madinah"
-date: "621-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Janji di Bukit Aqabah
 
 ## 🔍 Mencari Teman Baru

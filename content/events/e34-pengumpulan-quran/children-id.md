@@ -1,12 +1,3 @@
----
-title: "Pengumpulan Al-Quran: Menjaga Kitab Suci untuk Selamanya"
-date: "633 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Pengumpulan Al-Quran 📜✨
 
 ---

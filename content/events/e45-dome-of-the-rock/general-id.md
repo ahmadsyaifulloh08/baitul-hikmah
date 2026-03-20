@@ -1,12 +1,3 @@
----
-title: "Dome of the Rock Dibangun"
-date: "691 M"
-era: "Umayyah"
-location: "Yerusalem (Baitul Maqdis), Palestina"
-tags: ["dome-of-the-rock", "qubbat-al-sakhrah", "abdul-malik-ibn-marwan", "baitul-maqdis", "yerusalem", "isra-miraj", "arsitektur-islam"]
-sources: ["al-uns-al-jalil-mujir-al-din", "tarikh-al-rusul-al-tabari", "al-bidayah-ibn-kathir"]
----
-
 # Dome of the Rock Dibangun (691 M)
 
 ## Konteks Historis: Yerusalem dalam Peradaban Islam
@@ -15,26 +6,26 @@ sources: ["al-uns-al-jalil-mujir-al-din", "tarikh-al-rusul-al-tabari", "al-biday
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
-> *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya."*
+> *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M. Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium.¹ Umar membersihkan area itu dan mendirikan tempat shalat sederhana.
+Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M. Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium.^1 Umar membersihkan area itu dan mendirikan tempat shalat sederhana.
 
 ## Peristiwa: Pembangunan Qubbat al-Sakhrah
 
 ### Abdul Malik ibn Marwan dan Visi Arsitekturnya
 
-Pada dekade 680-an M, Khalifah **Abdul Malik ibn Marwan** — penguasa kelima Dinasti Umayyah — menghadapi situasi politik yang kompleks. Abdullah ibn al-Zubair menguasai Hijaz dan mendeklarasikan diri sebagai khalifah tandingan, sehingga jamaah haji dari wilayah Umayyah harus melewati wilayahnya.¹ ²
+Pada dekade 680-an M, Khalifah **Abdul Malik ibn Marwan** — penguasa kelima Dinasti Umayyah — menghadapi situasi politik yang kompleks. Abdullah ibn al-Zubair menguasai Hijaz dan mendeklarasikan diri sebagai khalifah tandingan, sehingga jamaah haji dari wilayah Umayyah harus melewati wilayahnya.^1 ^2
 
-Al-Tabari dan Ibn Kathir mencatat bahwa Abdul Malik memutuskan untuk membangun sebuah monumen megah di atas **Batu Suci** (*al-Sakhrah*) di Haram al-Syarif — batu yang menurut tradisi Islam menjadi titik tolak *Mi'raj* Nabi Muhammad ﷺ ke langit.² ³ Batu ini juga memiliki makna mendalam dalam tradisi Ibrahim (Abraham) dan sejarah para nabi terdahulu.
+Al-Tabari dan Ibn Kathir mencatat bahwa Abdul Malik memutuskan untuk membangun sebuah monumen megah di atas **Batu Suci** (*al-Sakhrah*) di Haram al-Syarif — batu yang menurut tradisi Islam menjadi titik tolak *Mi'raj* Nabi Muhammad ﷺ ke langit.^2 ^3 Batu ini juga memiliki makna mendalam dalam tradisi Ibrahim (Abraham) dan sejarah para nabi terdahulu.
 
-Para sejarawan berbeda pendapat mengenai motivasi utama pembangunan ini. Sebagian — seperti yang diriwayatkan oleh al-Ya'qubi — berpendapat bahwa Abdul Malik ingin mengalihkan perhatian jamaah dari Ka'bah yang saat itu dikuasai Ibn al-Zubair. Namun, Mujir al-Din dalam *Al-Uns al-Jalil bi Tarikh al-Quds wa al-Khalil* menolak pendapat ini dan menegaskan bahwa motivasi utamanya adalah penghormatan terhadap tempat suci dan pernyataan keagungan peradaban Islam.¹
+Para sejarawan berbeda pendapat mengenai motivasi utama pembangunan ini. Sebagian — seperti yang diriwayatkan oleh al-Ya'qubi — berpendapat bahwa Abdul Malik ingin mengalihkan perhatian jamaah dari Ka'bah yang saat itu dikuasai Ibn al-Zubair. Namun, Mujir al-Din dalam *Al-Uns al-Jalil bi Tarikh al-Quds wa al-Khalil* menolak pendapat ini dan menegaskan bahwa motivasi utamanya adalah penghormatan terhadap tempat suci dan pernyataan keagungan peradaban Islam.^1
 
 ### Proses Pembangunan (685-691 M)
 
-Pembangunan Qubbat al-Sakhrah dimulai sekitar tahun 685 M dan selesai pada tahun 72 H (691/692 M). Mujir al-Din mencatat bahwa Abdul Malik menugaskan dua insinyur untuk mengawasi proyek ini: **Raja' ibn Haywah** dari Palestina dan **Yazid ibn Salam** dari Yerusalem.¹
+Pembangunan Qubbat al-Sakhrah dimulai sekitar tahun 685 M dan selesai pada tahun 72 H (691/692 M). Mujir al-Din mencatat bahwa Abdul Malik menugaskan dua insinyur untuk mengawasi proyek ini: **Raja' ibn Haywah** dari Palestina dan **Yazid ibn Salam** dari Yerusalem.^1
 
-Abdul Malik mengalokasikan pendapatan pajak seluruh provinsi Mesir selama tujuh tahun untuk membiayai pembangunan ini — bukti betapa seriusnya komitmennya terhadap proyek tersebut.¹ Para pekerja dan seniman didatangkan dari berbagai penjuru dunia Islam, termasuk pengrajin mosaik dari Suriah yang mahir dalam tradisi Bizantium.
+Abdul Malik mengalokasikan pendapatan pajak seluruh provinsi Mesir selama tujuh tahun untuk membiayai pembangunan ini — bukti betapa seriusnya komitmennya terhadap proyek tersebut.^1 Para pekerja dan seniman didatangkan dari berbagai penjuru dunia Islam, termasuk pengrajin mosaik dari Suriah yang mahir dalam tradisi Bizantium.
 
 ### Keajaiban Arsitektur
 
@@ -49,7 +40,7 @@ Inskripsi-inskripsi ini memuat ayat-ayat yang menegaskan keesaan Allah dan kedud
 
 > يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ﴿١٧١﴾
 >
-> *"Wahai Ahli Kitab, janganlah kamu melampaui batas dalam agamamu, dan janganlah kamu mengatakan terhadap Allah kecuali yang benar."*
+> *"Wahai Ahli Kitab, janganlah kamu melampaui batas dalam agamamu, dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. ﴾171﴿"*
 > — QS. An-Nisa (4): 171
 
 ## Analisis dan Hikmah

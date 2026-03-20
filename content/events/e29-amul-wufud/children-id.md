@@ -1,12 +1,3 @@
----
-title: "'Am al-Wufud: Tahun Delegasi Suku-Suku Masuk Islam"
-date: "631 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Tahun Delegasi 🕌
 
 ---

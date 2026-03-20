@@ -1,12 +1,3 @@
----
-title: "The Destruction of Idols: The Ka'bah Becomes Pure Again"
-date: "630 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Destruction of Idols at the Ka'bah 🕋✨
 
 ---

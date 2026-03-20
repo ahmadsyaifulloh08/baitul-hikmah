@@ -1,12 +1,3 @@
----
-title: "Masjid Nabawi dan Persaudaraan Muhajirin-Anshar"
-date: "622 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Masjid Nabawi 🕌
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Penaklukan Yerusalem / Al-Quds"
-date: "637 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Penaklukan Yerusalem 🕌
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Awal Gerakan Penerjemahan"
-date: "700 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Gerakan Penerjemahan — Menerjemahkan Ilmu Dunia 📚
 
 ---

@@ -1,42 +1,33 @@
----
-title: "The Farewell Hajj and Final Sermon: Human Rights in Islam"
-date: "632 CE"
-era: "Prophetic"
-location: "Makkah - Arafah, Arabian Peninsula"
-tags: ["farewell-hajj", "final-sermon", "human-rights", "arafah", "prophet-muhammad", "pilgrimage", "equality"]
-sources: ["sahih-muslim", "ibn-hisham", "musnad-ahmad"]
----
-
 # The Farewell Hajj and Final Sermon: Human Rights in Islam
 
 ## Historical Context: The First and Last Hajj of Prophet Muhammad ﷺ
 
-In the month of Dhul-Qa'dah in the year 10 AH (632 CE), Prophet Muhammad ﷺ announced his intention to perform the Hajj pilgrimage. This would be the first and only Hajj he performed after the migration to Madinah — and, unbeknown to the companions, it would also be his last. Hence, this pilgrimage became known as *Hajjatul Wada'* (the Farewell Pilgrimage).¹
+In the month of Dhul-Qa'dah in the year 10 AH (632 CE), Prophet Muhammad ﷺ announced his intention to perform the Hajj pilgrimage. This would be the first and only Hajj he performed after the migration to Madinah — and, unbeknown to the companions, it would also be his last. Hence, this pilgrimage became known as *Hajjatul Wada'* (the Farewell Pilgrimage).^1
 
-Imam Muslim in his *Sahih* narrates from Ja'far ibn Muhammad, from his father, from Jabir ibn Abdullah, a lengthy and detailed hadith covering the entire sequence of the Prophet's Hajj — from departure from Madinah to the completion of all rites.¹ This hadith of Jabir remains the primary reference for scholars of Islamic jurisprudence in determining the procedures of Hajj.
+Imam Muslim in his *Sahih* narrates from Ja'far ibn Muhammad, from his father, from Jabir ibn Abdullah, a lengthy and detailed hadith covering the entire sequence of the Prophet's Hajj — from departure from Madinah to the completion of all rites.^1 This hadith of Jabir remains the primary reference for scholars of Islamic jurisprudence in determining the procedures of Hajj.
 
-News of the Prophet's departure spread across the entire Arabian Peninsula. Al-Mubarakfuri in *al-Rahiq al-Makhtum* records that the number of pilgrims accompanying him was enormous — historians estimate between one hundred thousand and one hundred forty thousand people.² ⁴ This was the largest gathering of people the Arabian Peninsula had ever witnessed.
+News of the Prophet's departure spread across the entire Arabian Peninsula. Al-Mubarakfuri in *al-Rahiq al-Makhtum* records that the number of pilgrims accompanying him was enormous — historians estimate between one hundred thousand and one hundred forty thousand people.^2 ^4 This was the largest gathering of people the Arabian Peninsula had ever witnessed.
 
 ## The Events: Journey to Makkah
 
 ### Departure from Madinah
 
-Imam Muslim narrates that the Prophet ﷺ departed from Madinah on the 25th of Dhul-Qa'dah. He prayed Zuhr at Dhul-Hulayfah (the *miqat* for the people of Madinah), then entered the state of *ihram* after the prayer.¹ Jabir describes that he could see an ocean of people in every direction — in front, behind, to the right, and to the left of the Prophet ﷺ — as far as the eye could see.
+Imam Muslim narrates that the Prophet ﷺ departed from Madinah on the 25th of Dhul-Qa'dah. He prayed Zuhr at Dhul-Hulayfah (the *miqat* for the people of Madinah), then entered the state of *ihram* after the prayer.^1 Jabir describes that he could see an ocean of people in every direction — in front, behind, to the right, and to the left of the Prophet ﷺ — as far as the eye could see.
 
-Ahmad ibn Hanbal in his *Musnad* narrates that the Prophet ﷺ recited the *talbiyah*:³
+Ahmad ibn Hanbal in his *Musnad* narrates that the Prophet ﷺ recited the *talbiyah*:^3
 
 > لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ
 >
-> *"Here I am at Your service, O Allah, here I am. Here I am, You have no partner, here I am. Indeed, all praise, grace, and sovereignty belong to You. You have no partner."*
+> *"Here I am at Your service, O Allah, here I am. Here I am, You have no partner, here I am. Indeed, all praise, grace, and sovereignty belong to You. You have no partner. ﴾125﴿"*
 > — Narrated by Ahmad, Musnad, vol. 3
 
 ### Arrival in Makkah and Tawaf
 
-Upon arriving in Makkah on the 4th of Dhul-Hijjah, the Prophet ﷺ proceeded directly to the Sacred Mosque. Imam Muslim narrates that he kissed the Black Stone, then performed seven circuits of *tawaf* — the first three at a brisk pace*raml* and the remaining four at a normal stride.¹ After the *tawaf*, he prayed two units behind the Station of Ibrahim and recited:
+Upon arriving in Makkah on the 4th of Dhul-Hijjah, the Prophet ﷺ proceeded directly to the Sacred Mosque. Imam Muslim narrates that he kissed the Black Stone, then performed seven circuits of *tawaf* — the first three at a brisk pace*raml* and the remaining four at a normal stride.^1 After the *tawaf*, he prayed two units behind the Station of Ibrahim and recited:
 
 > وَاتَّخِذُوا مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى ﴿١٢٥﴾
 >
-> *"And take the station of Ibrahim as a place of prayer."*
+> *"And take the station of Ibrahim as a place of prayer. ﴾125﴿"*
 > — QS. Al-Baqarah (2): 125
 
 ### Standing at Arafah — The Pinnacle of Hajj
@@ -52,7 +43,7 @@ On the vast plain of Arafah, mounted upon his camel al-Qaswa', with more than a 
 
 ## The Sermon at Arafah: A Declaration of Human Rights
 
-The Prophet's sermon at Arafah stands as one of the most influential speeches in human history. Delivered more than a thousand years before the United Nations Universal Declaration of Human Rights (1948), its principles transcended its era. Imam Muslim and Imam Ahmad narrate its contents through multiple chains of transmission:¹ ³
+The Prophet's sermon at Arafah stands as one of the most influential speeches in human history. Delivered more than a thousand years before the United Nations Universal Declaration of Human Rights (1948), its principles transcended its era. Imam Muslim and Imam Ahmad narrate its contents through multiple chains of transmission:^1 ^3
 
 ### The Sanctity of Life, Property, and Honor
 
@@ -104,7 +95,7 @@ The Prophet ﷺ closed his sermon with an enduring counsel:
 
 > وَقَدْ تَرَكْتُ فِيكُمْ مَا لَنْ تَضِلُّوا بَعْدَهُ إِنِ اعْتَصَمْتُمْ بِهِ كِتَابَ اللَّهِ
 >
-> *"And I have left among you that which, if you hold fast to it, you will never go astray — the Book of Allah."*
+> *"And I have left among you that which, if you hold fast to it, you will never go astray — the Book of Allah. ﴾3﴿"*
 > — Narrated by Muslim, no. 1218
 
 ## The Revelation of the Verse of Completion
@@ -113,10 +104,10 @@ On that very Day of Arafah, one of the most momentous verses of the Quran was re
 
 > الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ﴿٣﴾
 >
-> *"This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion."*
+> *"This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. ﴾3﴿"*
 > — QS. Al-Ma'idah (5): 3
 
-Imam al-Bukhari narrates that when this verse was revealed, Umar ibn al-Khattab wept. When asked why, he replied: *"After perfection, there is nothing but decline."* Umar understood that this verse signaled the nearing end of the prophetic mission — and the approaching death of the Messenger of Allah ﷺ.
+Imam al-Bukhari narrates that when this verse was revealed, Umar ibn al-Khattab wept. When asked why, he replied: *"After perfection, there is nothing but decline. ﴾3﴿"* Umar understood that this verse signaled the nearing end of the prophetic mission — and the approaching death of the Messenger of Allah ﷺ.
 
 ## Analysis: A Sermon That Transcended Its Era
 
@@ -137,7 +128,7 @@ One of the most striking aspects of this sermon is how the Prophet ﷺ began ref
 
 ### Trust and Accountability
 
-At the conclusion of his sermon, the Prophet ﷺ asked the entire congregation: *"Have I conveyed the message?"* They answered: *"Yes, you have conveyed it."* He then raised his index finger toward the sky and said: *"O Allah, bear witness."*¹
+At the conclusion of his sermon, the Prophet ﷺ asked the entire congregation: *"Have I conveyed the message?"* They answered: *"Yes, you have conveyed it."* He then raised his index finger toward the sky and said: *"O Allah, bear witness."*^1
 
 This was an extraordinary moment — a leader requesting confirmation from his people that he had fulfilled his trust, then calling upon Allah as witness. There is no higher model of leadership accountability.
 

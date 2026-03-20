@@ -1,12 +1,3 @@
----
-title: "Orphanhood: The Death of the Father, Mother, and Grandfather of Prophet Muhammad ﷺ"
-date: "570-578 CE"
-era: "Pre-Islamic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Orphanhood 🌙
 
 ---
@@ -74,4 +65,4 @@ The orphanhood of Prophet Muhammad ﷺ carries great wisdom:
 - **Proof of prophethood** — an orphan without wealth built one of the greatest civilizations in history
 - **A model** — Allah elevated the dignity of every orphan through His prophet
 
-Allah said: **"So as for the orphan, do not oppress him."** (Surah Ad-Dhuha: 9)
+Allah said: **"So as for the orphan, do not oppress him. ﴾9﴿"** (Surah Ad-Dhuha: 9)

@@ -1,12 +1,3 @@
----
-title: "Umar ibn Abd al-Aziz — The Reformist Caliph"
-date: "717-720 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Umar ibn Abd al-Aziz — The Just Caliph 🌟
 
 ---

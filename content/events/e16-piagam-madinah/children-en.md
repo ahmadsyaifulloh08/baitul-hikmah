@@ -1,12 +1,3 @@
----
-title: "The Charter of Madinah: The World's First Rules for Living Together"
-date: "622 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Charter of Madinah 📜
 
 ---

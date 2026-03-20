@@ -1,49 +1,40 @@
----
-title: "The Conquest of Al-Andalus — Tariq ibn Ziyad"
-date: "711 CE"
-era: "Umayyad"
-location: "Iberian Peninsula (Spain), Strait of Gibraltar"
-tags: ["conquest-of-andalus", "tariq-ibn-ziyad", "musa-ibn-nusayr", "gibraltar", "visigoth", "roderic", "al-andalus"]
-sources: ["futuh-al-buldan-al-baladhuri", "nafh-al-tib-al-maqqari", "al-kamil-ibn-al-athir"]
----
-
 # The Conquest of Al-Andalus — Tariq ibn Ziyad (711 CE)
 
 ## Historical Context: The Iberian Peninsula Before Islam
 
-At the dawn of the 8th century CE, the Iberian Peninsula (modern Spain and Portugal) was under the rule of the **Visigothic** kingdom — a Germanic Christian kingdom that had controlled the region since the fall of the Western Roman Empire. The Visigothic kingdom at the time was beset by severe internal crisis: struggles over the throne, feuding nobility, and persecution of the Jewish population and the peasantry.¹
+At the dawn of the 8th century CE, the Iberian Peninsula (modern Spain and Portugal) was under the rule of the **Visigothic** kingdom — a Germanic Christian kingdom that had controlled the region since the fall of the Western Roman Empire. The Visigothic kingdom at the time was beset by severe internal crisis: struggles over the throne, feuding nobility, and persecution of the Jewish population and the peasantry.^1
 
-Across the Strait of Gibraltar, Muslim forces had completed the conquest of all of North Africa under Governor **Musa ibn Nusayr**. Among his finest commanders was a brilliant Berber officer named **Tariq ibn Ziyad**, who had been appointed governor of Tangier.¹ ²
+Across the Strait of Gibraltar, Muslim forces had completed the conquest of all of North Africa under Governor **Musa ibn Nusayr**. Among his finest commanders was a brilliant Berber officer named **Tariq ibn Ziyad**, who had been appointed governor of Tangier.^1 ^2
 
-Al-Maqqari in *Nafh al-Tib min Ghusn al-Andalus al-Rathib* — the most comprehensive source on the history of Al-Andalus — records that the crossing into Iberia was driven by several factors: requests for help from disputing parties within the Visigothic kingdom, expansionist ambition, and the spirit of *da'wah*.²
+Al-Maqqari in *Nafh al-Tib min Ghusn al-Andalus al-Rathib* — the most comprehensive source on the history of Al-Andalus — records that the crossing into Iberia was driven by several factors: requests for help from disputing parties within the Visigothic kingdom, expansionist ambition, and the spirit of *da'wah*.^2
 
 ## The Events: A Crossing That Changed History
 
 ### The Reconnaissance Expedition of Tarif ibn Malik (710 CE)
 
-Before the major crossing, Musa ibn Nusayr sent a small reconnaissance expedition under **Tarif ibn Malik** with approximately 400 soldiers in 710 CE. This expedition successfully crossed the strait and landed at a point later named **Tarifa** (now the town of Tarifa in southern Spain) — the first place in Europe to bear a Muslim name.¹ The success of this expedition convinced Musa to launch a full-scale invasion.
+Before the major crossing, Musa ibn Nusayr sent a small reconnaissance expedition under **Tarif ibn Malik** with approximately 400 soldiers in 710 CE. This expedition successfully crossed the strait and landed at a point later named **Tarifa** (now the town of Tarifa in southern Spain) — the first place in Europe to bear a Muslim name.^1 The success of this expedition convinced Musa to launch a full-scale invasion.
 
 ### Tariq ibn Ziyad's Crossing (April 711 CE)
 
-In Rajab 92 AH (April 711 CE), **Tariq ibn Ziyad** led an army of approximately 7,000 soldiers — mostly Berbers who had recently embraced Islam — across the Strait of Gibraltar using ships provided by **Julian** (Ilyan), the governor of Ceuta who was in conflict with the Visigothic king Roderic.¹ ² ³
+In Rajab 92 AH (April 711 CE), **Tariq ibn Ziyad** led an army of approximately 7,000 soldiers — mostly Berbers who had recently embraced Islam — across the Strait of Gibraltar using ships provided by **Julian** (Ilyan), the governor of Ceuta who was in conflict with the Visigothic king Roderic.^1 ^2 ^3
 
 Tariq's forces landed at the foot of a great rocky promontory that was later named **Jabal Tariq** (Mount Tariq) — which in European languages became **Gibraltar**. This name endures to this day as a permanent reminder of that crossing.
 
 ### The Battle of Guadalete (July 711 CE)
 
-King **Roderic** assembled a large army to face Tariq. A great battle took place near the **Guadalete** River (Wadi Lakka in Arabic sources) in July 711 CE.¹ ²
+King **Roderic** assembled a large army to face Tariq. A great battle took place near the **Guadalete** River (Wadi Lakka in Arabic sources) in July 711 CE.^1 ^2
 
-Ibn al-Athir in *Al-Kamil fi al-Tarikh* describes this battle as one of the most decisive in world history.³ Although the Visigothic forces were far superior in number, they were divided by internal dissension — some Visigothic nobles actually defected to Tariq's side. Roderic was killed in the battle (or vanished — sources differ), and the Visigothic kingdom collapsed spectacularly.
+Ibn al-Athir in *Al-Kamil fi al-Tarikh* describes this battle as one of the most decisive in world history.^3 Although the Visigothic forces were far superior in number, they were divided by internal dissension — some Visigothic nobles actually defected to Tariq's side. Roderic was killed in the battle (or vanished — sources differ), and the Visigothic kingdom collapsed spectacularly.
 
-Al-Maqqari recounts Tariq's famous speech before the battle — although its authenticity is debated by modern historians:²
+Al-Maqqari recounts Tariq's famous speech before the battle — although its authenticity is debated by modern historians:^2
 
 *"O people, where will you flee? The sea is behind you and the enemy before you. By Allah, you have nothing but honesty and patience."*
 
 ### The Rapid Conquest (711–714 CE)
 
-After the victory at Guadalete, the conquest of the Iberian Peninsula proceeded with astonishing speed. Tariq advanced northward, conquering **Toledo** — the Visigothic capital — and other major cities. Al-Baladhuri records that many cities surrendered with little resistance.¹
+After the victory at Guadalete, the conquest of the Iberian Peninsula proceeded with astonishing speed. Tariq advanced northward, conquering **Toledo** — the Visigothic capital — and other major cities. Al-Baladhuri records that many cities surrendered with little resistance.^1
 
-Musa ibn Nusayr himself crossed the strait in 712 CE with an additional force of 18,000 men, conquering cities not yet taken by Tariq, including **Seville** and **Merida**.² Within three years, nearly the entire Iberian Peninsula was under Muslim rule — a conquest that transformed the face of Europe.
+Musa ibn Nusayr himself crossed the strait in 712 CE with an additional force of 18,000 men, conquering cities not yet taken by Tariq, including **Seville** and **Merida**.^2 Within three years, nearly the entire Iberian Peninsula was under Muslim rule — a conquest that transformed the face of Europe.
 
 ## Scriptural Motivation
 
@@ -51,7 +42,7 @@ The spiritual motivation behind the conquest of Al-Andalus aligned with the spir
 
 > وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ ﴿٦٠﴾
 >
-> *"And prepare against them whatever you are able of power and of steeds of war by which you may deter the enemy of Allah and your enemy."*
+> *"And prepare against them whatever you are able of power and of steeds of war by which you may deter the enemy of Allah and your enemy. ﴾60﴿"*
 > — QS. Al-Anfal (8): 60
 
 ## Analysis and Lessons

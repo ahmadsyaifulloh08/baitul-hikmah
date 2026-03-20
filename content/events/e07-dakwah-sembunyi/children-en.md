@@ -1,12 +1,3 @@
----
-title: "The Secret Da'wah — The First Secret of Islam"
-date: "610-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # The Secret That Changed the World 🤫
 
 ## 🌙 How It All Began

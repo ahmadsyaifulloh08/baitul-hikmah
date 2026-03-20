@@ -1,12 +1,3 @@
----
-title: "Umar ibn al-Khattab — The Second Caliph"
-date: "634-644 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # Umar al-Faruq — The Just Leader ⚖️
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Uthman ibn Affan — The Third Caliph"
-date: "644-656 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Generous Caliph Uthman 🌟
 
 ---

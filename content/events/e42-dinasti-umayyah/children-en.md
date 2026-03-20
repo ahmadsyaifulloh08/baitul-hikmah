@@ -1,12 +1,3 @@
----
-title: "Muawiyah Establishes the Umayyad Dynasty"
-date: "661 CE"
-era: "Umayyad"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Umayyad Dynasty Begins 🏰
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Tiga Tahun di Lembah Sunyi — Kisah Pemboikotan Bani Hasyim"
-date: "616-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Tiga Tahun di Lembah Sunyi
 
 ## 🏔️ Diusir ke Lembah Sempit

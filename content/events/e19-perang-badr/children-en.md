@@ -1,12 +1,3 @@
----
-title: "The Battle of Badr: The First Victory of the Muslims"
-date: "624 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Badr ⚔️
 
 ---

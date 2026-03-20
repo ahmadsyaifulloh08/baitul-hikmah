@@ -1,12 +1,3 @@
----
-title: "Menyatukan Bacaan al-Quran"
-date: "650 M"
-era: "Khulafa al-Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Menyatukan Bacaan al-Quran 📖
 
 ---

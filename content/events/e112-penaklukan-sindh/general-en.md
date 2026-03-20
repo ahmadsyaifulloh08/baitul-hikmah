@@ -1,49 +1,40 @@
----
-title: "The Conquest of Sindh — Muhammad bin Qasim"
-date: "711 CE"
-era: "Umayyad"
-location: "Sindh (Southern Pakistan), Indian Subcontinent"
-tags: ["conquest-of-sindh", "muhammad-bin-qasim", "raja-dahir", "sindh", "multan", "debal", "umayyad-dynasty"]
-sources: ["chach-nama-ali-al-kufi", "futuh-al-buldan-al-baladhuri", "tarikh-al-rusul-al-tabari"]
----
-
 # The Conquest of Sindh — Muhammad bin Qasim (711 CE)
 
 ## Historical Context: Sindh Before Islam
 
-The region of **Sindh** — located in modern southern Pakistan, along the course of the Indus River — was one of the world's oldest cradles of civilization. At the dawn of the 8th century CE, Sindh was ruled by **Raja Dahir**, a Hindu king of the Brahman Dynasty who had come to power after overthrowing the previous dynasty.¹
+The region of **Sindh** — located in modern southern Pakistan, along the course of the Indus River — was one of the world's oldest cradles of civilization. At the dawn of the 8th century CE, Sindh was ruled by **Raja Dahir**, a Hindu king of the Brahman Dynasty who had come to power after overthrowing the previous dynasty.^1
 
-The relationship between the Muslim world and Sindh predated the conquest through trade routes. Arab merchants had been sailing to the ports of Sindh for centuries. However, this relationship was not always peaceful — there were reports of pirates from Sindh attacking Muslim trading vessels in the Indian Ocean.¹ ²
+The relationship between the Muslim world and Sindh predated the conquest through trade routes. Arab merchants had been sailing to the ports of Sindh for centuries. However, this relationship was not always peaceful — there were reports of pirates from Sindh attacking Muslim trading vessels in the Indian Ocean.^1 ^2
 
-Al-Baladhuri in *Futuh al-Buldan* records that the direct trigger for the military expedition to Sindh was a hostage incident: a group of Muslim women and children traveling from Sri Lanka were captured by pirates in Raja Dahir's territory. When the Umayyad governor of Iraq, **al-Hajjaj ibn Yusuf al-Thaqafi**, demanded that Dahir free them, Dahir refused or claimed he could not control the pirates.²
+Al-Baladhuri in *Futuh al-Buldan* records that the direct trigger for the military expedition to Sindh was a hostage incident: a group of Muslim women and children traveling from Sri Lanka were captured by pirates in Raja Dahir's territory. When the Umayyad governor of Iraq, **al-Hajjaj ibn Yusuf al-Thaqafi**, demanded that Dahir free them, Dahir refused or claimed he could not control the pirates.^2
 
 ## The Events: Muhammad bin Qasim's Expedition
 
 ### An Extraordinary Young Commander
 
-Al-Hajjaj ibn Yusuf chose his very young nephew — **Muhammad bin Qasim al-Thaqafi** — to lead the expedition to Sindh. At the time of his appointment, Muhammad bin Qasim was only about **17 years old**, making him one of the youngest commanders in Islamic military history.¹ ²
+Al-Hajjaj ibn Yusuf chose his very young nephew — **Muhammad bin Qasim al-Thaqafi** — to lead the expedition to Sindh. At the time of his appointment, Muhammad bin Qasim was only about **17 years old**, making him one of the youngest commanders in Islamic military history.^1 ^2
 
-Al-Tabari in *Tarikh al-Rusul wa al-Muluk* records that despite his youth, Muhammad bin Qasim had already demonstrated extraordinary military and administrative ability. Al-Hajjaj equipped him with a force of approximately 6,000 cavalry, along with heavy equipment including *manjaniq* (catapults).³
+Al-Tabari in *Tarikh al-Rusul wa al-Muluk* records that despite his youth, Muhammad bin Qasim had already demonstrated extraordinary military and administrative ability. Al-Hajjaj equipped him with a force of approximately 6,000 cavalry, along with heavy equipment including *manjaniq* (catapults).^3
 
 ### The Conquest of Debal (711 CE)
 
-Muhammad bin Qasim launched his campaign by attacking the port city of **Debal** (near modern Karachi) in 711 CE — the same year Tariq ibn Ziyad conquered Spain at the western edge of the Muslim world. The *Chach Nama* — the primary source on the conquest of Sindh, written by Ali ibn Muhammad al-Kufi — describes the siege of Debal in detail.¹
+Muhammad bin Qasim launched his campaign by attacking the port city of **Debal** (near modern Karachi) in 711 CE — the same year Tariq ibn Ziyad conquered Spain at the western edge of the Muslim world. The *Chach Nama* — the primary source on the conquest of Sindh, written by Ali ibn Muhammad al-Kufi — describes the siege of Debal in detail.^1
 
-After the fall of Debal, Muhammad bin Qasim moved northward along the Indus River valley, conquering city after city. Al-Baladhuri records that in many places, the local population — especially those from lower castes oppressed under the Hindu caste system — welcomed the arrival of Muslim forces.²
+After the fall of Debal, Muhammad bin Qasim moved northward along the Indus River valley, conquering city after city. Al-Baladhuri records that in many places, the local population — especially those from lower castes oppressed under the Hindu caste system — welcomed the arrival of Muslim forces.^2
 
 ### The Battle Against Raja Dahir (712 CE)
 
-The decisive battle took place near **Rawar** (near modern Nawabshah) in 712 CE. Raja Dahir led a large army equipped with war elephants — weapons the Arab forces had never faced before.¹
+The decisive battle took place near **Rawar** (near modern Nawabshah) in 712 CE. Raja Dahir led a large army equipped with war elephants — weapons the Arab forces had never faced before.^1
 
-The *Chach Nama* describes a fierce battle in which Dahir's war elephants initially overwhelmed the Muslim forces. However, Muhammad bin Qasim used fire arrows and catapults to frighten the elephants. Raja Dahir ultimately fell in battle after his elephant collapsed.¹ ³
+The *Chach Nama* describes a fierce battle in which Dahir's war elephants initially overwhelmed the Muslim forces. However, Muhammad bin Qasim used fire arrows and catapults to frighten the elephants. Raja Dahir ultimately fell in battle after his elephant collapsed.^1 ^3
 
 ### The Conquest of Multan and Consolidation
 
-After Dahir's death, Muhammad bin Qasim continued his conquest northward, capturing important cities including **Alor** (Dahir's capital) and **Multan** — one of the most important religious centers in the region.¹ ² Within approximately two years, the entire territory of Sindh and parts of southern Punjab were under Islamic rule.
+After Dahir's death, Muhammad bin Qasim continued his conquest northward, capturing important cities including **Alor** (Dahir's capital) and **Multan** — one of the most important religious centers in the region.^1 ^2 Within approximately two years, the entire territory of Sindh and parts of southern Punjab were under Islamic rule.
 
 ### Policy Toward the Local Population
 
-One of the most fascinating aspects of the conquest of Sindh was Muhammad bin Qasim's policy toward non-Muslim inhabitants. The *Chach Nama* records that he granted the status of **ahl al-dhimmah** (protected people) to Hindus and Buddhists — applying a *jizyah* (protection tax) equivalent to that applied to People of the Book in other Islamic territories.¹
+One of the most fascinating aspects of the conquest of Sindh was Muhammad bin Qasim's policy toward non-Muslim inhabitants. The *Chach Nama* records that he granted the status of **ahl al-dhimmah** (protected people) to Hindus and Buddhists — applying a *jizyah* (protection tax) equivalent to that applied to People of the Book in other Islamic territories.^1
 
 Hindu temples were left standing, and the local population was permitted to practice their faith. Muhammad bin Qasim also involved local leaders in governance, demonstrating a pragmatic and inclusive approach.
 
@@ -53,7 +44,7 @@ The expedition to Sindh was motivated by the obligation to protect captive Musli
 
 > وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ ﴿٧٥﴾
 >
-> *"And what is the matter with you that you do not fight in the cause of Allah and for the oppressed among men, women, and children."*
+> *"And what is the matter with you that you do not fight in the cause of Allah and for the oppressed among men, women, and children. ﴾75﴿"*
 > — QS. An-Nisa (4): 75
 
 ## Analysis and Lessons
@@ -68,7 +59,7 @@ Muhammad bin Qasim proved that age is no barrier to great achievement. At 17 yea
 
 ### A Tragic End
 
-Muhammad bin Qasim's story has a tragic ending. After the death of al-Hajjaj and a change of power in Damascus, Muhammad bin Qasim was recalled, arrested on political charges, and died in prison at a very young age.¹ This serves as a reminder that political power is fickle and often unjust, even toward those who have rendered great service.
+Muhammad bin Qasim's story has a tragic ending. After the death of al-Hajjaj and a change of power in Damascus, Muhammad bin Qasim was recalled, arrested on political charges, and died in prison at a very young age.^1 This serves as a reminder that political power is fickle and often unjust, even toward those who have rendered great service.
 
 ### Pluralism in Governance
 

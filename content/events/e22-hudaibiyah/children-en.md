@@ -1,12 +1,3 @@
----
-title: "The Treaty of Hudaybiyyah: Diplomacy and Peace"
-date: "628 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Treaty of Hudaybiyyah 🕊️
 
 ---

@@ -1,42 +1,33 @@
----
-title: "Haji Wada' dan Khutbah Terakhir: Hak Asasi Manusia dalam Islam"
-date: "632 M"
-era: "Kenabian"
-location: "Makkah - Arafah, Jazirah Arab"
-tags: ["haji-wada", "khutbah-terakhir", "hak-asasi-manusia", "arafah", "nabi-muhammad", "ibadah-haji", "persamaan"]
-sources: ["shahih-muslim", "ibn-hisham", "musnad-ahmad"]
----
-
 # Haji Wada' dan Khutbah Terakhir: Hak Asasi Manusia dalam Islam
 
 ## Konteks Historis: Haji Pertama dan Terakhir Nabi Muhammad ﷺ
 
-Pada bulan Dzulqa'dah tahun 10 Hijriyah (632 M), Nabi Muhammad ﷺ mengumumkan niatnya untuk menunaikan ibadah haji. Ini adalah haji pertama dan satu-satunya yang beliau laksanakan setelah hijrah ke Madinah — dan tanpa disadari oleh para sahabat, ini pula yang akan menjadi haji terakhir beliau. Oleh karena itu, ibadah haji ini dikenal sebagai *Hajjatul Wada'* (Haji Perpisahan).¹
+Pada bulan Dzulqa'dah tahun 10 Hijriyah (632 M), Nabi Muhammad ﷺ mengumumkan niatnya untuk menunaikan ibadah haji. Ini adalah haji pertama dan satu-satunya yang beliau laksanakan setelah hijrah ke Madinah — dan tanpa disadari oleh para sahabat, ini pula yang akan menjadi haji terakhir beliau. Oleh karena itu, ibadah haji ini dikenal sebagai *Hajjatul Wada'* (Haji Perpisahan).^1
 
-Imam Muslim dalam *Shahih*-nya meriwayatkan dari Ja'far bin Muhammad, dari ayahnya, dari Jabir bin Abdullah, sebuah hadits panjang yang mendetail tentang seluruh rangkaian haji Nabi ﷺ — mulai dari keberangkatan dari Madinah hingga selesainya seluruh manasik.¹ Hadits Jabir ini menjadi rujukan utama ulama fikih dalam menentukan tata cara haji.
+Imam Muslim dalam *Shahih*-nya meriwayatkan dari Ja'far bin Muhammad, dari ayahnya, dari Jabir bin Abdullah, sebuah hadits panjang yang mendetail tentang seluruh rangkaian haji Nabi ﷺ — mulai dari keberangkatan dari Madinah hingga selesainya seluruh manasik.^1 Hadits Jabir ini menjadi rujukan utama ulama fikih dalam menentukan tata cara haji.
 
-Kabar keberangkatan Nabi ﷺ menyebar ke seluruh Jazirah Arab. Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa jumlah jamaah yang menyertai beliau sangat besar — para sejarawan memperkirakan antara seratus ribu hingga seratus empat puluh ribu orang.² ⁴ Ini adalah pertemuan manusia terbesar yang pernah disaksikan oleh Jazirah Arab hingga saat itu.
+Kabar keberangkatan Nabi ﷺ menyebar ke seluruh Jazirah Arab. Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa jumlah jamaah yang menyertai beliau sangat besar — para sejarawan memperkirakan antara seratus ribu hingga seratus empat puluh ribu orang.^2 ^4 Ini adalah pertemuan manusia terbesar yang pernah disaksikan oleh Jazirah Arab hingga saat itu.
 
 ## Peristiwa: Perjalanan Menuju Makkah
 
 ### Keberangkatan dari Madinah
 
-Imam Muslim meriwayatkan bahwa Nabi ﷺ berangkat dari Madinah pada tanggal 25 Dzulqa'dah. Beliau shalat Zhuhur di Dzul Hulaifah (miqat penduduk Madinah), lalu memasuki ihram setelah shalat.¹ Jabir menggambarkan bahwa beliau bisa melihat lautan manusia ke segala arah — di depan, di belakang, di kanan, dan di kiri Nabi ﷺ — sejauh mata memandang.
+Imam Muslim meriwayatkan bahwa Nabi ﷺ berangkat dari Madinah pada tanggal 25 Dzulqa'dah. Beliau shalat Zhuhur di Dzul Hulaifah (miqat penduduk Madinah), lalu memasuki ihram setelah shalat.^1 Jabir menggambarkan bahwa beliau bisa melihat lautan manusia ke segala arah — di depan, di belakang, di kanan, dan di kiri Nabi ﷺ — sejauh mata memandang.
 
-Ahmad bin Hanbal dalam *Musnad*-nya meriwayatkan bahwa Nabi ﷺ bertalbiyah dengan kalimat:³
+Ahmad bin Hanbal dalam *Musnad*-nya meriwayatkan bahwa Nabi ﷺ bertalbiyah dengan kalimat:^3
 
 > لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ
 >
-> *"Aku penuhi panggilan-Mu, ya Allah, aku penuhi panggilan-Mu. Aku penuhi panggilan-Mu, tiada sekutu bagi-Mu, aku penuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan hanya milik-Mu. Tiada sekutu bagi-Mu."*
+> *"Aku penuhi panggilan-Mu, ya Allah, aku penuhi panggilan-Mu. Aku penuhi panggilan-Mu, tiada sekutu bagi-Mu, aku penuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan hanya milik-Mu. Tiada sekutu bagi-Mu. ﴾125﴿"*
 > — HR Ahmad, Musnad, jilid 3
 
 ### Tiba di Makkah dan Tawaf
 
-Setibanya di Makkah pada tanggal 4 Dzulhijjah, Nabi ﷺ langsung menuju Masjidil Haram. Imam Muslim meriwayatkan bahwa beliau mencium Hajar Aswad, lalu melakukan tawaf tujuh kali putaran — tiga putaran pertama dengan langkah cepat*raml* dan empat putaran berikutnya dengan langkah biasa.¹ Setelah tawaf, beliau shalat dua rakaat di belakang Maqam Ibrahim dan membaca:
+Setibanya di Makkah pada tanggal 4 Dzulhijjah, Nabi ﷺ langsung menuju Masjidil Haram. Imam Muslim meriwayatkan bahwa beliau mencium Hajar Aswad, lalu melakukan tawaf tujuh kali putaran — tiga putaran pertama dengan langkah cepat*raml* dan empat putaran berikutnya dengan langkah biasa.^1 Setelah tawaf, beliau shalat dua rakaat di belakang Maqam Ibrahim dan membaca:
 
 > وَاتَّخِذُوا مِن مَّقَامِ إِبْرَاهِيمَ مُصَلًّى ﴿١٢٥﴾
 >
-> *"Dan jadikanlah maqam Ibrahim sebagai tempat shalat."*
+> *"Dan jadikanlah maqam Ibrahim sebagai tempat shalat. ﴾125﴿"*
 > — QS. Al-Baqarah (2): 125
 
 ### Wukuf di Arafah — Puncak Haji
@@ -52,7 +43,7 @@ Di padang Arafah yang luas inilah, di atas untanya yang bernama al-Qashwa', deng
 
 ## Khutbah Arafah: Deklarasi Hak Asasi Manusia
 
-Khutbah Nabi ﷺ di Arafah adalah salah satu pidato paling berpengaruh dalam sejarah umat manusia. Ia disampaikan lebih dari seribu tahun sebelum Deklarasi Hak Asasi Manusia PBB (1948), namun prinsip-prinsip yang dikandungnya melampaui zamannya. Imam Muslim dan Imam Ahmad meriwayatkan isi khutbah ini dari berbagai jalur periwayatan:¹ ³
+Khutbah Nabi ﷺ di Arafah adalah salah satu pidato paling berpengaruh dalam sejarah umat manusia. Ia disampaikan lebih dari seribu tahun sebelum Deklarasi Hak Asasi Manusia PBB (1948), namun prinsip-prinsip yang dikandungnya melampaui zamannya. Imam Muslim dan Imam Ahmad meriwayatkan isi khutbah ini dari berbagai jalur periwayatan:^1 ^3
 
 ### Kesucian Jiwa, Harta, dan Kehormatan
 
@@ -104,7 +95,7 @@ Nabi ﷺ menutup khutbahnya dengan wasiat yang abadi:
 
 > وَقَدْ تَرَكْتُ فِيكُمْ مَا لَنْ تَضِلُّوا بَعْدَهُ إِنِ اعْتَصَمْتُمْ بِهِ كِتَابَ اللَّهِ
 >
-> *"Dan sungguh telah aku tinggalkan kepada kalian sesuatu yang jika kalian berpegang teguh padanya, kalian tidak akan pernah tersesat setelahnya — Kitab Allah."*
+> *"Dan sungguh telah aku tinggalkan kepada kalian sesuatu yang jika kalian berpegang teguh padanya, kalian tidak akan pernah tersesat setelahnya — Kitab Allah. ﴾3﴿"*
 > — HR Muslim, no. 1218
 
 ## Turunnya Ayat Kesempurnaan Agama
@@ -113,10 +104,10 @@ Di hari Arafah itu pula, turunlah salah satu ayat al-Quran yang paling monumenta
 
 > الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ﴿٣﴾
 >
-> *"Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridhai Islam sebagai agamamu."*
+> *"Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridhai Islam sebagai agamamu. ﴾3﴿"*
 > — QS. Al-Ma'idah (5): 3
 
-Imam al-Bukhari meriwayatkan bahwa ketika ayat ini turun, Umar bin Khattab menangis. Ketika ditanya mengapa, ia menjawab: *"Setelah kesempurnaan, tidak ada lagi kecuali kekurangan."* Umar memahami bahwa ayat ini mengisyaratkan dekatnya akhir misi kenabian — dan dekatnya wafat Rasulullah ﷺ.
+Imam al-Bukhari meriwayatkan bahwa ketika ayat ini turun, Umar bin Khattab menangis. Ketika ditanya mengapa, ia menjawab: *"Setelah kesempurnaan, tidak ada lagi kecuali kekurangan. ﴾3﴿"* Umar memahami bahwa ayat ini mengisyaratkan dekatnya akhir misi kenabian — dan dekatnya wafat Rasulullah ﷺ.
 
 ## Analisis: Khutbah yang Melampaui Zaman
 
@@ -137,7 +128,7 @@ Salah satu aspek paling menonjol dari khutbah ini adalah bagaimana Nabi ﷺ memu
 
 ### Amanah dan Tanggung Jawab
 
-Di akhir khutbahnya, Nabi ﷺ bertanya kepada seluruh jamaah: *"Apakah aku sudah menyampaikan?"* Mereka menjawab: *"Ya, engkau sudah menyampaikan."* Beliau kemudian mengangkat jari telunjuknya ke langit dan berkata: *"Ya Allah, saksikanlah."*¹
+Di akhir khutbahnya, Nabi ﷺ bertanya kepada seluruh jamaah: *"Apakah aku sudah menyampaikan?"* Mereka menjawab: *"Ya, engkau sudah menyampaikan."* Beliau kemudian mengangkat jari telunjuknya ke langit dan berkata: *"Ya Allah, saksikanlah."*^1
 
 Ini adalah momen yang luar biasa — seorang pemimpin yang meminta konfirmasi dari rakyatnya bahwa ia telah menunaikan amanahnya, lalu meminta Allah sebagai saksi. Tidak ada model akuntabilitas kepemimpinan yang lebih tinggi dari ini.
 

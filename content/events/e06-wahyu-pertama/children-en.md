@@ -1,12 +1,3 @@
----
-title: "Read! — The Story of the First Revelation at the Cave of Hira"
-date: "610-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # Read! — The Story of the First Revelation
 
 ## 🏔️ A Small Cave on Top of a Mountain

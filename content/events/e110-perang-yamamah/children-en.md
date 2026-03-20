@@ -1,12 +1,3 @@
----
-title: "The Battle of Yamamah: When the Quran's Guardians Made the Ultimate Sacrifice"
-date: "633 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Battle of Yamamah 📖⚔️
 
 ---
@@ -87,6 +78,6 @@ The Battle of Yamamah teaches us:
 - **Every crisis has wisdom** — the fall of the memorizers led to the Quran being compiled into one book
 - **Truth always prevails** — even though Musaylimah had 40,000 followers, lies still lost
 
-Allah says: **"Do not think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord."** (QS. Ali Imran: 169)
+Allah says: **"Do not think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord. ﴾169﴿"** (QS. Ali Imran: 169)
 
 🎨 *Illustration: An open Quran manuscript on a wooden stand, with gentle golden light radiating from its pages. In the background, the silhouette of the Madinah mosque and a starry sky. Dominant colors: gold and dark blue. Mood: sacred and peaceful. Composition: manuscript centered at bottom, mosque in the upper background, stars scattered above.*

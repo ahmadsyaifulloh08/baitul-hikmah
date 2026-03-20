@@ -1,12 +1,3 @@
----
-title: "Perjalanan Seru ke Negeri Syam — Muhammad Kecil dan Pendeta Bahira"
-date: "583-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Perjalanan Seru ke Negeri Syam
 
 ## 🐪 Muhammad Kecil Ingin Ikut

@@ -1,12 +1,3 @@
----
-title: "Perang Badr: Kemenangan Pertama Kaum Muslim"
-date: "624 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Badr ⚔️
 
 ---

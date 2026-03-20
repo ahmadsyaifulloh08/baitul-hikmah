@@ -1,34 +1,23 @@
----
-title: "Pembangunan Masjid Nabawi dan Persaudaraan Muhajirin-Anshar"
-date: "622 M"
-era: "Kenabian"
-category: "heritage"
-location: "Madinah, Jazirah Arab"
-significance: "HIGH"
-tags: ["masjid-nabawi", "muhajirin", "anshar", "persaudaraan", "muakhah", "suffah", "qiblat"]
-sources: ["shahih-bukhari", "ibn-hisham", "rahiq-makhtum"]
----
-
 # Pembangunan Masjid Nabawi dan Persaudaraan Muhajirin-Anshar
 
 ## Konteks: Madinah Membutuhkan Pusat
 
-Ketika Nabi Muhammad ﷺ tiba di Madinah setelah perjalanan hijrah yang penuh peristiwa, langkah pertama yang beliau ambil adalah membangun sebuah masjid.¹ ² Ini bukan kebetulan. Masjid dalam konsep Islam bukan sekadar tempat shalat — ia adalah pusat kehidupan masyarakat: tempat ibadah, pendidikan, musyawarah, pengadilan, dan bahkan penampungan bagi yang tidak memiliki rumah.
+Ketika Nabi Muhammad ﷺ tiba di Madinah setelah perjalanan hijrah yang penuh peristiwa, langkah pertama yang beliau ambil adalah membangun sebuah masjid.^1 ^2 Ini bukan kebetulan. Masjid dalam konsep Islam bukan sekadar tempat shalat — ia adalah pusat kehidupan masyarakat: tempat ibadah, pendidikan, musyawarah, pengadilan, dan bahkan penampungan bagi yang tidak memiliki rumah.
 
-Unta Nabi Muhammad ﷺ yang bernama al-Qashwa' dibiarkan berjalan tanpa dituntun setelah memasuki Madinah. Al-Bukhari meriwayatkan bahwa unta itu berjalan melewati beberapa tempat, lalu berhenti dan berlutut di sebidang tanah milik dua anak yatim dari Bani Najjar — **Sahl dan Suhail**, anak-anak **Rafi'**.¹ ³ Nabi berkata: *"Di sinilah tempat kita, insya Allah."*
+Unta Nabi Muhammad ﷺ yang bernama al-Qashwa' dibiarkan berjalan tanpa dituntun setelah memasuki Madinah. Al-Bukhari meriwayatkan bahwa unta itu berjalan melewati beberapa tempat, lalu berhenti dan berlutut di sebidang tanah milik dua anak yatim dari Bani Najjar — **Sahl dan Suhail**, anak-anak **Rafi'**.^1 ^3 Nabi berkata: *"Di sinilah tempat kita, insya Allah."*
 
-Tanah itu sebelumnya digunakan sebagai tempat penjemuran kurma. Nabi Muhammad ﷺ ingin membeli tanah itu, tetapi kedua anak yatim itu ingin menyedekahkannya. Beliau menolak menerima tanah itu secara cuma-cuma dan bersikeras untuk membayar — **Abu Bakr** yang akhirnya membayarkan harganya.¹ ² Ini menunjukkan prinsip penting: bahkan untuk tujuan yang paling mulia, hak harta anak yatim tidak boleh dilanggar.
+Tanah itu sebelumnya digunakan sebagai tempat penjemuran kurma. Nabi Muhammad ﷺ ingin membeli tanah itu, tetapi kedua anak yatim itu ingin menyedekahkannya. Beliau menolak menerima tanah itu secara cuma-cuma dan bersikeras untuk membayar — **Abu Bakr** yang akhirnya membayarkan harganya.^1 ^2 Ini menunjukkan prinsip penting: bahkan untuk tujuan yang paling mulia, hak harta anak yatim tidak boleh dilanggar.
 
 ## Peristiwa: Membangun Masjid dengan Tangan Sendiri
 
-Pembangunan Masjid Nabawi dilakukan secara gotong-royong. Nabi Muhammad ﷺ sendiri **ikut bekerja** — mengangkat batu bata dari tanah liat (*libn*), memikul batu, dan menyusun dinding.¹ ² ³ Ibn Hisham meriwayatkan bahwa para sahabat begitu bersemangat sehingga mereka bernyanyi syair sambil bekerja. Salah satu syair yang masyhur adalah:
+Pembangunan Masjid Nabawi dilakukan secara gotong-royong. Nabi Muhammad ﷺ sendiri **ikut bekerja** — mengangkat batu bata dari tanah liat (*libn*), memikul batu, dan menyusun dinding.^1 ^2 ^3 Ibn Hisham meriwayatkan bahwa para sahabat begitu bersemangat sehingga mereka bernyanyi syair sambil bekerja. Salah satu syair yang masyhur adalah:
 
 *"Allahumma la 'aisya illa 'aisy al-akhirah / Faghfir lil-Anshar wa al-Muhajiroh..."*
-("Ya Allah, tidak ada kehidupan kecuali kehidupan akhirat / Maka ampunilah kaum Anshar dan Muhajirin...")¹
+("Ya Allah, tidak ada kehidupan kecuali kehidupan akhirat / Maka ampunilah kaum Anshar dan Muhajirin...")^1
 
 Nabi ikut mengulang-ulang nyanyian ini bersama mereka sambil bekerja.
 
-Desain masjid pertama ini sangat sederhana:¹ ²
+Desain masjid pertama ini sangat sederhana:^1 ^2
 - **Ukuran**: sekitar 60 x 70 hasta (kurang lebih 30 x 35 meter)
 - **Dinding**: dari batu bata tanah liat (*libn*)
 - **Tiang**: dari batang pohon kurma
@@ -36,21 +25,21 @@ Desain masjid pertama ini sangat sederhana:¹ ²
 - **Lantai**: tanah biasa, yang kemudian ditaburi kerikil
 - **Kiblat awal**: menghadap ke **Baitul Maqdis** (Yerusalem), baru kemudian dialihkan ke Ka'bah setelah turunnya perintah perubahan kiblat sekitar 16-17 bulan kemudian
 
-Di sisi timur masjid, Nabi membangun kamar-kamar sederhana (*hujurat*) untuk istri-istrinya — kamar-kamar kecil dari batu bata tanah liat dengan pintu dari anyaman pelepah kurma.¹ ²
+Di sisi timur masjid, Nabi membangun kamar-kamar sederhana (*hujurat*) untuk istri-istrinya — kamar-kamar kecil dari batu bata tanah liat dengan pintu dari anyaman pelepah kurma.^1 ^2
 
 ### *Suffah*: Asrama Para Penuntut Ilmu
 
-Di bagian belakang masjid, terdapat sebuah area beratap yang disebut ***Suffah***.¹ ² Di sinilah tinggal para sahabat yang tidak memiliki rumah dan keluarga di Madinah — kebanyakan muhajirin yang datang tanpa apa-apa. Mereka dikenal sebagai ***Ahl al-Suffah*** (Penghuni Serambi).
+Di bagian belakang masjid, terdapat sebuah area beratap yang disebut ***Suffah***.^1 ^2 Di sinilah tinggal para sahabat yang tidak memiliki rumah dan keluarga di Madinah — kebanyakan muhajirin yang datang tanpa apa-apa. Mereka dikenal sebagai ***Ahl al-Suffah*** (Penghuni Serambi).
 
-Ahl al-Suffah menghabiskan waktu mereka untuk belajar al-Quran dan ilmu agama langsung dari Nabi Muhammad ﷺ. Di antara mereka terdapat nama-nama besar seperti **Abu Hurairah**, yang kelak menjadi salah satu perawi hadits terbanyak.³ Suffah berfungsi sebagai **lembaga pendidikan pertama dalam Islam** — sebuah universitas sederhana di serambi masjid.
+Ahl al-Suffah menghabiskan waktu mereka untuk belajar al-Quran dan ilmu agama langsung dari Nabi Muhammad ﷺ. Di antara mereka terdapat nama-nama besar seperti **Abu Hurairah**, yang kelak menjadi salah satu perawi hadits terbanyak.^3 Suffah berfungsi sebagai **lembaga pendidikan pertama dalam Islam** — sebuah universitas sederhana di serambi masjid.
 
 ## Peristiwa: *Muakhah* — Persaudaraan Muhajirin dan Anshar
 
-Bersamaan dengan pembangunan masjid, Nabi Muhammad ﷺ mengambil langkah sosial-ekonomi yang sangat berani: **mempersaudarakan** kaum Muhajirin (imigran dari Makkah) dengan kaum Anshar (penduduk asli Madinah yang memeluk Islam).¹ ² ³ Sistem ini disebut *muakhah* (persaudaraan).
+Bersamaan dengan pembangunan masjid, Nabi Muhammad ﷺ mengambil langkah sosial-ekonomi yang sangat berani: **mempersaudarakan** kaum Muhajirin (imigran dari Makkah) dengan kaum Anshar (penduduk asli Madinah yang memeluk Islam).^1 ^2 ^3 Sistem ini disebut *muakhah* (persaudaraan).
 
-Ibn Hisham mencatat bahwa Nabi mempersaudarakan sekitar **90 orang** — 45 pasang Muhajirin dan Anshar.¹ Persaudaraan ini bukan sekadar simbolis. Pada awalnya, ikatan ini bahkan mencakup **hak waris** — seorang Muhajir bisa mewarisi harta saudara Anshar-nya jika salah satu meninggal, dan sebaliknya.² Ketentuan waris ini kemudian dihapus setelah turunnya ayat tentang waris yang menetapkan hak waris berdasarkan hubungan darah.
+Ibn Hisham mencatat bahwa Nabi mempersaudarakan sekitar **90 orang** — 45 pasang Muhajirin dan Anshar.^1 Persaudaraan ini bukan sekadar simbolis. Pada awalnya, ikatan ini bahkan mencakup **hak waris** — seorang Muhajir bisa mewarisi harta saudara Anshar-nya jika salah satu meninggal, dan sebaliknya.^2 Ketentuan waris ini kemudian dihapus setelah turunnya ayat tentang waris yang menetapkan hak waris berdasarkan hubungan darah.
 
-Beberapa pasangan persaudaraan yang terkenal:¹ ²
+Beberapa pasangan persaudaraan yang terkenal:^1 ^2
 - **Abdurrahman bin Auf** (Muhajir) dipersaudarakan dengan **Sa'd bin al-Rabi'** (Anshar)
 - **Abu Bakr al-Shiddiq** dipersaudarakan dengan **Kharijah bin Zuhair**
 - **Umar bin al-Khaththab** dipersaudarakan dengan **Itban bin Malik**
@@ -58,9 +47,9 @@ Beberapa pasangan persaudaraan yang terkenal:¹ ²
 
 ### Kisah Abdurrahman bin Auf dan Sa'd bin al-Rabi'
 
-Kisah paling terkenal dari *muakhah* adalah tentang **Abdurrahman bin Auf** dan **Sa'd bin al-Rabi'**. Al-Bukhari meriwayatkan bahwa Sa'd berkata kepada saudara barunya: *"Aku adalah orang Anshar yang paling banyak hartanya. Lihatlah hartaku, ambillah setengahnya. Dan aku memiliki dua istri — lihatlah mana yang kau sukai, dan aku akan menceraikannya agar kau bisa menikahinya."*³
+Kisah paling terkenal dari *muakhah* adalah tentang **Abdurrahman bin Auf** dan **Sa'd bin al-Rabi'**. Al-Bukhari meriwayatkan bahwa Sa'd berkata kepada saudara barunya: *"Aku adalah orang Anshar yang paling banyak hartanya. Lihatlah hartaku, ambillah setengahnya. Dan aku memiliki dua istri — lihatlah mana yang kau sukai, dan aku akan menceraikannya agar kau bisa menikahinya."*^3
 
-Jawaban Abdurrahman menunjukkan karakter mulia seorang Muhajir: *"Semoga Allah memberkahimu dalam keluarga dan hartamu. Tunjukkanlah aku di mana pasar kalian."*³ Abdurrahman pergi ke pasar, berdagang, dan dalam waktu singkat berhasil membangun kekayaannya sendiri melalui kerja keras. Ia tidak mengambil sepeser pun dari harta saudaranya.
+Jawaban Abdurrahman menunjukkan karakter mulia seorang Muhajir: *"Semoga Allah memberkahimu dalam keluarga dan hartamu. Tunjukkanlah aku di mana pasar kalian."*^3 Abdurrahman pergi ke pasar, berdagang, dan dalam waktu singkat berhasil membangun kekayaannya sendiri melalui kerja keras. Ia tidak mengambil sepeser pun dari harta saudaranya.
 
 ## Analisis: Dua Fondasi Peradaban Madinah
 

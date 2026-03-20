@@ -1,12 +1,3 @@
----
-title: "Perjalanan Ajaib ke Langit — Kisah Isra' Mi'raj"
-date: "620-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Perjalanan Ajaib ke Langit
 
 ## 🌙 Malam yang Luar Biasa

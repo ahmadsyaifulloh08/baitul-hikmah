@@ -1,12 +1,3 @@
----
-title: "The Hijrah to Madinah: The Great Journey of Prophet Muhammad ﷺ"
-date: "622 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Hijrah to Madinah 🌙
 
 ---

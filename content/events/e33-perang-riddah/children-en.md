@@ -1,12 +1,3 @@
----
-title: "The Riddah Wars: When Abu Bakr Protected Islam"
-date: "632-633 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Riddah Wars ⚔️
 
 ---

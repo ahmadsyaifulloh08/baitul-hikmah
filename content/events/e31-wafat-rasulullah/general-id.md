@@ -1,27 +1,18 @@
----
-title: "Wafat Rasulullah ﷺ — 12 Rabiul Awal 11 H (632 M)"
-date: "632 M"
-era: "Kenabian"
-location: "Madinah, Jazirah Arab"
-tags: ["wafat-rasulullah", "nabi-muhammad", "abu-bakr", "aisyah", "madinah", "12-rabiul-awal", "sakit-nabi"]
-sources: ["shahih-bukhari", "ibn-hisham", "tabaqat-ibn-sad"]
----
-
 # Wafat Rasulullah ﷺ — 12 Rabiul Awal 11 H
 
 ## Konteks: Tanda-Tanda Perpisahan
 
-Beberapa bulan sebelum wafatnya, Nabi Muhammad ﷺ telah memberikan isyarat-isyarat halus bahwa misi kenabiannya mendekati akhir. Turunnya Surah An-Nashr saat Haji Wada' dipahami oleh sejumlah sahabat senior — terutama **Abu Bakr as-Siddiq** dan Abdullah bin Abbas — sebagai pemberitahuan tentang dekatnya ajal Nabi ﷺ.¹
+Beberapa bulan sebelum wafatnya, Nabi Muhammad ﷺ telah memberikan isyarat-isyarat halus bahwa misi kenabiannya mendekati akhir. Turunnya Surah An-Nashr saat Haji Wada' dipahami oleh sejumlah sahabat senior — terutama **Abu Bakr as-Siddiq** dan Abdullah bin Abbas — sebagai pemberitahuan tentang dekatnya ajal Nabi ﷺ.^1
 
-Imam al-Bukhari meriwayatkan bahwa Abdullah bin Abbas berkata: Umar bin Khattab pernah mengundangku dalam majelis para tokoh Badr — meskipun sebagian mereka keberatan karena usiaku yang masih muda. Umar bertanya tentang makna Surah An-Nashr. Ketika yang lain diam, aku menjawab: *"Itu adalah pemberitahuan tentang dekatnya ajal Rasulullah ﷺ."* Umar berkata: *"Aku tidak mengetahui maknanya kecuali seperti apa yang kauketahui."*¹
+Imam al-Bukhari meriwayatkan bahwa Abdullah bin Abbas berkata: Umar bin Khattab pernah mengundangku dalam majelis para tokoh Badr — meskipun sebagian mereka keberatan karena usiaku yang masih muda. Umar bertanya tentang makna Surah An-Nashr. Ketika yang lain diam, aku menjawab: *"Itu adalah pemberitahuan tentang dekatnya ajal Rasulullah ﷺ."* Umar berkata: *"Aku tidak mengetahui maknanya kecuali seperti apa yang kauketahui."*^1
 
-Selama bulan Ramadhan tahun 10 Hijriyah, Nabi ﷺ melakukan *i'tikaf* selama dua puluh hari — dua kali lipat dari kebiasaan beliau yang biasanya sepuluh hari. Beliau juga mempelajari al-Quran bersama Jibril sebanyak dua kali dalam tahun terakhirnya — padahal biasanya hanya sekali setiap Ramadhan. Al-Bukhari meriwayatkan bahwa Nabi ﷺ berkata kepada putrinya **Fatimah**: *"Jibril biasa mengulang al-Quran bersamaku sekali setiap tahun, dan tahun ini ia mengulangnya dua kali. Aku tidak melihat itu kecuali sebagai pertanda bahwa ajalku telah dekat."*¹
+Selama bulan Ramadhan tahun 10 Hijriyah, Nabi ﷺ melakukan *i'tikaf* selama dua puluh hari — dua kali lipat dari kebiasaan beliau yang biasanya sepuluh hari. Beliau juga mempelajari al-Quran bersama Jibril sebanyak dua kali dalam tahun terakhirnya — padahal biasanya hanya sekali setiap Ramadhan. Al-Bukhari meriwayatkan bahwa Nabi ﷺ berkata kepada putrinya **Fatimah**: *"Jibril biasa mengulang al-Quran bersamaku sekali setiap tahun, dan tahun ini ia mengulangnya dua kali. Aku tidak melihat itu kecuali sebagai pertanda bahwa ajalku telah dekat."*^1
 
-Fatimah menangis mendengar ini. Namun Nabi ﷺ kemudian berbisik lagi kepadanya, dan kali ini ia tersenyum. Ketika ditanya kemudian oleh **Aisyah**, Fatimah menjawab bahwa bisikan kedua itu adalah kabar bahwa ia akan menjadi penghulu wanita penghuni surga dan orang pertama dari keluarga Nabi yang menyusul beliau.¹
+Fatimah menangis mendengar ini. Namun Nabi ﷺ kemudian berbisik lagi kepadanya, dan kali ini ia tersenyum. Ketika ditanya kemudian oleh **Aisyah**, Fatimah menjawab bahwa bisikan kedua itu adalah kabar bahwa ia akan menjadi penghulu wanita penghuni surga dan orang pertama dari keluarga Nabi yang menyusul beliau.^1
 
 ## Awal Sakit: Peristiwa di Baqi'
 
-Imam al-Bukhari dan Ibn Hisham meriwayatkan bahwa sakit Nabi ﷺ dimulai pada akhir bulan Safar tahun 11 Hijriyah. Suatu malam, Nabi ﷺ membangunkan pelayannya Abu Muwayhib dan berkata: *"Aku diperintahkan untuk memintakan ampunan bagi ahli Baqi'."*¹ ²
+Imam al-Bukhari dan Ibn Hisham meriwayatkan bahwa sakit Nabi ﷺ dimulai pada akhir bulan Safar tahun 11 Hijriyah. Suatu malam, Nabi ﷺ membangunkan pelayannya Abu Muwayhib dan berkata: *"Aku diperintahkan untuk memintakan ampunan bagi ahli Baqi'."*^1 ^2
 
 Mereka pergi ke pemakaman Baqi' di tengah kegelapan malam. Di sana, Nabi ﷺ berdiri di antara kubur-kubur para sahabat yang telah mendahuluinya dan berdoa:
 
@@ -30,15 +21,15 @@ Mereka pergi ke pemakaman Baqi' di tengah kegelapan malam. Di sana, Nabi ﷺ ber
 > *"Salam sejahtera atas kalian, wahai penghuni kubur. Beruntunglah kalian dengan apa yang kalian alami dibandingkan apa yang dialami manusia. Fitnah-fitnah datang silih berganti bagaikan potongan malam yang gelap."*
 > — HR Muslim, Kitab al-Jana'iz
 
-Lalu beliau berkata kepada Abu Muwayhib: *"Aku telah ditawari kunci-kunci perbendaharaan dunia dan kekekalan di dalamnya kemudian surga, atau bertemu Tuhanku dan surga. Aku memilih bertemu Tuhanku dan surga."*² Setelah malam itu, Nabi ﷺ mulai merasakan sakit kepala yang berat.
+Lalu beliau berkata kepada Abu Muwayhib: *"Aku telah ditawari kunci-kunci perbendaharaan dunia dan kekekalan di dalamnya kemudian surga, atau bertemu Tuhanku dan surga. Aku memilih bertemu Tuhanku dan surga."*^2 Setelah malam itu, Nabi ﷺ mulai merasakan sakit kepala yang berat.
 
 ## Hari-Hari Sakit di Rumah Aisyah
 
 ### Perpindahan ke Kamar Aisyah
 
-Nabi ﷺ memiliki jadwal bergilir di antara kamar-kamar istri beliau. Ketika sakit semakin berat, beliau mulai bertanya berulang kali: *"Di mana aku besok? Di mana aku besok?"* Para istri memahami bahwa beliau ingin berada di kamar Aisyah, maka mereka semua mengizinkan beliau untuk menetap di sana.¹
+Nabi ﷺ memiliki jadwal bergilir di antara kamar-kamar istri beliau. Ketika sakit semakin berat, beliau mulai bertanya berulang kali: *"Di mana aku besok? Di mana aku besok?"* Para istri memahami bahwa beliau ingin berada di kamar Aisyah, maka mereka semua mengizinkan beliau untuk menetap di sana.^1
 
-**Aisyah binti Abu Bakr** meriwayatkan pengalamannya merawat Nabi ﷺ selama sakit. Ia menceritakan bahwa Nabi ﷺ bersandar di dadanya atau di pangkuannya, dan ia membacakan *mu'awwidzat* (surah-surah pelindung) sambil mengusapkan tangan Nabi ﷺ sendiri ke tubuh beliau — karena tangan Nabi ﷺ lebih berkah dari tangan siapa pun.¹
+**Aisyah binti Abu Bakr** meriwayatkan pengalamannya merawat Nabi ﷺ selama sakit. Ia menceritakan bahwa Nabi ﷺ bersandar di dadanya atau di pangkuannya, dan ia membacakan *mu'awwidzat* (surah-surah pelindung) sambil mengusapkan tangan Nabi ﷺ sendiri ke tubuh beliau — karena tangan Nabi ﷺ lebih berkah dari tangan siapa pun.^1
 
 ### Demam yang Sangat Berat
 
@@ -49,7 +40,7 @@ Al-Bukhari meriwayatkan bahwa Nabi ﷺ menderita demam yang sangat tinggi. Abdul
 > *"Sesungguhnya aku menderita demam seberat yang diderita dua orang dari kalian."*
 > — HR al-Bukhari, no. 5648
 
-Ibn Mas'ud bertanya: *"Apakah itu karena engkau mendapat dua pahala?"* Nabi ﷺ menjawab: *"Ya, begitulah."*¹ Ini menunjukkan bahwa bahkan dalam penderitaan terberatnya, Nabi ﷺ tetap menjadikan setiap momen sebagai pelajaran bagi umatnya.
+Ibn Mas'ud bertanya: *"Apakah itu karena engkau mendapat dua pahala?"* Nabi ﷺ menjawab: *"Ya, begitulah."*^1 Ini menunjukkan bahwa bahkan dalam penderitaan terberatnya, Nabi ﷺ tetap menjadikan setiap momen sebagai pelajaran bagi umatnya.
 
 ### Khutbah Terakhir di Masjid
 
@@ -60,9 +51,9 @@ Meskipun sakit berat, Nabi ﷺ memaksakan diri untuk naik ke mimbar masjid beber
 > *"Sesungguhnya ada seorang hamba yang diberi pilihan oleh Allah antara kemewahan dunia yang ia kehendaki atau apa yang ada di sisi Allah, dan ia memilih apa yang ada di sisi Allah."*
 > — HR al-Bukhari, no. 466
 
-**Abu Bakr** langsung menangis ketika mendengar ini — dialah satu-satunya yang memahami bahwa "hamba" yang dimaksud adalah Nabi ﷺ sendiri, dan bahwa ini berarti perpisahan sudah sangat dekat.¹ Para sahabat lain heran melihat Abu Bakr menangis — mengapa ia menangis hanya karena mendengar tentang "seorang hamba"? Mereka baru memahami maknanya kemudian.
+**Abu Bakr** langsung menangis ketika mendengar ini — dialah satu-satunya yang memahami bahwa "hamba" yang dimaksud adalah Nabi ﷺ sendiri, dan bahwa ini berarti perpisahan sudah sangat dekat.^1 Para sahabat lain heran melihat Abu Bakr menangis — mengapa ia menangis hanya karena mendengar tentang "seorang hamba"? Mereka baru memahami maknanya kemudian.
 
-Nabi ﷺ kemudian memerintahkan agar semua pintu yang menghadap ke masjid ditutup, kecuali pintu Abu Bakr — sebagai isyarat bahwa Abu Bakr-lah yang akan menggantikan beliau memimpin umat.¹
+Nabi ﷺ kemudian memerintahkan agar semua pintu yang menghadap ke masjid ditutup, kecuali pintu Abu Bakr — sebagai isyarat bahwa Abu Bakr-lah yang akan menggantikan beliau memimpin umat.^1
 
 ### Perintah Shalat kepada Abu Bakr
 
@@ -73,21 +64,21 @@ Ketika Nabi ﷺ sudah tidak mampu lagi mengimami shalat, beliau memerintahkan: *
 > *"Suruh Abu Bakr mengimami shalat ... Kalian ini seperti teman-teman wanita Yusuf."*
 > — HR al-Bukhari, no. 713
 
-Maksudnya: sebagaimana wanita-wanita di zaman Nabi Yusuf yang menampakkan sesuatu tapi menyembunyikan maksud lain, Aisyah sebenarnya ingin Abu Bakr tidak mengimami shalat karena alasan pribadi — bukan karena Abu Bakr tidak layak.¹
+Maksudnya: sebagaimana wanita-wanita di zaman Nabi Yusuf yang menampakkan sesuatu tapi menyembunyikan maksud lain, Aisyah sebenarnya ingin Abu Bakr tidak mengimami shalat karena alasan pribadi — bukan karena Abu Bakr tidak layak.^1
 
-Abu Bakr mengimami shalat sebanyak tujuh belas kali selama Nabi ﷺ sakit.³ Dalam salah satu shalat, Nabi ﷺ merasa sedikit lebih baik dan keluar ke masjid dengan bantuan Ali bin Abi Thalib dan al-Fadhl bin Abbas. Melihat Nabi ﷺ datang, Abu Bakr mundur dari posisi imam, tetapi Nabi ﷺ memberi isyarat agar ia tetap di tempatnya. Nabi ﷺ duduk di samping Abu Bakr dan shalat bersama — Abu Bakr mengikuti gerakan Nabi ﷺ, dan jamaah mengikuti gerakan Abu Bakr.¹
+Abu Bakr mengimami shalat sebanyak tujuh belas kali selama Nabi ﷺ sakit.^3 Dalam salah satu shalat, Nabi ﷺ merasa sedikit lebih baik dan keluar ke masjid dengan bantuan Ali bin Abi Thalib dan al-Fadhl bin Abbas. Melihat Nabi ﷺ datang, Abu Bakr mundur dari posisi imam, tetapi Nabi ﷺ memberi isyarat agar ia tetap di tempatnya. Nabi ﷺ duduk di samping Abu Bakr dan shalat bersama — Abu Bakr mengikuti gerakan Nabi ﷺ, dan jamaah mengikuti gerakan Abu Bakr.^1
 
 ## Hari Terakhir: Senin, 12 Rabiul Awal 11 H
 
 ### Subuh Terakhir
 
-Imam al-Bukhari meriwayatkan dari Anas bin Malik: pada hari Senin pagi, saat Abu Bakr mengimami shalat Subuh, Nabi ﷺ menyingkap tabir kamar Aisyah yang menghadap ke masjid. Para sahabat melihat wajah beliau — cerah seperti lembaran mushaf. Mereka nyaris meninggalkan shalat karena gembira, mengira Nabi ﷺ sudah sembuh.¹
+Imam al-Bukhari meriwayatkan dari Anas bin Malik: pada hari Senin pagi, saat Abu Bakr mengimami shalat Subuh, Nabi ﷺ menyingkap tabir kamar Aisyah yang menghadap ke masjid. Para sahabat melihat wajah beliau — cerah seperti lembaran mushaf. Mereka nyaris meninggalkan shalat karena gembira, mengira Nabi ﷺ sudah sembuh.^1
 
 Nabi ﷺ tersenyum melihat barisan shalat yang rapi, lalu memberi isyarat agar mereka melanjutkan shalat. Beliau menurunkan kembali tabir kamarnya. Itulah saat terakhir para sahabat melihat wajah Nabi Muhammad ﷺ secara utuh.
 
 ### Detik-Detik Terakhir
 
-Aisyah meriwayatkan detik-detik terakhir kehidupan Nabi ﷺ dengan sangat detail. Saat itu beliau bersandar di dadanya. Abdurrahman bin Abu Bakr (saudara laki-laki Aisyah) masuk membawa siwak. Nabi ﷺ memandang siwak itu, dan Aisyah memahami bahwa beliau menginginkannya. Aisyah mengambil siwak itu, mengunyahnya untuk melembutkannya, lalu memberikannya kepada Nabi ﷺ. Beliau bersiwak dengan sangat bersih — yang terbersih yang pernah Aisyah lihat.¹
+Aisyah meriwayatkan detik-detik terakhir kehidupan Nabi ﷺ dengan sangat detail. Saat itu beliau bersandar di dadanya. Abdurrahman bin Abu Bakr (saudara laki-laki Aisyah) masuk membawa siwak. Nabi ﷺ memandang siwak itu, dan Aisyah memahami bahwa beliau menginginkannya. Aisyah mengambil siwak itu, mengunyahnya untuk melembutkannya, lalu memberikannya kepada Nabi ﷺ. Beliau bersiwak dengan sangat bersih — yang terbersih yang pernah Aisyah lihat.^1
 
 Kemudian Nabi ﷺ mengangkat tangannya — atau jarinya — dan memandang ke atas. Aisyah mendengar beliau berkata:
 
@@ -102,9 +93,9 @@ Lalu beliau berkata:
 > *"Ya Allah, ampunilah aku, rahmatilah aku, dan pertemukanlah aku dengan al-Rafiq al-A'la (Kawan Yang Mahatinggi)."*
 > — HR al-Bukhari, no. 4440
 
-Beliau mengulangi kalimat "al-Rafiq al-A'la" tiga kali. Kemudian tangannya terkulai, dan beliau berpulang ke sisi Allah. Aisyah berkata: *"Beliau wafat antara dagu dan dadaku."*¹
+Beliau mengulangi kalimat "al-Rafiq al-A'la" tiga kali. Kemudian tangannya terkulai, dan beliau berpulang ke sisi Allah. Aisyah berkata: *"Beliau wafat antara dagu dan dadaku."*^1
 
-Ibn Sa'd dalam *Tabaqat al-Kubra* mencatat bahwa saat itu adalah waktu Dhuha (pagi menjelang siang) hari Senin, 12 Rabiul Awal tahun 11 Hijriyah — atau 8 Juni 632 M menurut penanggalan Masehi.³ Beliau berusia 63 tahun.
+Ibn Sa'd dalam *Tabaqat al-Kubra* mencatat bahwa saat itu adalah waktu Dhuha (pagi menjelang siang) hari Senin, 12 Rabiul Awal tahun 11 Hijriyah — atau 8 Juni 632 M menurut penanggalan Masehi.^3 Beliau berusia 63 tahun.
 
 ## Reaksi Para Sahabat
 
@@ -112,13 +103,13 @@ Ibn Sa'd dalam *Tabaqat al-Kubra* mencatat bahwa saat itu adalah waktu Dhuha (pa
 
 Kabar wafatnya Nabi ﷺ menghantam para sahabat dengan kekuatan yang tidak terbayangkan. **Umar bin Khattab** — seorang yang dikenal dengan kekuatan dan ketegasannya — menolak menerima kenyataan. Al-Bukhari meriwayatkan bahwa Umar berdiri di hadapan orang-orang dan bersumpah:
 
-*"Demi Allah, Rasulullah tidak wafat! Beliau pergi menemui Tuhannya sebagaimana Musa pergi menemui Tuhannya dan menghilang dari kaumnya selama empat puluh malam. Demi Allah, Rasulullah akan kembali dan memotong tangan dan kaki orang-orang yang mengira beliau telah wafat!"*¹
+*"Demi Allah, Rasulullah tidak wafat! Beliau pergi menemui Tuhannya sebagaimana Musa pergi menemui Tuhannya dan menghilang dari kaumnya selama empat puluh malam. Demi Allah, Rasulullah akan kembali dan memotong tangan dan kaki orang-orang yang mengira beliau telah wafat!"*^1
 
 Umar terus berbicara dengan berapi-api, mengancam siapa pun yang mengatakan Nabi ﷺ telah wafat. Orang-orang yang mendengarnya bingung — sebagian percaya, sebagian ragu.
 
 ### Abu Bakr: Keteguhan di Saat Krisis
 
-Saat Umar masih berbicara, **Abu Bakr as-Siddiq** tiba di masjid. Ia telah berada di kediamannya di Sunh (pinggiran Madinah) ketika mendengar kabar duka. Ia langsung menuju kamar Aisyah, membuka kain yang menutupi wajah Nabi ﷺ, mencium kening beliau, dan berkata: *"Demi ayah dan ibuku, wahai Rasulullah. Engkau baik saat hidup dan baik saat wafat."*¹
+Saat Umar masih berbicara, **Abu Bakr as-Siddiq** tiba di masjid. Ia telah berada di kediamannya di Sunh (pinggiran Madinah) ketika mendengar kabar duka. Ia langsung menuju kamar Aisyah, membuka kain yang menutupi wajah Nabi ﷺ, mencium kening beliau, dan berkata: *"Demi ayah dan ibuku, wahai Rasulullah. Engkau baik saat hidup dan baik saat wafat."*^1
 
 Kemudian Abu Bakr keluar ke masjid. Umar masih berbicara. Abu Bakr memintanya diam, tetapi Umar terus berteriak. Abu Bakr tidak memaksa — beliau mulai berbicara sendiri, dan orang-orang meninggalkan Umar untuk mendengarkan Abu Bakr.
 
@@ -126,21 +117,21 @@ Abu Bakr memuji Allah, lalu berkata dengan kalimat yang akan dikenang sepanjang 
 
 > مَنْ كَانَ مِنْكُمْ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ وَمَنْ كَانَ مِنْكُمْ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ
 >
-> *"Barangsiapa di antara kalian yang menyembah Muhammad, maka sesungguhnya Muhammad telah wafat. Dan barangsiapa di antara kalian yang menyembah Allah, maka sesungguhnya Allah Maha Hidup dan tidak akan pernah mati."*
+> *"Barangsiapa di antara kalian yang menyembah Muhammad, maka sesungguhnya Muhammad telah wafat. Dan barangsiapa di antara kalian yang menyembah Allah, maka sesungguhnya Allah Maha Hidup dan tidak akan pernah mati. ﴾144﴿"*
 > — HR al-Bukhari, no. 3667
 
 Lalu Abu Bakr membacakan ayat al-Quran:
 
 > وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ﴿١٤٤﴾
 >
-> *"Muhammad itu tidak lain hanyalah seorang rasul; sesungguhnya telah berlalu sebelumnya beberapa orang rasul. Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang?"*
+> *"Muhammad itu tidak lain hanyalah seorang rasul; sesungguhnya telah berlalu sebelumnya beberapa orang rasul. Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang? ﴾144﴿"*
 > — QS. Ali Imran (3): 144
 
-Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya."*¹
+Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya. ﴾144﴿"*^1
 
 ### Duka yang Melanda Madinah
 
-Ibn Sa'd dalam *Tabaqat al-Kubra* menggambarkan Madinah pada hari itu sebagai kota yang tenggelam dalam kesedihan yang belum pernah terjadi sebelumnya. Anas bin Malik berkata: *"Hari ketika Rasulullah ﷺ datang ke Madinah, segala sesuatu bersinar cerah. Dan hari ketika beliau wafat, segala sesuatu menjadi gelap. Kami belum selesai menepuk-nepuk tanah dari tangan kami setelah menguburkan beliau, dan kami sudah mengingkari hati kami."*³
+Ibn Sa'd dalam *Tabaqat al-Kubra* menggambarkan Madinah pada hari itu sebagai kota yang tenggelam dalam kesedihan yang belum pernah terjadi sebelumnya. Anas bin Malik berkata: *"Hari ketika Rasulullah ﷺ datang ke Madinah, segala sesuatu bersinar cerah. Dan hari ketika beliau wafat, segala sesuatu menjadi gelap. Kami belum selesai menepuk-nepuk tanah dari tangan kami setelah menguburkan beliau, dan kami sudah mengingkari hati kami. ﴾144﴿"*^3
 
 Artinya: perubahan yang mereka rasakan begitu mendalam sehingga hati mereka terasa berbeda — seolah kehilangan sesuatu yang tidak akan pernah bisa dikembalikan.
 
@@ -148,13 +139,13 @@ Artinya: perubahan yang mereka rasakan begitu mendalam sehingga hati mereka tera
 
 ### Pemandian Jenazah
 
-Ibn Sa'd meriwayatkan bahwa jenazah Nabi ﷺ dimandikan oleh Ali bin Abi Thalib, al-Abbas bin Abdul Muthalib (paman Nabi), al-Fadhl dan Qutsam (keduanya putra al-Abbas), Usamah bin Zaid, dan Syuqran (pelayan Nabi). Ali-lah yang langsung memandikan, sementara al-Abbas dan putra-putranya membantu membalikkan tubuh beliau.³
+Ibn Sa'd meriwayatkan bahwa jenazah Nabi ﷺ dimandikan oleh Ali bin Abi Thalib, al-Abbas bin Abdul Muthalib (paman Nabi), al-Fadhl dan Qutsam (keduanya putra al-Abbas), Usamah bin Zaid, dan Syuqran (pelayan Nabi). Ali-lah yang langsung memandikan, sementara al-Abbas dan putra-putranya membantu membalikkan tubuh beliau.^3
 
-Ali berkata saat memandikan: *"Demi ayah dan ibuku, betapa harum engkau, baik saat hidup maupun saat wafat."*³ Nabi ﷺ dimandikan tanpa dilepas pakaiannya — sebuah kekhususan yang hanya berlaku untuk beliau.
+Ali berkata saat memandikan: *"Demi ayah dan ibuku, betapa harum engkau, baik saat hidup maupun saat wafat."*^3 Nabi ﷺ dimandikan tanpa dilepas pakaiannya — sebuah kekhususan yang hanya berlaku untuk beliau.
 
 ### Shalat Jenazah
 
-Yang unik dari jenazah Nabi ﷺ adalah bahwa **tidak ada seorang imam yang memimpin shalat jenazah**. Para sahabat masuk secara bergelombang — kelompok demi kelompok — dan masing-masing shalat sendiri-sendiri atas jenazah beliau. Laki-laki terlebih dahulu, kemudian perempuan, kemudian anak-anak.¹ ³
+Yang unik dari jenazah Nabi ﷺ adalah bahwa **tidak ada seorang imam yang memimpin shalat jenazah**. Para sahabat masuk secara bergelombang — kelompok demi kelompok — dan masing-masing shalat sendiri-sendiri atas jenazah beliau. Laki-laki terlebih dahulu, kemudian perempuan, kemudian anak-anak.^1 ^3
 
 Proses ini berlangsung dari hari Senin hingga tengah malam Selasa malam Rabu.
 
@@ -167,7 +158,7 @@ Para sahabat sempat berbeda pendapat tentang tempat pemakaman. Ada yang mengusul
 > *"Allah tidak mencabut nyawa seorang nabi kecuali di tempat yang ia sukai untuk dimakamkan di sana."*
 > — HR at-Tirmidzi
 
-Maka Nabi ﷺ dimakamkan di kamar Aisyah — tempat beliau wafat — di bawah tempat tidurnya. Penggalian kubur dilakukan oleh Abu Thalhah al-Anshari, yang membuat *lahd* (liang lahat di sisi kubur, model pemakaman Madinah).³
+Maka Nabi ﷺ dimakamkan di kamar Aisyah — tempat beliau wafat — di bawah tempat tidurnya. Penggalian kubur dilakukan oleh Abu Thalhah al-Anshari, yang membuat *lahd* (liang lahat di sisi kubur, model pemakaman Madinah).^3
 
 Pemakaman berlangsung pada tengah malam Rabu. Orang terakhir yang turun ke liang kubur adalah Qutsam bin al-Abbas.
 

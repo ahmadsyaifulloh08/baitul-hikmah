@@ -1,12 +1,3 @@
----
-title: "Penaklukan Sindh — Muhammad bin Qasim"
-date: "711 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Muhammad bin Qasim dan Penaklukan Sindh 🐘
 
 ---

@@ -1,12 +1,3 @@
----
-title: "Perang Riddah: Ketika Abu Bakr Menjaga Islam"
-date: "632-633 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Riddah ⚔️
 
 ---

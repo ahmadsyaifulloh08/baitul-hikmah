@@ -1,12 +1,3 @@
----
-title: "Muhammad the Problem Solver — The Story of the Ka'bah Renovation"
-date: "605-01-01"
-era: pre_islamic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # Muhammad the Problem Solver
 
 ## 🏛️ The Damaged Ka'bah

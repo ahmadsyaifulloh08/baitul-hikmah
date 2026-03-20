@@ -1,12 +1,3 @@
----
-title: "The Change of Qiblah: From Bayt al-Maqdis to the Ka'bah"
-date: "623 CE"
-era: "Prophetic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Change of Qiblah 🕌
 
 ---

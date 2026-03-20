@@ -1,12 +1,3 @@
----
-title: "The Conquest of Jerusalem / Al-Quds"
-date: "637 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Conquest of Jerusalem 🕌
 
 ---

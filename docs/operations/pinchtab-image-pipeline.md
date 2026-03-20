@@ -1,10 +1,13 @@
 # PinchTab × Gemini Image Generation — Full Pipeline
 
 > **Status**: ✅ WORKING — end-to-end pipeline verified 2026-03-18
-> **Date**: 2026-03-18
-> **Instance**: `work` (prof_00e13ed7, port 9868, headless)
-> **Target**: Gemini Pro (ahmad@chickin.id) image generation via browser automation
-> **First success**: e03-slide-01 (Perjalanan Syam — kafilah unta) — QA PASS
+> **Instance**: `work` (port 9868, headless)
+> **Target**: Gemini Pro (ahmad@chickin.id) via browser automation
+>
+> **Related docs:**
+> - [Illustration Guide](../illustration-guide.md) — rules, QA checklist, Islamic compliance
+> - [Image Briefs](../image-briefs-children.md) — prompt per event/slide
+> - [README](../README.md) — documentation index
 
 ---
 
@@ -21,18 +24,26 @@ gemini.google.com (Gemini Pro, logged in as ahmad@chickin.id)
     ↓ generates
 Image (PNG, ~8MB, 2752×1536)
     ↓ click "Download full size image"
-/home/pinchtab/Downloads/ (inside PinchTab container)
-    ↓ docker cp (via Watchdog terminal)
-/workspace/projects/baitul-hikmah/out/illustrations/children/
-    ↓ QA (vision model)
+/home/pinchtab/Downloads/ = /workspace/shared/pinchtab-downloads/ (shared volume)
+    ↓ cp (direct, no docker cp needed!)
 /workspace/projects/baitul-hikmah/public/illustrations/children/
+    ↓ QA (vision model)
     ↓ git push → CF Pages auto-build
 https://develop.baitul-hikmah.pages.dev
 ```
 
+### Shared Volume (since 2026-03-19)
+
+PinchTab and OpenClaw share a host folder — downloads langsung accessible tanpa `docker cp`:
+
+| Container | Mount Path |
+|-----------|-----------|
+| **Host (Mac)** | `/Users/ahmad/projects/dev/ahadbyte/shared/pinchtab-downloads/` |
+| **OpenClaw** | `/workspace/shared/pinchtab-downloads/` |
+| **PinchTab** | `/home/pinchtab/Downloads/` |
+
 **Key constraints**:
 - PinchTab runs inside Docker — headless only (no display)
-- Agent container ≠ PinchTab container — file transfer via `docker cp`
 - All API calls MUST include `instance` + `tabId` params (wrapper defaults to wrong instance)
 
 ---
@@ -130,7 +141,7 @@ POST /action {"kind":"click","ref":"<send_ref>","instance":"...","tabId":"..."}
 - ❌ Press Enter on textbox = unreliable (sometimes Gemini echoes prompt as text)
 - Start prompt with "Create an image:" or "Create an image of" to help Gemini recognize image gen intent
 - Keep prompts under ~500 chars (long prompts more likely to get text response)
-- Use new chat per image to avoid context confusion
+- **Reuse same conversation** — don't create new chat per image (clutters Gemini sidebar)
 
 ---
 
@@ -166,36 +177,21 @@ POST /action {"kind":"click","ref":"<download_ref>","instance":"...","tabId":"..
 
 ---
 
-## Step 7: Copy to Project ✅ WORKS (via Watchdog)
+## Step 7: Copy to Project ✅ WORKS (direct — shared volume)
 
-```python
-from lib.watchdog_client import WatchdogClient
-wc = WatchdogClient(agent='main')
+```bash
+# Downloads langsung muncul di shared volume — NO docker cp needed!
+ls -lt /workspace/shared/pinchtab-downloads/
 
-# List downloaded files
-tid = wc.request_terminal(
-    command="docker exec pinchtab ls -la /home/pinchtab/Downloads/",
-    target="host",
-    reason="List PinchTab downloaded images"
-)
-# → Needs Ahmad approval via Telegram
+# Copy to project
+cp /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_XXXXX.png \
+   /workspace/projects/baitul-hikmah/public/illustrations/children/e03-slide-01.png
 
-# Copy specific file to project
-tid = wc.request_terminal(
-    command="docker cp pinchtab:/home/pinchtab/Downloads/Gemini_Generated_Image_XXXXX.png /Users/ahmad/projects/dev/ahadbyte/projects/baitul-hikmah/out/illustrations/children/e03-slide-01.png",
-    target="host",
-    reason="Copy Gemini image to Baitul Hikmah project"
-)
-
-# Clean up downloads after copy
-tid = wc.request_terminal(
-    command="docker exec pinchtab rm /home/pinchtab/Downloads/Gemini_Generated_Image_XXXXX.png",
-    target="host",
-    reason="Clean PinchTab downloads after copy"
-)
+# Clean up after copy
+rm /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_XXXXX.png
 ```
 
-**Note**: Watchdog terminal requires Ahmad approval for each command. Batch when possible.
+**No Watchdog approval needed** — agent can read/write shared volume directly.
 
 ---
 
@@ -327,9 +323,7 @@ Main subjects centered. No text or writing anywhere in the image.
 
 ## Future Improvements
 
-1. **Enable PinchTab JS eval** → extract image URL directly, skip docker cp
-2. **Mount shared volume** between PinchTab & OpenClaw containers → direct file access
-3. **Set Chrome download path** via launch preferences → predictable location
-4. **Gemini API key** → bypass browser entirely for image gen (best long-term)
-5. **Automation script** → batch generate all slides in one run
-6. **Clean downloads** after copy to prevent disk buildup
+1. **Enable PinchTab JS eval** → extract image URL directly from page DOM
+2. ~~**Mount shared volume**~~ ✅ DONE (2026-03-19) — `/workspace/shared/pinchtab-downloads/`
+3. **Automation script** → batch generate all slides in one run
+4. **Auto-cleanup** downloads after copy to prevent disk buildup

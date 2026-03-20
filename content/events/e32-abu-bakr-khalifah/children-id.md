@@ -1,12 +1,3 @@
----
-title: "Abu Bakr as-Siddiq — Khalifah Pertama"
-date: "632-634 M"
-era: "Khulafaur Rasyidin"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Abu Bakr — Khalifah Pertama 🌟
 
 ---

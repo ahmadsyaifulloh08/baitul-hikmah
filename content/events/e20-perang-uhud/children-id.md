@@ -1,12 +1,3 @@
----
-title: "Perang Uhud: Ujian Kekalahan dan Pelajaran"
-date: "625 M"
-era: "Kenabian"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Perang Uhud ⚔️
 
 ---

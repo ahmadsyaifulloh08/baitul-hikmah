@@ -1,27 +1,18 @@
----
-title: "Standardisasi Mushaf al-Quran oleh Utsman ibn Affan"
-date: "650 M"
-era: "Khulafa al-Rasyidin"
-location: "Madinah, Jazirah Arab"
-tags: ["standardisasi-mushaf", "utsman-ibn-affan", "zaid-ibn-tsabit", "mushaf-utsmani", "quran", "kodifikasi"]
-sources: ["shahih-bukhari", "al-itqan-suyuti", "al-masahif-ibn-abi-dawud"]
----
-
 # Standardisasi Mushaf al-Quran oleh Utsman ibn Affan (650 M)
 
 ## Konteks: Keragaman Bacaan dan Ancaman Perpecahan
 
-Setelah wafatnya Nabi Muhammad ﷺ, al-Quran telah dikodifikasi menjadi satu mushaf atas perintah Abu Bakar al-Shiddiq, dengan **Zaid ibn Tsabit** sebagai ketua panitia penulisan.¹ Mushaf ini disimpan oleh Abu Bakar, kemudian oleh Umar ibn al-Khaththab, dan setelah Umar wafat, mushaf itu berada dalam penjagaan Hafshah binti Umar.¹
+Setelah wafatnya Nabi Muhammad ﷺ, al-Quran telah dikodifikasi menjadi satu mushaf atas perintah Abu Bakar al-Shiddiq, dengan **Zaid ibn Tsabit** sebagai ketua panitia penulisan.^1 Mushaf ini disimpan oleh Abu Bakar, kemudian oleh Umar ibn al-Khaththab, dan setelah Umar wafat, mushaf itu berada dalam penjagaan Hafshah binti Umar.^1
 
-Namun seiring perluasan wilayah Islam yang pesat di masa Utsman, para sahabat yang tersebar di berbagai wilayah mengajarkan al-Quran sesuai dengan *qira'at* (variasi bacaan) yang mereka terima langsung dari Nabi ﷺ. Penduduk Syam membaca mengikuti bacaan **Ubay ibn Ka'b**, penduduk Kufah mengikuti bacaan **Abdullah ibn Mas'ud**, penduduk Bashrah mengikuti bacaan **Abu Musa al-Asy'ari**, dan seterusnya.²
+Namun seiring perluasan wilayah Islam yang pesat di masa Utsman, para sahabat yang tersebar di berbagai wilayah mengajarkan al-Quran sesuai dengan *qira'at* (variasi bacaan) yang mereka terima langsung dari Nabi ﷺ. Penduduk Syam membaca mengikuti bacaan **Ubay ibn Ka'b**, penduduk Kufah mengikuti bacaan **Abdullah ibn Mas'ud**, penduduk Bashrah mengikuti bacaan **Abu Musa al-Asy'ari**, dan seterusnya.^2
 
-Imam al-Bukhari meriwayatkan bahwa permasalahan ini mencapai titik kritis saat penaklukan Armenia dan Azerbaijan. **Hudzaifah ibn al-Yaman**, yang memimpin pasukan gabungan dari Syam dan Irak, menyaksikan langsung perselisihan tajam di antara para prajurit Muslim mengenai bacaan al-Quran. Sebagian mengklaim bacaan mereka lebih benar daripada yang lain.¹
+Imam al-Bukhari meriwayatkan bahwa permasalahan ini mencapai titik kritis saat penaklukan Armenia dan Azerbaijan. **Hudzaifah ibn al-Yaman**, yang memimpin pasukan gabungan dari Syam dan Irak, menyaksikan langsung perselisihan tajam di antara para prajurit Muslim mengenai bacaan al-Quran. Sebagian mengklaim bacaan mereka lebih benar daripada yang lain.^1
 
 Hudzaifah segera menemui Khalifah Utsman di Madinah dan berkata dengan nada mendesak:
 
-*"Wahai Amirul Mukminin, selamatkanlah umat ini sebelum mereka berselisih tentang Kitab mereka sebagaimana Yahudi dan Nasrani berselisih."*¹
+*"Wahai Amirul Mukminin, selamatkanlah umat ini sebelum mereka berselisih tentang Kitab mereka sebagaimana Yahudi dan Nasrani berselisih."*^1
 
-Al-Suyuti dalam *Al-Itqan fi Ulum al-Quran* menjelaskan bahwa perselisihan ini bukan tentang kandungan al-Quran — teksnya tetap sama — melainkan tentang variasi dialek dan cara pelafalan (*ahruf*) yang berbeda-beda.² Nabi Muhammad ﷺ sendiri pernah menyatakan bahwa al-Quran diturunkan dalam tujuh *ahruf* untuk memudahkan berbagai suku Arab.
+Al-Suyuti dalam *Al-Itqan fi Ulum al-Quran* menjelaskan bahwa perselisihan ini bukan tentang kandungan al-Quran — teksnya tetap sama — melainkan tentang variasi dialek dan cara pelafalan (*ahruf*) yang berbeda-beda.^2 Nabi Muhammad ﷺ sendiri pernah menyatakan bahwa al-Quran diturunkan dalam tujuh *ahruf* untuk memudahkan berbagai suku Arab.
 
 Namun ketika variasi ini menjadi sumber pertikaian dan saling mengkafirkan, Utsman menyadari bahwa tindakan tegas harus segera diambil.
 
@@ -29,14 +20,14 @@ Namun ketika variasi ini menjadi sumber pertikaian dan saling mengkafirkan, Utsm
 
 ### Pembentukan Panitia
 
-Utsman segera mengambil langkah. Ia meminta mushaf yang disimpan oleh Hafshah binti Umar sebagai naskah rujukan utama, lalu membentuk panitia penyalinan yang terdiri dari empat orang:¹ ²
+Utsman segera mengambil langkah. Ia meminta mushaf yang disimpan oleh Hafshah binti Umar sebagai naskah rujukan utama, lalu membentuk panitia penyalinan yang terdiri dari empat orang:^1 ^2
 
 1. **Zaid ibn Tsabit** — ketua panitia, yang juga memimpin kodifikasi pertama di masa Abu Bakar. Ia berasal dari kaum Anshar Madinah.
 2. **Abdullah ibn al-Zubair** — dari Quraisy.
 3. **Sa'id ibn al-'Ash** — dari Quraisy, dipilih karena pengucapan bahasa Arabnya dianggap paling mirip dengan pengucapan Nabi ﷺ.
 4. **Abdurrahman ibn al-Harits ibn Hisyam** — dari Quraisy.
 
-Imam al-Bukhari meriwayatkan bahwa Utsman berpesan kepada tiga anggota dari Quraisy:¹
+Imam al-Bukhari meriwayatkan bahwa Utsman berpesan kepada tiga anggota dari Quraisy:^1
 
 *"Jika kalian berselisih dengan Zaid ibn Tsabit tentang sesuatu dari al-Quran, maka tulislah dalam dialek Quraisy, karena sesungguhnya al-Quran diturunkan dalam bahasa mereka."*
 
@@ -44,23 +35,23 @@ Instruksi ini penting secara linguistik: ketika ada perbedaan ejaan atau cara pe
 
 ### Proses Penyalinan
 
-Ibn Abi Dawud dalam *Al-Masahif* memberikan detail tentang proses penyalinan.³ Panitia bekerja dengan sangat teliti, membandingkan setiap ayat dengan mushaf Hafshah serta mencocokkannya dengan hafalan para penghafal al-Quran (*huffazh*) yang masih hidup.
+Ibn Abi Dawud dalam *Al-Masahif* memberikan detail tentang proses penyalinan.^3 Panitia bekerja dengan sangat teliti, membandingkan setiap ayat dengan mushaf Hafshah serta mencocokkannya dengan hafalan para penghafal al-Quran (*huffazh*) yang masih hidup.
 
-Al-Suyuti mencatat bahwa mushaf yang dihasilkan ditulis tanpa tanda baca (*nuqath*) dan tanpa harakat (*tasykilberupa fathah, kasrah, dhammah*).² Hal ini disengaja agar satu tulisan dapat mengakomodasi lebih dari satu *qira'at* yang sahih — selama bacaan tersebut sesuai dengan *rasm* (kerangka tulisan) mushaf Utsmani.
+Al-Suyuti mencatat bahwa mushaf yang dihasilkan ditulis tanpa tanda baca (*nuqath*) dan tanpa harakat (*tasykilberupa fathah, kasrah, dhammah*).^2 Hal ini disengaja agar satu tulisan dapat mengakomodasi lebih dari satu *qira'at* yang sahih — selama bacaan tersebut sesuai dengan *rasm* (kerangka tulisan) mushaf Utsmani.
 
 ### Distribusi dan Pemusnahan Salinan Lama
 
-Setelah proses penyalinan selesai, Utsman mengambil langkah yang berani dan tegas:¹ ²
+Setelah proses penyalinan selesai, Utsman mengambil langkah yang berani dan tegas:^1 ^2
 
 1. **Mushaf standar** dikirim ke pusat-pusat kota besar: Makkah, Bashrah, Kufah, Syam, dan — menurut sebagian riwayat — Yaman dan Bahrain. Satu mushaf disimpan di Madinah sebagai *mushaf al-imam* (mushaf induk).
 2. **Setiap mushaf disertai seorang qari'** yang ahli, untuk mengajarkan bacaan yang benar sesuai mushaf standar.
 3. **Seluruh salinan mushaf yang berbeda** diperintahkan untuk dimusnahkan — baik dibakar maupun dicuci dengan air — agar tidak ada lagi sumber perselisihan.
 
-Imam al-Bukhari meriwayatkan:¹
+Imam al-Bukhari meriwayatkan:^1
 
-*"Utsman mengirimkan mushaf-mushaf tersebut ke setiap wilayah, dan memerintahkan agar setiap mushaf atau lembaran al-Quran selain mushaf (standar) itu dibakar."*
+*"Utsman mengirimkan mushaf-mushaf tersebut ke setiap wilayah, dan memerintahkan agar setiap mushaf atau lembaran al-Quran selain mushaf (standar) itu dibakar. ﴾9﴿"*
 
-Keputusan ini tidak tanpa kontroversi. Abdullah ibn Mas'ud, sahabat senior yang memiliki mushaf pribadinya sendiri dengan susunan surat yang sedikit berbeda, awalnya keberatan.³ Namun mayoritas sahabat mendukung keputusan Utsman, menyadari urgensi persatuan dalam bacaan al-Quran.
+Keputusan ini tidak tanpa kontroversi. Abdullah ibn Mas'ud, sahabat senior yang memiliki mushaf pribadinya sendiri dengan susunan surat yang sedikit berbeda, awalnya keberatan.^3 Namun mayoritas sahabat mendukung keputusan Utsman, menyadari urgensi persatuan dalam bacaan al-Quran.
 
 ## Dialog dan Dalil
 
@@ -68,14 +59,14 @@ Al-Quran sendiri menjamin pemeliharaannya oleh Allah:
 
 > إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴿٩﴾
 >
-> *"Sesungguhnya Kamilah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya."*
+> *"Sesungguhnya Kamilah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama memandang proyek standardisasi Utsman sebagai salah satu wujud nyata dari janji ilahi ini. Al-Suyuti menulis:²
+Para ulama memandang proyek standardisasi Utsman sebagai salah satu wujud nyata dari janji ilahi ini. Al-Suyuti menulis:^2
 
-*"Yang dilakukan Utsman adalah mengumpulkan umat pada satu mushaf dan satu huruf dari tujuh huruf, bukan menghilangkan sesuatu dari al-Quran. Ini adalah ijma' (konsensus) sahabat."*
+*"Yang dilakukan Utsman adalah mengumpulkan umat pada satu mushaf dan satu huruf dari tujuh huruf, bukan menghilangkan sesuatu dari al-Quran. Ini adalah ijma' (konsensus) sahabat. ﴾9﴿"*
 
-Hadits tentang tujuh *ahruf* yang diriwayatkan Imam al-Bukhari dan Muslim menjadi dasar pemahaman bahwa variasi bacaan memang berasal dari Nabi ﷺ sendiri:⁴
+Hadits tentang tujuh *ahruf* yang diriwayatkan Imam al-Bukhari dan Muslim menjadi dasar pemahaman bahwa variasi bacaan memang berasal dari Nabi ﷺ sendiri:^4
 
 > أُنْزِلَ الْقُرْآنُ عَلَى سَبْعَةِ أَحْرُفٍ
 >
@@ -99,7 +90,7 @@ Proses standardisasi tidak dilakukan secara sembarangan. Ada beberapa prinsip me
 
 ### Dampak Abadi
 
-Mushaf Utsmani menjadi standar tulisan al-Quran hingga hari ini. Seluruh mushaf al-Quran yang dicetak di dunia modern — dari cetakan Madinah, Kairo, Istanbul, hingga edisi digital — merujuk pada *rasm Utsmani* yang ditetapkan pada tahun 650 M.² ³
+Mushaf Utsmani menjadi standar tulisan al-Quran hingga hari ini. Seluruh mushaf al-Quran yang dicetak di dunia modern — dari cetakan Madinah, Kairo, Istanbul, hingga edisi digital — merujuk pada *rasm Utsmani* yang ditetapkan pada tahun 650 M.^2 ^3
 
 Lebih dari sekadar proyek teknis, standardisasi ini menjadi simbol persatuan umat Islam. Di tengah keragaman bahasa, budaya, dan mazhab, satu hal yang menyatukan seluruh Muslim di dunia: mushaf yang sama, dengan tulisan yang sama, yang dimulai dari inisiatif seorang khalifah yang melihat jauh ke depan.
 

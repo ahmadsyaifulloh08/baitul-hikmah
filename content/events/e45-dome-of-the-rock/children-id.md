@@ -1,12 +1,3 @@
----
-title: "Dome of the Rock Dibangun"
-date: "691 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Dome of the Rock — Kubah Emas di Yerusalem ✨
 
 ---

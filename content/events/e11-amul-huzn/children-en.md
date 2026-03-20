@@ -1,12 +1,3 @@
----
-title: "The Saddest Year — The Story of Losing Khadijah and Abu Talib"
-date: "619-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: en
----
-
 # The Saddest Year
 
 ## 💔 The Uncle Who Always Protected

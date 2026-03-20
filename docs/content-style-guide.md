@@ -24,6 +24,29 @@ Setiap kutipan Al-Quran **WAJIB** menyertakan teks Arab asli.
 - **Tidak boleh** menampilkan terjemahan saja tanpa teks Arab asli
 - **Transliterasi Latin** (opsional): bisa ditambahkan di antara Arab dan terjemahan
 
+### Pemisah Ayat — WAJIB Konsisten
+
+Teks Arab sudah menggunakan pemisah ayat ornamental `﴿N﴾`. **Terjemahan HARUS mengikuti pola yang sama** — setiap akhir ayat diberi pemisah `﴿N﴾` agar pembaca bisa mencocokkan terjemahan dengan ayat Arab.
+
+**❌ SALAH — terjemahan tanpa pemisah:**
+```
+"Did He not find you an orphan and give you refuge? And He found you lost 
+and guided you. And He found you in need and made you self-sufficient."
+```
+
+**✅ BENAR — terjemahan dengan pemisah per ayat:**
+```
+"Did He not find you an orphan and give you refuge? ﴿6﴾ And He found you 
+lost and guided you. ﴿7﴾ And He found you in need and made you 
+self-sufficient. ﴿8﴾"
+```
+
+**Aturan:**
+- Nomor ayat di terjemahan menggunakan angka ARAB (1, 2, 3...) bukan Arabic numerals (١, ٢, ٣)
+- Teks Arab tetap menggunakan Arabic numerals: `﴿١﴾ ﴿٢﴾ ﴿٣﴾`
+- Untuk kutipan 1 ayat saja, pemisah TETAP wajib: `"...give you refuge? ﴿6﴾"`
+- Posisi pemisah: SETELAH tanda baca akhir kalimat ayat (setelah titik/tanya/seru)
+
 ---
 
 ## 2. Format Tabel — Web-Friendly

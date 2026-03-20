@@ -1,12 +1,3 @@
----
-title: "Ali ibn Abi Talib — The Fourth Caliph"
-date: "656-661 CE"
-era: "Rashidun Caliphate"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Brave and Wise Caliph Ali ⚔️
 
 ---

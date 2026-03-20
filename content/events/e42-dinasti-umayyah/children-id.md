@@ -1,12 +1,3 @@
----
-title: "Muawiyah Mendirikan Dinasti Umayyah"
-date: "661 M"
-era: "Umayyah"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Dinasti Umayyah Berdiri 🏰
 
 ---

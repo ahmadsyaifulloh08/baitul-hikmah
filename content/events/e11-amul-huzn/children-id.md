@@ -1,12 +1,3 @@
----
-title: "Tahun Paling Sedih — Kisah Kehilangan Khadijah dan Abu Thalib"
-date: "619-01-01"
-era: prophetic
-audience: children
-ageRange: "6-12"
-language: id
----
-
 # Tahun Paling Sedih
 
 ## 💔 Paman yang Selalu Melindungi
