@@ -8,13 +8,13 @@ Pembebasan Makkah pada Ramadhan tahun 8 Hijriah (630 M) mengubah keseimbangan ke
 
 Namun keputusan ini dikritik keras oleh **Duraid bin al-Shimmah**, seorang panglima perang Hawazin yang sudah sangat tua dan berpengalaman. Duraid — yang dibawa ke medan perang di atas tandu karena usianya yang sudah lebih dari seratus tahun — berkata kepada Malik:^1
 
-*"Demi Allah, engkau hanyalah penggembala unta dan kambing! Apakah ada sesuatu yang bisa menghentikan orang yang melarikan diri? Jika pasukanmu menang, hanya prajurit berpedang dan bertombak yang berguna. Tapi jika kalah, engkau telah mempermalukan keluargamu dan menyerahkan hartamu. ﴾25﴿"*
+*"Demi Allah, engkau hanyalah penggembala unta dan kambing! Apakah ada sesuatu yang bisa menghentikan orang yang melarikan diri? Jika pasukanmu menang, hanya prajurit berpedang dan bertombak yang berguna. Tapi jika kalah, engkau telah mempermalukan keluargamu dan menyerahkan hartamu."*
 
 Malik menolak nasihat Duraid, sebuah keputusan yang kelak terbukti mahal.
 
 ## Peristiwa: Penyergapan di Lembah Hunain
 
-Rasulullah ﷺ berangkat dari Makkah dengan pasukan berjumlah sekitar 12.000 orang — 10.000 pasukan yang ikut Fath Makkah ditambah 2.000 penduduk Makkah yang baru masuk Islam.^1 ^2 Ini adalah pasukan terbesar yang pernah dipimpin beliau. Jumlah yang besar ini membuat sebagian sahabat merasa percaya diri berlebihan. Seseorang bahkan berkata: *"Kita tidak akan kalah hari ini karena sedikitnya jumlah kita. ﴾25﴿"*^2
+Rasulullah ﷺ berangkat dari Makkah dengan pasukan berjumlah sekitar 12.000 orang — 10.000 pasukan yang ikut Fath Makkah ditambah 2.000 penduduk Makkah yang baru masuk Islam.^1 ^2 Ini adalah pasukan terbesar yang pernah dipimpin beliau. Jumlah yang besar ini membuat sebagian sahabat merasa percaya diri berlebihan. Seseorang bahkan berkata: *"Kita tidak akan kalah hari ini karena sedikitnya jumlah kita."*^2
 
 Al-Quran merekam sikap ini dan konsekuensinya:
 
@@ -29,15 +29,15 @@ Pasukan muslimin yang tidak siap menghadapi penyergapan ini langsung panik dan l
 
 Dalam momen kritis itu, Rasulullah ﷺ menunjukkan keberanian luar biasa. Alih-alih mundur, beliau justru memacu bighalnya (keledai besar) ke arah musuh. **Al-Abbas**, yang dikenal memiliki suara yang sangat keras, diperintahkan untuk memanggil pasukan yang melarikan diri:^1 ^2
 
-*"Wahai kaum Anshar! Wahai para sahabat pohon Samurah (Bai'at Ridwan)! ﴾26﴿"*
+*"Wahai kaum Anshar! Wahai para sahabat pohon Samurah (Bai'at Ridwan)!"*
 
-Seruan ini menggema di seluruh lembah. Para sahabat yang mendengarnya segera berbalik dan bergegas kembali ke sisi Rasulullah ﷺ, menjawab: *"Labbaik! Labbaik! ﴾26﴿"* (Kami penuhi! Kami penuhi!) Imam Muslim meriwayatkan bahwa pertempuran kemudian berbalik arah — pasukan Hawazin yang semula mendominasi kini terdesak mundur.^3
+Seruan ini menggema di seluruh lembah. Para sahabat yang mendengarnya segera berbalik dan bergegas kembali ke sisi Rasulullah ﷺ, menjawab: *"Labbaik! Labbaik!"* (Kami penuhi! Kami penuhi!) Imam Muslim meriwayatkan bahwa pertempuran kemudian berbalik arah — pasukan Hawazin yang semula mendominasi kini terdesak mundur.^3
 
 Al-Quran menggambarkan pertolongan ilahi di momen ini:
 
 > ثُمَّ أَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ كَفَرُوا ﴿٢٦﴾
 >
-> *"Kemudian Allah menurunkan ketenangan-Nya kepada Rasul-Nya dan kepada orang-orang yang beriman, dan menurunkan tentara yang tidak kamu lihat, dan Dia mengazab orang-orang kafir. ﴾26﴿"*
+> *"Kemudian Allah menurunkan ketenangan-Nya kepada Rasul-Nya dan kepada orang-orang yang beriman, dan menurunkan tentara yang tidak kamu lihat, dan Dia mengazab orang-orang kafir."*
 > — QS. At-Taubah (9): 26
 
 Hawazin mengalami kekalahan telak. Pasukan mereka melarikan diri meninggalkan keluarga, harta, dan ternak mereka — persis seperti yang dikhawatirkan Duraid bin al-Shimmah. Kaum muslimin menawan 6.000 orang dan merampas 24.000 unta, 40.000 kambing, dan sejumlah besar perak.^1 ^2

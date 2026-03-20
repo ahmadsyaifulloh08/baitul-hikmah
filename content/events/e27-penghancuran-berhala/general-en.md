@@ -84,7 +84,7 @@ The Quran explains the original mission of the Ka'bah's construction:
 
 ### Symbol of an Old Order's Collapse
 
-The destruction of 360 idols in a single day was a declaration that the entire pre-Islamic belief system had ended. Each idol represented an aspect of the old social order — tribal hierarchies, spiritual servitude, and injustice legitimized by "ancestral tradition. ﴾26﴿" When the idols fell, the intellectual and spiritual foundations of that entire system collapsed with them.
+The destruction of 360 idols in a single day was a declaration that the entire pre-Islamic belief system had ended. Each idol represented an aspect of the old social order — tribal hierarchies, spiritual servitude, and injustice legitimized by "ancestral tradition." When the idols fell, the intellectual and spiritual foundations of that entire system collapsed with them.
 
 ### Bilal Atop the Ka'bah
 

@@ -38,9 +38,9 @@ Alih-alih langsung menuju utara ke Madinah — arah yang pasti akan dilacak Qura
 
 Al-Bukhari meriwayatkan kisah di dalam gua ini dengan sangat rinci.^3 Abu Bakr masuk terlebih dahulu dan membersihkan gua dari lubang-lubang yang mungkin dihuni ular atau kalajengking, menutupnya dengan sobekan kainnya sendiri. Ketika satu lubang tersisa dan ia kehabisan kain, ia menutupnya dengan tumitnya. Seekor ular menyengat tumitnya, namun Abu Bakr tidak bergerak agar tidak membangunkan Nabi yang tidur di pangkuannya.^3
 
-Momen paling dramatis terjadi ketika para pelacak Quraisy sampai di mulut gua. Abu Bakr berbisik dengan penuh kekhawatiran: *"Wahai Rasulullah, seandainya salah seorang dari mereka melihat ke bawah kakinya, niscaya ia melihat kita. ﴾40﴿"* Nabi Muhammad ﷺ menjawab dengan ketenangan yang luar biasa:
+Momen paling dramatis terjadi ketika para pelacak Quraisy sampai di mulut gua. Abu Bakr berbisik dengan penuh kekhawatiran: *"Wahai Rasulullah, seandainya salah seorang dari mereka melihat ke bawah kakinya, niscaya ia melihat kita."* Nabi Muhammad ﷺ menjawab dengan ketenangan yang luar biasa:
 
-*"Wahai Abu Bakr, apa persangkaanmu tentang dua orang yang ketiga-Nya adalah Allah? ﴾40﴿"*^3
+*"Wahai Abu Bakr, apa persangkaanmu tentang dua orang yang ketiga-Nya adalah Allah? "*^3
 
 Al-Quran mengabadikan momen ini:
 

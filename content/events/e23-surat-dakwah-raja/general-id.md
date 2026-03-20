@@ -14,7 +14,7 @@ Untuk keperluan ini, Nabi memerintahkan pembuatan cincin stempel dari perak bert
 
 Nabi Muhammad ﷺ mengutus **Dihyah bin Khalifah al-Kalbi** untuk membawa surat kepada Heraklius, kaisar Romawi Timur yang baru saja meraih kemenangan besar atas Persia. Surat itu berbunyi:^1
 
-*"Bismillahirrahmanirrahim. Dari Muhammad, hamba Allah dan utusan-Nya, kepada Heraklius, pembesar Romawi. Salam sejahtera bagi siapa yang mengikuti petunjuk. Amma ba'du, sesungguhnya aku mengajakmu dengan seruan Islam. Masuk Islamlah, niscaya engkau selamat, dan Allah akan memberimu pahala dua kali lipat. Jika engkau berpaling, maka engkau menanggung dosa rakyatmu... ﴾64﴿"*
+*"Bismillahirrahmanirrahim. Dari Muhammad, hamba Allah dan utusan-Nya, kepada Heraklius, pembesar Romawi. Salam sejahtera bagi siapa yang mengikuti petunjuk. Amma ba'du, sesungguhnya aku mengajakmu dengan seruan Islam. Masuk Islamlah, niscaya engkau selamat, dan Allah akan memberimu pahala dua kali lipat. Jika engkau berpaling, maka engkau menanggung dosa rakyatmu... "*
 
 Surat itu kemudian mengutip ayat al-Quran:
 
@@ -25,7 +25,7 @@ Surat itu kemudian mengutip ayat al-Quran:
 
 Reaksi Heraklius sangat menarik dan didokumentasikan secara detail dalam Shahih al-Bukhari melalui riwayat panjang dari Abu Sufyan. Saat itu Abu Sufyan — yang masih musyrik — kebetulan berada di Syam untuk berdagang. Heraklius memanggilnya dan mengajukan serangkaian pertanyaan tentang Muhammad: asal-usulnya, pengikutnya, ajarannya, apakah ia pernah berbohong, apakah pengikutnya bertambah atau berkurang.^1
 
-Setelah mendengar semua jawaban Abu Sufyan, Heraklius menyimpulkan: *"Jika apa yang kau katakan benar, maka ia akan menguasai tempat di bawah kedua kakiku ini."* Abu Sufyan kemudian berkata: *"Aku keluar dari situ, dan aku yakin bahwa urusan Ibn Abi Kabsyah (sebutan merendahkan untuk Muhammad) akan menjadi besar. ﴾64﴿"*^1
+Setelah mendengar semua jawaban Abu Sufyan, Heraklius menyimpulkan: *"Jika apa yang kau katakan benar, maka ia akan menguasai tempat di bawah kedua kakiku ini."* Abu Sufyan kemudian berkata: *"Aku keluar dari situ, dan aku yakin bahwa urusan Ibn Abi Kabsyah (sebutan merendahkan untuk Muhammad) akan menjadi besar."*^1
 
 Heraklius tampaknya tertarik dan bahkan cenderung menerima Islam, namun tekanan dari para pembesar Romawi membuatnya mundur. Ia tidak masuk Islam, tetapi ia juga tidak merobek surat Nabi — sebuah sikap yang menunjukkan penghormatan.^1 ^2
 

@@ -31,7 +31,7 @@ From Hudaybiyyah began a series of long and tense negotiations. Prophet Muhammad
 
 Several envoys then came from the Quraysh side. First was **Budayl ibn Warqa'** of the Khuza'ah, who served as an initial mediator. Then came **Urwah ibn Mas'ud al-Thaqafi**, a respected leader from Ta'if. Urwah carefully observed how the companions treated the Prophet — they competed for the water of his ablution, did not let his hair fall to the ground, and lowered their gaze when speaking to him. Urwah returned to the Quraysh and declared:^2
 
-*"O my people, by Allah, I have been an envoy to kings — the Caesar of Rome, the Chosroes of Persia, and the Negus of Abyssinia — and I have never seen a king revered by his people as Muhammad is revered by his companions. ﴾18﴿"*
+*"O my people, by Allah, I have been an envoy to kings — the Caesar of Rome, the Chosroes of Persia, and the Negus of Abyssinia — and I have never seen a king revered by his people as Muhammad is revered by his companions. "*
 
 Finally, the Prophet sent **Uthman ibn Affan** to Makkah, as Uthman had strong kinship ties with the Banu Umayyah that would better ensure his safety. However, Uthman was detained longer than expected, and rumors spread that he had been killed.^2
 
@@ -62,11 +62,11 @@ The third clause provoked enormous anger among the companions. **Umar ibn al-Kha
 
 *"O Messenger of Allah, are you not truly the Prophet of Allah?"* — "Yes." — *"Are we not upon the truth and our enemy upon falsehood?"* — "Yes." — *"Then why do we accept humiliation in our religion?"*
 
-The Prophet answered calmly: *"I am the Messenger of Allah, and I will not disobey Him. He will surely give me victory. ﴾1﴿"*
+The Prophet answered calmly: *"I am the Messenger of Allah, and I will not disobey Him. He will surely give me victory."*
 
-Even during the writing of the treaty, tensions flared. When Ali ibn Abi Talib wrote *"Bismillahir-Rahmanir-Rahim"*, Suhayl objected and demanded it be written as *"Bismika Allahumma"* (the pre-Islamic formula). When Ali wrote *"Muhammad Rasulullah"*, Suhayl objected again: "If we acknowledged you as a messenger, we would not fight you." The Prophet instructed Ali to erase the phrase and replace it with *"Muhammad ibn Abdullah ﴾1﴿"*.^1 Ali found it difficult to do so, and the Prophet himself pointed to the words and erased them.
+Even during the writing of the treaty, tensions flared. When Ali ibn Abi Talib wrote *"Bismillahir-Rahmanir-Rahim"*, Suhayl objected and demanded it be written as *"Bismika Allahumma"* (the pre-Islamic formula). When Ali wrote *"Muhammad Rasulullah"*, Suhayl objected again: "If we acknowledged you as a messenger, we would not fight you." The Prophet instructed Ali to erase the phrase and replace it with *"Muhammad ibn Abdullah"*.^1 Ali found it difficult to do so, and the Prophet himself pointed to the words and erased them.
 
-The real test of the treaty came almost immediately. **Abu Jandal ibn Suhayl ibn Amr** — Suhayl's own son — appeared stumbling into the negotiations, still in chains, his body bearing the marks of torture. He had secretly embraced Islam and was being tortured by his father. He pleaded for asylum with the Muslims. Suhayl insisted: "This is the first person you must return to me. ﴾1﴿" With a heavy heart, the Prophet honored the treaty and asked Abu Jandal to be patient. The sight brought many companions to tears.^1 ^2
+The real test of the treaty came almost immediately. **Abu Jandal ibn Suhayl ibn Amr** — Suhayl's own son — appeared stumbling into the negotiations, still in chains, his body bearing the marks of torture. He had secretly embraced Islam and was being tortured by his father. He pleaded for asylum with the Muslims. Suhayl insisted: "This is the first person you must return to me." With a heavy heart, the Prophet honored the treaty and asked Abu Jandal to be patient. The sight brought many companions to tears.^1 ^2
 
 ## Analysis: Why Hudaybiyyah Was a Victory
 
@@ -74,7 +74,7 @@ The Quran called this event a *fath mubin* — a clear victory:
 
 > إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ﴿١﴾
 >
-> *"Indeed, We have granted you a clear victory. ﴾1﴿"*
+> *"Indeed, We have granted you a clear victory."*
 > — QS. Al-Fath (48): 1
 
 Many companions were initially bewildered: where was the victory? They returned without performing umrah, accepted apparently one-sided terms, and had to return Muslims who sought asylum. Yet history proved that Hudaybiyyah was the true strategic turning point.^1 ^2 ^3

@@ -8,13 +8,13 @@ The liberation of Makkah in Ramadan 8 AH (630 CE) fundamentally altered the bala
 
 This decision was harshly criticized by **Duraid ibn al-Simmah**, an ancient and vastly experienced Hawazin war commander. Duraid — carried to the battlefield on a litter due to his age exceeding a hundred years — told Malik:^1
 
-*"By Allah, you are merely a herder of camels and sheep! Can anything stop a man who is fleeing? If your army wins, only men with swords and spears matter. But if you lose, you will have shamed your families and surrendered your wealth. ﴾25﴿"*
+*"By Allah, you are merely a herder of camels and sheep! Can anything stop a man who is fleeing? If your army wins, only men with swords and spears matter. But if you lose, you will have shamed your families and surrendered your wealth."*
 
 Malik rejected Duraid's counsel — a decision that would prove catastrophic.
 
 ## The Event: Ambush in the Valley of Hunayn
 
-The Prophet ﷺ departed from Makkah with approximately 12,000 men — the 10,000 who had participated in Fath Makkah plus 2,000 Makkans who had recently embraced Islam.^1 ^2 This was the largest army the Prophet had ever led. The sheer numbers bred overconfidence among some. Someone even declared: *"We will not be defeated today due to our small numbers. ﴾25﴿"*^2
+The Prophet ﷺ departed from Makkah with approximately 12,000 men — the 10,000 who had participated in Fath Makkah plus 2,000 Makkans who had recently embraced Islam.^1 ^2 This was the largest army the Prophet had ever led. The sheer numbers bred overconfidence among some. Someone even declared: *"We will not be defeated today due to our small numbers."*^2
 
 The Quran recorded this attitude and its consequences:
 
@@ -29,15 +29,15 @@ The Muslims, unprepared for the ambush, panicked and scattered.^1 ^2 Within minu
 
 In this critical moment, the Prophet ﷺ displayed extraordinary courage. Rather than retreat, he spurred his mule toward the enemy. **Al-Abbas**, known for his thunderous voice, was ordered to rally the fleeing troops:^1 ^2
 
-*"O Ansar! O companions of the Samurah tree (the Pledge of Ridwan)! ﴾26﴿"*
+*"O Ansar! O companions of the Samurah tree (the Pledge of Ridwan)!"*
 
-The call echoed across the entire valley. The companions who heard it immediately turned and rushed back to the Prophet's side, answering: *"Labbayk! Labbayk! ﴾26﴿"* (Here we are! Here we are!) Imam Muslim records that the battle then reversed — Hawazin, who had initially dominated, were now driven back.^3
+The call echoed across the entire valley. The companions who heard it immediately turned and rushed back to the Prophet's side, answering: *"Labbayk! Labbayk!"* (Here we are! Here we are!) Imam Muslim records that the battle then reversed — Hawazin, who had initially dominated, were now driven back.^3
 
 The Quran describes the divine aid at this moment:
 
 > ثُمَّ أَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ كَفَرُوا ﴿٢٦﴾
 >
-> *"Then Allah sent down His tranquility upon His Messenger and upon the believers, and sent down soldiers you did not see, and punished those who disbelieved. ﴾26﴿"*
+> *"Then Allah sent down His tranquility upon His Messenger and upon the believers, and sent down soldiers you did not see, and punished those who disbelieved."*
 > — QS. At-Tawbah (9): 26
 
 Hawazin suffered a decisive defeat. Their warriors fled, abandoning their families, wealth, and livestock — exactly as Duraid ibn al-Simmah had feared. The Muslims captured 6,000 prisoners and seized 24,000 camels, 40,000 sheep, and a large quantity of silver.^1 ^2

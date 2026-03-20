@@ -25,11 +25,11 @@ Imam al-Bukhari meriwayatkan:
 > *"Wahai Rasulullah, janganlah terburu-buru menghukumku. Sesungguhnya aku adalah orang yang menempel pada Quraisy (bukan dari kalangan mereka sendiri)."*
 > — HR Bukhari, no. 3007, Kitab al-Jihad
 
-**Umar bin al-Khaththab** meminta izin untuk memenggal Hathib, namun Rasulullah ﷺ bersabda: *"Bukankah dia termasuk orang yang ikut Badr? Sesungguhnya Allah telah melihat ahli Badr dan berfirman: Berbuatlah sesuka kalian, sungguh Aku telah mengampuni kalian. ﴾1﴿"*^3 Pengampunan ini menunjukkan prinsip fundamental dalam kepemimpinan Nabi: menilai seseorang dari totalitas pengabdiannya, bukan dari satu kesalahan.
+**Umar bin al-Khaththab** meminta izin untuk memenggal Hathib, namun Rasulullah ﷺ bersabda: *"Bukankah dia termasuk orang yang ikut Badr? Sesungguhnya Allah telah melihat ahli Badr dan berfirman: Berbuatlah sesuka kalian, sungguh Aku telah mengampuni kalian."*^3 Pengampunan ini menunjukkan prinsip fundamental dalam kepemimpinan Nabi: menilai seseorang dari totalitas pengabdiannya, bukan dari satu kesalahan.
 
 Pada tanggal 10 Ramadhan tahun 8 Hijriah, Rasulullah ﷺ berangkat dari Madinah dengan pasukan sekitar 10.000 orang — jumlah terbesar yang pernah beliau pimpin.^1 ^2 Pasukan ini terus bertambah dalam perjalanan ketika berbagai kabilah bergabung. Di Marr al-Zhahran (dekat Makkah), Rasulullah ﷺ memerintahkan setiap pasukan menyalakan api, sehingga lembah itu dipenuhi ribuan api unggun. Pemandangan ini dirancang untuk menunjukkan kekuatan yang tak tertandingi dan meluruhkan semangat perlawanan Quraisy.^2
 
-Di tempat inilah **Abu Sufyan** datang untuk melihat situasi. **Al-Abbas bin Abdul Muthalib**, paman Nabi yang baru saja berhijrah, membawa Abu Sufyan menemui Rasulullah ﷺ. Ketika Abu Sufyan melihat lautan api dan pasukan yang tak berujung, ia berkata kepada al-Abbas: *"Sungguh kekuasaan keponakanmu telah menjadi besar."* Al-Abbas menjawab: *"Ini adalah kenabian."* Abu Sufyan berkata: *"Kalau begitu, ya. ﴾1﴿"*^1
+Di tempat inilah **Abu Sufyan** datang untuk melihat situasi. **Al-Abbas bin Abdul Muthalib**, paman Nabi yang baru saja berhijrah, membawa Abu Sufyan menemui Rasulullah ﷺ. Ketika Abu Sufyan melihat lautan api dan pasukan yang tak berujung, ia berkata kepada al-Abbas: *"Sungguh kekuasaan keponakanmu telah menjadi besar."* Al-Abbas menjawab: *"Ini adalah kenabian."* Abu Sufyan berkata: *"Kalau begitu, ya."*^1
 
 ## Dialog dan Dalil: Momen Kunci Pembebasan
 
@@ -37,7 +37,7 @@ Rasulullah ﷺ memasuki Makkah pada hari Jumat, 20 Ramadhan tahun 8 Hijriah (11 
 
 > إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا ﴿١﴾
 >
-> *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata. ﴾1﴿"*
+> *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."*
 > — QS. Al-Fath (48): 1
 
 Pasukan dibagi menjadi empat kolom yang memasuki Makkah dari empat arah berbeda.^1 **Khalid ibn al-Walid** memimpin sayap kanan dari arah selatan. Di jalurnya terjadi sedikit perlawanan dari sekelompok kecil Quraisy yang dipimpin Ikrimah bin Abu Jahal dan Shafwan bin Umayyah, tetapi perlawanan ini segera dipatahkan.^1 Di jalur-jalur lain, tidak ada perlawanan sama sekali. Makkah dibuka nyaris tanpa pertumpahan darah — sebuah pencapaian militer dan moral yang luar biasa.
@@ -51,9 +51,9 @@ Setelah memasuki Makkah, Rasulullah ﷺ menuju Ka'bah. Beliau melakukan thawaf t
 
 Lalu datanglah momen paling bersejarah. Rasulullah ﷺ berdiri di pintu Ka'bah menghadap penduduk Makkah — orang-orang yang selama dua puluh tahun menyiksa, mengusir, memboikot, dan berusaha membunuh beliau. Mereka berdiri menunduk, menanti nasib mereka. Rasulullah ﷺ bertanya:
 
-*"Wahai kaum Quraisy, menurut kalian apa yang akan aku lakukan terhadap kalian? ﴾81﴿"*
+*"Wahai kaum Quraisy, menurut kalian apa yang akan aku lakukan terhadap kalian? "*
 
-Mereka menjawab: *"Kebaikan. Engkau adalah saudara yang mulia, anak saudara yang mulia. ﴾81﴿"*
+Mereka menjawab: *"Kebaikan. Engkau adalah saudara yang mulia, anak saudara yang mulia."*
 
 Rasulullah ﷺ bersabda:^1 ^2
 
@@ -99,7 +99,7 @@ Fath Makkah mengubah peta geopolitik Jazirah Arab secara permanen. Dengan jatuhn
 
 > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾
 >
-> *"Apabila telah datang pertolongan Allah dan kemenangan, ﴾1﴿ dan engkau melihat manusia berbondong-bondong masuk agama Allah. ﴾2﴿"*
+> *"Apabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia berbondong-bondong masuk agama Allah. ﴾2﴿"*
 > — QS. An-Nashr (110): 1-2
 
 ---

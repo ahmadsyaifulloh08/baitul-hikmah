@@ -43,7 +43,7 @@ Before the general battle commenced, the Prophet Muhammad ﷺ prayed with intens
 > *"O Allah, fulfill Your promise to me. O Allah, grant what You have promised me. O Allah, if You destroy this small band of Muslims, You will not be worshipped on earth."*
 > — Sahih al-Bukhari, no. 2915, Kitab al-Jihad
 
-Abu Bakr, seeing the intensity of the Prophet's supplication, said: *"That is enough, O Messenger of Allah. Allah will surely fulfill His promise to you. ﴾9﴿"*^1
+Abu Bakr, seeing the intensity of the Prophet's supplication, said: *"That is enough, O Messenger of Allah. Allah will surely fulfill His promise to you."*^1
 
 The battle was brief but decisive. Despite being dramatically outnumbered, the Muslim forces won a resounding victory. **70 Quraysh warriors** were killed — including Abu Jahl himself — and **70 others were captured**. On the Muslim side, 14 Companions fell as martyrs.^1 ^2
 

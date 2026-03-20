@@ -24,7 +24,7 @@ Piagam ini terdiri dari sekitar **47 pasal** (menurut penomoran para sarjana mod
 
 Pasal pertama menyatakan bahwa kaum muslimin dari Quraisy (Muhajirin) dan Yatsrib (Anshar), serta siapa pun yang mengikuti mereka, berjuang bersama mereka, dan berjihad bersama mereka, adalah **satu umat (*ummah wahidah*) yang berbeda dari manusia lainnya**.^1
 
-Namun yang revolusioner, piagam ini juga memasukkan komunitas Yahudi ke dalam kerangka politik yang sama. Pasal 25 dan seterusnya menyebutkan: *"Yahudi Bani Auf adalah satu umat bersama kaum mukminin — bagi orang Yahudi agama mereka dan bagi kaum muslimin agama mereka — baik sekutu-sekutu mereka maupun diri mereka sendiri... ﴾256﴿"*^1 ^3
+Namun yang revolusioner, piagam ini juga memasukkan komunitas Yahudi ke dalam kerangka politik yang sama. Pasal 25 dan seterusnya menyebutkan: *"Yahudi Bani Auf adalah satu umat bersama kaum mukminin — bagi orang Yahudi agama mereka dan bagi kaum muslimin agama mereka — baik sekutu-sekutu mereka maupun diri mereka sendiri..."*^1 ^3
 
 Ini berarti *ummah* dalam konteks Piagam Madinah memiliki dua lapisan: umat Islam sebagai komunitas keagamaan, dan *ummah* politik Madinah yang mencakup semua penduduk — muslim, Yahudi, dan lainnya — sebagai satu entitas sipil.
 
@@ -34,7 +34,7 @@ Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak 
 
 > لَا إِكْرَاهَ فِي الدِّينِ ﴿٢٥٦﴾
 >
-> *"Tidak ada paksaan dalam agama. ﴾256﴿"*
+> *"Tidak ada paksaan dalam agama."*
 > — QS. Al-Baqarah (2): 256
 
 ### Pertahanan Bersama

@@ -24,7 +24,7 @@ The charter consists of approximately **47 clauses** (according to modern schola
 
 The first clause declares that the Muslims of Quraysh (Muhajirin) and Yathrib (Ansar), along with anyone who follows them, strives with them, and struggles alongside them, constitute **one nation (*ummah wahidah*) distinct from all others**.^1
 
-Remarkably, the charter also incorporated the Jewish community into the same political framework. Clause 25 and those following state: *"The Jews of Banu Awf are one nation with the believers — the Jews have their religion and the Muslims have their religion — both their clients and themselves... ﴾256﴿"*^1 ^3
+Remarkably, the charter also incorporated the Jewish community into the same political framework. Clause 25 and those following state: *"The Jews of Banu Awf are one nation with the believers — the Jews have their religion and the Muslims have their religion — both their clients and themselves..."*^1 ^3
 
 This means *ummah* in the context of the Charter of Madinah operated on two levels: the Muslim community as a religious body, and the political *ummah* of Madinah encompassing all residents — Muslims, Jews, and others — as a single civic entity.
 
@@ -34,7 +34,7 @@ The charter explicitly guaranteed freedom of religion. Each group was entitled t
 
 > لَا إِكْرَاهَ فِي الدِّينِ ﴿٢٥٦﴾
 >
-> *"There is no compulsion in religion. ﴾256﴿"*
+> *"There is no compulsion in religion."*
 > — QS. Al-Baqarah (2): 256
 
 ### Collective Defence

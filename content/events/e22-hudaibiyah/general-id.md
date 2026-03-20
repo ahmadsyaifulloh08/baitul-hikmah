@@ -31,7 +31,7 @@ Dari Hudaibiyah, dimulailah serangkaian negosiasi yang panjang dan menegangkan. 
 
 Kemudian datang beberapa utusan dari pihak Quraisy. Yang pertama adalah **Budail bin Warqa'** dari Khuza'ah, yang menjadi mediator awal. Setelah itu datang **Urwah bin Mas'ud al-Tsaqafi**, seorang tokoh terhormat dari Thaif. Urwah mengamati dengan seksama bagaimana para sahabat memperlakukan Nabi — mereka berebut air bekas wudhunya, tidak membiarkan rambutnya jatuh ke tanah, dan menurunkan pandangan saat berbicara dengannya. Urwah kembali kepada Quraisy dan berkata:^2
 
-*"Wahai kaumku, demi Allah, aku pernah menjadi utusan ke raja-raja — Kaisar Romawi, Kisra Persia, dan Najasyi Habasyah — dan aku tidak pernah melihat seorang raja pun diagungkan oleh rakyatnya seperti sahabat-sahabat Muhammad mengagungkan Muhammad. ﴾18﴿"*
+*"Wahai kaumku, demi Allah, aku pernah menjadi utusan ke raja-raja — Kaisar Romawi, Kisra Persia, dan Najasyi Habasyah — dan aku tidak pernah melihat seorang raja pun diagungkan oleh rakyatnya seperti sahabat-sahabat Muhammad mengagungkan Muhammad. "*
 
 Akhirnya Nabi mengirim **Utsman bin Affan** ke Makkah, karena Utsman memiliki hubungan kekerabatan yang kuat dengan Bani Umayyah sehingga keselamatannya lebih terjamin. Namun Utsman ditahan lebih lama dari yang diharapkan, dan tersebar kabar bahwa ia telah dibunuh.^2
 
@@ -62,11 +62,11 @@ Klausul ketiga ini memicu kemarahan besar di kalangan sahabat. **Umar bin Khatta
 
 *"Wahai Rasulullah, bukankah engkau benar-benar nabi Allah?"* — "Ya." — *"Bukankah kita di atas kebenaran dan musuh kita di atas kebatilan?"* — "Ya." — *"Lalu mengapa kita menerima kehinaan dalam agama kita?"*
 
-Nabi menjawab dengan tenang: *"Aku adalah utusan Allah, dan aku tidak akan mendurhakai-Nya. Dia pasti akan menolongku. ﴾1﴿"*
+Nabi menjawab dengan tenang: *"Aku adalah utusan Allah, dan aku tidak akan mendurhakai-Nya. Dia pasti akan menolongku."*
 
-Bahkan saat penulisan perjanjian, terjadi ketegangan. Ketika Ali bin Abi Thalib menulis *"Bismillahirrahmanirrahim"*, Suhail menolak dan meminta ditulis *"Bismika Allahumma"* (formula pra-Islam). Ketika Ali menulis *"Muhammad Rasulullah"*, Suhail menolak lagi: "Kalau kami mengakuimu sebagai rasul, kami tidak akan memerangimu." Nabi memerintahkan Ali menghapus frasa tersebut dan menggantinya dengan *"Muhammad bin Abdullah ﴾1﴿"*.^1 Ali merasa berat melakukannya, sehingga Nabi sendiri yang menunjukkan posisi tulisan itu dan menghapusnya.
+Bahkan saat penulisan perjanjian, terjadi ketegangan. Ketika Ali bin Abi Thalib menulis *"Bismillahirrahmanirrahim"*, Suhail menolak dan meminta ditulis *"Bismika Allahumma"* (formula pra-Islam). Ketika Ali menulis *"Muhammad Rasulullah"*, Suhail menolak lagi: "Kalau kami mengakuimu sebagai rasul, kami tidak akan memerangimu." Nabi memerintahkan Ali menghapus frasa tersebut dan menggantinya dengan *"Muhammad bin Abdullah"*.^1 Ali merasa berat melakukannya, sehingga Nabi sendiri yang menunjukkan posisi tulisan itu dan menghapusnya.
 
-Ujian nyata perjanjian ini datang hampir seketika. **Abu Jandal bin Suhail bin Amr** — putra Suhail sendiri — muncul tersaruk-saruk di tengah negosiasi, masih terbelenggu rantai, dengan bekas luka siksaan di tubuhnya. Ia telah masuk Islam secara diam-diam dan disiksa oleh ayahnya. Ia memohon suaka kepada kaum Muslimin. Suhail bersikeras: "Ini orang pertama yang harus kau kembalikan kepadaku. ﴾1﴿" Dengan hati yang berat, Nabi menepati perjanjian dan meminta Abu Jandal bersabar. Pemandangan ini membuat banyak sahabat menangis.^1 ^2
+Ujian nyata perjanjian ini datang hampir seketika. **Abu Jandal bin Suhail bin Amr** — putra Suhail sendiri — muncul tersaruk-saruk di tengah negosiasi, masih terbelenggu rantai, dengan bekas luka siksaan di tubuhnya. Ia telah masuk Islam secara diam-diam dan disiksa oleh ayahnya. Ia memohon suaka kepada kaum Muslimin. Suhail bersikeras: "Ini orang pertama yang harus kau kembalikan kepadaku." Dengan hati yang berat, Nabi menepati perjanjian dan meminta Abu Jandal bersabar. Pemandangan ini membuat banyak sahabat menangis.^1 ^2
 
 ## Analisis: Mengapa Hudaibiyah Adalah Kemenangan
 
@@ -74,7 +74,7 @@ Al-Quran menyebut peristiwa ini sebagai *fath mubin* — kemenangan yang nyata:
 
 > إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا ﴿١﴾
 >
-> *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata. ﴾1﴿"*
+> *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."*
 > — QS. Al-Fath (48): 1
 
 Banyak sahabat awalnya kebingungan: di mana kemenangannya? Mereka pulang tanpa melakukan umrah, menerima klausul yang tampak berat sebelah, dan harus mengembalikan Muslim yang meminta suaka. Namun sejarah membuktikan bahwa Hudaibiyah adalah titik balik strategis yang sesungguhnya.^1 ^2 ^3

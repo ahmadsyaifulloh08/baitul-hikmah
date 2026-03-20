@@ -28,7 +28,7 @@ Umar ibn Abd al-Aziz's most consequential reform was in taxation. Under previous
 
 Umar ordered the abolition of the jizyah for all Muslims regardless of ethnicity. Al-Tabari records that when his governors protested that this policy would drastically reduce state revenue, Umar replied:^2
 
-*"By Allah, I wish that all people would embrace Islam so that you and I would have to earn our living with our own hands. ﴾90﴿"*
+*"By Allah, I wish that all people would embrace Islam so that you and I would have to earn our living with our own hands. "*
 
 ### Administrative Reforms
 

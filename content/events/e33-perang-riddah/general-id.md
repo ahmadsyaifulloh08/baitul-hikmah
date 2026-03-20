@@ -104,7 +104,7 @@ Peristiwa Riddah sesungguhnya telah diisyaratkan oleh al-Quran:
 > *"Wahai orang-orang yang beriman, barang siapa di antara kamu yang murtad dari agamanya, maka kelak Allah akan mendatangkan suatu kaum yang Allah mencintai mereka dan mereka pun mencintai-Nya, yang bersikap lemah lembut terhadap orang-orang mukmin, dan bersikap keras terhadap orang-orang kafir. ﴾54﴿"*
 > — QS. Al-Ma'idah (5): 54
 
-Para mufasir, termasuk Ibn Kathir, menafsirkan bahwa "kaum yang Allah cintai ﴾54﴿" dalam ayat ini merujuk kepada Abu Bakr dan para sahabat yang berperang melawan kemurtadan.^2
+Para mufasir, termasuk Ibn Kathir, menafsirkan bahwa "kaum yang Allah cintai " dalam ayat ini merujuk kepada Abu Bakr dan para sahabat yang berperang melawan kemurtadan.^2
 
 ---
 

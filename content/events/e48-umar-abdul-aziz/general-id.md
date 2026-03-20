@@ -28,7 +28,7 @@ Reformasi terpenting Umar ibn Abd al-Aziz adalah dalam bidang perpajakan. Di baw
 
 Umar memerintahkan penghapusan jizyah untuk seluruh Muslim tanpa memandang etnisitas. Al-Tabari mencatat bahwa ketika gubernur-gubernurnya memprotes bahwa kebijakan ini akan mengurangi pendapatan negara secara drastis, Umar menjawab:^2
 
-*"Demi Allah, aku berharap semua orang masuk Islam sehingga aku dan engkau harus mencari nafkah dengan tangan kita sendiri. ﴾90﴿"*
+*"Demi Allah, aku berharap semua orang masuk Islam sehingga aku dan engkau harus mencari nafkah dengan tangan kita sendiri. "*
 
 ### Reformasi Administratif
 

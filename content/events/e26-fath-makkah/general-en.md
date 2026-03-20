@@ -25,11 +25,11 @@ Imam al-Bukhari records:
 > *"O Messenger of Allah, do not be hasty with me. I was a man attached to Quraysh, but not truly one of them."*
 > — Sahih al-Bukhari, no. 3007, Kitab al-Jihad
 
-**Umar ibn al-Khattab** asked permission to execute Hatib, but the Prophet ﷺ said: *"Was he not among the people of Badr? Indeed, Allah looked upon the people of Badr and said: Do as you wish, for I have already forgiven you. ﴾1﴿"*^3 This pardon demonstrated a fundamental principle of the Prophet's leadership: judging a person by the totality of their service, not by a single mistake.
+**Umar ibn al-Khattab** asked permission to execute Hatib, but the Prophet ﷺ said: *"Was he not among the people of Badr? Indeed, Allah looked upon the people of Badr and said: Do as you wish, for I have already forgiven you."*^3 This pardon demonstrated a fundamental principle of the Prophet's leadership: judging a person by the totality of their service, not by a single mistake.
 
 On the 10th of Ramadan, 8 AH, the Prophet ﷺ departed from Madinah with approximately 10,000 men — the largest force he had ever led.^1 ^2 The army grew as various tribes joined along the way. At Marr al-Zahran (near Makkah), the Prophet ﷺ ordered every unit to light a campfire, filling the valley with thousands of blazing fires. This spectacle was designed to project overwhelming strength and break Quraysh's will to resist.^2
 
-It was here that **Abu Sufyan** came to survey the situation. **Al-Abbas ibn Abd al-Muttalib**, the Prophet's uncle who had recently emigrated, escorted Abu Sufyan to meet the Prophet ﷺ. When Abu Sufyan saw the sea of fires and the endless ranks of soldiers, he said to al-Abbas: *"Truly, your nephew's power has grown great."* Al-Abbas replied: *"This is prophethood."* Abu Sufyan said: *"Then, yes. ﴾1﴿"*^1
+It was here that **Abu Sufyan** came to survey the situation. **Al-Abbas ibn Abd al-Muttalib**, the Prophet's uncle who had recently emigrated, escorted Abu Sufyan to meet the Prophet ﷺ. When Abu Sufyan saw the sea of fires and the endless ranks of soldiers, he said to al-Abbas: *"Truly, your nephew's power has grown great."* Al-Abbas replied: *"This is prophethood."* Abu Sufyan said: *"Then, yes."*^1
 
 ## Key Dialogues and Evidence: Pivotal Moments of Liberation
 
@@ -37,7 +37,7 @@ The Prophet ﷺ entered Makkah on Friday, 20 Ramadan 8 AH (January 11, 630 CE), 
 
 > إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا ﴿١﴾
 >
-> *"Indeed, We have given you a clear conquest. ﴾1﴿"*
+> *"Indeed, We have given you a clear conquest."*
 > — QS. Al-Fath (48): 1
 
 The army was divided into four columns entering Makkah from four different directions.^1 **Khalid ibn al-Walid** led the right flank from the south. His column encountered brief resistance from a small group of Quraysh led by Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, but this was quickly suppressed.^1 The other columns met no resistance at all. Makkah was liberated with virtually no bloodshed — an extraordinary military and moral achievement.
@@ -51,9 +51,9 @@ After entering Makkah, the Prophet ﷺ proceeded to the Ka'bah. He performed *ta
 
 Then came the most historic moment. The Prophet ﷺ stood at the door of the Ka'bah facing the people of Makkah — people who had for twenty years tortured, expelled, boycotted, and attempted to kill him. They stood with bowed heads, awaiting their fate. The Prophet ﷺ asked:
 
-*"O people of Quraysh, what do you think I am going to do with you? ﴾81﴿"*
+*"O people of Quraysh, what do you think I am going to do with you? "*
 
-They answered: *"Good. You are a noble brother, the son of a noble brother. ﴾81﴿"*
+They answered: *"Good. You are a noble brother, the son of a noble brother."*
 
 The Prophet ﷺ declared:^1 ^2
 
@@ -99,7 +99,7 @@ The Conquest of Makkah permanently transformed the geopolitical map of the Arabi
 
 > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾
 >
-> *"When the help of Allah and the conquest come, ﴾1﴿ and you see the people entering the religion of Allah in multitudes. ﴾2﴿"*
+> *"When the help of Allah and the conquest come, and you see the people entering the religion of Allah in multitudes. ﴾2﴿"*
 > — QS. An-Nasr (110): 1-2
 
 ---

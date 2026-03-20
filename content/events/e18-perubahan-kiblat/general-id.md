@@ -28,17 +28,17 @@ Peristiwa ini terjadi secara langsung di tengah salat. Imam al-Bukhari meriwayat
 
 Bayangkan momen itu: di tengah salat, Nabi Muhammad ﷺ berputar arah — dari utara (Baitul Maqdis) ke selatan (Ka'bah). Seluruh jamaah yang salat di belakang beliau ikut berputar. Masjid tempat peristiwa ini terjadi kemudian dikenal sebagai **Masjid al-Qiblatayn** (Masjid Dua Kiblat), yang masih berdiri di Madinah hingga hari ini.
 
-Imam Muslim meriwayatkan dari Anas bin Malik bahwa kabar perubahan kiblat menyebar dengan cepat ke seluruh Madinah.^2 Sekelompok sahabat dari Bani Salamah sedang melaksanakan salat Subuh di masjid mereka ketika seseorang datang dan berseru: *"Sesungguhnya kiblat telah diubah! ﴾142﴿"* Mereka langsung berputar arah ke Ka'bah dalam keadaan masih salat — dalam posisi ruku', mereka bergeser hingga menghadap kiblat yang baru.^2
+Imam Muslim meriwayatkan dari Anas bin Malik bahwa kabar perubahan kiblat menyebar dengan cepat ke seluruh Madinah.^2 Sekelompok sahabat dari Bani Salamah sedang melaksanakan salat Subuh di masjid mereka ketika seseorang datang dan berseru: *"Sesungguhnya kiblat telah diubah!"* Mereka langsung berputar arah ke Ka'bah dalam keadaan masih salat — dalam posisi ruku', mereka bergeser hingga menghadap kiblat yang baru.^2
 
 ## Dialog dan Dalil: Respons dan Kontroversi
 
-Perubahan kiblat memicu reaksi beragam. Kaum *munafiqin* (orang-orang munafik) dan sebagian kaum Yahudi Madinah menjadikannya bahan serangan. Mereka bertanya dengan nada merendahkan: *"Apa yang memalingkan mereka dari kiblat yang selama ini mereka hadapi? ﴾142﴿"*
+Perubahan kiblat memicu reaksi beragam. Kaum *munafiqin* (orang-orang munafik) dan sebagian kaum Yahudi Madinah menjadikannya bahan serangan. Mereka bertanya dengan nada merendahkan: *"Apa yang memalingkan mereka dari kiblat yang selama ini mereka hadapi?"*
 
 Al-Quran menjawab langsung:
 
 > سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَن قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا ۚ قُل لِّلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ ﴿١٤٢﴾
 >
-> *"Orang-orang yang bodoh di antara manusia akan berkata: 'Apakah yang memalingkan mereka dari kiblat yang selama ini mereka hadapi?' Katakanlah: 'Milik Allah-lah timur dan barat. Dia memberi petunjuk kepada siapa yang Dia kehendaki ke jalan yang lurus.' ﴾142﴿"*
+> *"Orang-orang yang bodoh di antara manusia akan berkata: 'Apakah yang memalingkan mereka dari kiblat yang selama ini mereka hadapi?' Katakanlah: 'Milik Allah-lah timur dan barat. Dia memberi petunjuk kepada siapa yang Dia kehendaki ke jalan yang lurus.'"*
 > — QS. Al-Baqarah (2): 142
 
 Al-Quran juga menjelaskan bahwa perubahan kiblat adalah ujian keimanan:

@@ -58,7 +58,7 @@ In 656 CE, groups of rebels from Egypt, Kufa, and Basra arrived in Madinah under
 
 Ibn Kathir relates that Uthman said to his supporters:^2
 
-*"I forbid anyone who acknowledges my right to fight on my behalf. Whoever wishes to obey me, let him restrain his hand. ﴾137﴿"*
+*"I forbid anyone who acknowledges my right to fight on my behalf. Whoever wishes to obey me, let him restrain his hand. "*
 
 On Friday, 18 Dhul Hijjah 35 AH (17 June 656 CE), the rebels broke into Uthman's house and killed him while he was reading the Quran.^1 ^2 ^3 His blood fell upon the open *mushaf* at the verse:
 

@@ -112,14 +112,14 @@ Pengalaman yatim piatu Nabi Muhammad ﷺ memiliki dampak langsung pada syariat I
 
 > إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ﴿١٠﴾
 >
-> *"Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya. ﴾10﴿"*
+> *"Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya. "*
 > — QS. An-Nisa (4): 10)
 
 Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan:^3
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >
-> *"Aku dan orang yang menanggung anak yatim akan berada di surga seperti ini. ﴾10﴿"* — sambil mengisyaratkan jari telunjuk dan jari tengahnya yang dirapatkan.
+> *"Aku dan orang yang menanggung anak yatim akan berada di surga seperti ini. "* — sambil mengisyaratkan jari telunjuk dan jari tengahnya yang dirapatkan.
 > (HR. Bukhari, no. 5304)
 
 ## Kronologi Ringkas

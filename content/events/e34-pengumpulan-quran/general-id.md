@@ -57,14 +57,14 @@ Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin 
 
 Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid berkata:^1
 
-*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah: 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. ﴾128﴿"*
+*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah: 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
 
 > لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ﴿١٢٨﴾
 >
 > *"Sungguh telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaanmu, sangat menginginkan keimanan dan keselamatan bagimu, amat belas kasihan lagi penyayang terhadap orang-orang mukmin. ﴾128﴿"*
 > — QS. Al-Taubah (9): 128
 
-Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah ﴾128﴿" adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^2
+Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^2
 
 ### Penyimpanan Mushaf
 
@@ -81,7 +81,7 @@ Proyek pengumpulan al-Quran ini, dalam perspektif teologis Islam, merupakan perw
 > *"Sesungguhnya Kami-lah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama menafsirkan bahwa "pemeliharaan ﴾9﴿" Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^2
+Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^2
 
 ### Perbedaan dengan Pengumpulan Utsmani
 

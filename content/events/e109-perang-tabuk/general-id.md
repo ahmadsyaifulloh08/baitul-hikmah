@@ -21,7 +21,7 @@ Al-Quran merekam ujian ini:
 
 Dalam kondisi sulit ini, kemuliaan para sahabat bersinar terang:
 
-**Abu Bakr as-Siddiq** menyumbangkan **seluruh hartanya**. Ketika Rasulullah ﷺ bertanya: *"Apa yang kamu sisakan untuk keluargamu?"* Abu Bakr menjawab: *"Aku sisakan Allah dan Rasul-Nya. ﴾41﴿"*^3
+**Abu Bakr as-Siddiq** menyumbangkan **seluruh hartanya**. Ketika Rasulullah ﷺ bertanya: *"Apa yang kamu sisakan untuk keluargamu?"* Abu Bakr menjawab: *"Aku sisakan Allah dan Rasul-Nya."*^3
 
 **Utsman ibn Affan** membiayai sepertiga pasukan dengan sumbangan yang sangat besar — 300 unta lengkap dengan pelana dan perlengkapannya, 1.000 dinar emas, dan perlengkapan perang lainnya. Rasulullah ﷺ bersabda:^3
 
@@ -48,7 +48,7 @@ Di sisi lain, ada tujuh orang sahabat yang datang meminta tunggangan untuk ikut 
 
 Ekspedisi Tabuk menjadi ujian yang memisahkan orang beriman sejati dari kaum munafik secara paling gamblang. Surah At-Taubah — yang turun berkaitan dengan peristiwa Tabuk — membongkar habis kedok kaum munafik.
 
-Mereka mencari-cari alasan untuk tidak ikut berperang. Sebagian meminta izin dengan alasan palsu. Al-Jadd bin Qais berkata: *"Izinkan aku dan jangan engkau fitnah aku — aku takut tergoda oleh perempuan-perempuan Romawi. ﴾49﴿"*^1 Allah menjawabnya:
+Mereka mencari-cari alasan untuk tidak ikut berperang. Sebagian meminta izin dengan alasan palsu. Al-Jadd bin Qais berkata: *"Izinkan aku dan jangan engkau fitnah aku — aku takut tergoda oleh perempuan-perempuan Romawi."*^1 Allah menjawabnya:
 
 > أَلَا فِي الْفِتْنَةِ سَقَطُوا ﴿٤٩﴾
 >
@@ -63,9 +63,9 @@ Salah satu kisah paling terkenal dari Tabuk adalah kisah **Ka'b bin Malik** — 
 
 Ketika Rasulullah ﷺ kembali ke Madinah, beliau bertanya kepada setiap orang yang tidak ikut tentang alasan mereka. Kaum munafik bersumpah dengan alasan-alasan palsu, dan Rasulullah ﷺ menerima lahiriah mereka sambil menyerahkan batin mereka kepada Allah. Namun Ka'b memilih jujur:^3
 
-*"Wahai Rasulullah, demi Allah, seandainya aku duduk di hadapan seorang penguasa dunia selain engkau, niscaya aku bisa keluar dari kemarahannya dengan dalih. Aku dianugerahi kemampuan berargumen. Tapi demi Allah, aku tahu bahwa jika aku berdusta kepadamu hari ini, Allah pasti akan membuatmu murka kepadaku. Dan jika aku berkata jujur — walaupun engkau marah — aku berharap Allah akan memberikan jalan keluar yang baik. Demi Allah, aku tidak punya uzur. Aku dalam keadaan paling kuat dan paling berkecukupan saat aku tertinggal darimu. ﴾118﴿"*
+*"Wahai Rasulullah, demi Allah, seandainya aku duduk di hadapan seorang penguasa dunia selain engkau, niscaya aku bisa keluar dari kemarahannya dengan dalih. Aku dianugerahi kemampuan berargumen. Tapi demi Allah, aku tahu bahwa jika aku berdusta kepadamu hari ini, Allah pasti akan membuatmu murka kepadaku. Dan jika aku berkata jujur — walaupun engkau marah — aku berharap Allah akan memberikan jalan keluar yang baik. Demi Allah, aku tidak punya uzur. Aku dalam keadaan paling kuat dan paling berkecukupan saat aku tertinggal darimu."*
 
-Rasulullah ﷺ berkata: *"Adapun orang ini, dia telah berkata jujur. ﴾118﴿"* Namun Ka'b dihukum dengan **pemboikotan selama lima puluh hari** — tidak ada seorang pun yang boleh berbicara dengannya. Bumi yang luas terasa sempit baginya.^4 Setelah lima puluh hari yang menyiksa, Allah menurunkan ayat menerima taubat mereka:^3
+Rasulullah ﷺ berkata: *"Adapun orang ini, dia telah berkata jujur. "* Namun Ka'b dihukum dengan **pemboikotan selama lima puluh hari** — tidak ada seorang pun yang boleh berbicara dengannya. Bumi yang luas terasa sempit baginya.^4 Setelah lima puluh hari yang menyiksa, Allah menurunkan ayat menerima taubat mereka:^3
 
 > وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا ﴿١١٨﴾
 >

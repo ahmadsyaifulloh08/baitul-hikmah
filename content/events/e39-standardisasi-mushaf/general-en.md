@@ -49,7 +49,7 @@ Once the copying was complete, Uthman took a bold and decisive step:^1 ^2
 
 Imam al-Bukhari narrates:^1
 
-*"Uthman sent the copies to every region and ordered that every Quranic manuscript or sheet other than the (standard) copies be burned. ﴾9﴿"*
+*"Uthman sent the copies to every region and ordered that every Quranic manuscript or sheet other than the (standard) copies be burned. "*
 
 This decision was not without controversy. Abdullah ibn Mas'ud, a senior companion who possessed his own personal *mushaf* with a slightly different arrangement of chapters, initially objected.^3 However, the vast majority of companions supported Uthman's decision, recognizing the urgency of unity in Quranic recitation.
 
@@ -64,7 +64,7 @@ The Quran itself guarantees its own preservation by Allah:
 
 Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:^2
 
-*"What Uthman did was unite the ummah upon a single mushaf and a single mode of the seven modes — not eliminate anything from the Quran. This was the consensus (ijma') of the companions. ﴾9﴿"*
+*"What Uthman did was unite the ummah upon a single mushaf and a single mode of the seven modes — not eliminate anything from the Quran. This was the consensus (ijma') of the companions. "*
 
 The hadith on the seven *ahruf*, narrated by both al-Bukhari and Muslim, provides the foundational understanding that recitation variants indeed originated from the Prophet ﷺ himself:
 

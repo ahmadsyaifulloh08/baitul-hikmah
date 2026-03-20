@@ -117,21 +117,21 @@ Abu Bakr praised Allah, then spoke the words that would echo through the ages of
 
 > مَنْ كَانَ مِنْكُمْ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ وَمَنْ كَانَ مِنْكُمْ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ
 >
-> *"Whoever among you worshipped Muhammad — then Muhammad has died. And whoever among you worshipped Allah — then Allah is Ever-Living and shall never die. ﴾144﴿"*
+> *"Whoever among you worshipped Muhammad — then Muhammad has died. And whoever among you worshipped Allah — then Allah is Ever-Living and shall never die."*
 > — Narrated by al-Bukhari, no. 3667
 
 Then Abu Bakr recited the Quranic verse:
 
 > وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ﴿١٤٤﴾
 >
-> *"Muhammad is not but a messenger. Other messengers have passed before him. So if he were to die or be killed, would you turn back on your heels? ﴾144﴿"*
+> *"Muhammad is not but a messenger. Other messengers have passed before him. So if he were to die or be killed, would you turn back on your heels?"*
 > — QS. Ali Imran (3): 144
 
-Al-Bukhari narrates that when Abu Bakr recited this verse, the people felt as though they were hearing it for the first time — even though they had memorized it years ago. Umar collapsed to the ground — his legs could no longer support him. He said: *"By Allah, it was as though I had never heard this verse until Abu Bakr recited it. ﴾144﴿"*^1
+Al-Bukhari narrates that when Abu Bakr recited this verse, the people felt as though they were hearing it for the first time — even though they had memorized it years ago. Umar collapsed to the ground — his legs could no longer support him. He said: *"By Allah, it was as though I had never heard this verse until Abu Bakr recited it."*^1
 
 ### Grief Engulfing Madinah
 
-Ibn Sa'd in *Tabaqat al-Kubra* describes Madinah on that day as a city submerged in grief unlike anything it had known before. Anas ibn Malik said: *"The day the Messenger of Allah ﷺ came to Madinah, everything was radiant. And the day he died, everything turned dark. We had scarcely dusted off our hands from burying him before we felt our very hearts had changed. ﴾144﴿"*^3
+Ibn Sa'd in *Tabaqat al-Kubra* describes Madinah on that day as a city submerged in grief unlike anything it had known before. Anas ibn Malik said: *"The day the Messenger of Allah ﷺ came to Madinah, everything was radiant. And the day he died, everything turned dark. We had scarcely dusted off our hands from burying him before we felt our very hearts had changed."*^3
 
 ## Washing, Funeral Prayer, and Burial
 

@@ -58,7 +58,7 @@ Pada tahun 656 M, sekelompok pemberontak dari Mesir, Kufah, dan Bashrah datang k
 
 Ibn Kathir meriwayatkan bahwa Utsman berkata kepada para pendukungnya:^2
 
-*"Aku melarang siapa pun yang mengakui hakku untuk berperang demi diriku. Siapa pun yang ingin taat kepadaku, maka tahanlah tangannya. ﴾137﴿"*
+*"Aku melarang siapa pun yang mengakui hakku untuk berperang demi diriku. Siapa pun yang ingin taat kepadaku, maka tahanlah tangannya. "*
 
 Pada hari Jumat, 18 Dzulhijjah 35 H (17 Juni 656 M), para pemberontak menerobos masuk ke rumah Utsman dan membunuhnya saat ia sedang membaca al-Quran.^1 ^2 ^3 Darahnya menetes di atas mushaf yang terbuka pada ayat:
 

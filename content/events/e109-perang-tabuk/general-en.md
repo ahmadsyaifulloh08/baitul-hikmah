@@ -21,7 +21,7 @@ The Quran recorded this trial:
 
 In these difficult conditions, the nobility of the companions shone brilliantly:
 
-**Abu Bakr al-Siddiq** donated **all of his wealth**. When the Prophet ﷺ asked: *"What have you left for your family?"* Abu Bakr replied: *"I have left them Allah and His Messenger. ﴾41﴿"*^3
+**Abu Bakr al-Siddiq** donated **all of his wealth**. When the Prophet ﷺ asked: *"What have you left for your family?"* Abu Bakr replied: *"I have left them Allah and His Messenger."*^3
 
 **Uthman ibn Affan** financed a third of the army with an enormous contribution — 300 camels fully equipped with saddles and gear, 1,000 gold dinars, and other military supplies. The Prophet ﷺ said:^3
 
@@ -48,7 +48,7 @@ There were also seven companions who came asking for mounts to join the expediti
 
 The Tabuk expedition became the test that most clearly separated true believers from hypocrites. Surah At-Tawbah — revealed in connection with Tabuk — thoroughly exposed the masks of the hypocrites.
 
-They searched for excuses not to join the expedition. Some requested exemption on false pretenses. Al-Jadd ibn Qays said: *"Permit me to stay and do not tempt me — I fear being seduced by Roman women. ﴾49﴿"*^1 Allah responded:
+They searched for excuses not to join the expedition. Some requested exemption on false pretenses. Al-Jadd ibn Qays said: *"Permit me to stay and do not tempt me — I fear being seduced by Roman women."*^1 Allah responded:
 
 > أَلَا فِي الْفِتْنَةِ سَقَطُوا ﴿٤٩﴾
 >
@@ -63,9 +63,9 @@ One of the most celebrated stories from Tabuk is that of **Ka'b ibn Malik** — 
 
 When the Prophet ﷺ returned to Madinah, he asked everyone who had stayed behind about their reasons. The hypocrites swore false oaths, and the Prophet ﷺ accepted their outward claims while leaving their inner truth to Allah. But Ka'b chose honesty:^3
 
-*"O Messenger of Allah, by Allah, were I sitting before any ruler in the world other than you, I could talk my way out of his anger with excuses. I have been given the gift of argument. But by Allah, I know that if I lie to you today, Allah will surely make you angry with me. And if I tell the truth — even if you are angry — I hope Allah will grant me a good outcome. By Allah, I had no excuse. I was at my strongest and most prosperous when I stayed behind. ﴾118﴿"*
+*"O Messenger of Allah, by Allah, were I sitting before any ruler in the world other than you, I could talk my way out of his anger with excuses. I have been given the gift of argument. But by Allah, I know that if I lie to you today, Allah will surely make you angry with me. And if I tell the truth — even if you are angry — I hope Allah will grant me a good outcome. By Allah, I had no excuse. I was at my strongest and most prosperous when I stayed behind. "*
 
-The Prophet ﷺ said: *"As for this man, he has spoken the truth. ﴾118﴿"* But Ka'b was punished with a **fifty-day boycott** — no one was permitted to speak to him. The vast earth felt confining. After fifty agonizing days, Allah revealed the verse accepting their repentance:^3
+The Prophet ﷺ said: *"As for this man, he has spoken the truth."* But Ka'b was punished with a **fifty-day boycott** — no one was permitted to speak to him. The vast earth felt confining. After fifty agonizing days, Allah revealed the verse accepting their repentance:^3
 
 > وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا حَتَّىٰ إِذَا ضَاقَتْ عَلَيْهِمُ الْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوا أَن لَّا مَلْجَأَ مِنَ اللَّهِ إِلَّا إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا ﴿١١٨﴾
 >

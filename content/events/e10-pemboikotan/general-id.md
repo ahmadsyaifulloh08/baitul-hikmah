@@ -44,9 +44,9 @@ Tindakan-tindakan kemanusiaan individual ini, meskipun dilakukan secara sembunyi
 
 Pada tahun kesepuluh kenabian (619 M), gerakan pembatalan pemboikotan akhirnya membuahkan hasil. Lima orang Quraisy yang memiliki keberanian moral — **Hisyam bin Amr**, **Zuhair bin Abi Umayyah**, **al-Muth'im bin Adi**, **Abu al-Bakhtari bin Hisyam**, dan **Zam'ah bin al-Aswad** — bersepakat untuk menentang piagam tersebut secara terbuka.^1
 
-Zuhair bin Abi Umayyah memulai aksi di depan Ka'bah dengan berseru kepada penduduk Makkah: "Wahai penduduk Makkah! Apakah pantas kita makan dan berpakaian sementara Bani Hasyim binasa, tidak bisa berjual beli? Demi Allah, aku tidak akan duduk tenang sampai piagam pemutus silaturahmi yang zalim ini dirobek! ﴾214﴿"^1
+Zuhair bin Abi Umayyah memulai aksi di depan Ka'bah dengan berseru kepada penduduk Makkah: "Wahai penduduk Makkah! Apakah pantas kita makan dan berpakaian sementara Bani Hasyim binasa, tidak bisa berjual beli? Demi Allah, aku tidak akan duduk tenang sampai piagam pemutus silaturahmi yang zalim ini dirobek!"^1
 
-**Abu Jahl** berusaha menggagalkan upaya ini, namun kelima orang tersebut saling mendukung satu sama lain. Ketika piagam akhirnya diambil dari dalam Ka'bah, ditemukan bahwa rayap telah memakan seluruh isi tulisannya kecuali kalimat *"Bismika Allahumma ﴾214﴿"* (Dengan nama-Mu, ya Allah). Nabi Muhammad SAW sebelumnya telah memberitahukan hal ini kepada Abu Thalib melalui wahyu yang diterimanya, dan ketika piagam dibuka, terbukti persis seperti yang beliau sampaikan.^1
+**Abu Jahl** berusaha menggagalkan upaya ini, namun kelima orang tersebut saling mendukung satu sama lain. Ketika piagam akhirnya diambil dari dalam Ka'bah, ditemukan bahwa rayap telah memakan seluruh isi tulisannya kecuali kalimat *"Bismika Allahumma "* (Dengan nama-Mu, ya Allah). Nabi Muhammad SAW sebelumnya telah memberitahukan hal ini kepada Abu Thalib melalui wahyu yang diterimanya, dan ketika piagam dibuka, terbukti persis seperti yang beliau sampaikan.^1
 
 ## Dialog dan Dalil
 
@@ -57,7 +57,7 @@ Peristiwa pemboikotan memiliki kaitan dengan beberapa dalil penting. Terkait pen
 > *"Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum datang kepadamu (cobaan) seperti (yang dialami) orang-orang terdahulu sebelum kamu? Mereka ditimpa kesengsaraan dan penderitaan serta diguncang (dengan bermacam-macam cobaan). ﴾214﴿"*
 > — QS. Al-Baqarah (2): 214
 
-Terkait dimakan rayapnya piagam pemboikotan, peristiwa ini diriwayatkan oleh Ibn Ishaq melalui jalur sanad yang menunjukkan bahwa Nabi Muhammad SAW menerima kabar tersebut melalui wahyu dan menyampaikannya kepada Abu Thalib sebelum piagam dibuka.^1 Abu Thalib kemudian mendatangi majelis Quraisy dan berkata: "Keponakanku memberitahuku bahwa Allah telah mengirimkan rayap kepada piagam kalian, yang memakan semua isinya kecuali nama Allah. Jika ia benar, hentikanlah apa yang kalian lakukan terhadap kami. Dan jika ia dusta, aku akan menyerahkannya kepada kalian. ﴾214﴿"^1
+Terkait dimakan rayapnya piagam pemboikotan, peristiwa ini diriwayatkan oleh Ibn Ishaq melalui jalur sanad yang menunjukkan bahwa Nabi Muhammad SAW menerima kabar tersebut melalui wahyu dan menyampaikannya kepada Abu Thalib sebelum piagam dibuka.^1 Abu Thalib kemudian mendatangi majelis Quraisy dan berkata: "Keponakanku memberitahuku bahwa Allah telah mengirimkan rayap kepada piagam kalian, yang memakan semua isinya kecuali nama Allah. Jika ia benar, hentikanlah apa yang kalian lakukan terhadap kami. Dan jika ia dusta, aku akan menyerahkannya kepada kalian. "^1
 
 ## Analisis dan Hikmah
 

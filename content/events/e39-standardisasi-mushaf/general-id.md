@@ -49,7 +49,7 @@ Setelah proses penyalinan selesai, Utsman mengambil langkah yang berani dan tega
 
 Imam al-Bukhari meriwayatkan:^1
 
-*"Utsman mengirimkan mushaf-mushaf tersebut ke setiap wilayah, dan memerintahkan agar setiap mushaf atau lembaran al-Quran selain mushaf (standar) itu dibakar. ﴾9﴿"*
+*"Utsman mengirimkan mushaf-mushaf tersebut ke setiap wilayah, dan memerintahkan agar setiap mushaf atau lembaran al-Quran selain mushaf (standar) itu dibakar. "*
 
 Keputusan ini tidak tanpa kontroversi. Abdullah ibn Mas'ud, sahabat senior yang memiliki mushaf pribadinya sendiri dengan susunan surat yang sedikit berbeda, awalnya keberatan.^3 Namun mayoritas sahabat mendukung keputusan Utsman, menyadari urgensi persatuan dalam bacaan al-Quran.
 
@@ -64,7 +64,7 @@ Al-Quran sendiri menjamin pemeliharaannya oleh Allah:
 
 Para ulama memandang proyek standardisasi Utsman sebagai salah satu wujud nyata dari janji ilahi ini. Al-Suyuti menulis:^2
 
-*"Yang dilakukan Utsman adalah mengumpulkan umat pada satu mushaf dan satu huruf dari tujuh huruf, bukan menghilangkan sesuatu dari al-Quran. Ini adalah ijma' (konsensus) sahabat. ﴾9﴿"*
+*"Yang dilakukan Utsman adalah mengumpulkan umat pada satu mushaf dan satu huruf dari tujuh huruf, bukan menghilangkan sesuatu dari al-Quran. Ini adalah ijma' (konsensus) sahabat. "*
 
 Hadits tentang tujuh *ahruf* yang diriwayatkan Imam al-Bukhari dan Muslim menjadi dasar pemahaman bahwa variasi bacaan memang berasal dari Nabi ﷺ sendiri:^4
 

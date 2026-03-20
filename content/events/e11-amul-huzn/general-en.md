@@ -22,7 +22,7 @@ In Sahih al-Bukhari it is narrated:
 
 > قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَالِبٍ: قُلْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ. قَالَ: لَوْلاَ أَنْ تُعَيِّرَنِي قُرَيْشٌ يَقُولُونَ إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللَّهُ: إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ
 >
-> *"The Prophet SAW said to Abu Talib: 'Say La ilaha illallah, and I will testify on your behalf with it on the Day of Judgment.' Abu Talib replied: 'Were it not that the Quraysh would reproach me — they would say I uttered it only out of fear — I would have cooled your eyes with it.' Then Allah revealed: 'Indeed, you do not guide whom you love.' ﴾56﴿"*
+> *"The Prophet SAW said to Abu Talib: 'Say La ilaha illallah, and I will testify on your behalf with it on the Day of Judgment.' Abu Talib replied: 'Were it not that the Quraysh would reproach me — they would say I uttered it only out of fear — I would have cooled your eyes with it.' Then Allah revealed: 'Indeed, you do not guide whom you love.'"*
 > — Narrated by al-Bukhari, no. 1360, Kitab al-Jana'iz
 
 The verse revealed in connection with this event was:

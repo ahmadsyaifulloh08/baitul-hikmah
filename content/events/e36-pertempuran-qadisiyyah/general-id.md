@@ -57,7 +57,7 @@ Ketika Sa'ad bin Abi Waqqash — yang saat itu sedang sakit bisul sehingga tidak
 
 Al-Baladhuri juga mencatat pesan Umar kepada Sa'ad sebelum keberangkatan:^2
 
-*"Wahai Sa'ad, janganlah engkau terpedaya oleh kenyataan bahwa engkau disebut paman Rasulullah. Sesungguhnya Allah tidak menghapus kejahatan dengan kejahatan, tetapi menghapus kejahatan dengan kebaikan. Sesungguhnya tidak ada hubungan antara Allah dan siapa pun kecuali melalui ketaatan. ﴾105﴿"*
+*"Wahai Sa'ad, janganlah engkau terpedaya oleh kenyataan bahwa engkau disebut paman Rasulullah. Sesungguhnya Allah tidak menghapus kejahatan dengan kejahatan, tetapi menghapus kejahatan dengan kebaikan. Sesungguhnya tidak ada hubungan antara Allah dan siapa pun kecuali melalui ketaatan. "*
 
 ## Analisis dan Hikmah: Runtuhnya Sebuah Adidaya
 

@@ -43,7 +43,7 @@ Sebelum pertempuran umum dimulai, Nabi Muhammad ﷺ berdoa dengan sangat khusyuk
 > *"Ya Allah, tunaikanlah janji-Mu kepadaku. Ya Allah, berikanlah apa yang Engkau janjikan kepadaku. Ya Allah, jika Engkau membinasakan kelompok kecil ahli Islam ini, Engkau tidak akan disembah lagi di muka bumi."*
 > — HR Bukhari, no. 2915, Kitab al-Jihad
 
-Abu Bakr melihat betapa intens doa Nabi dan berkata: *"Cukuplah, wahai Rasulullah. Sesungguhnya Allah pasti menepati janji-Nya kepadamu. ﴾9﴿"*^1
+Abu Bakr melihat betapa intens doa Nabi dan berkata: *"Cukuplah, wahai Rasulullah. Sesungguhnya Allah pasti menepati janji-Nya kepadamu."*^1
 
 Pertempuran berlangsung singkat namun dahsyat. Meskipun kalah jumlah secara dramatis, pasukan Muslim meraih kemenangan telak. **70 prajurit Quraisy** tewas — termasuk Abu Jahl sendiri — dan **70 orang lainnya ditawan**. Dari pihak Muslim, 14 sahabat gugur sebagai syuhada.^1 ^2
 

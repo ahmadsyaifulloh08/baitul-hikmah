@@ -38,9 +38,9 @@ Rather than heading directly north toward Madinah — the obvious route the Qura
 
 Al-Bukhari narrates the events inside the cave in vivid detail.^3 Abu Bakr entered first and cleaned the cave of holes that might harbour snakes or scorpions, plugging them with torn pieces of his own garment. When one hole remained and he had no cloth left, he sealed it with his heel. A snake bit his heel, but Abu Bakr did not move so as not to wake the Prophet, who slept with his head in Abu Bakr's lap.^3
 
-The most dramatic moment came when the Quraysh trackers reached the mouth of the cave. Abu Bakr whispered in anguish: *"O Messenger of Allah, if any of them were to look beneath his feet, he would see us. ﴾40﴿"* Prophet Muhammad ﷺ replied with extraordinary calm:
+The most dramatic moment came when the Quraysh trackers reached the mouth of the cave. Abu Bakr whispered in anguish: *"O Messenger of Allah, if any of them were to look beneath his feet, he would see us."* Prophet Muhammad ﷺ replied with extraordinary calm:
 
-*"O Abu Bakr, what do you think of two whose third is Allah? ﴾40﴿"*^3
+*"O Abu Bakr, what do you think of two whose third is Allah? "*^3
 
 The Quran immortalised this moment:
 

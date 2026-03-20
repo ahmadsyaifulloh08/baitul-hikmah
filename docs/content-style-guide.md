@@ -36,16 +36,20 @@ and guided you. And He found you in need and made you self-sufficient."
 
 **✅ BENAR — terjemahan dengan pemisah per ayat:**
 ```
-"Did He not find you an orphan and give you refuge? ﴿6﴾ And He found you 
-lost and guided you. ﴿7﴾ And He found you in need and made you 
-self-sufficient. ﴿8﴾"
+"Did He not find you an orphan and give you refuge? ﴾6﴿ And He found you 
+lost and guided you. ﴾7﴿ And He found you in need and made you 
+self-sufficient. ﴾8﴿"
 ```
 
 **Aturan:**
-- Nomor ayat di terjemahan menggunakan angka ARAB (1, 2, 3...) bukan Arabic numerals (١, ٢, ٣)
-- Teks Arab tetap menggunakan Arabic numerals: `﴿١﴾ ﴿٢﴾ ﴿٣﴾`
-- Untuk kutipan 1 ayat saja, pemisah TETAP wajib: `"...give you refuge? ﴿6﴾"`
+- Terjemahan (LTR) menggunakan `﴾N﴿` dengan angka Western (1, 2, 3...) — bracket terbalik agar render `{N}` di teks kiri-ke-kanan
+- Teks Arab (RTL) tetap menggunakan `﴿N﴾` dengan Arabic numerals: `﴿١﴾ ﴿٢﴾ ﴿٣﴾`
+- Untuk kutipan 1 ayat saja, pemisah TETAP wajib: `"...give you refuge? ﴾6﴿"`
 - Posisi pemisah: SETELAH tanda baca akhir kalimat ayat (setelah titik/tanya/seru)
+
+**⚠️ JANGAN TERTUKAR:**
+- `﴿N﴾` = untuk teks Arab (RTL) → tampil benar di RTL
+- `﴾N﴿` = untuk terjemahan ID/EN (LTR) → tampil benar di LTR
 
 ---
 

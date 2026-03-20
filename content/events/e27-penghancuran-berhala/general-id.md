@@ -84,7 +84,7 @@ Al-Quran menjelaskan misi awal pembangunan Ka'bah:
 
 ### Simbol Runtuhnya Sistem Lama
 
-Penghancuran 360 berhala dalam satu hari adalah deklarasi bahwa seluruh sistem kepercayaan jahiliah telah berakhir. Setiap berhala mewakili satu aspek dari tatanan sosial lama — hierarki kesukuan, sistem perbudakan spiritual, dan ketidakadilan yang dilegitimasi oleh "tradisi nenek moyang. ﴾26﴿" Ketika berhala-berhala itu jatuh, fondasi intelektual dan spiritual dari seluruh sistem itu runtuh bersamanya.
+Penghancuran 360 berhala dalam satu hari adalah deklarasi bahwa seluruh sistem kepercayaan jahiliah telah berakhir. Setiap berhala mewakili satu aspek dari tatanan sosial lama — hierarki kesukuan, sistem perbudakan spiritual, dan ketidakadilan yang dilegitimasi oleh "tradisi nenek moyang. " Ketika berhala-berhala itu jatuh, fondasi intelektual dan spiritual dari seluruh sistem itu runtuh bersamanya.
 
 ### Bilal di Atas Ka'bah
 

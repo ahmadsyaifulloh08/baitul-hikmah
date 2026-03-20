@@ -14,7 +14,7 @@ For this purpose, the Prophet ordered the crafting of a silver signet ring inscr
 
 Prophet Muhammad ﷺ dispatched **Dihyah ibn Khalifah al-Kalbi** to deliver a letter to Heraclius, the Byzantine emperor who had recently achieved a great victory over Persia. The letter read:^1
 
-*"In the Name of Allah, the Most Gracious, the Most Merciful. From Muhammad, the servant of Allah and His Messenger, to Heraclius, the great one of Rome. Peace be upon those who follow guidance. To proceed: I invite you with the call of Islam. Embrace Islam and you shall be safe, and Allah will give you a double reward. If you turn away, you bear the sin of your subjects... ﴾64﴿"*
+*"In the Name of Allah, the Most Gracious, the Most Merciful. From Muhammad, the servant of Allah and His Messenger, to Heraclius, the great one of Rome. Peace be upon those who follow guidance. To proceed: I invite you with the call of Islam. Embrace Islam and you shall be safe, and Allah will give you a double reward. If you turn away, you bear the sin of your subjects... "*
 
 The letter then quoted a Quranic verse:
 
@@ -25,7 +25,7 @@ The letter then quoted a Quranic verse:
 
 Heraclius's reaction was remarkable and documented in detail in Sahih al-Bukhari through an extended narration from Abu Sufyan. At that time, Abu Sufyan — still a polytheist — happened to be in al-Sham on a trading mission. Heraclius summoned him and posed a series of questions about Muhammad: his lineage, his followers, his teachings, whether he had ever lied, whether his followers were increasing or decreasing.^1
 
-After hearing all of Abu Sufyan's answers, Heraclius concluded: *"If what you say is true, he will come to rule the ground beneath my feet."* Abu Sufyan later said: *"I left there convinced that the affair of Ibn Abi Kabshah [a derogatory name for Muhammad] would become great. ﴾64﴿"*^1
+After hearing all of Abu Sufyan's answers, Heraclius concluded: *"If what you say is true, he will come to rule the ground beneath my feet."* Abu Sufyan later said: *"I left there convinced that the affair of Ibn Abi Kabshah [a derogatory name for Muhammad] would become great."*^1
 
 Heraclius appeared interested and even inclined toward accepting Islam, but pressure from his court officials forced him to retreat. He did not embrace Islam, but neither did he tear up the Prophet's letter — a gesture that indicated respect.^1 ^2
 

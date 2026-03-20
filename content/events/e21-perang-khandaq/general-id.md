@@ -52,7 +52,7 @@ Nabi Muhammad ﷺ merespons dengan diplomasi cerdas. Beliau mengutus **Nu'aim bi
 
 Puncak pertolongan datang secara dramatis. Allah mengirimkan angin kencang dan badai pasir yang sangat dingin — diriwayatkan terjadi pada malam yang sangat gelap. Angin ini menerbangkan kemah-kemah pasukan koalisi, memadamkan api mereka, membalikkan periuk-periuk masak mereka, dan menciptakan kekacauan di perkemahan musuh.^1 ^2
 
-Abu Sufyan, yang sudah lelah dengan pengepungan yang berlarut-larut, akhirnya memutuskan untuk mundur. Ia berteriak di tengah malam: *"Wahai orang-orang Quraisy, kembalilah! Sesungguhnya aku akan pulang! ﴾9﴿"* Dan dengan itu, koalisi terbesar yang pernah dibentuk untuk melawan Islam, bubar tanpa berhasil memasuki Madinah.
+Abu Sufyan, yang sudah lelah dengan pengepungan yang berlarut-larut, akhirnya memutuskan untuk mundur. Ia berteriak di tengah malam: *"Wahai orang-orang Quraisy, kembalilah! Sesungguhnya aku akan pulang!"* Dan dengan itu, koalisi terbesar yang pernah dibentuk untuk melawan Islam, bubar tanpa berhasil memasuki Madinah.
 
 ## Dialog dan Dalil
 

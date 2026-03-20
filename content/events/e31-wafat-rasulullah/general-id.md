@@ -117,21 +117,21 @@ Abu Bakr memuji Allah, lalu berkata dengan kalimat yang akan dikenang sepanjang 
 
 > مَنْ كَانَ مِنْكُمْ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ وَمَنْ كَانَ مِنْكُمْ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ
 >
-> *"Barangsiapa di antara kalian yang menyembah Muhammad, maka sesungguhnya Muhammad telah wafat. Dan barangsiapa di antara kalian yang menyembah Allah, maka sesungguhnya Allah Maha Hidup dan tidak akan pernah mati. ﴾144﴿"*
+> *"Barangsiapa di antara kalian yang menyembah Muhammad, maka sesungguhnya Muhammad telah wafat. Dan barangsiapa di antara kalian yang menyembah Allah, maka sesungguhnya Allah Maha Hidup dan tidak akan pernah mati."*
 > — HR al-Bukhari, no. 3667
 
 Lalu Abu Bakr membacakan ayat al-Quran:
 
 > وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ ۚ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ ﴿١٤٤﴾
 >
-> *"Muhammad itu tidak lain hanyalah seorang rasul; sesungguhnya telah berlalu sebelumnya beberapa orang rasul. Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang? ﴾144﴿"*
+> *"Muhammad itu tidak lain hanyalah seorang rasul; sesungguhnya telah berlalu sebelumnya beberapa orang rasul. Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang?"*
 > — QS. Ali Imran (3): 144
 
-Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya. ﴾144﴿"*^1
+Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya."*^1
 
 ### Duka yang Melanda Madinah
 
-Ibn Sa'd dalam *Tabaqat al-Kubra* menggambarkan Madinah pada hari itu sebagai kota yang tenggelam dalam kesedihan yang belum pernah terjadi sebelumnya. Anas bin Malik berkata: *"Hari ketika Rasulullah ﷺ datang ke Madinah, segala sesuatu bersinar cerah. Dan hari ketika beliau wafat, segala sesuatu menjadi gelap. Kami belum selesai menepuk-nepuk tanah dari tangan kami setelah menguburkan beliau, dan kami sudah mengingkari hati kami. ﴾144﴿"*^3
+Ibn Sa'd dalam *Tabaqat al-Kubra* menggambarkan Madinah pada hari itu sebagai kota yang tenggelam dalam kesedihan yang belum pernah terjadi sebelumnya. Anas bin Malik berkata: *"Hari ketika Rasulullah ﷺ datang ke Madinah, segala sesuatu bersinar cerah. Dan hari ketika beliau wafat, segala sesuatu menjadi gelap. Kami belum selesai menepuk-nepuk tanah dari tangan kami setelah menguburkan beliau, dan kami sudah mengingkari hati kami."*^3
 
 Artinya: perubahan yang mereka rasakan begitu mendalam sehingga hati mereka terasa berbeda — seolah kehilangan sesuatu yang tidak akan pernah bisa dikembalikan.
 

@@ -57,7 +57,7 @@ Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not r
 
 Al-Baladhuri also records Umar's message to Sa'd before his departure:^2
 
-*"O Sa'd, do not be deceived by the fact that you are called the uncle of the Messenger of Allah. Verily, Allah does not erase evil with evil, but erases evil with good. There is no bond between Allah and anyone except through obedience. ﴾105﴿"*
+*"O Sa'd, do not be deceived by the fact that you are called the uncle of the Messenger of Allah. Verily, Allah does not erase evil with evil, but erases evil with good. There is no bond between Allah and anyone except through obedience. "*
 
 ## Analysis and Lessons: The Fall of a Superpower
 

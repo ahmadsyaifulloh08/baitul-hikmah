@@ -52,7 +52,7 @@ The Prophet Muhammad ﷺ responded with astute diplomacy. He dispatched **Nu'aym
 
 The climax came dramatically. Allah sent a fierce wind and sandstorm accompanied by bitter cold — reported to have occurred on an extremely dark night. The wind tore apart the coalition's tents, extinguished their fires, overturned their cooking pots, and created chaos throughout the enemy camp.^1 ^2
 
-Abu Sufyan, exhausted by the prolonged siege, finally decided to withdraw. He cried out in the night: *"O people of Quraysh, go back! I am leaving! ﴾9﴿"* And with that, the greatest coalition ever formed against Islam dissolved without having entered Madinah.
+Abu Sufyan, exhausted by the prolonged siege, finally decided to withdraw. He cried out in the night: *"O people of Quraysh, go back! I am leaving!"* And with that, the greatest coalition ever formed against Islam dissolved without having entered Madinah.
 
 ## Dialogue and Evidence
 

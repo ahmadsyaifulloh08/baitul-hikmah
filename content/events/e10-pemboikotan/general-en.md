@@ -44,9 +44,9 @@ These individual acts of humanity, though carried out in secrecy, demonstrated t
 
 In the tenth year of prophethood (619 CE), the movement to annul the boycott finally bore fruit. Five Quraysh men of moral courage — **Hisham ibn Amr**, **Zuhayr ibn Abi Umayyah**, **al-Mut'im ibn Adi**, **Abu al-Bakhtari ibn Hisham**, and **Zam'ah ibn al-Aswad** — agreed to openly oppose the charter.^1 ^4
 
-Zuhayr ibn Abi Umayyah initiated the action before the Ka'bah, calling out to the people of Mecca: "O people of Mecca! Shall we eat and dress ourselves while Banu Hashim perish, unable to buy or sell? By Allah, I will not rest until this unjust charter severing ties of kinship is torn up! ﴾214﴿"^1 ^5
+Zuhayr ibn Abi Umayyah initiated the action before the Ka'bah, calling out to the people of Mecca: "O people of Mecca! Shall we eat and dress ourselves while Banu Hashim perish, unable to buy or sell? By Allah, I will not rest until this unjust charter severing ties of kinship is torn up! "^1 ^5
 
-**Abu Jahl** attempted to thwart this effort, but the five men supported one another. When the charter was finally retrieved from inside the Ka'bah, it was discovered that termites had consumed the entire text except for the phrase *"Bismika Allahumma ﴾214﴿"* (In Your name, O Allah). Prophet Muhammad SAW had previously informed Abu Talib of this through revelation he had received, and when the charter was opened, it was found to be exactly as he had said.^1 ^6
+**Abu Jahl** attempted to thwart this effort, but the five men supported one another. When the charter was finally retrieved from inside the Ka'bah, it was discovered that termites had consumed the entire text except for the phrase *"Bismika Allahumma"* (In Your name, O Allah). Prophet Muhammad SAW had previously informed Abu Talib of this through revelation he had received, and when the charter was opened, it was found to be exactly as he had said.^1 ^6
 
 ## Dialogue and Sacred Texts
 
@@ -57,7 +57,7 @@ The boycott is connected to several important scriptural references. Regarding t
 > *"Do you think that you will enter Paradise without undergoing such trials as were experienced by the believers before you? They were afflicted with suffering and adversity, and were so shaken. ﴾214﴿"*
 > — QS. Al-Baqarah (2): 214
 
-Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you. ﴾214﴿"^1 ^8
+Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you."^1 ^8
 
 ## Analysis and Lessons
 

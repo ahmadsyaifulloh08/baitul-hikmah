@@ -112,14 +112,14 @@ The Prophet Muhammad's experience of orphanhood had a direct impact on Islamic l
 
 > إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ﴿١٠﴾
 >
-> *"Indeed, those who devour the property of orphans unjustly are only consuming fire into their bellies. ﴾10﴿"*
+> *"Indeed, those who devour the property of orphans unjustly are only consuming fire into their bellies. "*
 > — QS. An-Nisa (4): 10
 
 The Prophet Muhammad ﷺ himself made care for orphans a marker of faith. Imam al-Bukhari records:^3
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >
-> *"I and the one who sponsors an orphan will be in Paradise like this ﴾10﴿"* — and he indicated his index and middle fingers held close together.
+> *"I and the one who sponsors an orphan will be in Paradise like this "* — and he indicated his index and middle fingers held close together.
 > — Sahih al-Bukhari, no. 5304
 
 ## Brief Chronology

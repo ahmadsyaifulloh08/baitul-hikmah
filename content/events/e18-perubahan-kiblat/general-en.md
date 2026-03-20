@@ -28,17 +28,17 @@ This occurred in the middle of prayer. Imam al-Bukhari narrated from al-Bara' ib
 
 Imagine that moment: in the middle of prayer, the Prophet Muhammad ﷺ turned direction — from the north (Bayt al-Maqdis) to the south (Ka'bah). The entire congregation praying behind him turned with him. The mosque where this event occurred became known as **Masjid al-Qiblatayn** (the Mosque of Two Qiblahs), which still stands in Madinah today.
 
-Imam Muslim narrated from Anas ibn Malik that the news of the *qiblah* change spread rapidly throughout Madinah.^2 A group of Companions from the Banu Salamah were performing the Fajr prayer in their local mosque when someone arrived and called out: *"Indeed, the qiblah has been changed! ﴾142﴿"* They immediately turned toward the Ka'bah while still in prayer — in the position of *ruku'*, they shifted until they faced the new direction.^2
+Imam Muslim narrated from Anas ibn Malik that the news of the *qiblah* change spread rapidly throughout Madinah.^2 A group of Companions from the Banu Salamah were performing the Fajr prayer in their local mosque when someone arrived and called out: *"Indeed, the qiblah has been changed!"* They immediately turned toward the Ka'bah while still in prayer — in the position of *ruku'*, they shifted until they faced the new direction.^2
 
 ## Dialogue and Evidence: Responses and Controversy
 
-The change of *qiblah* provoked varied reactions. The *munafiqin* (hypocrites) and some Jewish leaders in Madinah used it as ammunition for attack. They asked derisively: *"What has turned them away from the qiblah they used to face? ﴾142﴿"*
+The change of *qiblah* provoked varied reactions. The *munafiqin* (hypocrites) and some Jewish leaders in Madinah used it as ammunition for attack. They asked derisively: *"What has turned them away from the qiblah they used to face?"*
 
 The Quran responded directly:
 
 > سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَن قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا ۚ قُل لِّلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ ﴿١٤٢﴾
 >
-> *"The foolish among the people will say: 'What has turned them away from the qiblah they used to face?' Say: 'To Allah belongs the east and the west. He guides whom He wills to a straight path.' ﴾142﴿"*
+> *"The foolish among the people will say: 'What has turned them away from the qiblah they used to face?' Say: 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'"*
 > — QS. Al-Baqarah (2): 142
 
 The Quran also clarified that the change of *qiblah* was a test of faith:
