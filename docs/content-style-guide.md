@@ -51,6 +51,21 @@ self-sufficient. ﴾8﴿"
 - `﴿N﴾` = untuk teks Arab (RTL) → tampil benar di RTL
 - `﴾N﴿` = untuk terjemahan ID/EN (LTR) → tampil benar di LTR
 
+### ⛔ HANYA untuk Ayat Al-Quran — Lesson Learned (2026-03-20)
+
+Pemisah ayat `﴾N﴿` **HANYA** boleh ada di ayat Al-Quran. **DILARANG** di:
+- ❌ Hadits (HR Bukhari, Muslim, Tirmidzi, dll)
+- ❌ Dialog historis (percakapan sahabat, raja, dll)
+- ❌ Kutipan dari kitab sirah/tarikh
+- ❌ Narasi atau komentar ulama
+
+**Cara membedakan:**
+- Ayat Quran → diawali teks Arab + referensi `QS.` → ✅ pakai `﴾N﴿`
+- Hadits → referensi `HR.` / nama perawi / kitab hadits → ❌ JANGAN
+- Dialog → tanda kutip dalam narasi tanpa referensi QS → ❌ JANGAN
+
+**Identifikasi otomatis:** Pemisah ayat HANYA boleh muncul di baris yang diawali `>` (blockquote markdown). Baris non-blockquote TIDAK BOLEH mengandung `﴾N﴿`.
+
 ---
 
 ## 2. Format Tabel — Web-Friendly
