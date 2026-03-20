@@ -32,13 +32,9 @@ When everyone was seated and eating, Bahira studied each person's face carefully
 
 ## ⭐ A Special Sign
 
-When young Muhammad arrived, Bahira immediately watched him very closely. There was something special about this child! Bahira spoke with Muhammad — asking him all sorts of questions about his habits and his life. Every answer Muhammad gave made Bahira more and more certain.
+When young Muhammad arrived, Bahira watched him very closely — there was something special about this child! He asked Muhammad all sorts of questions, and every answer made him more certain; then he found a special mark on Muhammad's back, a sign of a coming prophet written about in ancient scriptures!
 
-Then Bahira looked at Muhammad's back and found a special mark — a mark that had been written about in ancient scriptures as the sign of a prophet who was to come!
-
-Bahira was astonished. He quickly went to Abu Talib and spoke gravely: "O Abu Talib, take good care of your nephew! He has a very great future ahead of him. Take him back to Mecca and protect him."
-
-Abu Talib, hearing Bahira's words, became worried. He quickly finished his trading business and hurried to take Muhammad back home to Mecca.
+Bahira rushed to Abu Talib: "Take good care of your nephew, he has a very great future — take him back to Mecca and protect him!" Abu Talib became worried and quickly took Muhammad home.
 
 > **🎨 Illustration Brief:**
 > *Bahira kneeling before young Muhammad, holding the boy's shoulders with both hands, gazing at him with eyes full of awe and wonder. Young Muhammad stands straight with a calm, innocent face. Abu Talib stands behind them with an expression mixing surprise and concern. Soft golden light from the monastery window. Warm golden tones, brown robes, white clothing on Muhammad. Mood full of wonder and awe. Triangular composition — three figures in an emotional connection.*
