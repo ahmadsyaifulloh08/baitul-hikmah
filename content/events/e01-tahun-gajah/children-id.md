@@ -1,12 +1,3 @@
----
-title: "Tahun Gajah dan Kelahiran Nabi Muhammad ﷺ"
-date: "570 M"
-era: "Pra-Islam"
-audience: "children"
-ageRange: "6-12"
-language: "id"
----
-
 # Tahun Gajah 🐘
 
 ---

@@ -1,12 +1,3 @@
----
-title: "The Year of the Elephant and the Birth of Prophet Muhammad ﷺ"
-date: "570 CE"
-era: "Pre-Islamic"
-audience: "children"
-ageRange: "6-12"
-language: "en"
----
-
 # The Year of the Elephant 🐘
 
 ---
