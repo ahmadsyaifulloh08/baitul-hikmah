@@ -69,48 +69,23 @@
 
 ---
 
-### Phase 0.5: Clear Placeholder Chats (MANDATORY before new event)
+### Phase 1: Sequential Submit — New Chat per Slide
 
-Placeholder chats retain context from previous events. Old context causes Gemini to generate
-wrong scenes (e.g. e03 scenes when prompted for e10). MUST clear before each new event.
-
-**Method — Ahmad manual (fastest):**
-1. Open Gemini → click each Placeholder chat [1]-[N]
-2. Click 3-dot menu → "Delete chat" or clear history
-3. Verify all N chats are empty
-
-**Method — PinchTab (if delete button accessible):**
-```
-For each chat [i]:
-  1. Open chat [i]
-  2. Find "Delete" / "Clear" button → click
-  3. Confirm deletion
-```
-
-**Alternative — Create new Placeholder chats for each event:**
-- Delete old [1]-[16], create fresh [1]-[16]
-- More work but guarantees clean context
-
----
-
-### Phase 1: Sequential Submit (1 tab, 1 chat at a time)
-
-**Why sequential (not parallel burst):**
-- Placeholder chats with old context cause wrong image generation
-- Sequential = submit → verify image generated → download → next
-- Slower but reliable — each slide verified before moving on
+**Why new chat (not Placeholder reuse):**
+- Placeholder chats retain old event context → Gemini generates wrong scenes
+- New chat = zero context = prompt-only generation = reliable
+- Sequential = submit → verify → download → next
 
 #### Per-slide flow:
 
 ```
 For i = 1 to N:
-  1. Open sidebar → Click "[i] Placeholder - Image Generation"
-  2. Wait 5s (page load)
-  3. Type prompt dari slide-{i}.txt ke textbox
-  4. Wait for "Send message" button → click
-  5. Wait ~90s for image generation (poll for "AI generated" node)
-  6. Download image via lightbox (LAST image in chat!)
-  7. Move to next slide
+  1. Click "New chat" → fresh empty chat
+  2. Type prompt dari slide-{i}.txt ke textbox
+  3. Wait for "Send message" button → click (or auto-sent via type)
+  4. Wait ~90s for image generation (poll for "AI generated" node)
+  5. Download image via lightbox
+  6. Click "New chat" → next slide
 ```
 
 **Estimated time**: ~2-3 min per slide (type 20s + generate 90s + download 30s)
