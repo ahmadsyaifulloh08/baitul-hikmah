@@ -37,6 +37,7 @@
 2. **Max 16 slides per event** — sesuai PRD
 3. **Revisi slide N → regenerate di Chat [N]** — same chat, append prompt
 4. **1 batch = 1 event** — selesai event, clear chats jika perlu
+5. **NEW EVENT = CLEAR CHATS FIRST** — old context pollutes new prompts (lesson 2026-03-21)
 
 ---
 
@@ -68,26 +69,51 @@
 
 ---
 
-### Phase 1: Batch Submit — Hybrid 5+5+6
+### Phase 0.5: Clear Placeholder Chats (MANDATORY before new event)
 
-**Kenapa hybrid**: 
-- 5 paralel = proven safe (tested 7 on v2, no rate limit)
-- Burst rapid submit → wait → QA → next batch
-- Mid-batch QA = catch issues early, don't waste all 16
+Placeholder chats retain context from previous events. Old context causes Gemini to generate
+wrong scenes (e.g. e03 scenes when prompted for e10). MUST clear before each new event.
 
-#### Batch 1: Slides 1-5
+**Method — Ahmad manual (fastest):**
+1. Open Gemini → click each Placeholder chat [1]-[N]
+2. Click 3-dot menu → "Delete chat" or clear history
+3. Verify all N chats are empty
+
+**Method — PinchTab (if delete button accessible):**
+```
+For each chat [i]:
+  1. Open chat [i]
+  2. Find "Delete" / "Clear" button → click
+  3. Confirm deletion
+```
+
+**Alternative — Create new Placeholder chats for each event:**
+- Delete old [1]-[16], create fresh [1]-[16]
+- More work but guarantees clean context
+
+---
+
+### Phase 1: Sequential Submit (1 tab, 1 chat at a time)
+
+**Why sequential (not parallel burst):**
+- Placeholder chats with old context cause wrong image generation
+- Sequential = submit → verify image generated → download → next
+- Slower but reliable — each slide verified before moving on
+
+#### Per-slide flow:
 
 ```
-For i = 1 to 5:
-  1. Navigate to Gemini main page
-  2. Click sidebar: "[i] Placeholder - Image Generation"
-  3. Wait 5s (page load)
-  4. Type prompt dari slide-{i}.txt ke textbox
-  5. Click "Send message" (atau type triggers it)
-  6. DON'T wait — immediately next chat
+For i = 1 to N:
+  1. Open sidebar → Click "[i] Placeholder - Image Generation"
+  2. Wait 5s (page load)
+  3. Type prompt dari slide-{i}.txt ke textbox
+  4. Wait for "Send message" button → click
+  5. Wait ~90s for image generation (poll for "AI generated" node)
+  6. Download image via lightbox (LAST image in chat!)
+  7. Move to next slide
 ```
 
-**Estimated time**: ~2.5 min (5 chats × 30s)
+**Estimated time**: ~2-3 min per slide (type 20s + generate 90s + download 30s)
 
 #### Wait + Download Batch 1
 
@@ -202,14 +228,13 @@ git push origin develop
 
 ## Timing Estimates
 
-| Phase | 5 slides | 10 slides | 16 slides |
+| Phase | 6 slides | 10 slides | 16 slides |
 |-------|:--------:|:---------:|:---------:|
-| Prompt prep | ~10 min | ~20 min | ~30 min |
-| Batch submit | 2.5 min | 5 min | 8 min |
-| Wait (generate) | 3 min | 6 min | 9 min |
-| Download | 2.5 min | 5 min | 8 min |
-| QA composites | 2 min | 4 min | 6 min |
-| **Total (excl. prep)** | **~10 min** | **~20 min** | **~31 min** |
+| Prompt prep | ~12 min | ~20 min | ~30 min |
+| Clear chats | ~3 min | ~3 min | ~5 min |
+| Sequential submit+download | ~15 min | ~25 min | ~40 min |
+| QA composite | 2 min | 3 min | 5 min |
+| **Total (excl. prep)** | **~20 min** | **~31 min** | **~50 min** |
 
 Add ~5-10 min per revision cycle.
 
@@ -292,7 +317,9 @@ raw = re.sub(r'[\x00-\x1f]', ' ', raw)  # before json.loads
 
 | Risk | Mitigation |
 |------|-----------|
-| Gemini rate limit (5 burst) | Proven safe at 7; 5 is conservative |
+| Gemini rate limit | Sequential = natural throttle, no burst risk |
+| Old chat context pollutes new prompts | **CLEAR chats before new event** (lesson 2026-03-21) |
+| Download wrong image (old vs new) | Always pick LAST "AI generated" node in chat |
 | Scene identik meski beda chat | Prompt harus spesifik per scene |
 | Send button hidden (long prompt) | Keep prompt ≤1000 chars |
 | `fill` doesn't work on Gemini | Always use `type` |
