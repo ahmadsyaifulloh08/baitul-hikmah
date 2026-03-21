@@ -104,50 +104,34 @@ For i = 1 to N:
 
 **Estimated time**: ~5.5 min (3 wait + 2.5 download)
 
-#### Mid-Batch QA 1 — Composite Review
-
-```
-  10. Generate composite grid image (5 thumbnails in 1 image):
-      - Resize each to ~420x236 (16:9 thumbnail)
-      - Grid layout: 1 row × 5 cols (or 2 rows if needed)
-      - Label each cell: "Slide N" + color code
-      - Labels: 🟢 green = new, 🔵 blue = shifted, ⬛ grey = unchanged
-  11. Send composite to Ahmad via Telegram
-  12. Ahmad review: "OK lanjut" / "revisi slide X"
-  13. If revisi → regenerate di Chat [X], re-download, update composite
-```
-
-**Composite script**: `node /workspace/tmp/composite-preview.js`
-- Input: list of image paths + labels
-- Output: single JPG grid image
-- Uses sharp (from baitul-hikmah/node_modules)
+#### No Mid-Batch QA — Generate All, Review All at Once
 
 #### Batch 2: Slides 6-10
 
 Same flow as Batch 1, using Chats [6]-[10].
 
-#### Mid-Batch QA 2
 
-Same composite flow as QA 1. Send grid of slides 6-10 to Ahmad.
 
 #### Batch 3: Slides 11-16 (or remaining)
 
 Same flow, using Chats [11]-[16].
 Skip unused chats if event has <16 slides.
 
-#### Final QA — Full Composite
+#### QA — Full Event Composite (after ALL slides generated)
 
 ```
-  1. Generate FULL composite grid (ALL slides in 1 image):
+  1. Generate ALL slides sequentially (new chat per slide)
+  2. After ALL done → generate FULL composite grid (1 image):
      - Grid layout: 4 cols × N rows
      - Label: "Slide N — [scene brief]"
-     - Color code: 🟢 approved, 🟡 pending, 🔴 needs revision
-  2. Send full composite to Ahmad
-  3. Story flow audit: view slides 1→N sequentially
-  4. Character consistency check (same character across slides)
-  5. Islamic compliance check (golden glow only, no text)
-  6. Ahmad final approval → proceed to deploy
+  3. Send composite to Ahmad — 1 event = 1 review
+  4. Ahmad marks which slides need revision
+  5. Revisi: open new chat → retype prompt with adjustments → download
+  6. Re-generate composite → re-review until approved
+  7. Final approval → deploy
 ```
+
+**Prinsip: 1 event = 1 review cycle.** Tidak ada mid-batch QA. Generate semua dulu, review barengan, revisi yang perlu, review ulang.
 
 ---
 
