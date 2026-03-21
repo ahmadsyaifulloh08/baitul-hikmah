@@ -1,4 +1,4 @@
-# Perjalanan Seru ke Negeri Syam
+# Perjalanan ke Negeri Syam
 
 ## 🐪 Muhammad Kecil Ingin Ikut
 
@@ -32,9 +32,11 @@ Ketika semua orang sudah duduk makan, Bahira memperhatikan satu per satu wajah m
 
 ## ⭐ Tanda Istimewa
 
-Ketika Muhammad kecil datang, Bahira langsung memperhatikannya dengan sangat teliti — ada sesuatu yang istimewa pada anak ini! Bahira mengajak Muhammad bicara, bertanya macam-macam tentang kebiasaan dan kehidupannya; setiap jawaban Muhammad membuat Bahira semakin yakin, lalu ia menemukan sebuah tanda khusus di punggung Muhammad — tanda seorang nabi yang akan datang yang sudah tertulis dalam kitab-kitab kuno!
+Ketika Muhammad kecil datang, Bahira langsung memperhatikannya dengan sangat teliti — ada sesuatu yang istimewa pada anak ini. Bahira mengajak Muhammad bicara dan bertanya macam-macam tentang kebiasaan dan kehidupannya. Setiap jawaban Muhammad membuat Bahira semakin yakin. Lalu ia menemukan sebuah tanda khusus di punggung Muhammad — tanda seorang nabi yang akan datang, yang sudah tertulis dalam kitab-kitab kuno.
 
-Bahira segera menemui Abu Thalib: "Jaga baik-baik keponakanmu ini, ia memiliki masa depan yang sangat besar — bawalah dia pulang ke Makkah dan lindungi dia!" Abu Thalib menjadi khawatir dan segera membawa Muhammad pulang.
+Bahira segera menemui Abu Thalib dan berkata dengan nada serius: "Jaga baik-baik keponakanmu ini. Ia memiliki masa depan yang sangat besar. Bawalah dia pulang ke Makkah dan lindungi dia — terutama dari orang-orang Yahudi. Jika mereka mengenali tanda yang sama seperti yang aku lihat, mereka bisa berusaha mencelakakan anak ini."
+
+Abu Thalib terkejut dan khawatir mendengar peringatan itu. Ia segera menyelesaikan urusan dagangnya di Syam dan membawa Muhammad pulang ke Makkah secepatnya. Keselamatan keponakannya lebih penting daripada keuntungan dagang.
 
 > **🎨 Brief Ilustrasi:**
 > *Bahira berlutut di depan Muhammad kecil, memegang kedua bahu anak itu, menatapnya dengan mata yang penuh takjub dan kekaguman. Muhammad kecil berdiri tegap dengan wajah tenang dan polos. Abu Thalib berdiri di belakang dengan ekspresi campuran heran dan khawatir. Cahaya keemasan lembut dari jendela biara. Warna hangat keemasan, coklat jubah, putih pakaian Muhammad. Mood penuh keajaiban dan takjub. Komposisi segitiga — tiga figur dalam hubungan emosional.*
