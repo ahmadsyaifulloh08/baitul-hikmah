@@ -2,7 +2,7 @@
 
 ## 💔 Seorang Budak yang Berani
 
-Teman-teman, ini adalah kisah tentang seorang laki-laki yang sangat berani. Namanya **Bilal bin Rabbah**. Bilal berasal dari Ethiopia, berkulit hitam, dan di Makkah ia hidup sebagai seorang budak. Tuannya bernama **Umayyah bin Khalaf** — seorang yang sangat jahat dan kejam.
+Ini adalah kisah tentang seorang laki-laki yang sangat berani. Namanya **Bilal bin Rabbah**. Bilal berasal dari Ethiopia, berkulit hitam, dan di Makkah ia hidup sebagai seorang budak. Tuannya bernama **Umayyah bin Khalaf** — seorang yang sangat jahat dan kejam.
 
 Pada zaman itu, budak dianggap bukan manusia seutuhnya. Mereka bisa dijual, dipukul, dan tidak punya hak apa-apa. Sedih sekali, kan?
 
@@ -19,17 +19,17 @@ Bilal pun memeluk Islam. Dia tahu risikonya sangat besar — tuannya pasti akan 
 
 Ketika Umayyah tahu bahwa Bilal masuk Islam, dia marah besar! Setiap hari, saat matahari tepat di atas kepala dan pasir gurun panas sekali, Umayyah menyuruh orang-orangnya membaringkan Bilal telentang di atas pasir yang membara. Lalu mereka meletakkan **batu besar** di atas dadanya!
 
-Bayangkan betapa sakitnya! Punggung terbakar pasir panas, dada ditekan batu berat, matahari menyengat tanpa henti.
+Betapa sakitnya! Punggung terbakar pasir panas, dada ditekan batu berat, matahari menyengat tanpa henti.
 
 Umayyah berteriak: "Tinggalkan Islam! Sembah berhala kami! Baru aku lepaskan kamu!"
 
-Tapi tahukah teman-teman apa yang Bilal ucapkan?
+Tapi tahukah apa yang Bilal ucapkan?
 
-**"Ahad... Ahad..."**
+**"Ahad.. Ahad.."**
 
-Artinya: **"Yang Maha Esa... Yang Maha Esa..."**
+Artinya: **"Yang Maha Esa.. Yang Maha Esa.."**
 
-Hanya satu kata itu! Di tengah rasa sakit yang luar biasa, Bilal tidak menangis minta ampun, tidak menyerah, tidak mengingkari Allah. Dia terus mengucapkan: "Ahad... Ahad..." — Allah itu Esa, dan tidak ada yang bisa memaksaku menyembah selain-Nya!
+Hanya satu kata itu! Di tengah rasa sakit yang luar biasa, Bilal tidak menangis minta ampun, tidak menyerah, tidak mengingkari Allah. Dia terus mengucapkan: "Ahad.. Ahad.." — Allah itu Esa, dan tidak ada yang bisa memaksaku menyembah selain-Nya!
 
 Subhanallah, betapa kuatnya iman Bilal!
 
@@ -57,13 +57,13 @@ Abu Bakr tidak hanya membebaskan Bilal. Dia juga membebaskan tujuh budak lainnya
 
 ## 🕌 Suara Terindah di Madinah
 
-Setelah umat Islam hijrah ke Madinah, Nabi Muhammad SAW membangun masjid. Tapi siapa yang akan memanggil orang-orang untuk salat?
+Setelah umat Islam hijrah ke MadiNabi Muhammad SAW membangun masjid. Tapi siapa yang akan memanggil orang-orang untuk salat?
 
-Nabi Muhammad SAW memilih... **Bilal!**
+Nabi Muhammad SAW memilih.. **Bilal!**
 
-Bayangkan! Orang yang dulunya budak, yang disiksa dan dihina, sekarang berdiri di tempat paling tinggi di kota Madinah, mengumandangkan adzan yang terdengar oleh seluruh penduduk kota!
+Orang yang dulunya budak, yang disiksa dan dihina, sekarang berdiri di tempat paling tinggi di kota Madimengumandangkan adzan yang terdengar oleh seluruh penduduk kota!
 
-**"Allahu Akbar, Allahu Akbar..."**
+**"Allahu Akbar, Allahu Akbar.."**
 
 Suara Bilal yang merdu menggema di seluruh Madinah. Setiap pagi, setiap siang, setiap sore — suara Bilal-lah yang memanggil umat Islam untuk beribadah.
 

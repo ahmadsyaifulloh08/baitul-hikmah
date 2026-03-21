@@ -4,13 +4,13 @@
 
 ## Unta yang Memilih Tempat
 
-Ketika Nabi Muhammad ﷺ tiba di Madinah, banyak orang yang ingin Nabi tinggal di dekat rumah mereka. Semua berlomba-lomba mengundang beliau! Tapi Nabi berkata: "Biarkan untaku berjalan sendiri. Di mana ia berhenti, di situlah tempat kita."
+Ketika Nabi Muhammad ﷺ tiba di Madibanyak orang yang ingin Nabi tinggal di dekat rumah mereka. Semua berlomba-lomba mengundang beliau! Tapi Nabi berkata: "Biarkan untaku berjalan sendiri. Di mana ia berhenti, di situlah tempat kita."
 
 Unta beliau yang bernama **al-Qashwa'** berjalan melewati banyak rumah, lalu berhenti dan berlutut di **sebidang tanah kosong** milik dua anak yatim. Nabi ingin membeli tanah itu — beliau tidak mau mengambilnya secara gratis meskipun untuk membangun masjid. Akhirnya **Abu Bakr** yang membayarkannya.
 
 Ternyata itulah tempat **Masjid Nabawi** dibangun — masjid Nabi yang sampai hari ini masih berdiri di Madinah! 🕌
 
-🎨 *Ilustrasi: Seekor unta berlutut di sebidang tanah kosong, dikelilingi orang-orang yang menyaksikan. Setting: lahan terbuka di Madinah dengan pohon kurma. Karakter: unta berlutut, Nabi (tanpa wajah) di dekatnya, penduduk Madinah menonton. Objek kunci: unta berlutut, tanah lapang. Warna dominan: cokelat tanah, hijau kurma. Mood: penuh takjub dan harapan. Komposisi: unta di tengah, orang-orang mengelilingi.*
+🎨 *Ilustrasi: Seekor unta berlutut di sebidang tanah kosong, dikelilingi orang-orang yang menyaksikan. Setting: lahan terbuka di Madinah dengan pohon kurma. Karakter: unta berlutut, Nabi (tanpa wajah) di dekatnya, penduduk Madinah menonton. Objek kunci: unta berlutut, tanah lapang. Warna dominan: cokelat tahijau kurma. Mood: penuh takjub dan harapan. Komposisi: unta di tengah, orang-orang mengelilingi.*
 
 ---
 
@@ -42,7 +42,7 @@ Abdurrahman pergi ke pasar, mulai berdagang, dan dalam waktu singkat ia menjadi 
 
 Di bagian belakang masjid, ada sebuah serambi beratap yang disebut ***Suffah***. Di sinilah tinggal para sahabat yang tidak punya rumah. Mereka belajar al-Quran langsung dari Nabi Muhammad ﷺ setiap hari! Salah satu penghuni Suffah yang terkenal adalah **Abu Hurairah**, yang kelak menghafal dan meriwayatkan ribuan hadits Nabi.
 
-Masjid Nabawi bukan hanya tempat shalat — ia adalah **sekolah, balai pertemuan, dan rumah bagi yang membutuhkan**. Itulah mengapa Nabi membangun masjid sebagai langkah pertama di Madinah, sebelum membangun apa pun yang lain!
+Masjid Nabawi bukan hanya tempat shalat — ia adalah **sekolah, balai pertemuan, dan rumah bagi yang membutuhkan**. Itulah mengapa Nabi membangun masjid sebagai langkah pertama di Madisebelum membangun apa pun yang lain!
 
 **Pelajaran penting:** Nabi Muhammad ﷺ mengajarkan bahwa **pemimpin sejati ikut bekerja** bersama rakyatnya, bukan hanya memerintah. Dan persaudaraan sejati berarti **saling membantu** — tapi juga **berusaha mandiri**. Seperti Abdurrahman yang tidak mau membebani saudaranya, tapi bekerja keras untuk masa depannya sendiri! 🌟
 

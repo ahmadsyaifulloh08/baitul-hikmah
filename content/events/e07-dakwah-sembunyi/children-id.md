@@ -2,7 +2,7 @@
 
 ## 🌙 Bagaimana Semuanya Dimulai
 
-Teman-teman, pernahkah kalian menyimpan rahasia yang sangat penting? Rahasia yang begitu besar, kalian hanya bisa menceritakannya kepada orang-orang yang paling kalian percaya?
+Pernahkah kalian menyimpan rahasia yang sangat penting? Rahasia yang begitu besar, kalian hanya bisa menceritakannya kepada orang-orang yang paling kalian percaya?
 
 **Nabi Muhammad SAW** pernah menyimpan rahasia seperti itu. Setelah menerima wahyu pertama dari Allah melalui Malaikat Jibril di Gua Hira, beliau mulai mengajak orang-orang untuk menyembah Allah saja — tapi secara sembunyi-sembunyi! Kenapa sembunyi-sembunyi? Karena orang-orang Quraisy di Makkah menyembah berhala, dan mereka pasti akan marah besar kalau tahu ada yang mengajak meninggalkan berhala-berhala mereka.
 
@@ -19,7 +19,7 @@ Siapa saja orang pertama yang percaya kepada Nabi Muhammad SAW? Mereka sangat is
 
 **Khadijah** — istri tercinta Nabi. Dia langsung percaya begitu Nabi menceritakan pengalamannya di Gua Hira. Tidak ada keraguan sedikit pun! Dia berkata: "Allah tidak akan pernah menghinakanmu." Khadijah adalah manusia pertama di dunia yang beriman kepada Islam.
 
-**Ali** — sepupu kecil Nabi yang baru berusia sekitar 10 tahun. Bayangkan, seumuran kalian! Ali sudah tinggal bersama Nabi sejak kecil, jadi ia melihat sendiri bagaimana Nabi beribadah dan mengajarkan kebaikan.
+**Ali** — sepupu kecil Nabi yang baru berusia sekitar 10 tahun. Usianya sebaya dengan banyak anak-anak yang membaca ini. Ali sudah tinggal bersama Nabi sejak kecil, jadi ia melihat sendiri bagaimana Nabi beribadah dan mengajarkan kebaikan.
 
 **Zaid bin Haritsah** — anak angkat Nabi yang dulu pernah menjadi budak. Nabi membebaskannya dan menyayanginya seperti anak sendiri. Zaid langsung percaya kepada Nabi.
 
@@ -36,7 +36,7 @@ Semakin banyak orang yang masuk Islam, mereka butuh tempat untuk berkumpul dan b
 
 Mereka memilih rumah seorang pemuda bernama **Al-Arqam**. Rumahnya ada di dekat bukit Shafa di Makkah. Di sanalah Nabi Muhammad SAW mengajarkan ayat-ayat Al-Qur'an kepada para sahabat. Mereka belajar bersama, salat bersama, dan saling menguatkan.
 
-Bayangkan seperti klub rahasia, tapi bukan untuk bermain — untuk belajar tentang kebaikan dan kebenaran! Di sana, tidak ada bedanya antara orang kaya dan orang miskin, antara tuan dan mantan budak. Semua sama di hadapan Allah.
+Seperti klub rahasia, tapi bukan untuk bermain — untuk belajar tentang kebaikan dan kebenaran! Di sana, tidak ada bedanya antara orang kaya dan orang miskin, antara tuan dan mantan budak. Semua sama di hadapan Allah.
 
 Dalam tiga tahun, sudah ada sekitar 40 orang yang masuk Islam. Tidak banyak memang, tapi mereka semua orang-orang hebat yang kelak akan mengubah dunia!
 
@@ -47,7 +47,7 @@ Dalam tiga tahun, sudah ada sekitar 40 orang yang masuk Islam. Tidak banyak mema
 
 ## 🌟 Pelajaran untuk Kita
 
-Teman-teman, dari kisah ini kita belajar hal-hal penting:
+Dari kisah ini kita belajar hal-hal penting:
 
 **Kesabaran itu penting!** Nabi Muhammad SAW tidak terburu-buru. Beliau mengajak orang pelan-pelan, satu per satu, selama tiga tahun. Kadang hal-hal besar butuh waktu yang lama.
 

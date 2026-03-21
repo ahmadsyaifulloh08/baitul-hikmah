@@ -9,13 +9,13 @@ Para pemimpin Quraisy itu berkumpul dan membuat rencana jahat. Mereka menulis se
 Maka seluruh keluarga Bani Hasyim terpaksa pindah ke sebuah lembah kecil dan sempit di pinggiran Makkah. Lembah itu bernama *Syi'b Abu Thalib*. Di sanalah mereka tinggal — jauh dari pasar, jauh dari tetangga, jauh dari kehidupan normal.
 
 > **🎨 Brief Ilustrasi:**
-> *Lembah sempit berbatu di pinggir kota Makkah saat senja. Sekelompok keluarga — pria, wanita, dan anak-anak — berjalan memasuki lembah membawa bungkusan kecil di pundak. Di kejauhan, dinding-dinding rumah kota Makkah terlihat. Warna coklat tanah, jingga senja, abu-abu batu. Mood sedih tapi penuh tekad. Komposisi panoramik — barisan orang dari kanan menuju mulut lembah di kiri.*
+> *Lembah sempit berbatu di pinggir kota Makkah saat senja. Sekelompok keluarga — pria, wanita, dan anak-anak — berjalan memasuki lembah membawa bungkusan kecil di pundak. Di kejauhan, dinding-dinding rumah kota Makkah terlihat. Warna coklat tajingga senja, abu-abu batu. Mood sedih tapi penuh tekad. Komposisi panoramik — barisan orang dari kanan menuju mulut lembah di kiri.*
 
 ---
 
 ## 🍞 Hari-Hari yang Sangat Berat
 
-Bayangkan, teman-teman, kalian tidak bisa pergi ke warung untuk membeli roti. Tidak bisa membeli nasi, susu, atau buah. Bahkan tidak ada yang mau menjual air minum kepada kalian. Begitulah yang dialami keluarga Bani Hasyim selama hampir tiga tahun!
+Keluarga Bani Hasyim tidak bisa pergi ke pasar untuk membeli roti. Tidak bisa membeli nasi, susu, atau buah. Bahkan tidak ada yang mau menjual air minum kepada mereka. Begitulah yang dialami keluarga Bani Hasyim selama hampir tiga tahun!
 
 Anak-anak kecil menangis karena lapar. Suara tangisan mereka terdengar sampai ke luar lembah. Tapi para pemimpin Quraisy yang lewat hanya tersenyum mendengarnya. Mereka tidak merasa kasihan sama sekali.
 

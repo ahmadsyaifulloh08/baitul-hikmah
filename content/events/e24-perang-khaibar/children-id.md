@@ -4,7 +4,7 @@
 
 ## Benteng-benteng di Utara
 
-Di utara Madinah, ada sebuah tempat bernama **Khaibar**. Di sana berdiri **tujuh benteng besar** di atas bukit-bukit berbatu. Penduduknya sangat kaya dan punya banyak senjata.
+Di utara Madiada sebuah tempat bernama **Khaibar**. Di sana berdiri **tujuh benteng besar** di atas bukit-bukit berbatu. Penduduknya sangat kaya dan punya banyak senjata.
 
 Sayangnya, para pemimpin Khaibar terus-menerus merencanakan serangan ke Madinah. Mereka mengajak suku-suku Arab lain untuk menyerang kaum Muslimin. Mereka adalah dalang di balik Perang Khandaq yang sangat berbahaya!
 
@@ -36,7 +36,7 @@ Tapi yang menarik, Nabi Muhammad ﷺ tidak mengusir penduduk Khaibar. Beliau mem
 
 Ini menunjukkan bahwa Islam tidak mengajarkan untuk menghancurkan musuh yang sudah kalah. Keahlian dan kerja keras tetap dihargai!
 
-> 🎨 **Ilustrasi**: Pemandangan damai — kebun kurma Khaibar yang subur, petani bekerja di ladang, di latar belakang benteng dengan bendera Islam berkibar. Keranjang-keranjang penuh buah kurma. Warna dominan: hijau subur, cokelat tanah, emas buah. Mood: damai dan makmur. Komposisi: kebun subur memenuhi gambar, benteng kecil di latar belakang.
+> 🎨 **Ilustrasi**: Pemandangan damai — kebun kurma Khaibar yang subur, petani bekerja di ladang, di latar belakang benteng dengan bendera Islam berkibar. Keranjang-keranjang penuh buah kurma. Warna dominan: hijau subur, cokelat taemas buah. Mood: damai dan makmur. Komposisi: kebun subur memenuhi gambar, benteng kecil di latar belakang.
 
 ---
 

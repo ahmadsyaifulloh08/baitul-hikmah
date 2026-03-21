@@ -4,7 +4,7 @@
 
 ## ⚔️ Kenapa Ini Terjadi?
 
-Setelah pindah ke Madinah, kaum Muslim hidup dengan damai. Tapi kaum **Quraisy** di Makkah tidak mau membiarkan mereka tenang. Mereka telah mengambil semua harta benda kaum Muslim yang ditinggalkan di Makkah — rumah, ternak, dan barang dagangan.
+Setelah pindah ke Madikaum Muslim hidup dengan damai. Tapi kaum **Quraisy** di Makkah tidak mau membiarkan mereka tenang. Mereka telah mengambil semua harta benda kaum Muslim yang ditinggalkan di Makkah — rumah, ternak, dan barang dagangan.
 
 Suatu hari, kafilah dagang besar milik Quraisy melewati dekat Madinah. Kafilah itu membawa kekayaan yang sebagiannya berasal dari harta kaum Muslim yang dirampas. **Nabi Muhammad ﷺ** mengutus rombongan kecil untuk mencegatnya.
 
@@ -36,7 +36,7 @@ Dan Allah mengabulkan doa beliau! Allah mengirim **seribu malaikat** untuk memba
 
 ---
 
-## 🕊 Setelahnya...
+## 🕊 Setelahnya..
 
 Kaum Muslim menang besar di Badr. 70 prajurit Quraisy gugur — termasuk Abu Jahl yang sombong — dan 70 orang lainnya ditangkap.
 

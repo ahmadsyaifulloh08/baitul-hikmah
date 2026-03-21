@@ -16,7 +16,7 @@ Di Yerusalem ada sebuah bukit suci yang disebut **Haram al-Syarif**. Di atas buk
 
 Sekitar tahun 685 M, Khalifah **Abdul Malik ibn Marwan** memutuskan untuk membangun sebuah bangunan yang sangat megah di atas batu suci itu. Ia ingin membuat sesuatu yang belum pernah dilihat dunia sebelumnya!
 
-Abdul Malik mengirim dua orang ahli bangunan terbaik: **Raja' ibn Haywah** dan **Yazid ibn Salam**. Untuk membiayai proyek raksasa ini, ia menggunakan seluruh pajak dari Mesir selama **tujuh tahun**! Bayangkan betapa besarnya proyek ini.
+Abdul Malik mengirim dua orang ahli bangunan terbaik: **Raja' ibn Haywah** dan **Yazid ibn Salam**. Untuk membiayai proyek raksasa ini, ia menggunakan seluruh pajak dari Mesir selama **tujuh tahun**! betapa besarnya proyek ini.
 
 Para pekerja dan seniman datang dari seluruh penjuru dunia Islam. Mereka membawa bahan-bahan terbaik — emas, mosaik berwarna-warni, marmer, dan batu-batu indah.
 

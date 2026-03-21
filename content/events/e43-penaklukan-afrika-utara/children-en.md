@@ -24,7 +24,7 @@ In the heart of the city, Uqba built a beautiful **great mosque** — the Great 
 
 ## Uqba and the Atlantic Ocean
 
-Uqba kept moving westward, crossing mountains and deserts, until he finally reached the shores of the **Atlantic Ocean** — at the very western edge of Africa! Imagine that incredibly long journey, thousands of kilometers from Egypt!
+Uqba kept moving westward, crossing mountains and deserts, until he finally reached the shores of the **Atlantic Ocean** — at the very western edge of Africa! that incredibly long journey, thousands of kilometers from Egypt!
 
 At the water's edge, Uqba rode his horse into the waves and said passionately: *"O Allah, were it not for this sea, I would continue onward to fight for Your cause!"*
 
@@ -43,6 +43,6 @@ What is fascinating is that many **Berber** people who initially fought against 
 Lessons from this story:
 - **Patience matters** — it took 40 years to conquer North Africa
 - **Courage changes the world** — Uqba built a city that lasted centuries
-- **Friendship is stronger than war** — when the Berbers embraced Islam, they became the Muslim world's greatest allies
+- **hip is stronger than war** — when the Berbers embraced Islam, they became the Muslim world's greatest allies
 
 🎨 *Illustration: A simple map of North Africa with a journey line from Egypt to the Atlantic. Small icons: a mosque in Qayrawan, a horse at the Atlantic shore, Berber and Arab people shaking hands. Dominant colors of green, gold, and blue. Cheerful and hopeful mood. Landscape map composition.*

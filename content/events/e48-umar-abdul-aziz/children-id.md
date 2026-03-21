@@ -16,7 +16,7 @@ Ketika dilantik menjadi khalifah pada tahun 717 M, Umar naik ke mimbar dengan **
 
 Hal pertama yang dilakukan Umar setelah menjadi khalifah sungguh mengejutkan — ia **mengembalikan semua harta pribadinya** ke kas negara! Kuda-kuda istimewa, perhiasan, properti — semua dikembalikan.
 
-Ia juga memerintahkan seluruh keluarga Bani Umayyah mengembalikan harta yang mereka ambil secara tidak adil. Bayangkan betapa marahnya keluarganya! Tapi Umar tidak peduli — baginya, keadilan lebih penting dari hubungan keluarga.
+Ia juga memerintahkan seluruh keluarga Bani Umayyah mengembalikan harta yang mereka ambil secara tidak adil. betapa marahnya keluarganya! Tapi Umar tidak peduli — baginya, keadilan lebih penting dari hubungan keluarga.
 
 Isterinya, **Fatimah** — yang sebenarnya putri khalifah sebelumnya — juga diminta mengembalikan semua perhiasannya. Fatimah tidak marah. Ia berkata: *"Aku lebih memilih bersamamu daripada dengan semua perhiasan dunia."* 💕
 

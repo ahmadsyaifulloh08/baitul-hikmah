@@ -4,7 +4,7 @@
 
 ## Panglima Termuda dalam Sejarah
 
-Pernahkah kamu membayangkan memimpin ribuan tentara saat masih berusia **17 tahun**? Itulah yang dilakukan **Muhammad bin Qasim**! Ia adalah panglima muda dari keluarga al-Tsaqafi yang ditugaskan oleh gubernur **al-Hajjaj ibn Yusuf** untuk memimpin pasukan ke wilayah **Sindh** — sebuah negeri jauh di tepi Sungai Indus (sekarang Pakistan selatan).
+Pernahkah kamu memmemimpin ribuan tentara saat masih berusia **17 tahun**? Itulah yang dilakukan **Muhammad bin Qasim**! Ia adalah panglima muda dari keluarga al-Tsaqafi yang ditugaskan oleh gubernur **al-Hajjaj ibn Yusuf** untuk memimpin pasukan ke wilayah **Sindh** — sebuah negeri jauh di tepi Sungai Indus (sekarang Pakistan selatan).
 
 Kenapa ia dikirim ke sana? Karena ada sekelompok perempuan dan anak-anak Muslim yang ditawan oleh bajak laut di wilayah Sindh. Raja negeri itu, **Raja Dahir**, tidak mau atau tidak bisa membebaskan mereka. Maka al-Hajjaj memutuskan untuk mengirim pasukan penyelamat.
 
@@ -16,7 +16,7 @@ Kenapa ia dikirim ke sana? Karena ada sekelompok perempuan dan anak-anak Muslim 
 
 Muhammad bin Qasim berangkat dengan pasukan sekitar **6.000 prajurit berkuda**, ditambah alat-alat perang berat seperti *manjaniq* (mesin pelontar batu raksasa). Perjalanan ke Sindh sangat jauh — melewati gurun pasir dan pegunungan.
 
-Pada tahun 711 M, pasukan Muhammad bin Qasim tiba di pelabuhan **Debal** (dekat kota Karachi sekarang). Tahun yang sama, di ujung barat dunia Islam, Tariq ibn Ziyad juga sedang menaklukkan Spanyol! Bayangkan — di saat bersamaan, Islam menyebar ke dua arah yang berlawanan!
+Pada tahun 711 M, pasukan Muhammad bin Qasim tiba di pelabuhan **Debal** (dekat kota Karachi sekarang). Tahun yang sama, di ujung barat dunia Islam, Tariq ibn Ziyad juga sedang menaklukkan Spanyol! — di saat bersamaan, Islam menyebar ke dua arah yang berlawanan!
 
 Setelah merebut Debal, Muhammad bin Qasim terus bergerak ke utara menyusuri Sungai Indus. Di banyak tempat, penduduk lokal menyambutnya dengan baik, terutama mereka yang selama ini tertindas.
 

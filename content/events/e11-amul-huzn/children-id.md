@@ -2,7 +2,7 @@
 
 ## 💔 Paman yang Selalu Melindungi
 
-Teman-teman, bayangkan kalian punya paman yang sangat sayang kepada kalian. Sejak kecil, ia selalu menjaga kalian. Kalau ada yang mau jahat, paman itu berdiri di depan dan berkata: "Kalau kalian mau menyakitinya, kalian harus lewati aku dulu!"
+Kalian punya paman yang sangat sayang kepada kalian. Sejak kecil, ia selalu menjaga kalian. Kalau ada yang mau jahat, paman itu berdiri di depan dan berkata: "Kalau kalian mau menyakitinya, kalian harus lewati aku dulu!"
 
 Begitulah **Abu Thalib** terhadap **Nabi Muhammad SAW**. Sejak Nabi kecil kehilangan ayah dan ibu, Abu Thalib-lah yang merawat beliau. Ketika Nabi dewasa dan mulai mengajak orang-orang kepada Islam, Abu Thalib tetap melindungi beliau meskipun orang-orang Quraisy marah besar.
 
@@ -23,7 +23,7 @@ Khadijah adalah wanita yang sangat istimewa. Dia adalah orang pertama di seluruh
 
 Selama dua puluh lima tahun pernikahan mereka, Khadijah selalu ada di samping Nabi. Dia memberikan hartanya untuk membantu dakwah Islam. Dia menjadi tempat Nabi bercerita saat sedih dan saat senang. Dia adalah sahabat terbaik Nabi Muhammad SAW.
 
-Bahkan Allah sendiri mengirimkan salam untuk Khadijah melalui Malaikat Jibril! Bayangkan betapa istimewanya beliau di sisi Allah.
+Bahkan Allah sendiri mengirimkan salam untuk Khadijah melalui Malaikat Jibril! betapa istimewanya beliau di sisi Allah.
 
 > **🎨 Brief Ilustrasi:**
 > *Taman kecil dengan pohon kurma di Makkah. Khadijah berdiri dengan anggun, tersenyum lembut, mengenakan pakaian sederhana namun rapi. Di tangannya ada sebuah wadah makanan yang akan diberikan kepada orang yang membutuhkan. Cahaya pagi yang hangat menyelimuti. Warna hijau dedaunan, putih krem pakaian, emas cahaya pagi. Mood penuh kelembutan dan kemuliaan. Komposisi potret — Khadijah di tengah dengan pohon kurma di belakang.*
@@ -38,10 +38,10 @@ Setelah Abu Thalib wafat, tidak ada lagi yang melindungi Nabi dari kejahatan Qur
 
 Nabi Muhammad SAW pun mencoba pergi ke kota **Tha'if** untuk mencari pertolongan. Tapi bukannya disambut baik, beliau malah diusir dan dilempari batu oleh penduduk Tha'if sampai kaki beliau berdarah. Sungguh hari yang sangat berat.
 
-Tapi teman-teman, Nabi Muhammad SAW tidak pernah putus asa. Beliau tetap berdoa kepada Allah. Beliau tetap sabar. Beliau yakin bahwa Allah tidak pernah meninggalkan hamba-Nya yang beriman.
+Tapi Nabi Muhammad SAW tidak pernah putus asa. Beliau tetap berdoa kepada Allah. Beliau tetap sabar. Beliau yakin bahwa Allah tidak pernah meninggalkan hamba-Nya yang beriman.
 
 > **🎨 Brief Ilustrasi:**
-> *Nabi Muhammad SAW duduk sendirian di bawah pohon di pinggiran kota Tha'if menjelang maghrib. Wajah beliau tertunduk, sandal berlumuran darah di sampingnya. Tapi kedua tangan beliau terangkat dalam doa. Di langit, warna senja keunguan yang indah. Warna ungu senja, coklat tanah, merah darah, emas cahaya terakhir. Mood sedih namun penuh harapan. Komposisi luas — figur kecil di bawah langit besar, menunjukkan kesendirian namun juga keagungan.*
+> *Nabi Muhammad SAW duduk sendirian di bawah pohon di pinggiran kota Tha'if menjelang maghrib. Wajah beliau tertunduk, sandal berlumuran darah di sampingnya. Tapi kedua tangan beliau terangkat dalam doa. Di langit, warna senja keunguan yang indah. Warna ungu senja, coklat tamerah darah, emas cahaya terakhir. Mood sedih namun penuh harapan. Komposisi luas — figur kecil di bawah langit besar, menunjukkan kesendirian namun juga keagungan.*
 
 ---
 
@@ -53,7 +53,7 @@ Meskipun tahun itu sangat berat, Allah tidak meninggalkan Nabi-Nya. Allah berfir
 
 Kata-kata Allah ini seperti pelukan hangat di malam yang dingin. Allah mengingatkan Nabi bahwa dari dulu Allah selalu menjaganya, dan Allah akan terus menjaganya.
 
-Dan tahukah teman-teman apa yang terjadi setelah tahun kesedihan ini? Allah memberikan hadiah yang sangat luar biasa kepada Nabi Muhammad SAW — yaitu perjalanan Isra' Mi'raj! Sebuah perjalanan ajaib dari Makkah ke Masjidil Aqsha, lalu naik menembus tujuh langit hingga bertemu Allah secara langsung. Subhanallah!
+Apa yang terjadi setelah tahun kesedihan ini? Allah memberikan hadiah yang sangat luar biasa kepada Nabi Muhammad SAW — yaitu perjalanan Isra' Mi'raj! Sebuah perjalanan ajaib dari Makkah ke Masjidil Aqsha, lalu naik menembus tujuh langit hingga bertemu Allah secara langsung. Subhanallah!
 
 Itulah pelajaran penting dari kisah ini: setelah kesedihan yang berat, pasti akan datang kebahagiaan yang indah. Allah tidak pernah lupa kepada hamba-Nya yang sabar.
 

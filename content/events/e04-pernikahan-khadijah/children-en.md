@@ -2,7 +2,7 @@
 
 ## 💎 An Amazing Woman of Mecca
 
-Friends, in the bustling city of Mecca, there lived a truly extraordinary woman. Her name was **Khadijah bint Khuwaylid**. She was a hugely successful businesswoman — she had many camels and trade caravans that traveled to faraway lands to do business.
+In the bustling city of Mecca, there lived a truly extraordinary woman. Her name was **Khadijah bint Khuwaylid**. She was a hugely successful businesswoman — she had many camels and trade caravans that traveled to faraway lands to do business.
 
 Khadijah was known as a woman who was clever, generous, and deeply respected. Everyone in Mecca called her *al-Tahirah*, meaning "the Pure Woman." Even though she was very wealthy, Khadijah was always looking for honest and trustworthy people to help her with trade.
 
@@ -21,7 +21,7 @@ Maysarah, Khadijah's servant who accompanied Muhammad, told Khadijah everything.
 
 Khadijah listened to Maysarah's account with great attention. Her heart became ever more certain — Muhammad was not just a clever trader, but also a person of truly noble character.
 
-Then do you know what Khadijah did, friends? She decided to propose to Muhammad! Yes, it was Khadijah who first expressed her wish to marry Muhammad through her friend Nafisah. And Muhammad happily accepted.
+Then Khadijah did, ? She decided to propose to Muhammad! Yes, it was Khadijah who first expressed her wish to marry Muhammad through her friend Nafisah. And Muhammad happily accepted.
 
 > **🎨 Illustration Brief:**
 > *Young Muhammad (25 years old) leading a camel caravan through city gates after a successful trading trip. His face is bright with a warm smile. Maysarah walks beside him. In the background, the sunset glows in beautiful orange-gold. Camels carry plenty of trade goods. Warm evening colors, orange, gold, brown. Mood full of success and happiness. Composition — the group entering the city to a welcome.*
@@ -34,7 +34,7 @@ Abu Talib, Muhammad's uncle, came to Khadijah's family home to propose formally.
 
 And so the wedding took place! Muhammad gave a dowry of twenty young camels. The families of Banu Hashim and Banu Asad gathered to celebrate the marriage.
 
-Friends, do you know how long Muhammad and Khadijah lived together? Twenty-five years! And during those twenty-five years, Muhammad never married anyone else. They loved each other very deeply.
+How long Muhammad and Khadijah lived together? Twenty-five years! And during those twenty-five years, Muhammad never married anyone else. They loved each other very deeply.
 
 From their marriage, six children were born — four daughters who would grow up to be noble women, among them **Fatimah**, who was especially beloved by Prophet Muhammad SAW.
 
@@ -45,7 +45,7 @@ From their marriage, six children were born — four daughters who would grow up
 
 ## 🌟 A Love That Lasts Forever
 
-Friends, the story of Muhammad and Khadijah teaches us about true love. Khadijah loved Muhammad not for his wealth — for Muhammad was actually a simple man. She loved Muhammad for his honesty and the goodness of his heart.
+The story of Muhammad and Khadijah teaches us about true love. Khadijah loved Muhammad not for his wealth — for Muhammad was actually a simple man. She loved Muhammad for his honesty and the goodness of his heart.
 
 And Muhammad loved Khadijah deeply throughout his entire life. Even many years after Khadijah passed away, Muhammad would still often mention Khadijah's name and always remember her with great love.
 

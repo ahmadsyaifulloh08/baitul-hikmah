@@ -4,11 +4,11 @@
 
 ## 🌍 What Was the Ka'bah Like Before?
 
-Do you know who built the Ka'bah? **Prophet Ibrahim** and his son **Prophet Ismail** *'alayhimas salam*! They built it as a house of worship for **Allah alone**.
+Who built the Ka'bah? **Prophet Ibrahim** and his son **Prophet Ismail** *'alayhimas salam*! They built it as a house of worship for **Allah alone**.
 
 But over hundreds of years, the people of Arabia forgot the Ka'bah's true purpose. Little by little, they brought statues and idols into the Ka'bah. They started worshipping these idols and forgot about Allah.
 
-Eventually, there were **360 idols** in and around the Ka'bah! Some were made of stone, some of wood. The biggest one was called **Hubal** — made of red stone and shaped like a person. Imagine — a house built for Allah, filled with statues!
+Eventually, there were **360 idols** in and around the Ka'bah! Some were made of stone, some of wood. The biggest one was called **Hubal** — made of red stone and shaped like a person. — a house built for Allah, filled with statues!
 
 > 🎨 *Illustration: The Ka'bah surrounded by idols of various shapes and sizes. A gloomy atmosphere, overcast sky. In the corner, a thin beam of light piercing through the clouds — a symbol of hope. Colors: gray, dark brown, with a sliver of gold. Mood: sad but hopeful. Composition: Ka'bah in the center, idols surrounding it, thin light from above.*
 

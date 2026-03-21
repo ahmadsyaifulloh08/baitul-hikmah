@@ -2,7 +2,7 @@
 
 ## ⚔️ Why Did They Have to Leave?
 
-Friends, imagine living in a place where bad people keep hurting you just because you believe in Allah. They hit you, mock you, and forbid you from praying.
+Living in a place where bad people keep hurting you just because you believe in Allah. They hit you, mock you, and forbid you from praying.
 
 That's what happened to Muslims in Mecca. After Prophet Muhammad SAW began preaching openly, the Quraysh became even angrier and crueler. They tortured Muslims — especially those who were poor and had no protection.
 
@@ -21,13 +21,13 @@ Prophet Muhammad SAW told his companions: "Go to Abyssinia. There is a king who 
 
 The first group to leave numbered about sixteen people, including **Uthman ibn Affan** and his wife **Ruqayyah** — the Prophet's own daughter! They left secretly at night, slipped to the coast, and boarded a boat to cross the Red Sea.
 
-Imagine how sad it must have been to leave home, family, and the land where they grew up. But they knew it was for their safety.
+How sad it must have been to leave home, family, and the land where they grew up. But they knew it was for their safety.
 
 Soon after, a much larger group followed — about a hundred people! They were led by **Ja'far ibn Abi Talib**, the Prophet's cousin who was very clever and a wonderful speaker.
 
 When they arrived in Abyssinia, King Negus welcomed them kindly and gave them a safe place to live. At last, after months of living in fear, they could worship in peace!
 
-But the story wasn't over yet...
+But the story wasn't over yet..
 
 ### The Quraysh Wouldn't Give Up!
 
@@ -54,7 +54,7 @@ Then he turned to the Quraysh envoys and said firmly: **"Go! By Allah, I will ne
 
 The Muslims lived safely in Abyssinia for many years. They could worship peacefully, study their religion, and build their community. King Negus protected them from all threats.
 
-What's amazing is that even though the Negus was Christian, he deeply respected the Muslims. And do you know what? Years later, when the Negus passed away, Prophet Muhammad SAW performed a special funeral prayer for him from far away (called salat al-gha'ib)! This shows how much the Prophet valued the Negus's kindness and justice.
+What's amazing is that even though the Negus was Christian, he deeply respected the Muslims. Years later, when the Negus passed away, Prophet Muhammad SAW performed a special funeral prayer for him from far away (called salat al-gha'ib)! This shows how much the Prophet valued the Negus's kindness and justice.
 
 > **🎨 Illustration Brief:**
 > *A peaceful scene in Abyssinia. A group of Muslims sit under a large tree — some reading the Qur'an, some teaching children, some praying. In the background, green Ethiopian mountains and a clear blue sky. Greens, blues, warm browns. Mood full of peace and gratitude. Wide composition — beautiful nature with small, happy figures.*
@@ -72,4 +72,4 @@ What's amazing is that even though the Negus was Christian, he deeply respected 
 **Never be ashamed to tell the truth about yourself.** Ja'far wasn't ashamed to say that his people were once ignorant and wicked. It was precisely his honesty that made the Negus trust him.
 
 > **🎨 Illustration Brief:**
-> *Two hands clasping — one lighter-skinned (representing the Negus), one darker-skinned (representing Ja'far). In the background, a flag of peace flies. Above the handshake, symbols: a crescent and a cross side by side in light. Gold, white, blue colors. Mood full of friendship and mutual respect. Central composition — handshake in the middle, symbols above.*
+> *Two hands clasping — one lighter-skinned (representing the Negus), one darker-skinned (representing Ja'far). In the background, a flag of peace flies. Above the handshake, symbols: a crescent and a cross side by side in light. Gold, white, blue colors. Mood full of hip and mutual respect. Central composition — handshake in the middle, symbols above.*

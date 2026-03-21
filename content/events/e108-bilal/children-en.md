@@ -26,7 +26,7 @@ Bilal embraced Islam. He knew his master would be furious. But Bilal chose the t
 
 When Umayyah found out, he was furious! Every day at noon, he ordered Bilal laid on the burning sand with a **huge boulder** on his chest.
 
-Umayyah screamed: "Leave Islam!" But Bilal only said: **"Ahad... Ahad..."** — "The One... The One..." In terrible pain, he never gave up.
+Umayyah screamed: "Leave Islam!" But Bilal only said: **"Ahad.. Ahad.."** — "The One.. The One.." In terrible pain, he never gave up.
 
 > **🎨 Illustration Brief:**
 > *Scorching desert under midday sun. Bilal lies with a massive boulder on his chest, face turned toward the sky. His mouth open, uttering "Ahad." From his mouth, golden light rises. The shadow of Umayyah looms nearby. Colors of hot orange, red, gold. Mood of suffering yet unbreakable strength.*
@@ -48,7 +48,7 @@ So Abu Bakr bought Bilal for a high price — and **set him free**! He also free
 
 After the Muslims moved to Medina, Prophet Muhammad SAW built a mosque. He chose **Bilal** to call the people to prayer!
 
-The man who was once a slave now stood at the highest point in Medina. His beautiful voice echoed across the city: **"Allahu Akbar, Allahu Akbar..."**
+The man who was once a slave now stood at the highest point in Medina. His beautiful voice echoed across the city: **"Allahu Akbar, Allahu Akbar.."**
 
 The Prophet even told Bilal: "I heard your sandals walking ahead of me in Paradise!"
 
@@ -75,4 +75,4 @@ Years later, when Bilal visited Medina, the people begged him to give the adhan 
 **Never look down on anyone.** The most despised person in Mecca became the most honored voice in Medina! Subhanallah!
 
 > **🎨 Illustration Brief:**
-> *Children of various skin colors standing together, smiling, hands linked. Above them, a golden sunrise. Bright cheerful colors — diverse skin tones, diverse clothing. Mood of friendship and equality. Circular composition — children in a ring, sunrise above.*
+> *Children of various skin colors standing together, smiling, hands linked. Above them, a golden sunrise. Bright cheerful colors — diverse skin tones, diverse clothing. Mood of hip and equality. Circular composition — children in a ring, sunrise above.*

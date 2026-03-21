@@ -6,7 +6,7 @@
 
 Setelah Islam menyebar ke banyak negeri, umat Islam di berbagai tempat membaca al-Quran dengan cara yang sedikit berbeda-beda. Bukan isi ayatnya yang berbeda — tapi cara membacanya.
 
-Bayangkan: orang-orang dari Irak dan Syam berkumpul dalam satu pasukan. Ketika mereka membaca al-Quran bersama, mereka terkejut karena cara bacanya tidak sama! Masing-masing berkata: *"Bacaan kami yang benar!"*
+Orang-orang dari Irak dan Syam berkumpul dalam satu pasukan. Ketika mereka membaca al-Quran bersama, mereka terkejut karena cara bacanya tidak sama! Masing-masing berkata: *"Bacaan kami yang benar!"*
 
 Seorang sahabat bernama **Hudzaifah ibn al-Yaman** melihat pertengkaran ini dan sangat khawatir. Ia langsung pergi menemui Khalifah **Utsman ibn Affan** di Madinah dan berkata: *"Selamatkanlah umat ini sebelum mereka berselisih tentang al-Quran!"*
 
@@ -43,7 +43,7 @@ Kemudian, semua salinan lama yang berbeda-beda diperintahkan untuk dimusnahkan. 
 
 ## Al-Quran yang Kita Baca Hari Ini
 
-Tahukah kamu? Mushaf al-Quran yang kita baca hari ini — di manapun di dunia — berasal dari proyek Khalifah Utsman pada tahun 650 M! Itulah sebabnya mushaf al-Quran sering disebut **Mushaf Utsmani**.
+Mushaf al-Quran yang kita baca hari ini — di manapun di dunia — berasal dari proyek Khalifah Utsman pada tahun 650 M! Itulah sebabnya mushaf al-Quran sering disebut **Mushaf Utsmani**.
 
 Allah berfirman dalam al-Quran: **"Sesungguhnya Kamilah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya."** (QS Al-Hijr: 9)
 

@@ -36,9 +36,9 @@ Pasukan Romawi berpakaian besi tebal, membawa perisai besar, dan berjumlah sanga
 
 **Khalid bin al-Walid** memimpin pasukan berkuda Muslim dalam serangan-serangan dahsyat ke jantung barisan Romawi. **Amr bin al-Ash**, yang sangat mengenal medan Palestina, bertempur dengan gagah berani.
 
-Pertempuran berlangsung sengit sepanjang hari. Dan akhirnya... **pasukan Muslim menang!** Pasukan Romawi kocar-kacir, komandan mereka tewas atau melarikan diri!
+Pertempuran berlangsung sengit sepanjang hari. Dan akhirnya.. **pasukan Muslim menang!** Pasukan Romawi kocar-kacir, komandan mereka tewas atau melarikan diri!
 
-🎨 *Ilustrasi: Pertempuran di lembah terbuka, pasukan berkuda Muslim menyerang formasi tentara Romawi bersenjata berat. Debu berterbangan, bendera berkibar. Khalid di depan mengayunkan pedang. Warna dominan: cokelat tanah, perak baja, dan hijau bendera Islam. Mood: heroik dan penuh aksi. Komposisi: dua barisan berhadapan, momen tumbukan di tengah.*
+🎨 *Ilustrasi: Pertempuran di lembah terbuka, pasukan berkuda Muslim menyerang formasi tentara Romawi bersenjata berat. Debu berterbangan, bendera berkibar. Khalid di depan mengayunkan pedang. Warna dominan: cokelat taperak baja, dan hijau bendera Islam. Mood: heroik dan penuh aksi. Komposisi: dua barisan berhadapan, momen tumbukan di tengah.*
 
 ---
 
@@ -79,6 +79,6 @@ Pertempuran Ajnadayn mengajarkan kita:
 - **Etika itu penting** — bahkan di perang, ada aturan untuk melindungi yang lemah
 - **Langkah kecil membuka jalan besar** — satu kemenangan di Ajnadayn membuka pintu untuk penaklukan seluruh Syam
 
-Allah berfirman tentang tanah Syam: **"...Masjidil Aqsha yang telah Kami berkahi sekelilingnya."** (QS Al-Isra: 1)
+Allah berfirman tentang tanah Syam: **"..Masjidil Aqsha yang telah Kami berkahi sekelilingnya."** (QS Al-Isra: 1)
 
 🎨 *Ilustrasi: Khalid dan Amr berdiri berdampingan di atas bukit, memandang ke arah Syam yang hijau membentang di depan mereka. Angin bertiup lembut, jubah mereka berkibar. Warna dominan: hijau Syam, biru langit, dan emas matahari. Mood: penuh kemenangan dan refleksi. Komposisi: dua figur di bukit dari belakang, memandang panorama Syam yang luas.*

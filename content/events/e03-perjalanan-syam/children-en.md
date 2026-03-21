@@ -2,13 +2,13 @@
 
 ## 🐪 Young Muhammad Wants to Come Along
 
-Friends, imagine a twelve-year-old boy who is very close to his uncle. Wherever his uncle goes, he wants to follow. That boy's name was **Muhammad**, and his uncle's name was **Abu Talib**.
+A twelve-year-old boy who is very close to his uncle. Wherever his uncle goes, he wants to follow. That boy's name was **Muhammad**, and his uncle's name was **Abu Talib**.
 
 One day, Abu Talib was getting ready for a very long trading journey — all the way to the land of Syria! The trip would take weeks, crossing hot deserts, riding camels from morning until evening. Abu Talib thought the journey was too hard for a little boy.
 
 But young Muhammad did not want to be left behind. He held tightly onto his uncle's camel rope and pleaded: "Uncle, please don't leave me!" Abu Talib looked at his nephew's hopeful face, and his heart melted. "Alright," said Abu Talib, "I will take you with me. We shall not be parted."
 
-And just like that, young Muhammad joined his very first trading journey to a faraway land!
+Young Muhammad joined his very first trading journey to a faraway land!
 
 > **🎨 Illustration Brief:**
 > *A long camel caravan in the desert at sunrise. Young Muhammad (12 years old) sits atop a camel alongside Abu Talib, his eyes bright with excitement as he gazes at the vast horizon. Behind them, a line of other camels carry trade goods. Colors of golden sunrise, brown sand, clear blue sky. Mood full of adventure and excitement. Wide panoramic composition — caravan moving from left to right toward the rising sun.*
@@ -43,7 +43,7 @@ Bahira rushed to Abu Talib: "Take good care of your nephew, he has a very great 
 
 ## 🌟 Lessons from the Journey
 
-Friends, from this story we learn many beautiful things!
+From this story we learn many beautiful things!
 
 **First**, Allah always protects those He loves. Young Muhammad was an orphan — his father had passed away before he was born, and his mother died when he was still small. But Allah sent Abu Talib, who loved him like his own son.
 
@@ -51,7 +51,7 @@ Friends, from this story we learn many beautiful things!
 
 **Third**, even though Muhammad was still young, he already showed extraordinary qualities. He was honest, polite, and calm — so much so that even a monk from a faraway land could recognize how special he was.
 
-And do you know what, friends? Later, Muhammad would grow up to be known by everyone in Mecca as *al-Amin* — which means "the most trustworthy person." Subhanallah!
+Later, Muhammad would grow up to be known by everyone in Mecca as *al-Amin* — which means "the most trustworthy person." Subhanallah!
 
 > **🎨 Illustration Brief:**
 > *Young Muhammad walking beside Abu Talib in a lively Meccan market after returning from the journey. People in the market smile and wave at them. Muhammad carries a small bundle of gifts from the trip. Bright market colors — red, yellow, orange fabrics from merchants. Warm afternoon light. Mood joyful and warm. Composition of a lively market street with two figures walking homeward.*

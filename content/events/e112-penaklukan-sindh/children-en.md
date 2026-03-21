@@ -16,7 +16,7 @@ Why was he sent there? Because a group of Muslim women and children had been cap
 
 Muhammad bin Qasim set out with about **6,000 cavalry soldiers**, plus heavy weapons like the *manjaniq* (giant catapults). The journey to Sindh was incredibly long — across deserts and mountain ranges.
 
-In 711 CE, Muhammad bin Qasim's forces arrived at the port of **Debal** (near present-day Karachi). That very same year, at the western edge of the Muslim world, Tariq ibn Ziyad was conquering Spain! Imagine — at the same time, Islam was spreading in two opposite directions!
+In 711 CE, Muhammad bin Qasim's forces arrived at the port of **Debal** (near present-day Karachi). That very same year, at the western edge of the Muslim world, Tariq ibn Ziyad was conquering Spain! — at the same time, Islam was spreading in two opposite directions!
 
 After capturing Debal, Muhammad bin Qasim continued moving north along the Indus River. In many places, the local people welcomed him warmly, especially those who had been oppressed.
 

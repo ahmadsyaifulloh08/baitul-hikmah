@@ -2,7 +2,7 @@
 
 ## 🏔️ Gua Kecil di Puncak Gunung
 
-Teman-teman, di dekat kota Makkah ada sebuah gunung yang disebut **Jabal Nur** — artinya "Gunung Cahaya." Di puncak gunung itu, tersembunyi sebuah gua kecil yang hanya cukup untuk satu orang. Gua itu bernama **Gua Hira**.
+Di dekat kota Makkah ada sebuah gunung yang disebut **Jabal Nur** — artinya "Gunung Cahaya." Di puncak gunung itu, tersembunyi sebuah gua kecil yang hanya cukup untuk satu orang. Gua itu bernama **Gua Hira**.
 
 **Nabi Muhammad SAW**, yang saat itu sudah berusia empat puluh tahun, sering sekali pergi ke Gua Hira. Beliau membawa bekal makanan dan tinggal di sana selama berhari-hari. Apa yang beliau lakukan di sana? Beliau berpikir. Beliau merenungkan tentang langit, bintang-bintang, gunung-gunung, dan tentang Tuhan yang menciptakan semuanya.
 
@@ -44,7 +44,7 @@ Ketika sudah tenang, Muhammad menceritakan semua yang terjadi di Gua Hira. Belia
 
 Dan tahu apa yang dikatakan Khadijah? Dengan penuh keyakinan, Khadijah berkata: "Jangan takut! Demi Allah, Allah tidak akan pernah menghinakanmu. Engkau selalu menyambung silaturahmi, menolong orang yang susah, memuliakan tamu, dan memberi makan orang yang lapar. Allah tidak mungkin menyia-nyiakan orang sebaik dirimu!"
 
-Kata-kata Khadijah membuat Muhammad merasa tenang. Khadijah kemudian menjadi **orang pertama di seluruh dunia** yang percaya bahwa Muhammad adalah utusan Allah. Luar biasa!
+Kata-kata Khadijah membuat Muhammad merasa tenang. Khadijah kemudian menjadi **orang pertama di seluruh dunia** yang percaya bahwa Muhammad adalah utusan Allah.
 
 > **🎨 Brief Ilustrasi:**
 > *Ruangan hangat di rumah Muhammad dan Khadijah di Makkah, malam hari. Muhammad duduk diselimuti kain tebal, masih sedikit gemetar. Khadijah duduk di sampingnya, memegang tangan suaminya dengan lembut, wajahnya penuh kasih sayang dan kekuatan. Lampu minyak kecil menerangi ruangan dengan cahaya hangat kuning-oranye. Warna hangat — oranye, coklat, krem. Mood penuh kehangatan dan keamanan. Komposisi intim — dua figur berdekatan di bawah cahaya lembut.*
@@ -53,11 +53,11 @@ Kata-kata Khadijah membuat Muhammad merasa tenang. Khadijah kemudian menjadi **o
 
 ## 🌟 Awal yang Baru
 
-Teman-teman, malam itu di Gua Hira adalah awal dari sesuatu yang sangat besar! Lima ayat yang dibawa Jibril adalah ayat-ayat pertama Al-Quran — kitab suci yang akan menjadi petunjuk bagi miliaran manusia hingga hari ini.
+Malam itu di Gua Hira adalah awal dari sesuatu yang sangat besar! Lima ayat yang dibawa Jibril adalah ayat-ayat pertama Al-Quran — kitab suci yang akan menjadi petunjuk bagi miliaran manusia hingga hari ini.
 
 Setelah malam itu, Muhammad resmi menjadi **Nabi dan Rasul Allah**. Tugas beliau adalah menyampaikan pesan Allah kepada seluruh manusia — pesan tentang kebaikan, keadilan, kasih sayang, dan menyembah hanya kepada Allah yang Satu.
 
-Tahukah teman-teman? Kata pertama yang diwahyukan Allah adalah "Bacalah!" Ini menunjukkan betapa pentingnya belajar dan mencari ilmu dalam Islam. Allah ingin kita semua rajin membaca, rajin belajar, dan rajin berpikir!
+Tahukah ? Kata pertama yang diwahyukan Allah adalah "Bacalah!" Ini menunjukkan betapa pentingnya belajar dan mencari ilmu dalam Islam. Allah ingin kita semua rajin membaca, rajin belajar, dan rajin berpikir!
 
 Khadijah menjadi orang pertama yang beriman. Lalu sedikit demi sedikit, orang-orang lain pun mulai beriman. Dari gua kecil di puncak gunung yang sunyi, lahirlah sebuah agama yang hari ini dipeluk oleh hampir dua miliar manusia di seluruh dunia!
 

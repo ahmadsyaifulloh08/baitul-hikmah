@@ -24,7 +24,7 @@ Di tengah kota, Uqba membangun sebuah **masjid besar** yang sangat indah — Mas
 
 ## Uqba dan Samudra Atlantik
 
-Uqba terus bergerak ke barat, melewati pegunungan dan padang pasir, hingga akhirnya ia sampai di tepi **Samudra Atlantik** — di ujung barat Afrika! Bayangkan perjalanan yang sangat jauh itu, ribuan kilometer dari Mesir!
+Uqba terus bergerak ke barat, melewati pegunungan dan padang pasir, hingga akhirnya ia sampai di tepi **Samudra Atlantik** — di ujung barat Afrika! perjalanan yang sangat jauh itu, ribuan kilometer dari Mesir!
 
 Di tepi pantai, Uqba memacu kudanya ke dalam ombak dan berkata dengan penuh semangat: *"Ya Allah, seandainya bukan karena lautan ini, tentu aku akan terus berjalan untuk memperjuangkan agama-Mu!"*
 

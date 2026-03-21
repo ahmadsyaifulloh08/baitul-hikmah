@@ -38,7 +38,7 @@ Setelah itu, penaklukan berlangsung sangat cepat. Tariq menaklukkan **Toledo** �
 
 ## Al-Andalus — Peradaban yang Gemilang
 
-Penaklukan ini bukan akhir cerita — justru ini adalah **awal** dari sesuatu yang luar biasa! Selama hampir **800 tahun**, wilayah ini — yang disebut **Al-Andalus** — menjadi salah satu pusat peradaban paling maju di dunia!
+Penaklukan ini bukan akhir cerita — justru ini adalah **awal** dari sesuatu yang. Selama hampir **800 tahun**, wilayah ini — yang disebut **Al-Andalus** — menjadi salah satu pusat peradaban paling maju di dunia!
 
 Di kota **Kordoba**, ada perpustakaan dengan ratusan ribu buku — jauh lebih banyak dari seluruh perpustakaan Eropa lainnya! Muslim, Kristen, dan Yahudi hidup berdampingan, belajar bersama, dan membangun peradaban bersama.
 

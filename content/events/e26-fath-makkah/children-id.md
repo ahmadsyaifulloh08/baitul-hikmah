@@ -6,7 +6,7 @@
 
 Dulu, Nabi Muhammad ﷺ dan kaum Quraisy sudah punya **perjanjian damai** yang disebut Perjanjian Hudaibiyah. Dalam perjanjian itu, mereka sepakat untuk tidak saling menyerang selama sepuluh tahun.
 
-Tapi ternyata... perjanjian itu dilanggar! Sekutu Quraisy yang bernama **Bani Bakr** menyerang **Bani Khuza'ah** — teman kaum muslimin — di malam hari. Dan yang lebih parah, beberapa pemimpin Quraisy malah ikut membantu serangan itu!
+Tapi ternyata.. perjanjian itu dilanggar! Sekutu Quraisy yang bernama **Bani Bakr** menyerang **Bani Khuza'ah** — teman kaum muslimin — di malam hari. Dan yang lebih parah, beberapa pemimpin Quraisy malah ikut membantu serangan itu!
 
 Seorang utusan Bani Khuza'ah berlari jauh sampai ke Madinah untuk minta tolong kepada Nabi Muhammad ﷺ. Nabi bersabda tegas: **"Kamu pasti akan ditolong!"**
 
@@ -20,7 +20,7 @@ Sekarang Quraisy ketakutan. Mereka tahu mereka salah. Abu Sufyan bahkan datang k
 
 Nabi Muhammad ﷺ menyiapkan pasukan yang sangat besar — **10.000 orang**! Tapi beliau merahasiakan tujuan perjalanan ini. Kenapa? Karena beliau tidak mau ada pertempuran. Beliau ingin Makkah dibebaskan **tanpa pertumpahan darah**.
 
-Ketika pasukan sampai di dekat Makkah, di sebuah tempat bernama **Marr al-Zhahran**, Nabi memerintahkan setiap kelompok untuk **menyalakan api unggun**. Bayangkan — ribuan api menyala di lembah! Saat Abu Sufyan melihat pemandangan itu, dia terkagum-kagum dan akhirnya memutuskan untuk masuk Islam.
+Ketika pasukan sampai di dekat Makkah, di sebuah tempat bernama **Marr al-Zhahran**, Nabi memerintahkan setiap kelompok untuk **menyalakan api unggun**. — ribuan api menyala di lembah! Saat Abu Sufyan melihat pemandangan itu, dia terkagum-kagum dan akhirnya memutuskan untuk masuk Islam.
 
 Keesokan harinya, pasukan memasuki Makkah dari **empat arah** sekaligus. Hampir tidak ada perlawanan sama sekali! Makkah berhasil dibebaskan nyaris tanpa pertumpahan darah.
 
@@ -54,7 +54,7 @@ Setelah itu, berhala-berhala di Ka'bah dihancurkan. Ka'bah kembali menjadi rumah
 
 Fath Makkah mengajarkan kita hal-hal luar biasa:
 
-- **Memaafkan itu kuat** 🤝 — Nabi punya kekuatan untuk menghukum, tapi memilih memaafkan. Memaafkan bukan berarti lemah — justru itu tanda kekuatan jiwa yang luar biasa!
+- **Memaafkan itu kuat** 🤝 — Nabi punya kekuatan untuk menghukum, tapi memilih memaafkan. Memaafkan bukan berarti lemah — justru itu tanda kekuatan jiwa yang.
 
 - **Cerdas lebih baik dari kasar** 🧠 — Nabi menggunakan strategi cerdas agar Makkah bisa dibebaskan tanpa perang besar. Ribuan api unggun dan pasukan dari empat arah membuat lawan menyerah tanpa pertempuran.
 

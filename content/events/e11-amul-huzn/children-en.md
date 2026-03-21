@@ -2,7 +2,7 @@
 
 ## 💔 The Uncle Who Always Protected
 
-Friends, imagine you have an uncle who loves you very much. Since you were little, he has always watched over you. If anyone wanted to harm you, that uncle would stand in front of you and say: "If you want to hurt him, you'll have to get through me first!"
+You have an uncle who loves you very much. Since you were little, he has always watched over you. If anyone wanted to harm you, that uncle would stand in front of you and say: "If you want to hurt him, you'll have to get through me first!"
 
 That is exactly how **Abu Talib** was toward **Prophet Muhammad SAW**. Ever since the Prophet lost his father and mother as a child, it was Abu Talib who raised him. When the Prophet grew up and began inviting people to Islam, Abu Talib continued to protect him even though the Quraysh leaders were furious.
 
@@ -23,7 +23,7 @@ Khadijah was a truly extraordinary woman. She was the very first person in the e
 
 Throughout their twenty-five years of marriage, Khadijah was always at the Prophet's side. She gave her wealth to help the Islamic mission. She was the person the Prophet confided in during times of sadness and joy. She was Prophet Muhammad SAW's best companion.
 
-Allah Himself even sent greetings to Khadijah through the Angel Jibril! Imagine how special she was in the sight of Allah.
+Allah Himself even sent greetings to Khadijah through the Angel Jibril! how special she was in the sight of Allah.
 
 > **🎨 Illustration Brief:**
 > *A small garden with date palm trees in Mecca. Khadijah stands gracefully, smiling gently, wearing simple yet neat clothing. In her hand is a bowl of food to be given to those in need. Warm morning light envelops the scene. Colors of green foliage, cream-white clothing, golden morning light. Mood full of gentleness and nobility. Portrait composition — Khadijah in the center with date palms behind her.*
@@ -38,7 +38,7 @@ After Abu Talib passed away, there was no one left to protect the Prophet from t
 
 Prophet Muhammad SAW also tried traveling to the city of **Ta'if** to seek help. But instead of being welcomed, he was driven out and pelted with stones by the people of Ta'if until his feet bled. It was truly an incredibly difficult day.
 
-But friends, Prophet Muhammad SAW never gave up hope. He continued to pray to Allah. He remained patient. He was certain that Allah never abandons His faithful servants.
+But Prophet Muhammad SAW never gave up hope. He continued to pray to Allah. He remained patient. He was certain that Allah never abandons His faithful servants.
 
 > **🎨 Illustration Brief:**
 > *Prophet Muhammad SAW sitting alone under a tree on the outskirts of Ta'if at dusk. His face is bowed down, bloodstained sandals beside him. But both his hands are raised in prayer. In the sky, beautiful purple-hued sunset colors. Colors of purple dusk, brown earth, red blood, golden last light. Mood is sorrowful yet hopeful. Wide composition — a small figure beneath a vast sky, showing solitude yet also grandeur.*
@@ -53,7 +53,7 @@ Even though that year was incredibly hard, Allah did not abandon His Prophet. Al
 
 These words of Allah were like a warm embrace on a cold night. Allah reminded the Prophet that He had always watched over him, and He would continue to watch over him.
 
-And do you know what happened after this year of sorrow, friends? Allah gave Prophet Muhammad SAW an absolutely incredible gift — the journey of Isra' Mi'raj! A miraculous journey from Mecca to Masjid al-Aqsa, then ascending through seven heavens to meet Allah directly. Subhanallah!
+Happened after this year of sorrow, ? Allah gave Prophet Muhammad SAW an absolutely incredible gift — the journey of Isra' Mi'raj! A miraculous journey from Mecca to Masjid al-Aqsa, then ascending through seven heavens to meet Allah directly. Subhanallah!
 
 That is the important lesson from this story: after heavy sorrow, beautiful happiness is sure to come. Allah never forgets His patient servants.
 

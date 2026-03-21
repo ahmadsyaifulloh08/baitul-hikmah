@@ -38,7 +38,7 @@ After winning at Hunayn, the Muslim army chased the remaining enemy to the city 
 
 Prophet Muhammad ﷺ made a wise decision: **lift the siege and go home**. Some companions protested, but the Prophet prayed: *"O Allah, guide the people of Thaqif!"*
 
-And do you know what happened? A few months later, the people of Ta'if **came to Madinah on their own** and accepted Islam! No war, no force. The Prophet's prayer was answered!
+Happened? A few months later, the people of Ta'if **came to Madinah on their own** and accepted Islam! No war, no force. The Prophet's prayer was answered!
 
 There was one very touching moment. When dividing the war spoils, the Prophet gave generous amounts to people who had **just recently become Muslim**, to soften their hearts. The Ansar — who had been with the Prophet for years — felt a little disappointed.
 

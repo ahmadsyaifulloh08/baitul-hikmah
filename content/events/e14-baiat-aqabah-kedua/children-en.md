@@ -32,7 +32,7 @@ Prophet Muhammad ﷺ said: "I ask you to protect me as you protect your wives an
 
 Then someone asked: "O Messenger of Allah, if Allah gives you victory later, will you leave us?" The Prophet smiled and answered: "No. My blood is your blood. I am part of you."
 
-Another man stood up and reminded his friends: "Do you know what this means? It means we are ready to fight everyone who opposes Muhammad. If you cannot handle that, step back now!"
+Another man stood up and reminded his : "this means? It means we are ready to fight everyone who opposes Muhammad. If you cannot handle that, step back now!"
 
 They answered together: "We are ready! What do we get, O Messenger of Allah?"
 

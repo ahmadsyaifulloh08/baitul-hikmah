@@ -2,7 +2,7 @@
 
 ## 🏛️ Ka'bah yang Rusak
 
-Teman-teman, di tengah kota Makkah berdiri sebuah bangunan yang sangat istimewa — namanya **Ka'bah**. Bangunan berbentuk kubus ini pertama kali dibangun oleh **Nabi Ibrahim** dan putranya **Nabi Ismail** ribuan tahun yang lalu sebagai rumah untuk menyembah Allah.
+Di tengah kota Makkah berdiri sebuah bangunan yang sangat istimewa — namanya **Ka'bah**. Bangunan berbentuk kubus ini pertama kali dibangun oleh **Nabi Ibrahim** dan putranya **Nabi Ismail** ribuan tahun yang lalu sebagai rumah untuk menyembah Allah.
 
 Tapi suatu hari, hujan yang sangat lebat turun di Makkah. Air bah mengalir deras dari bukit-bukit dan masuk ke dalam kota. Banjir besar itu menghantam dinding-dinding Ka'bah yang sudah tua sampai retak dan hampir roboh!
 
@@ -17,15 +17,15 @@ Akhirnya, seorang pemimpin bernama al-Walid mengambil kapak dan mulai membongkar
 
 ## ⚔️ Pertengkaran Besar
 
-Pembangunan berjalan lancar sampai tiba saatnya memasang kembali **Hajar Aswad** — batu hitam istimewa yang ada di sudut Ka'bah. Nah, di sinilah masalah besar dimulai!
+Pembangunan berjalan lancar sampai tiba saatnya memasang kembali **Hajar Aswad** — batu hitam istimewa yang ada di sudut Ka'bah. di sinilah masalah besar dimulai!
 
 Setiap keluarga besar (klan) di Quraisy ingin menjadi yang memasang Hajar Aswad. Mereka merasa itu adalah kehormatan yang sangat besar. "Kami yang berhak!" kata satu klan. "Tidak, kami yang lebih berhak!" kata klan yang lain.
 
-Pertengkaran semakin panas. Beberapa klan bahkan sudah siap berperang! Mereka mencelupkan tangan ke dalam wadah berisi darah sebagai tanda siap bertarung. Bayangkan, teman-teman — mereka nyaris berkelahi hanya karena berebut siapa yang memasang batu!
+Pertengkaran semakin panas. Beberapa klan bahkan sudah siap berperang! Mereka mencelupkan tangan ke dalam wadah berisi darah sebagai tanda siap bertarung. Mereka nyaris berkelahi hanya karena berebut siapa yang memasang batu.
 
 Pertengkaran ini berlangsung empat hari tanpa ada solusi. Semua orang bingung. Akhirnya, seorang tetua bernama Abu Umayyah punya ide: "Begini saja — orang pertama yang masuk ke pintu Masjidil Haram besok pagi, dialah yang akan menjadi hakim untuk kita semua!"
 
-Semua setuju. Mereka menunggu dengan tegang...
+Semua setuju. Mereka menunggu dengan tegang..
 
 > **🎨 Brief Ilustrasi:**
 > *Para pemimpin klan Quraisy berdiri berhadap-hadapan di depan Ka'bah yang setengah jadi, dengan ekspresi marah dan tegang. Di antara mereka, Hajar Aswad tergeletak di atas sebuah bantal batu. Beberapa orang menunjuk-nunjuk dengan emosi. Abu Umayyah, seorang tetua berjenggot putih, mengangkat tangannya meminta semua orang tenang. Warna-warna tegang — merah, oranye, coklat gelap. Mood penuh ketegangan. Komposisi dua kelompok berhadapan dengan batu di tengah.*
@@ -53,7 +53,7 @@ Semua orang bertepuk tangan! Tidak ada yang merasa dirugikan. Semua ikut mengang
 
 ## 🌟 Pelajaran Penting
 
-Teman-teman, dari kisah ini kita bisa belajar banyak hal!
+Dari kisah ini kita bisa belajar banyak hal!
 
 **Pertama**, masalah yang rumit bisa diselesaikan dengan pikiran yang jernih. Muhammad tidak panik, tidak marah, dan tidak memihak siapa pun. Ia berpikir dengan tenang dan menemukan solusi yang membuat semua orang senang.
 

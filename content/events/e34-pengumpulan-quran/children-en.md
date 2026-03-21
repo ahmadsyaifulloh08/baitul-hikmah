@@ -6,7 +6,7 @@
 
 When the Prophet Muhammad ﷺ was still alive, the Quran was kept safe in two ways. First, the companions **memorized it** in their hearts. Second, the scribes **wrote it down** on palm stalks, flat stones, camel bones, and pieces of leather!
 
-Imagine — the Quran was not yet in the form of one neat book like the one we know today. Its verses were scattered in many places and in the memories of many people.
+— the Quran was not yet in the form of one neat book like the one we know today. Its verses were scattered in many places and in the memories of many people.
 
 While the Prophet was alive, this was not a problem. If there was any question about a verse, people could simply ask the Prophet. But after the Prophet passed away, who would make sure everything was correct?
 

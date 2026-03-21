@@ -54,7 +54,7 @@ Ini adalah keputusan yang **sangat penting**! Berkat proyek ini, al-Quran yang k
 
 ## Wafat Abu Bakr — Pemimpin yang Sederhana
 
-Abu Bakr menjadi khalifah hanya selama **dua tahun tiga bulan**. Singkat, tapi penuh pencapaian luar biasa!
+Abu Bakr menjadi khalifah hanya selama **dua tahun tiga bulan**. Singkat, tapi penuh pencapaian.
 
 Sebelum wafat, ia menunjuk **Umar bin Khattab** sebagai penggantinya. Dan ia berwasiat agar dikafankan dengan **pakaian lamanya yang sudah usang** — bukan kain baru. Ia berkata: *"Orang hidup lebih membutuhkan kain baru daripada orang mati."*
 

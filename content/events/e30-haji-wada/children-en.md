@@ -6,7 +6,7 @@
 
 Prophet Muhammad ﷺ announced that he would go on Hajj — the pilgrimage to Makkah. This was his first and last Hajj — though nobody knew it at the time.
 
-The news spread across all of Arabia. People came from everywhere — from the deserts, mountains, and coasts. **More than a hundred thousand people** joined the Prophet ﷺ! Imagine — a sea of people as far as the eye could see, all chanting: *"Labbaik Allahumma labbaik!"* — "Here I am at Your service, O Allah!"
+The news spread across all of Arabia. People came from everywhere — from the deserts, mountains, and coasts. **More than a hundred thousand people** joined the Prophet ﷺ! — a sea of people as far as the eye could see, all chanting: *"Labbaik Allahumma labbaik!"* — "Here I am at Your service, O Allah!"
 
 They all walked together toward Makkah, the holy city where the Ka'bah stands. The journey was filled with joy and gratitude.
 
@@ -56,6 +56,6 @@ The final sermon of Prophet Muhammad ﷺ teaches us things that are very importa
 
 🌍 **All humans are brothers and sisters** — Skin color, language, or tribe does not determine a person's worth. What matters is the goodness of their heart.
 
-Imagine — these messages were delivered more than **1,400 years ago**, but they are still deeply needed in our world today. That is the greatness of Prophet Muhammad's teachings!
+— these messages were delivered more than **1,400 years ago**, but they are still deeply needed in our world today. That is the greatness of Prophet Muhammad's teachings!
 
 🎨 *Illustration: Children from various backgrounds (different skin colors, different clothing) standing together hand in hand in front of the Ka'bah. Smiles on their faces. Dominant colors of green, white, and gold. A warm atmosphere full of brotherhood. Symmetrical composition with the Ka'bah in the background.*

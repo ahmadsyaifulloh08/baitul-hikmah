@@ -6,7 +6,7 @@
 
 When Prophet Muhammad ﷺ arrived in Madinah, the city was not united. Many groups were constantly quarrelling: the **Aws** and **Khazraj** tribes had just finished a bitter civil war, three large Jewish tribes had their own powerful fortresses, and the **muhajirin** — Muslims from Makkah — had just arrived with no homes and no money.
 
-Imagine living in a city where your neighbours didn't trust each other! Prophet Muhammad ﷺ knew that if everyone was going to live in peace, they needed **shared rules** that were fair for all.
+Living in a city where your neighbours didn't trust each other! Prophet Muhammad ﷺ knew that if everyone was going to live in peace, they needed **shared rules** that were fair for all.
 
 🎨 *Illustration: The city of Madinah with various groups of people in different areas, looking divided. Setting: an aerial view of Madinah with houses and fortresses. Characters: groups of people in separate areas, not yet united. Key objects: Jewish fortresses, Arab houses, date palms. Dominant colours: earthy brown, oasis green. Mood: tense yet hopeful. Composition: the city divided into several areas, with Masjid Nabawi in the centre as a unifying point.*
 
@@ -33,7 +33,7 @@ This charter was written more than **500 years before** the Magna Carta in Engla
 
 What was truly amazing about the Charter of Madinah was that the rules were **fair for everyone**, not just for the Muslims. The Jewish people could continue practising their religion. The Arab polytheists were also protected.
 
-Prophet Muhammad ﷺ taught that **justice is not only for friends** but for all people. Even if a Muslim wronged a Jewish person, that Muslim would still face consequences! No one was above the law.
+Prophet Muhammad ﷺ taught that **justice is not only for ** but for all people. Even if a Muslim wronged a Jewish person, that Muslim would still face consequences! No one was above the law.
 
 Allah says in the Quran: **"There is no compulsion in religion."** (QS al-Baqarah: 256) — and the Charter of Madinah was living proof that the Prophet put this verse into action!
 
@@ -47,7 +47,7 @@ The Charter of Madinah teaches us very important lessons:
 
 🌍 **Being different is okay!** In our classrooms, in our neighbourhoods, there are people from different backgrounds. Just like old Madinah, we can live together peacefully if we have fair rules.
 
-⚖️ **Justice for all.** It's not just our friends who deserve fair treatment — everyone does, even people we don't get along with!
+⚖️ **Justice for all.** It's not just our who deserve fair treatment — everyone does, even people we don't get along with!
 
 🤝 **Protecting each other.** When someone is being treated unfairly, we all have a responsibility to stand up for them.
 

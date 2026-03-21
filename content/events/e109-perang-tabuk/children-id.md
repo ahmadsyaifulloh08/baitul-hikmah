@@ -24,7 +24,7 @@ Inilah salah satu momen paling menginspirasi dalam sejarah Islam!
 
 Bahkan sahabat yang **sangat miskin** pun ikut menyumbang. Ada yang cuma bisa membawa **segenggam kurma** — tapi itulah semua yang dia punya! Orang-orang munafik mengejek mereka, tapi Allah membela orang-orang kecil itu di dalam al-Quran.
 
-Yang paling mengharukan: ada **tujuh orang** yang datang minta tunggangan unta untuk ikut berperang, tapi Nabi tidak punya unta lagi. Mereka pulang sambil **menangis** karena tidak bisa ikut berjihad! Bayangkan — mereka menangis bukan karena takut perang, tapi karena **tidak bisa ikut**!
+Yang paling mengharukan: ada **tujuh orang** yang datang minta tunggangan unta untuk ikut berperang, tapi Nabi tidak punya unta lagi. Mereka pulang sambil **menangis** karena tidak bisa ikut berjihad! — mereka menangis bukan karena takut perang, tapi karena **tidak bisa ikut**!
 
 Akhirnya, Nabi berangkat dengan sekitar **30.000 pasukan** — perjalanan terpanjang dan terberat yang pernah beliau pimpin.
 
@@ -42,7 +42,7 @@ Tapi kisah paling menarik terjadi **setelah pulang** ke Madinah. Ada seorang sah
 
 Ketika Nabi bertanya kenapa dia tidak ikut, Ka'b punya pilihan: **berbohong atau jujur**. Orang-orang munafik memilih bohong dan mencari-cari alasan palsu. Tapi Ka'b memilih **jujur**: *"Ya Rasulullah, aku tidak punya alasan. Aku salah."*
 
-Sebagai hukuman, **tidak ada yang boleh bicara dengan Ka'b selama 50 hari**. Bayangkan betapa kesepiannya! Tapi setelah 50 hari yang berat itu, Allah menurunkan ayat al-Quran yang menerima taubatnya. Ka'b berkata itu adalah **hari paling bahagia** dalam hidupnya!
+Sebagai hukuman, **tidak ada yang boleh bicara dengan Ka'b selama 50 hari**. betapa kesepiannya! Tapi setelah 50 hari yang berat itu, Allah menurunkan ayat al-Quran yang menerima taubatnya. Ka'b berkata itu adalah **hari paling bahagia** dalam hidupnya!
 
 > 🎨 *Ilustrasi: Ka'b bin Malik duduk sendirian di sudut masjid, orang-orang berjalan melewatinya tanpa menyapa. Wajahnya sedih tapi penuh harap. Cahaya lembut dari jendela menyinarinya. Warna: biru kelabu, dengan secercah emas dari cahaya jendela. Mood: kesepian tapi penuh harapan. Komposisi: Ka'b sendirian di kiri, orang-orang berlalu di kanan, cahaya dari atas.*
 

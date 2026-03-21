@@ -10,7 +10,7 @@ They marched toward Madinah with warhorses, camels, and full armor. Their goal w
 
 **Prophet Muhammad ﷺ** consulted his Companions: *"Should we defend from inside the city, or go out to meet them?"* The young men were eager: *"Let's go out, Messenger of Allah! We are not afraid!"*
 
-The Prophet respected the majority opinion. He marched out with **700 fighters** — because 300 hypocrites had suddenly turned back and gone home. Imagine, 700 against 3,000!
+The Prophet respected the majority opinion. He marched out with **700 fighters** — because 300 hypocrites had suddenly turned back and gone home. The odds were 700 against 3,000.
 
 > 🎨 *Illustration: The majestic Mount Uhud in the background, with a small Muslim force marching toward its base. Overcast sky. Dominant colors blue-grey and olive green. Serious and determined mood. Vertical composition — the mountain towering above the troops.*
 
@@ -42,7 +42,7 @@ However, Uhud was not a total defeat. The Quraysh didn't dare enter Madinah — 
 
 The Quran discussed Uhud in great detail. Allah said: **"It is from yourselves"** (QS Ali Imran: 165) — reminding them that the setback happened because they disobeyed the Prophet's command. But Allah also encouraged them: **"So do not weaken and do not grieve, and you will be superior if you are believers."** (QS Ali Imran: 139)
 
-And do you know what? **Khalid ibn al-Walid**, who attacked from behind, later embraced Islam and became one of the greatest generals in all of history! He was given the title **Sword of Allah** (*Sayfullah*).
+**Khalid ibn al-Walid**, who attacked from behind, later embraced Islam and became one of the greatest generals in all of history! He was given the title **Sword of Allah** (*Sayfullah*).
 
 > 🎨 *Illustration: Sunset behind Mount Uhud. A group of Companions sitting together at the mountain's base, reflecting on what happened. Prophet Muhammad ﷺ (from behind) among them. Dominant colors sunset orange and purple. Bittersweet but hopeful mood. Wide horizontal composition.*
 

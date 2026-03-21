@@ -4,11 +4,11 @@
 
 ## 🌍 Dulu Ka'bah Itu Seperti Apa?
 
-Tahukah kamu siapa yang membangun Ka'bah? **Nabi Ibrahim** dan putranya **Nabi Ismail** *'alaihimas salam*! Mereka membangunnya sebagai rumah ibadah untuk menyembah **Allah Yang Maha Esa**.
+Siapa yang membangun Ka'bah? **Nabi Ibrahim** dan putranya **Nabi Ismail** *'alaihimas salam*! Mereka membangunnya sebagai rumah ibadah untuk menyembah **Allah Yang Maha Esa**.
 
 Tapi setelah berabad-abad, orang-orang Arab mulai lupa tujuan Ka'bah. Sedikit demi sedikit, mereka membawa patung-patung ke Ka'bah. Mereka mulai menyembah patung-patung itu dan melupakan Allah.
 
-Lama-kelamaan, ada **360 berhala** di dalam dan sekitar Ka'bah! Ada yang terbuat dari batu, ada yang dari kayu. Yang paling besar namanya **Hubal** — terbuat dari batu merah, berbentuk seperti manusia. Bayangkan — rumah yang dibangun untuk Allah, malah dipenuhi patung-patung!
+Lama-kelamaan, ada **360 berhala** di dalam dan sekitar Ka'bah! Ada yang terbuat dari batu, ada yang dari kayu. Yang paling besar namanya **Hubal** — terbuat dari batu merah, berbentuk seperti manusia. — rumah yang dibangun untuk Allah, malah dipenuhi patung-patung!
 
 > 🎨 *Ilustrasi: Ka'bah dikelilingi berhala-berhala aneka bentuk dan ukuran. Suasana suram, langit mendung. Di pojok, sebuah cahaya tipis menembus awan — simbol harapan. Warna: abu-abu, coklat gelap, dengan secercah emas. Mood: sedih tapi penuh harapan. Komposisi: Ka'bah di tengah, berhala mengelilinginya, cahaya tipis dari atas.*
 

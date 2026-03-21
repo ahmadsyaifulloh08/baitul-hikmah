@@ -15,7 +15,7 @@ The entire Banu Hashim family had to move to a small, narrow valley called *Shi'
 
 ## 🍞 Hunger and Suffering
 
-Imagine you could not buy bread, rice, milk, or even drinking water. That is what the Banu Hashim family endured for nearly three years!
+You could not buy bread, rice, milk, or even drinking water. That is what the Banu Hashim family endured for nearly three years!
 
 Little children cried from hunger. Their cries could be heard outside the valley. But the Quraysh leaders who passed by only smiled. They felt no compassion at all.
 

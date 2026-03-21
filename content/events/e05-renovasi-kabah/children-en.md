@@ -2,7 +2,7 @@
 
 ## 🏛️ The Damaged Ka'bah
 
-Friends, in the heart of the city of Mecca stood a very special building — called the **Ka'bah**. This cube-shaped structure was first built by **Prophet Ibrahim (Abraham)** and his son **Prophet Ismail (Ishmael)** thousands of years ago as a house for worshipping Allah.
+In the heart of the city of Mecca stood a very special building — called the **Ka'bah**. This cube-shaped structure was first built by **Prophet Ibrahim (Abraham)** and his son **Prophet Ismail (Ishmael)** thousands of years ago as a house for worshipping Allah.
 
 But one day, an incredibly heavy rain fell upon Mecca. Floodwaters rushed down from the surrounding hills and poured into the city. The massive flood struck the aging walls of the Ka'bah until they cracked and nearly collapsed!
 
@@ -21,11 +21,11 @@ The building work went smoothly until it was time to put back the **Black Stone*
 
 Every large family (clan) among the Quraysh wanted to be the one to place the Black Stone. They felt it was the greatest honor possible. "We have the right!" said one clan. "No, we have more right!" said another.
 
-The argument grew hotter and hotter. Some clans were even ready to go to war! They dipped their hands in bowls of blood as a sign they were willing to fight. Imagine, friends — they nearly battled each other just over who would place a stone!
+The argument grew hotter and hotter. Some clans were even ready to go to war! They dipped their hands in bowls of blood as a sign they were willing to fight. They nearly battled each other just over who would place a stone.
 
 The quarrel went on for four days with no solution. Everyone was confused. Finally, an elder named Abu Umayyah had an idea: "Let's do this — the first person to walk through the gate of the Sacred Mosque tomorrow morning will be the judge for all of us!"
 
-Everyone agreed. They waited nervously...
+Everyone agreed. They waited nervously..
 
 > **🎨 Illustration Brief:**
 > *Quraysh clan leaders standing face to face before the half-built Ka'bah, with angry and tense expressions. Between them, the Black Stone rests on a stone cushion. Some people point fingers emotionally. Abu Umayyah, a white-bearded elder, raises his hand asking everyone to calm down. Tense colors — red, orange, dark brown. Mood full of tension. Composition of two groups facing each other with the stone in the middle.*
@@ -53,7 +53,7 @@ Everyone cheered! No one felt cheated. Everyone had shared in lifting the stone 
 
 ## 🌟 Important Lessons
 
-Friends, from this story we can learn so many things!
+From this story we can learn so many things!
 
 **First**, complicated problems can be solved with a clear mind. Muhammad didn't panic, didn't get angry, and didn't take sides. He thought calmly and found a solution that made everyone happy.
 

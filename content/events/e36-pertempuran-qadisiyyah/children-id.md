@@ -4,7 +4,7 @@
 
 ## Kerajaan Persia yang Perkasa
 
-Bayangkan sebuah kerajaan yang sangat besar dan kaya — istananya megah, tentaranya tak terhitung jumlahnya, dan mereka bahkan punya **gajah perang** yang raksasa! Itulah Kerajaan Persia, yang sudah berdiri selama ratusan tahun.
+Sebuah kerajaan yang sangat besar dan kaya — istananya megah, tentaranya tak terhitung jumlahnya, dan mereka bahkan punya **gajah perang** yang raksasa! Itulah Kerajaan Persia, yang sudah berdiri selama ratusan tahun.
 
 Di sisi lain, ada pasukan muslim dari padang pasir Arabia. Mereka tidak punya istana megah atau gajah perang. Senjata mereka sederhana — bahkan ada yang harus berbagi pedang! Tapi mereka punya sesuatu yang tidak dimiliki pasukan Persia: **iman yang kuat dan keberanian luar biasa**.
 
@@ -24,7 +24,7 @@ Tapi Rib'i tidak gentar sama sekali! Ia masuk dengan tombaknya, menancapkannya k
 
 Rustam dan para bangsawan Persia terkejut. Mereka meremehkan orang-orang padang pasir ini — tidak tahu bahwa justru kesederhanaan itulah kekuatan mereka.
 
-🎨 *Ilustrasi: Interior kemah mewah penuh kain sutra dan emas. Seorang pria berpakaian sederhana (Rib'i) duduk tegak di tanah, tombaknya tertancap di permadani. Di hadapannya, Rustam duduk di singgasana dengan jubah mewah, wajahnya terkejut. Warna dominan: emas, merah, cokelat. Mood: tegang dan dramatis. Komposisi: Rib'i di kiri bawah, Rustam di kanan atas.*
+🎨 *Ilustrasi: Interior kemah mewah penuh kain sutra dan emas. Seorang pria berpakaian sederhana (Rib'i) duduk tegak di tatombaknya tertancap di permadani. Di hadapannya, Rustam duduk di singgasana dengan jubah mewah, wajahnya terkejut. Warna dominan: emas, merah, cokelat. Mood: tegang dan dramatis. Komposisi: Rib'i di kiri bawah, Rustam di kanan atas.*
 
 ---
 

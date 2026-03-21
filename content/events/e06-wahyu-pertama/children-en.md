@@ -2,7 +2,7 @@
 
 ## 🏔️ A Small Cave on Top of a Mountain
 
-Friends, near the city of Mecca there is a mountain called **Jabal al-Nur** — which means "the Mountain of Light." At the very top of this mountain, hidden among the rocks, there is a tiny cave that can only fit one person. That cave is called the **Cave of Hira**.
+Near the city of Mecca there is a mountain called **Jabal al-Nur** — which means "the Mountain of Light." At the very top of this mountain, hidden among the rocks, there is a tiny cave that can only fit one person. That cave is called the **Cave of Hira**.
 
 **Prophet Muhammad SAW**, who was already forty years old at the time, would often go to the Cave of Hira. He would bring food supplies and stay there for days and days. What did he do there? He thought. He reflected about the sky, the stars, the mountains, and about the God who created everything.
 
@@ -42,7 +42,7 @@ Muhammad rushed home. When he arrived, he said to Khadijah: "Cover me! Cover me!
 
 When he had calmed down, Muhammad told Khadijah everything that happened at the Cave of Hira. He said: "I am afraid something has happened to me."
 
-And do you know what Khadijah said? With complete conviction, Khadijah said: "Do not be afraid! By Allah, Allah will never humiliate you. You always maintain family ties, help those in trouble, honor your guests, and feed the hungry. Allah would never forsake someone as good as you!"
+Khadijah said? With complete conviction, Khadijah said: "Do not be afraid! By Allah, Allah will never humiliate you. You always maintain family ties, help those in trouble, honor your guests, and feed the hungry. Allah would never forsake someone as good as you!"
 
 Khadijah's words made Muhammad feel at peace. Khadijah then became **the very first person in the entire world** to believe that Muhammad was Allah's messenger. Incredible!
 
@@ -53,11 +53,11 @@ Khadijah's words made Muhammad feel at peace. Khadijah then became **the very fi
 
 ## 🌟 A Brand New Beginning
 
-Friends, that night at the Cave of Hira was the beginning of something incredibly great! The five verses that Jibril brought were the very first verses of the Quran — the holy book that would become a guide for billions of people right up to this day.
+That night at the Cave of Hira was the beginning of something incredibly great! The five verses that Jibril brought were the very first verses of the Quran — the holy book that would become a guide for billions of people right up to this day.
 
 After that night, Muhammad officially became **a Prophet and Messenger of Allah**. His mission was to deliver Allah's message to all of humanity — a message about goodness, justice, compassion, and worshipping only Allah, the One and Only.
 
-Did you know, friends? The very first word that Allah revealed was "Read!" This shows how important learning and seeking knowledge is in Islam. Allah wants all of us to be eager readers, eager learners, and eager thinkers!
+Did you know, ? The very first word that Allah revealed was "Read!" This shows how important learning and seeking knowledge is in Islam. Allah wants all of us to be eager readers, eager learners, and eager thinkers!
 
 Khadijah became the first person to believe. Then little by little, others began to believe too. From a tiny cave at the top of a quiet mountain, a religion was born that is today embraced by nearly two billion people around the entire world!
 

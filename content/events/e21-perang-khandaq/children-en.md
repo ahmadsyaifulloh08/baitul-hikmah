@@ -24,7 +24,7 @@ This idea had never been used by the Arabs before. But the Prophet agreed immedi
 
 The entire population of Madinah — men, women, old, young — worked together for **six days** digging a massive trench along the northern side of the city. It was enormous: **5.5 kilometers** long, very wide and very deep — horses and camels couldn't cross it.
 
-And do you know who helped dig? **Prophet Muhammad ﷺ himself!** He carried earth until dust covered his stomach. The Companions were so hungry because food had nearly run out. They tied stones to their stomachs to ease the hunger. But when they showed this to the Prophet, he lifted his garment — he had tied **TWO** stones to his own stomach! He was hungrier than any of them, but he never complained.
+And who helped dig? **Prophet Muhammad ﷺ himself!** He carried earth until dust covered his stomach. The Companions were so hungry because food had nearly run out. They tied stones to their stomachs to ease the hunger. But when they showed this to the Prophet, he lifted his garment — he had tied **TWO** stones to his own stomach! He was hungrier than any of them, but he never complained.
 
 When the coalition forces arrived, they were **completely shocked!** They had never seen a trench like this. They couldn't cross! A Quraysh general exclaimed: *"This is a trick the Arabs have never used!"*
 
@@ -34,13 +34,13 @@ The siege lasted nearly **a month**. The enemy waited outside the trench but cou
 
 ---
 
-## 🕊 What Happened After...
+## 🕊 What Happened After..
 
 The enemy had besieged Madinah for nearly a month, but they couldn't get in. Prophet Muhammad ﷺ also used **clever diplomacy** — he sent a Companion named **Nu'aym** to make the enemy forces suspicious of each other. Nu'aym succeeded — the coalition began to fall apart!
 
 And then came Allah's incredible help. On a very dark and cold night, Allah sent a **fierce wind and sandstorm**! The enemy's tents were blown away, their fires went out, their cooking pots overturned.
 
-Abu Sufyan, the coalition leader, finally gave up. He shouted: *"We're going home!"* And just like that — **10,000 warriors** went home without ever entering Madinah!
+Abu Sufyan, the coalition leader, finally gave up. He shouted: *"We're going home!"* — **10,000 warriors** went home without ever entering Madinah!
 
 Afterward, Prophet Muhammad ﷺ declared: **"Now we shall march against them, and they will not march against us again."** And it was true — the Quraysh never attacked Madinah again!
 

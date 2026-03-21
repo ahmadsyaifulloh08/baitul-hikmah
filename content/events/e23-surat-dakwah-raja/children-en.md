@@ -6,7 +6,7 @@
 
 After the peace treaty at Hudaybiyyah, **Prophet Muhammad ﷺ** had an amazing idea. He wanted to share Islam not just with the Arabs, but with the entire world!
 
-So he made a **silver signet ring** engraved with "Muhammad Rasul Allah" and began writing letters to the most powerful kings on earth. Imagine — a leader from a small desert city writing to the mightiest emperors!
+So he made a **silver signet ring** engraved with "Muhammad Rasul Allah" and began writing letters to the most powerful kings on earth. — a leader from a small desert city writing to the mightiest emperors!
 
 The Prophet chose his best companions to carry these letters to distant lands.
 

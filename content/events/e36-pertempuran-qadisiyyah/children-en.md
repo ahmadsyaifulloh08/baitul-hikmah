@@ -4,7 +4,7 @@
 
 ## The Mighty Persian Empire
 
-Imagine a kingdom so vast and rich — its palaces were magnificent, its soldiers numbered beyond counting, and it even had giant **war elephants**! That was the Persian Empire, which had stood for hundreds of years.
+A kingdom so vast and rich — its palaces were magnificent, its soldiers numbered beyond counting, and it even had giant **war elephants**! That was the Persian Empire, which had stood for hundreds of years.
 
 On the other side, there was a Muslim army from the deserts of Arabia. They had no grand palaces or war elephants. Their weapons were simple — some soldiers even had to share swords! But they had something the Persians did not: **strong faith and extraordinary courage**.
 

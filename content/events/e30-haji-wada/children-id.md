@@ -6,7 +6,7 @@
 
 Nabi Muhammad ﷺ mengumumkan bahwa beliau akan pergi haji ke Makkah. Ini adalah haji pertama dan terakhir beliau — meskipun saat itu belum ada yang tahu.
 
-Kabar ini menyebar ke seluruh Jazirah Arab. Orang-orang berdatangan dari mana-mana — dari gurun, pegunungan, dan pesisir. **Lebih dari seratus ribu orang** bergabung dengan Nabi ﷺ! Bayangkan — lautan manusia sejauh mata memandang, semuanya mengucapkan: *"Labbaik Allahumma labbaik!"* — "Aku penuhi panggilan-Mu, ya Allah!"
+Kabar ini menyebar ke seluruh Jazirah Arab. Orang-orang berdatangan dari mana-mana — dari gurun, pegunungan, dan pesisir. **Lebih dari seratus ribu orang** bergabung dengan Nabi ﷺ! — lautan manusia sejauh mata memandang, semuanya mengucapkan: *"Labbaik Allahumma labbaik!"* — "Aku penuhi panggilan-Mu, ya Allah!"
 
 Mereka semua berjalan bersama menuju Makkah, kota suci tempat Ka'bah berada. Perjalanan ini penuh kegembiraan dan rasa syukur.
 
@@ -56,6 +56,6 @@ Khutbah terakhir Nabi Muhammad ﷺ mengajarkan hal-hal yang sangat penting bagi 
 
 🌍 **Semua manusia bersaudara** — Warna kulit, bahasa, atau suku tidak menentukan nilai seseorang. Yang penting adalah kebaikan hatinya.
 
-Bayangkan — pesan-pesan ini disampaikan lebih dari **1.400 tahun yang lalu**, tapi masih sangat penting dan dibutuhkan dunia hari ini. Itulah kehebatan ajaran Nabi Muhammad ﷺ!
+— pesan-pesan ini disampaikan lebih dari **1.400 tahun yang lalu**, tapi masih sangat penting dan dibutuhkan dunia hari ini. Itulah kehebatan ajaran Nabi Muhammad ﷺ!
 
 🎨 *Ilustrasi: Anak-anak dari berbagai latar belakang (berkulit berbeda-beda, berpakaian berbeda-beda) berdiri bersama sambil bergandengan tangan di depan Ka'bah. Senyum di wajah mereka. Warna dominan hijau, putih, dan emas. Suasana hangat dan penuh persaudaraan. Komposisi simetris dengan Ka'bah di latar belakang.*

@@ -6,7 +6,7 @@
 
 Ketika Rasulullah ﷺ masih hidup, al-Quran dijaga dengan dua cara. Pertama, para sahabat **menghafalnya** di dalam hati. Kedua, para juru tulis **menulisnya** di atas pelepah kurma, lempengan batu, tulang unta, dan potongan kulit!
 
-Bayangkan — al-Quran belum berbentuk satu kitab yang rapi seperti yang kita kenal sekarang. Ayat-ayatnya tersebar di banyak tempat dan di hafalan banyak orang.
+— al-Quran belum berbentuk satu kitab yang rapi seperti yang kita kenal sekarang. Ayat-ayatnya tersebar di banyak tempat dan di hafalan banyak orang.
 
 Selama Rasulullah masih hidup, ini tidak jadi masalah. Jika ada pertanyaan tentang ayat al-Quran, orang bisa langsung bertanya kepada Nabi. Tapi setelah Nabi wafat, siapa yang akan memastikan semuanya benar?
 

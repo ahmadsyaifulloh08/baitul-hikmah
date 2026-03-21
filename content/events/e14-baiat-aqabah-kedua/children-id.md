@@ -32,7 +32,7 @@ Nabi Muhammad ﷺ berkata: "Aku meminta kalian melindungiku sebagaimana kalian m
 
 Lalu ada yang bertanya: "Wahai Rasulullah, kalau Allah memenangkanmu nanti, apakah engkau akan meninggalkan kami?" Nabi tersenyum dan menjawab: "Tidak. Darahku adalah darah kalian. Aku bagian dari kalian."
 
-Seseorang berdiri dan mengingatkan teman-temannya: "Tahukah kalian, ini artinya kita siap berperang melawan seluruh orang yang memusuhi Muhammad. Kalau tidak sanggup, mundur sekarang!"
+Seseorang berdiri dan mengingatkan nya: "Tahukah kalian, ini artinya kita siap berperang melawan seluruh orang yang memusuhi Muhammad. Kalau tidak sanggup, mundur sekarang!"
 
 Mereka menjawab serentak: "Kami siap! Apa yang kami dapat, wahai Rasulullah?"
 
