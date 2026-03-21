@@ -1,14 +1,8 @@
-# ⛔ OBSOLETE — Batch Image Generation Workflow v2
+# Batch Image Generation Workflow v2
 
-> **Status: ⛔ OBSOLETE** — Digantikan oleh **v3** (`batch-image-generation-v3.md`).
-> Jangan gunakan workflow ini. Baca v3 untuk workflow terbaru.
->
-> **Alasan obsolete**: Placeholder chat reuse menyebabkan context pollution (scene event lama muncul).
-> v3 menggunakan new chat per slide + sequential generation.
->
-> ---
-> **Historical note**: Workflow ini berhasil pada 2026-03-20 (e03 batch, 7 images parallel).
-> Disimpan sebagai referensi lessons learned saja.
+> **Status: ✅ ACTIVE** — Workflow utama. v3 (PinchTab automated) gagal.
+> **Method**: Ahmad generate manual di Gemini, agent handle download + deploy.
+> **Proven**: 2026-03-20 (e03 batch, 7 images) + 2026-03-21 (e10 slide 11 manual = satu-satunya yang benar)
 > **Context**: Mengatasi masalah "scene identik" saat generate multiple images di 1 chat Gemini.
 
 ---

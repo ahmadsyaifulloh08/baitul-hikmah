@@ -1,6 +1,6 @@
 # Batch Image Generation Workflow v3
 
-> **Status: 📝 DRAFT** — belum proven, perlu testing.
+> **Status: ❌ FAILED** — PinchTab type tidak reliable untuk Gemini. Prompt masuk tapi Gemini generate gambar random (hewan/desa Eropa), bukan scene yang diminta. Kembali ke v2 (manual).
 > **Created**: 2026-03-21
 > **Based on**: v2 (proven 2026-03-20) + lessons learned 2026-03-21
 
