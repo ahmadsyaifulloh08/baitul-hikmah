@@ -16,7 +16,7 @@ When he was made caliph in 717 CE, Umar climbed the pulpit with a **pale face an
 
 The first thing Umar did after becoming caliph was truly astonishing — he **returned all his personal wealth** to the state treasury! Prize horses, jewelry, properties — all returned.
 
-He also ordered the entire Banu Umayyah family to return assets they had taken unfairly. Imagine how angry his family was! But Umar did not care — for him, justice was more important than family ties.
+He also ordered the entire Banu Umayyah family to return assets they had taken unfairly. how angry his family was! But Umar did not care — for him, justice was more important than family ties.
 
 His wife, **Fatimah** — who was actually the daughter of a previous caliph — was also asked to return all her jewelry. Fatimah was not angry. She said: *"I would rather be with you than with all the jewelry in the world."* 💕
 

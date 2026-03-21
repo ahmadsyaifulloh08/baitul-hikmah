@@ -2,13 +2,13 @@
 
 ## 🤫 From Secret to Open
 
-Friends, remember the story of the secret da'wah? For three years, Prophet Muhammad SAW invited people to Islam quietly. But now, Allah commanded something new:
+Remember the story of the secret da'wah? For three years, Prophet Muhammad SAW invited people to Islam quietly. But now, Allah commanded something new:
 
 "And warn your closest kindred! ﴾214﴿" (QS. Al-Shu'ara': 214)
 
 It was time to speak openly! No more hiding. Prophet Muhammad SAW had to deliver the message of Islam to everyone — starting with his own family.
 
-Imagine how nerve-wracking! Three years of secrecy, and now he had to stand before everyone and say: "I bring a message from Allah." But the Prophet was not afraid, because he knew this was Allah's command.
+How nerve-wracking! Three years of secrecy, and now he had to stand before everyone and say: "I bring a message from Allah." But the Prophet was not afraid, because he knew this was Allah's command.
 
 > **🎨 Illustration Brief:**
 > *Prophet Muhammad SAW stands at the foot of Mount Safa, looking upward. At the summit, bright morning sunlight shines. Behind him, the silhouette of Mecca with stone houses. Golden morning light, brown hillside, clear blue sky. Mood full of determination and courage. Vertical composition — figure below, hill and light above.*
@@ -57,7 +57,7 @@ After the Prophet finished speaking, everyone was silent. Then Abu Lahab stood a
 
 Abu Lahab was furious. He was the Prophet's uncle who opposed Islam the most fiercely. His wife, **Umm Jamil**, even placed sharp thorns on paths the Prophet walked so his feet would be hurt!
 
-But do you know what happened? Allah revealed a special surah about Abu Lahab — **Surah al-Lahab** — declaring that Abu Lahab's wealth and power would not save him.
+But happened? Allah revealed a special surah about Abu Lahab — **Surah al-Lahab** — declaring that Abu Lahab's wealth and power would not save him.
 
 The lesson: wealth and power mean nothing if our hearts reject the truth.
 
@@ -77,4 +77,4 @@ The lesson: wealth and power mean nothing if our hearts reject the truth.
 **Insults are not the end.** Abu Lahab insulted the Prophet in front of everyone. But the Prophet didn't insult back. He stayed calm and continued his mission. What extraordinary character!
 
 > **🎨 Illustration Brief:**
-> *A child stands before classmates, hands slightly trembling but face full of determination, delivering something important. Friends listen — some smile supportively, some watch curiously. Light from a window illuminates the child. Bright classroom colors, warm light. Mood full of courage. Focused composition — one child in front, friends behind.*
+> *A child stands before classmates, hands slightly trembling but face full of determination, delivering something important. listen — some smile supportively, some watch curiously. Light from a window illuminates the child. Bright classroom colors, warm light. Mood full of courage. Focused composition — one child in front, behind.*

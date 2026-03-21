@@ -20,13 +20,13 @@ Ketika mendengar syarat Sophronius, Khalifah **Umar ibn al-Khattab** memutuskan 
 
 Umar hanya membawa **satu ekor unta dan satu orang pelayan**. Dan mereka **bergantian** naik unta — kadang Umar yang naik, kadang pelayannya! Ketika sampai di dekat Yerusalem, kebetulan giliran pelayan yang naik unta, dan Umar berjalan kaki di lumpur.
 
-Jenderal Abu Ubaidah malu melihat khalifah datang dalam keadaan seperti itu. Ia berkata: "Wahai Amirul Mukminin, penduduk kota akan melihatmu begini..."
+Jenderal Abu Ubaidah malu melihat khalifah datang dalam keadaan seperti itu. Ia berkata: "Wahai Amirul Mukminin, penduduk kota akan melihatmu begini.."
 
 Umar menjawab dengan tegas: **"Kita adalah kaum yang dimuliakan Allah dengan Islam. Jika kita mencari kemuliaan dari selain itu, Allah akan menghinakan kita."**
 
 Penduduk Yerusalem yang tadinya takut justru terkagum — pemimpin yang menguasai setengah dunia ternyata orang yang sangat rendah hati!
 
-🎨 *Ilustrasi: Jalan berlumpur menuju gerbang kota besar. Seorang pria berjubah sederhana (Umar) berjalan kaki di lumpur, menuntun unta yang ditunggangi pelayannya. Di kejauhan, gerbang kota Yerusalem terbuka. Orang-orang berdiri menonton dengan wajah takjub. Warna dominan: cokelat tanah, biru langit, putih batu. Mood: rendah hati dan mengagumkan. Komposisi: Umar di tengah berjalan menuju gerbang di latar belakang.*
+🎨 *Ilustrasi: Jalan berlumpur menuju gerbang kota besar. Seorang pria berjubah sederhana (Umar) berjalan kaki di lumpur, menuntun unta yang ditunggangi pelayannya. Di kejauhan, gerbang kota Yerusalem terbuka. Orang-orang berdiri menonton dengan wajah takjub. Warna dominan: cokelat tabiru langit, putih batu. Mood: rendah hati dan mengagumkan. Komposisi: Umar di tengah berjalan menuju gerbang di latar belakang.*
 
 ---
 

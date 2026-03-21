@@ -174,6 +174,32 @@ CHECKLIST SITASI:
 - **Navigasi**: Swipe/arrow, progress dots
 - **Teks**: Selectable & copyable di atas overlay
 
+### Gaya Penulisan Anak-Anak (CRITICAL)
+
+**Prinsip utama**: Informasi ringkas untuk anak, BUKAN gaya mendongeng. Orang tua yang menarasikan dengan ekspresi masing-masing.
+
+**❌ DILARANG:**
+- Sapaan langsung: "Teman-teman", "Friends", "Tahukah kamu?", "Do you know?"
+- Ajakan berimajinasi: "Bayangkan...", "Imagine...", "Coba pikirkan..."
+- Nada presenter/pendongeng: "Nah, sekarang kita lihat...", "And just like that..."
+- Exclamation berlebihan di tengah teks: "Wow!", "Subhanallah!" (boleh 1x di penutup)
+- Kalimat retoris: "Hebat, bukan?", "Amazing, right?"
+
+**✅ YANG BENAR:**
+- Langsung ke informasi: "Pada tahun 570 M, di Yaman ada seorang raja bernama Abrahah."
+- Kronologis dan faktual: "Abu Thalib membawa Muhammad ke Syam untuk berdagang."
+- Kalimat pendek, jelas, tidak bertele-tele
+- Konteks lengkap tapi diringkas — jangan skip informasi penting
+- Boleh emotif tapi melalui fakta: "Anak-anak menangis kelaparan. Tangisan mereka terdengar dari luar lembah." (fakta yang menyentuh, bukan "Kasihan sekali ya teman-teman!")
+
+**Contoh SALAH vs BENAR:**
+| ❌ Salah | ✅ Benar |
+|----------|---------|
+| "Teman-teman, bayangkan ada seorang anak..." | "Muhammad berusia dua belas tahun saat Abu Thalib bersiap pergi berdagang ke Syam." |
+| "Wow, ternyata Bahira tahu lho!" | "Bahira mengenali tanda kenabian pada Muhammad." |
+| "Dan begitulah, teman-teman!" | "Abu Thalib segera membawa Muhammad pulang ke Makkah." |
+| "Hebat sekali bukan? Subhanallah!" | "Subhanallah." (1x di penutup) |
+
 ---
 
 ## 5. Brief Ilustrasi Anak-Anak
@@ -354,7 +380,7 @@ Researcher output → qa-content.py audit
 - [ ] Markdown `# Judul` ada (metadata) tapi di-skip renderer
 
 ### B. Children Mode (per event)
-- [ ] 4 bagian/sections dengan tone dongeng
+- [ ] 4 bagian/sections dengan tone informatif-ringan (BUKAN dongeng)
 - [ ] Brief ilustrasi 🎨 lengkap 6 elemen per section
 - [ ] Tidak ada tabel — gunakan list/visual cards
 
@@ -392,7 +418,7 @@ node scripts/qa-sync-id-en.js
 - EN = faithful translation
 - Keep Arabic transliteration + add English
 - Names: keep Arabic names konsisten dengan ID
-- Tone: same storytelling level
+- Tone: same informational level (not storytelling)
 
 ---
 
@@ -439,7 +465,7 @@ node -e "..." content/events/{event}/children-id.md
 ### B. Children Content (Slideshow Mode)
 - [ ] **Slide count EN = ID** — parser output IDENTICAL di kedua bahasa
 - [ ] **Slide count = image count** = `EventContent.tsx` length
-- [ ] **Tone dongeng** — naratif, bukan eksplanatif, bahasa 6-12 tahun
+- [ ] **Tone informatif-ringan** — informasi ringkas untuk anak 6-12 tahun, BUKAN gaya mendongeng
 - [ ] **Emoji per section** — setiap `## ` punya emoji representatif
 - [ ] **Brief ilustrasi** — setiap section diakhiri `🎨 Brief Ilustrasi` / `🎨 Illustration Brief`
 - [ ] **Setiap slide scene unik** — 2 slide bersebelahan tidak boleh visual identik

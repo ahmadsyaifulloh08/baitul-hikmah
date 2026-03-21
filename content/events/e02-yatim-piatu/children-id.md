@@ -28,7 +28,7 @@ Muhammad tinggal bersama Bani Sa'd selama kurang lebih **empat tahun**, tumbuh s
 
 Selama di Bani Sa'd, terjadi peristiwa yang disebut **syaqq al-shadr** (pembelahan dada). Diriwayatkan dalam Shahih Muslim bahwa malaikat Jibril datang, membelah dada Muhammad kecil, mengeluarkan segumpal darah hitam, lalu mencuci hatinya dengan air Zamzam.
 
-Peristiwa luar biasa ini membuat Halimah sangat khawatir dengan keselamatan Muhammad. Meskipun berat hati karena sangat menyayanginya, Halimah memutuskan untuk mengembalikan Muhammad kepada ibunya, Aminah, di Makkah. Dengan hati yang berat, Halimah menempuh perjalanan kembali ke Makkah, menggendong Muhammad kecil erat-erat di dadanya. Ia tahu bahwa Muhammad bukan anak biasa — ada sesuatu yang sangat istimewa dalam diri anak yatim ini.
+Peristiwa luar biasa ini membuat Halimah sangat khawatir dengan keselamatan Muhammad. Meskipun berat hati karena sangat menyayanginya, Halimah memutuskan untuk mengembalikan Muhammad kepada ibunya, Amidi Makkah. Dengan hati yang berat, Halimah menempuh perjalanan kembali ke Makkah, menggendong Muhammad kecil erat-erat di dadanya. Ia tahu bahwa Muhammad bukan anak biasa — ada sesuatu yang sangat istimewa dalam diri anak yatim ini.
 
 ---
 

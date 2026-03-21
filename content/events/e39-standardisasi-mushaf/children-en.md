@@ -6,7 +6,7 @@
 
 After Islam spread to many lands, Muslims in different places were reading the Quran in slightly different ways. The words and meaning were the same — but the way people pronounced them was different.
 
-Imagine: soldiers from Iraq and Syria gathered in one army camp. When they recited the Quran together, they were shocked that their readings sounded different! Each group said: *"Our way is the correct one!"*
+Soldiers from Iraq and Syria gathered in one army camp. When they recited the Quran together, they were shocked that their readings sounded different! Each group said: *"Our way is the correct one!"*
 
 A companion named **Hudhayfah ibn al-Yaman** saw this argument and became very worried. He rushed to Caliph **Uthman ibn Affan** in Madinah and said: *"Save this nation before they fight over the Quran!"*
 

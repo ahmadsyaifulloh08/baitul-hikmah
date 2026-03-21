@@ -24,7 +24,7 @@ This is one of the most inspiring moments in Islamic history!
 
 Even the **poorest companions** contributed. One could only bring **a handful of dates** — but that was everything he had! The hypocrites mocked them, but Allah defended these humble givers in the Quran.
 
-The most touching part: **seven men** came asking for camels to ride to the battle, but the Prophet had no more animals. They went home **crying** because they couldn't join! Imagine — they cried not because they were afraid of war, but because **they couldn't participate**!
+The most touching part: **seven men** came asking for camels to ride to the battle, but the Prophet had no more animals. They went home **crying** because they couldn't join! — they cried not because they were afraid of war, but because **they couldn't participate**!
 
 Finally, the Prophet set out with about **30,000 soldiers** — the longest and hardest journey he ever led.
 
@@ -42,7 +42,7 @@ But the most interesting story happened **after returning** to Madinah. There wa
 
 When the Prophet asked why he didn't join, Ka'b had a choice: **lie or be honest**. The hypocrites chose to lie and make up false excuses. But Ka'b chose **honesty**: *"O Messenger of Allah, I have no excuse. I was wrong."*
 
-As punishment, **no one was allowed to speak to Ka'b for 50 days**. Imagine how lonely that was! But after those difficult 50 days, Allah revealed a verse in the Quran accepting his repentance. Ka'b said it was the **happiest day** of his entire life!
+As punishment, **no one was allowed to speak to Ka'b for 50 days**. how lonely that was! But after those difficult 50 days, Allah revealed a verse in the Quran accepting his repentance. Ka'b said it was the **happiest day** of his entire life!
 
 > 🎨 *Illustration: Ka'b ibn Malik sitting alone in a corner of the mosque, people walking past him without greeting. His face is sad but hopeful. Soft light from a window shines on him. Colors: blue-gray, with a sliver of gold from the window light. Mood: lonely but hopeful. Composition: Ka'b alone on the left, people passing on the right, light from above.*
 

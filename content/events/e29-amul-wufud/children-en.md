@@ -52,6 +52,6 @@ Allah says that there is no compulsion in religion: **"There shall be no compuls
 
 💪 **Forgive and be open-hearted** — The Prophet ﷺ welcomed the delegation from Ta'if, who had once hurt him. What a great heart he had!
 
-Imagine — in just one year, almost the entire Arabian Peninsula united under the banner of Islam. Not because of war, but because of the kindness and the truth of Prophet Muhammad's message!
+— in just one year, almost the entire Arabian Peninsula united under the banner of Islam. Not because of war, but because of the kindness and the truth of Prophet Muhammad's message!
 
 🎨 *Illustration: A colorful map of the Arabian Peninsula, with arrows from different directions pointing toward Madinah in the center. Each arrow represents a different tribe. Dominant colors of green, blue, and gold. An atmosphere of energy and unity. Child-friendly map composition that is cheerful and easy to understand.*

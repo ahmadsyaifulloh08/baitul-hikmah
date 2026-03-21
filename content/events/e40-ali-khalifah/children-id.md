@@ -8,7 +8,7 @@
 
 Ali tumbuh di rumah Nabi Muhammad ﷺ sendiri, sehingga ia sangat dekat dengan Nabi. Ia dikenal sangat berani di medan perang dan sangat pandai. Nabi ﷺ pernah berkata: **"Aku adalah kota ilmu dan Ali adalah pintunya."**
 
-Julukan Ali antara lain *Asadullah* yang artinya **Singa Allah** — karena keberaniannya yang luar biasa!
+Julukan Ali antara lain *Asadullah* yang artinya **Singa Allah** — karena keberaniannya yang.
 
 🎨 *Ilustrasi: Seorang pemuda gagah berjubah hijau dengan pedang di pinggang, berdiri tegak di depan Masjid Nabawi, ekspresi tenang dan berwibawa. Warna dominan hijau dan emas. Mood: gagah dan penuh ilmu. Komposisi: karakter di tengah, masjid sebagai latar, langit sore keemasan.*
 

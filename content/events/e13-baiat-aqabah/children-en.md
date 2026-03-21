@@ -1,8 +1,6 @@
 # The Promise at the Hill of Aqabah
 
-## 🔍 Searching for New Friends
-
-After going through a year that was deeply sad and painful, **Prophet Muhammad SAW** did not give up. He kept looking for people who would listen to the message of Islam. In Mecca, the Quraysh leaders had already closed their ears. But the Prophet knew that outside Mecca, there were still many good people who had not yet heard about Allah and His Messenger.
+## 🔍 Searching for New After going through a year that was deeply sad and painful, **Prophet Muhammad SAW** did not give up. He kept looking for people who would listen to the message of Islam. In Mecca, the Quraysh leaders had already closed their ears. But the Prophet knew that outside Mecca, there were still many good people who had not yet heard about Allah and His Messenger.
 
 Every year, there was a pilgrimage season — a time when people from all across the Arabian Peninsula came to Mecca. Prophet Muhammad SAW visited their tents one by one. He introduced himself, recited the beautiful verses of the Qur'an, and invited them to believe in Allah. Some people refused. Others even drove him away. But the Prophet never lost hope!
 
@@ -17,7 +15,7 @@ Then one day, he met six people from the city of Yathrib — a city far to the n
 
 A year later, at the next pilgrimage season, twelve people from Yathrib came to meet Prophet Muhammad SAW! They came secretly at night to a place called **Aqabah** — a small valley near Mina.
 
-These twelve people were very special. Ten were from the Khazraj tribe and two were from the Aws tribe. Do you know what, friends? These two tribes had been enemies and had fought wars for years and years! But now, because of Islam, they sat together before Prophet Muhammad SAW, united as brothers.
+These twelve people were very special. Ten were from the Khazraj tribe and two were from the Aws tribe. what, ? These two tribes had been enemies and had fought wars for years and years! But now, because of Islam, they sat together before Prophet Muhammad SAW, united as brothers.
 
 In that quiet, dark place, these twelve brave souls spoke a very important promise. They pledged:
 
@@ -27,7 +25,7 @@ In that quiet, dark place, these twelve brave souls spoke a very important promi
 - Not to do evil
 - To always obey the Messenger of Allah in matters of goodness
 
-This was no ordinary promise, friends. This was a promise that changed history! This promise is called the **First Pledge of Aqabah**.
+This was no ordinary promise, . This was a promise that changed history! This promise is called the **First Pledge of Aqabah**.
 
 > **🎨 Illustration Brief:**
 > *Nighttime in the narrow valley of Aqabah. Prophet Muhammad SAW sits on a rock, twelve men kneel before him, their hands extended to shake the Prophet's hand as a sign of the pledge. Crescent moonlight illuminates their determined faces. Colors of dark blue night, silver moonlight, brown stone. Mood full of courage and sacredness. Semi-circular composition — twelve men surrounding the Prophet, a crescent moon in the sky.*
@@ -42,7 +40,7 @@ Mus'ab had once been a wealthy young man from Mecca. His clothes were always fin
 
 In Yathrib, Mus'ab stayed at the home of **As'ad ibn Zurarah** and began teaching people to read the Qur'an. He was very patient and gentle. He never forced anyone — he simply recited the verses of Allah in a beautiful voice, and people came on their own to listen.
 
-One of the most important people who accepted Islam thanks to Mus'ab was **Sa'd ibn Mu'adh**, the great leader of the Aws tribe. When Sa'd embraced Islam, nearly the entire Aws tribe followed! Imagine — one young teacher transformed an entire city!
+One of the most important people who accepted Islam thanks to Mus'ab was **Sa'd ibn Mu'adh**, the great leader of the Aws tribe. When Sa'd embraced Islam, nearly the entire Aws tribe followed! — one young teacher transformed an entire city!
 
 > **🎨 Illustration Brief:**
 > *The courtyard of a simple house in Yathrib on a bright morning. Mus'ab ibn Umayr — a young man in simple clothing but with a radiant face — sits under a date palm tree, holding a sheet of the Qur'an. Before him, a group of adults and children sit in a circle, listening with deep focus. Colors of green palm leaves, warm brown earth, golden morning light. Mood full of peace and knowledge. Circular composition — Mus'ab in the center, students surrounding him under the shade of the tree.*
@@ -51,7 +49,7 @@ One of the most important people who accepted Islam thanks to Mus'ab was **Sa'd 
 
 ## 🌟 A Seed That Grew into a Mighty Tree
 
-Friends, the story of the First Pledge of Aqabah teaches us a truly beautiful lesson. Just think: only twelve people. A very small number. But from these twelve, Islam grew and flourished in the city of Yathrib.
+The story of the First Pledge of Aqabah teaches us a truly beautiful lesson. Just think: only twelve people. A very small number. But from these twelve, Islam grew and flourished in the city of Yathrib.
 
 A year later, it was no longer twelve who came — but **seventy-five people**! They performed the Second Pledge of Aqabah and promised to protect Prophet Muhammad SAW just as they would protect their own families.
 

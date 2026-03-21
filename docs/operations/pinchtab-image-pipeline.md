@@ -1,8 +1,10 @@
-# PinchTab × Gemini Image Generation — Full Pipeline
+# ⛔ OBSOLETE — PinchTab × Gemini Image Generation — Full Pipeline
 
-> **Status**: ✅ WORKING — end-to-end pipeline verified 2026-03-18
-> **Instance**: `work` (port 9868, headless)
-> **Target**: Gemini Pro (ahmad@chickin.id) via browser automation
+> **Status: ⛔ OBSOLETE** — Digantikan oleh **v3** (`batch-image-generation-v3.md`).
+> Jangan gunakan pipeline ini. Baca v3 untuk workflow terbaru.
+>
+> ---
+> **Historical note**: Pipeline single-image verified 2026-03-18. Disimpan sebagai referensi.
 >
 > **Related docs:**
 > - [Illustration Guide](../illustration-guide.md) — rules, QA checklist, Islamic compliance

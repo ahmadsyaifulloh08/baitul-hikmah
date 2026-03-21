@@ -6,7 +6,7 @@
 
 Prophet Muhammad ﷺ and the Quraysh had made a **peace agreement** called the Treaty of Hudaybiyyah. They promised not to fight each other for ten years.
 
-But then... the treaty was broken! The Quraysh's allies, **Banu Bakr**, attacked **Banu Khuza'ah** — friends of the Muslims — in the middle of the night. Even worse, some Quraysh leaders secretly helped in the attack!
+But then.. the treaty was broken! The Quraysh's allies, **Banu Bakr**, attacked **Banu Khuza'ah** — of the Muslims — in the middle of the night. Even worse, some Quraysh leaders secretly helped in the attack!
 
 A messenger from Banu Khuza'ah rode all the way to Madinah to ask Prophet Muhammad ﷺ for help. The Prophet said firmly: **"You will surely be helped!"**
 
@@ -20,7 +20,7 @@ Now the Quraysh were scared. They knew they were wrong. Abu Sufyan even traveled
 
 Prophet Muhammad ﷺ prepared a massive army — **10,000 soldiers**! But he kept the destination a secret. Why? Because he didn't want a battle. He wanted Makkah to be freed **without bloodshed**.
 
-When the army reached a place called **Marr al-Zahran** near Makkah, the Prophet ordered every group to **light a campfire**. Imagine — thousands of fires lighting up the valley! When Abu Sufyan saw this incredible sight, he was amazed and decided to embrace Islam.
+When the army reached a place called **Marr al-Zahran** near Makkah, the Prophet ordered every group to **light a campfire**. — thousands of fires lighting up the valley! When Abu Sufyan saw this incredible sight, he was amazed and decided to embrace Islam.
 
 The next day, the army entered Makkah from **four directions** at once. There was almost no resistance at all! Makkah was liberated with hardly any fighting.
 

@@ -4,7 +4,7 @@
 
 Pada suatu malam yang sunyi di Makkah, **Nabi Muhammad SAW** sedang beristirahat di rumahnya. Beliau baru saja melewati masa-masa yang sangat berat — kehilangan istri tercinta **Khadijah** dan paman tersayang **Abu Thalib**. Hati beliau masih sedih.
 
-Tiba-tiba, atap rumahnya terbuka! Turunlah Malaikat **Jibril AS** dengan cahaya yang terang benderang. Jibril membawa sebuah tunggangan istimewa bernama *Buraq* — makhluk berwarna putih yang indah sekali, lebih besar dari keledai tapi lebih kecil dari kuda. Tahukah teman-teman betapa cepatnya Buraq? Setiap satu langkahnya bisa sampai sejauh mata memandang! Lebih cepat dari pesawat tercepat manapun!
+Tiba-tiba, atap rumahnya terbuka! Turunlah Malaikat **Jibril AS** dengan cahaya yang terang benderang. Jibril membawa sebuah tunggangan istimewa bernama *Buraq* — makhluk berwarna putih yang indah sekali, lebih besar dari keledai tapi lebih kecil dari kuda. Tahukah betapa cepatnya Buraq? Setiap satu langkahnya bisa sampai sejauh mata memandang! Lebih cepat dari pesawat tercepat manapun!
 
 Jibril berkata kepada Nabi: "Naiklah, ya Rasulullah. Malam ini engkau akan melakukan perjalanan yang belum pernah dilakukan siapa pun sebelumnya."
 
@@ -17,11 +17,11 @@ Maka Nabi Muhammad SAW menunggangi Buraq, dan dalam sekejap mereka terbang melin
 
 ## 🕌 Imam Seluruh Nabi
 
-Nabi Muhammad SAW tiba di sebuah masjid yang sangat indah dan suci bernama **Masjidil Aqsha** di kota Yerusalem. Dan tahukah teman-teman siapa yang sudah menunggu di sana? Semua nabi dan rasul yang pernah ada di dunia!
+Nabi Muhammad SAW tiba di sebuah masjid yang sangat indah dan suci bernama **Masjidil Aqsha** di kota Yerusalem. siapa yang sudah menunggu di sana? Semua nabi dan rasul yang pernah ada di dunia!
 
 Ada **Nabi Adam AS** — manusia pertama di bumi. Ada **Nabi Ibrahim AS** — yang membangun Ka'bah. Ada **Nabi Musa AS** — yang membelah lautan. Ada **Nabi Isa AS** — yang bisa menyembuhkan orang sakit dengan izin Allah. Semuanya berkumpul di sana!
 
-Lalu Jibril mempersilakan Nabi Muhammad SAW untuk berdiri di depan sebagai imam. Bayangkan — seluruh nabi yang pernah hidup dari zaman ke zaman, semuanya shalat di belakang Nabi Muhammad SAW! Ini menunjukkan bahwa Muhammad adalah nabi terakhir dan pemimpin seluruh nabi.
+Lalu Jibril mempersilakan Nabi Muhammad SAW untuk berdiri di depan sebagai imam. — seluruh nabi yang pernah hidup dari zaman ke zaman, semuanya shalat di belakang Nabi Muhammad SAW! Ini menunjukkan bahwa Muhammad adalah nabi terakhir dan pemimpin seluruh nabi.
 
 Setelah shalat selesai, perjalanan belum berakhir. Jibril berkata: "Sekarang, kita naik ke langit!"
 

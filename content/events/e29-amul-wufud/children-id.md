@@ -30,7 +30,7 @@ Yang paling unik adalah delegasi dari **Najran** — mereka adalah orang Nasrani
 
 ## Surat-Surat untuk Para Raja
 
-Tahukah kamu? Sebelum para delegasi datang, Nabi Muhammad ﷺ sudah terlebih dahulu mengirim **surat-surat** kepada raja-raja dan pemimpin di berbagai negeri — Raja Romawi, Raja Persia, Penguasa Mesir, dan banyak lagi!
+Sebelum para delegasi datang, Nabi Muhammad ﷺ sudah terlebih dahulu mengirim **surat-surat** kepada raja-raja dan pemimpin di berbagai negeri — Raja Romawi, Raja Persia, Penguasa Mesir, dan banyak lagi!
 
 Surat-surat itu berisi ajakan untuk mengenal Islam. Nabi ﷺ tidak memaksa siapa pun — beliau mengajak dengan sopan dan penuh hikmah. Inilah yang membuat banyak orang tertarik dan akhirnya mengirim delegasi ke Madinah.
 
@@ -52,6 +52,6 @@ Allah berfirman bahwa tidak ada paksaan dalam beragama: **"Tidak ada paksaan dal
 
 💪 **Maafkan dan berlapang dada** — Nabi ﷺ menerima delegasi Thaif yang dulu pernah menyakiti beliau. Betapa besar hati beliau!
 
-Bayangkan — dalam satu tahun saja, hampir seluruh Jazirah Arab bersatu di bawah panji Islam. Bukan karena perang, tapi karena kebaikan hati dan kebenaran risalah Nabi Muhammad ﷺ!
+— dalam satu tahun saja, hampir seluruh Jazirah Arab bersatu di bawah panji Islam. Bukan karena perang, tapi karena kebaikan hati dan kebenaran risalah Nabi Muhammad ﷺ!
 
 🎨 *Ilustrasi: Peta Jazirah Arab yang berwarna-warni, dengan panah-panah dari berbagai arah menuju Madinah di tengah. Setiap panah mewakili suku yang berbeda. Warna dominan hijau, biru, dan emas. Suasana penuh semangat dan persatuan. Komposisi peta bergaya anak-anak yang ceria dan mudah dipahami.*

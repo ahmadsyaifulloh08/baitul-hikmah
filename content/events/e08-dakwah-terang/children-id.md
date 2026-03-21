@@ -2,13 +2,13 @@
 
 ## 🤫 Dari Rahasia Menjadi Terbuka
 
-Teman-teman, ingat kisah dakwah sembunyi-sembunyi? Selama tiga tahun, Nabi Muhammad SAW mengajak orang masuk Islam secara diam-diam. Tapi sekarang, Allah memerintahkan sesuatu yang baru:
+Ingat kisah dakwah sembunyi-sembunyi? Selama tiga tahun, Nabi Muhammad SAW mengajak orang masuk Islam secara diam-diam. Tapi sekarang, Allah memerintahkan sesuatu yang baru:
 
 "Peringatilah kerabat-kerabatmu yang terdekat! ﴾214﴿" (QS. Al-Syu'ara': 214)
 
 Artinya, waktunya berbicara terang-terangan sudah tiba! Tidak ada lagi sembunyi-sembunyi. Nabi Muhammad SAW harus menyampaikan pesan Islam kepada semua orang — dimulai dari keluarganya sendiri.
 
-Bayangkan betapa gugupnya! Selama tiga tahun bersembunyi, dan sekarang harus berdiri di depan semua orang dan berkata: "Aku membawa pesan dari Allah." Tapi Nabi Muhammad SAW tidak gentar, karena beliau tahu ini perintah Allah.
+Betapa gugupnya! Selama tiga tahun bersembunyi, dan sekarang harus berdiri di depan semua orang dan berkata: "Aku membawa pesan dari Allah." Tapi Nabi Muhammad SAW tidak gentar, karena beliau tahu ini perintah Allah.
 
 > **🎨 Brief Ilustrasi:**
 > *Nabi Muhammad SAW berdiri di kaki bukit Shafa, mendongak ke atas. Di puncak bukit, cahaya matahari pagi bersinar terang. Di belakang beliau, bayangan kota Makkah dengan rumah-rumah batu. Warna emas cahaya pagi, coklat bukit, biru langit cerah. Mood penuh tekad dan keberanian. Komposisi vertikal — figur di bawah, bukit dan cahaya di atas.*
@@ -57,7 +57,7 @@ Setelah Nabi selesai berbicara, semua orang terdiam. Lalu Abu Lahab berdiri dan 
 
 Abu Lahab sangat marah. Dia adalah paman Nabi yang paling menentang Islam. Istrinya, **Ummu Jamil**, bahkan sering meletakkan duri-duri tajam di jalan yang biasa dilalui Nabi agar kaki beliau terluka!
 
-Tapi tahukah teman-teman apa yang terjadi? Allah menurunkan surah khusus tentang Abu Lahab — **Surah al-Lahab** — yang menyatakan bahwa harta dan kekuasaan Abu Lahab tidak akan bisa menolongnya.
+Tapi tahukah apa yang terjadi? Allah menurunkan surah khusus tentang Abu Lahab — **Surah al-Lahab** — yang menyatakan bahwa harta dan kekuasaan Abu Lahab tidak akan bisa menolongnya.
 
 Pelajarannya: kekayaan dan kekuasaan tidak ada artinya kalau hati kita menolak kebenaran.
 
@@ -74,7 +74,7 @@ Pelajarannya: kekayaan dan kekuasaan tidak ada artinya kalau hati kita menolak k
 
 **Kalau gagal sekali, coba lagi!** Makan malam pertama gagal karena Abu Lahab membubarkan. Tapi Nabi tidak menyerah — beliau mencoba lagi dan lagi.
 
-**Hinaan bukan akhir dari segalanya.** Abu Lahab menghina Nabi di depan semua orang. Tapi Nabi tidak membalas dengan hinaan. Beliau tetap tenang dan melanjutkan tugasnya. Itulah akhlak yang luar biasa!
+**Hinaan bukan akhir dari segalanya.** Abu Lahab menghina Nabi di depan semua orang. Tapi Nabi tidak membalas dengan hinaan. Beliau tetap tenang dan melanjutkan tugasnya. Itulah akhlak yang.
 
 > **🎨 Brief Ilustrasi:**
-> *Seorang anak berdiri di depan teman-temannya di kelas, tangan sedikit gemetar tapi wajah penuh tekad, sedang menyampaikan sesuatu yang penting. Teman-temannya mendengarkan — ada yang tersenyum mendukung, ada yang menatap penasaran. Cahaya dari jendela menyinari si anak. Warna cerah kelas, cahaya hangat. Mood penuh keberanian. Komposisi fokus — satu anak di depan, teman-teman di belakang.*
+> *Seorang anak berdiri di depan nya di kelas, tangan sedikit gemetar tapi wajah penuh tekad, sedang menyampaikan sesuatu yang penting. nya mendengarkan — ada yang tersenyum mendukung, ada yang menatap penasaran. Cahaya dari jendela menyinari si anak. Warna cerah kelas, cahaya hangat. Mood penuh keberanian. Komposisi fokus — satu anak di depan, di belakang.*

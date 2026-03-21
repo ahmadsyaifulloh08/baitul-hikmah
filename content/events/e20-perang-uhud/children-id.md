@@ -10,7 +10,7 @@ Mereka berbaris menuju Madinah dengan kuda-kuda perang, unta-unta, dan senjata l
 
 **Nabi Muhammad ﷺ** bermusyawarah dengan para sahabat: *"Apakah kita bertahan di dalam kota, atau keluar menghadapi mereka?"* Para pemuda bersemangat: *"Kita keluar, Rasulullah! Kita tidak takut!"*
 
-Nabi menghormati pendapat mayoritas. Beliau keluar dengan **700 prajurit** — karena 300 orang munafik tiba-tiba mundur di tengah jalan dan pulang. Bayangkan, 700 melawan 3.000!
+Nabi menghormati pendapat mayoritas. Beliau keluar dengan **700 prajurit** — karena 300 orang munafik tiba-tiba mundur di tengah jalan dan pulang. Perbandingannya 700 melawan 3.000.
 
 > 🎨 *Ilustrasi: Gunung Uhud yang megah di latar belakang, dengan pasukan kecil Muslim berbaris menuju kaki gunung. Langit mendung. Warna dominan abu-abu kebiruan dan hijau zaitun. Suasana serius dan penuh tekad. Komposisi vertikal — gunung menjulang di atas pasukan.*
 
@@ -42,7 +42,7 @@ Tapi Uhud bukanlah kekalahan total. Quraisy juga tidak berani masuk ke Madinah �
 
 Al-Quran turun membahas Uhud dengan sangat detail. Allah berfirman: **"Itu dari dirimu sendiri"** (QS Ali Imran: 165) — mengingatkan bahwa kekalahan terjadi karena tidak patuh pada perintah Nabi. Tapi Allah juga menyemangati: **"Janganlah kamu merasa lemah dan janganlah kamu bersedih. Kamu adalah orang-orang yang paling tinggi derajatnya, jika kamu beriman."** (QS Ali Imran: 139)
 
-Dan tahukah kamu? **Khalid bin al-Walid** yang menyerang dari belakang itu, kelak masuk Islam dan menjadi salah satu jenderal terhebat sepanjang sejarah! Ia dijuluki **Pedang Allah** (*Saifullah*).
+**Khalid bin al-Walid** yang menyerang dari belakang itu, kelak masuk Islam dan menjadi salah satu jenderal terhebat sepanjang sejarah! Ia dijuluki **Pedang Allah** (*Saifullah*).
 
 > 🎨 *Ilustrasi: Matahari terbenam di balik Gunung Uhud. Sekelompok sahabat duduk bersama di kaki gunung, merenungi apa yang terjadi. Nabi Muhammad ﷺ (dari belakang) di tengah mereka. Warna dominan jingga senja dan ungu. Suasana haru tapi penuh harap. Komposisi horizontal lebar.*
 
@@ -52,7 +52,7 @@ Dan tahukah kamu? **Khalid bin al-Walid** yang menyerang dari belakang itu, kela
 
 🎯 **Disiplin itu sangat penting** — Pemanah yang meninggalkan posisi menyebabkan kekalahan. Kalau kita sudah diberi tugas atau tanggung jawab, jangan tinggalkan hanya karena tergoda hal lain. Tetap fokus!
 
-💪 **Berani mengakui kesalahan** — Al-Quran tidak menyembunyikan kesalahan kaum Muslim. Justru kesalahan itu diceritakan agar kita belajar. Orang hebat bukan yang tidak pernah salah, tapi yang mau belajar dari kesalahan.
+💪 **Berani mengakui kesalahan** — Al-Quran tidak menyembunyikan kesalahan kaum Muslim. Justru kesalahan itu diceritakan agar kita belajar. Orang kuat bukan yang tidak pernah salah, tapi yang mau belajar dari kesalahan.
 
 🤝 **Melindungi yang kita sayangi** — Para sahabat rela terluka demi melindungi Nabi Muhammad ﷺ. Abu Talhah, Nusaibah, dan lainnya menunjukkan keberanian sejati — bukan untuk diri sendiri, tapi untuk orang lain.
 

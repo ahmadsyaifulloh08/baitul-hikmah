@@ -4,11 +4,11 @@
 
 ## Kota yang Penuh Perselisihan
 
-Ketika Nabi Muhammad ﷺ tiba di Madinah, kota itu belum bersatu. Ada banyak kelompok yang sering bertengkar: suku **Aus** dan **Khazraj** yang baru saja selesai perang saudara, tiga suku Yahudi besar yang punya benteng-benteng kokoh, dan kaum **muhajirin** — orang-orang muslim dari Makkah yang baru datang tanpa rumah dan harta.
+Ketika Nabi Muhammad ﷺ tiba di Madikota itu belum bersatu. Ada banyak kelompok yang sering bertengkar: suku **Aus** dan **Khazraj** yang baru saja selesai perang saudara, tiga suku Yahudi besar yang punya benteng-benteng kokoh, dan kaum **muhajirin** — orang-orang muslim dari Makkah yang baru datang tanpa rumah dan harta.
 
-Bayangkan tinggal di satu kota dengan tetangga-tetangga yang saling tidak percaya! Nabi Muhammad ﷺ tahu bahwa supaya semua orang bisa hidup damai, mereka butuh **aturan bersama** yang adil untuk semua.
+Tinggal di satu kota dengan tetangga-tetangga yang saling tidak percaya! Nabi Muhammad ﷺ tahu bahwa supaya semua orang bisa hidup damai, mereka butuh **aturan bersama** yang adil untuk semua.
 
-🎨 *Ilustrasi: Kota Madinah dengan berbagai kelompok orang di area berbeda, tampak terpisah-pisah. Setting: pemandangan kota Madinah dari atas dengan rumah-rumah dan benteng. Karakter: kelompok-kelompok orang di area berbeda, belum bersatu. Objek kunci: benteng Yahudi, rumah-rumah Arab, pohon kurma. Warna dominan: cokelat tanah, hijau oasis. Mood: tegang tapi penuh harapan. Komposisi: kota terbagi menjadi beberapa area, dengan Masjid Nabawi di tengah sebagai titik penyatu.*
+🎨 *Ilustrasi: Kota Madinah dengan berbagai kelompok orang di area berbeda, tampak terpisah-pisah. Setting: pemandangan kota Madinah dari atas dengan rumah-rumah dan benteng. Karakter: kelompok-kelompok orang di area berbeda, belum bersatu. Objek kunci: benteng Yahudi, rumah-rumah Arab, pohon kurma. Warna dominan: cokelat tahijau oasis. Mood: tegang tapi penuh harapan. Komposisi: kota terbagi menjadi beberapa area, dengan Masjid Nabawi di tengah sebagai titik penyatu.*
 
 ---
 
@@ -19,7 +19,7 @@ Nabi Muhammad ﷺ mengumpulkan perwakilan dari semua kelompok dan membuat sebuah
 Isi piagamnya sangat menarik:
 - **Semua penduduk Madinah** — muslim, Yahudi, dan lainnya — adalah **satu masyarakat** yang harus saling melindungi
 - Setiap orang **bebas menjalankan agamanya** masing-masing
-- Jika ada musuh menyerang Madinah, **semua harus membela kota bersama-sama**
+- Jika ada musuh menyerang Madi**semua harus membela kota bersama-sama**
 - Tidak boleh ada yang **melindungi orang jahat**, meskipun orang itu dari kelompok sendiri
 - Jika ada masalah besar, **Nabi Muhammad ﷺ** yang menjadi hakim penyelesainya
 

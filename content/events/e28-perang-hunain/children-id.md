@@ -38,7 +38,7 @@ Setelah menang di Hunain, pasukan muslimin mengejar sisa musuh ke kota **Thaif**
 
 Nabi Muhammad ﷺ membuat keputusan bijak: **mengangkat pengepungan dan pulang**. Beberapa sahabat protes, tapi Nabi berdoa: *"Ya Allah, berikanlah hidayah kepada Tsaqif!"*
 
-Dan tahukah kamu apa yang terjadi? Beberapa bulan kemudian, penduduk Thaif **datang sendiri** ke Madinah dan masuk Islam! Tanpa perang, tanpa paksaan. Doa Nabi terkabul!
+Apa yang terjadi? Beberapa bulan kemudian, penduduk Thaif **datang sendiri** ke Madinah dan masuk Islam! Tanpa perang, tanpa paksaan. Doa Nabi terkabul!
 
 Ada satu momen yang sangat mengharukan. Saat membagi harta rampasan perang, Nabi memberikan banyak kepada orang-orang Quraisy yang **baru masuk Islam**, agar hati mereka lembut. Kaum Anshar — yang sudah lama bersama Nabi — merasa agak kecewa.
 

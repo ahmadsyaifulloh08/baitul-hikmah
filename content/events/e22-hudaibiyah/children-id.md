@@ -4,7 +4,7 @@
 
 ## Rindu ke Makkah
 
-Sudah enam tahun kaum Muslimin tinggal di Madinah, jauh dari Makkah — kota tempat mereka dilahirkan dan tempat Ka'bah berdiri. Mereka sangat rindu ingin kembali ke sana.
+Sudah enam tahun kaum Muslimin tinggal di Madijauh dari Makkah — kota tempat mereka dilahirkan dan tempat Ka'bah berdiri. Mereka sangat rindu ingin kembali ke sana.
 
 Suatu malam, **Nabi Muhammad ﷺ** bermimpi sedang melakukan ibadah umrah di Ka'bah. Mimpi seorang nabi itu pasti benar! Maka beliau mengajak sekitar **1.400 sahabat** untuk berangkat ke Makkah. Mereka memakai pakaian putih *ihram* dan membawa hewan kurban — tanda bahwa mereka datang untuk beribadah, bukan untuk berperang.
 
@@ -52,7 +52,7 @@ Akhirnya Quraisy mengirim **Suhail bin Amr** untuk bernegosiasi. Hasilnya adalah
 
 Momen paling menyedihkan adalah ketika **Abu Jandal** — seorang Muslim yang disiksa di Makkah — datang meminta tolong, tapi harus dikembalikan sesuai perjanjian. Banyak sahabat menangis melihatnya.
 
-Tapi ternyata... perjanjian ini adalah **kemenangan besar**! Allah berfirman: **"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."** (QS Al-Fath: 1)
+Tapi ternyata.. perjanjian ini adalah **kemenangan besar**! Allah berfirman: **"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."** (QS Al-Fath: 1)
 
 > 🎨 **Ilustrasi**: Dua kelompok berhadapan — Nabi Muhammad ﷺ dan sahabat di satu sisi, Suhail bin Amr dan delegasi Quraisy di sisi lain. Di tengah, sebuah lembaran perjanjian sedang ditulis. Ekspresi serius di kedua sisi. Warna dominan: putih dan merah gelap. Mood: tegang tapi penuh harap. Komposisi: simetris, dua kelompok berhadapan dengan perjanjian di tengah.
 

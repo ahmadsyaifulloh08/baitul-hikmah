@@ -17,7 +17,7 @@ Lalu pada suatu hari, beliau bertemu dengan enam orang dari kota Yatsrib — seb
 
 Setahun kemudian, pada musim haji berikutnya, datanglah dua belas orang dari Yatsrib untuk menemui Nabi Muhammad SAW! Mereka datang secara diam-diam di malam hari ke sebuah tempat bernama **Aqabah** — sebuah lembah kecil dekat Mina.
 
-Dua belas orang ini sangat istimewa. Sepuluh orang dari suku Khazraj dan dua orang dari suku Aus. Tahukah teman-teman? Kedua suku ini sudah bermusuhan dan berperang selama bertahun-tahun! Tapi sekarang, karena Islam, mereka duduk bersama-sama di depan Nabi Muhammad SAW, bersatu sebagai saudara.
+Dua belas orang ini sangat istimewa. Sepuluh orang dari suku Khazraj dan dua orang dari suku Aus. Tahukah ? Kedua suku ini sudah bermusuhan dan berperang selama bertahun-tahun! Tapi sekarang, karena Islam, mereka duduk bersama-sama di depan Nabi Muhammad SAW, bersatu sebagai saudara.
 
 Di tempat yang sunyi dan gelap itu, dua belas orang pemberani ini mengucapkan janji yang sangat penting. Mereka berjanji:
 
@@ -27,7 +27,7 @@ Di tempat yang sunyi dan gelap itu, dua belas orang pemberani ini mengucapkan ja
 - Tidak berlaku jahat
 - Selalu patuh kepada Rasulullah dalam kebaikan
 
-Ini bukan janji biasa, teman-teman. Ini adalah janji yang mengubah sejarah! Janji ini disebut **Bai'at Aqabah Pertama**.
+Ini bukan janji biasa, . Ini adalah janji yang mengubah sejarah! Janji ini disebut **Bai'at Aqabah Pertama**.
 
 > **🎨 Brief Ilustrasi:**
 > *Malam hari di lembah Aqabah yang sempit. Nabi Muhammad SAW duduk di atas batu, dua belas orang laki-laki berlutut di depannya, tangan mereka terulur untuk berjabat tangan dengan Nabi sebagai tanda bai'at. Cahaya bulan sabit menerangi wajah-wajah penuh tekad. Warna biru gelap malam, perak cahaya bulan, coklat batu. Mood penuh keberanian dan kesakralan. Komposisi setengah lingkaran — dua belas orang mengelilingi Nabi, bulan sabit di langit.*
@@ -42,22 +42,22 @@ Mush'ab dulunya adalah pemuda kaya dari Makkah. Bajunya selalu bagus, wanginya s
 
 Di Yatsrib, Mush'ab tinggal di rumah **As'ad bin Zurarah** dan mulai mengajar orang-orang membaca Al-Qur'an. Ia sangat sabar dan lemah lembut. Ia tidak pernah memaksa siapa pun — ia hanya membacakan ayat-ayat Allah dengan suara yang indah, dan orang-orang datang sendiri untuk mendengarkan.
 
-Salah satu orang penting yang masuk Islam berkat Mush'ab adalah **Sa'd bin Mu'adz**, pemimpin besar suku Aus. Ketika Sa'd masuk Islam, hampir seluruh suku Aus ikut masuk Islam juga! Bayangkan, satu guru muda bisa mengubah seluruh kota!
+Salah satu orang penting yang masuk Islam berkat Mush'ab adalah **Sa'd bin Mu'adz**, pemimpin besar suku Aus. Ketika Sa'd masuk Islam, hampir seluruh suku Aus ikut masuk Islam juga! Satu guru muda berhasil mengubah seluruh kota.
 
 > **🎨 Brief Ilustrasi:**
-> *Halaman rumah sederhana di Yatsrib pada pagi hari cerah. Mush'ab bin Umair — pemuda dengan pakaian sederhana namun wajah bercahaya — duduk di bawah pohon kurma, memegang lembaran mushaf Al-Qur'an. Di depannya, sekelompok orang dewasa dan anak-anak duduk melingkar mendengarkan dengan khusyuk. Warna hijau dedaunan kurma, coklat hangat tanah, cahaya pagi keemasan. Mood penuh kedamaian dan ilmu. Komposisi melingkar — Mush'ab di tengah, murid-murid mengelilinginya di bawah naungan pohon.*
+> *Halaman rumah sederhana di Yatsrib pada pagi hari cerah. Mush'ab bin Umair — pemuda dengan pakaian sederhana namun wajah bercahaya — duduk di bawah pohon kurma, memegang lembaran mushaf Al-Qur'an. Di depannya, sekelompok orang dewasa dan anak-anak duduk melingkar mendengarkan dengan khusyuk. Warna hijau dedaunan kurma, coklat hangat tacahaya pagi keemasan. Mood penuh kedamaian dan ilmu. Komposisi melingkar — Mush'ab di tengah, murid-murid mengelilinginya di bawah naungan pohon.*
 
 ---
 
 ## 🌟 Benih yang Tumbuh Menjadi Pohon Besar
 
-Teman-teman, kisah Bai'at Aqabah Pertama mengajarkan kita pelajaran yang sangat indah. Bayangkan: hanya dua belas orang. Jumlah yang sangat sedikit. Tapi dari dua belas orang inilah, Islam tumbuh dan berkembang di kota Yatsrib.
+Kisah Bai'at Aqabah Pertama mengajarkan kita pelajaran yang sangat indah. Hanya dua belas orang. Jumlah yang sangat sedikit. Tapi dari dua belas orang inilah, Islam tumbuh dan berkembang di kota Yatsrib.
 
 Setahun kemudian, bukan dua belas lagi yang datang — tapi **tujuh puluh lima orang**! Mereka melakukan Bai'at Aqabah Kedua dan berjanji akan melindungi Nabi Muhammad SAW seperti mereka melindungi keluarga sendiri.
 
 Dan tidak lama setelah itu, Nabi Muhammad SAW hijrah ke Yatsrib. Kota itu kemudian berganti nama menjadi **Madinah** — kota Nabi. Di sanalah Islam berkembang pesat, di sanalah masjid pertama dibangun, dan di sanalah masyarakat Islam yang adil dan damai terbentuk.
 
-Semua bermula dari dua belas orang pemberani yang berani mengucapkan janji di malam hari di lembah Aqabah. Seperti benih kecil yang ditanam di tanah, lalu tumbuh menjadi pohon besar yang rindang dan berbuah lebat.
+Semua bermula dari dua belas orang pemberani yang berani mengucapkan janji di malam hari di lembah Aqabah. Seperti benih kecil yang ditanam di talalu tumbuh menjadi pohon besar yang rindang dan berbuah lebat.
 
 Pelajarannya untuk kita: jangan pernah merasa bahwa kebaikan yang kita lakukan itu kecil. Bisa jadi satu kebaikan kecil akan tumbuh menjadi sesuatu yang sangat besar. Yang penting, kita berani memulainya!
 

@@ -2,7 +2,7 @@
 
 ## ⚔️ Kenapa Harus Pergi?
 
-Teman-teman, bayangkan kalian tinggal di suatu tempat di mana orang-orang jahat terus menyakiti kalian hanya karena kalian percaya kepada Allah. Mereka memukul kalian, mengejek kalian, dan melarang kalian beribadah.
+Kalian tinggal di suatu tempat di mana orang-orang jahat terus menyakiti kalian hanya karena kalian percaya kepada Allah. Mereka memukul kalian, mengejek kalian, dan melarang kalian beribadah.
 
 Itulah yang terjadi kepada umat Islam di Makkah. Setelah Nabi Muhammad SAW mulai berdakwah secara terbuka, orang-orang Quraisy semakin marah dan kejam. Mereka menyiksa orang-orang muslim — terutama yang miskin dan tidak punya perlindungan.
 
@@ -21,7 +21,7 @@ Nabi Muhammad SAW berkata kepada para sahabatnya: "Pergilah ke Habasyah. Di sana
 
 Rombongan pertama yang berangkat berjumlah sekitar enam belas orang, termasuk **Utsman bin Affan** dan istrinya **Ruqayyah** — putri Nabi Muhammad SAW sendiri! Mereka berangkat diam-diam di malam hari, menyelinap ke pantai, lalu naik perahu menyeberangi Laut Merah.
 
-Bayangkan betapa sedihnya meninggalkan rumah, keluarga, dan tanah kelahiran. Tapi mereka tahu ini untuk keselamatan mereka.
+Betapa sedihnya meninggalkan rumah, keluarga, dan tanah kelahiran. Tapi mereka tahu ini untuk keselamatan mereka.
 
 Tidak lama kemudian, rombongan yang lebih besar menyusul — sekitar seratus orang! Mereka dipimpin oleh **Ja'far bin Abi Thalib**, sepupu Nabi Muhammad SAW yang sangat cerdas dan pandai berbicara.
 
@@ -54,7 +54,7 @@ Lalu dia berpaling ke utusan Quraisy dan berkata tegas: **"Pergilah! Demi Allah,
 
 Umat Islam pun tinggal dengan aman di Habasyah selama bertahun-tahun. Mereka bisa beribadah dengan tenang, belajar agama, dan membangun komunitas mereka. Raja Najasyi melindungi mereka dari semua ancaman.
 
-Yang menarik, meskipun Najasyi beragama Kristen, dia sangat menghormati umat Islam. Dan tahukah teman-teman? Bertahun-tahun kemudian, ketika Najasyi wafat, Nabi Muhammad SAW melakukan salat ghaib (salat untuk orang yang sudah meninggal yang berada di tempat jauh) untuk beliau! Ini menunjukkan betapa Nabi sangat menghargai kebaikan dan keadilan Najasyi.
+Yang menarik, meskipun Najasyi beragama Kristen, dia sangat menghormati umat Islam. Bertahun-tahun kemudian, ketika Najasyi wafat, Nabi Muhammad SAW melakukan salat ghaib (salat untuk orang yang sudah meninggal yang berada di tempat jauh) untuk beliau! Ini menunjukkan betapa Nabi sangat menghargai kebaikan dan keadilan Najasyi.
 
 > **🎨 Brief Ilustrasi:**
 > *Pemandangan damai di Habasyah. Sekelompok muslim duduk di bawah pohon besar, ada yang membaca Al-Qur'an, ada yang mengajar anak-anak, ada yang berdoa. Di latar belakang, pegunungan hijau Ethiopia dan langit biru cerah. Warna hijau, biru, coklat hangat. Mood penuh kedamaian dan syukur. Komposisi luas — alam yang indah dengan figur-figur kecil yang bahagia.*

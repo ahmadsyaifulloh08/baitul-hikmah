@@ -4,7 +4,7 @@
 
 ## 🤔 Menghadap ke Mana Saat Salat?
 
-Tahukah kamu, dulu kaum Muslim tidak menghadap Ka'bah saat salat? Selama lebih dari satu tahun di Madinah, **Nabi Muhammad ﷺ** dan para sahabat salat menghadap ke arah **Baitul Maqdis** — sebuah masjid suci yang berada di kota Jerusalem, jauh di sebelah utara.
+, dulu kaum Muslim tidak menghadap Ka'bah saat salat? Selama lebih dari satu tahun di Madi**Nabi Muhammad ﷺ** dan para sahabat salat menghadap ke arah **Baitul Maqdis** — sebuah masjid suci yang berada di kota Jerusalem, jauh di sebelah utara.
 
 Baitul Maqdis adalah tempat suci bagi banyak nabi sebelum Nabi Muhammad ﷺ. Jadi menghadap ke sana menunjukkan bahwa Islam bersambung dengan ajaran para nabi terdahulu.
 
@@ -20,7 +20,7 @@ Suatu hari, saat Nabi Muhammad ﷺ sedang memimpin salat Zhuhur, tiba-tiba turun
 
 **"Sungguh, Kami melihat wajahmu sering menengadah ke langit. Maka palingkanlah wajahmu ke arah Masjidil Haram (Ka'bah)!"** (QS Al-Baqarah: 144)
 
-Dan tahukah kamu yang paling menakjubkan? Perintah ini turun **di tengah-tengah salat!** Nabi Muhammad ﷺ langsung berputar arah — dari menghadap utara ke menghadap selatan. Semua orang yang salat di belakang beliau ikut berputar!
+Yang paling menakjubkan? Perintah ini turun **di tengah-tengah salat!** Nabi Muhammad ﷺ langsung berputar arah — dari menghadap utara ke menghadap selatan. Semua orang yang salat di belakang beliau ikut berputar!
 
 Masjid tempat peristiwa ini terjadi dinamakan **Masjid al-Qiblatayn** — artinya Masjid Dua Kiblat. Masjid ini masih berdiri di Madinah sampai sekarang, lho!
 

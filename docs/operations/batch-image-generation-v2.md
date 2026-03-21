@@ -1,8 +1,8 @@
 # Batch Image Generation Workflow v2
 
-> **Status: ✅ PROVEN** — workflow berhasil end-to-end pada 2026-03-20 (e03 batch, 7 images parallel).
-> **Created**: 2026-03-20
-> **Proven**: 2026-03-20 — 7 unique images generated in ~15 min (submit 5 min + wait 5 min + download 5 min)
+> **Status: ✅ ACTIVE** — Workflow utama yang proven.
+> **Proven**: 2026-03-20 (e03 batch, 7 images parallel)
+> **Note**: v3 (PinchTab automated) gagal (2026-03-21) — Gemini tidak menerima prompt dari PinchTab type dengan benar. Kembali ke v2.
 > **Context**: Mengatasi masalah "scene identik" saat generate multiple images di 1 chat Gemini.
 
 ---

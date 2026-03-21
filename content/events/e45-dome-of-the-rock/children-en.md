@@ -16,7 +16,7 @@ In Jerusalem, there is a sacred hill called the **Haram al-Sharif**. On top of t
 
 Around 685 CE, Caliph **Abd al-Malik ibn Marwan** decided to build a magnificent structure over that sacred rock. He wanted to create something the world had never seen before!
 
-Abd al-Malik sent two of the finest builders: **Raja' ibn Haywah** and **Yazid ibn Salam**. To pay for this enormous project, he used all the tax revenue from Egypt for **seven years**! Imagine how big this project was.
+Abd al-Malik sent two of the finest builders: **Raja' ibn Haywah** and **Yazid ibn Salam**. To pay for this enormous project, he used all the tax revenue from Egypt for **seven years**! how big this project was.
 
 Workers and artisans came from every corner of the Muslim world. They brought the finest materials — gold, colorful mosaics, marble, and beautiful stones.
 

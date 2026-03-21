@@ -20,7 +20,7 @@ One day, while Prophet Muhammad ﷺ was leading the Zuhr prayer, a revelation su
 
 **"We have certainly seen the turning of your face toward the heaven. So turn your face toward al-Masjid al-Haram (the Ka'bah)!"** (QS Al-Baqarah: 144)
 
-And do you know the most amazing part? This command came **right in the middle of prayer!** Prophet Muhammad ﷺ immediately turned around — from facing north to facing south. Everyone praying behind him turned too!
+And the most amazing part? This command came **right in the middle of prayer!** Prophet Muhammad ﷺ immediately turned around — from facing north to facing south. Everyone praying behind him turned too!
 
 The mosque where this happened was named **Masjid al-Qiblatayn** — meaning the Mosque of Two Qiblahs. It still stands in Madinah to this day!
 

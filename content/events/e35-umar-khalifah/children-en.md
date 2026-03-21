@@ -53,7 +53,7 @@ Amazingly, despite ruling such a vast empire, Umar lived **very simply**. His ro
 
 One morning in the month of Dhul Hijjah, 23 AH (644 CE), while Umar was leading the Fajr prayer at the Prophet's Mosque, a man named **Abu Lu'lu'ah** — a Persian slave nursing a grudge — stabbed him.
 
-Even though he was gravely wounded, Umar did not think about himself. What he thought about was: **who would lead the Muslims after him?** He appointed six of the best companions to consult and choose the next caliph.
+Even though he was gravely wounded, Umar did not himself. What he thought about was: **who would lead the Muslims after him?** He appointed six of the best companions to consult and choose the next caliph.
 
 Three days later, Umar ibn al-Khattab passed away. He was buried beside the Prophet Muhammad ﷺ and Abu Bakr — the two people he loved most.
 

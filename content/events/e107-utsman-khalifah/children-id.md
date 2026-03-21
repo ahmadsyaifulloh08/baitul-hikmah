@@ -10,7 +10,7 @@ Utsman terkenal sebagai orang yang sangat pemalu dan lembut. Bahkan Nabi Muhamma
 
 Selain itu, Utsman adalah seorang pedagang yang sangat kaya. Tapi kekayaannya tidak membuatnya sombong — justru ia menggunakan hartanya untuk membantu orang lain.
 
-🎨 *Ilustrasi: Seorang laki-laki paruh baya berjubah putih bersih duduk di pasar Madinah, wajah teduh dan senyum lembut, di sekitarnya orang-orang berdatangan. Warna dominan putih dan hijau sage. Mood: hangat dan tenteram. Komposisi: karakter di tengah, latar pasar kuno dengan kain-kain warna-warni.*
+🎨 *Ilustrasi: Seorang laki-laki paruh baya berjubah putih bersih duduk di pasar Madiwajah teduh dan senyum lembut, di sekitarnya orang-orang berdatangan. Warna dominan putih dan hijau sage. Mood: hangat dan tenteram. Komposisi: karakter di tengah, latar pasar kuno dengan kain-kain warna-warni.*
 
 ---
 

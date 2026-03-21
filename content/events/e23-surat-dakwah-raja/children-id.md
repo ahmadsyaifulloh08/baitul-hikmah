@@ -6,11 +6,11 @@
 
 Setelah perjanjian damai di Hudaibiyah, **Nabi Muhammad ﷺ** punya ide yang luar biasa. Beliau ingin menyampaikan ajaran Islam bukan hanya kepada orang Arab, tapi ke seluruh dunia!
 
-Maka beliau membuat **cincin stempel dari perak** bertuliskan "Muhammad Rasul Allah" dan mulai menulis surat-surat kepada raja-raja paling berkuasa di dunia. Bayangkan — seorang pemimpin dari kota kecil di padang pasir menulis surat kepada kaisar-kaisar besar!
+Maka beliau membuat **cincin stempel dari perak** bertuliskan "Muhammad Rasul Allah" dan mulai menulis surat-surat kepada raja-raja paling berkuasa di dunia. — seorang pemimpin dari kota kecil di padang pasir menulis surat kepada kaisar-kaisar besar!
 
 Nabi memilih utusan-utusan terbaiknya untuk membawa surat-surat itu ke negeri yang jauh.
 
-> 🎨 **Ilustrasi**: Nabi Muhammad ﷺ duduk di masjid Madinah, di hadapannya gulungan-gulungan surat dan cincin stempel perak. Beberapa sahabat berdiri siap berangkat membawa surat. Warna dominan: emas hangat, putih, biru gelap. Mood: penuh tekad dan harapan. Komposisi: Nabi di tengah, surat-surat dan utusan mengelilinginya.
+> 🎨 **Ilustrasi**: Nabi Muhammad ﷺ duduk di masjid Madidi hadapannya gulungan-gulungan surat dan cincin stempel perak. Beberapa sahabat berdiri siap berangkat membawa surat. Warna dominan: emas hangat, putih, biru gelap. Mood: penuh tekad dan harapan. Komposisi: Nabi di tengah, surat-surat dan utusan mengelilinginya.
 
 ---
 

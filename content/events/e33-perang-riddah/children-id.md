@@ -10,7 +10,7 @@ Tapi ada satu orang yang tetap tenang dan kuat: **Abu Bakr as-Siddiq**, sahabat 
 
 Abu Bakr kemudian dipilih menjadi **khalifah** — pemimpin umat Islam yang pertama setelah Nabi.
 
-🎨 *Ilustrasi: Interior masjid Madinah, Abu Bakr berdiri tegap di depan mimbar dengan wajah tenang namun tegas, para sahabat duduk mendengarkan dengan wajah sedih. Warna dominan: cokelat hangat dan emas redup. Mood: duka namun penuh harap. Komposisi: Abu Bakr di tengah, cahaya lembut dari jendela masjid.*
+🎨 *Ilustrasi: Interior masjid MadiAbu Bakr berdiri tegap di depan mimbar dengan wajah tenang namun tegas, para sahabat duduk mendengarkan dengan wajah sedih. Warna dominan: cokelat hangat dan emas redup. Mood: duka namun penuh harap. Komposisi: Abu Bakr di tengah, cahaya lembut dari jendela masjid.*
 
 ---
 
@@ -20,9 +20,9 @@ Setelah Rasulullah wafat, banyak kabilah di seluruh Jazirah Arab yang menolak ta
 
 Ada **Musailamah al-Kadzab** (si pembohong) yang mengaku nabi di daerah Yamamah. Ada **Thulaihah** yang mengaku nabi di kalangan Bani Asad. Dan ada lagi yang lain di Yaman dan tempat-tempat jauh.
 
-Hampir seluruh Jazirah Arab memberontak! Hanya Makkah, Madinah, dan Thaif yang tetap setia.
+Hampir seluruh Jazirah Arab memberontak! Hanya Makkah, Madidan Thaif yang tetap setia.
 
-🎨 *Ilustrasi: Peta sederhana Jazirah Arab bergaya kartun, dengan ikon-ikon kecil: bendera hijau di Makkah, Madinah, dan Thaif; bendera merah di wilayah lain menandai pemberontakan. Warna dominan: kuning pasir dan hijau-merah kontras. Mood: tegang tapi informatif. Komposisi: peta di tengah, kompas di pojok.*
+🎨 *Ilustrasi: Peta sederhana Jazirah Arab bergaya kartun, dengan ikon-ikon kecil: bendera hijau di Makkah, Madidan Thaif; bendera merah di wilayah lain menandai pemberontakan. Warna dominan: kuning pasir dan hijau-merah kontras. Mood: tegang tapi informatif. Komposisi: peta di tengah, kompas di pojok.*
 
 ---
 
@@ -46,7 +46,7 @@ Yang paling terkenal adalah **Khalid bin al-Walid** — panglima perang yang dij
 
 Abu Bakr berpesan kepada para komandan: *"Tawarkan Islam terlebih dahulu. Jika mereka menerima, terimalah. Jika mereka menolak, barulah perangi mereka."*
 
-🎨 *Ilustrasi: Sebelas bendera berkibar di depan gerbang Madinah, masing-masing dipegang oleh seorang komandan berkuda. Abu Bakr berdiri di gerbang melepas mereka. Warna dominan: hijau, putih, dan biru langit pagi. Mood: megah dan penuh semangat. Komposisi: panorama lebar, pasukan berjajar menghadap padang pasir.*
+🎨 *Ilustrasi: Sebelas bendera berkibar di depan gerbang Madimasing-masing dipegang oleh seorang komandan berkuda. Abu Bakr berdiri di gerbang melepas mereka. Warna dominan: hijau, putih, dan biru langit pagi. Mood: megah dan penuh semangat. Komposisi: panorama lebar, pasukan berjajar menghadap padang pasir.*
 
 ---
 
@@ -73,4 +73,4 @@ Perang Riddah mengajarkan banyak hal:
 
 Allah berfirman: **"Barang siapa di antara kamu yang murtad dari agamanya, maka kelak Allah akan mendatangkan suatu kaum yang Allah mencintai mereka dan mereka pun mencintai-Nya."** (QS Al-Ma'idah: 54)
 
-🎨 *Ilustrasi: Abu Bakr duduk tenang di taman Madinah, wajah bijaksana, dengan latar belakang matahari terbenam di balik pohon kurma. Warna dominan: oranye senja dan hijau daun. Mood: reflektif dan damai. Komposisi: portrait setengah badan, cahaya senja dari samping.*
+🎨 *Ilustrasi: Abu Bakr duduk tenang di taman Madiwajah bijaksana, dengan latar belakang matahari terbenam di balik pohon kurma. Warna dominan: oranye senja dan hijau daun. Mood: reflektif dan damai. Komposisi: portrait setengah badan, cahaya senja dari samping.*
