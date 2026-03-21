@@ -185,7 +185,12 @@ Setelah QA selesai dan semua gambar PASS, lakukan evaluasi menyeluruh:
 - Update tabel slide mapping dengan status final
 - Log issues untuk improvement di batch berikutnya
 
-**Output Phase 7:** Event siap deploy. Semua slide PASS QA + evaluasi story flow.
+**7.5: Bilingual Sync Check**
+- Verify `children-en.md` dan `children-id.md` menghasilkan jumlah slide SAMA
+- Jika ada merge/split paragraf → WAJIB dilakukan di kedua bahasa
+- Run parser di kedua file, bandingkan output
+
+**Output Phase 7:** Event siap deploy. Semua slide PASS QA + evaluasi story flow + bilingual sync verified.
 
 ### Phase 8: Update Code & Deploy
 

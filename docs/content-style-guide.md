@@ -393,3 +393,28 @@ node scripts/qa-sync-id-en.js
 - Keep Arabic transliteration + add English
 - Names: keep Arabic names konsisten dengan ID
 - Tone: same storytelling level
+
+---
+
+## Bilingual Sync Rule (CRITICAL)
+
+> **Lesson Learned 2026-03-21**: Edit `children-en.md` tanpa edit `children-id.md` → website tampil 12 slides (ID) padahal EN sudah 11.
+
+**SETIAP edit konten WAJIB dilakukan di KEDUA bahasa secara bersamaan:**
+- `children-en.md` ↔ `children-id.md`
+- `general-en.md` ↔ `general-id.md`
+
+**Checklist sebelum commit:**
+- [ ] Jumlah section EN = ID
+- [ ] Jumlah paragraf per section EN ≈ ID (boleh beda sedikit, tapi slide count harus sama)
+- [ ] Jika merge/split paragraf di EN → lakukan hal yang sama di ID
+- [ ] Run slide count check di KEDUA bahasa sebelum push
+
+**Cara cek slide count:**
+```bash
+# EN
+node -e "..." content/events/{event}/children-en.md
+# ID  
+node -e "..." content/events/{event}/children-id.md
+# Keduanya HARUS sama
+```
