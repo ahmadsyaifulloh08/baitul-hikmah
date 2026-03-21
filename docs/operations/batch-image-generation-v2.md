@@ -1,8 +1,8 @@
 # Batch Image Generation Workflow v2
 
-> **Status: ✅ ACTIVE** — Workflow utama. v3 (PinchTab automated) gagal.
-> **Method**: Ahmad generate manual di Gemini, agent handle download + deploy.
-> **Proven**: 2026-03-20 (e03 batch, 7 images) + 2026-03-21 (e10 slide 11 manual = satu-satunya yang benar)
+> **Status: ✅ ACTIVE** — Workflow utama yang proven.
+> **Proven**: 2026-03-20 (e03 batch, 7 images parallel)
+> **Note**: v3 (PinchTab automated) gagal (2026-03-21) — Gemini tidak menerima prompt dari PinchTab type dengan benar. Kembali ke v2.
 > **Context**: Mengatasi masalah "scene identik" saat generate multiple images di 1 chat Gemini.
 
 ---
