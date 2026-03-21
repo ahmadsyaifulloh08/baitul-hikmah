@@ -41,14 +41,38 @@
 
 ### Phase 0: Persiapan Konten
 
-**0.1: Load References**
+**0.1: Hitung Jumlah Slide (WAJIB PERTAMA)**
+
+Sebelum apapun, hitung exact slide count dari parser. JANGAN asumsi dari jumlah section atau brief.
+
+```bash
+cd /workspace/projects/baitul-hikmah
+node -e "
+const content = require('fs').readFileSync('content/events/{event}/children-en.md','utf8');
+const sections = content.split(/\n---\n/).filter(s=>s.trim());
+let total = 0;
+sections.forEach((sec,i) => {
+  const paras = sec.split('\n\n').filter(p => {
+    const t = p.trim();
+    return t && !t.startsWith('#') && !t.startsWith('>') && !t.startsWith('---') && t.length > 20;
+  });
+  total += paras.length;
+  console.log('Section', i+1, ':', paras.length, 'slides');
+});
+console.log('TOTAL:', total, 'slides');
+"
+```
+
+Output ini = jumlah prompt yang harus ditulis. Konfirmasi ke Ahmad sebelum lanjut.
+
+**0.2: Load References**
 ```
 1. docs/illustration-guide.md — rules (golden glow, no text, safe zone, 16:9)
 2. docs/illustration-registry.md — characters, locations, palettes, prompt template
 3. content/events/{event}/children-en.md — narasi + illustration briefs
 ```
 
-**0.2: Verify Slide Count (CRITICAL)**
+**0.3: Verify Slide Count matches Parser (CRITICAL)**
 
 Run parser to get EXACT slide count — 1 section can have 2-3 slides (per paragraph):
 
@@ -70,7 +94,7 @@ console.log('TOTAL:', total, 'slides');
 "
 ```
 
-**0.3: Map Slides to Scenes**
+**0.4: Map Slides to Scenes**
 
 List setiap slide dan narasi paragrafnya:
 
@@ -92,7 +116,7 @@ sections.forEach((sec,i) => {
 "
 ```
 
-**0.4: Write Prompts**
+**0.5: Write Prompts**
 - 1 file per slide: `/workspace/tmp/{event}-prompts/slide-{NN}.txt`
 - WAJIB include per prompt:
   - Character descriptions dari registry (exact wording, COPY-PASTE)
