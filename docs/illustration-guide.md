@@ -297,3 +297,50 @@ python3 scripts/qa-images.py --json
 ### Docker Copy Container Name
 - Container OpenClaw = `openclaw-gateway` (bukan `openclaw`) untuk `docker cp`
 - PinchTab downloads dir: `/home/pinchtab/Downloads/Gemini_Generated_Image_*.png`
+
+### Bilingual Content Sync (2026-03-21)
+- Edit `children-en.md` TANPA edit `children-id.md` → slide count beda → website tampil versi lama
+- Website default bahasa Indonesia — jadi ID yang dilihat user pertama kali
+- **Rule**: Setiap merge/split paragraf di EN → WAJIB lakukan hal yang sama di ID
+- Verifikasi: run parser di kedua file, slide count harus IDENTICAL
+
+### Verse Separator False Positives (2026-03-20)
+- Sub-agent tambah `﴾N﴿` ke 40+ hadits/dialog (bukan Quran)
+- **Rule**: `﴾N﴿` HANYA boleh di blockquote (`>`) yang berisi ayat Al-Quran
+- Verifikasi: `grep -rn '﴾[0-9]*﴿' | grep -v '^.*:>'` harus return 0
+
+### Image Compression (2026-03-20)
+- Raw Gemini PNG = ~9MB per image (2752x1536 RGBA)
+- E01/E02 standard = ~1.5MB (1024x1024 RGB)
+- **Rule**: Resize ke 1024 width + RGB sebelum commit. Target ~1-2MB per slide.
+
+---
+
+## 13. Pre-Deploy QA Checklist
+
+> Run SEBELUM setiap push ke develop/main. FAIL = JANGAN push.
+
+### Content
+- [ ] Slide count EN = slide count ID (parser output harus sama)
+- [ ] Slide count = image count = `EventContent.tsx` length
+- [ ] `﴾N﴿` hanya di blockquote Quran: `grep -rn '﴾[0-9]*﴿' | grep -v '^.*:>'` → 0 results
+- [ ] Konten EN dan ID sinkron (jumlah section, paragraf structure mirip)
+
+### Images
+- [ ] ~1-2MB per slide (bukan 8-10MB raw)
+- [ ] ~1024px width (match e01/e02)
+- [ ] Karakter sesuai illustration-registry.md
+- [ ] Nabi = golden glow only (no human figure)
+- [ ] No text in images
+
+### Build
+- [ ] `node scripts/build-content.js` → rebuild event-content.json
+- [ ] Rebuild event-content-map.json dari event-content.json
+- [ ] Kedua JSON files committed (CF Pages hanya run `next build`)
+- [ ] `next build` success
+
+### Post-Deploy
+- [ ] Buka halaman event di dev → klik Mode Anak-Anak
+- [ ] Slide count di browser (pojok kiri atas) = expected
+- [ ] Toggle ID/EN → slide count sama di kedua bahasa
+- [ ] Semua slide punya gambar (no broken images)
