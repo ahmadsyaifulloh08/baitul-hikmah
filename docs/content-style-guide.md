@@ -396,7 +396,7 @@ node scripts/qa-sync-id-en.js
 
 ---
 
-## Bilingual Sync Rule (CRITICAL)
+## 10. Bilingual Sync Rule (CRITICAL)
 
 > **Lesson Learned 2026-03-21**: Edit `children-en.md` tanpa edit `children-id.md` → website tampil 12 slides (ID) padahal EN sudah 11.
 
@@ -418,3 +418,50 @@ node -e "..." content/events/{event}/children-en.md
 node -e "..." content/events/{event}/children-id.md
 # Keduanya HARUS sama
 ```
+
+---
+
+## 11. Pre-Deploy QA Checklist
+
+> Run SEBELUM setiap push ke develop/main. FAIL = JANGAN push.
+> Single checklist untuk SEMUA aspek: artikel, konten anak, ilustrasi, build.
+
+### A. Article Content (General Mode)
+- [ ] **Struktur**: Pembuka → Narasi kronologis → Analisis → Penutup → Daftar Pustaka
+- [ ] **Sitasi bijection**: setiap ^N ↔ entry #N (no orphans di kedua sisi)
+- [ ] **Min 3 pustaka** consolidated (1 entry = 1 karya unik)
+- [ ] **Setiap paragraf historis** min 1 sitasi
+- [ ] **Teks Arab** HANYA di Quran/Hadits — bukan istilah/nama/tempat
+- [ ] **Ayat Quran**: Arab + `﴾N﴿` + terjemahan (blockquote only)
+- [ ] **Hadits**: nomor hadits + kitab/bab (bukan hanya "HR Muslim")
+- [ ] **`﴾N﴿` bersih**: `grep -rn '﴾[0-9]*﴿' | grep -v '^.*:>'` → 0 results
+
+### B. Children Content (Slideshow Mode)
+- [ ] **Slide count EN = ID** — parser output IDENTICAL di kedua bahasa
+- [ ] **Slide count = image count** = `EventContent.tsx` length
+- [ ] **Tone dongeng** — naratif, bukan eksplanatif, bahasa 6-12 tahun
+- [ ] **Emoji per section** — setiap `## ` punya emoji representatif
+- [ ] **Brief ilustrasi** — setiap section diakhiri `🎨 Brief Ilustrasi` / `🎨 Illustration Brief`
+- [ ] **Setiap slide scene unik** — 2 slide bersebelahan tidak boleh visual identik
+
+### C. Illustrations
+- [ ] **Image size** ~1-2MB per slide (bukan 8-10MB raw Gemini)
+- [ ] **Resolution** ~1024px width, RGB (match e01/e02)
+- [ ] **Nabi = golden glow ONLY** — no human figure, no child shape, no silhouette
+- [ ] **No text in images** — zero text/labels/captions
+- [ ] **Karakter konsisten** — sesuai `illustration-registry.md` (beard, robe, age)
+- [ ] **Safe zone** — subjects centered 70%
+
+### D. Build & Data
+- [ ] **`node scripts/build-content.js`** → rebuild `event-content.json`
+- [ ] **Rebuild `event-content-map.json`** dari event-content.json
+- [ ] **Kedua JSON committed** — CF Pages hanya run `next build`
+- [ ] **`next build` success** — no errors
+
+### E. Post-Deploy Verification
+- [ ] **Buka halaman event** di dev → klik Mode Anak-Anak
+- [ ] **Slide count** di pojok kiri atas = expected
+- [ ] **Toggle ID ↔ EN** → slide count sama di kedua bahasa
+- [ ] **Semua slide punya gambar** — no broken images
+- [ ] **Verse separators** tampil `{N}` di terjemahan (bukan `}N{`)
+- [ ] **Artikel general** — scroll, cek format Quran/Hadits, sitasi clickable
