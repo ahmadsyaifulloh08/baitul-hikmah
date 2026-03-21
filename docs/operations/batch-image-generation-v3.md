@@ -256,17 +256,25 @@ Send directly to Ahmad via Telegram for quick review.
 
 ## Technical Notes
 
+### Download: Always Pick LAST Image (CRITICAL)
+- Placeholder chats may contain OLD images from previous events
+- When downloading, get ALL `"AI generated"` nodes → pick the **LAST one** (newest)
+- First images in chat = old event. Last image = current event.
+- **Code**: `ai_images = [n for n in nodes if 'AI generated' in n.get('name','')]; last = ai_images[-1]`
+
 ### PinchTab Submit Method
 - **Use `type` (NOT `fill`)** — fill doesn't trigger Gemini input events
 - Em dash (—) causes shell SyntaxError → use Python urllib directly
 - Type is char-by-char but reliable (~15-20s for 800 char prompt)
 
 ### Lightbox Download Method (MANDATORY)
-1. Hover on image button (name contains "AI generated")
-2. Click image → lightbox opens (2 nodes: Close + Download)
-3. Click "Download full size image"
-4. Wait 15s for file in `/workspace/shared/pinchtab-downloads/`
+1. Get ALL nodes with `"AI generated"` in name → pick **LAST one** (newest image)
+2. Hover on that image button
+3. Click image → lightbox opens (2 nodes: Close + Download)
+4. Click "Download full size image"
+5. Wait 15s for file in `/workspace/shared/pinchtab-downloads/`
 - **JANGAN** click download button langsung di chat — file tidak ter-save
+- **JANGAN** click image PERTAMA di chat — itu image dari event LAMA
 
 ### Snapshot JSON Fix
 ```python
