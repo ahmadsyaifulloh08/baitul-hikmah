@@ -1,8 +1,14 @@
-# Batch Image Generation Workflow v2
+# ⛔ OBSOLETE — Batch Image Generation Workflow v2
 
-> **Status: ✅ PROVEN** — workflow berhasil end-to-end pada 2026-03-20 (e03 batch, 7 images parallel).
-> **Created**: 2026-03-20
-> **Proven**: 2026-03-20 — 7 unique images generated in ~15 min (submit 5 min + wait 5 min + download 5 min)
+> **Status: ⛔ OBSOLETE** — Digantikan oleh **v3** (`batch-image-generation-v3.md`).
+> Jangan gunakan workflow ini. Baca v3 untuk workflow terbaru.
+>
+> **Alasan obsolete**: Placeholder chat reuse menyebabkan context pollution (scene event lama muncul).
+> v3 menggunakan new chat per slide + sequential generation.
+>
+> ---
+> **Historical note**: Workflow ini berhasil pada 2026-03-20 (e03 batch, 7 images parallel).
+> Disimpan sebagai referensi lessons learned saja.
 > **Context**: Mengatasi masalah "scene identik" saat generate multiple images di 1 chat Gemini.
 
 ---
