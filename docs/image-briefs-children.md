@@ -172,45 +172,50 @@ A lively Meccan market scene. People in the market smiling and waving warmly. Br
 
 ## E04 — Pernikahan Khadijah (12 slides)
 
+> **Genre**: Personal/Family — warm intimate storytelling
+> **Base Palette**: Warm cream (#fdf6e3), soft gold (#d4a574), earthy brown (#8b6914), muted green accents. Consistent across ALL slides.
+> **Lighting progression**: Morning → afternoon → golden hour → evening (natural day flow)
+> **Architecture**: Pre-Islamic Mecca — simple stone/mud-brick, flat roofs, date palms
+
 ### e04-slide-01 — Khadijah, wanita luar biasa di Makkah
-A busy, colorful Meccan marketplace. Khadijah (elegant clothing, dignified posture) stands gracefully in front of her large trading stall. Around her, camels carry trade goods. She is seen speaking with an elderly merchant while pointing toward a departing caravan. Bright colors — red, yellow, orange fabrics. Bright morning light. Mood: energy, pride, successful businesswoman.
+SHOT: Wide establishing. A Meccan marketplace. Khadijah (hijab matching her cream/white clothing, niqab, dignified posture) stands in front of her trading stall. Camels carry trade goods nearby. She speaks with an elderly merchant. Colors: warm cream walls, sandy gold ground, earthy brown market stalls. Warm morning light. Mood: energy, pride.
 
 ### e04-slide-02 — Khadijah dikenal sebagai al-Tahirah
-Khadijah in a courtyard of her home, distributing goods to poor families who line up at her door. A servant carries bundles. Khadijah hands a package directly to a grateful woman with children. Her home is well-kept but not ostentatious — wealth with humility. Warm morning light. Mood: generosity, respect, noble character.
+SHOT: Medium. Khadijah in a courtyard of her home, handing a package to a grateful woman with children. A servant carries bundles behind her. Her home is well-kept but not ostentatious. Colors: cream courtyard walls, soft gold sunlight, earthy brown door frames. Warm morning light (same as slide 01). Mood: generosity, noble character.
 
 ### e04-slide-03 — Khadijah mendengar tentang Muhammad al-Amin
-Interior of Khadijah's home. She sits on elegant cushions listening intently to a messenger/friend speaking to her. The friend gestures toward the distance (representing Muhammad). A FAINT GOLDEN GLOW visible through the window in the direction being pointed. Khadijah's expression: curious, intrigued. Warm interior lighting. Mood: fateful moment, interest awakened.
+SHOT: Medium interior. Khadijah sits on cushions listening to a friend speaking to her. The friend gestures toward the window. A FAINT GOLDEN GLOW visible through the window. Colors: warm cream interior, soft gold light from window, earthy brown furniture. Late morning light streaming in. Mood: fateful moment, interest awakened.
 ⚠️ NO figure for Muhammad — only distant golden glow.
 
 ### e04-slide-04 — Muhammad memimpin kafilah Khadijah ke Syam
-A large, well-organized trade caravan departing Makkah. Camels loaded with fine goods. Maysarah (middle-aged, simple clothing) walks alongside. A GOLDEN GLOW leads the caravan at the front, radiating confidence. Other merchants follow behind. Desert road stretching forward. Dawn light. Mood: departure, trust, new beginning.
+SHOT: Wide. A large trade caravan departing Makkah. Camels loaded with fine goods. Maysarah (middle-aged, simple clothing) walks alongside. A GOLDEN GLOW leads the caravan at the front. Desert road stretching forward. Colors: sandy gold desert, warm cream sky at horizon, earthy brown camels and goods. Sunrise light (warm golden from east). Mood: departure, trust, new beginning.
 ⚠️ NO human figure for Muhammad. Golden glow leading the caravan.
 
 ### e04-slide-05 — Maysarah melapor kepada Khadijah
-Interior of Khadijah's elegant home. Maysarah kneeling before Khadijah, hands animated in excited storytelling. Khadijah leans forward, listening with shining eyes and a smile. Trade goods from Syria visible in background — doubled profit, overflowing bundles. Warm golden afternoon light through window. Mood: amazement, growing admiration.
+SHOT: Medium interior. Maysarah kneeling before Khadijah, hands animated in storytelling. Khadijah leans forward with shining eyes. Trade goods from Syria in background — overflowing bundles. Colors: warm cream walls, soft gold afternoon light through window, earthy brown furnishings. Afternoon light. Mood: amazement, growing admiration.
 
 ### e04-slide-06 — Khadijah melamar Muhammad melalui Nafisah
-A quiet garden/courtyard scene. Nafisah (modest Arab woman, warm face) standing between two spaces — behind her, Khadijah's fine home with Khadijah watching from a window; ahead, a GOLDEN GLOW in the distance. Nafisah walks with purpose and a gentle smile, carrying a message. Flowers and date palms around. Soft diffused light. Mood: love initiated, beautiful proposal.
+SHOT: Medium. A quiet garden/courtyard. Nafisah (modest Arab woman, warm face) walking with purpose and a gentle smile, carrying a message. Behind her, Khadijah watches from a window. Ahead, a GOLDEN GLOW in the distance. Date palms and simple desert flowers. Colors: warm cream courtyard, soft gold diffused light, muted green palm leaves. Golden hour light. Mood: love initiated, beautiful proposal.
 ⚠️ NO figure for Muhammad. Golden glow in distance.
 
 ### e04-slide-07 — Abu Thalib datang melamar untuk Muhammad
-Formal gathering scene. Abu Thalib (brown robe, kind face) standing and speaking eloquently before Khadijah's family. He gestures with dignity. Several elder Quraish men seated around, nodding approvingly. A ceremonial setting — carpets, cushions, incense. Warm lamplight. Mood: formal, honorable, happy occasion.
+SHOT: Medium interior. Abu Thalib (brown robe, kind face) standing and speaking eloquently before Khadijah's family. Elder Quraish men seated on carpets, nodding approvingly. Incense smoke rising gently. Colors: warm cream walls, soft gold lamplight, earthy brown carpets and robes. Warm lamplight (late afternoon interior). Mood: formal, honorable, happy occasion.
 
 ### e04-slide-08 — Hari pernikahan
-A simple home in Makkah decorated for a wedding celebration. Small lanterns glow in the corners of the room. Family and guests gather with joyful faces. In the center, a festive meal is neatly arranged on mats — dates, bread, meat. A date palm tree stands in the courtyard. Warm lantern colors, cream walls, green palm leaves. Mood: happiness, family warmth, celebration.
+SHOT: Wide interior. A simple Meccan home decorated for wedding celebration. Small oil lamps glow in corners. Family and guests gather with joyful faces. A festive meal on mats — dates, bread, meat. Date palm in the courtyard. Colors: warm cream walls, soft gold lantern glow, muted green palm leaves, earthy brown mats. Evening lamplight. Mood: happiness, family warmth, celebration.
 
 ### e04-slide-09 — 25 tahun bersama
-A GOLDEN GLOW seated beside Khadijah in a peaceful home interior. Between them: scrolls, a small chest, family warmth. Through the window, Makkah skyline with Ka'bah visible. Years have passed — Khadijah now has slight gray in her hair, but her face is warm and content. Evening golden light fills the room. Mood: deep love, faithful companionship, partnership.
+SHOT: Medium interior. A GOLDEN GLOW (WAIST height — age 25-50) seated beside Khadijah in a peaceful home. Between them: scrolls, a small chest. Through the window, Makkah skyline with Ka'bah visible. Khadijah has slight gray in her hair, warm and content expression through her niqab. Colors: warm cream interior, soft gold evening light, earthy brown furnishings. Evening golden hour light. Mood: deep love, faithful companionship.
 ⚠️ NO figure for Muhammad. Golden glow beside Khadijah.
 
 ### e04-slide-10 — Cinta sejati bukan karena harta
-Split composition: LEFT side shows Khadijah's wealth (camels, trade goods, elegant home) fading/transparent. RIGHT side shows a GOLDEN GLOW and Khadijah sitting together in a simple setting, radiating warmth that outshines the material wealth. Heart-shaped golden light connects them. Mood: true love transcends wealth.
+SHOT: Medium symbolic. Split composition: LEFT shows Khadijah's wealth (camels, trade goods, elegant home) fading/transparent. RIGHT shows a GOLDEN GLOW and Khadijah sitting together in a simple setting, radiating warmth. Colors: LEFT side desaturated cream/brown, RIGHT side warm golden glow dominant. Soft golden hour light. Mood: true love transcends wealth.
 ⚠️ NO figure for Muhammad.
 
 ### e04-slide-11 — Muhammad selalu mengenang Khadijah
-A quiet scene years later. A GOLDEN GLOW sits alone in a simple room, facing a window. On the mat beside the glow: Khadijah's old shawl/garment folded carefully. Through the window, sunset sky in soft purple-orange. A single tear of golden light drops from the glow. Small vase with desert flowers nearby. Mood: remembrance, eternal love, bittersweet.
+SHOT: Close-up interior. A GOLDEN GLOW (CHEST height — age 50+) sits alone in a simple room, facing a window. On the mat: Khadijah's old shawl folded carefully. Small vase with desert flowers nearby. Colors: warm cream walls, muted gold fading light, earthy brown mat. Dusk — warm fading golden light through window. Mood: remembrance, eternal love, bittersweet.
 ⚠️ NO human figure. Golden glow + Khadijah's belonging.
 
 ### e04-slide-12 — Salam Allah untuk Khadijah
-A starry night sky above Makkah. From the heavens, a soft divine golden light descends through layers of clouds and envelops a simple house where Khadijah lived. The silhouette of Ka'bah visible in the distance. Stars shine extraordinarily bright. An angelic glow (luminous white form, no facial features) descends carrying the light. Colors of deep blue sky, divine golden light, white stars, brown house. Mood: ultimate honor, divine blessing, peace.
+SHOT: Wide establishing. Night sky above Makkah. From the heavens, soft divine golden light descends through clouds and envelops a simple house. Ka'bah silhouette in the distance. Stars shine extraordinarily bright. An angelic glow (luminous white form, no features) descends carrying the light. Colors: deep blue-black sky, divine golden-white light, warm cream house. Night — moonlight + divine glow. Mood: ultimate honor, divine blessing.
 ⚠️ Angel = luminous form only, no detailed features.
