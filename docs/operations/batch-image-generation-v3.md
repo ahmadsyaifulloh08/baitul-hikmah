@@ -26,15 +26,16 @@
 - [ ] PRD illustration rules loaded (`docs/illustration-guide.md`)
 - [ ] Character registry loaded (`docs/illustration-registry.md`)
 
-### Setup Placeholder Chats (one-time)
+### Setup Placeholder Chats (one-time, sebelum mulai generate)
 
-Buka 16 tab di Gemini, masing-masing buat chat baru dengan judul:
-```
-[1] Placeholder - Image Generation
-[2] Placeholder - Image Generation
-...
-[16] Placeholder - Image Generation
-```
+1. Buka **16 browser tab** — setiap tab buka `https://gemini.google.com/app`
+2. Di setiap tab, buat **new chat** dan beri judul sesuai nomornya:
+   - Tab 1 → chat `[1] Placeholder - Image Generation`
+   - Tab 2 → chat `[2] Placeholder - Image Generation`
+   - Tab 3 → chat `[3] Placeholder - Image Generation`
+   - ... dst ...
+   - Tab 16 → chat `[16] Placeholder - Image Generation`
+3. Setelah semua 16 tab siap, **jangan tutup** — tab tetap terbuka selama proses generate
 
 **⚠️ STRICT RULE: Slide number = Placeholder number**
 - Slide 01 → chat `[1] Placeholder - Image Generation`
