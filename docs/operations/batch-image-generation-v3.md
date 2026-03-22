@@ -12,7 +12,7 @@
 |-------|----|----|
 | Chat strategy | Placeholder reuse | **New chat per slide** (zero context) |
 | Submit method | Parallel burst | **Sequential** (submit → verify → download → next) |
-| QA timing | Per batch (5 slides) | **Per event** (semua slides sekaligus) |
+| QA timing | Per batch (5 slides) | **Per batch (5-5-6)** — Ahmad QA setiap batch sebelum lanjut |
 | Slide count | Manual count (section) | **Parser-verified** (exact paragraph count) |
 | Placeholder chats | Required [1]-[10] | **Not used for generation** (reserved for revisi only) |
 
@@ -31,9 +31,25 @@
 
 1. **New chat per slide** — zero context, prompt-only generation
 2. **Jumlah prompt = jumlah slide dari parser** — bukan jumlah section
-3. **Generate ALL slides → review ALL at once** — 1 event = 1 review cycle
+3. **Batch 5-5-6** — generate per batch, compile preview, Ahmad QA sebelum lanjut batch berikutnya
 4. **Revisi via new chat** — retype adjusted prompt, bukan append ke chat lama
 5. **Max 16 slides per event** — sesuai PRD
+
+## Batch & QA Flow
+
+Setiap event dibagi menjadi **3 batch** (untuk event 16 slides: 5+5+6, adjust sesuai total slides):
+
+| Batch | Slides | Setelah generate |
+|-------|--------|-----------------|
+| Batch 1 | slide 01-05 | Compile preview → kirim ke Ahmad → **tunggu approval** |
+| Batch 2 | slide 06-10 | Compile preview → kirim ke Ahmad → **tunggu approval** |
+| Batch 3 | slide 11-16 | Compile preview → kirim ke Ahmad → **tunggu approval** |
+
+**Rules:**
+- ❌ JANGAN lanjut ke batch berikutnya sebelum Ahmad approve batch sebelumnya
+- Jika ada revisi → regenerate slide yang bermasalah via new chat → kirim ulang preview batch
+- Preview = composite image semua slides dalam batch (grid layout)
+- Batch size adjust sesuai jumlah slides: misal 11 slides → 4+4+3, 12 slides → 4+4+4
 
 ---
 
