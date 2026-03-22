@@ -23,7 +23,7 @@
 - **Young Muhammad (12 yo)**: ⚠️ CANNOT be depicted. Use golden radiant glow only. Context clues (camel, staff, position) indicate presence.
 - **Bahira**: Elderly Christian monk, long white beard, dark brown/black monastic robes, wise gentle eyes, Busra monastery setting
 - **Maysarah**: Khadijah's servant, middle-aged Arab man, simple traveler clothing, loyal appearance
-- **Khadijah bint Khuwaylid**: Elegant businesswoman, **hijab matching her clothing color + niqab/cadar** (face veil, only eyes visible), neat clean clothing (green/white/cream), dignified posture, known as al-Tahirah (the Pure)
+- **Khadijah bint Khuwaylid**: Elegant businesswoman, **hijab matching her clothing color + niqab** (face veil, only eyes visible), neat clean clothing (green/white/cream), dignified posture, known as al-Tahirah (the Pure)
 - **Nafisah**: Khadijah's friend, modest Arab woman, warm approachable face
 
 ---
