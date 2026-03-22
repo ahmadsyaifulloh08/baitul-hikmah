@@ -1,4 +1,4 @@
-# Image Briefs — Children Slideshow (28 Unique Illustrations)
+# Image Briefs — Children Slideshow (51 Unique Illustrations)
 
 > **LARANGAN MUTLAK — Visualisasi Nabi Muhammad ﷺ:**
 > TIDAK BOLEH menampilkan fisik Nabi dalam bentuk APAPUN — termasuk siluet tubuh, sosok dari belakang, anak kecil, bayangan.
@@ -20,6 +20,11 @@
 - **Ummu Aiman**: Dark-skinned woman (Ethiopian), simple modest clothing, protective/caring demeanor
 - **Abu Thalib**: Middle-aged Arab man, modest brown/beige robe, kind face, not wealthy appearance
 - **Ka'bah**: Simple stone cube draped in cloth, no ornate decoration, desert setting
+- **Young Muhammad (12 yo)**: ⚠️ CANNOT be depicted. Use golden radiant glow only. Context clues (camel, staff, position) indicate presence.
+- **Bahira**: Elderly Christian monk, long white beard, dark brown/black monastic robes, wise gentle eyes, Busra monastery setting
+- **Maysarah**: Khadijah's servant, middle-aged Arab man, simple traveler clothing, loyal appearance
+- **Khadijah bint Khuwaylid**: Elegant businesswoman, neat clean clothing (green/white), dignified posture, known as al-Tahirah (the Pure)
+- **Nafisah**: Khadijah's friend, modest Arab woman, warm approachable face
 
 ---
 
@@ -120,3 +125,92 @@ Hilltop overlooking Makkah valley. A shepherd's staff planted in the ground with
 ### e02-slide-16 — Hikmah keyatiman (penutup)
 Symbolic/artistic composition: A SMALL BUT STEADY GOLDEN LIGHT in the center of a desert, facing a LARGE RISING SUN on the horizon. From the point of light, flowers and green plants grow outward across the sand in all directions. Sky transitions from dark/starry (left) to bright golden dawn (right). Birds flying in morning sky. Within the rising sun, faint outlines of a great city (future Islamic civilization). Mood: hope, destiny, from hardship grows greatness.
 ⚠️ NO human silhouette. Pure light + nature symbolism.
+
+---
+
+## E03 — Perjalanan Syam (11 slides)
+
+### e03-slide-01 — Muhammad dekat dengan pamannya
+A warm courtyard in a modest Makkah house. Abu Thalib (brown/beige robe, kind face) sitting on a mat organizing travel provisions — leather bags, dried dates, water skins. A GOLDEN RADIANT GLOW sits close beside him, leaning toward him (Muhammad's presence, 12 years old). Other children play in the background. Mood: closeness, family bond.
+⚠️ NO child figure for Muhammad. Golden glow only.
+
+### e03-slide-02 — Abu Thalib bersiap perjalanan dagang
+Abu Thalib standing in front of a loaded camel, checking ropes and bundles. Desert road stretching into the distance. Other merchants preparing their camels nearby. Morning pre-dawn light, cool blue-orange sky. Trade goods visible: fabric bundles, leather bags. Mood: preparation for a great journey.
+
+### e03-slide-03 — Muhammad ikut dalam perjalanan
+A long camel caravan in the desert at sunrise. Abu Thalib rides at the front. A GOLDEN GLOW emanates from the camel beside him — Muhammad's presence. Behind them, a line of other camels carry trade goods. Colors of golden sunrise, brown sand, clear blue sky. Mood: adventure and excitement. Wide panoramic composition — caravan moving left to right toward the rising sun.
+⚠️ NO child figure. Golden glow on/near the camel.
+
+### e03-slide-04 — Kafilah tiba di Busra
+Panoramic view of the town of Busra appearing on the horizon. The caravan approaching from the desert — camels in a line, tired but relieved. Green trees and stone buildings of Busra contrast with the sandy desert behind. A small monastery visible on the edge of town (Bahira's monastery). Late afternoon golden light. Mood: arrival, relief after long journey.
+
+### e03-slide-05 — Bahira keluar mengundang kafilah
+Bahira (elderly monk, white beard, dark robes) standing in the doorway of his simple stone monastery, gesturing warmly for the caravan to come inside. Arab merchants looking surprised at each other — "Why is this monk inviting us?" A long table with food visible through the open door. Mood: unexpected hospitality, mystery.
+
+### e03-slide-06 — Bahira bertanya "apakah semua sudah hadir?"
+Interior of Bahira's monastery. Long wooden table with a simple meal — bread, olives, figs, water. Arab merchants seated around it. Bahira standing at the head of the table, leaning forward, scanning every face carefully with sharp, searching eyes. One EMPTY SEAT visible at the table. Through the window: a camel with a faint golden glow outside. Mood: suspense, investigation.
+
+### e03-slide-07 — Bahira menemukan tanda istimewa
+Bahira kneeling with his hands raised in a gesture of awe, facing a GOLDEN RADIANT GLOW. Abu Thalib standing behind with an expression mixing surprise and concern. Soft golden light fills the room from the glow. Ancient scrolls/books visible on shelves in the background. Stone monastery interior, warm tones. Mood: wonder, revelation, sacred moment.
+⚠️ NO child figure. Bahira reacts to the golden glow (Muhammad's presence).
+
+### e03-slide-08 — Bahira memperingatkan Abu Thalib
+Close conversation scene: Bahira gripping Abu Thalib's arm urgently, leaning in close, speaking with intensity. Abu Thalib's expression: alarmed, protective. Behind them through the doorway: the caravan camels and a faint golden glow. Bahira pointing in the direction of Makkah. Dark interior, dramatic side-lighting. Mood: urgent warning, danger.
+
+### e03-slide-09 — Pelajaran: Allah selalu melindungi
+Symbolic scene: Ka'bah at center with a protective dome of golden light arching over it. Desert landscape around it. Abu Thalib's silhouette walking with a small golden light beside him (returning home). Sky shows a crescent moon and protective stars forming a gentle arc. Mood: divine protection, care.
+
+### e03-slide-10 — Pelajaran: kasih sayang keluarga
+Abu Thalib walking on a desert road back toward Makkah (city visible in distance). He walks protectively close to a GOLDEN GLOW beside him. Behind them, the town of Busra fades into the distance. Late afternoon light, long shadows. His posture: protective, watchful, looking back occasionally. Mood: familial love, guardianship.
+⚠️ NO child figure. Golden glow traveling beside Abu Thalib.
+
+### e03-slide-11 — Muhammad dikenal sebagai al-Amin
+A lively Meccan market scene. People in the market smiling and waving warmly. Bright market colors — red, yellow, orange fabrics from merchant stalls. A GOLDEN WARM GLOW moves through the market center, and people around it look happy and trusting. Abu Thalib walks nearby, looking proud. Warm afternoon light. Mood: joyful homecoming, community trust.
+⚠️ NO human figure for Muhammad. Golden glow in the market.
+
+---
+
+## E04 — Pernikahan Khadijah (12 slides)
+
+### e04-slide-01 — Khadijah, wanita luar biasa di Makkah
+A busy, colorful Meccan marketplace. Khadijah (elegant clothing, dignified posture) stands gracefully in front of her large trading stall. Around her, camels carry trade goods. She is seen speaking with an elderly merchant while pointing toward a departing caravan. Bright colors — red, yellow, orange fabrics. Bright morning light. Mood: energy, pride, successful businesswoman.
+
+### e04-slide-02 — Khadijah dikenal sebagai al-Tahirah
+Khadijah in a courtyard of her home, distributing goods to poor families who line up at her door. A servant carries bundles. Khadijah hands a package directly to a grateful woman with children. Her home is well-kept but not ostentatious — wealth with humility. Warm morning light. Mood: generosity, respect, noble character.
+
+### e04-slide-03 — Khadijah mendengar tentang Muhammad al-Amin
+Interior of Khadijah's home. She sits on elegant cushions listening intently to a messenger/friend speaking to her. The friend gestures toward the distance (representing Muhammad). A FAINT GOLDEN GLOW visible through the window in the direction being pointed. Khadijah's expression: curious, intrigued. Warm interior lighting. Mood: fateful moment, interest awakened.
+⚠️ NO figure for Muhammad — only distant golden glow.
+
+### e04-slide-04 — Muhammad memimpin kafilah Khadijah ke Syam
+A large, well-organized trade caravan departing Makkah. Camels loaded with fine goods. Maysarah (middle-aged, simple clothing) walks alongside. A GOLDEN GLOW leads the caravan at the front, radiating confidence. Other merchants follow behind. Desert road stretching forward. Dawn light. Mood: departure, trust, new beginning.
+⚠️ NO human figure for Muhammad. Golden glow leading the caravan.
+
+### e04-slide-05 — Maysarah melapor kepada Khadijah
+Interior of Khadijah's elegant home. Maysarah kneeling before Khadijah, hands animated in excited storytelling. Khadijah leans forward, listening with shining eyes and a smile. Trade goods from Syria visible in background — doubled profit, overflowing bundles. Warm golden afternoon light through window. Mood: amazement, growing admiration.
+
+### e04-slide-06 — Khadijah melamar Muhammad melalui Nafisah
+A quiet garden/courtyard scene. Nafisah (modest Arab woman, warm face) standing between two spaces — behind her, Khadijah's fine home with Khadijah watching from a window; ahead, a GOLDEN GLOW in the distance. Nafisah walks with purpose and a gentle smile, carrying a message. Flowers and date palms around. Soft diffused light. Mood: love initiated, beautiful proposal.
+⚠️ NO figure for Muhammad. Golden glow in distance.
+
+### e04-slide-07 — Abu Thalib datang melamar untuk Muhammad
+Formal gathering scene. Abu Thalib (brown robe, kind face) standing and speaking eloquently before Khadijah's family. He gestures with dignity. Several elder Quraish men seated around, nodding approvingly. A ceremonial setting — carpets, cushions, incense. Warm lamplight. Mood: formal, honorable, happy occasion.
+
+### e04-slide-08 — Hari pernikahan
+A simple home in Makkah decorated for a wedding celebration. Small lanterns glow in the corners of the room. Family and guests gather with joyful faces. In the center, a festive meal is neatly arranged on mats — dates, bread, meat. A date palm tree stands in the courtyard. Warm lantern colors, cream walls, green palm leaves. Mood: happiness, family warmth, celebration.
+
+### e04-slide-09 — 25 tahun bersama
+A GOLDEN GLOW seated beside Khadijah in a peaceful home interior. Between them: scrolls, a small chest, family warmth. Through the window, Makkah skyline with Ka'bah visible. Years have passed — Khadijah now has slight gray in her hair, but her face is warm and content. Evening golden light fills the room. Mood: deep love, faithful companionship, partnership.
+⚠️ NO figure for Muhammad. Golden glow beside Khadijah.
+
+### e04-slide-10 — Cinta sejati bukan karena harta
+Split composition: LEFT side shows Khadijah's wealth (camels, trade goods, elegant home) fading/transparent. RIGHT side shows a GOLDEN GLOW and Khadijah sitting together in a simple setting, radiating warmth that outshines the material wealth. Heart-shaped golden light connects them. Mood: true love transcends wealth.
+⚠️ NO figure for Muhammad.
+
+### e04-slide-11 — Muhammad selalu mengenang Khadijah
+A quiet scene years later. A GOLDEN GLOW sits alone in a simple room, facing a window. On the mat beside the glow: Khadijah's old shawl/garment folded carefully. Through the window, sunset sky in soft purple-orange. A single tear of golden light drops from the glow. Small vase with desert flowers nearby. Mood: remembrance, eternal love, bittersweet.
+⚠️ NO human figure. Golden glow + Khadijah's belonging.
+
+### e04-slide-12 — Salam Allah untuk Khadijah
+A starry night sky above Makkah. From the heavens, a soft divine golden light descends through layers of clouds and envelops a simple house where Khadijah lived. The silhouette of Ka'bah visible in the distance. Stars shine extraordinarily bright. An angelic glow (luminous white form, no facial features) descends carrying the light. Colors of deep blue sky, divine golden light, white stars, brown house. Mood: ultimate honor, divine blessing, peace.
+⚠️ Angel = luminous form only, no detailed features.
