@@ -56,9 +56,10 @@ WIRY build with deep-set wise eyes. Deep wrinkles of age and study.
 
 ```
 Khadijah — a dignified Arab woman (about 40 years old in e04, aging 
-to 65 in e11). She wears an ELEGANT DEEP GREEN HIJAB and CREAM/WHITE 
-FLOWING ROBES. Graceful posture, warm maternal expression, intelligent 
-eyes. Wealthy merchant appearance — fine fabric, modest jewelry.
+to 65 in e11). She wears a WHITE HIJAB and WHITE NIQAB/CADAR (face veil, 
+only eyes visible) and CREAM/WHITE FLOWING ROBES. Graceful posture, 
+warm maternal expression visible through her eyes, intelligent gaze. 
+Wealthy merchant appearance — fine fabric, modest jewelry.
 ```
 
 ### 1.5 Abu Bakr al-Siddiq (e108, e12, e32+)
@@ -186,7 +187,7 @@ weathered hands from desert life. Nursing mother.
 | Ali | e15-e42 | Young warrior | Short dark | Olive green |
 | Uthman | e09-e109 | Gentle dignified | Light brown | White (fine) |
 | Khalid | e20-e111 | Fierce warrior | Thick black | Armor + red turban |
-| Khadijah | e04-e11 | Dignified merchant | N/A | Deep green hijab |
+| Khadijah | e04-e11 | Dignified merchant | N/A | White hijab + white niqab/cadar |
 | Bilal | e108 | Ethiopian muezzin | N/A | Simple white |
 | Tariq | e43-e47 | Berber commander | Short dark | Armor + blue turban |
 | Hamzah | e19-e20 | Lion of Allah | Thick dark | Lion skin |
