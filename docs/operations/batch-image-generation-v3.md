@@ -14,16 +14,33 @@
 | Submit method | Parallel burst | **Sequential** (submit → verify → download → next) |
 | QA timing | Per batch (5 slides) | **Per batch (5-5-6)** — Ahmad QA setiap batch sebelum lanjut |
 | Slide count | Manual count (section) | **Parser-verified** (exact paragraph count) |
-| Placeholder chats | Required [1]-[10] | **Not used for generation** (reserved for revisi only) |
+| Placeholder chats | Required [1]-[10] | **Required [1]-[16]** — slide N → chat [N], used for generate + revisi |
 
 ---
 
 ## Pre-requisites
 
 - [ ] PinchTab instance `work` running + logged in Google (viewport 1440x900)
+- [ ] **16 placeholder chats** sudah dibuat di Gemini: `[1] Placeholder - Image Generation` s/d `[16] Placeholder - Image Generation`
 - [ ] Prompt files siap di `/workspace/tmp/{event}-prompts/slide-{01..NN}.txt`
 - [ ] PRD illustration rules loaded (`docs/illustration-guide.md`)
 - [ ] Character registry loaded (`docs/illustration-registry.md`)
+
+### Setup Placeholder Chats (one-time)
+
+Buka 16 tab di Gemini, masing-masing buat chat baru dengan judul:
+```
+[1] Placeholder - Image Generation
+[2] Placeholder - Image Generation
+...
+[16] Placeholder - Image Generation
+```
+
+**⚠️ STRICT RULE: Slide number = Placeholder number**
+- Slide 01 → chat `[1] Placeholder - Image Generation`
+- Slide 02 → chat `[2] Placeholder - Image Generation`
+- Slide 12 → chat `[12] Placeholder - Image Generation`
+- **JANGAN acak** — nomor harus match untuk tracking dan revisi
 
 ---
 
@@ -238,11 +255,11 @@ node /workspace/scripts/composite-preview.js --event e10 --slides 1-13 --cols 4 
 
 ## Technical Notes
 
-### New Chat = Zero Context (CRITICAL)
-- **JANGAN** reuse Placeholder chats untuk generate baru — old context pollutes results
-- Gemini generates based on chat history + new prompt → old images influence new output
-- New chat = prompt-only = reliable results
-- Placeholder chats [1]-[16] hanya untuk **revisi** (append adjusted prompt ke chat yang sama)
+### Placeholder Chat Usage
+- Slide N → **selalu** generate di chat `[N] Placeholder - Image Generation`
+- Setelah selesai 1 event, **clear/reset** placeholder chats sebelum mulai event baru (hapus history lama agar zero context)
+- Revisi slide → kirim adjusted prompt di chat yang sama (append ke chat [N])
+- **JANGAN acak** nomor — slide 5 harus di chat [5], dst. Untuk tracking dan audit
 
 ### PinchTab Type Method
 - **Use `type` (NOT `fill`)** — fill doesn't trigger Gemini framework events
