@@ -1,6 +1,6 @@
 # Batch Image Generation Workflow v3
 
-> **Status: ❌ FAILED** — PinchTab type tidak reliable untuk Gemini. Prompt masuk tapi Gemini generate gambar random (hewan/desa Eropa), bukan scene yang diminta. Kembali ke v2 (manual).
+> **Status: ⚠️ REVISED** — Root cause ditemukan (2026-03-22): bukan PinchTab yang gagal, tapi **prompt di-submit terlalu cepat** — Gemini belum selesai menerima input sehingga brief terpotong → gambar random. **Fix: tunggu minimal 5 detik setelah input sebelum klik Send.**
 > **Created**: 2026-03-21
 > **Based on**: v2 (proven 2026-03-20) + lessons learned 2026-03-21
 
@@ -297,3 +297,4 @@ node /workspace/scripts/composite-preview.js --event e10 --slides 1-13 --cols 4 
 | `fill` doesn't submit | Gemini custom contenteditable | Use `type` only |
 | Lightbox blocks all interactions | Lightbox overlay captures all clicks | Always close lightbox before next action |
 | Slide count wrong (6 vs 13) | Counted sections, not paragraphs | Use parser to count exact slides |
+| **Gambar tidak sesuai brief** | Prompt di-submit terlalu cepat — Gemini belum selesai menerima input, brief terpotong | **Tunggu minimal 5 detik** setelah paste/type prompt sebelum klik Send. Gemini butuh waktu memproses input panjang. |
