@@ -5,7 +5,7 @@ import { I18nProvider, useI18n } from '@/i18n/context'
 import { motion, AnimatePresence } from 'framer-motion'
 import { getEra, getCategory, slugify, events, regions, type Event } from '@/lib/data'
 import Header from '@/components/Header'
-import eventContentData from '@/data/event-content.json'
+// REMOVED: event-content.json archived — all content now in event-content-map.json
 import eventContentMap from '@/data/event-content-map.json'
 
 const categoryEmoji: Record<string, string> = {
@@ -525,8 +525,8 @@ function EventContentInner({ event }: { event: Event }) {
   
   const slug = slugify(event.title)
   const contentMapEntry = (eventContentMap as any)[slug]
-  const contentDir = typeof contentMapEntry === 'string' ? contentMapEntry : undefined
-  const content = contentMapEntry ? (typeof contentMapEntry === 'string' ? (eventContentData as any)[contentMapEntry] : contentMapEntry) : null
+  const contentDir = undefined // all entries are now inline dicts
+  const content = contentMapEntry || null
   const hasRichContent = !!content
   // Resolve illustration key: try contentDir (string), or match slug against illustration keys
   const illustrationKey = contentDir || Object.keys(childrenIllustrations).find(k => {
