@@ -105,3 +105,5 @@ Lebih dari sekadar proyek teknis, standardisasi ini menjadi simbol persatuan uma
 3. **Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman.** *Al-Masahif* (Kitab tentang Mushaf-Mushaf). Tahqiq: Muhibbuddin Waidh. Beirut: Dar al-Basya'ir al-Islamiyyah, 2002.
 
 4. **Muslim, Abu al-Husain Muslim ibn al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits no. 818 (tujuh ahruf). Riyadh: Dar al-Salam, 2000.
+
+5. Al-Quran al-Karim, QS. Al-Hijr.

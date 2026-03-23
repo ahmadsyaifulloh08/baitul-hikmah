@@ -68,3 +68,5 @@ Qubbat al-Sakhrah telah berdiri selama lebih dari 1.300 tahun dan tetap menjadi 
 2. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Beirut: Dar al-Fikr, 1986.
+
+4. Al-Quran al-Karim, QS. Al-Isra, QS. An-Nisa.

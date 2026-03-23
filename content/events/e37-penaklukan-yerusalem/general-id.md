@@ -99,3 +99,5 @@ Al-Tabari mencatat bahwa setelah penaklukan, Umar mengizinkan kaum Yahudi untuk 
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (Penaklukan Negeri-Negeri). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Jilid 7. Beirut: Dar al-Fikr, 1986.
+
+4. Al-Quran al-Karim, QS. Al-Isra.

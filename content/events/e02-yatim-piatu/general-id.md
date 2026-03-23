@@ -157,3 +157,5 @@ Dalam menyusun kronologi ini, terdapat beberapa catatan penting mengenai perbeda
 5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
 7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad fi Hady Khair al-Ibad*, jilid 1 (Beirut: Mu'assasat al-Risalah, 1994).
+
+8. Al-Quran al-Karim, QS. Ad-Dhuha, QS. Al-An'am, QS. An-Nisa.

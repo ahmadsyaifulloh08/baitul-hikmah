@@ -107,3 +107,5 @@ Surat-surat dakwah ini mengandung beberapa pelajaran penting:
 2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 4, Bab Surat-surat Nabi kepada Raja-raja.
 
 3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, Bab Surat Nabi kepada Heraklius.
+
+4. Al-Quran al-Karim, QS. Al-Anbiya, QS. Ali.

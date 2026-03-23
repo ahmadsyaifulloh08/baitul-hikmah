@@ -118,3 +118,4 @@ Al-Khwarizmi membuktikan bahwa ilmu pengetahuan tidak mengenal batas geografis, 
 3. Euclid. *Elements* — geometri Yunani klasik.
 4. Brahmagupta. *Brahmasphutasiddhanta* — matematika India abad ke-7.
 5. Al-Khwarizmi, Muhammad ibn Musa. *Kitab al-Jabr wa al-Muqabalah*, ed. Roshdi Rashed (Paris: Les Belles Lettres, 2007).
+6. Al-Quran al-Karim, QS. an-Nisa.

@@ -115,3 +115,5 @@ Para mufasir, termasuk Ibn Kathir, menafsirkan bahwa "kaum yang Allah cintai " d
 2. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar Shadir, 1965.
 
 3. **Al-Baladhuri, Ahmad bin Yahya.** *Futuh al-Buldan* (Penaklukan Negeri-Negeri). Tahqiq: Ridwan Muhammad Ridwan. Beirut: Dar al-Kutub al-Ilmiyyah, 1983.
+
+4. Al-Quran al-Karim, QS. Al-Ma'idah.

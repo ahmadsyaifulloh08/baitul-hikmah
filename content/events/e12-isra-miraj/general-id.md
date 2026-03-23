@@ -184,3 +184,5 @@ Dalam konteks kronologis sirah, Isra' Mi'raj adalah jawaban langit atas penderit
 4. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
+
+7. Al-Quran al-Karim, QS. Al-Isra', QS. Al-Najm.

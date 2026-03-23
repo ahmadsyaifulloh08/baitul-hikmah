@@ -201,3 +201,5 @@ Wafatnya Rasulullah ﷺ mengajarkan umat Islam beberapa pelajaran fundamental:
 2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa, Ibrahim al-Abyari, dan Abdul Hafiz Syalabi. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
 3. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 2 (bab wafat Rasulullah). Beirut: Dar Shadir.
+
+4. Al-Quran al-Karim, QS. Ali.

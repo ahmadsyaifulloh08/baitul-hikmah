@@ -72,3 +72,5 @@ Kebijakan Muhammad bin Qasim yang memberikan perlindungan kepada penganut Hindu 
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (Penaklukan Negeri-Negeri). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
+
+4. Al-Quran al-Karim, QS. An-Nisa.

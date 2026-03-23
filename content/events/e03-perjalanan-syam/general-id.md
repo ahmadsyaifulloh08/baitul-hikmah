@@ -99,3 +99,5 @@ Pertemuan antara Muhammad, seorang anak Arab dari Makkah, dengan Bahira, seorang
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 3. Al-Tirmidzi, *Sunan al-Tirmidzi*, tahqiq Ahmad Syakir dkk. (Kairo: Musthafa al-Babi al-Halabi, 1975).
+
+4. Al-Quran al-Karim, QS. Quraisy.

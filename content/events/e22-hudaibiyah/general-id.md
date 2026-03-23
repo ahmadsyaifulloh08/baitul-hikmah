@@ -110,3 +110,5 @@ Hudaibiyah mengajarkan beberapa prinsip fundamental:
 2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 3, Bab Perjanjian Hudaibiyah.
 
 3. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976. Bab Perjanjian Hudaibiyah.
+
+4. Al-Quran al-Karim, QS. Al-Fath.

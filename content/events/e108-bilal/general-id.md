@@ -101,3 +101,5 @@ Pemilihan Bilal sebagai muadzin pertama adalah keputusan yang sarat makna simbol
 3. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 3 (Beirut: Dar Shadir, 1968).
 4. Ibn Hajar al-Asqalani, *Al-Ishabah fi Tamyiz al-Shahabah*, jilid 1 (Beirut: Dar al-Kutub al-Ilmiyyah, 1995).
 5. Ahmad bin Hanbal, *Musnad Ahmad*, jilid 5 (Kairo: Mu'assasah Qurthubah, t.t.).
+
+6. Al-Quran al-Karim, QS. Al-Hujurat.

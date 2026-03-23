@@ -131,3 +131,5 @@ Dari kota dagang di tengah gurun yang gersang, dari seorang anak yatim yang kehi
 5. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
 6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraisy (106:1-4).
+
+8. Al-Quran al-Karim, QS. Al-Fil, QS. Quraisy.

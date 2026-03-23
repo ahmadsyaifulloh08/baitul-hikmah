@@ -78,3 +78,5 @@ Pasal 42 menyebutkan bahwa jika terjadi perselisihan yang berpotensi menimbulkan
 2. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 1. Beirut: Dar Shadir.
 
 3. **Abu Ubayd al-Qasim bin Sallam.** *Al-Amwal*. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr, 1975.
+
+4. Al-Quran al-Karim, QS. Al-Baqarah.

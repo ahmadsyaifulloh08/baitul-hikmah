@@ -110,3 +110,5 @@ Pemilihan Surah Maryam oleh Ja'far menunjukkan kecerdasan dakwah yang tinggi. Ia
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 3. Ahmad bin Hanbal, *Musnad Ahmad*, jilid 1 (Kairo: Mu'assasah Qurthubah, t.t.).
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
+
+5. Al-Quran al-Karim, QS. Maryam.

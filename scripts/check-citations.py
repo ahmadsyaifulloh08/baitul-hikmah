@@ -105,6 +105,27 @@ def check_cards(db_path="src/data/events-database.json"):
     
     return all_errors
 
+# ─── Quran in Pustaka Check ──────────────────────────────────────
+
+def check_quran_in_pustaka():
+    """If article references QS., pustaka MUST have Al-Quran entry."""
+    import glob as _glob
+    mismatches = {}
+    for f in sorted(_glob.glob("content/events/*/general-id.md")):
+        with open(f) as fh:
+            text = fh.read()
+        slug = f.split("/")[2]
+        has_qs = bool(re.search(r'QS\.\s', text))
+        if not has_qs:
+            continue
+        pustaka = re.search(r'## Daftar Pustaka\s*\n([\s\S]+?)(?:\n## |\Z)', text)
+        if not pustaka:
+            continue
+        has_quran = bool(re.search(r'[Qq]ur.?an', pustaka.group(1)))
+        if not has_quran:
+            mismatches[slug] = "has QS. refs but no Al-Quran in Daftar Pustaka"
+    return mismatches
+
 # ─── Card vs Article Count Check ─────────────────────────────────
 
 def check_card_article_match():
@@ -193,6 +214,17 @@ if mode in ("all", "cards"):
         with open("src/data/events-database.json") as f:
             count = len(json.load(f)["events"])
         print(f"  ✅ All {count} events passed sources check")
+
+# Quran in pustaka check
+if mode in ("all", "articles"):
+    print("\n── Quran in Pustaka ──")
+    quran_issues = check_quran_in_pustaka()
+    if quran_issues:
+        for slug, msg in quran_issues.items():
+            print(f"  ❌ {slug}: {msg}")
+        total_errors += len(quran_issues)
+    else:
+        print(f"  ✅ All articles with QS. refs have Al-Quran in pustaka")
 
 # Card vs Article count check
 if mode in ("all", "cards"):

@@ -99,3 +99,5 @@ Keputusan untuk mengangkat pengepungan Thaif menunjukkan kebijaksanaan militer y
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
 3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, bab Ghazwah Hunain.
+
+4. Al-Quran al-Karim, QS. At-Taubah.

@@ -72,3 +72,5 @@ Fakta bahwa "Gibraltar" — salah satu nama tempat paling dikenal di dunia — b
 2. **Al-Maqqari, Ahmad ibn Muhammad.** *Nafh al-Tib min Ghusn al-Andalus al-Rathib* (Aroma Wangi dari Ranting Al-Andalus yang Segar). Beirut: Dar Shadir, 1968.
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Beirut: Dar Shadir, 1979.
+
+4. Al-Quran al-Karim, QS. Al-Anfal.

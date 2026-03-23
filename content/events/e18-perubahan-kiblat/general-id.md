@@ -93,3 +93,5 @@ Dari perspektif ushul fikih, perubahan kiblat adalah salah satu contoh paling je
 2. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits tentang perubahan kiblat dari Anas bin Malik, Kitab al-Masajid wa Mawadhi' al-Shalah.
 
 3. **Ibn Kathir, Ismail bin Umar.** *Tafsir al-Quran al-'Azhim*. Tafsir Surah Al-Baqarah ayat 142-150. Beirut: Dar al-Kutub al-Ilmiyyah, 1999.
+
+4. Al-Quran al-Karim, QS. Al-Baqarah.
