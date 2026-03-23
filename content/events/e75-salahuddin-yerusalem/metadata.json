@@ -11,34 +11,52 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "al-isra--17---1",
+      "title": "Al-Isra [17]: 1",
+      "author": "Al-Isra [17]: 1",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "baha-al-din-ibn-shaddad",
+      "title": "al-Nawadir al-Sultaniyyah",
+      "author": "Baha al-Din ibn Shaddad",
+      "type": "primary"
+    },
+    {
+      "id": "imad-al-din-al-isfahani",
+      "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
+      "author": "Imad al-Din al-Isfahani",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-al-athir",
+      "title": "al-Kamil fi al-Tarikh",
+      "author": "Ibn al-Athir",
       "type": "primary"
     },
     {
       "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "title": "al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
+      "id": "william-of-tyre",
+      "title": "Historia Rerum in Partibus Transmarinis Gestarum",
+      "author": "William of Tyre",
+      "type": "primary"
     },
     {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
+      "id": "andrew-s--ehrenkreutz",
+      "title": "Saladin",
+      "author": "Andrew S. Ehrenkreutz",
+      "type": "primary"
+    },
+    {
+      "id": "malcolm-cameron-lyons---d-e-p-",
+      "title": "Saladin: The Politics of the Holy War",
+      "author": "Malcolm Cameron Lyons & D.E.P. Jackson",
+      "type": "primary"
     }
   ]
 }

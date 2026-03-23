@@ -11,34 +11,52 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "al-khwarizmi",
+      "title": "Kitab al-Jabr wa al-Muqabalah",
+      "author": "Al-Khwarizmi",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "al-khwarizmi",
+      "title": "Zij al-Sindhind",
+      "author": "Al-Khwarizmi",
       "type": "primary"
     },
     {
-      "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "id": "roshdi-rashed",
+      "title": "Al-Khwarizmi: The Beginnings of Algebra",
+      "author": "Roshdi Rashed",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
+      "id": "victor-katz",
+      "title": "A History of Mathematics",
+      "author": "Victor Katz",
+      "type": "primary"
     },
     {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
+      "id": "ibn-al-nadim",
+      "title": "al-Fihrist",
+      "author": "Ibn al-Nadim",
+      "type": "primary"
+    },
+    {
+      "id": "al-qifti",
+      "title": "Tarikh al-Hukama'",
+      "author": "Al-Qifti",
+      "type": "primary"
+    },
+    {
+      "id": "al-nisa--4---11-12--inheritanc",
+      "title": "Al-Nisa [4]: 11-12 (inheritance laws requiring algebraic com",
+      "author": "Al-Nisa [4]: 11-12 (inheritance laws requiring algebraic computation)",
+      "type": "primary"
+    },
+    {
+      "id": "islamic-mawaris--inheritance--",
+      "title": "Islamic mawaris (inheritance) law as one motivation for deve",
+      "author": "Islamic mawaris (inheritance) law as one motivation for developing algebra",
+      "type": "primary"
     }
   ]
 }

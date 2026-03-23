@@ -11,34 +11,40 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "ibn-al-khatib",
+      "title": "al-Ihata fi Akhbar Gharnata",
+      "author": "Ibn al-Khatib",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "al-maqqari",
+      "title": "Nafh al-Tib min Ghusn al-Andalus al-Ratib",
+      "author": "Al-Maqqari",
       "type": "primary"
     },
     {
-      "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "id": "hernando-del-pulgar",
+      "title": "Crónica de los Reyes Católicos",
+      "author": "Hernando del Pulgar",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
+      "id": "maria-rosa-menocal",
+      "title": "The Ornament of the World",
+      "author": "Maria Rosa Menocal",
+      "type": "primary"
     },
     {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
+      "id": "l-p--harvey",
+      "title": "Islamic Spain, 1250-1500",
+      "author": "L.P. Harvey",
+      "type": "primary"
+    },
+    {
+      "id": "richard-fletcher",
+      "title": "Moorish Spain",
+      "author": "Richard Fletcher",
+      "type": "primary"
     }
   ]
 }
