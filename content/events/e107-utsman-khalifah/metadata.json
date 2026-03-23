@@ -1,0 +1,44 @@
+{
+  "id": "e107",
+  "title_id": "Utsman bin Affan Menjadi Khalifah",
+  "title_en": "Uthman Becomes Caliph",
+  "year": "644 M",
+  "era": "Khulafaur Rasyidin",
+  "location": "Madinah",
+  "tags": [
+    "utsman",
+    "khalifah"
+  ],
+  "sources": [
+    {
+      "id": "ibn-hisham",
+      "title": "Sirah Nabawiyyah",
+      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "type": "primary"
+    },
+    {
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-kathir",
+      "title": "Al-Bidayah wan Nihayah",
+      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "type": "primary"
+    },
+    {
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
+      "type": "hadith"
+    },
+    {
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Imam Muslim (w. 261 H / 875 M)",
+      "type": "hadith"
+    }
+  ]
+}
