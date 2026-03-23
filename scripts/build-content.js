@@ -2,7 +2,20 @@ const fs = require('fs')
 const path = require('path')
 
 const contentDir = path.join(__dirname, '..', 'content', 'events')
-const outFile = path.join(__dirname, '..', 'src', 'data', 'event-content.json')
+const agendaFile = path.join(__dirname, '..', 'src', 'data', 'research_agenda.json')
+const outFile = path.join(__dirname, '..', 'src', 'data', 'event-content-map.json')
+
+// Load research agenda for slug mapping (folder e-id → title slug)
+const agenda = JSON.parse(fs.readFileSync(agendaFile, 'utf8'))
+const idToSlug = {}
+for (const ev of agenda.events) {
+  const slug = ev.title.toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim()
+  idToSlug[ev.id] = slug
+}
 
 const result = {}
 
@@ -12,22 +25,36 @@ if (fs.existsSync(contentDir)) {
     const dirPath = path.join(contentDir, dir)
     if (!fs.statSync(dirPath).isDirectory()) continue
     
+    // Extract event id (e01, e57, etc)
+    const eid = dir.split('-')[0]
+    const titleSlug = idToSlug[eid]
+    if (!titleSlug) {
+      console.warn(`  WARN: ${dir} — no matching event in research_agenda.json`)
+      continue
+    }
+
     const entry = {}
     for (const file of fs.readdirSync(dirPath)) {
       const filePath = path.join(dirPath, file)
-      const content = fs.readFileSync(filePath, 'utf8')
       
-      if (file.endsWith('.md')) {
+      if (file.endsWith('.md') || file.endsWith('.mdx')) {
+        const content = fs.readFileSync(filePath, 'utf8')
         // Strip frontmatter
         const stripped = content.replace(/^---[\s\S]*?---\n*/, '')
-        entry[file.replace('.md', '')] = stripped
-      } else if (file.endsWith('.json')) {
-        entry[file.replace('.json', '')] = JSON.parse(content)
+        if (stripped.length > 50) {
+          // Use key format: general-en, children-id, etc
+          const key = file.replace(/\.(md|mdx)$/, '')
+          entry[key] = stripped
+        }
       }
+      // Skip .json files (metadata — not content)
     }
-    result[dir] = entry
+    
+    if (Object.keys(entry).length > 0) {
+      result[titleSlug] = entry
+    }
   }
 }
 
 fs.writeFileSync(outFile, JSON.stringify(result, null, 2))
-console.log(`Built content for ${Object.keys(result).length} events`)
+console.log(`Built content for ${Object.keys(result).length} events → ${outFile}`)
