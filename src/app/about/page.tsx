@@ -10,7 +10,7 @@ export default function AboutPage() {
       <Header />
       <article className="max-w-3xl mx-auto px-4 pt-6 pb-12">
 
-        <section className="mb-10">
+        <section className="mb-16">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tentang Baitul Hikmah</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
