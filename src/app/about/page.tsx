@@ -10,7 +10,7 @@ export default function AboutPage() {
       <Header />
       <article className="max-w-3xl mx-auto px-4 pt-6 pb-12">
 
-        <section className="mb-8">
+        <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tentang Baitul Hikmah</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -30,7 +30,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-8">
+        <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -95,7 +95,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-8">
+        <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -110,7 +110,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-8">
+        <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
