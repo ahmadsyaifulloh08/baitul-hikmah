@@ -31,6 +31,16 @@ content/events/{event}/
 docs/briefs/{event}.md ← WAJIB jika ada ilustrasi
 ```
 
+### QA Scripts
+```bash
+# Citation checker — verify consolidated format
+python3 scripts/check-citations.py              # all events
+python3 scripts/check-citations.py e57-al-khwarizmi  # specific event
+
+# Content sync — .md → website JSON
+python3 scripts/sync-content.py                 # or: node scripts/build-content.js
+```
+
 ### metadata.json Template
 ```json
 {
