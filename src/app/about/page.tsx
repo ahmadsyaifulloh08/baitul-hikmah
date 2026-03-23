@@ -10,7 +10,7 @@ export default function AboutPage() {
       <Header />
       <article className="max-w-3xl mx-auto px-4 py-12">
 
-        <section className="mb-16">
+        <section className="mb-10">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tentang Baitul Hikmah</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -30,7 +30,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-16 mt-16">
+        <section className="mb-10">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -38,7 +38,7 @@ export default function AboutPage() {
               tradisi ilmiah Islam (<em>manhaj</em>) dan standar akademis modern.
             </p>
 
-            <div className="border border-[var(--border)] rounded-lg p-6 my-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6 my-6">
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">1. Sumber Primer</h3>
               <p className="mb-2">Setiap peristiwa dirujuk minimal dari 3 sumber primer yang otoritatif:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -50,7 +50,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="border border-[var(--border)] rounded-lg p-6 my-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6 my-6">
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">2. Verifikasi Hadits</h3>
               <p className="mb-2">Hadits yang dikutip diverifikasi statusnya (shahih, hasan, dha&apos;if) dengan merujuk pada:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -60,7 +60,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="border border-[var(--border)] rounded-lg p-6 my-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6 my-6">
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">3. Verifikasi Al-Quran</h3>
               <p className="mb-2">Setiap kutipan Al-Quran diverifikasi secara otomatis menggunakan API Al-Quran Cloud:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -71,7 +71,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="border border-[var(--border)] rounded-lg p-6 my-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6 my-6">
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">4. Daftar Pustaka Terkonsolidasi</h3>
               <p className="mb-2">Setiap artikel menggunakan format daftar pustaka terkonsolidasi:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -82,7 +82,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="border border-[var(--border)] rounded-lg p-6 my-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6 my-6">
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Automated Quality Assurance</h3>
               <p className="mb-2">Seluruh konten melewati pipeline QA otomatis sebelum dipublikasikan:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -95,7 +95,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-16 mt-16">
+        <section className="mb-10">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -110,7 +110,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-16 mt-16">
+        <section className="mb-10">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
