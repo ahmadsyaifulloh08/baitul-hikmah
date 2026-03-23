@@ -188,23 +188,4 @@ Warisan Salahuddin melampaui kemenangan militernya. Ia meninggalkan model kepemi
 >
 6. Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.
 7. Al-Bukhari, Muhammad ibn Ismail. *al-Adab al-Mufrad* (Etika yang Terpilih), no. 441.
-8. Unknown_14, [Karya yang disebutkan dalam teks].
-9. Unknown_15, [Karya yang disebutkan dalam teks].
-10. Al-Din al-Isfahani, [Karya yang disebutkan dalam teks].
-11. Unknown_17, [Karya yang disebutkan dalam teks].
-12. Unknown_18, [Karya yang disebutkan dalam teks].
-13. Unknown_19, [Karya yang disebutkan dalam teks].
-14. Unknown_20, [Karya yang disebutkan dalam teks].
-15. Unknown_21, [Karya yang disebutkan dalam teks].
-16. Unknown_22, [Karya yang disebutkan dalam teks].
-17. Al-Qur'an al-Karim.
-18. Ibn Shaddad, [Karya yang disebutkan dalam teks].
-19. Unknown_28, [Karya yang disebutkan dalam teks].
-20. Unknown_29, [Karya yang disebutkan dalam teks].
-21. Unknown_32, [Karya yang disebutkan dalam teks].
-22. Unknown_33, [Karya yang disebutkan dalam teks].
-23. Unknown_36, [Karya yang disebutkan dalam teks].
-24. Unknown_37, [Karya yang disebutkan dalam teks].
-25. Ibn Qudamah, [Karya yang disebutkan dalam teks].
-26. Unknown_44, [Karya yang disebutkan dalam teks].
-27. Unknown_45, [Karya yang disebutkan dalam teks].
+8. Al-Qur'an al-Karim.

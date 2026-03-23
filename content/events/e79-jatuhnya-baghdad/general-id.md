@@ -218,13 +218,4 @@ Akhirnya, meskipun Baitul Hikmah fisik telah musnah, semangat inkuiri intelektua
 > وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ ﴿46﴾
 >
 8. Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.
-9. Unknown_18, [Karya yang disebutkan dalam teks].
-10. Al-Maqrizi, [Karya yang disebutkan dalam teks].
-11. Al-Athir, [Karya yang disebutkan dalam teks].
-12. Al-Khwarizmi, [Karya yang disebutkan dalam teks].
-13. Unknown_26, [Karya yang disebutkan dalam teks].
-14. Unknown_27, [Karya yang disebutkan dalam teks].
-15. Al-Qur'an al-Karim.
-16. Unknown_44, [Karya yang disebutkan dalam teks].
-17. Unknown_46, [Karya yang disebutkan dalam teks].
-18. Unknown_50, [Karya yang disebutkan dalam teks].
+9. Al-Qur'an al-Karim.

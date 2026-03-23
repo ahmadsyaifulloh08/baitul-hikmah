@@ -3316,57 +3316,15 @@
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Taha (20): 114, al-Mujadalah (58): 11",
-          "type": "quran"
+          "id": "al-qur-an-al-karim--",
+          "title": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.",
+          "author": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.",
+          "type": "primary"
         },
         {
           "id": "al-kindi",
           "title": "Fi al-Falsafah al-Ula",
           "author": "Al-Kindi",
-          "type": "primary"
-        },
-        {
-          "id": "unknown-13",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Unknown_13",
-          "type": "primary"
-        },
-        {
-          "id": "unknown-14",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Unknown_14",
-          "type": "primary"
-        },
-        {
-          "id": "unknown-15",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Unknown_15",
-          "type": "primary"
-        },
-        {
-          "id": "unknown-17",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Unknown_17",
-          "type": "primary"
-        },
-        {
-          "id": "unknown-18",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Unknown_18",
-          "type": "primary"
-        },
-        {
-          "id": "al-khatib-al-baghdad",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Khatib al-Baghdadi",
-          "type": "primary"
-        },
-        {
-          "id": "al-athir",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Athir",
           "type": "primary"
         }
       ],
@@ -4096,9 +4054,9 @@
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "Wahyu Ilahi",
+          "id": "al-qur-an-al-karim--",
+          "title": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
+          "author": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
           "type": "primary"
         },
         {
@@ -4108,21 +4066,9 @@
           "type": "primary"
         },
         {
-          "id": "al-din-al-isfahani",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Din al-Isfahani",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-shaddad",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Ibn Shaddad",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-qudamah",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Ibn Qudamah",
+          "id": "al-qur-an-al-karim-",
+          "title": "Al-Qur'an al-Karim.",
+          "author": "Al-Qur'an al-Karim.",
           "type": "primary"
         }
       ],
@@ -4435,27 +4381,15 @@
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "Wahyu Ilahi",
+          "id": "al-qur-an-al-karim--",
+          "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
+          "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
           "type": "primary"
         },
         {
-          "id": "al-maqrizi",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Maqrizi",
-          "type": "primary"
-        },
-        {
-          "id": "al-athir",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Athir",
-          "type": "primary"
-        },
-        {
-          "id": "al-khwarizmi",
-          "title": "[Karya yang disebutkan dalam teks].",
-          "author": "Al-Khwarizmi",
+          "id": "al-qur-an-al-karim-",
+          "title": "Al-Qur'an al-Karim.",
+          "author": "Al-Qur'an al-Karim.",
           "type": "primary"
         }
       ],

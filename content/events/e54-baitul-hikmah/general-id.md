@@ -139,10 +139,3 @@ Baitul Hikmah membuktikan bahwa kemajuan ilmu pengetahuan memerlukan lebih dari 
 >
 8. Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.
 9. Al-Kindi, Abu Yusuf Ya'qub ibn Ishaq. *Fi al-Falsafah al-Ula* (Tentang Filsafat Pertama).
-10. Unknown_13, [Karya yang disebutkan dalam teks].
-11. Unknown_14, [Karya yang disebutkan dalam teks].
-12. Unknown_15, [Karya yang disebutkan dalam teks].
-13. Unknown_17, [Karya yang disebutkan dalam teks].
-14. Unknown_18, [Karya yang disebutkan dalam teks].
-15. Al-Khatib al-Baghdadi, [Karya yang disebutkan dalam teks].
-16. Al-Athir, [Karya yang disebutkan dalam teks].
