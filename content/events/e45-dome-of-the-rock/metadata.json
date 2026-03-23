@@ -14,20 +14,20 @@
   "sources": [
     {
       "id": "-mujir-al-din-al-hanbali",
-      "title": "Mujir al-Din al-Hanbali, Abu al-Yumn.",
-      "author": "*Mujir al-Din al-Hanbali",
+      "title": "Al-Uns al-Jalil bi Tarikh al-Quds",
+      "author": "Mujir al-Din al-Hanbali",
       "type": "primary"
     },
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-kathir",
-      "title": "Ibn Kathir, Ismail ibn Umar.",
-      "author": "*Ibn Kathir",
+      "title": "Al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     }
   ]

@@ -19,7 +19,7 @@
     {
       "id": "rashid-al-din-hamadani---jami-",
       "title": "Jami' al-Tawarikh",
-      "author": "Rashid al-Din Hamadani. *Jami' al-Tawarikh* (Kumpulan Sejarah). Tehran: Iqbal",
+      "author": "Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
       "type": "primary"
     },
     {
@@ -54,68 +54,20 @@
     },
     {
       "id": "al-qur-an-al-karim--qs--ar-ra-",
-      "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): ",
-      "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-18",
-      "title": "Unknown_18, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_18",
+      "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8):",
+      "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
       "type": "primary"
     },
     {
       "id": "al-maqrizi",
-      "title": "Al-Maqrizi, [Karya yang disebutkan dalam teks].",
+      "title": "Al-Suluk",
       "author": "Al-Maqrizi",
       "type": "primary"
     },
     {
-      "id": "al-athir",
-      "title": "Al-Athir, [Karya yang disebutkan dalam teks].",
-      "author": "Al-Athir",
-      "type": "primary"
-    },
-    {
-      "id": "al-khwarizmi",
-      "title": "Al-Khwarizmi, [Karya yang disebutkan dalam teks].",
-      "author": "Al-Khwarizmi",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-26",
-      "title": "Unknown_26, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_26",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-27",
-      "title": "Unknown_27, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_27",
-      "type": "primary"
-    },
-    {
       "id": "al-qur-an-al-karim-",
-      "title": "Al-Qur'an al-Karim.",
-      "author": "Al-Qur'an al-Karim.",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-44",
-      "title": "Unknown_44, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_44",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-46",
-      "title": "Unknown_46, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_46",
-      "type": "primary"
-    },
-    {
-      "id": "unknown-50",
-      "title": "Unknown_50, [Karya yang disebutkan dalam teks].",
-      "author": "Unknown_50",
+      "title": "Al-Quran al-Karim",
+      "author": "Wahyu Ilahi",
       "type": "primary"
     }
   ]

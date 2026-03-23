@@ -259,13 +259,12 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham — Sumber Primer",
-        "Al-Mubarakfuri — Sumber Primer",
-        "Ibn Kathir — Sumber Primer",
-        "Al-Bukhari — Sumber Primer",
-        "Muslim — Sumber Primer",
-        "Ibn Sa'd — Sumber Primer",
-        "Al-Quran al-Karim — Al-Quran al-Karim. QS Al-Fil (105:1-5)"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Tafsir al-Quran al-Azhim — Ibn Kathir",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd"
       ],
       "status": "published"
     },
@@ -292,13 +291,13 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim",
-        "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd",
-        "Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain. — Al-Bayhaqi",
-        "Ibn Qayyim al-Jauziyyah, Syamsuddin. — Ibn Qayyim al-Jauziyyah"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd",
+        "Dalail al-Nubuwwah — Al-Bayhaqi",
+        "Zad al-Ma'ad — Ibn Qayyim al-Jauziyyah"
       ],
       "status": "published"
     },
@@ -615,9 +614,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd"
       ],
       "status": "published"
     },
@@ -638,9 +637,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari"
       ],
       "status": "published"
     },
@@ -660,9 +659,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd",
-        "Abu Ubayd al-Qasim bin Sallam. — Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd",
+        "Abu Ubayd al-Qasim bin Sallam — Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr"
       ],
       "status": "published"
     },
@@ -682,9 +681,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari"
       ],
       "status": "published"
     },
@@ -704,9 +703,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim",
-        "Ibn Kathir, Ismail bin Umar. — Ibn Kathir"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
       "status": "published"
     },
@@ -728,9 +727,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
       ],
       "status": "published"
     },
@@ -752,9 +751,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
       ],
       "status": "published"
     },
@@ -775,9 +774,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Kitab al-Maghazi — Al-Waqidi"
       ],
       "status": "published"
     },
@@ -797,9 +796,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri"
       ],
       "status": "published"
     },
@@ -822,9 +821,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -845,9 +844,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Kitab al-Maghazi — Al-Waqidi"
       ],
       "status": "published"
     },
@@ -867,9 +866,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Kitab al-Maghazi — Al-Waqidi"
       ],
       "status": "published"
     },
@@ -890,10 +889,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -913,9 +912,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari"
       ],
       "status": "published"
     },
@@ -935,9 +934,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -961,10 +960,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -984,9 +983,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd"
       ],
       "status": "published"
     },
@@ -1006,10 +1005,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim",
-        "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
-        "Ahmad bin Hanbal. — Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
+        "Shahih Muslim — Muslim",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Ahmad bin Hanbal — Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
       ],
       "status": "published"
     },
@@ -1031,9 +1030,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
-        "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Tabaqat al-Kubra — Ibn Sa'd"
       ],
       "status": "published"
     },
@@ -1053,9 +1052,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
-        "Ibn Kathir, Ismail bin Umar. — Ibn Kathir",
-        "Ibn al-Jawzi, Abdurrahman bin Ali. — Ibn al-Jawzi"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
       ],
       "status": "published"
     },
@@ -1076,9 +1075,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
-        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir",
-        "Al-Baladhuri, Ahmad bin Yahya. — Al-Baladhuri"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Futuh al-Buldan — Al-Baladhuri"
       ],
       "status": "published"
     },
@@ -1100,9 +1099,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
-        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir",
-        "Ibn Kathir, Ismail bin Umar. — Ibn Kathir"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
       "status": "published"
     },
@@ -1124,9 +1123,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
-        "Al-Suyuti, Jalal al-Din Abdurrahman. — Al-Suyuti",
-        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Itqan fi Ulum al-Quran — Al-Suyuti",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
       "status": "published"
     },
@@ -1147,9 +1146,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Baladhuri, Ahmad bin Yahya. — Al-Baladhuri",
-        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
-        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir"
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
       "status": "published"
     },
@@ -1172,9 +1171,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
-        "Ibn al-Jawzi, Abu al-Faraj. — Ibn al-Jawzi"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
       ],
       "status": "published"
     },
@@ -1194,9 +1193,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
       "status": "published"
     },
@@ -1217,9 +1216,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
       "status": "published"
     },
@@ -1239,9 +1238,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman. — Ibn Abd al-Hakam",
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Futuh Misr — Ibn Abd al-Hakam",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
       "status": "published"
     },
@@ -1264,12 +1263,12 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Abu al-Fida Ismail. — Ibn Kathir",
-        "Ibn al-Jawzi, Abu al-Faraj. — Ibn al-Jawzi",
-        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim",
-        "Al-Tirmidzi, Abu Isa Muhammad. — Al-Tirmidzi"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Sunan al-Tirmidzi — Al-Tirmidzi"
       ],
       "status": "published"
     },
@@ -1290,10 +1289,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — Al-Bukhari",
-        "Al-Suyuti, Jalaluddin Abdurrahman. — Al-Suyuti",
-        "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman. — Ibn Abi Dawud",
-        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Itqan fi Ulum al-Quran — Al-Suyuti",
+        "Kitab al-Masahif — Ibn Abi Dawud",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -1314,11 +1313,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Abu al-Fida Ismail. — Ibn Kathir",
-        "Al-Radhi, Syarif Abu al-Hasan Muhammad. — Al-Radhi",
-        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — Al-Bukhari",
-        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Nahj al-Balaghah — Al-Radhi",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim"
       ],
       "status": "published"
     },
@@ -1339,9 +1338,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn al-Athir, Izzuddin Abu al-Hasan Ali. — Ibn al-Athir",
-        "Nasr ibn Muzahim al-Minqari. — Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Nasr ibn Muzahim al-Minqari — Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah"
       ],
       "status": "published"
     },
@@ -1361,9 +1360,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
-        "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
       "status": "published"
     },
@@ -1383,9 +1382,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Ibn al-Athir, Izz al-Din. — Ibn al-Athir",
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
       "status": "published"
     },
@@ -1406,9 +1405,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
-        "Abu Mikhnaf, Lut ibn Yahya. — Abu Mikhnaf"
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Maqtal al-Husain — Abu Mikhnaf"
       ],
       "status": "published"
     },
@@ -1428,9 +1427,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Mujir al-Din al-Hanbali, Abu al-Yumn. — Mujir al-Din al-Hanbali",
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir"
+        "Al-Uns al-Jalil bi Tarikh al-Quds — Mujir al-Din al-Hanbali",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
       "status": "published"
     },
@@ -1451,9 +1450,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Ibn al-Qifti, Jamal al-Din. — Ibn al-Qifti",
-        "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim. — Ibn Abi Usaybi'ah",
-        "Ibn al-Nadim, Abu al-Faraj Muhammad. — Ibn al-Nadim"
+        "Tarikh al-Hukama — Ibn al-Qifti",
+        "Kitab al-Fihrist — Ibn al-Nadim",
+        "Greek Thought, Arabic Culture — Dimitri Gutas"
       ],
       "status": "published"
     },
@@ -1474,9 +1473,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Al-Maqqari, Ahmad ibn Muhammad. — Al-Maqqari",
-        "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Nafh al-Tib — Al-Maqqari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
       "status": "published"
     },
@@ -1497,9 +1496,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Ali ibn Muhammad al-Kufi. — Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
-        "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
+        "Ali ibn Muhammad al-Kufi — Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
+        "Futuh al-Buldan — Al-Baladhuri",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
       "status": "published"
     },
@@ -1519,9 +1518,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Ibn Abd al-Hakam, Abdullah. — Ibn Abd al-Hakam",
-        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
-        "Ibn al-Jawzi, Abu al-Faraj. — Ibn al-Jawzi"
+        "Futuh Misr — Ibn Abd al-Hakam",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
       ],
       "status": "published"
     },
@@ -1728,17 +1727,11 @@
         "Tarikh Baghdad — Al-Khatib al-Baghdadi",
         "Muruj al-Dhahab wa Ma'adin al-Jawhar — Al-Mas'udi",
         "Kitab al-Fihrist — Ibn al-Nadim",
-        "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus — Hunayn ibn Ishaq.",
+        "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus — Hunayn ibn Ishaq",
         "al-Bayan wa al-Tabyin — Al-Jahiz",
-        "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58 — Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.",
+        "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58 — Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
         "Fi al-Falsafah al-Ula — Al-Kindi",
-        "Unknown_13, [Karya yang disebutkan dalam teks]. — Unknown_13",
-        "Unknown_14, [Karya yang disebutkan dalam teks]. — Unknown_14",
-        "Unknown_15, [Karya yang disebutkan dalam teks]. — Unknown_15",
-        "Unknown_17, [Karya yang disebutkan dalam teks]. — Unknown_17",
-        "Unknown_18, [Karya yang disebutkan dalam teks]. — Unknown_18",
-        "Al-Khatib al-Baghdadi, [Karya yang disebutkan dalam teks]. — Al-Khatib al-Baghdadi",
-        "Al-Athir, [Karya yang disebutkan dalam teks]. — Al-Athir"
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi"
       ],
       "status": "published"
     },
@@ -1806,8 +1799,8 @@
       "sumber": [
         "Kitab al-Fihrist — Ibn al-Nadim",
         "Kitab al-Hind — Al-Biruni",
-        "Elements — Euclid.",
-        "Brahmasphutasiddhanta — Brahmagupta.",
+        "Elements — Euclid",
+        "Brahmasphutasiddhanta — Brahmagupta",
         "Kitab al-Jabr wa al-Muqabalah — Al-Khwarizmi"
       ],
       "status": "published"
@@ -2368,33 +2361,17 @@
       ],
       "significance": "high",
       "sumber": [
-        "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah — Baha al-Din ibn Shaddad.",
+        "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah — Baha al-Din ibn Shaddad",
         "al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani.",
-        "Historia Rerum in Partibus Transmarinis Gestarum — William of Tyre.",
+        "al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani",
+        "Historia Rerum in Partibus Transmarinis Gestarum — William of Tyre",
         "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah — Ibn Shaddad",
-        "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2) — Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
+        "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2) — Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
         "al-Adab al-Mufrad — Al-Bukhari",
-        "Unknown_14, [Karya yang disebutkan dalam teks]. — Unknown_14",
-        "Unknown_15, [Karya yang disebutkan dalam teks]. — Unknown_15",
-        "Al-Din al-Isfahani, [Karya yang disebutkan dalam teks]. — Al-Din al-Isfahani",
-        "Unknown_17, [Karya yang disebutkan dalam teks]. — Unknown_17",
-        "Unknown_18, [Karya yang disebutkan dalam teks]. — Unknown_18",
-        "Unknown_19, [Karya yang disebutkan dalam teks]. — Unknown_19",
-        "Unknown_20, [Karya yang disebutkan dalam teks]. — Unknown_20",
-        "Unknown_21, [Karya yang disebutkan dalam teks]. — Unknown_21",
-        "Unknown_22, [Karya yang disebutkan dalam teks]. — Unknown_22",
-        "Al-Qur'an al-Karim. — Sumber Primer",
-        "Ibn Shaddad, [Karya yang disebutkan dalam teks]. — Ibn Shaddad",
-        "Unknown_28, [Karya yang disebutkan dalam teks]. — Unknown_28",
-        "Unknown_29, [Karya yang disebutkan dalam teks]. — Unknown_29",
-        "Unknown_32, [Karya yang disebutkan dalam teks]. — Unknown_32",
-        "Unknown_33, [Karya yang disebutkan dalam teks]. — Unknown_33",
-        "Unknown_36, [Karya yang disebutkan dalam teks]. — Unknown_36",
-        "Unknown_37, [Karya yang disebutkan dalam teks]. — Unknown_37",
-        "Ibn Qudamah, [Karya yang disebutkan dalam teks]. — Ibn Qudamah",
-        "Unknown_44, [Karya yang disebutkan dalam teks]. — Unknown_44",
-        "Unknown_45, [Karya yang disebutkan dalam teks]. — Unknown_45"
+        "Al-Fath al-Qussi — Al-Din al-Isfahani",
+        "Al-Quran al-Karim — Wahyu Ilahi",
+        "Al-Nawadir al-Sultaniyyah — Ibn Shaddad",
+        "Al-Mughni — Ibn Qudamah"
       ],
       "status": "published"
     },
@@ -2651,17 +2628,9 @@
         "The Mongols — Morgan",
         "The Mongols and the West, 1221-1410 — Jackson",
         "The Mongol Conquests in World History — May",
-        "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): — Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
-        "Unknown_18, [Karya yang disebutkan dalam teks]. — Unknown_18",
-        "Al-Maqrizi, [Karya yang disebutkan dalam teks]. — Al-Maqrizi",
-        "Al-Athir, [Karya yang disebutkan dalam teks]. — Al-Athir",
-        "Al-Khwarizmi, [Karya yang disebutkan dalam teks]. — Al-Khwarizmi",
-        "Unknown_26, [Karya yang disebutkan dalam teks]. — Unknown_26",
-        "Unknown_27, [Karya yang disebutkan dalam teks]. — Unknown_27",
-        "Al-Qur'an al-Karim. — Sumber Primer",
-        "Unknown_44, [Karya yang disebutkan dalam teks]. — Unknown_44",
-        "Unknown_46, [Karya yang disebutkan dalam teks]. — Unknown_46",
-        "Unknown_50, [Karya yang disebutkan dalam teks]. — Unknown_50"
+        "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): — Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
+        "Al-Suluk — Al-Maqrizi",
+        "Al-Quran al-Karim — Wahyu Ilahi"
       ],
       "status": "published"
     },

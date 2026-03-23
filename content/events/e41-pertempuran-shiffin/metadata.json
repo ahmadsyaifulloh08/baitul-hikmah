@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-al-athir",
-      "title": "Ibn al-Athir, Izzuddin Abu al-Hasan Ali.",
-      "author": "*Ibn al-Athir",
+      "title": "Al-Kamil fi al-Tarikh",
+      "author": "Ibn al-Athir",
       "type": "primary"
     },
     {
       "id": "-nasr-ibn-muzahim-al-minqari--",
-      "title": "Nasr ibn Muzahim al-Minqari.",
-      "author": "*Nasr ibn Muzahim al-Minqari.** *Waq'at Shiffin* (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
+      "title": "Nasr ibn Muzahim al-Minqari",
+      "author": "Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
       "type": "primary"
     }
   ]

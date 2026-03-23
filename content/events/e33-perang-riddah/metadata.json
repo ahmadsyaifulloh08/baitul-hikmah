@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-al-athir",
-      "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
-      "author": "*Ibn al-Athir",
+      "title": "Al-Kamil fi al-Tarikh",
+      "author": "Ibn al-Athir",
       "type": "primary"
     },
     {
       "id": "-al-baladhuri",
-      "title": "Al-Baladhuri, Ahmad bin Yahya.",
-      "author": "*Al-Baladhuri",
+      "title": "Futuh al-Buldan",
+      "author": "Al-Baladhuri",
       "type": "primary"
     }
   ]

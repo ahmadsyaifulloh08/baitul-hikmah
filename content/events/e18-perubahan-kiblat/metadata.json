@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
-      "author": "*Al-Bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "primary"
     },
     {
       "id": "-muslim",
-      "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
-      "author": "*Muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
       "type": "primary"
     },
     {
       "id": "-ibn-kathir",
-      "title": "Ibn Kathir, Ismail bin Umar.",
-      "author": "*Ibn Kathir",
+      "title": "Al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     }
   ]

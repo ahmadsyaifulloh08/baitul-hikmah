@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-baladhuri",
-      "title": "Al-Baladhuri, Ahmad ibn Yahya.",
-      "author": "*Al-Baladhuri",
+      "title": "Futuh al-Buldan",
+      "author": "Al-Baladhuri",
       "type": "primary"
     },
     {
       "id": "-al-maqqari",
-      "title": "Al-Maqqari, Ahmad ibn Muhammad.",
-      "author": "*Al-Maqqari",
+      "title": "Nafh al-Tib",
+      "author": "Al-Maqqari",
       "type": "primary"
     },
     {
       "id": "-ibn-al-athir",
-      "title": "Ibn al-Athir, Izz al-Din.",
-      "author": "*Ibn al-Athir",
+      "title": "Al-Kamil fi al-Tarikh",
+      "author": "Ibn al-Athir",
       "type": "primary"
     }
   ]

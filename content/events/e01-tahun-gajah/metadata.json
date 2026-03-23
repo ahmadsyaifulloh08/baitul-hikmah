@@ -18,45 +18,39 @@
   ],
   "sources": [
     {
-      "id": "-ibn-hisham--",
-      "title": "Ibn Hisham",
-      "author": "*Ibn Hisham**",
+      "id": "ibn-hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
-      "id": "-al-mubarakfuri--",
-      "title": "Al-Mubarakfuri",
-      "author": "*Al-Mubarakfuri**",
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Al-Mubarakfuri",
       "type": "primary"
     },
     {
-      "id": "-ibn-kathir--",
-      "title": "Ibn Kathir",
-      "author": "*Ibn Kathir**",
+      "id": "tafsir-ibn-kathir",
+      "title": "Tafsir al-Quran al-Azhim",
+      "author": "Ibn Kathir",
       "type": "primary"
     },
     {
-      "id": "-al-bukhari--",
-      "title": "Al-Bukhari",
-      "author": "*Al-Bukhari**",
-      "type": "primary"
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
+      "type": "hadith"
     },
     {
-      "id": "-muslim--",
-      "title": "Muslim",
-      "author": "*Muslim**",
-      "type": "primary"
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
+      "type": "hadith"
     },
     {
-      "id": "-ibn-sa-d--",
-      "title": "Ibn Sa'd",
-      "author": "*Ibn Sa'd**",
-      "type": "primary"
-    },
-    {
-      "id": "-al-quran-al-karim----qs-al-fi",
-      "title": "Al-Quran al-Karim",
-      "author": "*Al-Quran al-Karim**. QS Al-Fil (105:1-5)",
+      "id": "tabaqat-ibn-sad",
+      "title": "Al-Tabaqat al-Kubra",
+      "author": "Ibn Sa'd",
       "type": "primary"
     }
   ],

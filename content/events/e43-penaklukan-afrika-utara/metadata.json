@@ -13,20 +13,20 @@
   "sources": [
     {
       "id": "-al-baladhuri",
-      "title": "Al-Baladhuri, Ahmad ibn Yahya.",
-      "author": "*Al-Baladhuri",
+      "title": "Futuh al-Buldan",
+      "author": "Al-Baladhuri",
       "type": "primary"
     },
     {
       "id": "-ibn-al-athir",
-      "title": "Ibn al-Athir, Izz al-Din.",
-      "author": "*Ibn al-Athir",
+      "title": "Al-Kamil fi al-Tarikh",
+      "author": "Ibn al-Athir",
       "type": "primary"
     },
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     }
   ]

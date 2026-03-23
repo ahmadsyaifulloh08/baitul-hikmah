@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
-      "author": "*Al-Bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "primary"
     },
     {
       "id": "-ibn-hisham",
-      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
-      "author": "*Ibn Hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
       "id": "-al-waqidi",
-      "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
-      "author": "*Al-Waqidi",
+      "title": "Kitab al-Maghazi",
+      "author": "Al-Waqidi",
       "type": "primary"
     }
   ]

@@ -13,20 +13,20 @@
   "sources": [
     {
       "id": "-ibn-hisham",
-      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
-      "author": "*Ibn Hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
       "id": "-al-mubarakfuri",
-      "title": "Al-Mubarakfuri, Shafiyyurrahman.",
-      "author": "*Al-Mubarakfuri",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Al-Mubarakfuri",
       "type": "primary"
     },
     {
       "id": "-ibn-sa-d",
-      "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
-      "author": "*Ibn Sa'd",
+      "title": "Al-Tabaqat al-Kubra",
+      "author": "Ibn Sa'd",
       "type": "primary"
     }
   ]

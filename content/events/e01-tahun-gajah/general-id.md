@@ -124,16 +124,10 @@ Dari kota dagang di tengah gurun yang gersang, dari seorang anak yatim yang kehi
 
 ## Daftar Pustaka
 
-1. **Ibn Hisham**, Abu Muhammad Abdul Malik. *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Mustafa al-Saqqa, Ibrahim al-Abyari, dan Abdul Hafiz Shalabi. Kairo: Maktabah Mustafa al-Babi al-Halabi, 1955.
-
-2. **Al-Mubarakfuri**, Shafiyyurrahman. *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976. Pemenang hadiah pertama kompetisi sirah Rabithah al-'Alam al-Islami.
-
-3. **Ibn Kathir**, Ismail bin Umar. *Tafsir al-Quran al-'Azhim*. Surah Al-Fil (QS 105:1-5). Tahqiq: Sami bin Muhammad al-Salamah. Riyadh: Dar Thaibah, 1999.
-
-4. **Al-Bukhari**, Muhammad bin Ismail. *Al-Jami' al-Shahih* (Shahih Bukhari). Kitab al-Manaqib, Bab Mab'ats an-Nabi ﷺ.
-
-5. **Muslim**, bin al-Hajjaj. *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Shiyam, Hadits tentang puasa hari Senin.
-
-6. **Ibn Sa'd**, Muhammad. *Al-Tabaqat al-Kubra*. Jilid 1: Sirah Rasulullah ﷺ. Beirut: Dar Shadir, 1968.
-
-7. **Al-Quran al-Karim**. QS Al-Fil (105:1-5), QS Quraisy (106:1-4).
+1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
+2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
+3. Ibn Kathir, Ismail bin Umar, *Tafsir al-Quran al-Azhim*, Surah Al-Fil, tahqiq Sami bin Muhammad al-Salamah (Riyadh: Dar Thaibah, 1999).
+4. Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Manaqib (Dar Thauq al-Najah, 2001).
+5. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
+6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
+7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraisy (106:1-4).

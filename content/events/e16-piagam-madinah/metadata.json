@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-ibn-hisham",
-      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
-      "author": "*Ibn Hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
       "id": "-ibn-sa-d",
-      "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
-      "author": "*Ibn Sa'd",
+      "title": "Al-Tabaqat al-Kubra",
+      "author": "Ibn Sa'd",
       "type": "primary"
     },
     {
       "id": "-abu-ubayd-al-qasim-bin-sallam",
-      "title": "Abu Ubayd al-Qasim bin Sallam.",
-      "author": "*Abu Ubayd al-Qasim bin Sallam.** *Al-Amwal*. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
+      "title": "Abu Ubayd al-Qasim bin Sallam",
+      "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
       "type": "primary"
     }
   ]

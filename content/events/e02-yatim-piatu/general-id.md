@@ -150,16 +150,10 @@ Dalam menyusun kronologi ini, terdapat beberapa catatan penting mengenai perbeda
 
 ## Daftar Pustaka
 
-1. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa, Ibrahim al-Abyari, dan Abdul Hafiz Syalabi. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
-
-2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
-
-3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 2262 (menggembala kambing), no. 5304 (pengasuhan yatim).
-
-4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits tentang pembelahan dada (Kitab al-Iman), hadits ziarah kubur Aminah (Kitab al-Jana'iz).
-
-5. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 1. Beirut: Dar Shadir.
-
-6. **Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain.** *Dalail al-Nubuwwah wa Ma'rifat Ahwal Shahib al-Syari'ah*. Beirut: Dar al-Kutub al-Ilmiyyah, 1985.
-
-7. **Ibn Qayyim al-Jauziyyah, Syamsuddin.** *Zad al-Ma'ad fi Hady Khair al-'Ibad*. Jilid 1. Beirut: Mu'assasat al-Risalah, 1994.
+1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
+2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
+3. Al-Bukhari, *Shahih al-Bukhari*, tahqiq Muhammad Zuhayr al-Nashir (Dar Thauq al-Najah, 2001).
+4. Muslim, *Shahih Muslim*.
+5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
+6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
+7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad fi Hady Khair al-Ibad*, jilid 1 (Beirut: Mu'assasat al-Risalah, 1994).

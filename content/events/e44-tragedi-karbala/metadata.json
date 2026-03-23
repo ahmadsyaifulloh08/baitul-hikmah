@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-kathir",
-      "title": "Ibn Kathir, Ismail ibn Umar.",
-      "author": "*Ibn Kathir",
+      "title": "Al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     },
     {
       "id": "-abu-mikhnaf",
-      "title": "Abu Mikhnaf, Lut ibn Yahya.",
-      "author": "*Abu Mikhnaf",
+      "title": "Maqtal al-Husain",
+      "author": "Abu Mikhnaf",
       "type": "primary"
     }
   ]

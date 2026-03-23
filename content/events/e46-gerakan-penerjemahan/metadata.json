@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-ibn-al-qifti",
-      "title": "Ibn al-Qifti, Jamal al-Din.",
-      "author": "*Ibn al-Qifti",
-      "type": "primary"
-    },
-    {
-      "id": "-ibn-abi-usaybi-ah",
-      "title": "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.",
-      "author": "*Ibn Abi Usaybi'ah",
+      "title": "Tarikh al-Hukama",
+      "author": "Ibn al-Qifti",
       "type": "primary"
     },
     {
       "id": "-ibn-al-nadim",
-      "title": "Ibn al-Nadim, Abu al-Faraj Muhammad.",
-      "author": "*Ibn al-Nadim",
+      "title": "Kitab al-Fihrist",
+      "author": "Ibn al-Nadim",
+      "type": "primary"
+    },
+    {
+      "id": "gutas",
+      "title": "Greek Thought, Arabic Culture",
+      "author": "Dimitri Gutas",
       "type": "primary"
     }
   ]

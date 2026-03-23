@@ -12,32 +12,32 @@
   "sources": [
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-kathir",
-      "title": "Ibn Kathir, Abu al-Fida Ismail.",
-      "author": "*Ibn Kathir",
+      "title": "Al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     },
     {
       "id": "-al-radhi",
-      "title": "Al-Radhi, Syarif Abu al-Hasan Muhammad.",
-      "author": "*Al-Radhi",
+      "title": "Nahj al-Balaghah",
+      "author": "Al-Radhi",
       "type": "primary"
     },
     {
       "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
-      "author": "*Al-Bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "primary"
     },
     {
       "id": "-muslim",
-      "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
-      "author": "*Muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
       "type": "primary"
     }
   ]

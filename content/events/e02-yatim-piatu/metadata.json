@@ -23,45 +23,45 @@
   ],
   "sources": [
     {
-      "id": "-ibn-hisham",
-      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
-      "author": "*Ibn Hisham",
+      "id": "ibn-hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
-      "id": "-al-mubarakfuri",
-      "title": "Al-Mubarakfuri, Shafiyyurrahman.",
-      "author": "*Al-Mubarakfuri",
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Al-Mubarakfuri",
       "type": "primary"
     },
     {
-      "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
-      "author": "*Al-Bukhari",
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
+      "type": "hadith"
+    },
+    {
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
+      "type": "hadith"
+    },
+    {
+      "id": "tabaqat-ibn-sad",
+      "title": "Al-Tabaqat al-Kubra",
+      "author": "Ibn Sa'd",
       "type": "primary"
     },
     {
-      "id": "-muslim",
-      "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
-      "author": "*Muslim",
+      "id": "dalail-bayhaqi",
+      "title": "Dalail al-Nubuwwah",
+      "author": "Al-Bayhaqi",
       "type": "primary"
     },
     {
-      "id": "-ibn-sa-d",
-      "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
-      "author": "*Ibn Sa'd",
-      "type": "primary"
-    },
-    {
-      "id": "-al-bayhaqi",
-      "title": "Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain.",
-      "author": "*Al-Bayhaqi",
-      "type": "primary"
-    },
-    {
-      "id": "-ibn-qayyim-al-jauziyyah",
-      "title": "Ibn Qayyim al-Jauziyyah, Syamsuddin.",
-      "author": "*Ibn Qayyim al-Jauziyyah",
+      "id": "zad-al-maad",
+      "title": "Zad al-Ma'ad",
+      "author": "Ibn Qayyim al-Jauziyyah",
       "type": "primary"
     }
   ],

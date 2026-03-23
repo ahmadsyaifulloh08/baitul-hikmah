@@ -13,20 +13,20 @@
   "sources": [
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-kathir",
-      "title": "Ibn Kathir, Ismail bin Umar.",
-      "author": "*Ibn Kathir",
+      "title": "Al-Bidayah wa al-Nihayah",
+      "author": "Ibn Kathir",
       "type": "primary"
     },
     {
       "id": "-ibn-al-jawzi",
-      "title": "Ibn al-Jawzi, Abdurrahman bin Ali.",
-      "author": "*Ibn al-Jawzi",
+      "title": "Al-Muntazam fi Tarikh al-Umam",
+      "author": "Ibn al-Jawzi",
       "type": "primary"
     }
   ]

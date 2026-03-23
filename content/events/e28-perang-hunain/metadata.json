@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-ibn-hisham",
-      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
-      "author": "*Ibn Hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
       "type": "primary"
     },
     {
       "id": "-al-mubarakfuri",
-      "title": "Al-Mubarakfuri, Shafiyyurrahman.",
-      "author": "*Al-Mubarakfuri",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Al-Mubarakfuri",
       "type": "primary"
     },
     {
       "id": "-muslim",
-      "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
-      "author": "*Muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
       "type": "primary"
     }
   ]

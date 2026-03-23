@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-baladhuri",
-      "title": "Al-Baladhuri, Ahmad ibn Yahya.",
-      "author": "*Al-Baladhuri",
+      "title": "Futuh al-Buldan",
+      "author": "Al-Baladhuri",
       "type": "primary"
     },
     {
       "id": "-ibn-abd-al-hakam",
-      "title": "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman.",
-      "author": "*Ibn Abd al-Hakam",
+      "title": "Futuh Misr",
+      "author": "Ibn Abd al-Hakam",
       "type": "primary"
     },
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     }
   ]

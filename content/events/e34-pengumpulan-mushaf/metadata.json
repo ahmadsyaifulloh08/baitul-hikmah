@@ -12,20 +12,20 @@
   "sources": [
     {
       "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
-      "author": "*Al-Bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "primary"
     },
     {
       "id": "-al-suyuti",
-      "title": "Al-Suyuti, Jalal al-Din Abdurrahman.",
-      "author": "*Al-Suyuti",
+      "title": "Al-Itqan fi Ulum al-Quran",
+      "author": "Al-Suyuti",
       "type": "primary"
     },
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     }
   ]

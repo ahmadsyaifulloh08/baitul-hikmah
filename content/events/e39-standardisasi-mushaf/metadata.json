@@ -12,26 +12,26 @@
   "sources": [
     {
       "id": "-al-bukhari",
-      "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
-      "author": "*Al-Bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "primary"
     },
     {
       "id": "-al-suyuti",
-      "title": "Al-Suyuti, Jalaluddin Abdurrahman.",
-      "author": "*Al-Suyuti",
+      "title": "Al-Itqan fi Ulum al-Quran",
+      "author": "Al-Suyuti",
       "type": "primary"
     },
     {
       "id": "-ibn-abi-dawud",
-      "title": "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman.",
-      "author": "*Ibn Abi Dawud",
+      "title": "Kitab al-Masahif",
+      "author": "Ibn Abi Dawud",
       "type": "primary"
     },
     {
       "id": "-muslim",
-      "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
-      "author": "*Muslim",
+      "title": "Shahih Muslim",
+      "author": "Muslim",
       "type": "primary"
     }
   ]

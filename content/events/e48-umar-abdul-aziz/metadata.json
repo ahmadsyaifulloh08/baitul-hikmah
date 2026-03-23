@@ -13,20 +13,20 @@
   "sources": [
     {
       "id": "-ibn-abd-al-hakam",
-      "title": "Ibn Abd al-Hakam, Abdullah.",
-      "author": "*Ibn Abd al-Hakam",
+      "title": "Futuh Misr",
+      "author": "Ibn Abd al-Hakam",
       "type": "primary"
     },
     {
       "id": "-al-tabari",
-      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
-      "author": "*Al-Tabari",
+      "title": "Tarikh al-Rusul wa al-Muluk",
+      "author": "Al-Tabari",
       "type": "primary"
     },
     {
       "id": "-ibn-al-jawzi",
-      "title": "Ibn al-Jawzi, Abu al-Faraj.",
-      "author": "*Ibn al-Jawzi",
+      "title": "Al-Muntazam fi Tarikh al-Umam",
+      "author": "Ibn al-Jawzi",
       "type": "primary"
     }
   ]
