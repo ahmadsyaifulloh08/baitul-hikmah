@@ -1,30 +1,30 @@
 #!/usr/bin/env python3
 """
-Unified Daftar Pustaka / Bibliography checker.
+Citation & bibliography checker — unified article + card validation.
 
-Checks BOTH article content AND card display format in one script.
+Checks BOTH article citations AND card display format in one script.
 
 Rules enforced (from docs/content-style-guide.md Section 3):
 
 Article checks:
 - Consolidated bibliography: 1 source = 1 fixed number, reuse ^N
-- Max citation ^N must <= number of Daftar Pustaka entries
+- Max citation ^N must <= number of bibliography entries
 - No double citations without space (^1^2)
-- Every cited ^N must have matching pustaka entry
+- Every cited ^N must have matching bibliography entry
 
 Card checks (research_agenda.json sumber field):
 - Format: "Title — Author" (no markdown asterisks)
-- No duplicated names (same string both sides of —)
+- No duplicated names (same string both sides of separator)
 - No empty entries
 - Min 3 sources per event
 
 See: docs/content-style-guide.md Section 3
 
 Usage:
-    python3 scripts/check-pustaka.py              # check all
-    python3 scripts/check-pustaka.py e04           # specific event
-    python3 scripts/check-pustaka.py --articles    # articles only
-    python3 scripts/check-pustaka.py --cards       # cards only
+    python3 scripts/check-citations.py              # check all
+    python3 scripts/check-citations.py e04           # specific event
+    python3 scripts/check-citations.py --articles    # articles only
+    python3 scripts/check-citations.py --cards       # cards only
 """
 import os, re, sys, glob, json
 

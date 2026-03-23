@@ -28,7 +28,7 @@ for arg in sys.argv[1:]:
 
 scripts_dir = os.path.dirname(os.path.abspath(__file__))
 checks = [
-    ("Daftar Pustaka", "check-pustaka.py"),
+    ("Citations", "check-citations.py"),
     ("Quran Format", "check-quran-format.py"),
     ("Metadata", "check-metadata.py"),
 ]
