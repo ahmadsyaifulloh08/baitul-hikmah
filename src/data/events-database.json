@@ -281,39 +281,39 @@
           "type": "primary"
         },
         {
-          "id": "rahiq-makhtum",
+          "id": "al-mubarakfuri",
           "title": "Al-Rahiq al-Makhtum",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "tafsir-ibn-kathir",
+          "id": "ibn-kathir",
           "title": "Tafsir al-Quran al-Azhim",
           "author": "Ibn Kathir",
-          "type": "primary"
+          "type": "quran"
         },
         {
-          "id": "shahih-bukhari",
+          "id": "al-bukhari",
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
           "type": "hadith"
         },
         {
-          "id": "shahih-muslim",
+          "id": "muslim",
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "hadith"
         },
         {
-          "id": "tabaqat",
+          "id": "ibn-sa-d",
           "title": "Al-Tabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
         },
         {
-          "id": "quran",
+          "id": "qs--al-fil--105-1-5-",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fil, Quraisy",
+          "author": "QS. Al-Fil (105:1-5, Quraisy (106:1-4",
           "type": "quran"
         }
       ],
@@ -400,46 +400,40 @@
           "type": "primary"
         },
         {
-          "id": "rahiq-makhtum",
+          "id": "al-mubarakfuri",
           "title": "Al-Rahiq al-Makhtum",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "shahih-bukhari",
+          "id": "al-bukhari",
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
           "type": "hadith"
         },
         {
-          "id": "shahih-muslim",
+          "id": "muslim",
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "hadith"
         },
         {
-          "id": "tabaqat-ibn-sad",
+          "id": "ibn-sa-d",
           "title": "Al-Tabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
         },
         {
-          "id": "dalail-bayhaqi",
+          "id": "al-bayhaqi",
           "title": "Dalail al-Nubuwwah",
           "author": "Al-Bayhaqi",
           "type": "primary"
         },
         {
-          "id": "zad-al-maad",
-          "title": "Zad al-Ma'ad",
+          "id": "ibn-qayyim-al-jauziy",
+          "title": "Zad al-Ma'ad fi Hady Khair al-Ibad",
           "author": "Ibn Qayyim al-Jauziyyah",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Ad-Dhuha, Al-An'am, An-Nisa",
-          "type": "quran"
         }
       ],
       "characters": [
@@ -529,12 +523,6 @@
           "title": "Sunan al-Tirmidzi",
           "author": "Al-Tirmidzi",
           "type": "hadith"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Quraisy",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -724,16 +712,10 @@
           "type": "primary"
         },
         {
-          "id": "ibn-hajar-al-asqalani",
+          "id": "ibn-hajar-al-asqalan",
           "title": "Fath al-Bari Syarh Shahih al-Bukhari",
           "author": "Ibn Hajar al-Asqalani",
           "type": "hadith"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-'Alaq",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -783,12 +765,6 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-'Alaq, Al-'Ashr",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -830,9 +806,9 @@
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Lahab, Al-Syu'ara'",
+          "id": "ibn-kathir",
+          "title": "Tafsir al-Qur'an al-'Azhim",
+          "author": "Ibn Kathir",
           "type": "primary"
         }
       ],
@@ -882,7 +858,7 @@
           "type": "primary"
         },
         {
-          "id": "ibn-hajar-al-asqalani",
+          "id": "ibn-hajar-al-asqalan",
           "title": "Al-Ishabah fi Tamyiz al-Shahabah",
           "author": "Ibn Hajar al-Asqalani",
           "type": "primary"
@@ -892,12 +868,6 @@
           "title": "Musnad Ahmad",
           "author": "Ahmad bin Hanbal",
           "type": "hadith"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -950,12 +920,6 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Maryam",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1007,12 +971,6 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1072,12 +1030,6 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Dhuha, Al-Qashash",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1143,12 +1095,6 @@
           "title": "Tafsir al-Thabari",
           "author": "Al-Thabari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra', Al-Najm",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1212,12 +1158,6 @@
           "title": "Tafsir al-Thabari",
           "author": "Al-Thabari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1248,20 +1188,20 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-sa-d",
-          "title": "Al-Tabaqat al-Kubra",
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
           "author": "Ibn Sa'd",
           "type": "primary"
         }
@@ -1294,28 +1234,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal, Al-Tawbah, Yasin",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1345,28 +1279,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-ibn-sa-d",
-          "title": "Al-Tabaqat al-Kubra",
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
           "author": "Ibn Sa'd",
           "type": "primary"
         },
         {
-          "id": "-abu-ubayd-al-qasim-bin-sallam",
-          "title": "Abu Ubayd al-Qasim bin Sallam",
+          "id": "abu-ubayd-al-qasim-b",
+          "title": "Abu Ubayd al-Qasim bin Sallam.",
           "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1396,20 +1324,20 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         }
@@ -1441,28 +1369,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1494,28 +1416,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1547,28 +1463,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Imran",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1599,28 +1509,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-waqidi",
-          "title": "Kitab al-Maghazi",
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
           "author": "Al-Waqidi",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Ahzab",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1649,28 +1553,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fath",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1704,28 +1602,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anbiya, Imran",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1756,20 +1648,20 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-waqidi",
-          "title": "Kitab al-Maghazi",
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
           "author": "Al-Waqidi",
           "type": "primary"
         }
@@ -1801,20 +1693,20 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-waqidi",
-          "title": "Kitab al-Maghazi",
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
           "author": "Al-Waqidi",
           "type": "primary"
         }
@@ -1847,34 +1739,28 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fath, Al-Isra, An-Nashr",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1904,28 +1790,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hajj, Al-Isra, An-Najm, Ash-Shaffat, Saba",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -1955,28 +1835,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. At-Taubah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2010,34 +1884,28 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. At-Taubah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2067,28 +1935,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-sa-d",
-          "title": "Al-Tabaqat al-Kubra",
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
           "author": "Ibn Sa'd",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah, Al-Hujurat, An-Nashr, Imran",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2118,34 +1980,28 @@
       ],
       "sources": [
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
         },
         {
-          "id": "-al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
           "author": "Al-Mubarakfuri",
           "type": "primary"
         },
         {
-          "id": "-ahmad-bin-hanbal-----al-musna",
-          "title": "Ahmad bin Hanbal",
+          "id": "ahmad-bin-hanbal--al",
+          "title": "Ahmad bin Hanbal.",
           "author": "Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah, Al-Ma'idah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2177,28 +2033,22 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-ibn-hisham",
-          "title": "Al-Sirah al-Nabawiyyah",
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "-ibn-sa-d",
-          "title": "Al-Tabaqat al-Kubra",
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
           "author": "Ibn Sa'd",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Imran",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2229,20 +2079,20 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-jawzi",
-          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abdurrahman bin Ali.",
           "author": "Ibn al-Jawzi",
           "type": "primary"
         }
@@ -2275,28 +2125,22 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
           "author": "Ibn al-Athir",
           "type": "primary"
         },
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad bin Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Ma'idah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2328,28 +2172,22 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
           "author": "Ibn al-Athir",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Imran",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2381,20 +2219,20 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hijr, Al-Taubah",
+          "id": "al-suyuti",
+          "title": "Al-Suyuti, Jalal al-Din Abdurrahman.",
+          "author": "Al-Suyuti",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         }
@@ -2427,28 +2265,22 @@
       ],
       "sources": [
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad bin Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
           "author": "Ibn al-Athir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2481,20 +2313,20 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-jawzi",
-          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
           "author": "Ibn al-Jawzi",
           "type": "primary"
         }
@@ -2526,28 +2358,22 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
           "author": "Ibn al-Athir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anbiya",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2578,28 +2404,22 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2629,20 +2449,20 @@
       ],
       "sources": [
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-abd-al-hakam",
-          "title": "Futuh Misr",
+          "id": "ibn-abd-al-hakam",
+          "title": "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman.",
           "author": "Ibn Abd al-Hakam",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         }
@@ -2677,46 +2497,40 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Abu al-Fida Ismail.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-jawzi",
-          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
           "author": "Ibn al-Jawzi",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
         },
         {
-          "id": "-al-tirmidzi",
-          "title": "Sunan al-Tirmidzi",
+          "id": "al-tirmidzi",
+          "title": "Al-Tirmidzi, Abu Isa Muhammad.",
           "author": "Al-Tirmidzi",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -2747,26 +2561,26 @@
       ],
       "sources": [
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hijr",
+          "id": "al-suyuti",
+          "title": "Al-Suyuti, Jalaluddin Abdurrahman.",
+          "author": "Al-Suyuti",
           "type": "primary"
         },
         {
-          "id": "-ibn-abi-dawud",
-          "title": "Kitab al-Masahif",
+          "id": "ibn-abi-dawud",
+          "title": "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman.",
           "author": "Ibn Abi Dawud",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
         }
@@ -2799,32 +2613,32 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Abu al-Fida Ismail.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-al-radhi",
-          "title": "Nahj al-Balaghah",
+          "id": "al-radhi",
+          "title": "Al-Radhi, Syarif Abu al-Hasan Muhammad.",
           "author": "Al-Radhi",
           "type": "primary"
         },
         {
-          "id": "-al-bukhari",
-          "title": "Shahih al-Bukhari",
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
           "author": "Al-Bukhari",
           "type": "primary"
         },
         {
-          "id": "-muslim",
-          "title": "Shahih Muslim",
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
           "type": "primary"
         }
@@ -2857,20 +2671,20 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izzuddin Abu al-Hasan Ali.",
           "author": "Ibn al-Athir",
           "type": "primary"
         },
         {
-          "id": "-nasr-ibn-muzahim-al-minqari--",
-          "title": "Nasr ibn Muzahim al-Minqari",
+          "id": "nasr-ibn-muzahim-al-",
+          "title": "Nasr ibn Muzahim al-Minqari.",
           "author": "Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
           "type": "primary"
         }
@@ -2902,20 +2716,20 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
           "author": "Ibn al-Athir",
           "type": "primary"
         }
@@ -2948,28 +2762,22 @@
       ],
       "sources": [
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
           "author": "Ibn al-Athir",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nisa",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3000,20 +2808,20 @@
       ],
       "sources": [
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "-abu-mikhnaf",
-          "title": "Maqtal al-Husain",
+          "id": "abu-mikhnaf",
+          "title": "Abu Mikhnaf, Lut ibn Yahya.",
           "author": "Abu Mikhnaf",
           "type": "primary"
         }
@@ -3047,28 +2855,22 @@
       ],
       "sources": [
         {
-          "id": "-mujir-al-din-al-hanbali",
-          "title": "Al-Uns al-Jalil bi Tarikh al-Quds",
+          "id": "mujir-al-din-al-hanb",
+          "title": "Mujir al-Din al-Hanbali, Abu al-Yumn.",
           "author": "Mujir al-Din al-Hanbali",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
           "author": "Ibn Kathir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra, An-Nisa",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3099,28 +2901,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-al-qifti",
-          "title": "Tarikh al-Hukama",
+          "id": "ibn-al-qifti",
+          "title": "Ibn al-Qifti, Jamal al-Din.",
           "author": "Ibn al-Qifti",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-nadim",
-          "title": "Kitab al-Fihrist",
+          "id": "ibn-abi-usaybi-ah",
+          "title": "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.",
+          "author": "Ibn Abi Usaybi'ah",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-nadim",
+          "title": "Ibn al-Nadim, Abu al-Faraj Muhammad.",
           "author": "Ibn al-Nadim",
           "type": "primary"
-        },
-        {
-          "id": "gutas",
-          "title": "Greek Thought, Arabic Culture",
-          "author": "Dimitri Gutas",
-          "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Alaq",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3151,28 +2947,22 @@
       ],
       "sources": [
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-al-maqqari",
-          "title": "Nafh al-Tib",
+          "id": "al-maqqari",
+          "title": "Al-Maqqari, Ahmad ibn Muhammad.",
           "author": "Al-Maqqari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
           "author": "Ibn al-Athir",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3203,28 +2993,22 @@
       ],
       "sources": [
         {
-          "id": "-ali-ibn-muhammad-al-kufi-----",
-          "title": "Ali ibn Muhammad al-Kufi",
+          "id": "ali-ibn-muhammad-al-",
+          "title": "Ali ibn Muhammad al-Kufi.",
           "author": "Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
           "type": "primary"
         },
         {
-          "id": "-al-baladhuri",
-          "title": "Futuh al-Buldan",
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
           "author": "Al-Baladhuri",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nisa",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3255,28 +3039,22 @@
       ],
       "sources": [
         {
-          "id": "-ibn-abd-al-hakam",
-          "title": "Futuh Misr",
+          "id": "ibn-abd-al-hakam",
+          "title": "Ibn Abd al-Hakam, Abdullah.",
           "author": "Ibn Abd al-Hakam",
           "type": "primary"
         },
         {
-          "id": "-al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "-ibn-al-jawzi",
-          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
           "author": "Ibn al-Jawzi",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nahl",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3302,7 +3080,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Futuh al-Buldan — Al-Baladhuri"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e49",
@@ -3325,7 +3104,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e114",
@@ -3349,7 +3129,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Muruj al-Dzahab — Al-Mas'udi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e50",
@@ -3372,7 +3153,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e115",
@@ -3395,7 +3177,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Muruj al-Dzahab — Al-Mas'udi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e51",
@@ -3417,7 +3200,8 @@
         "Wafayat al-A'yan — Ibn Khallikan",
         "Al-Intiqaa — Ibn Abd al-Barr"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e52",
@@ -3439,7 +3223,8 @@
         "Tartib al-Madarik — Al-Qadhi 'Iyadh",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e53",
@@ -3461,7 +3246,8 @@
         "Al-Risala al-Qushayriyya — Al-Qushayri",
         "Sifat al-Safwa — Ibn al-Jawzi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e54",
@@ -3500,7 +3286,7 @@
           "type": "primary"
         },
         {
-          "id": "al-khatib-al-baghdadi",
+          "id": "al-khatib-al-baghdad",
           "title": "Tarikh Baghdad",
           "author": "Al-Khatib al-Baghdadi",
           "type": "primary"
@@ -3518,9 +3304,9 @@
           "type": "primary"
         },
         {
-          "id": "hunayn-ibn-ishaq-",
+          "id": "hunayn-ibn-ishaq--ri",
           "title": "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus",
-          "author": "Hunayn ibn Ishaq",
+          "author": "Hunayn ibn Ishaq. Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus (Surat kepada Ali ibn Yahya tentang Karya-karya Galen yang Diterjemahkan).",
           "type": "primary"
         },
         {
@@ -3532,8 +3318,8 @@
         {
           "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Taha, al-Mujadalah",
-          "type": "primary"
+          "author": "QS. Taha (20): 114, al-Mujadalah (58): 11",
+          "type": "quran"
         },
         {
           "id": "al-kindi",
@@ -3542,9 +3328,45 @@
           "type": "primary"
         },
         {
-          "id": "al-khatib-al-baghdadi",
-          "title": "Tarikh Baghdad",
+          "id": "unknown-13",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Unknown_13",
+          "type": "primary"
+        },
+        {
+          "id": "unknown-14",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Unknown_14",
+          "type": "primary"
+        },
+        {
+          "id": "unknown-15",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Unknown_15",
+          "type": "primary"
+        },
+        {
+          "id": "unknown-17",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Unknown_17",
+          "type": "primary"
+        },
+        {
+          "id": "unknown-18",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Unknown_18",
+          "type": "primary"
+        },
+        {
+          "id": "al-khatib-al-baghdad",
+          "title": "[Karya yang disebutkan dalam teks].",
           "author": "Al-Khatib al-Baghdadi",
+          "type": "primary"
+        },
+        {
+          "id": "al-athir",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Al-Athir",
           "type": "primary"
         }
       ],
@@ -3571,7 +3393,8 @@
         "Wafayat al-A'yan — Ibn Khallikan",
         "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e56",
@@ -3594,7 +3417,8 @@
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e57",
@@ -3633,15 +3457,15 @@
           "type": "primary"
         },
         {
-          "id": "euclid-",
+          "id": "euclid--elements---g",
           "title": "Elements",
-          "author": "Euclid",
+          "author": "Euclid. Elements — geometri Yunani klasik.",
           "type": "primary"
         },
         {
-          "id": "brahmagupta-",
+          "id": "brahmagupta--brahmas",
           "title": "Brahmasphutasiddhanta",
-          "author": "Brahmagupta",
+          "author": "Brahmagupta. Brahmasphutasiddhanta — matematika India abad ke-7.",
           "type": "primary"
         },
         {
@@ -3649,12 +3473,6 @@
           "title": "Kitab al-Jabr wa al-Muqabalah",
           "author": "Al-Khwarizmi",
           "type": "primary"
-        },
-        {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. an-Nisa",
-          "type": "quran"
         }
       ],
       "characters": []
@@ -3679,7 +3497,8 @@
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Al-Fihrist — Ibn al-Nadim"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e59",
@@ -3701,7 +3520,8 @@
         "Tarikh Baghdad — Al-Khatib al-Baghdadi",
         "Siyar A'lam al-Nubala — Al-Dzahabi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e60",
@@ -3723,7 +3543,8 @@
         "Al-Luma' — Al-Sarraj",
         "Tabaqat al-Sufiyyah — Al-Sulami"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e61",
@@ -3746,7 +3567,8 @@
         "Al-Risala al-Qushayriyya — Al-Qushayri",
         "Tadzkirat al-Auliya — Fariduddin Attar"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e62",
@@ -3768,7 +3590,8 @@
         "Al-Istiqsa — Al-Nasiri",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e63",
@@ -3791,7 +3614,8 @@
         "Al-Dhakhira fi Mahasin Ahl al-Jazira — Ibn Bassam",
         "Tarikh Iftitah al-Andalus — Ibn al-Quthiyyah"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e64",
@@ -3813,7 +3637,8 @@
         "Al-Khitat — Al-Maqrizi",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e65",
@@ -3835,7 +3660,8 @@
         "Al-Qanun al-Mas'udi — Al-Biruni",
         "Tarikh al-Hukama — Ibn al-Qifti"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e66",
@@ -3858,7 +3684,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tahqiq ma li al-Hind — Al-Biruni"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e67",
@@ -3880,7 +3707,8 @@
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Uyun al-Anba — Ibn Abi Usaybi'ah"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e68",
@@ -3903,7 +3731,8 @@
         "Al-Shifa — Ibn Sina",
         "Uyun al-Anba — Ibn Abi Usaybi'ah"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e69",
@@ -3925,7 +3754,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e116",
@@ -3948,7 +3778,8 @@
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Siyasatnama — Nizam al-Mulk"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e70",
@@ -3970,7 +3801,8 @@
         "Futuh al-Ghaib — Abdul Qadir al-Jilani",
         "Qalaid al-Jawahir — Al-Tadifi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e84",
@@ -3992,7 +3824,8 @@
         "Islam Nusantara — Azyumardi Azra",
         "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e71",
@@ -4014,7 +3847,8 @@
         "Al-Munqidh min al-Dalal — Al-Ghazali",
         "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e72",
@@ -4034,7 +3868,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e118",
@@ -4056,7 +3891,8 @@
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e119",
@@ -4080,7 +3916,8 @@
         "Al-Barq al-Shami — Imad al-Din al-Isfahani",
         "Al-Rawdatayn — Abu Shamah"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e120",
@@ -4104,7 +3941,8 @@
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e73",
@@ -4127,7 +3965,8 @@
         "Fushush al-Hikam — Ibn Arabi",
         "Al-Risala al-Qushayriyya — Al-Qushayri"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e85",
@@ -4150,7 +3989,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e74",
@@ -4172,7 +4012,8 @@
         "Fasl al-Maqal — Ibn Rushd",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e117",
@@ -4196,7 +4037,8 @@
         "Al-Nawādir al-Sultaniyya — Baha al-Din ibn Shaddad",
         "Al-Fath al-Qussi — Imad al-Din al-Isfahani"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e75",
@@ -4224,9 +4066,9 @@
       ],
       "sources": [
         {
-          "id": "baha-al-din-ibn-shaddad-",
+          "id": "baha-al-din-ibn-shad",
           "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
-          "author": "Baha al-Din ibn Shaddad",
+          "author": "Baha al-Din ibn Shaddad. al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah (Anekdot Sultan dan Kebaikan-kebaikan Yusuf).",
           "type": "primary"
         },
         {
@@ -4236,15 +4078,15 @@
           "type": "primary"
         },
         {
-          "id": "imad-al-din-al-isfahani-",
+          "id": "imad-al-din-al-isfah",
           "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
-          "author": "Imad al-Din al-Isfahani",
+          "author": "Imad al-Din al-Isfahani. al-Fath al-Qussi fi al-Fath al-Qudsi (Kisah Agung tentang Pembebasan Yerusalem).",
           "type": "primary"
         },
         {
-          "id": "william-of-tyre-",
+          "id": "william-of-tyre--his",
           "title": "Historia Rerum in Partibus Transmarinis Gestarum",
-          "author": "William of Tyre",
+          "author": "William of Tyre. Historia Rerum in Partibus Transmarinis Gestarum (Sejarah Peristiwa di Tanah Seberang Laut).",
           "type": "primary"
         },
         {
@@ -4256,7 +4098,7 @@
         {
           "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. al-Baqarah, al-Isra'",
+          "author": "Wahyu Ilahi",
           "type": "primary"
         },
         {
@@ -4267,25 +4109,19 @@
         },
         {
           "id": "al-din-al-isfahani",
-          "title": "Al-Fath al-Qussi",
+          "title": "[Karya yang disebutkan dalam teks].",
           "author": "Al-Din al-Isfahani",
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim-",
-          "title": "Al-Quran al-Karim",
-          "author": "Wahyu Ilahi",
-          "type": "primary"
-        },
-        {
           "id": "ibn-shaddad",
-          "title": "Al-Nawadir al-Sultaniyyah",
+          "title": "[Karya yang disebutkan dalam teks].",
           "author": "Ibn Shaddad",
           "type": "primary"
         },
         {
           "id": "ibn-qudamah",
-          "title": "Al-Mughni",
+          "title": "[Karya yang disebutkan dalam teks].",
           "author": "Ibn Qudamah",
           "type": "primary"
         }
@@ -4314,7 +4150,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e122",
@@ -4337,7 +4174,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e76",
@@ -4359,7 +4197,8 @@
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e86",
@@ -4381,7 +4220,8 @@
         "Tabaqat-i Nasiri — Minhaj al-Siraj Juzjani",
         "Tarikh-i Firoz Shahi — Ziauddin Barani"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e77",
@@ -4405,7 +4245,8 @@
         "Fihi Ma Fihi — Jalaluddin Rumi",
         "Manaqib al-Arifin — Aflaki"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e123",
@@ -4429,7 +4270,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e124",
@@ -4452,7 +4294,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Mir'at al-Zaman — Sibt ibn al-Jawzi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e78",
@@ -4474,7 +4317,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e125",
@@ -4499,7 +4343,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Subh al-A'sha — Al-Qalqashandi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e87",
@@ -4519,7 +4364,8 @@
         "Song Shi (Sejarah Dinasti Song) — Sumber Primer",
         "Islam in China — Marshall Broomhall"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e79",
@@ -4553,7 +4399,7 @@
           "type": "primary"
         },
         {
-          "id": "rashid-al-din-hamadani---jami-",
+          "id": "rashid-al-din-hamada",
           "title": "Jami' al-Tawarikh",
           "author": "Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
           "type": "primary"
@@ -4591,19 +4437,25 @@
         {
           "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal, Ar-Ra'd",
+          "author": "Wahyu Ilahi",
           "type": "primary"
         },
         {
           "id": "al-maqrizi",
-          "title": "Al-Suluk",
+          "title": "[Karya yang disebutkan dalam teks].",
           "author": "Al-Maqrizi",
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim-",
-          "title": "Al-Quran al-Karim",
-          "author": "Wahyu Ilahi",
+          "id": "al-athir",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "al-khwarizmi",
+          "title": "[Karya yang disebutkan dalam teks].",
+          "author": "Al-Khwarizmi",
           "type": "primary"
         }
       ],
@@ -4630,7 +4482,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e127",
@@ -4653,7 +4506,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e126",
@@ -4678,7 +4532,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e128",
@@ -4700,7 +4555,8 @@
         "Nihayat al-Arab fi Funun al-Adab — Al-Nuwayri",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e80",
@@ -4722,7 +4578,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Siyar A'lam al-Nubala — Al-Dzahabi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e89",
@@ -4746,7 +4603,8 @@
         "Hikayat Raja-Raja Pasai — Sumber Primer",
         "Sejarah Melayu — Tun Sri Lanang"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e90",
@@ -4769,7 +4627,8 @@
         "Huihui Yaofang (Resep Obat Muslim) — Sumber Primer",
         "Islam in China — Marshall Broomhall"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e91",
@@ -4794,7 +4653,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Wafayat al-A'yan — Ibn Khallikan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e92",
@@ -4817,7 +4677,8 @@
         "Tuzuk-i Timuri (Institutes of Timur) — Sumber Primer",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e81",
@@ -4839,7 +4700,8 @@
         "Kitab al-Ibar — Ibn Khaldun",
         "Al-Ta'rif bi Ibn Khaldun — Ibn Khaldun"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e93",
@@ -4861,7 +4723,8 @@
         "The Suma Oriental — Tomé Pires",
         "Ma Huan — Ying-yai Sheng-lan"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e94",
@@ -4884,7 +4747,8 @@
         "Ming Shi — Zhang Tingyu",
         "Zheng He Hanghai Tu (Peta Pelayaran Zheng He) — Sumber Primer"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e95",
@@ -4914,7 +4778,8 @@
         "Serat Walisana — Sumber Primer",
         "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e96",
@@ -4936,7 +4801,8 @@
         "Serat Kanda — Sumber Primer",
         "Pararaton"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e82",
@@ -5023,7 +4889,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh al-Andalus — Ibn al-Kardabus"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e97",
@@ -5045,7 +4912,8 @@
         "Sirah Nabawiyyah — Ibn Hisham",
         "Tafsir Ibn Kathir — Surah At-Taubah"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e98",
@@ -5069,7 +4937,8 @@
         "Wafa' al-Wafa — Al-Samhudi",
         "Al-Muwatta — Imam Malik"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e99",
@@ -5091,7 +4960,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Futuh al-Buldan — Al-Baladhuri"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e100",
@@ -5113,7 +4983,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Mu'jam al-Buldan — Yaqut al-Hamawi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e101",
@@ -5135,7 +5006,8 @@
         "Akhbar Majmu'ah — Anonim",
         "Al-Bayan al-Mughrib — Ibn Idhari"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e102",
@@ -5157,7 +5029,8 @@
         "Mu'jam al-Buldan — Yaqut al-Hamawi",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e103",
@@ -5180,7 +5053,8 @@
         "Tabaqat-i Nasiri — Minhaj-i Siraj",
         "Tarikh-i Firuz Shahi — Ziauddin Barani"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e104",
@@ -5202,7 +5076,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Mu'jam al-Buldan — Yaqut al-Hamawi"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e105",
@@ -5226,7 +5101,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Al-Lamha al-Badriyya — Ibn al-Khatib"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     },
     {
       "id": "e106",
@@ -5248,7 +5124,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Musnad Ahmad — Imam Ahmad"
       ],
-      "status": "draft"
+      "status": "draft",
+      "sources": []
     }
   ],
   "workflow": {
