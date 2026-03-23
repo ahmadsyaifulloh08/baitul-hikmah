@@ -311,9 +311,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-fil--105-1-5-",
+          "id": "qs--al-fil--quraisy",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fil (105:1-5, Quraisy (106:1-4",
+          "author": "QS. Al-Fil, Quraisy",
           "type": "quran"
         }
       ],
@@ -3316,10 +3316,10 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--",
-          "title": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.",
-          "author": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.",
-          "type": "primary"
+          "id": "qs--taha--al-mujadal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Taha, al-Mujadalah",
+          "type": "quran"
         },
         {
           "id": "al-kindi",
@@ -4048,16 +4048,16 @@
           "type": "primary"
         },
         {
-          "id": "ibn-shaddad",
-          "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
-          "author": "Ibn Shaddad",
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--",
-          "title": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
-          "author": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
-          "type": "primary"
+          "id": "qs--al-baqarah--al-i",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. al-Baqarah, al-Isra'",
+          "type": "quran"
         },
         {
           "id": "al-bukhari",
@@ -4066,9 +4066,9 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim-",
-          "title": "Al-Qur'an al-Karim.",
-          "author": "Al-Qur'an al-Karim.",
+          "id": "muslim",
+          "title": "Sahih Muslim",
+          "author": "Muslim",
           "type": "primary"
         }
       ],
@@ -4381,15 +4381,15 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--",
-          "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
-          "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.",
-          "type": "primary"
+          "id": "qs--al-anfal--ar-ra-",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal, Ar-Ra'd",
+          "type": "quran"
         },
         {
-          "id": "al-qur-an-al-karim-",
-          "title": "Al-Qur'an al-Karim.",
-          "author": "Al-Qur'an al-Karim.",
+          "id": "al-suyuti",
+          "title": "Tarikh al-Khulafa'",
+          "author": "Al-Suyuti",
           "type": "primary"
         }
       ],
