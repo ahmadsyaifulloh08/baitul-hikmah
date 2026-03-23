@@ -1,0 +1,83 @@
+{
+  "id": "e04",
+  "title_id": "Pernikahan dengan Khadijah binti Khuwaylid",
+  "title_en": "The Marriage to Khadijah bint Khuwaylid",
+  "year": "595 M",
+  "era": "Pra-Kenabian",
+  "location": "Makkah, Jazirah Arab",
+  "tags": [
+    "pernikahan",
+    "khadijah",
+    "khadijah-binti-khuwaylid",
+    "makkah",
+    "pra-kenabian",
+    "abu-thalib",
+    "nafisah",
+    "maysarah"
+  ],
+  "sources": [
+    {
+      "id": "ibn-hisham",
+      "title": "Sirah Nabawiyyah",
+      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "type": "primary"
+    },
+    {
+      "id": "rahiq-makhtum",
+      "title": "Al-Rahiq al-Makhtum (The Sealed Nectar)",
+      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-kathir-bidayah",
+      "title": "Al-Bidayah wan Nihayah",
+      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "type": "primary"
+    },
+    {
+      "id": "tabaqat-ibn-sad",
+      "title": "Tabaqat al-Kubra",
+      "author": "Ibn Sa'd (w. 230 H / 845 M)",
+      "type": "primary"
+    },
+    {
+      "id": "shahih-bukhari",
+      "title": "Shahih al-Bukhari",
+      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
+      "type": "hadith"
+    },
+    {
+      "id": "shahih-muslim",
+      "title": "Shahih Muslim",
+      "author": "Imam Muslim (w. 261 H / 875 M)",
+      "type": "hadith"
+    }
+  ],
+  "characters": [
+    {
+      "name_id": "Nabi Muhammad SAW",
+      "name_en": "Prophet Muhammad ﷺ",
+      "role": "protagonist"
+    },
+    {
+      "name_id": "Khadijah binti Khuwaylid",
+      "name_en": "Khadijah bint Khuwaylid",
+      "role": "wife"
+    },
+    {
+      "name_id": "Maysarah",
+      "name_en": "Maysarah",
+      "role": "servant"
+    },
+    {
+      "name_id": "Nafisah binti Munyah",
+      "name_en": "Nafisah bint Munyah",
+      "role": "matchmaker"
+    },
+    {
+      "name_id": "Abu Thalib",
+      "name_en": "Abu Talib",
+      "role": "uncle"
+    }
+  ]
+}
