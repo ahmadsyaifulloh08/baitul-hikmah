@@ -30,7 +30,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mt-12 mb-8">
+        <section className="mt-10 mb-8">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -95,7 +95,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mt-12 mb-8">
+        <section className="mt-10 mb-8">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
@@ -110,7 +110,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mt-12 mb-8">
+        <section className="mt-10 mb-8">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
