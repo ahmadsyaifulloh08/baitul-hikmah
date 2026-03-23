@@ -28,10 +28,9 @@ for arg in sys.argv[1:]:
 
 scripts_dir = os.path.dirname(os.path.abspath(__file__))
 checks = [
-    ("Citations", "check-citations.py"),
+    ("Daftar Pustaka", "check-pustaka.py"),
     ("Quran Format", "check-quran-format.py"),
     ("Metadata", "check-metadata.py"),
-    ("Pustaka Card", "check-pustaka-card.py"),
 ]
 if not quick:
     checks.append(("Images", "check-images.py"))
