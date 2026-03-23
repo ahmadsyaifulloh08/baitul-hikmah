@@ -11,7 +11,7 @@ const MapView = dynamic(() => import('@/components/MapView'), { ssr: false })
 function HomeContent() {
   const [mode, setMode] = useState<'timeline' | 'map'>('timeline')
   const [search, setSearch] = useState('')
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
 
   return (
     <main className="min-h-screen">
