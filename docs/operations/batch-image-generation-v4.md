@@ -56,6 +56,80 @@ Setiap event dibagi menjadi batches (adjust per total slides):
 
 ---
 
+## Phase 0: Preparation (MANDATORY before ANY generation)
+
+### 0.1: Read Registry + Brief
+```bash
+# WAJIB baca — bukan optional
+cat docs/illustration-registry.md | head -50   # character descriptions
+cat docs/briefs/{event}.md                      # episode brief + character lock
+cat docs/illustration-guide.md | head -30       # rules
+```
+
+### 0.2: Generate Prompt Files from Brief
+Setiap slide → 1 prompt file. Format WAJIB:
+
+```
+[STYLE LOCK - DO NOT MODIFY]
+Warm watercolor storybook illustration for children age 6-12.
+Image ratio: 16:9 landscape. Resolution: 1792x1024.
+Stylized watercolor, soft edges. Center 70%.
+NO text. NO black borders.
+
+[CHARACTER LOCK - from registry, DO NOT PARAPHRASE]
+GOLDEN GLOW: a small warm circular golden-white light, about 15%
+of image height, with 5-7 soft rays radiating outward. NOT a halo,
+NOT concentric rings, NOT a column. A ball of golden light like a
+small sun.
+{other characters from brief Character Lock section}
+
+[SCENE]
+{scene description from brief}
+```
+
+Save to: `/workspace/tmp/{event}-prompts/slide-{NN}.txt`
+
+### 0.3: Pre-Generate Checklist
+```bash
+EVENT="e04-pernikahan-khadijah"  # change per event
+
+echo "=== PRE-GENERATE CHECKLIST ==="
+
+# 1. Prompt files exist?
+echo "Prompt files:"
+ls /workspace/tmp/*-prompts/slide-*.txt | wc -l
+
+# 2. All prompts within 750 chars?
+echo "Over 750 chars:"
+for f in /workspace/tmp/*-prompts/slide-*.txt; do
+    chars=$(wc -c < "$f")
+    if [ "$chars" -gt 750 ]; then echo "⚠️ $(basename $f): $chars chars"; fi
+done
+
+# 3. Golden glow exact wording in all relevant prompts?
+echo "Missing golden glow standard:"
+grep -L "5-7 soft rays" /workspace/tmp/*-prompts/slide-*.txt 2>/dev/null
+
+# 4. No shell-breaking chars?
+echo "Shell-breaking chars:"
+grep -l "[()']" /workspace/tmp/*-prompts/slide-*.txt 2>/dev/null
+
+echo "=== CHECKLIST COMPLETE ==="
+```
+
+**If ANY check fails → FIX before generating. Do NOT skip.**
+
+### 0.4: Ahmad Reviews Prompt Files
+Send prompt files to Ahmad for approval before generation.
+**JANGAN generate sebelum Ahmad approve prompts.**
+
+### 0.5: Golden Glow Batch Strategy
+- Count how many slides have golden glow
+- If >3 slides → generate ALL golden glow slides in **1 chat session** for style consistency
+- Non-golden-glow slides → can use New Chat per slide
+
+---
+
 ## Workflow per Slide
 
 ### Flow (proven, copy-paste safe):
@@ -185,7 +259,9 @@ const slides = fs.readdirSync('public/illustrations/children/')
 
 ## Prompt Guidelines
 
-- **Max 750 chars** — Gemini UI hides Send button on longer prompts. Sweet spot: 650-750 chars. Tested: 659-777 ✅, 819-865 borderline ✅, 981 ❌ Send hidden
+- **Max 750 chars** — Gemini UI hides Send button on longer prompts. Sweet spot: 650-750 chars
+- **NEVER paraphrase character descriptions** — copy-paste EXACT from registry/brief Character Lock
+- **NEVER write prompts from memory** — always read brief file first
 - **Always include**: style, shot type, century/era, colors with hex, mood, ratio, NO text, NO black borders
 - **Em dash** `—` → replace with `--` (causes shell errors)
 - **No parentheses** `()` in prompts — breaks shell. Use commas instead
@@ -274,11 +350,25 @@ BEFORE_FILE="$AFTER_FILE"
 
 ## Checklist per Event
 
-- [ ] All prompt files ready (`/workspace/tmp/{event}-prompts/slide-*.txt`)
-- [ ] Character descriptions copy-pasted from registry
-- [ ] PinchTab logged in (check via snapshot for "Sign in" link)
-- [ ] Each batch generated + sent to Ahmad
-- [ ] Ahmad reviewed each batch — revisions done
-- [ ] Approved slides copied to `public/illustrations/children/`
+### Pre-Generate (MANDATORY)
+- [ ] Read `illustration-registry.md` — character descriptions
+- [ ] Read `briefs/{event}.md` — episode brief + character lock
+- [ ] Read `illustration-guide.md` — rules & larangan
+- [ ] Prompt files generated with STYLE LOCK + CHARACTER LOCK format
+- [ ] Pre-generate checklist script passed (chars ≤750, golden glow wording, no shell chars)
+- [ ] Ahmad approved prompt files
+- [ ] Golden glow slides identified → same-chat batch strategy
+
+### Generate
+- [ ] PinchTab logged in (check for "Sign in" link)
+- [ ] Golden glow slides generated in 1 chat session
+- [ ] Non-golden-glow slides via New Chat per slide
+- [ ] All files downloaded + verified (before/after filename)
+- [ ] All files compressed to 1-2MB via sharp
+
+### Post-Generate
+- [ ] Preview per batch sent to Ahmad
+- [ ] Ahmad reviewed — revisions done
+- [ ] Files copied to `public/illustrations/children/{event}/`
 - [ ] `git commit` + `git push origin develop`
 - [ ] All batches approved → ready for production merge
