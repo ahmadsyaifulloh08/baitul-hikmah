@@ -1,12 +1,3 @@
----
-title: "Jatuhnya Baghdad"
-description: "Kisah sedih hancurnya kota Baghdad dan perpustakaan terbesar di dunia."
-category: "kemunduran"
-era: "kemunduran"
-year: 1258
-lang: "id"
-audience: "children"
----
 
 # Jatuhnya Baghdad 😢
 

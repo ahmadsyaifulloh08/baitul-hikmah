@@ -1,12 +1,3 @@
----
-title: "Saladin Frees Jerusalem"
-description: "The story of the noblest Muslim knight who freed Jerusalem with justice and mercy."
-category: "militer"
-era: "perang-salib"
-year: 1187
-lang: "en"
-audience: "children"
----
 
 # Saladin Frees Jerusalem ⚔️🕊️
 

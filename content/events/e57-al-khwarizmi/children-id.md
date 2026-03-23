@@ -1,12 +1,3 @@
----
-title: "Al-Khwarizmi — Bapak Aljabar"
-description: "Kisah ilmuwan Muslim yang menemukan aljabar dan memberi nama 'algoritma'!"
-category: "ilmu-pengetahuan"
-era: "abbasiyah"
-year: 820
-lang: "id"
-audience: "children"
----
 
 # Al-Khwarizmi — Bapak Aljabar 🧮✨
 

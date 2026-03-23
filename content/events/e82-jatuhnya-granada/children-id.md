@@ -1,12 +1,3 @@
----
-title: "Jatuhnya Granada — Akhir Islam di Spanyol"
-description: "Kisah berakhirnya kerajaan Islam terakhir di Eropa."
-category: "kemunduran"
-era: "kemunduran"
-year: 1492
-lang: "id"
-audience: "children"
----
 
 # Jatuhnya Granada 🏰😢
 

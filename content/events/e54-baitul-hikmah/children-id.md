@@ -1,12 +1,3 @@
----
-title: "Baitul Hikmah — Rumah Kebijaksanaan"
-description: "Kisah perpustakaan paling keren di dunia yang pernah ada!"
-category: "ilmu-pengetahuan"
-era: "abbasiyah"
-year: 786
-lang: "id"
-audience: "children"
----
 
 # Baitul Hikmah — Rumah Kebijaksanaan 🏛️📚
 

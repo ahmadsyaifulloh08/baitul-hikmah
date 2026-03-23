@@ -1,12 +1,3 @@
----
-title: "Salahuddin Membebaskan Yerusalem"
-description: "Kisah ksatria Muslim paling mulia yang membebaskan Yerusalem dengan penuh keadilan."
-category: "militer"
-era: "perang-salib"
-year: 1187
-lang: "id"
-audience: "children"
----
 
 # Salahuddin Membebaskan Yerusalem ⚔️🕊️
 

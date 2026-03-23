@@ -1,12 +1,3 @@
----
-title: "The Fall of Granada — The End of Islam in Spain"
-description: "The story of how the last Islamic kingdom in Europe came to an end."
-category: "kemunduran"
-era: "kemunduran"
-year: 1492
-lang: "en"
-audience: "children"
----
 
 # The Fall of Granada 🏰😢
 

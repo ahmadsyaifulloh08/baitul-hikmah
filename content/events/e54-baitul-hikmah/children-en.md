@@ -1,12 +1,3 @@
----
-title: "Bayt al-Hikmah — The House of Wisdom"
-description: "The story of the coolest library the world has ever seen!"
-category: "ilmu-pengetahuan"
-era: "abbasiyah"
-year: 786
-lang: "en"
-audience: "children"
----
 
 # Bayt al-Hikmah — The House of Wisdom 🏛️📚
 

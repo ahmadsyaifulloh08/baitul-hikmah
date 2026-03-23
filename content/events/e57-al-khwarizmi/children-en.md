@@ -1,12 +1,3 @@
----
-title: "Al-Khwarizmi — The Father of Algebra"
-description: "The story of the Muslim scientist who invented algebra and gave us the word 'algorithm'!"
-category: "ilmu-pengetahuan"
-era: "abbasiyah"
-year: 820
-lang: "en"
-audience: "children"
----
 
 # Al-Khwarizmi — The Father of Algebra 🧮✨
 

@@ -1,12 +1,3 @@
----
-title: "The Fall of Baghdad"
-description: "The sad story of how Baghdad and the world's greatest library were destroyed."
-category: "kemunduran"
-era: "kemunduran"
-year: 1258
-lang: "en"
-audience: "children"
----
 
 # The Fall of Baghdad 😢
 
