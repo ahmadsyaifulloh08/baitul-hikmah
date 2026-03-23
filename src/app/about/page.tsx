@@ -30,8 +30,8 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-10 mb-4">Metode Verifikasi Konten</h2>
+        <section className="mb-10 pt-10">
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Seluruh konten Baitul Hikmah diverifikasi menggunakan metodologi ketat yang mengacu pada
@@ -95,8 +95,8 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-10 mb-4">Ilustrasi</h2>
+        <section className="mb-10 pt-10">
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Ilustrasi untuk mode anak-anak dibuat menggunakan AI generative art (Gemini) dengan panduan ketat:
@@ -110,8 +110,8 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-10 mb-4">Tim</h2>
+        <section className="mb-10 pt-10">
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
