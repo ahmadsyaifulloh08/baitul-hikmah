@@ -12,7 +12,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Tentang Baitul Hikmah</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1.5rem"}}>
             <p>
               <strong>Baitul Hikmah</strong> adalah portal digital interaktif untuk menelusuri sejarah peradaban Islam —
               dari Tahun Gajah (570 M) hingga jatuhnya Al-Andalus (1492 M). Terinspirasi dari <em>Baitul Hikmah</em> (Rumah Kebijaksanaan)
@@ -32,7 +32,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Metode Verifikasi Konten</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1.5rem"}}>
             <p>
               Seluruh konten Baitul Hikmah diverifikasi menggunakan metodologi ketat yang mengacu pada
               tradisi ilmiah Islam (<em>manhaj</em>) dan standar akademis modern.
@@ -97,7 +97,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Ilustrasi</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1.5rem"}}>
             <p>
               Ilustrasi untuk mode anak-anak dibuat menggunakan AI generative art (Gemini) dengan panduan ketat:
             </p>
@@ -112,7 +112,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Tim</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1.5rem"}}>
             <p>
               Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
               dengan bantuan AI agents untuk riset, penulisan, dan ilustrasi. Semua konten melewati
