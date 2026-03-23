@@ -146,11 +146,49 @@ BEFORE_FILE="$AFTER_FILE"  # or re-read: BEFORE_FILE=$(ls -t ... | head -1)
 
 ---
 
+## Post-Download: Compression (MANDATORY)
+
+Gemini downloads = ~9MB (2752x1536). Target = **1-2MB** (match E01 size).
+
+**After downloading ALL slides in a batch**, compress before push:
+
+```bash
+cd /workspace/projects/baitul-hikmah
+node -e "
+const sharp = require('sharp');
+const fs = require('fs');
+const event = 'e04'; // change per event
+const slides = fs.readdirSync('public/illustrations/children/')
+    .filter(f => f.startsWith(event + '-slide-') && f.endsWith('.png'));
+
+(async () => {
+    for (const file of slides) {
+        const src = 'public/illustrations/children/' + file;
+        const info = await sharp(src).metadata();
+        const needsResize = info.width > 1792;
+        let pipeline = sharp(src);
+        if (needsResize) pipeline = pipeline.resize(1792, 1024, {fit: 'cover'});
+        pipeline = pipeline.png({compressionLevel: 9});
+        await pipeline.toFile(src + '.tmp');
+        fs.renameSync(src + '.tmp', src);
+        const stat = fs.statSync(src);
+        console.log(file + ': ' + (stat.size/1048576).toFixed(1) + 'MB');
+    }
+})();
+"
+```
+
+**Target sizes**: 1.0-1.8MB per slide (same as E01)
+
+---
+
 ## Prompt Guidelines
 
 - **Max ~750 chars** — keep it concise, Gemini hides Send button on long prompts
 - **Always include**: style, shot type, century/era, colors with hex, mood, ratio, NO text, NO black borders
 - **Em dash** `—` → replace with `--` (causes shell errors)
+- **No parentheses** `()` in prompts — breaks shell. Use commas instead
+- **No single quotes** `'` in prompts — breaks shell. Use double dashes or rephrase
 - **Character descriptions**: copy from `docs/illustration-registry.md`
 - **Golden glow rule**: "small subtle golden circular glow with gentle rays -- about 15% of image height"
 - **6th century consistency**: always mention "mud-brick", "stone walls", "oil lamp", "clay pots", "woven mats"
