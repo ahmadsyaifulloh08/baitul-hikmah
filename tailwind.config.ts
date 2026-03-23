@@ -2,7 +2,6 @@ import type { Config } from 'tailwindcss'
 
 const config: Config = {
   content: ['./src/**/*.{js,ts,jsx,tsx,mdx}'],
-  safelist: ['mt-10', 'mt-14', 'mt-16', 'mb-10', 'mb-14', 'mb-16', 'pt-10', 'pb-10', 'gap-8', 'gap-10'],
   darkMode: undefined,
   theme: {
     extend: {
