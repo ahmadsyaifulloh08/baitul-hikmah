@@ -11,51 +11,33 @@
   ],
   "sources": [
     {
-      "id": "al-khwarizmi",
-      "title": "Kitab al-Jabr wa al-Muqabalah",
-      "author": "Al-Khwarizmi",
-      "type": "primary"
-    },
-    {
-      "id": "al-khwarizmi",
-      "title": "Zij al-Sindhind",
-      "author": "Al-Khwarizmi",
-      "type": "primary"
-    },
-    {
-      "id": "roshdi-rashed",
-      "title": "Al-Khwarizmi: The Beginnings of Algebra",
-      "author": "Roshdi Rashed",
-      "type": "primary"
-    },
-    {
-      "id": "victor-katz",
-      "title": "A History of Mathematics",
-      "author": "Victor Katz",
-      "type": "primary"
-    },
-    {
       "id": "ibn-al-nadim",
-      "title": "al-Fihrist",
+      "title": "Kitab al-Fihrist",
       "author": "Ibn al-Nadim",
       "type": "primary"
     },
     {
-      "id": "al-qifti",
-      "title": "Tarikh al-Hukama'",
-      "author": "Al-Qifti",
+      "id": "al-biruni",
+      "title": "Kitab al-Hind",
+      "author": "Al-Biruni",
       "type": "primary"
     },
     {
-      "id": "al-nisa--4---11-12--inheritanc",
-      "title": "Al-Nisa [4]: 11-12 (inheritance laws requiring algebraic com",
-      "author": "Al-Nisa [4]: 11-12 (inheritance laws requiring algebraic computation)",
+      "id": "euclid-",
+      "title": "Elements",
+      "author": "Euclid.",
       "type": "primary"
     },
     {
-      "id": "islamic-mawaris--inheritance--",
-      "title": "Islamic mawaris (inheritance) law as one motivation for deve",
-      "author": "Islamic mawaris (inheritance) law as one motivation for developing algebra",
+      "id": "brahmagupta-",
+      "title": "Brahmasphutasiddhanta",
+      "author": "Brahmagupta.",
+      "type": "primary"
+    },
+    {
+      "id": "al-khwarizmi",
+      "title": "Kitab al-Jabr wa al-Muqabalah",
+      "author": "Al-Khwarizmi",
       "type": "primary"
     }
   ]

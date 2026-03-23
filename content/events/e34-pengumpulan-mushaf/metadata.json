@@ -11,21 +11,21 @@
   ],
   "sources": [
     {
-      "id": "al-hijr--15---9",
-      "title": "Al-Hijr [15]: 9",
-      "author": "Al-Hijr [15]: 9",
+      "id": "-al-bukhari",
+      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+      "author": "*Al-Bukhari",
       "type": "primary"
     },
     {
-      "id": "no--4986--compilation-",
-      "title": "no. 4986 (compilation), no. 4987 (Uthman's standardization) ",
-      "author": "no. 4986 (compilation)",
+      "id": "-al-suyuti",
+      "title": "Al-Suyuti, Jalal al-Din Abdurrahman.",
+      "author": "*Al-Suyuti",
       "type": "primary"
     },
     {
-      "id": "ibn-hajar-al-asqalani",
-      "title": "Fath al-Bari",
-      "author": "Ibn Hajar al-Asqalani",
+      "id": "-al-tabari",
+      "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+      "author": "*Al-Tabari",
       "type": "primary"
     }
   ]

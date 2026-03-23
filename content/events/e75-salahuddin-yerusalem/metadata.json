@@ -11,21 +11,9 @@
   ],
   "sources": [
     {
-      "id": "al-isra--17---1",
-      "title": "Al-Isra [17]: 1",
-      "author": "Al-Isra [17]: 1",
-      "type": "primary"
-    },
-    {
-      "id": "baha-al-din-ibn-shaddad",
-      "title": "al-Nawadir al-Sultaniyyah",
-      "author": "Baha al-Din ibn Shaddad",
-      "type": "primary"
-    },
-    {
-      "id": "imad-al-din-al-isfahani",
-      "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
-      "author": "Imad al-Din al-Isfahani",
+      "id": "baha-al-din-ibn-shaddad-",
+      "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+      "author": "Baha al-Din ibn Shaddad.",
       "type": "primary"
     },
     {
@@ -35,27 +23,153 @@
       "type": "primary"
     },
     {
-      "id": "ibn-kathir",
-      "title": "al-Bidayah wa al-Nihayah",
-      "author": "Ibn Kathir",
+      "id": "imad-al-din-al-isfahani-",
+      "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
+      "author": "Imad al-Din al-Isfahani.",
       "type": "primary"
     },
     {
-      "id": "william-of-tyre",
+      "id": "william-of-tyre-",
       "title": "Historia Rerum in Partibus Transmarinis Gestarum",
-      "author": "William of Tyre",
+      "author": "William of Tyre.",
       "type": "primary"
     },
     {
-      "id": "andrew-s--ehrenkreutz",
-      "title": "Saladin",
-      "author": "Andrew S. Ehrenkreutz",
+      "id": "ibn-shaddad",
+      "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+      "author": "Ibn Shaddad",
       "type": "primary"
     },
     {
-      "id": "malcolm-cameron-lyons---d-e-p-",
-      "title": "Saladin: The Politics of the Holy War",
-      "author": "Malcolm Cameron Lyons & D.E.P. Jackson",
+      "id": "al-qur-an-al-karim--qs--al-isr",
+      "title": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2)",
+      "author": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.",
+      "type": "primary"
+    },
+    {
+      "id": "al-bukhari",
+      "title": "al-Adab al-Mufrad",
+      "author": "Al-Bukhari",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-14",
+      "title": "Unknown_14, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_14",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-15",
+      "title": "Unknown_15, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_15",
+      "type": "primary"
+    },
+    {
+      "id": "al-din-al-isfahani",
+      "title": "Al-Din al-Isfahani, [Karya yang disebutkan dalam teks].",
+      "author": "Al-Din al-Isfahani",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-17",
+      "title": "Unknown_17, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_17",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-18",
+      "title": "Unknown_18, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_18",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-19",
+      "title": "Unknown_19, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_19",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-20",
+      "title": "Unknown_20, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_20",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-21",
+      "title": "Unknown_21, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_21",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-22",
+      "title": "Unknown_22, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_22",
+      "type": "primary"
+    },
+    {
+      "id": "al-qur-an-al-karim-",
+      "title": "Al-Qur'an al-Karim.",
+      "author": "Al-Qur'an al-Karim.",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-shaddad",
+      "title": "Ibn Shaddad, [Karya yang disebutkan dalam teks].",
+      "author": "Ibn Shaddad",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-28",
+      "title": "Unknown_28, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_28",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-29",
+      "title": "Unknown_29, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_29",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-32",
+      "title": "Unknown_32, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_32",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-33",
+      "title": "Unknown_33, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_33",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-36",
+      "title": "Unknown_36, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_36",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-37",
+      "title": "Unknown_37, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_37",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-qudamah",
+      "title": "Ibn Qudamah, [Karya yang disebutkan dalam teks].",
+      "author": "Ibn Qudamah",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-44",
+      "title": "Unknown_44, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_44",
+      "type": "primary"
+    },
+    {
+      "id": "unknown-45",
+      "title": "Unknown_45, [Karya yang disebutkan dalam teks].",
+      "author": "Unknown_45",
       "type": "primary"
     }
   ]
