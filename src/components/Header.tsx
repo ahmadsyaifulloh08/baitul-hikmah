@@ -18,12 +18,6 @@ export default function Header() {
           </div>
         </a>
 
-        <div className="flex items-center gap-4">
-          <a href="/about" className="text-sm text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors">
-            {lang === 'id' ? 'Tentang' : 'About'}
-          </a>
-        </div>
-
         <div className="flex items-center gap-0">
           <button
             onClick={() => setLang('id')}

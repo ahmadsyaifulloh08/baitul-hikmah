@@ -92,6 +92,11 @@ function HomeContent() {
         <footer className="text-center py-8 text-xs text-[var(--text-secondary)] border-t border-[var(--border)]">
           <p>{t('footer.tagline')}</p>
           <p className="mt-1">{t('footer.methodology')}</p>
+          <p className="mt-2">
+            <a href="/about" className="underline hover:text-[var(--text-primary)] transition-colors">
+              {lang === 'id' ? 'Tentang Baitul Hikmah' : 'About Baitul Hikmah'}
+            </a>
+          </p>
         </footer>
       )}
     </main>
