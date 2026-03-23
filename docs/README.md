@@ -2,19 +2,62 @@
 
 > Semua dokumentasi produk dalam satu tempat.
 
-## 🚀 Quick Start — Reading Order
+---
 
-**Mau generate image?** Baca urutan ini:
+## 🔄 Workflows
+
+### Workflow A: General Content (Artikel Dewasa)
+
+```
+1. READ   → docs/content-style-guide.md (aturan penulisan, sitasi, Quran)
+2. WRITE  → content/events/{event}/general-id.md + general-en.md
+3. META   → content/events/{event}/metadata.json (title, year, sources)
+4. STATUS → src/data/events-database.json → ubah status: "draft" → "published"
+5. QA     → python3 scripts/qa-all.py --quick
+6. SYNC   → node scripts/build-content.js
+7. PUSH   → git push origin develop
+8. VERIFY → cek di develop.baitul-hikmah.pages.dev
+```
+
+**Docs yang WAJIB dibaca:**
+1. `content-style-guide.md` — sitasi consolidated, format Quran, daftar pustaka
+2. `PRD.md` — product requirements
+
+**QA checks (automated):**
+- ✅ Citations: consolidated format, ^N ≤ bibliography entries
+- ✅ Quran: Arabic text + separators
+- ✅ Metadata: completeness
+- ✅ Card pustaka: "Title — Author" format
+
+### Workflow B: Children Content + Illustrations
+
+```
+1. READ   → content-style-guide.md + illustration-registry.md + illustration-guide.md
+2. WRITE  → content/events/{event}/children-id.md + children-en.md
+3. BRIEF  → docs/briefs/{event}.md (character lock, base palette, per-slide brief)
+4. PREP   → Phase 0: generate prompt files, pre-generate checklist, Ahmad approve prompts
+5. GENERATE → PinchTab v4 workflow (new chat per slide, 7s wait, before/after download)
+6. COMPRESS → sharp resize 1792x1024 + PNG level 9 (target 1-2MB)
+7. QA     → python3 scripts/qa-all.py (full — includes images)
+8. CODE   → Update EventContent.tsx childrenIllustrations mapping
+9. SYNC   → node scripts/build-content.js
+10. PUSH  → git push origin develop
+11. VERIFY → Ahmad review di develop.baitul-hikmah.pages.dev
+```
+
+**Docs yang WAJIB dibaca:**
 1. `illustration-registry.md` — master character descriptions (WAJIB copy-paste)
-2. `briefs/e{XX}-{name}.md` — brief per episode + character lock
+2. `briefs/{event}.md` — per-episode brief + character lock
 3. `illustration-guide.md` — rules, larangan, Islamic compliance
 4. `operations/batch-image-generation-v4.md` — workflow & script
 
-**Mau tulis konten baru?** Baca + lakukan:
-1. `content-style-guide.md` — aturan penulisan, sitasi, format Quran/Hadits
-2. `PRD.md` — product requirements lengkap
-3. **WAJIB buat `metadata.json`** di `content/events/{event}/` (lihat template di bawah)
-4. **WAJIB buat brief** di `docs/briefs/{event}.md` jika ada ilustrasi
+**Image rules:**
+- Golden glow slides → generate dalam 1 chat session (konsistensi)
+- Max 750 chars per prompt, no `()`, no `'`, no `—`
+- Prompt WAJIB pakai STYLE LOCK + CHARACTER LOCK format
+- Ahmad approve prompts SEBELUM generate
+
+---
 
 ## 📋 New Event Checklist
 
@@ -29,16 +72,33 @@ content/events/{event}/
 └── general-id.md      ← adult content (Indonesian)
 
 docs/briefs/{event}.md ← WAJIB jika ada ilustrasi
+
+src/data/events-database.json → status: "draft" → "published"
 ```
 
 ### QA Scripts
 ```bash
-# Citation checker — verify consolidated format
-python3 scripts/check-citations.py              # all events
-python3 scripts/check-citations.py e57-al-khwarizmi  # specific event
+# Full QA (citations + quran + metadata + images)
+python3 scripts/qa-all.py
 
-# Content sync — .md → website JSON
-python3 scripts/sync-content.py                 # or: node scripts/build-content.js
+# Quick QA (citations + quran + metadata — no image check)
+python3 scripts/qa-all.py --quick
+
+# Per event
+python3 scripts/qa-all.py e04
+
+# Individual checks
+python3 scripts/check-citations.py          # articles + cards
+python3 scripts/check-quran-format.py       # Quran Arabic text
+python3 scripts/check-metadata.py           # event completeness
+python3 scripts/check-images.py             # illustration files
+
+# Content sync (.md → website JSON)
+node scripts/build-content.js
+
+# Quran API tools
+python3 scripts/fetch-quran.py 105:1-5      # fetch Arabic text
+python3 scripts/fix-quran-refs.py --fix     # auto-insert Arabic
 ```
 
 ### metadata.json Template
@@ -56,6 +116,15 @@ python3 scripts/sync-content.py                 # or: node scripts/build-content
   ]
 }
 ```
+
+### events-database.json Status
+```json
+{
+  "status": "published"  // or "draft"
+}
+```
+- `draft` = content belum ditulis (69 events)
+- `published` = content lengkap + QA pass (59 events)
 
 ---
 
@@ -78,7 +147,8 @@ python3 scripts/sync-content.py                 # or: node scripts/build-content
 |-----|--------|
 | [Illustration Registry](illustration-registry.md) | **SSoT** — master character descriptions, locations, palettes |
 | [Illustration Guide](illustration-guide.md) | Rules, larangan, Islamic compliance, QA checklist |
-| [Briefs per Episode](briefs/) | Brief + character lock per episode (e01, e02, ...) |
+| [Briefs per Episode](briefs/) | Brief + character lock per episode |
+| [Image Gen v4](operations/batch-image-generation-v4.md) | **ACTIVE** — PinchTab workflow |
 
 ### Briefs
 
@@ -89,12 +159,16 @@ python3 scripts/sync-content.py                 # or: node scripts/build-content
 | [e03-perjalanan-syam.md](briefs/e03-perjalanan-syam.md) | Perjalanan Syam | 11 |
 | [e04-pernikahan-khadijah.md](briefs/e04-pernikahan-khadijah.md) | Pernikahan Khadijah | 12 |
 
-## Operations
+## CI/CD
 
-| Doc | Fungsi |
-|-----|--------|
-| [Image Generation v4](operations/batch-image-generation-v4.md) | **ACTIVE** — proven workflow PinchTab → Gemini → download → compress |
-| [Archive](operations/archive/) | v2, v3, old pipeline (reference only) |
+```
+git push develop
+  → Cloudflare Pages build
+  → prebuild: python3 qa-all.py --quick   ← QA GATE (fail = no deploy)
+  → node build-content.js                 ← sync .md → JSON
+  → next build                            ← website build
+  → Deploy ✅
+```
 
 ## Quick Links
 
@@ -106,18 +180,42 @@ python3 scripts/sync-content.py                 # or: node scripts/build-content
 
 ```
 docs/
-├── README.md              ← you are here
-├── PRD.md                 ← product requirements
-├── content-style-guide.md ← writing rules
-├── design-guide.md        ← visual design system
-├── illustration-registry.md ← CHARACTER SSoT
-├── illustration-guide.md  ← illustration rules
-├── briefs/                ← per-episode briefs
-│   ├── e01-tahun-gajah.md
-│   ├── e02-yatim-piatu.md
-│   ├── e03-perjalanan-syam.md
-│   └── e04-pernikahan-khadijah.md
+├── README.md                 ← you are here
+├── PRD.md                    ← product requirements
+├── content-style-guide.md    ← writing rules
+├── design-guide.md           ← visual design system
+├── illustration-registry.md  ← CHARACTER SSoT
+├── illustration-guide.md     ← illustration rules
+├── briefs/                   ← per-episode image briefs
 └── operations/
     ├── batch-image-generation-v4.md  ← ACTIVE workflow
-    └── archive/                       ← old versions
+    └── archive/
+
+scripts/
+├── qa-all.py                 ← QA runner (prebuild CI/CD)
+├── check-citations.py        ← articles + cards
+├── check-quran-format.py     ← Quran Arabic text
+├── check-metadata.py         ← event completeness
+├── check-images.py           ← illustration files
+├── build-content.js          ← .md → JSON (prebuild)
+├── sync-content.py           ← alternative sync
+├── fetch-quran.py            ← Quran API helper
+├── fix-quran-refs.py         ← auto-insert Arabic text
+└── archive/
+
+src/data/
+├── events-database.json      ← master event list (128 events, status field)
+└── event-content-map.json    ← content for website (generated by build-content.js)
+
+content/events/
+├── e01-tahun-gajah/          ← general-*.md, children-*.md, metadata.json
+├── e02-yatim-piatu/
+├── ...
+└── e128-.../
+
+public/illustrations/children/
+├── e01/                      ← slide-01.png, slide-02.png, ...
+├── e02/
+├── e03/
+└── e04/
 ```
