@@ -287,9 +287,9 @@
           "type": "primary"
         },
         {
-          "id": "quran",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Quraisy",
+          "id": "tafsir-ibn-kathir",
+          "title": "Tafsir al-Quran al-Azhim",
+          "author": "Ibn Kathir",
           "type": "primary"
         },
         {
@@ -305,10 +305,16 @@
           "type": "hadith"
         },
         {
-          "id": "tabaqat-ibn-sad",
+          "id": "tabaqat",
           "title": "Al-Tabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fil, Quraisy",
+          "type": "quran"
         }
       ],
       "characters": [

@@ -105,6 +105,42 @@ def check_cards(db_path="src/data/events-database.json"):
     
     return all_errors
 
+# ─── Card vs Article Count Check ─────────────────────────────────
+
+def check_card_article_match():
+    """Verify card sources count matches article daftar pustaka count."""
+    import glob as _glob
+    with open("src/data/events-database.json") as f:
+        db = json.load(f)
+    
+    mismatches = {}
+    for ev in db["events"]:
+        if ev.get("status") == "draft":
+            continue
+        
+        eid = ev["id"]
+        card_count = len(ev.get("sources", []))
+        
+        # Find article pustaka count
+        folders = _glob.glob(f"content/events/{eid}-*/general-id.md")
+        if not folders:
+            continue
+        
+        with open(folders[0]) as f:
+            text = f.read()
+        
+        pustaka = re.search(r'(?:## Daftar Pustaka)\s*\n([\s\S]+?)(?:\n## |\Z)', text)
+        if not pustaka:
+            continue
+        
+        article_entries = re.findall(r'^\d+\.\s+.+', pustaka.group(1), re.MULTILINE)
+        article_count = len(article_entries)
+        
+        if card_count != article_count:
+            mismatches[eid] = f"card={card_count} vs article={article_count}"
+    
+    return mismatches
+
 # ─── Main ────────────────────────────────────────────────────────
 
 target = None
@@ -157,6 +193,22 @@ if mode in ("all", "cards"):
         with open("src/data/events-database.json") as f:
             count = len(json.load(f)["events"])
         print(f"  ✅ All {count} events passed sources check")
+
+# Card vs Article count check
+if mode in ("all", "cards"):
+    print("\n── Card vs Article Count ──")
+    mismatches = check_card_article_match()
+    
+    if target:
+        mismatches = {k: v for k, v in mismatches.items() if target.startswith(k) or k in target}
+    
+    if mismatches:
+        for eid, msg in mismatches.items():
+            print(f"  ⚠️ {eid}: {msg}")
+        # Warning only, not blocking
+        print(f"  {len(mismatches)} count mismatches (warning)")
+    else:
+        print(f"  ✅ All card/article counts match")
 
 # Summary
 if total_errors == 0:
