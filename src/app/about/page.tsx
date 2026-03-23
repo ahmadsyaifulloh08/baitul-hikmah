@@ -50,7 +50,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg p-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6" style={{marginTop:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">2. Verifikasi Hadits</h3>
               <p className="mb-2">Hadits yang dikutip diverifikasi statusnya (shahih, hasan, dha&apos;if) dengan merujuk pada:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -60,7 +60,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg p-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6" style={{marginTop:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">3. Verifikasi Al-Quran</h3>
               <p className="mb-2">Setiap kutipan Al-Quran diverifikasi secara otomatis menggunakan API Al-Quran Cloud:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -71,7 +71,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg p-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6" style={{marginTop:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">4. Daftar Pustaka Terkonsolidasi</h3>
               <p className="mb-2">Setiap artikel menggunakan format daftar pustaka terkonsolidasi:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -82,7 +82,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg p-6">
+            <div className="bg-[var(--bg-secondary)] rounded-lg p-6" style={{marginTop:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Automated Quality Assurance</h3>
               <p className="mb-2">Seluruh konten melewati pipeline QA otomatis sebelum dipublikasikan:</p>
               <ul className="list-disc pl-5 space-y-1">
