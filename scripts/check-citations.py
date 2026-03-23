@@ -3,6 +3,12 @@
 Citation QA checker — run after content generation.
 Verifies consolidated citation format.
 
+Rules enforced (from docs/content-style-guide.md Section 3):
+- Consolidated bibliography: 1 entry = 1 unique source, reuse same ^N
+- Max citation ^N must <= number of Daftar Pustaka entries
+- No double citations without space (^1^2)
+- Every cited ^N must have matching pustaka entry
+
 Usage: python3 scripts/check-citations.py [event-slug]
        python3 scripts/check-citations.py  # check all
 """

@@ -1,3 +1,15 @@
+/**
+ * build-content.js — Prebuild script: .md files → event-content-map.json
+ *
+ * SSoT: content/events/{slug}/*.md
+ * Output: src/data/event-content-map.json (consumed by EventContent.tsx)
+ * Slug mapping: research_agenda.json (event.title → slugified key)
+ *
+ * See: docs/README.md (Content Flow section)
+ * See: docs/content-style-guide.md (content format rules)
+ *
+ * Run: node scripts/build-content.js (auto-runs via `npm run prebuild`)
+ */
 const fs = require('fs')
 const path = require('path')
 

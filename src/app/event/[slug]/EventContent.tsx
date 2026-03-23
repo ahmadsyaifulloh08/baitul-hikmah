@@ -1,3 +1,17 @@
+/**
+ * EventContent.tsx — Event detail page with dual-mode content (general/children)
+ *
+ * Content flow:
+ *   content/events/*.md → scripts/build-content.js → event-content-map.json → this file
+ *   See: docs/README.md (Content Flow section)
+ *
+ * Content format rules:
+ *   See: docs/content-style-guide.md (citations, Quran format, bibliography)
+ *
+ * Illustration mapping:
+ *   See: docs/illustration-registry.md (character descriptions)
+ *   See: docs/briefs/*.md (per-episode image briefs)
+ */
 'use client'
 
 import React, { useState } from 'react'
@@ -5,7 +19,6 @@ import { I18nProvider, useI18n } from '@/i18n/context'
 import { motion, AnimatePresence } from 'framer-motion'
 import { getEra, getCategory, slugify, events, regions, type Event } from '@/lib/data'
 import Header from '@/components/Header'
-// REMOVED: event-content.json archived — all content now in event-content-map.json
 import eventContentMap from '@/data/event-content-map.json'
 
 const categoryEmoji: Record<string, string> = {

@@ -4,6 +4,10 @@ Sync content/events/*.md → src/data/event-content-map.json
 
 SSoT: content/events/{slug}/*.md files
 Output: src/data/event-content-map.json (consumed by EventContent.tsx)
+Slug mapping: src/data/research_agenda.json (event.title → slugified key)
+
+See: docs/README.md (Content Flow section)
+See: docs/content-style-guide.md (content format rules)
 
 Usage: python3 scripts/sync-content.py
 Run after any content .md file changes.
