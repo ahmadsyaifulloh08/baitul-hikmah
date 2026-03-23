@@ -93,7 +93,7 @@ The greatest irony of Uhud is that **Khalid ibn al-Walid** — the military mind
 
 If Badr taught the Muslims how it feels to win, Uhud taught them how to respond to defeat. The Quran does not hide the community's weaknesses — it exposes them so they become lessons. Defeat is not the end; it is the most effective teacher when met with introspection rather than denial.
 
-## References
+## Bibliography
 
 1. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadiths in Kitab al-Maghazi, Chapter on the Battle of Uhud.
 

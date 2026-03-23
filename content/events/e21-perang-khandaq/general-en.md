@@ -97,7 +97,7 @@ A siege lasting nearly a month was an extraordinary mental test. Hunger, cold, t
 
 Khandaq marked a fundamental shift in the power dynamics of the Arabian Peninsula. After Khandaq, the Quraysh never again mounted an offensive against Madinah. Strategic initiative passed entirely to the Muslims — as the Prophet himself declared. Two years later, the Prophet Muhammad ﷺ led 10,000 Companions in the bloodless liberation of Makkah.
 
-## References
+## Bibliography
 
 1. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 4109 and others, Kitab al-Maghazi, Chapter on the Battle of the Trench.
 

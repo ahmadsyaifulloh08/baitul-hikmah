@@ -92,9 +92,9 @@ Saladin agreed to terms that were extraordinarily generous by the standards of m
 
 The liberation of Jerusalem on **October 2, 1187 CE** (27 Rajab 583 AH) became one of history's most powerful demonstrations of Islamic principles of justice and mercy in warfare. The contrast with the Crusader conquest of 1099 could not have been starker:
 
-**No Massacre**: Despite having every legal and emotional justification for revenge, not a single civilian was killed during or after the city's surrender. This restraint was particularly remarkable given that many of Saladin's soldiers had family members killed in the 1099 massacre.^16
+**No Massacre**: Despite having every legal and emotional justification for revenge, not a single civilian was killed during or after the city's surrender. This restraint was particularly remarkable given that many of Saladin's soldiers had family members killed in the 1099 massacre.^1
 
-**Humane Implementation**: Saladin went far beyond the agreed terms. When it became clear that many inhabitants could not afford the ransom, he freed thousands at his own expense. His brother **al-Adil** requested and was granted one thousand captives to free as a gift. Saladin's own secretary records that the Sultan was moved to tears by the plight of families being separated.^17
+**Humane Implementation**: Saladin went far beyond the agreed terms. When it became clear that many inhabitants could not afford the ransom, he freed thousands at his own expense. His brother **al-Adil** requested and was granted one thousand captives to free as a gift. Saladin's own secretary records that the Sultan was moved to tears by the plight of families being separated.^2
 
 **Religious Tolerance**: Christian churches and holy sites were protected. The Church of the Holy Sepulchre remained under Christian control, with Saladin personally guaranteeing the safety of Christian pilgrims. This was particularly significant since Eastern Orthodox Christians, who had been oppressed under Latin Crusader rule, were welcomed back to the city.^1
 
@@ -102,19 +102,19 @@ The liberation of Jerusalem on **October 2, 1187 CE** (27 Rajab 583 AH) became o
 
 ### International Recognition
 
-Even European chroniclers, though they were Saladin's enemies, recorded his noble conduct with admiration. **Ernoul**, a contemporary Crusader historian, wrote: "Never did a man show greater courtesy to vanquished enemies than Saladin showed to the Christians of Jerusalem."^18 During the European Enlightenment, Saladin became a symbol of the ideal knight, with **Dante** placing him in Limbo rather than Hell in the *Divine Comedy*, and **Voltaire** using him as an example of natural nobility.^19
+Even European chroniclers, though they were Saladin's enemies, recorded his noble conduct with admiration. **Ernoul**, a contemporary Crusader historian, wrote: "Never did a man show greater courtesy to vanquished enemies than Saladin showed to the Christians of Jerusalem."^3 During the European Enlightenment, Saladin became a symbol of the ideal knight, with **Dante** placing him in Limbo rather than Hell in the *Divine Comedy*, and **Voltaire** using him as an example of natural nobility.^4
 
 ## Analysis and Lessons
 
 ### The Prophetic Model
 
-Saladin consciously modeled his conduct on the **Conquest of Mecca** (Fath Makkah) by Prophet Muhammad ﷺ. Like the Prophet's bloodless conquest of Mecca, Saladin's liberation of Jerusalem was marked by magnanimity toward former enemies and protection of religious sites. The timing was also significant — the conquest occurred on 27 Rajab, coinciding with the anniversary of **Isra and Mi'raj**, adding profound spiritual resonance to the victory.^20
+Saladin consciously modeled his conduct on the **Conquest of Mecca** (Fath Makkah) by Prophet Muhammad ﷺ. Like the Prophet's bloodless conquest of Mecca, Saladin's liberation of Jerusalem was marked by magnanimity toward former enemies and protection of religious sites. The timing was also significant — the conquest occurred on 27 Rajab, coinciding with the anniversary of **Isra and Mi'raj**, adding profound spiritual resonance to the victory.^1
 
 ### Islamic Laws of War
 
 Saladin's conduct exemplified the Islamic principles of warfare established in the Qur'an and Sunnah:
 
-> "Fight them until there is no more persecution and religion belongs to God. If they cease, then there is to be no aggression except against the oppressors." — Qur'an 2:193^20
+> "Fight them until there is no more persecution and religion belongs to God. If they cease, then there is to be no aggression except against the oppressors." — Qur'an 2:193^1
 
 > "When you meet your enemies in battle, behave nobly. Do not mutilate, do not kill children, old people, or women. Do not cut down trees or destroy crops." — Hadith from Abu Dawud^1
 
@@ -132,21 +132,21 @@ The recapture of Jerusalem triggered the **Third Crusade** (1189-1192 CE), which
 
 ### Jerusalem as an Open City
 
-Under Saladin and his Ayyubid successors, Jerusalem became genuinely cosmopolitan for the first time since the Arab conquest of 638 CE. Christians, Muslims, and Jews could all worship freely in the city. The Ayyubids actively encouraged Christian pilgrimage, seeing it as both religiously meritorious and economically beneficial. This openness contrasted sharply with the exclusivist policies of the Crusader period.^21
+Under Saladin and his Ayyubid successors, Jerusalem became genuinely cosmopolitan for the first time since the Arab conquest of 638 CE. Christians, Muslims, and Jews could all worship freely in the city. The Ayyubids actively encouraged Christian pilgrimage, seeing it as both religiously meritorious and economically beneficial. This openness contrasted sharply with the exclusivist policies of the Crusader period.^5
 
 ### Standards of Warfare
 
-Saladin's conduct in Jerusalem established humanitarian standards that influenced Islamic jurisprudence for centuries. Legal scholars such as **Ibn Taymiyyah** and **al-Mawardi** cited his example when developing principles for the treatment of conquered populations and protection of religious minorities. These principles later influenced the development of international humanitarian law.^22
+Saladin's conduct in Jerusalem established humanitarian standards that influenced Islamic jurisprudence for centuries. Legal scholars such as **Ibn Taymiyyah** and **al-Mawardi** cited his example when developing principles for the treatment of conquered populations and protection of religious minorities. These principles later influenced the development of international humanitarian law.^6
 
 ### Cultural Memory
 
-Saladin became a universal symbol transcending religious and cultural boundaries. In Islamic tradition, he represents the ideal of the just ruler who combines military prowess with moral integrity. In European tradition, he became the model of chivalric honor, admired even by his enemies. This cross-cultural admiration helped foster the later development of international diplomatic norms based on mutual respect.^23
+Saladin became a universal symbol transcending religious and cultural boundaries. In Islamic tradition, he represents the ideal of the just ruler who combines military prowess with moral integrity. In European tradition, he became the model of chivalric honor, admired even by his enemies. This cross-cultural admiration helped foster the later development of international diplomatic norms based on mutual respect.^7
 
 ## The Living Legacy
 
 ### Modern Relevance
 
-In contemporary discussions of conflict resolution, Saladin's Jerusalem model offers valuable insights. His approach combined military decisiveness with post-victory restraint, immediate tactical gains with long-term strategic thinking, and religious conviction with pragmatic accommodation. Modern peace negotiators often cite his example as proof that military victory need not preclude magnanimous settlement.^24
+In contemporary discussions of conflict resolution, Saladin's Jerusalem model offers valuable insights. His approach combined military decisiveness with post-victory restraint, immediate tactical gains with long-term strategic thinking, and religious conviction with pragmatic accommodation. Modern peace negotiators often cite his example as proof that military victory need not preclude magnanimous settlement.^8
 
 ### Lessons for Leadership
 
@@ -160,15 +160,15 @@ Perhaps most relevant for the contemporary Muslim world is Saladin's demonstrati
 
 ### Divine Assistance and Human Effort
 
-Islamic sources consistently interpret Saladin's success as an example of divine assistance (*nusrah*) granted to those who strive in Allah's path. However, they equally emphasize that this assistance came only after extraordinary human effort — years of patient coalition-building, careful military preparation, and moral purification. The Qur'anic principle "And that there is nothing for man except what he strives for" (53:39) is frequently cited in this context.^20
+Islamic sources consistently interpret Saladin's success as an example of divine assistance (*nusrah*) granted to those who strive in Allah's path. However, they equally emphasize that this assistance came only after extraordinary human effort — years of patient coalition-building, careful military preparation, and moral purification. The Qur'anic principle "And that there is nothing for man except what he strives for" (53:39) is frequently cited in this context.^1
 
 ### The Jerusalem Connection
 
 The liberation of Jerusalem was seen as fulfilling the Qur'anic promise of the **Isra and Mi'raj**:
 
-> "Glory be to Him who took His servant for a journey by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, that We might show him some of Our signs." — Qur'an 17:1^20
+> "Glory be to Him who took His servant for a journey by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, that We might show him some of Our signs." — Qur'an 17:1^1
 
-Muslim scholars interpreted Saladin's victory as proof that Allah's blessings remained on Jerusalem and that righteous effort would be rewarded with the restoration of the holy sites to Islamic control.^20
+Muslim scholars interpreted Saladin's victory as proof that Allah's blessings remained on Jerusalem and that righteous effort would be rewarded with the restoration of the holy sites to Islamic control.^1
 
 ## Conclusion
 

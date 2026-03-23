@@ -80,7 +80,7 @@ Al-Kindi developed the concept that philosophy and religion both seek truth thro
 
 Three brothers — **Muhammad, Ahmad, and al-Hasan ibn Musa ibn Shakir** — worked at Bayt al-Hikmah in the ninth century and contributed to geometry, astronomy, and mechanics. They wrote *Kitab al-Hiyal* ("Book of Ingenious Mechanical Devices"), which described various automatons and clever machines.^9
 
-Their work in measuring the Earth's circumference using trigonometric methods achieved stunning accuracy — only about 200 kilometers difference from modern calculations. This measurement was conducted at al-Ma'mun's request and became one of the greatest scientific achievements of the ninth century.^10
+Their work in measuring the Earth's circumference using trigonometric methods achieved stunning accuracy — only about 200 kilometers difference from modern calculations. This measurement was conducted at al-Ma'mun's request and became one of the greatest scientific achievements of the ninth century.^3
 
 ## Analysis and Wisdom
 
@@ -94,11 +94,11 @@ One of the most revolutionary aspects of Bayt al-Hikmah was its intellectual plu
 
 ### Scientific Methodology
 
-Scholars at Bayt al-Hikmah developed scientific methodology that combined observation, experiment, and mathematical reasoning. Ibn al-Haytham, who worked at a similar institution in Cairo, developed experimental methods in optics that became the foundation of modern scientific methodology. The principles developed at Bayt al-Hikmah — empirical verification, peer review, and systematic documentation — became standards for scientific research.^11
+Scholars at Bayt al-Hikmah developed scientific methodology that combined observation, experiment, and mathematical reasoning. Ibn al-Haytham, who worked at a similar institution in Cairo, developed experimental methods in optics that became the foundation of modern scientific methodology. The principles developed at Bayt al-Hikmah — empirical verification, peer review, and systematic documentation — became standards for scientific research.^10
 
 ### The Translation Movement
 
-Bayt al-Hikmah became the center of the largest translation movement in the history of human civilization. Within less than two centuries, almost the entire heritage of Greek, Persian, and Indian knowledge was translated into Arabic. This movement not only saved classical texts from destruction but also created a rich and precise Arabic scientific language.^12
+Bayt al-Hikmah became the center of the largest translation movement in the history of human civilization. Within less than two centuries, almost the entire heritage of Greek, Persian, and Indian knowledge was translated into Arabic. This movement not only saved classical texts from destruction but also created a rich and precise Arabic scientific language.^6
 
 ## Civilizational Impact
 
@@ -112,11 +112,11 @@ Bayt al-Hikmah gave birth to new scientific disciplines: algebra (al-jabr), algo
 
 ### Academic Quality Standards
 
-The translation and research standards developed by Hunayn ibn Ishaq — verification against multiple manuscripts, cross-checking with native language experts, and review by field specialists — became a model for quality control in the academic world. This method is still used in modern scientific publishing.^13
+The translation and research standards developed by Hunayn ibn Ishaq — verification against multiple manuscripts, cross-checking with native language experts, and review by field specialists — became a model for quality control in the academic world. This method is still used in modern scientific publishing.^6
 
 ## Conclusion and Legacy
 
-Bayt al-Hikmah operated for nearly five centuries before being destroyed by Hulagu Khan's Mongol forces in 1258 CE. The destruction of Baghdad and its library is considered one of the greatest intellectual tragedies in the history of human civilization. Ibn al-Athir in *al-Kamil fi al-Tarikh* wrote: "Manuscripts were thrown into the Tigris River until the water turned black with ink."^14
+Bayt al-Hikmah operated for nearly five centuries before being destroyed by Hulagu Khan's Mongol forces in 1258 CE. The destruction of Baghdad and its library is considered one of the greatest intellectual tragedies in the history of human civilization. Ibn al-Athir in *al-Kamil fi al-Tarikh* wrote: "Manuscripts were thrown into the Tigris River until the water turned black with ink."^11
 
 However, the legacy of Bayt al-Hikmah was not completely destroyed. Thousands of manuscripts had spread to other centers of learning in Cordoba, Cairo, Isfahan, and Samarkand. The research institution model it developed influenced the development of modern universities. More importantly, its spirit of scientific inquiry and intellectual pluralism became inspiration for academic traditions to this day.
 
@@ -133,4 +133,5 @@ Bayt al-Hikmah proved that scientific advancement requires more than just data a
 7. Al-Jahiz, Abu Uthman Amr ibn Bahr. *al-Bayan wa al-Tabyin* (Clarity and Clarification).
 8. Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.
 9. Al-Kindi, Abu Yusuf Ya'qub ibn Ishaq. *Fi al-Falsafah al-Ula* (On First Philosophy).
-10. Bergstrasser, Gotthelf. *Hunain ibn Ishaq und seine Schule* (Berlin: Akademie der Wissenschaften, 1913).
+10. Ibn al-Haytham, Abu Ali al-Hasan. *Kitab al-Manazir* (Book of Optics).
+11. Ibn al-Athir, Abu al-Hasan Ali ibn Abi al-Karam. *al-Kamil fi al-Tarikh* (The Complete History).

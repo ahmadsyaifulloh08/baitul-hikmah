@@ -140,7 +140,7 @@ The core message is unmistakable: human dignity is determined not by skin color,
 
 ---
 
-## References
+## Bibliography
 
 1. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 1218, Kitab al-Hajj (Hadith of Jabir on the Prophet's Hajj).
 
