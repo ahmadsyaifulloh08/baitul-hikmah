@@ -288,8 +288,8 @@
         },
         {
           "id": "tafsir-ibn-kathir",
-          "title": "Tafsir al-Quran al-Azhim",
-          "author": "Ibn Kathir",
+          "title": "Al-Quran al-Karim",
+          "author": "Quraisy [106]: 1-4",
           "type": "primary"
         },
         {
@@ -428,6 +428,12 @@
           "title": "Zad al-Ma'ad",
           "author": "Ibn Qayyim al-Jauziyyah",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ad-Dhuha, Al-An'am, An-Nisa",
+          "type": "quran"
         }
       ],
       "characters": [
@@ -517,6 +523,12 @@
           "title": "Sunan al-Tirmidzi",
           "author": "Al-Tirmidzi",
           "type": "hadith"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Quraisy",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -710,6 +722,12 @@
           "title": "Fath al-Bari Syarh Shahih al-Bukhari",
           "author": "Ibn Hajar al-Asqalani",
           "type": "hadith"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-'Alaq",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -759,6 +777,12 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-'Alaq, Al-'Ashr",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -801,8 +825,8 @@
         },
         {
           "id": "ibn-kathir",
-          "title": "Tafsir al-Qur'an al-'Azhim",
-          "author": "Ibn Kathir",
+          "title": "Al-Quran al-Karim",
+          "author": "Al-Lahab [111]: 1-5, Al-Syu'ara' [26]: 214",
           "type": "primary"
         }
       ],
@@ -862,6 +886,12 @@
           "title": "Musnad Ahmad",
           "author": "Ahmad bin Hanbal",
           "type": "hadith"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Hujurat",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -914,6 +944,12 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Maryam",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -965,6 +1001,12 @@
           "title": "Al-Thabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1024,6 +1066,12 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Dhuha, Al-Qashash",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1089,6 +1137,12 @@
           "title": "Tafsir al-Thabari",
           "author": "Al-Thabari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra', Al-Najm",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1152,6 +1206,12 @@
           "title": "Tafsir al-Thabari",
           "author": "Al-Thabari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1244,6 +1304,12 @@
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal, Al-Tawbah, Yasin",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1289,6 +1355,12 @@
           "title": "Abu Ubayd al-Qasim bin Sallam",
           "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1379,6 +1451,12 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1426,6 +1504,12 @@
           "title": "Al-Sirah al-Nabawiyyah",
           "author": "Ibn Hisham",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1473,6 +1557,12 @@
           "title": "Al-Sirah al-Nabawiyyah",
           "author": "Ibn Hisham",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Imran",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1519,6 +1609,12 @@
           "title": "Kitab al-Maghazi",
           "author": "Al-Waqidi",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Ahzab",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1563,6 +1659,12 @@
           "title": "Al-Rahiq al-Makhtum",
           "author": "Al-Mubarakfuri",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fath",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1612,6 +1714,12 @@
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anbiya, Imran",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1755,6 +1863,12 @@
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fath, Al-Isra, An-Nashr",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1800,6 +1914,12 @@
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Hajj, Al-Isra, An-Najm, Ash-Shaffat, Saba",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1845,6 +1965,12 @@
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Taubah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1900,6 +2026,12 @@
           "title": "Shahih Muslim",
           "author": "Muslim",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Taubah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1945,6 +2077,12 @@
           "title": "Al-Tabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah, Al-Hujurat, An-Nashr, Imran",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -1996,6 +2134,12 @@
           "title": "Al-Sirah al-Nabawiyyah",
           "author": "Ibn Hisham",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah, Al-Ma'idah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2043,6 +2187,12 @@
           "title": "Al-Tabaqat al-Kubra",
           "author": "Ibn Sa'd",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Imran",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2135,6 +2285,12 @@
           "title": "Futuh al-Buldan",
           "author": "Al-Baladhuri",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Ma'idah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2182,6 +2338,12 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Imran",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2220,8 +2382,8 @@
         },
         {
           "id": "-al-suyuti",
-          "title": "Al-Itqan fi Ulum al-Quran",
-          "author": "Al-Suyuti",
+          "title": "Al-Quran al-Karim",
+          "author": "Al-Hijr [15]: 9, Al-Taubah [9]: 128",
           "type": "primary"
         },
         {
@@ -2275,6 +2437,12 @@
           "title": "Al-Kamil fi al-Tarikh",
           "author": "Ibn al-Athir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2368,6 +2536,12 @@
           "title": "Al-Kamil fi al-Tarikh",
           "author": "Ibn al-Athir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anbiya",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2414,6 +2588,12 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2525,6 +2705,12 @@
           "title": "Sunan al-Tirmidzi",
           "author": "Al-Tirmidzi",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2562,8 +2748,8 @@
         },
         {
           "id": "-al-suyuti",
-          "title": "Al-Itqan fi Ulum al-Quran",
-          "author": "Al-Suyuti",
+          "title": "Al-Quran al-Karim",
+          "author": "Al-Hijr [15]: 9",
           "type": "primary"
         },
         {
@@ -2772,6 +2958,12 @@
           "title": "Tarikh al-Rusul wa al-Muluk",
           "author": "Al-Tabari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nisa",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2865,6 +3057,12 @@
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra, An-Nisa",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2911,6 +3109,12 @@
           "title": "Greek Thought, Arabic Culture",
           "author": "Dimitri Gutas",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Alaq",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2957,6 +3161,12 @@
           "title": "Al-Kamil fi al-Tarikh",
           "author": "Ibn al-Athir",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -3003,6 +3213,12 @@
           "title": "Tarikh al-Rusul wa al-Muluk",
           "author": "Al-Tabari",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nisa",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -3049,6 +3265,12 @@
           "title": "Al-Muntazam fi Tarikh al-Umam",
           "author": "Ibn al-Jawzi",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nahl",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -3303,8 +3525,8 @@
         },
         {
           "id": "al-qur-an-al-karim--qs--taha--",
-          "title": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58",
-          "author": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
+          "title": "Al-Quran al-Karim",
+          "author": "Taha [20]: 114, al-Mujadalah [58]: 11",
           "type": "primary"
         },
         {
@@ -3421,6 +3643,12 @@
           "title": "Kitab al-Jabr wa al-Muqabalah",
           "author": "Al-Khwarizmi",
           "type": "primary"
+        },
+        {
+          "id": "quran",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. an-Nisa",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -4021,8 +4249,8 @@
         },
         {
           "id": "al-qur-an-al-karim--qs--al-isr",
-          "title": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2)",
-          "author": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
+          "title": "Al-Quran al-Karim",
+          "author": "al-Baqarah [2]: 190, al-Isra' [17]: 1",
           "type": "primary"
         },
         {
@@ -4356,8 +4584,8 @@
         },
         {
           "id": "al-qur-an-al-karim--qs--ar-ra-",
-          "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8):",
-          "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
+          "title": "Al-Quran al-Karim",
+          "author": "Al-Anfal [8]: 46, Ar-Ra'd [13]: 11",
           "type": "primary"
         },
         {
