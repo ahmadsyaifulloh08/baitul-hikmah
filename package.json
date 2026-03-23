@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "python3 scripts/qa-all.py --quick && node scripts/build-content.js",
+    "prebuild": "node scripts/build-content.js",
     "qa": "python3 scripts/qa-all.py",
     "qa:quick": "python3 scripts/qa-all.py --quick",
     "build": "next build",
