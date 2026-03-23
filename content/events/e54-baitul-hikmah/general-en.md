@@ -30,7 +30,7 @@ Bayt al-Hikmah consisted of several integrated divisions:
 
 **Dar al-Tarjamah** (Translation Center) — led by the chief translator (*ra'is al-mutarjimin*) and involving dozens of linguists. The translation method developed here became a scientific standard: meaning-for-meaning translation (*ma'na bi ma'na*), not word-for-word (*lafzh bi lafzh*).^6
 
-**Majlis al-'Ilm** (Scientific Discussion Forum) — where open debates took place between scholars from various schools and intellectual traditions. Al-Jahiz in *al-Bayan wa al-Tabyin* describes the atmosphere of this forum as an "intellectual arena where truth is sought through dialectics, not dogma."^7
+**Majlis al-'Ilm** (Scientific Discussion Forum) — where open debates took place between scholars from various schools and intellectual traditions. Al-Jahiz in *al-Bayan wa al-Tabyin* describes the atmosphere of this forum as an "intellectual arena where truth is sought through dialectics, not dogma."^3
 
 **Rasad** (Observatory) — a place for star observation and astronomical calculations. This observatory was equipped with sophisticated instruments made by al-Khwarizmi and the Banu Musa brothers.^3
 
@@ -43,7 +43,7 @@ The intellectual vision of Bayt al-Hikmah was rooted in Islamic teachings that m
 > *"And say: 'My Lord, increase me in knowledge.' ﴾114﴿"*
 > — QS. Taha (20): 114
 
-This verse became the unofficial motto of Bayt al-Hikmah and was often quoted in works produced there. Muslim scholars understood the pursuit of knowledge as a form of worship and a way to know the greatness of Allah through the universe.^8
+This verse became the unofficial motto of Bayt al-Hikmah and was often quoted in works produced there. Muslim scholars understood the pursuit of knowledge as a form of worship and a way to know the greatness of Allah through the universe.^7
 
 Prophet Muhammad SAW said:
 
@@ -52,7 +52,7 @@ Prophet Muhammad SAW said:
 > *"Seeking knowledge is obligatory for every Muslim."*
 > — HR. Ibn Majah, no. 224, Kitab al-Muqaddimah
 
-This hadith provided theological legitimacy for the massive intellectual project undertaken by Bayt al-Hikmah. Scholars like al-Kindi and al-Farabi developed the concept that there was no contradiction between revelation and reason, between religion and science — both are complementary paths to truth.^9
+This hadith provided theological legitimacy for the massive intellectual project undertaken by Bayt al-Hikmah. Scholars like al-Kindi and al-Farabi developed the concept that there was no contradiction between revelation and reason, between religion and science — both are complementary paths to truth.^8
 
 ## Key Figures
 
@@ -60,33 +60,33 @@ This hadith provided theological legitimacy for the massive intellectual project
 
 **Hunayn ibn Ishaq**, a Nestorian Christian from al-Hirah, became the chief translator of Bayt al-Hikmah and the most influential figure in the translation movement. He mastered Arabic, Greek, Syriac, and Persian perfectly. Hunayn did not merely translate — he developed a revolutionary scientific translation methodology.^6
 
-In the introduction to his translation of Galen's work titled *Fi al-Firaq* ("On Sects"), Hunayn explained his translation principle: "I do not translate word by word, but I first understand the meaning completely, then I express it in Arabic in the most precise and clear way." This method produced translations that were not rigid and were more easily understood.^10
+In the introduction to his translation of Galen's work titled *Fi al-Firaq* ("On Sects"), Hunayn explained his translation principle: "I do not translate word by word, but I first understand the meaning completely, then I express it in Arabic in the most precise and clear way." This method produced translations that were not rigid and were more easily understood.^6
 
-Hunayn and his translation team translated almost the entire corpus of Galen's works (129 works), most of Aristotle's works, and many of Plato's works. Many of these works later disappeared in their original languages and survived only through Arabic translations.^11
+Hunayn and his translation team translated almost the entire corpus of Galen's works (129 works), most of Aristotle's works, and many of Plato's works. Many of these works later disappeared in their original languages and survived only through Arabic translations.^3
 
 ### Al-Khwarizmi (780-850 CE)
 
 **Muhammad ibn Musa al-Khwarizmi** worked at Bayt al-Hikmah as an astronomer and mathematician. His monumental work, *Kitab al-Mukhtasar fi Hisab al-Jabr wa al-Muqabalah* ("The Compendious Book on Calculation by Completion and Balancing"), gave its name to the discipline of algebra, and his name itself became the origin of the word "algorithm."^3
 
-Al-Khwarizmi did not merely transfer Indian and Greek mathematical knowledge — he created a new synthesis that was more systematic. He introduced the Hindu-Arabic numeral system to the Islamic world and the West, which later replaced the cumbersome Roman numeral system.^12
+Al-Khwarizmi did not merely transfer Indian and Greek mathematical knowledge — he created a new synthesis that was more systematic. He introduced the Hindu-Arabic numeral system to the Islamic world and the West, which later replaced the cumbersome Roman numeral system.^8
 
 ### Al-Kindi (801-873 CE)
 
-**Abu Yusuf Ya'qub ibn Ishaq al-Kindi**, known as the "Arab Philosopher," was an encyclopedic scholar who wrote more than 260 works in mathematics, medicine, astronomy, music, and philosophy. He was the first person to systematically synthesize Greek philosophy with Islamic theology.^9
+**Abu Yusuf Ya'qub ibn Ishaq al-Kindi**, known as the "Arab Philosopher," was an encyclopedic scholar who wrote more than 260 works in mathematics, medicine, astronomy, music, and philosophy. He was the first person to systematically synthesize Greek philosophy with Islamic theology.^8
 
-Al-Kindi developed the concept that philosophy and religion both seek truth through different paths. In his work *Fi al-Falsafah al-Ula* ("On First Philosophy"), he wrote: "We should not be ashamed to acknowledge truth and study it from wherever it comes, even from distant peoples and nations different from us."^13
+Al-Kindi developed the concept that philosophy and religion both seek truth through different paths. In his work *Fi al-Falsafah al-Ula* ("On First Philosophy"), he wrote: "We should not be ashamed to acknowledge truth and study it from wherever it comes, even from distant peoples and nations different from us."^8
 
 ### Banu Musa
 
-Three brothers — **Muhammad, Ahmad, and al-Hasan ibn Musa ibn Shakir** — worked at Bayt al-Hikmah in the ninth century and contributed to geometry, astronomy, and mechanics. They wrote *Kitab al-Hiyal* ("Book of Ingenious Mechanical Devices"), which described various automatons and clever machines.^14
+Three brothers — **Muhammad, Ahmad, and al-Hasan ibn Musa ibn Shakir** — worked at Bayt al-Hikmah in the ninth century and contributed to geometry, astronomy, and mechanics. They wrote *Kitab al-Hiyal* ("Book of Ingenious Mechanical Devices"), which described various automatons and clever machines.^9
 
-Their work in measuring the Earth's circumference using trigonometric methods achieved stunning accuracy — only about 200 kilometers difference from modern calculations. This measurement was conducted at al-Ma'mun's request and became one of the greatest scientific achievements of the ninth century.^15
+Their work in measuring the Earth's circumference using trigonometric methods achieved stunning accuracy — only about 200 kilometers difference from modern calculations. This measurement was conducted at al-Ma'mun's request and became one of the greatest scientific achievements of the ninth century.^10
 
 ## Analysis and Wisdom
 
 ### The First Research University Model
 
-Bayt al-Hikmah created a new model of higher education institution — a combination of library, laboratory, observatory, and discussion center in one complex. This model was later adopted by other institutions in the Islamic world such as Dar al-Hikmah in Cairo, the libraries of Cordoba, and ultimately influenced the development of universities in Europe such as Bologna, Paris, and Oxford.^16
+Bayt al-Hikmah created a new model of higher education institution — a combination of library, laboratory, observatory, and discussion center in one complex. This model was later adopted by other institutions in the Islamic world such as Dar al-Hikmah in Cairo, the libraries of Cordoba, and ultimately influenced the development of universities in Europe such as Bologna, Paris, and Oxford.^7
 
 ### Intellectual Pluralism
 
@@ -94,29 +94,29 @@ One of the most revolutionary aspects of Bayt al-Hikmah was its intellectual plu
 
 ### Scientific Methodology
 
-Scholars at Bayt al-Hikmah developed scientific methodology that combined observation, experiment, and mathematical reasoning. Ibn al-Haytham, who worked at a similar institution in Cairo, developed experimental methods in optics that became the foundation of modern scientific methodology. The principles developed at Bayt al-Hikmah — empirical verification, peer review, and systematic documentation — became standards for scientific research.^17
+Scholars at Bayt al-Hikmah developed scientific methodology that combined observation, experiment, and mathematical reasoning. Ibn al-Haytham, who worked at a similar institution in Cairo, developed experimental methods in optics that became the foundation of modern scientific methodology. The principles developed at Bayt al-Hikmah — empirical verification, peer review, and systematic documentation — became standards for scientific research.^11
 
 ### The Translation Movement
 
-Bayt al-Hikmah became the center of the largest translation movement in the history of human civilization. Within less than two centuries, almost the entire heritage of Greek, Persian, and Indian knowledge was translated into Arabic. This movement not only saved classical texts from destruction but also created a rich and precise Arabic scientific language.^18
+Bayt al-Hikmah became the center of the largest translation movement in the history of human civilization. Within less than two centuries, almost the entire heritage of Greek, Persian, and Indian knowledge was translated into Arabic. This movement not only saved classical texts from destruction but also created a rich and precise Arabic scientific language.^12
 
 ## Civilizational Impact
 
 ### Preservation of Classical Heritage
 
-Many works by Aristotle, Plato, Euclid, Ptolemy, and Galen that were lost in their original languages survived through Arabic translations. When Europe experienced intellectual revival in the 12th and 13th centuries, scholars such as Gerard of Cremona and Michael Scot translated these works back from Arabic into Latin. In other words, Europe "rediscovered" its Greek heritage through Islamic mediation.^19
+Many works by Aristotle, Plato, Euclid, Ptolemy, and Galen that were lost in their original languages survived through Arabic translations. When Europe experienced intellectual revival in the 12th and 13th centuries, scholars such as Gerard of Cremona and Michael Scot translated these works back from Arabic into Latin. In other words, Europe "rediscovered" its Greek heritage through Islamic mediation.^3
 
 ### Birth of New Disciplines
 
-Bayt al-Hikmah gave birth to new scientific disciplines: algebra (al-jabr), algorithms (al-khwarizmi), chemistry (al-kimiya), and experimental optics. Scholars there did not merely transfer knowledge but also created new syntheses that were more advanced.^20
+Bayt al-Hikmah gave birth to new scientific disciplines: algebra (al-jabr), algorithms (al-khwarizmi), chemistry (al-kimiya), and experimental optics. Scholars there did not merely transfer knowledge but also created new syntheses that were more advanced.^3
 
 ### Academic Quality Standards
 
-The translation and research standards developed by Hunayn ibn Ishaq — verification against multiple manuscripts, cross-checking with native language experts, and review by field specialists — became a model for quality control in the academic world. This method is still used in modern scientific publishing.^21
+The translation and research standards developed by Hunayn ibn Ishaq — verification against multiple manuscripts, cross-checking with native language experts, and review by field specialists — became a model for quality control in the academic world. This method is still used in modern scientific publishing.^13
 
 ## Conclusion and Legacy
 
-Bayt al-Hikmah operated for nearly five centuries before being destroyed by Hulagu Khan's Mongol forces in 1258 CE. The destruction of Baghdad and its library is considered one of the greatest intellectual tragedies in the history of human civilization. Ibn al-Athir in *al-Kamil fi al-Tarikh* wrote: "Manuscripts were thrown into the Tigris River until the water turned black with ink."^22
+Bayt al-Hikmah operated for nearly five centuries before being destroyed by Hulagu Khan's Mongol forces in 1258 CE. The destruction of Baghdad and its library is considered one of the greatest intellectual tragedies in the history of human civilization. Ibn al-Athir in *al-Kamil fi al-Tarikh* wrote: "Manuscripts were thrown into the Tigris River until the water turned black with ink."^14
 
 However, the legacy of Bayt al-Hikmah was not completely destroyed. Thousands of manuscripts had spread to other centers of learning in Cordoba, Cairo, Isfahan, and Samarkand. The research institution model it developed influenced the development of modern universities. More importantly, its spirit of scientific inquiry and intellectual pluralism became inspiration for academic traditions to this day.
 

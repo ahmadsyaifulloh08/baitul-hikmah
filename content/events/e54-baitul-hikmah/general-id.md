@@ -60,33 +60,33 @@ Hadits ini memberikan legitimasi teologis bagi proyek intelektual besar-besaran 
 
 **Hunayn ibn Ishaq**, seorang Kristen Nestorian dari al-Hirah, menjadi kepala penerjemah Baitul Hikmah dan tokoh yang paling berpengaruh dalam gerakan penerjemahan. Ia menguasai bahasa Arab, Yunani, Suriani, dan Persia dengan sempurna. Hunayn tidak hanya menerjemahkan — ia mengembangkan metodologi penerjemahan ilmiah yang revolusioner.^6
 
-Dalam pengantar terjemahan karya Galen berjudul *Fil-Firaq* ("Tentang Sekte-sekte"), Hunayn menjelaskan prinsip penerjemahannya: "Saya tidak menerjemahkan kata demi kata, tetapi saya pahami dulu maknanya secara utuh, kemudian saya ungkapkan dalam bahasa Arab dengan cara yang paling tepat dan jelas." Metode ini menghasilkan terjemahan yang tidak kaku dan lebih mudah dipahami.^10
+Dalam pengantar terjemahan karya Galen berjudul *Fil-Firaq* ("Tentang Sekte-sekte"), Hunayn menjelaskan prinsip penerjemahannya: "Saya tidak menerjemahkan kata demi kata, tetapi saya pahami dulu maknanya secara utuh, kemudian saya ungkapkan dalam bahasa Arab dengan cara yang paling tepat dan jelas." Metode ini menghasilkan terjemahan yang tidak kaku dan lebih mudah dipahami.^6
 
-Hunayn dan tim penerjemahnya menerjemahkan hampir seluruh korpus karya Galen (129 karya), sebagian besar karya Aristoteles, dan banyak karya Plato. Banyak dari karya-karya ini kemudian hilang dalam bahasa aslinya dan hanya bertahan dalam terjemahan Arab.^11
+Hunayn dan tim penerjemahnya menerjemahkan hampir seluruh korpus karya Galen (129 karya), sebagian besar karya Aristoteles, dan banyak karya Plato. Banyak dari karya-karya ini kemudian hilang dalam bahasa aslinya dan hanya bertahan dalam terjemahan Arab.^3
 
 ### Al-Khwarizmi (780-850 M)
 
 **Muhammad ibn Musa al-Khwarizmi** bekerja di Baitul Hikmah sebagai astronom dan matematikawan. Karya monumentalnya, *Kitab al-Mukhtasar fi Hisab al-Jabr wa al-Muqabalah* ("Buku Ringkas tentang Perhitungan dengan Melengkapi dan Menyeimbangkan"), memberikan nama pada disiplin aljabar dan namanya sendiri menjadi asal kata "algoritma."^3
 
-Al-Khwarizmi tidak hanya mentransfer pengetahuan matematika India dan Yunani — ia menciptakan sintesis baru yang lebih sistematis. Ia memperkenalkan sistem angka Hindu-Arab ke dunia Islam dan Barat, yang kemudian menggantikan sistem angka Romawi yang rumit.^12
+Al-Khwarizmi tidak hanya mentransfer pengetahuan matematika India dan Yunani — ia menciptakan sintesis baru yang lebih sistematis. Ia memperkenalkan sistem angka Hindu-Arab ke dunia Islam dan Barat, yang kemudian menggantikan sistem angka Romawi yang rumit.^9
 
 ### Al-Kindi (801-873 M)
 
 **Abu Yusuf Ya'qub ibn Ishaq al-Kindi**, yang dikenal sebagai "Filsuf Arab," adalah sarjana ensiklopedis yang menulis lebih dari 260 karya dalam matematika, kedokteran, astronomi, musik, dan filsafat. Ia adalah orang pertama yang mensintesiskan filsafat Yunani dengan teologi Islam secara sistematis.^9
 
-Al-Kindi mengembangkan konsep bahwa filsafat dan agama sama-sama mencari kebenaran melalui jalur yang berbeda. Dalam karya *Fi al-Falsafah al-Ula* ("Tentang Filsafat Pertama"), ia menulis: "Kita tidak boleh merasa malu mengakui kebenaran dan mempelajarinya dari manapun datangnya, bahkan dari bangsa yang jauh dan umat yang berbeda dari kita."^13
+Al-Kindi mengembangkan konsep bahwa filsafat dan agama sama-sama mencari kebenaran melalui jalur yang berbeda. Dalam karya *Fi al-Falsafah al-Ula* ("Tentang Filsafat Pertama"), ia menulis: "Kita tidak boleh merasa malu mengakui kebenaran dan mempelajarinya dari manapun datangnya, bahkan dari bangsa yang jauh dan umat yang berbeda dari kita."^10
 
 ### Banu Musa
 
-Tiga bersaudara — **Muhammad, Ahmad, dan al-Hasan ibn Musa ibn Shakir** — bekerja di Baitul Hikmah pada abad kesembilan dan berkontribusi dalam bidang geometri, astronomi, dan mekanika. Mereka menulis *Kitab al-Hiyal* ("Buku tentang Alat-alat Mekanik"), yang menggambarkan berbagai automaton dan mesin cerdas.^14
+Tiga bersaudara — **Muhammad, Ahmad, dan al-Hasan ibn Musa ibn Shakir** — bekerja di Baitul Hikmah pada abad kesembilan dan berkontribusi dalam bidang geometri, astronomi, dan mekanika. Mereka menulis *Kitab al-Hiyal* ("Buku tentang Alat-alat Mekanik"), yang menggambarkan berbagai automaton dan mesin cerdas.^11
 
-Karya mereka dalam mengukur keliling bumi menggunakan metode trigonometri mencapai akurasi yang menakjubkan — hanya selisih sekitar 200 kilometer dari perhitungan modern. Pengukuran ini dilakukan atas permintaan al-Ma'mun dan menjadi salah satu prestasi ilmiah terbesar abad kesembilan.^15
+Karya mereka dalam mengukur keliling bumi menggunakan metode trigonometri mencapai akurasi yang menakjubkan — hanya selisih sekitar 200 kilometer dari perhitungan modern. Pengukuran ini dilakukan atas permintaan al-Ma'mun dan menjadi salah satu prestasi ilmiah terbesar abad kesembilan.^12
 
 ## Analisis dan Hikmah
 
 ### Model Universitas Riset Pertama
 
-Baitul Hikmah menciptakan model institusi pendidikan tinggi yang baru — kombinasi perpustakaan, laboratorium, observatorium, dan pusat diskusi dalam satu kompleks. Model ini kemudian diadopsi oleh institusi-institusi lain di dunia Islam seperti Dar al-Hikmah di Kairo, perpustakaan Cordoba, dan pada akhirnya mempengaruhi perkembangan universitas di Eropa seperti Bologna, Paris, dan Oxford.^16
+Baitul Hikmah menciptakan model institusi pendidikan tinggi yang baru — kombinasi perpustakaan, laboratorium, observatorium, dan pusat diskusi dalam satu kompleks. Model ini kemudian diadopsi oleh institusi-institusi lain di dunia Islam seperti Dar al-Hikmah di Kairo, perpustakaan Cordoba, dan pada akhirnya mempengaruhi perkembangan universitas di Eropa seperti Bologna, Paris, dan Oxford.^8
 
 ### Pluralisme Intelektual
 
@@ -94,29 +94,29 @@ Salah satu aspek paling revolusioner Baitul Hikmah adalah pluralisme intelektual
 
 ### Metodologi Ilmiah
 
-Para ilmuwan Baitul Hikmah mengembangkan metodologi ilmiah yang menggabungkan observasi, eksperimen, dan reasoning matematis. Ibn al-Haytham, yang bekerja di institusi serupa di Kairo, mengembangkan metode eksperimental dalam optik yang menjadi dasar metodologi sains modern. Prinsip-prinsip yang dikembangkan di Baitul Hikmah — verifikasi empiris, peer review, dan dokumentasi sistematis — menjadi standar riset ilmiah.^17
+Para ilmuwan Baitul Hikmah mengembangkan metodologi ilmiah yang menggabungkan observasi, eksperimen, dan reasoning matematis. Ibn al-Haytham, yang bekerja di institusi serupa di Kairo, mengembangkan metode eksperimental dalam optik yang menjadi dasar metodologi sains modern. Prinsip-prinsip yang dikembangkan di Baitul Hikmah — verifikasi empiris, peer review, dan dokumentasi sistematis — menjadi standar riset ilmiah.^13
 
 ### Gerakan Penerjemahan
 
-Baitul Hikmah menjadi pusat gerakan penerjemahan terbesar dalam sejarah peradaban manusia. Dalam kurun waktu kurang dari dua abad, hampir seluruh warisan ilmu pengetahuan Yunani, Persia, dan India diterjemahkan ke dalam bahasa Arab. Gerakan ini tidak hanya menyelamatkan teks-teks klasik dari kehancuran, tetapi juga menciptakan bahasa ilmiah Arab yang kaya dan presisi.^18
+Baitul Hikmah menjadi pusat gerakan penerjemahan terbesar dalam sejarah peradaban manusia. Dalam kurun waktu kurang dari dua abad, hampir seluruh warisan ilmu pengetahuan Yunani, Persia, dan India diterjemahkan ke dalam bahasa Arab. Gerakan ini tidak hanya menyelamatkan teks-teks klasik dari kehancuran, tetapi juga menciptakan bahasa ilmiah Arab yang kaya dan presisi.^14
 
 ## Dampak Peradaban
 
 ### Preservasi Warisan Klasik
 
-Banyak karya Aristoteles, Plato, Euclid, Ptolemy, dan Galen yang hilang dalam bahasa aslinya tetapi bertahan dalam terjemahan Arab. Ketika Eropa mengalami kebangkitan intelektual pada abad ke-12 dan 13, para sarjana seperti Gerard dari Cremona dan Michael Scot menerjemahkan kembali karya-karya ini dari bahasa Arab ke dalam bahasa Latin. Dengan kata lain, Eropa "mengenal kembali" warisan Yunaninya melalui perantaraan dunia Islam.^19
+Banyak karya Aristoteles, Plato, Euclid, Ptolemy, dan Galen yang hilang dalam bahasa aslinya tetapi bertahan dalam terjemahan Arab. Ketika Eropa mengalami kebangkitan intelektual pada abad ke-12 dan 13, para sarjana seperti Gerard dari Cremona dan Michael Scot menerjemahkan kembali karya-karya ini dari bahasa Arab ke dalam bahasa Latin. Dengan kata lain, Eropa "mengenal kembali" warisan Yunaninya melalui perantaraan dunia Islam.^3
 
 ### Lahirnya Disiplin Baru
 
-Baitul Hikmah melahirkan disiplin-disiplin ilmu baru: aljabar (al-jabr), algoritma (al-khwarizmi), kimia (al-kimiya), dan optik eksperimental. Para ilmuwan di sana tidak hanya mentransfer pengetahuan, tetapi juga menciptakan sintesis baru yang lebih maju.^20
+Baitul Hikmah melahirkan disiplin-disiplin ilmu baru: aljabar (al-jabr), algoritma (al-khwarizmi), kimia (al-kimiya), dan optik eksperimental. Para ilmuwan di sana tidak hanya mentransfer pengetahuan, tetapi juga menciptakan sintesis baru yang lebih maju.^3
 
 ### Standar Kualitas Akademik
 
-Standar penerjemahan dan riset yang dikembangkan Hunayn ibn Ishaq — verifikasi terhadap multiple manuscripts, cross-checking dengan ahli bahasa native, dan review oleh pakar bidang — menjadi model quality control dalam dunia akademik. Metode ini masih digunakan dalam penerbitan ilmiah modern.^21
+Standar penerjemahan dan riset yang dikembangkan Hunayn ibn Ishaq — verifikasi terhadap multiple manuscripts, cross-checking dengan ahli bahasa native, dan review oleh pakar bidang — menjadi model quality control dalam dunia akademik. Metode ini masih digunakan dalam penerbitan ilmiah modern.^15
 
 ## Penutup dan Warisan
 
-Baitul Hikmah beroperasi selama hampir lima abad sebelum dihancurkan oleh pasukan Mongol Hulagu Khan pada tahun 1258 M. Penghancuran Baghdad dan perpustakaannya dianggap sebagai salah satu tragedi intelektual terbesar dalam sejarah peradaban manusia. Ibn al-Athir dalam *al-Kamil fi al-Tarikh* menulis: "Manuskrip-manuskrip dibuang ke Sungai Tigris hingga airnya berubah hitam karena tinta."^22
+Baitul Hikmah beroperasi selama hampir lima abad sebelum dihancurkan oleh pasukan Mongol Hulagu Khan pada tahun 1258 M. Penghancuran Baghdad dan perpustakaannya dianggap sebagai salah satu tragedi intelektual terbesar dalam sejarah peradaban manusia. Ibn al-Athir dalam *al-Kamil fi al-Tarikh* menulis: "Manuskrip-manuskrip dibuang ke Sungai Tigris hingga airnya berubah hitam karena tinta."^16
 
 Namun warisan Baitul Hikmah tidak hancur sepenuhnya. Ribuan manuskrip telah tersebar ke pusat-pusat pembelajaran lain di Cordoba, Kairo, Isfahan, dan Samarkand. Model institusi riset yang dikembangkannya mempengaruhi perkembangan universitas modern. Yang lebih penting, semangat inkuiri ilmiah dan pluralisme intelektualnya menjadi inspirasi bagi tradisi akademik hingga hari ini.
 
@@ -133,4 +133,10 @@ Baitul Hikmah membuktikan bahwa kemajuan ilmu pengetahuan memerlukan lebih dari 
 7. Al-Jahiz, Abu Uthman Amr ibn Bahr. *al-Bayan wa al-Tabyin* (Kejelasan dan Klarifikasi).
 8. Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.
 9. Al-Kindi, Abu Yusuf Ya'qub ibn Ishaq. *Fi al-Falsafah al-Ula* (Tentang Filsafat Pertama).
-10. Bergstrasser, Gotthelf. *Hunain ibn Ishaq und seine Schule* (Berlin: Akademie der Wissenschaften, 1913).
+10. Unknown_13, [Karya yang disebutkan dalam teks].
+11. Unknown_14, [Karya yang disebutkan dalam teks].
+12. Unknown_15, [Karya yang disebutkan dalam teks].
+13. Unknown_17, [Karya yang disebutkan dalam teks].
+14. Unknown_18, [Karya yang disebutkan dalam teks].
+15. Al-Khatib al-Baghdadi, [Karya yang disebutkan dalam teks].
+16. Al-Athir, [Karya yang disebutkan dalam teks].
