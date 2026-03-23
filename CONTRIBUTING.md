@@ -4,38 +4,65 @@
 
 | Branch | Environment | URL | Deploy |
 |--------|-------------|-----|--------|
-| `main` | Production | baitul-hikmah.id | Auto via Cloudflare Pages |
+| `develop` | Staging | develop.baitul-hikmah.pages.dev | Auto via Cloudflare Pages |
+| `main` | Production | baitul-hikmah.id | Manual merge from develop |
 
-## Workflow
+## Workflows
 
-1. Feature branches → PR to `main`
-2. Ahmad reviews & approves
-3. Merge → auto-deploy to production via Cloudflare Pages
+See `docs/README.md` for detailed step-by-step workflows.
+
+### General Content (Workflow A)
+```
+Write .md → Update events-database.json → QA → Build → Push
+```
+
+### Children + Illustrations (Workflow B)
+```
+Write .md → Brief → Prompts → Generate images → Compress → QA → Push
+```
+
+## Content Structure per Event
+
+```
+content/events/{event}/
+├── general-id.md      ← adult article (Bahasa Indonesia)
+├── general-en.md      ← adult article (English)
+├── children-id.md     ← children storytelling (Bahasa Indonesia)
+└── children-en.md     ← children storytelling (English)
+```
+
+Event metadata lives in `src/data/events-database.json` (single SSoT).
 
 ## Content Validation
 
-All historical content MUST follow the **Manhaj Bukhari** methodology:
+All content follows **Manhaj Bukhari** methodology + automated QA:
 
 1. **ISNAD** — Trace the chain of sources
 2. **MATAN** — Verify content consistency
 3. **JARH WA TA'DIL** — Assess source credibility
 4. **TAWATUR** — Cross-reference with independent sources
+5. **Automated QA** — `python3 scripts/qa-all.py` before every push
 
-Only **sahih** (verified) information is accepted. Dha'if sources are marked, maudhu' (fabricated) are rejected.
+### QA Checks (CI/CD enforced)
+- **Citations** — consolidated format, ^N matches bibliography
+- **Quran** — Arabic text present for every verse reference
+- **Metadata** — events-database.json completeness
+- **Docs** — no stale references to renamed/deleted files
+- **Images** — size 1-2MB, correct count per event
 
-## Content Structure per Event
+## Key Docs
 
-Each event needs:
-- `adult-id.mdx` — Full article (Bahasa Indonesia)
-- `adult-en.mdx` — Full article (English)
-- `children-id.mdx` — Children's storytelling (Bahasa Indonesia)
-- `children-en.mdx` — Children's storytelling (English)
-- `metadata.json` — Structured data
+| Doc | Purpose |
+|-----|---------|
+| `docs/README.md` | Full documentation index + workflows |
+| `docs/content-style-guide.md` | Writing rules, citations, Quran format |
+| `docs/illustration-registry.md` | Character descriptions (SSoT) |
+| `docs/briefs/*.md` | Per-episode image briefs |
 
 ## Code Standards
 
 - TypeScript strict mode
-- Tailwind CSS (no inline styles)
-- Components in `/src/components/`
-- Data in `/src/data/`
+- Next.js App Router
+- Tailwind CSS
+- Doc reference comments in every file (`// See: docs/xxx.md`)
 - Mobile-first responsive design

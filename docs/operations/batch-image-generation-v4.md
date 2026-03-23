@@ -23,7 +23,7 @@
 
 - [ ] PinchTab instance `work` running + logged in Google
 - [ ] Prompt files ready: `/workspace/tmp/{event}-prompts/slide-{01..NN}.txt`
-- [ ] Briefs loaded: `docs/image-briefs-children.md`
+- [ ] Briefs loaded: `docs/briefs/{event}.md`
 - [ ] Character registry loaded: `docs/illustration-registry.md`
 - [ ] Shared volume mounted: `/workspace/shared/pinchtab-downloads/` ↔ container `/home/pinchtab/Downloads/`
 

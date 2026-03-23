@@ -120,7 +120,7 @@ Tampilan utama berupa **timeline grid** — mirip format di `agents.ahadgroup.id
 
 **Mobile**: Collapsible era sections (accordion) — klik era → expand daftar events
 
-**Data source**: `research_agenda.json` (128 events, sudah terstruktur)
+**Data source**: `events-database.json` (128 events, sudah terstruktur)
 
 ### 3.2 Halaman Utama — Map Mode (GIS Interaktif)
 
@@ -201,7 +201,7 @@ Tokoh: [Nama1] [Nama2] [Nama3] ...                       ← pills (fontSize 12,
 - **Tokoh terkait**: Card per tokoh (nama, peran, tahun hidup)
 - **Peta mini**: Lokasi event di peta
 - **Dalil terkait**: Ayat Al-Qur'an dan/atau Hadits yang relevan (dengan teks Arab, transliterasi, terjemahan)
-- **Daftar Pustaka**: Sumber rujukan dari markdown content (BUKAN dari JSON `event.sumber` jika rich content tersedia)
+- **Daftar Pustaka**: Sumber rujukan dari markdown content (BUKAN dari JSON `event.sources` jika rich content tersedia)
 - **Navigasi**: Previous/Next event secara kronologis
 - **Related events**: Events terkait di era/region yang sama
 
@@ -278,7 +278,7 @@ Riset dan penulisan dimulai dari event `e01` — peristiwa paling awal dalam tim
 - **Referensi utama**: [21st.dev](https://21st.dev) — modern, clean, component-driven UI
 - **Framework**: Next.js 14+ (App Router) + Tailwind CSS + Framer Motion
 - **Typography**: Serif untuk heading (nuansa klasik/Islamic), Sans-serif untuk body
-- **Color palette**: Berdasarkan era colors di `research_agenda.json`:
+- **Color palette**: Berdasarkan era colors di `events-database.json`:
   - Pra-Islam: `#8b949e` (muted gray)
   - Kenabian: `#3fb950` (vibrant green)
   - Rashidin: `#58a6ff` (calm blue)
@@ -569,13 +569,13 @@ STEP 3: SYNC to project
   └── ⚠️ HANYA file yang PASS QA yang di-sync
 
 STEP 4: SYNC JSON sumber (jika ada perubahan daftar pustaka)
-  └── Update research_agenda.json → event.sumber[] harus match markdown Daftar Pustaka
+  └── Update events-database.json → event.sources[] harus match markdown Daftar Pustaka
   └── Format JSON: versi ringkas. Format markdown: versi lengkap.
 
 STEP 5: BUILD content JSON
   └── cd /workspace/projects/baitul-hikmah
   └── node scripts/build-content.js
-  └── Output: src/data/event-content.json (stripped frontmatter, keyed by dir name)
+  └── Output: src/data/event-content-map.json (stripped frontmatter, keyed by dir name)
 
 STEP 6: BUILD website
   └── npx tailwindcss -i src/app/globals.css -o src/app/compiled.css --minify
@@ -675,7 +675,7 @@ npx wrangler pages deploy out --project-name=baitul-hikmah --branch=develop --co
 | **Styling** | Tailwind CSS + shadcn/ui | Rapid dev, consistent design system |
 | **Animation** | Framer Motion + GSAP | Smooth page transitions, timeline animations |
 | **Map** | MapLibre GL JS | Open-source, self-hosted, customizable |
-| **Data** | JSON (dari `research_agenda.json`) + Markdown (artikel) | Structured data + rich content |
+| **Data** | JSON (dari `events-database.json`) + Markdown (artikel) | Structured data + rich content |
 | **CMS** | Markdown files in repo (phase 1) → Headless CMS (phase 2) | Start simple, scale later |
 | **i18n** | Custom React Context (`src/i18n/context.tsx`) | Simpler than next-intl for static export |
 | **Hosting** | Cloudflare Pages | Sudah punya domain + CF token, edge-deployed |
@@ -768,7 +768,7 @@ Event
 │   │   ├── ui/                   # shadcn/ui primitives
 │   │   └── mode-switch.tsx       # General ↔ Anak toggle
 │   ├── data/
-│   │   ├── event-content.json    # Content data per event
+│   │   ├── event-content-map.json    # Content data per event
 │   │   ├── event-content-map.json # Content mapping
 │   │   └── event-coordinates.json # GPS coordinates per event
 │   ├── i18n/
@@ -894,7 +894,7 @@ Event
 - **Children's Format**: [Canva Presentation](https://www.canva.com/design/DAG2YQ-Mcoc/)
 
 ### B. Data Source
-- `research_agenda.json`: 128 events, 7 eras, 9 regions, 6 categories
+- `events-database.json`: 128 events, 7 eras, 9 regions, 6 categories
 - `islamic-research.md`: Full narrative per era + tokoh kunci + daftar pustaka
 
 ### C. Metodologi Riset
@@ -912,7 +912,7 @@ Project Baitul Hikmah memiliki 2 dokumen utama yang saling terkait:
 |---------|--------|--------|
 | **PRD (Product Requirements Document)** | `/workspace/docs/prd/baitul-hikmah-website.md` | Spesifikasi produk — fitur, tech stack, design, CI/CD, multi-agent model |
 | **Research Plan** | `/workspace/docs/research/islamic-research.md` | Materi riset — timeline 128+ events, metodologi Manhaj Bukhari, tokoh, daftar pustaka |
-| **Research Data (JSON)** | `/workspace/dashboard/data/research_agenda.json` | Data terstruktur — events, regions, categories, eras (machine-readable) |
+| **Research Data (JSON)** | `/workspace/dashboard/data/events-database.json` | Data terstruktur — events, regions, categories, eras (machine-readable) |
 
 **Alur kerja:**
 - PRD mendefinisikan **apa yang dibangun** (website spec)
@@ -1021,13 +1021,13 @@ Project Baitul Hikmah memiliki 2 dokumen utama yang saling terkait:
 >
 > **📚 Related Illustration Documents:**
 > - [`docs/illustration-registry.md`](docs/illustration-registry.md) — Character descriptions, genre palettes, time-of-day palettes, cinematic shot types, prompt assembly template. **BACA PERTAMA sebelum generate.**
-> - [`docs/image-briefs-children.md`](docs/image-briefs-children.md) — Prompt per slide per event (E01-E04 ready, lainnya TBD)
+> - [`docs/briefs/ (per-episode)`](docs/briefs/ (per-episode)) — Prompt per slide per event (E01-E04 ready, lainnya TBD)
 > - [`docs/design-guide.md`](docs/design-guide.md) — Color system & moodboard per era
 >
 > **⚠️ Palette Consistency Rule (2026-03-22):**
 > Setiap event WAJIB punya **base palette header** di image briefs — 3-4 warna utama yang konsisten di SEMUA slides.
 > Variasi ringan per slide diperbolehkan (indoor vs outdoor, siang vs malam), tapi base tones harus sama.
-> Lihat E04 di `image-briefs-children.md` sebagai contoh format yang benar.
+> Lihat E04 di `briefs/ (per-episode)` sebagai contoh format yang benar.
 
 ---
 

@@ -31,6 +31,7 @@ checks = [
     ("Citations", "check-citations.py"),
     ("Quran Format", "check-quran-format.py"),
     ("Metadata", "check-metadata.py"),
+    ("Docs Consistency", "check-docs.py"),
 ]
 if not quick:
     checks.append(("Images", "check-images.py"))

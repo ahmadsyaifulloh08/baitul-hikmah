@@ -3,8 +3,8 @@
 Metadata checker — verify all events have required files.
 
 Rules enforced (from docs/README.md New Event Checklist):
-- Every event folder must have metadata.json
-- metadata.json must have: id, title_id, title_en, year, era, sources
+- Every event folder must have events-database.json
+- events-database.json must have: id, title_id, title_en, year, era, sources
 - Every event should have general-id.md and general-en.md
 - Every event should have children-id.md and children-en.md
 
@@ -12,7 +12,7 @@ Usage: python3 scripts/check-metadata.py [event-slug]
 """
 import os, json, sys, glob
 
-# metadata.json no longer exists per event — all data in events-database.json
+# All event data in events-database.json per event — all data in events-database.json
 # This checker now validates events-database.json entries
 REQUIRED_DB_FIELDS = ["id", "title", "year", "era", "sources", "status"]
 

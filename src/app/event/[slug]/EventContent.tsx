@@ -662,13 +662,14 @@ function EventContentInner({ event }: { event: Event }) {
                 <section className="mb-8">
                   <h2 className="font-heading text-xl font-semibold mb-3">📚 Daftar Pustaka</h2>
                   <ol style={{ listStyle: 'none', padding: 0 }}>
-                    {event.sumber.map((s, i) => (
+                    {/* Sources from events-database.json — See: docs/README.md */}
+                    {event.sources.map((s: { title?: string; author?: string }, i: number) => (
                       <li key={i} id={`ref-${i + 1}`} style={{
                         fontSize: 13, color: 'var(--text-secondary)', marginBottom: 8,
                         paddingLeft: 24, position: 'relative', lineHeight: 1.6,
                       }}>
                         <span style={{ position: 'absolute', left: 0, fontWeight: 700, color: 'var(--text-primary)' }}>{i + 1}.</span>
-                        {s}
+                        {s.title} — {s.author}
                       </li>
                     ))}
                   </ol>

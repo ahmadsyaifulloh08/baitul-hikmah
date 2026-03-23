@@ -59,7 +59,7 @@ if (fs.existsSync(contentDir)) {
           entry[key] = stripped
         }
       }
-      // Skip other files (no more metadata.json in event folders)
+      // Skip other files (no more events-database.json in event folders)
     }
     
     if (Object.keys(entry).length > 0) {

@@ -161,7 +161,7 @@ CHECKLIST SITASI:
 - Renderer auto-converts ke: `<sup><a href="#ref-1">1</a></sup>` (clickable)
 - **Multiple citations**: `^4^5` → rendered sebagai `⁴ ⁵` (dipisah spasi, standar sitasi akademis)
 - **Heading level**: Renderer support `##` (h2), `###` (h3), dan `####` (h4)
-- Daftar pustaka HANYA dari markdown content (bukan dari JSON `event.sumber`)
+- Daftar pustaka HANYA dari markdown content (bukan dari JSON `event.sources`)
 - **Setiap paragraf fakta historis HARUS punya minimal 1 sitasi** — paragraf tanpa sitasi = klaim tanpa sumber
 
 ---
@@ -218,7 +218,7 @@ Setiap slide children mode **WAJIB** memiliki brief ilustrasi. Lihat `docs/illus
 
 ## 6. Data Consistency — JSON ↔ Markdown
 
-- `research_agenda.json` (`event.sumber[]`) = versi ringkas
+- `events-database.json` (`event.sources[]`) = versi ringkas
 - Markdown `## Daftar Pustaka` = versi lengkap
 - **Keduanya HARUS sinkron**
 - Ketika rich content tersedia → halaman detail pakai markdown saja (cegah duplikasi)
@@ -374,7 +374,7 @@ Researcher output → qa-content.py audit
 - [ ] Hadits: nomor hadits + kitab/bab
 - [ ] Referensi format: `— QS. [Nama] (nomor): ayat` / `— HR [Perawi], no. [nomor], [Kitab]`
 - [ ] Setiap blockquote ada keterangan sumber di baris terakhir
-- [ ] JSON `event.sumber[]` sinkron dengan markdown
+- [ ] JSON `event.sources[]` sinkron dengan markdown
 - [ ] Diksi sesuai panduan (Section 8)
 - [ ] Tidak ada artefak: `>`, `<`, `*`, `|` yang tidak ter-render
 - [ ] Markdown `# Judul` ada (metadata) tapi di-skip renderer
@@ -393,8 +393,8 @@ Researcher output → qa-content.py audit
 
 ### D. Data Sync
 - [ ] `docs/content/events/` = `projects/baitul-hikmah/content/events/` (identik)
-- [ ] `event-content.json` di-rebuild
-- [ ] `research_agenda.json` — figures + sumber sinkron
+- [ ] `event-content-map.json` di-rebuild
+- [ ] `events-database.json` — figures + sumber sinkron
 
 ---
 
@@ -479,8 +479,8 @@ node -e "..." content/events/{event}/children-id.md
 - [ ] **Safe zone** — subjects centered 70%
 
 ### D. Build & Data
-- [ ] **`node scripts/build-content.js`** → rebuild `event-content.json`
-- [ ] **Rebuild `event-content-map.json`** dari event-content.json
+- [ ] **`node scripts/build-content.js`** → rebuild `event-content-map.json`
+- [ ] **Rebuild `event-content-map.json`** dari event-content-map.json
 - [ ] **Kedua JSON committed** — CF Pages hanya run `next build`
 - [ ] **`next build` success** — no errors
 
