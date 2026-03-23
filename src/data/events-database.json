@@ -266,7 +266,8 @@
         "Muslim — Sumber Primer",
         "Ibn Sa'd — Sumber Primer",
         "Al-Quran al-Karim — Al-Quran al-Karim. QS Al-Fil (105:1-5)"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e02",
@@ -298,7 +299,8 @@
         "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd",
         "Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain. — Al-Bayhaqi",
         "Ibn Qayyim al-Jauziyyah, Syamsuddin. — Ibn Qayyim al-Jauziyyah"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e03",
@@ -322,7 +324,8 @@
         "Al-Sirah al-Nabawiyyah — Ibn Hisham",
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Sunan al-Tirmidzi — Al-Tirmidzi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e04",
@@ -345,7 +348,8 @@
         "Al-Thabaqat al-Kubra — Ibn Sa'd",
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Shahih al-Bukhari — Al-Bukhari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e05",
@@ -367,7 +371,8 @@
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Akhbar Makkah wa Ma Ja'a fiha min al-Atsar — Al-Azraqi",
         "Shahih al-Bukhari — Al-Bukhari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e06",
@@ -391,7 +396,8 @@
         "Al-Sirah al-Nabawiyyah — Ibn Hisham",
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Fath al-Bari Syarh Shahih al-Bukhari — Ibn Hajar al-Asqalani"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e07",
@@ -416,7 +422,8 @@
         "Al-Sirah al-Nabawiyyah — Ibn Hisham",
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Al-Thabaqat al-Kubra — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e08",
@@ -437,7 +444,8 @@
         "Shahih al-Bukhari — Al-Bukhari",
         "Al-Sirah al-Nabawiyyah — Ibn Hisham",
         "Tafsir al-Qur'an al-'Azhim — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e108",
@@ -462,7 +470,8 @@
         "Al-Thabaqat al-Kubra — Ibn Sa'd",
         "Al-Ishabah fi Tamyiz al-Shahabah — Ibn Hajar al-Asqalani",
         "Musnad Ahmad — Ahmad bin Hanbal"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e09",
@@ -485,7 +494,8 @@
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Musnad Ahmad — Ahmad bin Hanbal",
         "Al-Thabaqat al-Kubra — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e10",
@@ -508,7 +518,8 @@
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Al-Thabaqat al-Kubra — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e11",
@@ -533,7 +544,8 @@
         "Shahih al-Bukhari — Al-Bukhari",
         "Al-Thabaqat al-Kubra — Ibn Sa'd",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e12",
@@ -559,7 +571,8 @@
         "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tafsir al-Thabari — Al-Thabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e13",
@@ -583,7 +596,8 @@
         "Al-Thabaqat al-Kubra — Ibn Sa'd",
         "Shahih al-Bukhari — Al-Bukhari",
         "Tafsir al-Thabari — Al-Thabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e14",
@@ -604,7 +618,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e15",
@@ -626,7 +641,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e16",
@@ -647,7 +663,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd",
         "Abu Ubayd al-Qasim bin Sallam. — Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e17",
@@ -668,7 +685,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e18",
@@ -689,7 +707,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim",
         "Ibn Kathir, Ismail bin Umar. — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e19",
@@ -712,7 +731,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e20",
@@ -735,7 +755,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e21",
@@ -757,7 +778,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e22",
@@ -778,7 +800,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e23",
@@ -802,7 +825,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e24",
@@ -824,7 +848,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e25",
@@ -845,7 +870,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — Al-Waqidi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e26",
@@ -868,7 +894,8 @@
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e27",
@@ -889,7 +916,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e28",
@@ -910,7 +938,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e109",
@@ -936,7 +965,8 @@
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e29",
@@ -957,7 +987,8 @@
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e30",
@@ -979,7 +1010,8 @@
         "Al-Mubarakfuri, Shafiyyurrahman. — Al-Mubarakfuri",
         "Ahmad bin Hanbal. — Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e31",
@@ -1002,7 +1034,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Ibn Hisham, Abu Muhammad Abdul Malik. — Ibn Hisham",
         "Ibn Sa'd, Abu Abdullah Muhammad. — Ibn Sa'd"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e32",
@@ -1023,7 +1056,8 @@
         "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
         "Ibn Kathir, Ismail bin Umar. — Ibn Kathir",
         "Ibn al-Jawzi, Abdurrahman bin Ali. — Ibn al-Jawzi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e33",
@@ -1045,7 +1079,8 @@
         "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
         "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir",
         "Al-Baladhuri, Ahmad bin Yahya. — Al-Baladhuri"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e110",
@@ -1068,7 +1103,8 @@
         "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
         "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir",
         "Ibn Kathir, Ismail bin Umar. — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e34",
@@ -1091,7 +1127,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — Al-Bukhari",
         "Al-Suyuti, Jalal al-Din Abdurrahman. — Al-Suyuti",
         "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e111",
@@ -1113,7 +1150,8 @@
         "Al-Baladhuri, Ahmad bin Yahya. — Al-Baladhuri",
         "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — Al-Tabari",
         "Ibn al-Athir, Izz al-Din Abu al-Hasan. — Ibn al-Athir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e35",
@@ -1137,7 +1175,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
         "Ibn al-Jawzi, Abu al-Faraj. — Ibn al-Jawzi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e36",
@@ -1158,7 +1197,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e37",
@@ -1180,7 +1220,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e38",
@@ -1201,7 +1242,8 @@
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman. — Ibn Abd al-Hakam",
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e107",
@@ -1228,7 +1270,8 @@
         "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — Al-Bukhari",
         "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim",
         "Al-Tirmidzi, Abu Isa Muhammad. — Al-Tirmidzi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e39",
@@ -1251,7 +1294,8 @@
         "Al-Suyuti, Jalaluddin Abdurrahman. — Al-Suyuti",
         "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman. — Ibn Abi Dawud",
         "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e40",
@@ -1275,7 +1319,8 @@
         "Al-Radhi, Syarif Abu al-Hasan Muhammad. — Al-Radhi",
         "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — Al-Bukhari",
         "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — Muslim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e41",
@@ -1297,7 +1342,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn al-Athir, Izzuddin Abu al-Hasan Ali. — Ibn al-Athir",
         "Nasr ibn Muzahim al-Minqari. — Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e42",
@@ -1318,7 +1364,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
         "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e43",
@@ -1339,7 +1386,8 @@
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Ibn al-Athir, Izz al-Din. — Ibn al-Athir",
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e44",
@@ -1361,7 +1409,8 @@
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir",
         "Abu Mikhnaf, Lut ibn Yahya. — Abu Mikhnaf"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e45",
@@ -1382,7 +1431,8 @@
         "Mujir al-Din al-Hanbali, Abu al-Yumn. — Mujir al-Din al-Hanbali",
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn Kathir, Ismail ibn Umar. — Ibn Kathir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e46",
@@ -1404,7 +1454,8 @@
         "Ibn al-Qifti, Jamal al-Din. — Ibn al-Qifti",
         "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim. — Ibn Abi Usaybi'ah",
         "Ibn al-Nadim, Abu al-Faraj Muhammad. — Ibn al-Nadim"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e47",
@@ -1426,7 +1477,8 @@
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Al-Maqqari, Ahmad ibn Muhammad. — Al-Maqqari",
         "Ibn al-Athir, Izz al-Din. — Ibn al-Athir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e112",
@@ -1448,7 +1500,8 @@
         "Ali ibn Muhammad al-Kufi. — Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
         "Al-Baladhuri, Ahmad ibn Yahya. — Al-Baladhuri",
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e48",
@@ -1469,7 +1522,8 @@
         "Ibn Abd al-Hakam, Abdullah. — Ibn Abd al-Hakam",
         "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — Al-Tabari",
         "Ibn al-Jawzi, Abu al-Faraj. — Ibn al-Jawzi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e113",
@@ -1491,7 +1545,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Futuh al-Buldan — Al-Baladhuri"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e49",
@@ -1513,7 +1568,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Nafh al-Tib — Al-Maqqari",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e114",
@@ -1536,7 +1592,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Muruj al-Dzahab — Al-Mas'udi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e50",
@@ -1558,7 +1615,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e115",
@@ -1580,7 +1638,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Muruj al-Dzahab — Al-Mas'udi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e51",
@@ -1601,7 +1660,8 @@
         "Tarikh Baghdad — Al-Khatib al-Baghdadi",
         "Wafayat al-A'yan — Ibn Khallikan",
         "Al-Intiqaa — Ibn Abd al-Barr"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e52",
@@ -1622,7 +1682,8 @@
         "Al-Muwatta — Imam Malik",
         "Tartib al-Madarik — Al-Qadhi 'Iyadh",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e53",
@@ -1643,7 +1704,8 @@
         "Tadzkirat al-Auliya — Fariduddin Attar",
         "Al-Risala al-Qushayriyya — Al-Qushayri",
         "Sifat al-Safwa — Ibn al-Jawzi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e54",
@@ -1677,7 +1739,8 @@
         "Unknown_18, [Karya yang disebutkan dalam teks]. — Unknown_18",
         "Al-Khatib al-Baghdadi, [Karya yang disebutkan dalam teks]. — Al-Khatib al-Baghdadi",
         "Al-Athir, [Karya yang disebutkan dalam teks]. — Al-Athir"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e55",
@@ -1699,7 +1762,8 @@
         "Al-Risala — Imam al-Shafi'i",
         "Wafayat al-A'yan — Ibn Khallikan",
         "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e56",
@@ -1721,7 +1785,8 @@
         "Al-Fihrist — Ibn al-Nadim",
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e57",
@@ -1744,7 +1809,8 @@
         "Elements — Euclid.",
         "Brahmasphutasiddhanta — Brahmagupta.",
         "Kitab al-Jabr wa al-Muqabalah — Al-Khwarizmi"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e58",
@@ -1765,7 +1831,8 @@
         "Rasail al-Kindi al-Falsafiyyah — Al-Kindi",
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Al-Fihrist — Ibn al-Nadim"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e59",
@@ -1786,7 +1853,8 @@
         "Al-Musnad — Imam Ahmad",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi",
         "Siyar A'lam al-Nubala — Al-Dzahabi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e60",
@@ -1807,7 +1875,8 @@
         "Al-Risala al-Qushayriyya — Al-Qushayri",
         "Al-Luma' — Al-Sarraj",
         "Tabaqat al-Sufiyyah — Al-Sulami"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e61",
@@ -1829,7 +1898,8 @@
         "Akhbar al-Hallaj — berbagai perawi",
         "Al-Risala al-Qushayriyya — Al-Qushayri",
         "Tadzkirat al-Auliya — Fariduddin Attar"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e62",
@@ -1850,7 +1920,8 @@
         "Rawd al-Qirtas — Ibn Abi Zar'",
         "Al-Istiqsa — Al-Nasiri",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e63",
@@ -1872,7 +1943,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Al-Dhakhira fi Mahasin Ahl al-Jazira — Ibn Bassam",
         "Tarikh Iftitah al-Andalus — Ibn al-Quthiyyah"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e64",
@@ -1893,7 +1965,8 @@
         "Itti'az al-Hunafa — Al-Maqrizi",
         "Al-Khitat — Al-Maqrizi",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e65",
@@ -1914,7 +1987,8 @@
         "Tahqiq ma li al-Hind — Al-Biruni",
         "Al-Qanun al-Mas'udi — Al-Biruni",
         "Tarikh al-Hukama — Ibn al-Qifti"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e66",
@@ -1936,7 +2010,8 @@
         "Tarikh-e Yamini — Al-Utbi",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tahqiq ma li al-Hind — Al-Biruni"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e67",
@@ -1957,7 +2032,8 @@
         "Kitab al-Manazir — Ibn al-Haytham",
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Uyun al-Anba — Ibn Abi Usaybi'ah"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e68",
@@ -1979,7 +2055,8 @@
         "Al-Qanun fi al-Tibb — Ibn Sina",
         "Al-Shifa — Ibn Sina",
         "Uyun al-Anba — Ibn Abi Usaybi'ah"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e69",
@@ -2000,7 +2077,8 @@
         "Siyasat-Nama — Nizam al-Mulk",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Baghdad — Al-Khatib al-Baghdadi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e116",
@@ -2022,7 +2100,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Siyasatnama — Nizam al-Mulk"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e70",
@@ -2043,7 +2122,8 @@
         "Al-Ghunya li Thalibi Thariq al-Haqq — Abdul Qadir al-Jilani",
         "Futuh al-Ghaib — Abdul Qadir al-Jilani",
         "Qalaid al-Jawahir — Al-Tadifi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e84",
@@ -2064,7 +2144,8 @@
         "Prasasti Leran / Batu Nisan Fatimah binti Maimun — Sumber Primer",
         "Islam Nusantara — Azyumardi Azra",
         "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e71",
@@ -2085,7 +2166,8 @@
         "Ihya Ulum al-Din — Al-Ghazali",
         "Al-Munqidh min al-Dalal — Al-Ghazali",
         "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e72",
@@ -2104,7 +2186,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e118",
@@ -2125,7 +2208,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e119",
@@ -2148,7 +2232,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Barq al-Shami — Imad al-Din al-Isfahani",
         "Al-Rawdatayn — Abu Shamah"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e120",
@@ -2171,7 +2256,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Tarikh Dimashq — Ibn al-Qalanisi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e73",
@@ -2193,7 +2279,8 @@
         "Al-Futuhat al-Makkiyyah — Ibn Arabi",
         "Fushush al-Hikam — Ibn Arabi",
         "Al-Risala al-Qushayriyya — Al-Qushayri"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e85",
@@ -2215,7 +2302,8 @@
         "Al-Nawader al-Sultaniyyah — Ibn Shaddad",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e74",
@@ -2236,7 +2324,8 @@
         "Tahafut al-Tahafut — Ibn Rushd",
         "Fasl al-Maqal — Ibn Rushd",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e117",
@@ -2259,7 +2348,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Nawādir al-Sultaniyya — Baha al-Din ibn Shaddad",
         "Al-Fath al-Qussi — Imad al-Din al-Isfahani"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e75",
@@ -2305,7 +2395,8 @@
         "Ibn Qudamah, [Karya yang disebutkan dalam teks]. — Ibn Qudamah",
         "Unknown_44, [Karya yang disebutkan dalam teks]. — Unknown_44",
         "Unknown_45, [Karya yang disebutkan dalam teks]. — Unknown_45"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e121",
@@ -2328,7 +2419,8 @@
         "Al-Nawader al-Sultaniyyah — Ibn Shaddad",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e122",
@@ -2350,7 +2442,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e76",
@@ -2371,7 +2464,8 @@
         "Kitab fi Ma'rifat al-Hiyal al-Handasiyya — Al-Jazari",
         "Tarikh al-Hukama — Ibn al-Qifti",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e86",
@@ -2392,7 +2486,8 @@
         "Taj al-Ma'athir — Hasan Nizami",
         "Tabaqat-i Nasiri — Minhaj al-Siraj Juzjani",
         "Tarikh-i Firoz Shahi — Ziauddin Barani"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e77",
@@ -2415,7 +2510,8 @@
         "Diwan-e Shams-e Tabrizi — Jalaluddin Rumi",
         "Fihi Ma Fihi — Jalaluddin Rumi",
         "Manaqib al-Arifin — Aflaki"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e123",
@@ -2438,7 +2534,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e124",
@@ -2460,7 +2557,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Mir'at al-Zaman — Sibt ibn al-Jawzi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e78",
@@ -2481,7 +2579,8 @@
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Nafh al-Tib — Al-Maqqari",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e125",
@@ -2505,7 +2604,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Subh al-A'sha — Al-Qalqashandi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e87",
@@ -2524,7 +2624,8 @@
         "Zhu Fan Zhi (Deskripsi Bangsa-Bangsa Barbar) — Zhao Rukuo",
         "Song Shi (Sejarah Dinasti Song) — Sumber Primer",
         "Islam in China — Marshall Broomhall"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e79",
@@ -2561,7 +2662,8 @@
         "Unknown_44, [Karya yang disebutkan dalam teks]. — Unknown_44",
         "Unknown_46, [Karya yang disebutkan dalam teks]. — Unknown_46",
         "Unknown_50, [Karya yang disebutkan dalam teks]. — Unknown_50"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e88",
@@ -2583,7 +2685,8 @@
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e127",
@@ -2605,7 +2708,8 @@
         "Al-Rawdh al-Zahir — Ibn Abd al-Zahir",
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e126",
@@ -2629,7 +2733,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e128",
@@ -2650,7 +2755,8 @@
         "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
         "Nihayat al-Arab fi Funun al-Adab — Al-Nuwayri",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e80",
@@ -2671,7 +2777,8 @@
         "Majmu' al-Fatawa — Ibn Taimiyah",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Siyar A'lam al-Nubala — Al-Dzahabi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e89",
@@ -2694,7 +2801,8 @@
         "Il Milione — Marco Polo",
         "Hikayat Raja-Raja Pasai — Sumber Primer",
         "Sejarah Melayu — Tun Sri Lanang"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e90",
@@ -2716,7 +2824,8 @@
         "Yuan Shi (Sejarah Dinasti Yuan) — Sumber Primer",
         "Huihui Yaofang (Resep Obat Muslim) — Sumber Primer",
         "Islam in China — Marshall Broomhall"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e91",
@@ -2740,7 +2849,8 @@
         "Rihlah (Tuhfat al-Nuzzar) — Ibn Battuta",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Wafayat al-A'yan — Ibn Khallikan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e92",
@@ -2762,7 +2872,8 @@
         "Zafarnama — Sharaf al-Din Ali Yazdi",
         "Tuzuk-i Timuri (Institutes of Timur) — Sumber Primer",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e81",
@@ -2783,7 +2894,8 @@
         "Muqaddimah — Ibn Khaldun",
         "Kitab al-Ibar — Ibn Khaldun",
         "Al-Ta'rif bi Ibn Khaldun — Ibn Khaldun"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e93",
@@ -2804,7 +2916,8 @@
         "Sejarah Melayu — Tun Sri Lanang",
         "The Suma Oriental — Tomé Pires",
         "Ma Huan — Ying-yai Sheng-lan"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e94",
@@ -2826,7 +2939,8 @@
         "Ying-yai Sheng-lan — Ma Huan",
         "Ming Shi — Zhang Tingyu",
         "Zheng He Hanghai Tu (Peta Pelayaran Zheng He) — Sumber Primer"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e95",
@@ -2855,7 +2969,8 @@
         "Babad Tanah Jawi — Sumber Primer",
         "Serat Walisana — Sumber Primer",
         "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e96",
@@ -2876,7 +2991,8 @@
         "Babad Tanah Jawi — Sumber Primer",
         "Serat Kanda — Sumber Primer",
         "Pararaton"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e82",
@@ -2902,7 +3018,8 @@
         "The Ornament of the World — Maria Rosa Menocal",
         "Islamic Spain, 1250-1500 — L.P. Harvey",
         "Moorish Spain — Richard Fletcher"
-      ]
+      ],
+      "status": "published"
     },
     {
       "id": "e83",
@@ -2923,7 +3040,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Tarikh al-Andalus — Ibn al-Kardabus"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e97",
@@ -2944,7 +3062,8 @@
         "Shahih Muslim — Imam Muslim",
         "Sirah Nabawiyyah — Ibn Hisham",
         "Tafsir Ibn Kathir — Surah At-Taubah"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e98",
@@ -2967,7 +3086,8 @@
         "Tarikh al-Madinah al-Munawwarah — Ibn Shabba",
         "Wafa' al-Wafa — Al-Samhudi",
         "Al-Muwatta — Imam Malik"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e99",
@@ -2988,7 +3108,8 @@
         "Al-Uns al-Jalil bi Tarikh al-Quds — Mujir al-Din",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Futuh al-Buldan — Al-Baladhuri"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e100",
@@ -3009,7 +3130,8 @@
         "Tarikh Madinat Dimashq — Ibn Asakir",
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Mu'jam al-Buldan — Yaqut al-Hamawi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e101",
@@ -3030,7 +3152,8 @@
         "Nafh al-Tib — Al-Maqqari",
         "Akhbar Majmu'ah — Anonim",
         "Al-Bayan al-Mughrib — Ibn Idhari"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e102",
@@ -3051,7 +3174,8 @@
         "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
         "Mu'jam al-Buldan — Yaqut al-Hamawi",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e103",
@@ -3073,7 +3197,8 @@
         "Taj al-Ma'athir — Hasan Nizami",
         "Tabaqat-i Nasiri — Minhaj-i Siraj",
         "Tarikh-i Firuz Shahi — Ziauddin Barani"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e104",
@@ -3094,7 +3219,8 @@
         "Tarikh Baghdad — Al-Khatib al-Baghdadi",
         "Al-Kamil fi al-Tarikh — Ibn al-Athir",
         "Mu'jam al-Buldan — Yaqut al-Hamawi"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e105",
@@ -3117,7 +3243,8 @@
         "Al-Ihata fi Akhbar Gharnata — Ibn al-Khatib",
         "Nafh al-Tib — Al-Maqqari",
         "Al-Lamha al-Badriyya — Ibn al-Khatib"
-      ]
+      ],
+      "status": "draft"
     },
     {
       "id": "e106",
@@ -3138,7 +3265,8 @@
         "Tarih-i Ebulfeth — Tursun Beg",
         "Al-Bidayah wa al-Nihayah — Ibn Kathir",
         "Musnad Ahmad — Imam Ahmad"
-      ]
+      ],
+      "status": "draft"
     }
   ],
   "workflow": {

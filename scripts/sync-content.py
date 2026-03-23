@@ -4,7 +4,7 @@ Sync content/events/*.md → src/data/event-content-map.json
 
 SSoT: content/events/{slug}/*.md files
 Output: src/data/event-content-map.json (consumed by EventContent.tsx)
-Slug mapping: src/data/research_agenda.json (event.title → slugified key)
+Slug mapping: src/data/events-database.json (event.title → slugified key)
 
 See: docs/README.md (Content Flow section)
 See: docs/content-style-guide.md (content format rules)
@@ -16,7 +16,7 @@ import json, os, glob, re, sys
 
 EVENTS_DIR = "content/events"
 OUTPUT = "src/data/event-content-map.json"
-AGENDA = "src/data/research_agenda.json"
+AGENDA = "src/data/events-database.json"
 
 def slugify(title):
     s = title.lower()
@@ -43,7 +43,7 @@ for event_dir in sorted(glob.glob(f"{EVENTS_DIR}/e*/")):
     title_slug = id_to_slug.get(eid, "")
     
     if not title_slug:
-        print(f"  WARN: {folder} — no matching event in research_agenda.json")
+        print(f"  WARN: {folder} — no matching event in events-database.json")
         continue
     
     content = {}

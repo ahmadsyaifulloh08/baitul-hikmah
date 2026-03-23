@@ -3,7 +3,7 @@
  *
  * SSoT: content/events/{slug}/*.md
  * Output: src/data/event-content-map.json (consumed by EventContent.tsx)
- * Slug mapping: research_agenda.json (event.title → slugified key)
+ * Slug mapping: events-database.json (event.title → slugified key)
  *
  * See: docs/README.md (Content Flow section)
  * See: docs/content-style-guide.md (content format rules)
@@ -14,7 +14,7 @@ const fs = require('fs')
 const path = require('path')
 
 const contentDir = path.join(__dirname, '..', 'content', 'events')
-const agendaFile = path.join(__dirname, '..', 'src', 'data', 'research_agenda.json')
+const agendaFile = path.join(__dirname, '..', 'src', 'data', 'events-database.json')
 const outFile = path.join(__dirname, '..', 'src', 'data', 'event-content-map.json')
 
 // Load research agenda for slug mapping (folder e-id → title slug)
@@ -41,7 +41,7 @@ if (fs.existsSync(contentDir)) {
     const eid = dir.split('-')[0]
     const titleSlug = idToSlug[eid]
     if (!titleSlug) {
-      console.warn(`  WARN: ${dir} — no matching event in research_agenda.json`)
+      console.warn(`  WARN: ${dir} — no matching event in events-database.json`)
       continue
     }
 

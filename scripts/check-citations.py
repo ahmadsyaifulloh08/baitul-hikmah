@@ -12,7 +12,7 @@ Article checks:
 - No double citations without space (^1^2)
 - Every cited ^N must have matching bibliography entry
 
-Card checks (research_agenda.json sumber field):
+Card checks (events-database.json sumber field):
 - Format: "Title — Author" (no markdown asterisks)
 - No duplicated names (same string both sides of separator)
 - No empty entries
@@ -67,7 +67,7 @@ def check_article(filepath):
 
 # ─── Card Pustaka Check ──────────────────────────────────────────
 
-def check_cards(agenda_path="src/data/research_agenda.json"):
+def check_cards(agenda_path="src/data/events-database.json"):
     with open(agenda_path) as f:
         data = json.load(f)
     
@@ -148,7 +148,7 @@ if mode in ("all", "cards"):
                 print(f"     {e}")
             total_errors += len(errors)
     else:
-        with open("src/data/research_agenda.json") as f:
+        with open("src/data/events-database.json") as f:
             count = len(json.load(f)["events"])
         print(f"  ✅ All {count} events passed card check")
 

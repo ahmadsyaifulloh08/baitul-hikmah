@@ -13,6 +13,39 @@ Usage: python3 scripts/check-metadata.py [event-slug]
 import os, json, sys, glob
 
 REQUIRED_META_FIELDS = ["id", "title_id", "title_en", "year", "era", "sources"]
+
+# Also check events-database.json status consistency
+def check_status_consistency():
+    """Verify status field matches actual content existence."""
+    import json as _json
+    errors = []
+    db_path = "src/data/events-database.json"
+    if not os.path.exists(db_path):
+        return errors
+    
+    with open(db_path) as f:
+        db = _json.load(f)
+    
+    for ev in db.get("events", []):
+        eid = ev["id"]
+        status = ev.get("status", "draft")
+        
+        # Find content folder
+        content_dirs = glob.glob(f"content/events/{eid}-*/")
+        has_content = False
+        for d in content_dirs:
+            has_general = os.path.exists(f"{d}general-id.md") or os.path.exists(f"{d}general-id.mdx")
+            has_children = os.path.exists(f"{d}children-id.md") or os.path.exists(f"{d}children-id.mdx")
+            if has_general and has_children:
+                has_content = True
+                break
+        
+        if status == "published" and not has_content:
+            errors.append(f"{eid}: status=published but no content files")
+        elif status == "draft" and has_content:
+            errors.append(f"{eid}: status=draft but has content — update to published")
+    
+    return errors
 EXPECTED_FILES = ["general-id", "general-en", "children-id", "children-en"]
 
 def check_event(event_dir):
