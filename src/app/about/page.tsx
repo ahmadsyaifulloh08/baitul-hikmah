@@ -8,7 +8,7 @@ export default function AboutPage() {
     <I18nProvider>
     <main className="min-h-screen bg-[var(--bg-primary)]">
       <Header />
-      <article className="max-w-3xl mx-auto px-4 py-12">
+      <article className="max-w-3xl mx-auto px-4 pt-8 pb-12">
 
         <section className="mb-10">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tentang Baitul Hikmah</h2>
@@ -31,7 +31,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-12 mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Seluruh konten Baitul Hikmah diverifikasi menggunakan metodologi ketat yang mengacu pada
@@ -96,7 +96,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-12 mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Ilustrasi untuk mode anak-anak dibuat menggunakan AI generative art (Gemini) dengan panduan ketat:
@@ -111,7 +111,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mt-12 mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
