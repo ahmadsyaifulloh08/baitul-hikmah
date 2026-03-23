@@ -12,7 +12,9 @@ Usage: python3 scripts/check-metadata.py [event-slug]
 """
 import os, json, sys, glob
 
-REQUIRED_META_FIELDS = ["id", "title_id", "title_en", "year", "era", "sources"]
+# metadata.json no longer exists per event — all data in events-database.json
+# This checker now validates events-database.json entries
+REQUIRED_DB_FIELDS = ["id", "title", "year", "era", "sources", "status"]
 
 # Also check events-database.json status consistency
 def check_status_consistency():
@@ -48,25 +50,29 @@ def check_status_consistency():
     return errors
 EXPECTED_FILES = ["general-id", "general-en", "children-id", "children-en"]
 
-def check_event(event_dir):
+def check_event_db():
+    """Check events-database.json entries."""
+    with open("src/data/events-database.json") as f:
+        db = json.load(f)
+    
+    all_errors = {}
+    for ev in db["events"]:
+        # Draft events only need id, title, year, status
+        is_draft = ev.get("status") == "draft"
+        check_fields = ["id", "title", "year", "status"] if is_draft else REQUIRED_DB_FIELDS
+        
+        errors = []
+        for field in check_fields:
+            if field not in ev or (not ev[field] and ev[field] != 0):
+                errors.append(f"missing field: {field}")
+        if errors:
+            all_errors[ev["id"]] = errors
+    return all_errors
+
+def check_event_content(event_dir):
     slug = os.path.basename(event_dir.rstrip("/"))
-    errors = []
     warnings = []
     
-    # 1. metadata.json exists?
-    meta_path = os.path.join(event_dir, "metadata.json")
-    if not os.path.exists(meta_path):
-        errors.append("NO metadata.json")
-        return errors, warnings
-    
-    # 2. metadata.json has required fields?
-    with open(meta_path) as f:
-        meta = json.load(f)
-    for field in REQUIRED_META_FIELDS:
-        if field not in meta or not meta[field]:
-            errors.append(f"metadata.json missing: {field}")
-    
-    # 3. Content files exist?
     for prefix in EXPECTED_FILES:
         found = False
         for ext in [".md", ".mdx"]:
@@ -76,7 +82,7 @@ def check_event(event_dir):
         if not found:
             warnings.append(f"missing {prefix}.md")
     
-    return errors, warnings
+    return warnings
 
 target = sys.argv[1] if len(sys.argv) > 1 else None
 pattern = f"content/events/{target}/" if target else "content/events/e*/"
@@ -85,22 +91,34 @@ dirs = sorted(glob.glob(pattern))
 total_errors = 0
 total_warnings = 0
 
+# Check events-database.json
+print("── Events Database ──")
+db_errors = check_event_db()
+for eid, errors in db_errors.items():
+    print(f"  ❌ {eid}: {', '.join(errors)}")
+    total_errors += len(errors)
+if not db_errors:
+    import json as _json
+    with open("src/data/events-database.json") as f:
+        count = len(_json.load(f)["events"])
+    print(f"  ✅ All {count} events in database OK")
+
+# Check content files
+print("\n── Content Files ──")
 for d in dirs:
-    errors, warnings = check_event(d)
+    warnings = check_event_content(d)
     slug = os.path.basename(d.rstrip("/"))
-    if errors or warnings:
-        print(f"{'❌' if errors else '⚠️'} {slug}:")
-        for e in errors:
-            print(f"   ❌ {e}")
-        for w in warnings:
-            print(f"   ⚠️ {w}")
-        total_errors += len(errors)
+    if warnings:
+        print(f"  ⚠️ {slug}: {', '.join(warnings)}")
         total_warnings += len(warnings)
 
-if total_errors == 0 and total_warnings == 0:
-    print(f"✅ All {len(dirs)} events passed metadata check")
-elif total_errors == 0:
-    print(f"\n⚠️ {total_warnings} warnings in {len(dirs)} events (no errors)")
-else:
-    print(f"\n❌ {total_errors} errors, ⚠️ {total_warnings} warnings in {len(dirs)} events")
+if total_warnings == 0:
+    print(f"  ✅ All {len(dirs)} event folders have complete content")
+
+if total_errors > 0:
+    print(f"\n❌ {total_errors} errors")
     sys.exit(1)
+elif total_warnings > 0:
+    print(f"\n⚠️ {total_warnings} warnings (non-blocking)")
+else:
+    print(f"\n✅ All metadata checks passed")

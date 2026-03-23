@@ -11,7 +11,7 @@ export interface Event {
   desc: string
   figures: string[]
   significance: string
-  sumber: string[]
+  sources: { id: string; title: string; author: string; type: string }[]
 }
 
 export interface Era {

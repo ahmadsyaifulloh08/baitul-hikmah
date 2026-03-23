@@ -258,15 +258,91 @@
         "Halimah al-Sa'diyyah"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Tafsir al-Quran al-Azhim — Ibn Kathir",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Tahun Gajah dan Kelahiran Nabi Muhammad SAW",
+      "title_en": "The Year of the Elephant and the Birth of Prophet Muhammad ﷺ",
+      "location": "Makkah, Jazirah Arab",
+      "tags": [
+        "tahun-gajah",
+        "amul-fil",
+        "kelahiran-nabi",
+        "abrahah",
+        "kaabah",
+        "surah-al-fil",
+        "pra-islam",
+        "makkah",
+        "quraisy"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "rahiq-makhtum",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "tafsir-ibn-kathir",
+          "title": "Tafsir al-Quran al-Azhim",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "shahih-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "shahih-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "tabaqat-ibn-sad",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Nabi Muhammad SAW",
+          "name_en": "Prophet Muhammad ﷺ",
+          "role": "protagonist"
+        },
+        {
+          "name_id": "Abdullah bin Abdul Muthalib",
+          "name_en": "Abdullah ibn Abd al-Muttalib",
+          "role": "father"
+        },
+        {
+          "name_id": "Aminah binti Wahb",
+          "name_en": "Aminah bint Wahb",
+          "role": "mother"
+        },
+        {
+          "name_id": "Abdul Muthalib",
+          "name_en": "Abd al-Muttalib",
+          "role": "grandfather"
+        },
+        {
+          "name_id": "Abrahah al-Asyram",
+          "name_en": "Abraha al-Ashram",
+          "role": "antagonist"
+        },
+        {
+          "name_id": "Halimah as-Sa'diyyah",
+          "name_en": "Halimah al-Sa'diyyah",
+          "role": "wet-nurse"
+        }
+      ]
     },
     {
       "id": "e02",
@@ -290,16 +366,112 @@
         "Jibril"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd",
-        "Dalail al-Nubuwwah — Al-Bayhaqi",
-        "Zad al-Ma'ad — Ibn Qayyim al-Jauziyyah"
+      "status": "published",
+      "title_id": "Yatim Piatu: Wafat Ayah, Ibu, dan Kakek Nabi Muhammad SAW",
+      "title_en": "Orphanhood: The Death of the Father, Mother, and Grandfather of Prophet Muhammad ﷺ",
+      "location": "Makkah - Madinah, Jazirah Arab",
+      "tags": [
+        "yatim-piatu",
+        "orphanhood",
+        "abdullah-bin-abdul-muthalib",
+        "aminah-binti-wahab",
+        "abdul-muthalib",
+        "halimah-sadiyah",
+        "abu-thalib",
+        "bani-sad",
+        "penyusuan",
+        "wet-nursing",
+        "abwa",
+        "ummu-aiman",
+        "surah-ad-dhuha",
+        "syaqq-al-shadr"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "rahiq-makhtum",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "shahih-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "shahih-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "tabaqat-ibn-sad",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "dalail-bayhaqi",
+          "title": "Dalail al-Nubuwwah",
+          "author": "Al-Bayhaqi",
+          "type": "primary"
+        },
+        {
+          "id": "zad-al-maad",
+          "title": "Zad al-Ma'ad",
+          "author": "Ibn Qayyim al-Jauziyyah",
+          "type": "primary"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Muhammad ﷺ",
+          "name_en": "Muhammad ﷺ",
+          "role": "Nabi & Rasul / Prophet & Messenger"
+        },
+        {
+          "name_id": "Abdullah bin Abdul Muthalib",
+          "name_en": "Abdullah ibn Abd al-Muttalib",
+          "role": "Ayah Nabi / Prophet's Father"
+        },
+        {
+          "name_id": "Aminah binti Wahab",
+          "name_en": "Aminah bint Wahb",
+          "role": "Ibu Nabi / Prophet's Mother"
+        },
+        {
+          "name_id": "Abdul Muthalib bin Hasyim",
+          "name_en": "Abd al-Muttalib ibn Hashim",
+          "role": "Kakek Nabi / Prophet's Grandfather"
+        },
+        {
+          "name_id": "Halimah As-Sa'diyah",
+          "name_en": "Halimah al-Sa'diyyah",
+          "role": "Ibu Susu / Wet-nurse"
+        },
+        {
+          "name_id": "Abu Thalib bin Abdul Muthalib",
+          "name_en": "Abu Talib ibn Abd al-Muttalib",
+          "role": "Paman & Pengasuh / Uncle & Guardian"
+        },
+        {
+          "name_id": "Ummu Aiman (Barakah)",
+          "name_en": "Umm Ayman (Barakah)",
+          "role": "Pengasuh setia / Faithful caretaker"
+        },
+        {
+          "name_id": "Al-Harits bin Abdul Uzza",
+          "name_en": "Al-Harith ibn Abd al-Uzza",
+          "role": "Suami Halimah / Halimah's husband"
+        }
+      ]
     },
     {
       "id": "e03",
@@ -319,12 +491,35 @@
         "Pendeta Bahira"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Sunan al-Tirmidzi — Al-Tirmidzi"
+      "status": "published",
+      "title_id": "Perjalanan Dagang ke Syam",
+      "title_en": "The Trading Journey to Syria",
+      "location": "Makkah - Busra",
+      "tags": [
+        "perjalanan",
+        "syam"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-tirmidzi",
+          "title": "Sunan al-Tirmidzi",
+          "author": "Al-Tirmidzi",
+          "type": "hadith"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e04",
@@ -342,13 +537,73 @@
         "Khadijah binti Khuwaylid"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari"
+      "status": "published",
+      "title_id": "Pernikahan dengan Khadijah binti Khuwaylid",
+      "title_en": "The Marriage to Khadijah bint Khuwaylid",
+      "location": "Makkah, Jazirah Arab",
+      "tags": [
+        "pernikahan",
+        "khadijah",
+        "khadijah-binti-khuwaylid",
+        "makkah",
+        "pra-kenabian",
+        "abu-thalib",
+        "nafisah",
+        "maysarah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Nabi Muhammad SAW",
+          "name_en": "Prophet Muhammad ﷺ",
+          "role": "protagonist"
+        },
+        {
+          "name_id": "Khadijah binti Khuwaylid",
+          "name_en": "Khadijah bint Khuwaylid",
+          "role": "wife"
+        },
+        {
+          "name_id": "Maysarah",
+          "name_en": "Maysarah",
+          "role": "servant"
+        },
+        {
+          "name_id": "Nafisah binti Munyah",
+          "name_en": "Nafisah bint Munyah",
+          "role": "matchmaker"
+        },
+        {
+          "name_id": "Abu Thalib",
+          "name_en": "Abu Talib",
+          "role": "uncle"
+        }
+      ]
     },
     {
       "id": "e05",
@@ -365,13 +620,41 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Akhbar Makkah wa Ma Ja'a fiha min al-Atsar — Al-Azraqi",
-        "Shahih al-Bukhari — Al-Bukhari"
+      "status": "published",
+      "title_id": "Renovasi Ka'bah dan Hajar Aswad",
+      "title_en": "The Renovation of Ka'bah",
+      "location": "Makkah",
+      "tags": [
+        "renovasi",
+        "kabah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-azraqi",
+          "title": "Akhbar Makkah wa Ma Ja'a fiha min al-Atsar",
+          "author": "Al-Azraqi",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e06",
@@ -389,14 +672,47 @@
         "Jibril AS"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Fath al-Bari Syarh Shahih al-Bukhari — Ibn Hajar al-Asqalani"
+      "status": "published",
+      "title_id": "Wahyu Pertama di Gua Hira",
+      "title_en": "The First Revelation at Cave Hira",
+      "location": "Gua Hira, Makkah",
+      "tags": [
+        "wahyu",
+        "pertama"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hajar-al-asqalani",
+          "title": "Fath al-Bari Syarh Shahih al-Bukhari",
+          "author": "Ibn Hajar al-Asqalani",
+          "type": "hadith"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e07",
@@ -417,12 +733,35 @@
         "Zaid bin Haritsah"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Dakwah Sembunyi-Sembunyi",
+      "title_en": "The Secret Preaching",
+      "location": "Makkah",
+      "tags": [
+        "dakwah",
+        "sembunyi"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e08",
@@ -439,12 +778,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Tafsir al-Qur'an al-'Azhim — Ibn Kathir"
+      "status": "published",
+      "title_id": "Dakwah Terang-Terangan",
+      "title_en": "The Open Preaching",
+      "location": "Makkah",
+      "tags": [
+        "dakwah",
+        "terang"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Tafsir al-Qur'an al-'Azhim",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e108",
@@ -463,14 +825,46 @@
         "Umayyah bin Khalaf"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd",
-        "Al-Ishabah fi Tamyiz al-Shahabah — Ibn Hajar al-Asqalani",
-        "Musnad Ahmad — Ahmad bin Hanbal"
+      "status": "published",
+      "title_id": "Bilal bin Rabah - Muadzin Pertama",
+      "title_en": "Bilal - The First Muezzin",
+      "location": "Makkah - Madinah",
+      "tags": [
+        "bilal"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hajar-al-asqalani",
+          "title": "Al-Ishabah fi Tamyiz al-Shahabah",
+          "author": "Ibn Hajar al-Asqalani",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-bin-hanbal",
+          "title": "Musnad Ahmad",
+          "author": "Ahmad bin Hanbal",
+          "type": "hadith"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e09",
@@ -488,13 +882,41 @@
         "Raja Najasyi"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Musnad Ahmad — Ahmad bin Hanbal",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Hijrah ke Habasyah",
+      "title_en": "The Migration to Abyssinia",
+      "location": "Habasyah",
+      "tags": [
+        "hijrah",
+        "habasyah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-bin-hanbal",
+          "title": "Musnad Ahmad",
+          "author": "Ahmad bin Hanbal",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e10",
@@ -512,13 +934,40 @@
         "Abu Thalib"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Pemboikotan Bani Hasyim",
+      "title_en": "The Boycott of Banu Hashim",
+      "location": "Makkah",
+      "tags": [
+        "pemboikotan"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e11",
@@ -537,14 +986,47 @@
         "Abu Thalib"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      "status": "published",
+      "title_id": "Tahun Kesedihan",
+      "title_en": "The Year of Sorrow",
+      "location": "Makkah",
+      "tags": [
+        "amul",
+        "huzn"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e12",
@@ -563,15 +1045,53 @@
         "Jibril AS"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Tafsir al-Thabari — Al-Thabari"
+      "status": "published",
+      "title_id": "Isra Mi'raj",
+      "title_en": "The Night Journey and Ascension",
+      "location": "Makkah - Yerusalem",
+      "tags": [
+        "isra",
+        "miraj"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "al-thabari",
+          "title": "Tafsir al-Thabari",
+          "author": "Al-Thabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e13",
@@ -588,15 +1108,53 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Thabaqat al-Kubra — Ibn Sa'd",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Tafsir al-Thabari — Al-Thabari"
+      "status": "published",
+      "title_id": "Baiat Aqabah Pertama",
+      "title_en": "The First Pledge of Aqabah",
+      "location": "Aqabah, Mina",
+      "tags": [
+        "baiat",
+        "aqabah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "al-thabari",
+          "title": "Tafsir al-Thabari",
+          "author": "Al-Thabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e14",
@@ -613,12 +1171,36 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Baiat Aqabah Kedua",
+      "title_en": "The Second Pledge of Aqabah",
+      "location": "Aqabah, Mina",
+      "tags": [
+        "baiat",
+        "aqabah",
+        "kedua"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e15",
@@ -636,12 +1218,35 @@
         "Abu Bakr as-Siddiq"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari"
+      "status": "published",
+      "title_id": "Hijrah ke Madinah",
+      "title_en": "The Migration to Madinah",
+      "location": "Makkah - Madinah",
+      "tags": [
+        "hijrah",
+        "madinah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e16",
@@ -658,12 +1263,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd",
-        "Abu Ubayd al-Qasim bin Sallam — Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr"
+      "status": "published",
+      "title_id": "Piagam Madinah",
+      "title_en": "The Constitution of Madinah",
+      "location": "Madinah",
+      "tags": [
+        "piagam",
+        "madinah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "-abu-ubayd-al-qasim-bin-sallam",
+          "title": "Abu Ubayd al-Qasim bin Sallam",
+          "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e17",
@@ -680,12 +1308,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari"
+      "status": "published",
+      "title_id": "Pembangunan Masjid Nabawi",
+      "title_en": "The Construction of Masjid Nabawi",
+      "location": "Madinah",
+      "tags": [
+        "masjid",
+        "nabawi"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e18",
@@ -702,12 +1353,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      "status": "published",
+      "title_id": "Perubahan Arah Kiblat",
+      "title_en": "The Change of Qiblah Direction",
+      "location": "Madinah",
+      "tags": [
+        "perubahan",
+        "kiblat"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e19",
@@ -726,12 +1400,35 @@
         "Ali ibn Abi Thalib"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
+      "status": "published",
+      "title_id": "Perang Badr",
+      "title_en": "The Battle of Badr",
+      "location": "Badr, Hijaz",
+      "tags": [
+        "perang",
+        "badr"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e20",
@@ -750,12 +1447,35 @@
         "Khalid ibn al-Walid"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
+      "status": "published",
+      "title_id": "Perang Uhud",
+      "title_en": "The Battle of Uhud",
+      "location": "Gunung Uhud, Madinah",
+      "tags": [
+        "perang",
+        "uhud"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e21",
@@ -773,12 +1493,35 @@
         "Salman al-Farisi"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Kitab al-Maghazi — Al-Waqidi"
+      "status": "published",
+      "title_id": "Perang Khandaq",
+      "title_en": "The Battle of the Trench",
+      "location": "Madinah",
+      "tags": [
+        "perang",
+        "khandaq"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-waqidi",
+          "title": "Kitab al-Maghazi",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e22",
@@ -795,12 +1538,34 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri"
+      "status": "published",
+      "title_id": "Perjanjian Hudaibiyah",
+      "title_en": "The Treaty of Hudaybiyyah",
+      "location": "Hudaibiyah",
+      "tags": [
+        "hudaibiyah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e23",
@@ -820,12 +1585,36 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "medium",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Surat Dakwah kepada Raja-Raja",
+      "title_en": "Letters to the Kings",
+      "location": "Madinah",
+      "tags": [
+        "surat",
+        "dakwah",
+        "raja"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e24",
@@ -843,12 +1632,35 @@
         "Ali ibn Abi Thalib"
       ],
       "significance": "medium",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Kitab al-Maghazi — Al-Waqidi"
+      "status": "published",
+      "title_id": "Perang Khaibar",
+      "title_en": "The Battle of Khaybar",
+      "location": "Khaibar",
+      "tags": [
+        "perang",
+        "khaibar"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-waqidi",
+          "title": "Kitab al-Maghazi",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e25",
@@ -865,12 +1677,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Kitab al-Maghazi — Al-Waqidi"
+      "status": "published",
+      "title_id": "Umrah Qadha",
+      "title_en": "The Compensatory Umrah",
+      "location": "Makkah",
+      "tags": [
+        "umrah",
+        "qadha"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-waqidi",
+          "title": "Kitab al-Maghazi",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e26",
@@ -888,13 +1723,41 @@
         "Khalid ibn al-Walid"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Fath Makkah",
+      "title_en": "The Conquest of Makkah",
+      "location": "Makkah",
+      "tags": [
+        "fath",
+        "makkah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e27",
@@ -911,12 +1774,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari"
+      "status": "published",
+      "title_id": "Penghancuran Berhala di Ka'bah",
+      "title_en": "The Destruction of Idols",
+      "location": "Makkah",
+      "tags": [
+        "penghancuran",
+        "berhala"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e28",
@@ -933,12 +1819,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Perang Hunain",
+      "title_en": "The Battle of Hunayn",
+      "location": "Lembah Hunain",
+      "tags": [
+        "perang",
+        "hunain"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e109",
@@ -959,13 +1868,41 @@
         "Ka'b bin Malik"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Perang Tabuk",
+      "title_en": "The Battle of Tabuk",
+      "location": "Tabuk",
+      "tags": [
+        "perang",
+        "tabuk"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e29",
@@ -982,12 +1919,35 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Tahun Delegasi",
+      "title_en": "The Year of Delegations",
+      "location": "Madinah",
+      "tags": [
+        "amul",
+        "wufud"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e30",
@@ -1004,13 +1964,41 @@
         "Nabi Muhammad SAW"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih Muslim — Muslim",
-        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
-        "Ahmad bin Hanbal — Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham"
+      "status": "published",
+      "title_id": "Haji Wada",
+      "title_en": "The Farewell Pilgrimage",
+      "location": "Makkah - Arafah",
+      "tags": [
+        "haji",
+        "wada"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "-al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ahmad-bin-hanbal-----al-musna",
+          "title": "Ahmad bin Hanbal",
+          "author": "Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e31",
@@ -1029,12 +2017,35 @@
         "Aisyah binti Abu Bakr"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd"
+      "status": "published",
+      "title_id": "Wafat Rasulullah SAW",
+      "title_en": "The Passing of Prophet Muhammad",
+      "location": "Madinah",
+      "tags": [
+        "wafat",
+        "rasulullah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e32",
@@ -1051,12 +2062,36 @@
         "Abu Bakr as-Siddiq"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
+      "status": "published",
+      "title_id": "Abu Bakar as-Siddiq Menjadi Khalifah",
+      "title_en": "Abu Bakr Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "abu",
+        "bakr",
+        "khalifah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-jawzi",
+          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e33",
@@ -1074,12 +2109,35 @@
         "Khalid ibn al-Walid"
       ],
       "significance": "medium",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "Futuh al-Buldan — Al-Baladhuri"
+      "status": "published",
+      "title_id": "Perang Riddah",
+      "title_en": "The Wars of Apostasy",
+      "location": "Jazirah Arab",
+      "tags": [
+        "perang",
+        "riddah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e110",
@@ -1098,12 +2156,35 @@
         "Wahsyi bin Harb"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      "status": "published",
+      "title_id": "Perang Yamamah",
+      "title_en": "The Battle of Yamamah",
+      "location": "Yamamah",
+      "tags": [
+        "perang",
+        "yamamah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e34",
@@ -1122,12 +2203,35 @@
         "Zaid ibn Tsabit"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Itqan fi Ulum al-Quran — Al-Suyuti",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      "status": "published",
+      "title_id": "Pengumpulan Mushaf Al-Quran",
+      "title_en": "The Compilation of the Quran Manuscript",
+      "location": "Madinah",
+      "tags": [
+        "pengumpulan",
+        "mushaf"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-suyuti",
+          "title": "Al-Itqan fi Ulum al-Quran",
+          "author": "Al-Suyuti",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e111",
@@ -1145,12 +2249,35 @@
         "Amr ibn al-Ash"
       ],
       "significance": "high",
-      "sumber": [
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      "status": "published",
+      "title_id": "Pertempuran Ajnadayn",
+      "title_en": "The Battle of Ajnadayn",
+      "location": "Ajnadayn, Palestina",
+      "tags": [
+        "pertempuran",
+        "ajnadayn"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e35",
@@ -1170,12 +2297,35 @@
         "Umar ibn al-Khattab"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
+      "status": "published",
+      "title_id": "Umar bin Khattab Menjadi Khalifah",
+      "title_en": "Umar Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "umar",
+        "khalifah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-jawzi",
+          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e36",
@@ -1192,12 +2342,35 @@
         "Sa'ad ibn Abi Waqqas"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      "status": "published",
+      "title_id": "Pertempuran Qadisiyyah",
+      "title_en": "The Battle of Qadisiyyah",
+      "location": "Qadisiyyah, Irak",
+      "tags": [
+        "pertempuran",
+        "qadisiyyah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e37",
@@ -1215,12 +2388,35 @@
         "Patriark Sophronius"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      "status": "published",
+      "title_id": "Penaklukan Yerusalem",
+      "title_en": "The Conquest of Jerusalem",
+      "location": "Yerusalem",
+      "tags": [
+        "penaklukan",
+        "yerusalem"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e38",
@@ -1237,12 +2433,35 @@
         "Amr ibn al-Ash"
       ],
       "significance": "medium",
-      "sumber": [
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Futuh Misr — Ibn Abd al-Hakam",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      "status": "published",
+      "title_id": "Penaklukan Mesir",
+      "title_en": "The Conquest of Egypt",
+      "location": "Mesir",
+      "tags": [
+        "penaklukan",
+        "mesir"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-abd-al-hakam",
+          "title": "Futuh Misr",
+          "author": "Ibn Abd al-Hakam",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e107",
@@ -1262,15 +2481,53 @@
         "Utsman ibn Affan"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim",
-        "Sunan al-Tirmidzi — Al-Tirmidzi"
+      "status": "published",
+      "title_id": "Utsman bin Affan Menjadi Khalifah",
+      "title_en": "Uthman Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "utsman",
+        "khalifah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-jawzi",
+          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tirmidzi",
+          "title": "Sunan al-Tirmidzi",
+          "author": "Al-Tirmidzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e39",
@@ -1288,13 +2545,41 @@
         "Zaid ibn Tsabit"
       ],
       "significance": "high",
-      "sumber": [
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Al-Itqan fi Ulum al-Quran — Al-Suyuti",
-        "Kitab al-Masahif — Ibn Abi Dawud",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Standardisasi Mushaf",
+      "title_en": "The Standardization of the Quran",
+      "location": "Madinah",
+      "tags": [
+        "standardisasi",
+        "mushaf"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-al-suyuti",
+          "title": "Al-Itqan fi Ulum al-Quran",
+          "author": "Al-Suyuti",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-abi-dawud",
+          "title": "Kitab al-Masahif",
+          "author": "Ibn Abi Dawud",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e40",
@@ -1312,14 +2597,47 @@
         "Ali ibn Abi Thalib"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Nahj al-Balaghah — Al-Radhi",
-        "Shahih al-Bukhari — Al-Bukhari",
-        "Shahih Muslim — Muslim"
+      "status": "published",
+      "title_id": "Ali bin Abi Thalib Menjadi Khalifah",
+      "title_en": "Ali Becomes Caliph",
+      "location": "Madinah - Kufah",
+      "tags": [
+        "ali",
+        "khalifah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-al-radhi",
+          "title": "Nahj al-Balaghah",
+          "author": "Al-Radhi",
+          "type": "primary"
+        },
+        {
+          "id": "-al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "-muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e41",
@@ -1337,12 +2655,35 @@
         "Muawiyah ibn Abu Sufyan"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "Nasr ibn Muzahim al-Minqari — Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah"
+      "status": "published",
+      "title_id": "Pertempuran Shiffin",
+      "title_en": "The Battle of Siffin",
+      "location": "Shiffin, Syam",
+      "tags": [
+        "pertempuran",
+        "shiffin"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "-nasr-ibn-muzahim-al-minqari--",
+          "title": "Nasr ibn Muzahim al-Minqari",
+          "author": "Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e42",
@@ -1359,12 +2700,35 @@
         "Muawiyah ibn Abu Sufyan"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      "status": "published",
+      "title_id": "Berdirinya Dinasti Umayyah",
+      "title_en": "The Umayyad Dynasty",
+      "location": "Damaskus",
+      "tags": [
+        "dinasti",
+        "umayyah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e43",
@@ -1381,12 +2745,36 @@
         "Uqba ibn Nafi"
       ],
       "significance": "medium",
-      "sumber": [
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      "status": "published",
+      "title_id": "Penaklukan Afrika Utara",
+      "title_en": "The Conquest of North Africa",
+      "location": "Afrika Utara",
+      "tags": [
+        "penaklukan",
+        "afrika",
+        "utara"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e44",
@@ -1404,12 +2792,35 @@
         "Yazid ibn Muawiyah"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
-        "Maqtal al-Husain — Abu Mikhnaf"
+      "status": "published",
+      "title_id": "Tragedi Karbala",
+      "title_en": "The Tragedy of Karbala",
+      "location": "Karbala, Irak",
+      "tags": [
+        "tragedi",
+        "karbala"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "-abu-mikhnaf",
+          "title": "Maqtal al-Husain",
+          "author": "Abu Mikhnaf",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e45",
@@ -1426,12 +2837,37 @@
         "Abdul Malik ibn Marwan"
       ],
       "significance": "medium",
-      "sumber": [
-        "Al-Uns al-Jalil bi Tarikh al-Quds — Mujir al-Din al-Hanbali",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      "status": "published",
+      "title_id": "Pembangunan Dome of the Rock",
+      "title_en": "The Dome of the Rock",
+      "location": "Yerusalem",
+      "tags": [
+        "dome",
+        "of",
+        "the",
+        "rock"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-mujir-al-din-al-hanbali",
+          "title": "Al-Uns al-Jalil bi Tarikh al-Quds",
+          "author": "Mujir al-Din al-Hanbali",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e46",
@@ -1449,12 +2885,35 @@
         "Khalid ibn Yazid"
       ],
       "significance": "medium",
-      "sumber": [
-        "Tarikh al-Hukama — Ibn al-Qifti",
-        "Kitab al-Fihrist — Ibn al-Nadim",
-        "Greek Thought, Arabic Culture — Dimitri Gutas"
+      "status": "published",
+      "title_id": "Gerakan Penerjemahan Besar",
+      "title_en": "The Great Translation Movement",
+      "location": "Baghdad",
+      "tags": [
+        "gerakan",
+        "penerjemahan"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-al-qifti",
+          "title": "Tarikh al-Hukama",
+          "author": "Ibn al-Qifti",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-nadim",
+          "title": "Kitab al-Fihrist",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "gutas",
+          "title": "Greek Thought, Arabic Culture",
+          "author": "Dimitri Gutas",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e47",
@@ -1472,12 +2931,35 @@
         "Musa ibn Nusayr"
       ],
       "significance": "high",
-      "sumber": [
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Nafh al-Tib — Al-Maqqari",
-        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      "status": "published",
+      "title_id": "Penaklukan Andalusia",
+      "title_en": "The Conquest of Andalusia",
+      "location": "Andalusia, Spanyol",
+      "tags": [
+        "penaklukan",
+        "andalus"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-maqqari",
+          "title": "Nafh al-Tib",
+          "author": "Al-Maqqari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-athir",
+          "title": "Al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e112",
@@ -1495,12 +2977,35 @@
         "Raja Dahir"
       ],
       "significance": "high",
-      "sumber": [
-        "Ali ibn Muhammad al-Kufi — Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
-        "Futuh al-Buldan — Al-Baladhuri",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      "status": "published",
+      "title_id": "Penaklukan Sindh",
+      "title_en": "The Conquest of Sindh",
+      "location": "Sindh, Pakistan",
+      "tags": [
+        "penaklukan",
+        "sindh"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ali-ibn-muhammad-al-kufi-----",
+          "title": "Ali ibn Muhammad al-Kufi",
+          "author": "Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
+          "type": "primary"
+        },
+        {
+          "id": "-al-baladhuri",
+          "title": "Futuh al-Buldan",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e48",
@@ -1517,12 +3022,36 @@
         "Umar ibn Abd al-Aziz"
       ],
       "significance": "medium",
-      "sumber": [
-        "Futuh Misr — Ibn Abd al-Hakam",
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Al-Muntazam fi Tarikh al-Umam — Ibn al-Jawzi"
+      "status": "published",
+      "title_id": "Umar bin Abdul Aziz",
+      "title_en": "Umar ibn Abd al-Aziz",
+      "location": "Damaskus",
+      "tags": [
+        "umar",
+        "abdul",
+        "aziz"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "-ibn-abd-al-hakam",
+          "title": "Futuh Misr",
+          "author": "Ibn Abd al-Hakam",
+          "type": "primary"
+        },
+        {
+          "id": "-al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "-ibn-al-jawzi",
+          "title": "Al-Muntazam fi Tarikh al-Umam",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e113",
@@ -1721,19 +3250,77 @@
         "Harun ar-Rashid"
       ],
       "significance": "high",
-      "sumber": [
-        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
-        "Kitab al-Buldan — Al-Ya'qubi",
-        "Tarikh Baghdad — Al-Khatib al-Baghdadi",
-        "Muruj al-Dhahab wa Ma'adin al-Jawhar — Al-Mas'udi",
-        "Kitab al-Fihrist — Ibn al-Nadim",
-        "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus — Hunayn ibn Ishaq",
-        "al-Bayan wa al-Tabyin — Al-Jahiz",
-        "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58 — Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
-        "Fi al-Falsafah al-Ula — Al-Kindi",
-        "Tarikh Baghdad — Al-Khatib al-Baghdadi"
+      "status": "published",
+      "title_id": "Baitul Hikmah",
+      "title_en": "The House of Wisdom",
+      "location": "Baghdad",
+      "tags": [
+        "baitul",
+        "hikmah"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-ya-qubi",
+          "title": "Kitab al-Buldan",
+          "author": "Al-Ya'qubi",
+          "type": "primary"
+        },
+        {
+          "id": "al-khatib-al-baghdadi",
+          "title": "Tarikh Baghdad",
+          "author": "Al-Khatib al-Baghdadi",
+          "type": "primary"
+        },
+        {
+          "id": "al-mas-udi",
+          "title": "Muruj al-Dhahab wa Ma'adin al-Jawhar",
+          "author": "Al-Mas'udi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-nadim",
+          "title": "Kitab al-Fihrist",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "hunayn-ibn-ishaq-",
+          "title": "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus",
+          "author": "Hunayn ibn Ishaq",
+          "type": "primary"
+        },
+        {
+          "id": "al-jahiz",
+          "title": "al-Bayan wa al-Tabyin",
+          "author": "Al-Jahiz",
+          "type": "primary"
+        },
+        {
+          "id": "al-qur-an-al-karim--qs--taha--",
+          "title": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58",
+          "author": "Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
+          "type": "primary"
+        },
+        {
+          "id": "al-kindi",
+          "title": "Fi al-Falsafah al-Ula",
+          "author": "Al-Kindi",
+          "type": "primary"
+        },
+        {
+          "id": "al-khatib-al-baghdadi",
+          "title": "Tarikh Baghdad",
+          "author": "Al-Khatib al-Baghdadi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e55",
@@ -1796,14 +3383,47 @@
         "Al-Khwarizmi"
       ],
       "significance": "high",
-      "sumber": [
-        "Kitab al-Fihrist — Ibn al-Nadim",
-        "Kitab al-Hind — Al-Biruni",
-        "Elements — Euclid",
-        "Brahmasphutasiddhanta — Brahmagupta",
-        "Kitab al-Jabr wa al-Muqabalah — Al-Khwarizmi"
+      "status": "published",
+      "title_id": "Al-Khwarizmi - Bapak Aljabar",
+      "title_en": "Al-Khwarizmi - Father of Algebra",
+      "location": "Baghdad",
+      "tags": [
+        "al",
+        "khwarizmi"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-al-nadim",
+          "title": "Kitab al-Fihrist",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "al-biruni",
+          "title": "Kitab al-Hind",
+          "author": "Al-Biruni",
+          "type": "primary"
+        },
+        {
+          "id": "euclid-",
+          "title": "Elements",
+          "author": "Euclid",
+          "type": "primary"
+        },
+        {
+          "id": "brahmagupta-",
+          "title": "Brahmasphutasiddhanta",
+          "author": "Brahmagupta",
+          "type": "primary"
+        },
+        {
+          "id": "al-khwarizmi",
+          "title": "Kitab al-Jabr wa al-Muqabalah",
+          "author": "Al-Khwarizmi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e58",
@@ -2360,20 +3980,83 @@
         "Salahuddin al-Ayyubi"
       ],
       "significance": "high",
-      "sumber": [
-        "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah — Baha al-Din ibn Shaddad",
-        "al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani",
-        "Historia Rerum in Partibus Transmarinis Gestarum — William of Tyre",
-        "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah — Ibn Shaddad",
-        "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2) — Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
-        "al-Adab al-Mufrad — Al-Bukhari",
-        "Al-Fath al-Qussi — Al-Din al-Isfahani",
-        "Al-Quran al-Karim — Wahyu Ilahi",
-        "Al-Nawadir al-Sultaniyyah — Ibn Shaddad",
-        "Al-Mughni — Ibn Qudamah"
+      "status": "published",
+      "title_id": "Salahuddin Merebut Yerusalem",
+      "title_en": "Saladin Recaptures Jerusalem",
+      "location": "Yerusalem",
+      "tags": [
+        "salahuddin",
+        "yerusalem"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "baha-al-din-ibn-shaddad-",
+          "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+          "author": "Baha al-Din ibn Shaddad",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "imad-al-din-al-isfahani-",
+          "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
+          "author": "Imad al-Din al-Isfahani",
+          "type": "primary"
+        },
+        {
+          "id": "william-of-tyre-",
+          "title": "Historia Rerum in Partibus Transmarinis Gestarum",
+          "author": "William of Tyre",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-shaddad",
+          "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+          "author": "Ibn Shaddad",
+          "type": "primary"
+        },
+        {
+          "id": "al-qur-an-al-karim--qs--al-isr",
+          "title": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2)",
+          "author": "Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "al-Adab al-Mufrad",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "al-din-al-isfahani",
+          "title": "Al-Fath al-Qussi",
+          "author": "Al-Din al-Isfahani",
+          "type": "primary"
+        },
+        {
+          "id": "al-qur-an-al-karim-",
+          "title": "Al-Quran al-Karim",
+          "author": "Wahyu Ilahi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-shaddad",
+          "title": "Al-Nawadir al-Sultaniyyah",
+          "author": "Ibn Shaddad",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-qudamah",
+          "title": "Al-Mughni",
+          "author": "Ibn Qudamah",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e121",
@@ -2620,19 +4303,77 @@
         "Al-Musta'sim"
       ],
       "significance": "high",
-      "sumber": [
-        "al-Kamil fi al-Tarikh — Ibn al-Athir",
-        "Jami' al-Tawarikh — Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
-        "Tarikh al-Islam — Al-Dhahabi",
-        "Majmu' al-Fatawa — Ibn Taymiyyah",
-        "The Mongols — Morgan",
-        "The Mongols and the West, 1221-1410 — Jackson",
-        "The Mongol Conquests in World History — May",
-        "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): — Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
-        "Al-Suluk — Al-Maqrizi",
-        "Al-Quran al-Karim — Wahyu Ilahi"
+      "status": "published",
+      "title_id": "Jatuhnya Baghdad",
+      "title_en": "The Fall of Baghdad",
+      "location": "Baghdad",
+      "tags": [
+        "jatuhnya",
+        "baghdad"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-al-athir",
+          "title": "al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "rashid-al-din-hamadani---jami-",
+          "title": "Jami' al-Tawarikh",
+          "author": "Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
+          "type": "primary"
+        },
+        {
+          "id": "al-dhahabi",
+          "title": "Tarikh al-Islam",
+          "author": "Al-Dhahabi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-taymiyyah",
+          "title": "Majmu' al-Fatawa",
+          "author": "Ibn Taymiyyah",
+          "type": "primary"
+        },
+        {
+          "id": "morgan",
+          "title": "The Mongols",
+          "author": "Morgan",
+          "type": "primary"
+        },
+        {
+          "id": "jackson",
+          "title": "The Mongols and the West, 1221-1410",
+          "author": "Jackson",
+          "type": "primary"
+        },
+        {
+          "id": "may",
+          "title": "The Mongol Conquests in World History",
+          "author": "May",
+          "type": "primary"
+        },
+        {
+          "id": "al-qur-an-al-karim--qs--ar-ra-",
+          "title": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8):",
+          "author": "Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
+          "type": "primary"
+        },
+        {
+          "id": "al-maqrizi",
+          "title": "Al-Suluk",
+          "author": "Al-Maqrizi",
+          "type": "primary"
+        },
+        {
+          "id": "al-qur-an-al-karim-",
+          "title": "Al-Quran al-Karim",
+          "author": "Wahyu Ilahi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e88",
@@ -2980,15 +4721,53 @@
         "Isabella I"
       ],
       "significance": "high",
-      "sumber": [
-        "al-Ihata fi Akhbar Gharnata — Ibn al-Khatib",
-        "Nafh al-Tib min Ghusn al-Andalus al-Ratib — Al-Maqqari",
-        "Crónica de los Reyes Católicos — Hernando del Pulgar",
-        "The Ornament of the World — Maria Rosa Menocal",
-        "Islamic Spain, 1250-1500 — L.P. Harvey",
-        "Moorish Spain — Richard Fletcher"
+      "status": "published",
+      "title_id": "Jatuhnya Granada",
+      "title_en": "The Fall of Granada",
+      "location": "Granada, Spanyol",
+      "tags": [
+        "jatuhnya",
+        "granada"
       ],
-      "status": "published"
+      "sources": [
+        {
+          "id": "ibn-al-khatib",
+          "title": "al-Ihata fi Akhbar Gharnata",
+          "author": "Ibn al-Khatib",
+          "type": "primary"
+        },
+        {
+          "id": "al-maqqari",
+          "title": "Nafh al-Tib min Ghusn al-Andalus al-Ratib",
+          "author": "Al-Maqqari",
+          "type": "primary"
+        },
+        {
+          "id": "hernando-del-pulgar",
+          "title": "Crónica de los Reyes Católicos",
+          "author": "Hernando del Pulgar",
+          "type": "primary"
+        },
+        {
+          "id": "maria-rosa-menocal",
+          "title": "The Ornament of the World",
+          "author": "Maria Rosa Menocal",
+          "type": "primary"
+        },
+        {
+          "id": "l-p--harvey",
+          "title": "Islamic Spain, 1250-1500",
+          "author": "L.P. Harvey",
+          "type": "primary"
+        },
+        {
+          "id": "richard-fletcher",
+          "title": "Moorish Spain",
+          "author": "Richard Fletcher",
+          "type": "primary"
+        }
+      ],
+      "characters": []
     },
     {
       "id": "e83",

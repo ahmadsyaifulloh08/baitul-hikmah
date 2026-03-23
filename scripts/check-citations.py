@@ -12,10 +12,10 @@ Article checks:
 - No double citations without space (^1^2)
 - Every cited ^N must have matching bibliography entry
 
-Card checks (events-database.json sumber field):
-- Format: "Title — Author" (no markdown asterisks)
-- No duplicated names (same string both sides of separator)
-- No empty entries
+Card checks (events-database.json sources field):
+- Each source must have title and author
+- No asterisks in title/author
+- No duplicated (title == author)
 - Min 3 sources per event
 
 See: docs/content-style-guide.md Section 3
@@ -67,32 +67,38 @@ def check_article(filepath):
 
 # ─── Card Pustaka Check ──────────────────────────────────────────
 
-def check_cards(agenda_path="src/data/events-database.json"):
-    with open(agenda_path) as f:
+def check_cards(db_path="src/data/events-database.json"):
+    with open(db_path) as f:
         data = json.load(f)
     
     all_errors = {}
     for ev in data["events"]:
+        # Skip draft events — no sources expected yet
+        if ev.get("status") == "draft":
+            continue
+        
         errors = []
-        sumber = ev.get("sumber", [])
+        sources = ev.get("sources", [])
         eid = ev["id"]
         
-        if len(sumber) < 3:
-            errors.append(f"only {len(sumber)} sources (min 3)")
+        if len(sources) < 3:
+            errors.append(f"only {len(sources)} sources (min 3)")
         
-        for s in sumber:
-            if "*" in s:
-                errors.append(f"asterisk in: {s[:50]}")
+        for s in sources:
+            title = s.get("title", "")
+            author = s.get("author", "")
             
-            parts = s.split(" — ")
-            if len(parts) == 2 and parts[0].strip() == parts[1].strip():
-                errors.append(f"duplicated name: {s[:50]}")
+            if "*" in title or "*" in author:
+                errors.append(f"asterisk in: {title} / {author}")
             
-            if " — " not in s and len(s) > 10:
-                errors.append(f"no separator: {s[:50]}")
+            if title and author and title == author:
+                errors.append(f"duplicated: title == author ({title})")
             
-            if not s.strip():
-                errors.append("empty entry")
+            if not title:
+                errors.append(f"empty title for author: {author}")
+            
+            if not author:
+                errors.append(f"empty author for title: {title}")
         
         if errors:
             all_errors[eid] = errors
@@ -150,7 +156,7 @@ if mode in ("all", "cards"):
     else:
         with open("src/data/events-database.json") as f:
             count = len(json.load(f)["events"])
-        print(f"  ✅ All {count} events passed card check")
+        print(f"  ✅ All {count} events passed sources check")
 
 # Summary
 if total_errors == 0:
