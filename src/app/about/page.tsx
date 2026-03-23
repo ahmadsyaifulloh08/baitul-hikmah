@@ -4,10 +4,14 @@
  * See: docs/content-style-guide.md (methodology basis)
  * See: docs/README.md (project overview)
  */
+'use client'
+
 import Header from '@/components/Header'
+import { I18nProvider } from '@/i18n/context'
 
 export default function AboutPage() {
   return (
+    <I18nProvider>
     <main className="min-h-screen bg-[var(--bg-primary)]">
       <Header />
       <article className="max-w-3xl mx-auto px-4 py-12">
@@ -142,5 +146,6 @@ export default function AboutPage() {
 
       </article>
     </main>
+    </I18nProvider>
   )
 }
