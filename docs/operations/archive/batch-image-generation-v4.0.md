@@ -1,8 +1,8 @@
 # Batch Image Generation Workflow v4
 
-> **Status: ✅ PROVEN** (2026-03-23) — v4.1: Clear folder + md5 verify
-> **Created**: 2026-03-22 | **Updated**: 2026-03-23
-> **Based on**: v3 lessons + E04 session + E05 duplicate bug fix
+> **Status: ✅ PROVEN** (2026-03-22) — Smooth sequential flow via PinchTab
+> **Created**: 2026-03-22
+> **Based on**: v3 lessons + working session E04
 
 ---
 
@@ -13,7 +13,7 @@
 | Chat strategy | Placeholder chats [1]-[16] | **New Chat per slide** (navigate fresh each time) |
 | Placeholder chats | Required, slide N = chat [N] | **Not used for generation** — old history causes snapshot hang |
 | Navigate | Stay in Gemini | **Navigate fresh** `gemini.google.com/app` between each slide |
-| Download verify | `ls -t \| head -1` (buggy, grabs old file) | **v4.1: Clear folder + wait for ANY file + md5 duplicate check** |
+| Download verify | `ls -t \| head -1` (buggy, grabs old file) | **Before/After filename comparison** (waits for NEW file) |
 | Sidebar | Toggle Main Menu | **Skip sidebar** — use fresh page textbox directly |
 | Timing | Wait 5s before send | **Wait 7s** before send (safer margin) |
 
@@ -33,13 +33,11 @@
 
 1. **New Chat per slide** — navigate fresh to `gemini.google.com/app` each time
 2. **Wait 7 seconds** after typing before clicking Send
-3. **CLEAR downloads folder** before each slide — `rm -f /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png`
+3. **Before/After download** — record latest file BEFORE download, wait until NEW file appears
 4. **Lightbox download** — hover → click image → lightbox opens → click "Download full size image"
-5. **Wait for file + verify size** — file must be >1MB (Gemini images are ~9MB)
-6. **md5 duplicate check** — compare against all previous slides, re-generate if duplicate
-7. **Close lightbox** before next slide
-8. **Max 750 chars per prompt** — Gemini UI hides Send button beyond this. Sweet spot: 650-750 chars
-9. **Compress after download** — Gemini raw = ~9MB. Target: 1-2MB via sharp resize + PNG compression
+5. **Close lightbox** before next slide
+6. **Max 750 chars per prompt** — Gemini UI hides Send button beyond this. Sweet spot: 650-750 chars
+7. **Compress after download** — Gemini raw = ~9MB. Target: 1-2MB via sharp resize + PNG compression
 
 ## Batch & QA Flow
 
@@ -134,11 +132,11 @@ Send prompt files to Ahmad for approval before generation.
 
 ## Workflow per Slide
 
-### Flow (v4.1 — proven, copy-paste safe):
+### Flow (proven, copy-paste safe):
 
 ```bash
-# 0. CLEAR downloads folder (v4.1 — prevents stale file race)
-rm -f /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png
+BEFORE_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png 2>/dev/null | head -1)
+echo "Before: $(basename $BEFORE_FILE)"
 
 # 1. Navigate fresh
 bash /workspace/scripts/pinchtab.sh nav "https://gemini.google.com/app" 2>/dev/null; sleep 5
@@ -193,31 +191,19 @@ for n in json.load(sys.stdin).get('nodes',[]):
 ")
 bash /workspace/scripts/pinchtab.sh click "$DL"
 
-# 7. Wait for file in EMPTY folder (v4.1 — no ambiguity)
-for i in $(seq 1 30); do
+# 7. Wait for NEW file (before/after comparison)
+for i in $(seq 1 20); do
     sleep 3
-    NEW_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png 2>/dev/null | head -1)
-    if [ -n "$NEW_FILE" ]; then
-        SIZE=$(stat -c%s "$NEW_FILE" 2>/dev/null || stat -f%z "$NEW_FILE" 2>/dev/null)
-        if [ "$SIZE" -gt 1000000 ] 2>/dev/null; then
-            cp "$NEW_FILE" /workspace/tmp/{event}-slide-{NN}.png
-            echo "SAVED: $(basename $NEW_FILE) ($((SIZE/1048576))MB)"
-            break
-        fi
-        echo "File incomplete ($SIZE bytes)..."
+    AFTER_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png 2>/dev/null | head -1)
+    if [ "$AFTER_FILE" != "$BEFORE_FILE" ]; then
+        cp "$AFTER_FILE" /workspace/tmp/{event}-slide-{NN}.png
+        echo "SAVED: $(basename $AFTER_FILE)"
+        break
     fi
     echo "Wait... ($i)"
 done
 
-# 8. md5 duplicate check (v4.1)
-NEW_MD5=$(md5sum /workspace/tmp/{event}-slide-{NN}.png | cut -d' ' -f1)
-for prev in /workspace/tmp/{event}-slide-*.png; do
-    [ "$prev" = "/workspace/tmp/{event}-slide-{NN}.png" ] && continue
-    PREV_MD5=$(md5sum "$prev" 2>/dev/null | cut -d' ' -f1)
-    [ "$NEW_MD5" = "$PREV_MD5" ] && echo "⚠️ DUPLICATE! Same as $(basename $prev) — RE-GENERATE!"
-done
-
-# 9. Close lightbox
+# 8. Close lightbox
 bash /workspace/scripts/pinchtab.sh snap 2>/dev/null | python3 -c "
 import sys,json
 for n in json.load(sys.stdin).get('nodes',[]):
@@ -226,8 +212,12 @@ for n in json.load(sys.stdin).get('nodes',[]):
 echo "=== DONE ==="
 ```
 
-### Multi-slide batch:
-No special handling needed between slides — each slide clears the folder fresh.
+### Multi-slide batch (chain slides sequentially):
+
+Between slides, update `BEFORE_FILE` to the latest downloaded file:
+```bash
+BEFORE_FILE="$AFTER_FILE"  # or re-read: BEFORE_FILE=$(ls -t ... | head -1)
+```
 
 ---
 
@@ -301,56 +291,33 @@ Create an image: Warm watercolor storybook illustration for children age 6-12. [
 
 ---
 
-## Download Verification (CRITICAL — v4.1 UPDATE)
+## Download Verification (CRITICAL)
 
-### The bugs (v4.0):
-1. `ls -t | head -1` returns same file if download hasn't completed
-2. **Before/After filename comparison STILL races** — download from slide N arrives AFTER slide N+1 starts, so slide N+1 picks up the wrong file
+**The bug**: `ls -t | head -1` returns the same file if download hasn't completed yet, causing duplicate saves.
 
-### The fix (v4.1): CLEAR + WAIT + VERIFY
+**The fix**: Before/After filename comparison.
 
-**Before EACH slide generation**, clear the downloads folder:
 ```bash
-# CLEAR all previous downloads — no stale files to confuse
-rm -f /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png
-```
+# BEFORE download
+BEFORE_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png | head -1)
 
-**After clicking download**, wait for ANY file to appear (not comparison):
-```bash
-# Wait for a NEW file (folder was empty)
-for i in $(seq 1 30); do
+# ... click download ...
+
+# AFTER — loop until NEW file appears
+for i in $(seq 1 20); do
     sleep 3
-    NEW_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png 2>/dev/null | head -1)
-    if [ -n "$NEW_FILE" ]; then
-        # Verify file is complete (size > 1MB for Gemini images)
-        SIZE=$(stat -c%s "$NEW_FILE" 2>/dev/null || stat -f%z "$NEW_FILE" 2>/dev/null)
-        if [ "$SIZE" -gt 1000000 ] 2>/dev/null; then
-            cp "$NEW_FILE" /workspace/tmp/{event}-slide-{NN}.png
-            echo "SAVED: $(basename $NEW_FILE) ($(($SIZE/1048576))MB)"
-            break
-        fi
-        echo "File exists but incomplete ($SIZE bytes)..."
+    AFTER_FILE=$(ls -t /workspace/shared/pinchtab-downloads/Gemini_Generated_Image_*.png | head -1)
+    if [ "$AFTER_FILE" != "$BEFORE_FILE" ]; then
+        # New file! Copy it.
+        break
     fi
-    echo "Wait... ($i)"
 done
 ```
 
-**After saving**, verify uniqueness against previous slides:
+**Between slides**: update `BEFORE_FILE` to prevent stale comparison:
 ```bash
-# Check md5 against all previously saved slides
-NEW_MD5=$(md5sum /workspace/tmp/{event}-slide-{NN}.png | cut -d' ' -f1)
-for prev in /workspace/tmp/{event}-slide-*.png; do
-    [ "$prev" = "/workspace/tmp/{event}-slide-{NN}.png" ] && continue
-    PREV_MD5=$(md5sum "$prev" | cut -d' ' -f1)
-    if [ "$NEW_MD5" = "$PREV_MD5" ]; then
-        echo "⚠️ DUPLICATE detected! Same as $(basename $prev)"
-        echo "RE-GENERATE this slide!"
-    fi
-done
+BEFORE_FILE="$AFTER_FILE"
 ```
-
-### Key principle:
-**Empty folder = no ambiguity.** If a file appears, it MUST be from the current download.
 
 ---
 
@@ -367,10 +334,10 @@ done
 
 ---
 
-## Lessons Learned (from v1-v4)
+## Lessons Learned (from v1-v3)
 
-| Issue | Root Cause | Fix |
-|-------|-----------|-----|
+| Issue | Root Cause | v4 Fix |
+|-------|-----------|--------|
 | Duplicate downloaded files | `ls -t \| head -1` grabs same file | Before/After filename comparison |
 | Placeholder chat context pollution | Old prompts influence new output | Fresh New Chat each time |
 | Snapshot JSON parse error (19K chars) | Heavy chat history | Navigate fresh, skip placeholder chats |
@@ -378,9 +345,6 @@ done
 | Prompt submitted too fast | Brief terpotong | Wait 7s after type, verify Send button exists |
 | Style inconsistency | Missing era/architecture details | Always include "6th century", "mud-brick", "stone walls" |
 | Golden glow too large | No size constraint in prompt | Specify "about 15% of image height" |
-| **Wrong image saved (E05)** | Before/After filename comparison STILL unreliable — download from slide N arrives late, gets picked up by slide N+1 check | **v4.1: Clear downloads folder before each slide + md5 verify** |
-| **Slides look identical** | Stale download from previous slide saved as current | **v4.1: Delete all `Gemini_Generated_Image_*.png` before each download cycle** |
-| **Download timing race** | New file appears but is from PREVIOUS slide download completing late | **v4.1: Isolate each slide — clear folder, generate, wait, download, verify file is unique** |
 
 ---
 
