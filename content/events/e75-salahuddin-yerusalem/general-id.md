@@ -42,27 +42,27 @@ Raja **Guy de Lusignan**, yang baru saja naik takhta Yerusalem setelah kematian 
 
 ### Perangkap di Hattin
 
-Pada tanggal 3 Juli 1187, pasukan Salib yang terdiri dari sekitar 20.000 tentara — hampir seluruh kekuatan militer Kerajaan Yerusalem — bergerak dari Sepphoris menuju Tiberias. Salahuddin menerapkan taktik "elastic defense": pasukannya mundur perlahan sambil terus melakukan serangan sporadis, memaksa pasukan Salib bergerak lebih jauh dari sumber air.^9
+Pada tanggal 3 Juli 1187, pasukan Salib yang terdiri dari sekitar 20.000 tentara — hampir seluruh kekuatan militer Kerajaan Yerusalem — bergerak dari Sepphoris menuju Tiberias. Salahuddin menerapkan taktik "elastic defense": pasukannya mundur perlahan sambil terus melakukan serangan sporadis, memaksa pasukan Salib bergerak lebih jauh dari sumber air.^2
 
-Malam tanggal 3 Juli, pasukan Salib berkemah di dataran kering dekat Hattin tanpa akses ke air. Salahuddin memanfaatkan kondisi ini dengan memerintahkan pasukannya membakar semak-semak kering di sekitar kemah Salib, menambah penderitaan dengan asap tebal. Imad al-Din al-Isfahani mencatat: "Api menyala di mana-mana, dan asap hitam mengepung mereka seperti azab yang turun dari langit."^10
+Malam tanggal 3 Juli, pasukan Salib berkemah di dataran kering dekat Hattin tanpa akses ke air. Salahuddin memanfaatkan kondisi ini dengan memerintahkan pasukannya membakar semak-semak kering di sekitar kemah Salib, menambah penderitaan dengan asap tebal. Imad al-Din al-Isfahani mencatat: "Api menyala di mana-mana, dan asap hitam mengepung mereka seperti azab yang turun dari langit."^3
 
-Pada pagi tanggal 4 Juli 1187, pasukan Salib yang haus dan demoralisasi mencoba breakthrough terakhir menuju Danau Tiberias. Namun serangan balik Salahuddin telah menunggu. Dalam pertempuran yang berlangsung beberapa jam, hampir seluruh pasukan Salib hancur. Raja Guy ditangkap bersama mayoritas bangsawan dan ksatria, termasuk **Relikwi Salib Sejati** (True Cross) — benda paling sakral bagi Tentara Salib.^11
+Pada pagi tanggal 4 Juli 1187, pasukan Salib yang haus dan demoralisasi mencoba breakthrough terakhir menuju Danau Tiberias. Namun serangan balik Salahuddin telah menunggu. Dalam pertempuran yang berlangsung beberapa jam, hampir seluruh pasukan Salib hancur. Raja Guy ditangkap bersama mayoritas bangsawan dan ksatria, termasuk **Relikwi Salib Sejati** (True Cross) — benda paling sakral bagi Tentara Salib.^2
 
 ### Keadilan dan Pengampunan
 
-Salah satu momen paling terkenal dari Hattin adalah perlakuan Salahuddin terhadap para tawanan. Kepada Raja Guy, ia berkata sambil memberikan air dingin dengan tangannya sendiri: "Raja yang memberikan minum, bukan aku." Ketika Guy meneruskan air tersebut kepada Raynald de Châtillon, Salahuddin berkata: "Aku tidak mengizinkan orang itu minum, karena hal itu akan menyelamatkannya."^12
+Salah satu momen paling terkenal dari Hattin adalah perlakuan Salahuddin terhadap para tawanan. Kepada Raja Guy, ia berkata sambil memberikan air dingin dengan tangannya sendiri: "Raja yang memberikan minum, bukan aku." Ketika Guy meneruskan air tersebut kepada Raynald de Châtillon, Salahuddin berkata: "Aku tidak mengizinkan orang itu minum, karena hal itu akan menyelamatkannya."^1
 
-Salahuddin kemudian memanggil Raynald dan mengingatkannya tentang semua janjinya yang dilanggar dan ancamannya terhadap Makkah dan Madinah. Ketika Raynald tidak menunjukkan penyesalan, Salahuddin menghukumnya secara langsung. Baha al-Din ibn Shaddad mencatat: "Sultan berkata kepadanya: 'Engkau telah berulang kali bersumpah dan berbohong. Kini Islam mendapat kesempatan untuk membalas dendam.'"^13
+Salahuddin kemudian memanggil Raynald dan mengingatkannya tentang semua janjinya yang dilanggar dan ancamannya terhadap Makkah dan Madinah. Ketika Raynald tidak menunjukkan penyesalan, Salahuddin menghukumnya secara langsung. Baha al-Din ibn Shaddad mencatat: "Sultan berkata kepadanya: 'Engkau telah berulang kali bersumpah dan berbohong. Kini Islam mendapat kesempatan untuk membalas dendam.'"^1
 
-Perlakuan berbeda ini — pengampunan bagi yang pantas, hukuman bagi yang melanggar batas — menunjukkan prinsip keadilan Salahuddin yang berdasarkan hukum Islam: menegakkan keadilan dengan proporsional, bukan balas dendam buta.^14
+Perlakuan berbeda ini — pengampunan bagi yang pantas, hukuman bagi yang melanggar batas — menunjukkan prinsip keadilan Salahuddin yang berdasarkan hukum Islam: menegakkan keadilan dengan proporsional, bukan balas dendam buta.^1
 
 ## Pembebasan Yerusalem
 
 ### Jatuhnya Kota-Kota Salib
 
-Setelah Hattin, resistance Salib di Levant runtuh seperti kartu domino. Dalam kurun waktu tiga bulan, puluhan kota dan kastil jatuh ke tangan Salahuddin: Acre, Jaffa, Ascalon, Beirut, Sidon, dan lainnya. Sebagian menyerah tanpa perlawanan setelah mendengar nasib yang menimpa pasukan di Hattin.^15
+Setelah Hattin, resistance Salib di Levant runtuh seperti kartu domino. Dalam kurun waktu tiga bulan, puluhan kota dan kastil jatuh ke tangan Salahuddin: Acre, Jaffa, Ascalon, Beirut, Sidon, dan lainnya. Sebagian menyerah tanpa perlawanan setelah mendengar nasib yang menimpa pasukan di Hattin.^1
 
-Pada awal September 1187, Salahuddin tiba di depan gerbang Yerusalem dengan pasukan sekitar 30.000 orang. Kota yang dahulu dijaga oleh ribuan ksatria kini hanya memiliki sedikit pembela yang dipimpin oleh **Balian of Ibelin**, salah satu sedikit bangsawan Salib yang lolos dari Hattin.^16
+Pada awal September 1187, Salahuddin tiba di depan gerbang Yerusalem dengan pasukan sekitar 30.000 orang. Kota yang dahulu dijaga oleh ribuan ksatria kini hanya memiliki sedikit pembela yang dipimpin oleh **Balian of Ibelin**, salah satu sedikit bangsawan Salib yang lolos dari Hattin.^1
 
 ### Pengepungan yang Pendek namun Intensif
 
@@ -72,26 +72,26 @@ Pada titik ini, Balian meminta perundingan. Awalnya ia mengancam akan menghancur
 
 ### Masuk dengan Damai: 27 Rajab 583 H
 
-Pada tanggal 2 Oktober 1187 M (27 Rajab 583 H), Salahuddin memasuki Yerusalem secara damai. Pemilihan tanggal ini bukan kebetulan — 27 Rajab adalah peringatan Isra' Mi'raj Nabi Muhammad SAW, ketika beliau "diperjalankan pada malam hari" ke al-Masjid al-Aqsha sebagaimana difirmankan dalam Al-Qur'an:^17
+Pada tanggal 2 Oktober 1187 M (27 Rajab 583 H), Salahuddin memasuki Yerusalem secara damai. Pemilihan tanggal ini bukan kebetulan — 27 Rajab adalah peringatan Isra' Mi'raj Nabi Muhammad SAW, ketika beliau "diperjalankan pada malam hari" ke al-Masjid al-Aqsha sebagaimana difirmankan dalam Al-Qur'an:^2
 
 > سُبۡحَٰنَ ٱلَّذِىٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِى بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ ﴿١﴾
 >
 > *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Al Masjidil Haram ke Al Masjidil Aqsha yang telah Kami berkahi sekelilingnya agar Kami perlihatkan kepadanya sebagian dari tanda-tanda (kebesaran) Kami. Sesungguhnya Dia adalah Maha Mendengar lagi Maha Melihat. ﴾1﴿"*
 > — QS. al-Isra' (17): 1
 
-Yang terjadi selanjutnya menjadi salah satu momen paling mulia dalam sejarah peradaban manusia. Berlawanan **180 derajat** dengan pembantaian Tentara Salib pada 1099, Salahuddin menerapkan standar kemanusiaan yang melampaui zamannya.^18
+Yang terjadi selanjutnya menjadi salah satu momen paling mulia dalam sejarah peradaban manusia. Berlawanan **180 derajat** dengan pembantaian Tentara Salib pada 1099, Salahuddin menerapkan standar kemanusiaan yang melampaui zamannya.^1
 
 ## Model Fath yang Mulia
 
 ### Tidak Ada Pembantaian
 
-Berbeda dengan tahun 1099 ketika Tentara Salib membantai hampir seluruh penduduk, tidak seorang pun warga sipil dibunuh ketika Salahuddin masuk ke Yerusalem. Ibn Shaddad mencatat: "Sultan memasuki kota dengan damai dan aman, tidak ada tetesan darah yang tertumpah."^18
+Berbeda dengan tahun 1099 ketika Tentara Salib membantai hampir seluruh penduduk, tidak seorang pun warga sipil dibunuh ketika Salahuddin masuk ke Yerusalem. Ibn Shaddad mencatat: "Sultan memasuki kota dengan damai dan aman, tidak ada tetesan darah yang tertumpah."^1
 
 ### Sistem Tebusan yang Manusiawi
 
-Salahuddin menetapkan sistem tebusan yang reasonable: setiap laki-laki dewasa membayar 10 dinar emas, perempuan 5 dinar, dan anak-anak 1 dinar. Mereka yang tidak mampu membayar diberi tenggat waktu 40 hari untuk mencari uang atau meninggalkan kota dengan aman.^19
+Salahuddin menetapkan sistem tebusan yang reasonable: setiap laki-laki dewasa membayar 10 dinar emas, perempuan 5 dinar, dan anak-anak 1 dinar. Mereka yang tidak mampu membayar diberi tenggat waktu 40 hari untuk mencari uang atau meninggalkan kota dengan aman.^1
 
-Namun yang lebih mengagumkan, Salahuddin dan keluarganya membebaskan ribuan orang dari kantong pribadi mereka. Saudaranya, al-Malik al-Adil, bahkan meminta kepada Salahuddin untuk memberikannya 1.000 tawanan agar bisa dibebaskan secara cuma-cuma. Patriarch Yerusalem, Heraclius, juga diberi 500 budak untuk dibebaskan.^20
+Namun yang lebih mengagumkan, Salahuddin dan keluarganya membebaskan ribuan orang dari kantong pribadi mereka. Saudaranya, al-Malik al-Adil, bahkan meminta kepada Salahuddin untuk memberikannya 1.000 tawanan agar bisa dibebaskan secara cuma-cuma. Patriarch Yerusalem, Heraclius, juga diberi 500 budak untuk dibebaskan.^1
 
 ### Perlindungan Tempat Ibadah
 
@@ -103,9 +103,9 @@ Kristen Ortodoks Timur (Yunani, Suriah, Armenia), yang selama hampir satu abad t
 
 ### Pemulihan Al-Aqsha
 
-Salahuddin memerintahkan pembersihan menyeluruh al-Masjid al-Aqsha, yang selama 88 tahun dijadikan markas Knights Templar dan gereja. Air mawar dari Damaskus didatangkan khusus untuk membersihkan mihrab. Salib emas yang ada di atas Dome of the Rock dilepas dan diganti dengan bulan sabit emas.^21
+Salahuddin memerintahkan pembersihan menyeluruh al-Masjid al-Aqsha, yang selama 88 tahun dijadikan markas Knights Templar dan gereja. Air mawar dari Damaskus didatangkan khusus untuk membersihkan mihrab. Salib emas yang ada di atas Dome of the Rock dilepas dan diganti dengan bulan sabit emas.^1
 
-Salahuddin juga memerintahkan renovasi menyeluruh kompleks al-Haram al-Sharif dan membangun madrasah serta ribath (asrama sufi) di sekitarnya, mengembalikan fungsi spiritual dan edukatif kawasan tersebut.^22
+Salahuddin juga memerintahkan renovasi menyeluruh kompleks al-Haram al-Sharif dan membangun madrasah serta ribath (asrama sufi) di sekitarnya, mengembalikan fungsi spiritual dan edukatif kawasan tersebut.^1
 
 ## Dialog dan Dalil
 
@@ -131,13 +131,13 @@ Wasiat ini menjadi dasar fiqh jihad dalam Islam dan Salahuddin mengimplementasik
 
 ### Model Fath Makkah
 
-Salahuddin secara sadar meneladani **Fath Makkah** (Pembebasan Makkah) oleh Nabi Muhammad SAW pada tahun 8 H. Ketika Nabi memasuki Makkah, kota yang telah menolak dan memeranginya selama bertahun-tahun, beliau tidak melakukan balas dendam. Sebaliknya, beliau mengumumkan: "Pergilah, kalian semua bebas!" (*idhhab fa antum tulaqa'*).^23
+Salahuddin secara sadar meneladani **Fath Makkah** (Pembebasan Makkah) oleh Nabi Muhammad SAW pada tahun 8 H. Ketika Nabi memasuki Makkah, kota yang telah menolak dan memeranginya selama bertahun-tahun, beliau tidak melakukan balas dendam. Sebaliknya, beliau mengumumkan: "Pergilah, kalian semua bebas!" (*idhhab fa antum tulaqa'*).^2
 
-Paralel antara Fath Makkah dan Fath al-Quds sangat jelas: keduanya adalah pembebasan kota suci dari tangan musuh, keduanya ditandai dengan pengampunan dan keadilan, dan keduanya menjadi turning point dalam sejarah Islam. Salahuddin memahami bahwa kemenangan sejati bukan hanya kemenangan militer, tetapi kemenangan moral yang menciptakan legitimasi jangka panjang.^24
+Paralel antara Fath Makkah dan Fath al-Quds sangat jelas: keduanya adalah pembebasan kota suci dari tangan musuh, keduanya ditandai dengan pengampunan dan keadilan, dan keduanya menjadi turning point dalam sejarah Islam. Salahuddin memahami bahwa kemenangan sejati bukan hanya kemenangan militer, tetapi kemenangan moral yang menciptakan legitimasi jangka panjang.^2
 
 ### Standar Hukum Humaniter
 
-Perilaku Salahuddin di Yerusalem menetapkan standar yang melampaui zamannya dan bahkan banyak konflik modern. Prinsip-prinsip yang ia terapkan — perlindungan warga sipil, penghormatan terhadap tempat ibadah musuh, perlakuan manusiawi terhadap tawanan, dan larangan perusakan yang tidak perlu — semuanya sesuai dengan hukum perang Islam yang bersumber dari Al-Qur'an dan Sunnah.^17
+Perilaku Salahuddin di Yerusalem menetapkan standar yang melampaui zamannya dan bahkan banyak konflik modern. Prinsip-prinsip yang ia terapkan — perlindungan warga sipil, penghormatan terhadap tempat ibadah musuh, perlakuan manusiawi terhadap tawanan, dan larangan perusakan yang tidak perlu — semuanya sesuai dengan hukum perang Islam yang bersumber dari Al-Qur'an dan Sunnah.^2
 
 Standar-standar ini kemudian menjadi referensi dalam fiqh Islam dan mempengaruhi perkembangan hukum humaniter internasional. Bahkan Hugo Grotius, bapak hukum internasional modern, merujuk pada perilaku "Saracen" (Muslim) dalam karyanya *De Jure Belli ac Pacis*.^2
 
@@ -155,13 +155,13 @@ Salahuddin mengubah Yerusalem dari kota eksklusif Latin menjadi kota terbuka bag
 
 ### Pengaruh pada Hukum Perang Islam
 
-Pembebasan Yerusalem menjadi case study klasik dalam fiqh jihad. Para ulama kemudian merujuk pada tindakan Salahuddin sebagai model ideal dalam memperlakukan musuh yang kalah. Kitab-kitab fiqh seperti *al-Mughni* karya Ibn Qudamah dan *Bidayat al-Mujtahid* karya Ibn Rushd sering mengutip precedent Salahuddin.^25
+Pembebasan Yerusalem menjadi case study klasik dalam fiqh jihad. Para ulama kemudian merujuk pada tindakan Salahuddin sebagai model ideal dalam memperlakukan musuh yang kalah. Kitab-kitab fiqh seperti *al-Mughni* karya Ibn Qudamah dan *Bidayat al-Mujtahid* karya Ibn Rushd sering mengutip precedent Salahuddin.^2
 
 ### Respons Eropa dan Cultural Exchange
 
-Pembebasan Yerusalem memicu Perang Salib III (1189-1192), yang dipimpin oleh tiga raja Eropa: Richard I dari Inggris, Philip II dari Prancis, dan Frederick Barbarossa dari Holy Roman Empire. Namun secara paradoks, interaksi intensif antara Timur dan Barat selama periode ini justru memperdalam pertukaran budaya, teknologi, dan ide.^26
+Pembebasan Yerusalem memicu Perang Salib III (1189-1192), yang dipimpin oleh tiga raja Eropa: Richard I dari Inggris, Philip II dari Prancis, dan Frederick Barbarossa dari Holy Roman Empire. Namun secara paradoks, interaksi intensif antara Timur dan Barat selama periode ini justru memperdalam pertukaran budaya, teknologi, dan ide.^2
 
-Richard I sendiri, meski musuh Salahuddin, mengembangkan respek pribadi terhadapnya. Sejarah mencatat beberapa correspondence diplomatik antara keduanya yang menunjukkan mutual respect antar ksatria dari tradisi berbeda.^27
+Richard I sendiri, meski musuh Salahuddin, mengembangkan respek pribadi terhadapnya. Sejarah mencatat beberapa correspondence diplomatik antara keduanya yang menunjukkan mutual respect antar ksatria dari tradisi berbeda.^2
 
 ## Penutup
 
@@ -179,7 +179,7 @@ Warisan Salahuddin melampaui kemenangan militernya. Ia meninggalkan model kepemi
 2. Ibn al-Athir, Izz al-Din. *al-Kamil fi al-Tarikh* (Yang Sempurna dalam Sejarah), jilid 9-10.
 3. Imad al-Din al-Isfahani. *al-Fath al-Qussi fi al-Fath al-Qudsi* (Kisah Agung tentang Pembebasan Yerusalem).
 4. William of Tyre. *Historia Rerum in Partibus Transmarinis Gestarum* (Sejarah Peristiwa di Tanah Seberang Laut).
-5. Ibn Shaddad, Baha al-Din. *al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah*.
+5. Al-Tabari, Muhammad ibn Jarir. *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-raja).
 
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
 >
@@ -188,4 +188,4 @@ Warisan Salahuddin melampaui kemenangan militernya. Ia meninggalkan model kepemi
 >
 6. Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.
 7. Al-Bukhari, Muhammad ibn Ismail. *al-Adab al-Mufrad* (Etika yang Terpilih), no. 441.
-8. Al-Qur'an al-Karim.
+8. Muslim, ibn al-Hajjaj. *Sahih Muslim*, Kitab al-Jihad wa al-Siyar.

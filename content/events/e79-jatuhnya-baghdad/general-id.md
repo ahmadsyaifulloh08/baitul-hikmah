@@ -58,29 +58,29 @@ Begitu tembok jebol, tidak ada lagi yang bisa menahan gelombang pasukan Mongol. 
 
 Selama tujuh hari berturut-turut, Baghdad mengalami salah satu pembantaian paling mengerikan dalam sejarah peradaban manusia. Angka korban yang dicatat oleh berbagai kronikawan bervariasi — Ibn Kathir menyebutkan lebih dari satu juta jiwa, Ibn al-Athir memperkirakan 800.000, sementara sumber-sumber lain menyebutkan angka antara 200.000 hingga 2 juta. Meskipun angka pasti tidak dapat diverifikasi, semua sumber sepakat tentang skala pembantaian yang luar biasa.^9
 
-Yang membuat pembantaian ini semakin tragis adalah sistematis dan selektifnya. Mongol tidak membedakan antara pria, wanita, anak-anak, atau orang tua. Mereka membunuh ulama, ilmuwan, seniman, pedagang, dan orang awam tanpa pandang bulu. Al-Maqrizi dalam *al-Suluk* menulis: "Mereka membunuh dengan cara yang belum pernah terdengar — tidak ada yang selamat kecuali mereka yang berhasil bersembunyi di tempat-tempat yang sangat tersembunyi."^10
+Yang membuat pembantaian ini semakin tragis adalah sistematis dan selektifnya. Mongol tidak membedakan antara pria, wanita, anak-anak, atau orang tua. Mereka membunuh ulama, ilmuwan, seniman, pedagang, dan orang awam tanpa pandang bulu. Al-Maqrizi dalam *al-Suluk* menulis: "Mereka membunuh dengan cara yang belum pernah terdengar — tidak ada yang selamat kecuali mereka yang berhasil bersembunyi di tempat-tempat yang sangat tersembunyi."^1
 
 Beberapa kronikawan mencatat adanya upaya sistematik untuk memusnahkan kelas intelektual Baghdad. Perpustakaan-perpustakaan tidak hanya dibakar, tetapi para ulama dan ilmuwan yang bekerja di sana diburu dan dibunuh secara khusus. Ini menunjukkan bahwa Mongol memahami pentingnya menghancurkan infrastruktur intelektual untuk mencegah perlawanan di masa depan.^1
 
 ### Kehancuran Baitul Hikmah dan Warisan Intelektual
 
-Tragedi yang paling mendalam bagi peradaban manusia adalah kehancuran **Baitul Hikmah** dan puluhan perpustakaan lain di Baghdad. Institusi yang pernah menjadi mercusuar ilmu pengetahuan dunia ini dihancurkan total, beserta seluruh koleksi manuskrip yang tidak ternilai harganya.^11
+Tragedi yang paling mendalam bagi peradaban manusia adalah kehancuran **Baitul Hikmah** dan puluhan perpustakaan lain di Baghdad. Institusi yang pernah menjadi mercusuar ilmu pengetahuan dunia ini dihancurkan total, beserta seluruh koleksi manuskrip yang tidak ternilai harganya.^2
 
-Kronikawan-kronikawan Arab mencatat pemandangan yang menghancurkan hati: manuskrip-manuskrip kuno dilemparkan ke Sungai Tigris dalam jumlah yang sangat besar sehingga air sungai berubah warna. Ibn al-Athir menulis: "Mereka melemparkan buku-buku ke dalam air sehingga airnya menjadi hitam karena tinta, dan seseorang dapat menyeberangi sungai dengan berjalan di atas buku-buku."^11
+Kronikawan-kronikawan Arab mencatat pemandangan yang menghancurkan hati: manuskrip-manuskrip kuno dilemparkan ke Sungai Tigris dalam jumlah yang sangat besar sehingga air sungai berubah warna. Ibn al-Athir menulis: "Mereka melemparkan buku-buku ke dalam air sehingga airnya menjadi hitam karena tinta, dan seseorang dapat menyeberangi sungai dengan berjalan di atas buku-buku."^2
 
 Ibn Kathir memberikan deskripsi yang lebih mendalam: "Air Tigris menjadi hitam karena tinta dari buku-buku yang dilemparkan, dan menjadi merah karena darah para ulama yang dibunuh. Inilah hari ketika ilmu pengetahuan mati di Baghdad."^1 Deskripsi ini, meskipun mungkin mengandung unsur simbolis, menggambarkan besarnya kerugian intelektual yang dialami.
 
-Karya-karya yang hilang termasuk manuskrip-manuskrip langka dalam berbagai disiplin: matematika (karya-karya al-Khwarizmi dan al-Kindi), astronomi (tabel-tabel astronomis yang dikumpulkan selama berabad-abad), kedokteran (terjemahan dan komentari terhadap karya-karya Galen dan Hippokrates), filsafat (karya-karya al-Farabi dan Ibn Sina), serta sastra Arab dan Persia yang tidak memiliki salinan di tempat lain.^12
+Karya-karya yang hilang termasuk manuskrip-manuskrip langka dalam berbagai disiplin: matematika (karya-karya al-Khwarizmi dan al-Kindi), astronomi (tabel-tabel astronomis yang dikumpulkan selama berabad-abad), kedokteran (terjemahan dan komentari terhadap karya-karya Galen dan Hippokrates), filsafat (karya-karya al-Farabi dan Ibn Sina), serta sastra Arab dan Persia yang tidak memiliki salinan di tempat lain.^3
 
 ### Penghancuran Infrastruktur
 
 Selain pembunuhan massal dan penghancuran perpustakaan, Mongol juga menghancurkan infrastruktur fisik Baghdad secara sistematis. Masjid-masjid dibakar, madrasah-madrasah dihancurkan, rumah sakit dibongkar, dan yang paling devastating adalah kerusakan pada sistem irigasi yang telah beroperasi sejak zaman Babilonia.^1
 
-Sistem kanal-kanal canggih yang menghidupi pertanian Mesopotamia — warisan dari peradaban Sumeria dan Babilonia yang telah dipelihara dan dikembangkan oleh berbagai dinasti Islam — rusak parah. Beberapa kanal besar sengaja dibendung atau dialihkan untuk memudahkan serangan, sementara yang lain rusak akibat pertempuran. Kerusakan ini menyebabkan kemunduran pertanian jangka panjang yang dampaknya masih terasa berabad-abad kemudian.^13
+Sistem kanal-kanal canggih yang menghidupi pertanian Mesopotamia — warisan dari peradaban Sumeria dan Babilonia yang telah dipelihara dan dikembangkan oleh berbagai dinasti Islam — rusak parah. Beberapa kanal besar sengaja dibendung atau dialihkan untuk memudahkan serangan, sementara yang lain rusak akibat pertempuran. Kerusakan ini menyebabkan kemunduran pertanian jangka panjang yang dampaknya masih terasa berabad-abad kemudian.^4
 
 ### Nasib Khalifah al-Musta'sim
 
-Khalifah al-Musta'sim ditangkap hidup-hidup dan dibawa ke hadapan Hulagu. Berbagai sumber memberikan versi yang berbeda tentang akhir hidupnya, tetapi yang paling umum diterima adalah bahwa ia dibunuh pada tanggal 20 Februari 1258 M dengan cara dibungkus dalam karpet dan diinjak-injak oleh kuda, karena tradisi Mongol yang meyakini bahwa darah bangsawan tidak boleh mengenai tanah.^14
+Khalifah al-Musta'sim ditangkap hidup-hidup dan dibawa ke hadapan Hulagu. Berbagai sumber memberikan versi yang berbeda tentang akhir hidupnya, tetapi yang paling umum diterima adalah bahwa ia dibunuh pada tanggal 20 Februari 1258 M dengan cara dibungkus dalam karpet dan diinjak-injak oleh kuda, karena tradisi Mongol yang meyakini bahwa darah bangsawan tidak boleh mengenai tanah.^5
 
 Dengan kematian al-Musta'sim, berakhirlah **Kekhalifahan Abbasiyah** yang telah berdiri selama **508 tahun** (750-1258 M). Institusi yang pernah menjadi simbol persatuan politik dan keagamaan dunia Islam ini musnah setelah melahirkan 37 khalifah dan menjadi saksi dari Zaman Keemasan Islam.^1
 
@@ -93,9 +93,9 @@ Ulama-ulama yang selamat dari bencana Baghdad melakukan introspeksi mendalam ten
 > إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ
 >
 > *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri."*
-> — QS. Ar-Ra'd (13): 11^15
+> — QS. Ar-Ra'd (13): 11^6
 
-Ibn Taymiyyah, yang hidup satu generasi setelah jatuhnya Baghdad, menulis dalam *Majmu' al-Fatawa* bahwa tragedi Baghdad adalah "ujian dari Allah atas kemunduran moral dan spiritual umat Islam yang telah meninggalkan jihad dan terlena dalam kemewahan."^15
+Ibn Taymiyyah, yang hidup satu generasi setelah jatuhnya Baghdad, menulis dalam *Majmu' al-Fatawa* bahwa tragedi Baghdad adalah "ujian dari Allah atas kemunduran moral dan spiritual umat Islam yang telah meninggalkan jihad dan terlena dalam kemewahan."^6
 
 Para ulama juga mengutip hadits Nabi Muhammad SAW:
 
@@ -113,9 +113,9 @@ Salah satu pelajaran utama dari jatuhnya Baghdad adalah bahaya perpecahan intern
 > وَلَا تَنَٰزَعُواْ فَتَفۡشَلُواْ وَتَذۡهَبَ رِيحُكُمۡ
 >
 > *"Dan janganlah kamu berselisih, karena jika demikian kamu akan menjadi lemah dan akan hilang kekuatanmu."*
-> — QS. Al-Anfal (8): 46^15
+> — QS. Al-Anfal (8): 46^6
 
-Ibn Kathir dalam tafsirnya menegaskan bahwa perpecahan adalah salah satu sebab utama kekalahan umat Islam dari musuh-musuh mereka, sebagaimana yang terjadi di Baghdad ketika para pemimpin Muslim tidak bersatu menghadapi ancaman Mongol.^15
+Ibn Kathir dalam tafsirnya menegaskan bahwa perpecahan adalah salah satu sebab utama kekalahan umat Islam dari musuh-musuh mereka, sebagaimana yang terjadi di Baghdad ketika para pemimpin Muslim tidak bersatu menghadapi ancaman Mongol.^6
 
 ## Tokoh-Tokoh dalam Tragedi
 
@@ -160,7 +160,7 @@ Ini menunjukkan kekuatan spiritual Islam yang mampu "menaklukkan" hati para pena
 
 ### Benih-benih Kebangkitan
 
-Meskipun Baghdad hancur, benih-benih kebangkitan peradaban Islam tidak mati sepenuhnya. Banyak ulama dan ilmuwan yang selamat berpindah ke pusat-pusat pembelajaran lain seperti Kairo, Damaskus, Cordoba, dan kemudian Konstantinopel. Mereka membawa serta tradisi keilmuan dan memulai proses pemulihan di tempat-tempat baru.^16
+Meskipun Baghdad hancur, benih-benih kebangkitan peradaban Islam tidak mati sepenuhnya. Banyak ulama dan ilmuwan yang selamat berpindah ke pusat-pusat pembelajaran lain seperti Kairo, Damaskus, Cordoba, dan kemudian Konstantinopel. Mereka membawa serta tradisi keilmuan dan memulai proses pemulihan di tempat-tempat baru.^7
 
 **Dinasti Mamluk** di Mesir dan Suriah berhasil menahan ekspansi Mongol lebih lanjut dan menjadi pusat kebangkitan peradaban Islam. **Kesultanan Utsmaniyah** yang bangkit di Anatolia kemudian menjadi kekuatan baru yang mengembalikan kejayaan politik Islam. **Kesultanan Delhi** dan **Kesultanan Bahmani** di India menjadi pusat pembelajaran Islam di subkontinen.^1
 
@@ -170,7 +170,7 @@ Meskipun Baghdad hancur, benih-benih kebangkitan peradaban Islam tidak mati sepe
 
 Kehancuran Baghdad mengubah peta peradaban Islam secara fundamental. Mesopotamia, yang telah menjadi pusat peradaban selama ribuan tahun — dari Sumeria dan Babilonia hingga Abbasiyah — kehilangan posisi sentralnya. Pusat gravitasi peradaban Islam bergeser ke:
 
-**Mesir**: Di bawah Dinasti Mamluk (1250-1517 M), Kairo menjadi pusat pembelajaran Islam yang baru. Al-Azhar berkembang menjadi universitas Islam terpenting di dunia.^17
+**Mesir**: Di bawah Dinasti Mamluk (1250-1517 M), Kairo menjadi pusat pembelajaran Islam yang baru. Al-Azhar berkembang menjadi universitas Islam terpenting di dunia.^8
 
 **Anatolia**: Kesultanan Utsmaniyah (1299-1922 M) bangkit sebagai kekuatan politik baru yang mengembalikan prestise politik Islam. Constantinople/Istanbul menjadi pusat kekhalifahan yang baru.^1
 
@@ -180,7 +180,7 @@ Kehancuran Baghdad mengubah peta peradaban Islam secara fundamental. Mesopotamia
 
 ### Perubahan dalam Tradisi Intelektual
 
-Kehancuran perpustakaan-perpustakaan Baghdad menyebabkan perubahan fundamental dalam tradisi intelektual Islam. Banyak karya klasik yang hanya ada dalam satu atau beberapa salinan hilang selamanya. Ini memaksa generasi berikutnya untuk merekonstruksi tradisi keilmuan dari fragmen-fragmen yang tersisa.^18
+Kehancuran perpustakaan-perpustakaan Baghdad menyebabkan perubahan fundamental dalam tradisi intelektual Islam. Banyak karya klasik yang hanya ada dalam satu atau beberapa salinan hilang selamanya. Ini memaksa generasi berikutnya untuk merekonstruksi tradisi keilmuan dari fragmen-fragmen yang tersisa.^1
 
 Tradisi penerjemahan besar-besaran dari bahasa Yunani, Persia, dan India ke dalam bahasa Arab — yang telah menjadi ciri khas Zaman Keemasan Islam — tidak pernah pulih sepenuhnya. Generasi berikutnya lebih fokus pada preservasi dan komentari terhadap karya-karya yang tersisa daripada eksplorasi dan sintesis baru.^1
 
@@ -218,4 +218,4 @@ Akhirnya, meskipun Baitul Hikmah fisik telah musnah, semangat inkuiri intelektua
 > وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ ﴿46﴾
 >
 8. Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.
-9. Al-Qur'an al-Karim.
+9. Al-Suyuti, Jalal al-Din. *Tarikh al-Khulafa'* (Sejarah Para Khalifah).
