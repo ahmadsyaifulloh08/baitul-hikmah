@@ -12,7 +12,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Tentang Baitul Hikmah</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1rem"}}>
             <p>
               <strong>Baitul Hikmah</strong> adalah portal digital interaktif untuk menelusuri sejarah peradaban Islam —
               dari Tahun Gajah (570 M) hingga jatuhnya Al-Andalus (1492 M). Terinspirasi dari <em>Baitul Hikmah</em> (Rumah Kebijaksanaan)
@@ -32,13 +32,13 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Metode Verifikasi Konten</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1rem"}}>
             <p>
               Seluruh konten Baitul Hikmah diverifikasi menggunakan metodologi ketat yang mengacu pada
               tradisi ilmiah Islam (<em>manhaj</em>) dan standar akademis modern.
             </p>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1.5rem",padding:"2rem"}}>
+            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">1. Sumber Primer</h3>
               <p className="mb-2">Setiap peristiwa dirujuk minimal dari 3 sumber primer yang otoritatif:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -50,7 +50,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"2rem"}}>
+            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">2. Verifikasi Hadits</h3>
               <p className="mb-2">Hadits yang dikutip diverifikasi statusnya (shahih, hasan, dha&apos;if) dengan merujuk pada:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -60,7 +60,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"2rem"}}>
+            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">3. Verifikasi Al-Quran</h3>
               <p className="mb-2">Setiap kutipan Al-Quran diverifikasi secara otomatis menggunakan API Al-Quran Cloud:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -71,7 +71,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"2rem"}}>
+            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">4. Daftar Pustaka Terkonsolidasi</h3>
               <p className="mb-2">Setiap artikel menggunakan format daftar pustaka terkonsolidasi:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -82,7 +82,7 @@ export default function AboutPage() {
               </ul>
             </div>
 
-            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"2rem"}}>
+            <div className="bg-[var(--bg-secondary)] rounded-lg" style={{marginTop:"1rem",padding:"0.5rem"}}>
               <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Automated Quality Assurance</h3>
               <p className="mb-2">Seluruh konten melewati pipeline QA otomatis sebelum dipublikasikan:</p>
               <ul className="list-disc pl-5 space-y-1">
@@ -97,7 +97,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Ilustrasi</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1rem"}}>
             <p>
               Ilustrasi untuk mode anak-anak dibuat menggunakan AI generative art (Gemini) dengan panduan ketat:
             </p>
@@ -112,7 +112,7 @@ export default function AboutPage() {
 
         <section className="mb-4">
           <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Tim</h2>
-          <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
+          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1rem"}}>
             <p>
               Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
               dengan bantuan AI agents untuk riset, penulisan, dan ilustrasi. Semua konten melewati
