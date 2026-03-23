@@ -23,48 +23,46 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Al-Sirah al-Nabawiyyah",
-      "author": "Ibn Hisham",
+      "id": "-ibn-hisham",
+      "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+      "author": "*Ibn Hisham",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum (The Sealed Nectar)",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "-al-mubarakfuri",
+      "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+      "author": "*Al-Mubarakfuri",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari",
-      "type": "hadith",
-      "references": ["no. 2262", "no. 5304"]
-    },
-    {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim",
-      "type": "hadith",
-      "references": ["Kitab al-Iman (syaqq al-shadr)", "Kitab al-Jana'iz (ziarah kubur Aminah)"]
-    },
-    {
-      "id": "tabaqat-ibn-sad",
-      "title": "Al-Tabaqat al-Kubra",
-      "author": "Ibn Sa'd",
+      "id": "-al-bukhari",
+      "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+      "author": "*Al-Bukhari",
       "type": "primary"
     },
     {
-      "id": "dalail-nubuwwah-bayhaqi",
-      "title": "Dalail al-Nubuwwah",
-      "author": "Al-Bayhaqi",
+      "id": "-muslim",
+      "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+      "author": "*Muslim",
       "type": "primary"
     },
     {
-      "id": "zad-al-maad",
-      "title": "Zad al-Ma'ad fi Hady Khair al-'Ibad",
-      "author": "Ibn Qayyim al-Jauziyyah",
-      "type": "secondary"
+      "id": "-ibn-sa-d",
+      "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
+      "author": "*Ibn Sa'd",
+      "type": "primary"
+    },
+    {
+      "id": "-al-bayhaqi",
+      "title": "Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain.",
+      "author": "*Al-Bayhaqi",
+      "type": "primary"
+    },
+    {
+      "id": "-ibn-qayyim-al-jauziyyah",
+      "title": "Ibn Qayyim al-Jauziyyah, Syamsuddin.",
+      "author": "*Ibn Qayyim al-Jauziyyah",
+      "type": "primary"
     }
   ],
   "characters": [

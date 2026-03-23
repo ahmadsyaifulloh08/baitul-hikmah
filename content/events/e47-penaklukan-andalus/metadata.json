@@ -11,34 +11,22 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "-al-baladhuri",
+      "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+      "author": "*Al-Baladhuri",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "-al-maqqari",
+      "title": "Al-Maqqari, Ahmad ibn Muhammad.",
+      "author": "*Al-Maqqari",
       "type": "primary"
     },
     {
-      "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "id": "-ibn-al-athir",
+      "title": "Ibn al-Athir, Izz al-Din.",
+      "author": "*Ibn al-Athir",
       "type": "primary"
-    },
-    {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
-    },
-    {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
     }
   ]
 }

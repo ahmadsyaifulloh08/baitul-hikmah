@@ -11,34 +11,22 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "-al-tabari",
+      "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+      "author": "*Al-Tabari",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "-ibn-al-athir",
+      "title": "Ibn al-Athir, Izzuddin Abu al-Hasan Ali.",
+      "author": "*Ibn al-Athir",
       "type": "primary"
     },
     {
-      "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "id": "-nasr-ibn-muzahim-al-minqari--",
+      "title": "Nasr ibn Muzahim al-Minqari.",
+      "author": "*Nasr ibn Muzahim al-Minqari.** *Waq'at Shiffin* (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
       "type": "primary"
-    },
-    {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
-    },
-    {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
     }
   ]
 }

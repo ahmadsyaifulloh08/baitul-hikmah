@@ -23,21 +23,21 @@
       "type": "primary"
     },
     {
-      "id": "tabaqat-ibn-sad",
+      "id": "ibn-sa-d",
       "title": "Al-Thabaqat al-Kubra",
-      "author": "Ibn Sad",
+      "author": "Ibn Sa'd",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
+      "id": "al-mubarakfuri",
       "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "author": "Al-Mubarakfuri",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
+      "id": "al-bukhari",
       "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari",
+      "author": "Al-Bukhari",
       "type": "hadith"
     }
   ],

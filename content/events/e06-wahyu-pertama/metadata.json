@@ -11,33 +11,33 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
-      "type": "primary"
-    },
-    {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
-      "type": "primary"
-    },
-    {
-      "id": "ibn-kathir",
-      "title": "Al-Bidayah wan Nihayah",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
-      "type": "primary"
-    },
-    {
-      "id": "shahih-bukhari",
+      "id": "al-bukhari",
       "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
+      "author": "Al-Bukhari",
       "type": "hadith"
     },
     {
-      "id": "shahih-muslim",
+      "id": "muslim",
       "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
+      "author": "Muslim",
+      "type": "hadith"
+    },
+    {
+      "id": "ibn-hisham",
+      "title": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Hisham",
+      "type": "primary"
+    },
+    {
+      "id": "al-mubarakfuri",
+      "title": "Al-Rahiq al-Makhtum",
+      "author": "Al-Mubarakfuri",
+      "type": "primary"
+    },
+    {
+      "id": "ibn-hajar-al-asqalani",
+      "title": "Fath al-Bari Syarh Shahih al-Bukhari",
+      "author": "Ibn Hajar al-Asqalani",
       "type": "hadith"
     }
   ]

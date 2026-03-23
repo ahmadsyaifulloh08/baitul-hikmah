@@ -259,12 +259,13 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum (The Sealed Nectar) — Shafiyyurrahman al-Mubarakfuri",
-        "Tafsir Al-Quran Al-Azhim — Surah Al-Fil — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim",
-        "Tabaqat al-Kubra — Ibn Sa'd"
+        "Ibn Hisham — *Ibn Hisham**",
+        "Al-Mubarakfuri — *Al-Mubarakfuri**",
+        "Ibn Kathir — *Ibn Kathir**",
+        "Al-Bukhari — *Al-Bukhari**",
+        "Muslim — *Muslim**",
+        "Ibn Sa'd — *Ibn Sa'd**",
+        "Al-Quran al-Karim — *Al-Quran al-Karim**. QS Al-Fil (105:1-5)"
       ]
     },
     {
@@ -290,13 +291,13 @@
       ],
       "significance": "high",
       "sumber": [
-        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum (The Sealed Nectar) — Shafiyyurrahman al-Mubarakfuri",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim",
-        "Al-Tabaqat al-Kubra — Ibn Sa'd",
-        "Dalail al-Nubuwwah — Al-Bayhaqi",
-        "Zad al-Ma'ad fi Hady Khair al-'Ibad — Ibn Qayyim al-Jauziyyah"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim",
+        "Ibn Sa'd, Abu Abdullah Muhammad. — *Ibn Sa'd",
+        "Al-Bayhaqi, Abu Bakr Ahmad bin al-Husain. — *Al-Bayhaqi",
+        "Ibn Qayyim al-Jauziyyah, Syamsuddin. — *Ibn Qayyim al-Jauziyyah"
       ]
     },
     {
@@ -318,11 +319,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Sunan al-Tirmidzi — Al-Tirmidzi"
       ]
     },
     {
@@ -343,9 +342,9 @@
       "significance": "medium",
       "sumber": [
         "Al-Sirah al-Nabawiyyah — Ibn Hisham",
-        "Al-Thabaqat al-Kubra — Ibn Sad",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Shahih al-Bukhari — Imam al-Bukhari"
+        "Al-Thabaqat al-Kubra — Ibn Sa'd",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari"
       ]
     },
     {
@@ -364,11 +363,10 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Akhbar Makkah wa Ma Ja'a fiha min al-Atsar — Al-Azraqi",
+        "Shahih al-Bukhari — Al-Bukhari"
       ]
     },
     {
@@ -388,11 +386,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Fath al-Bari Syarh Shahih al-Bukhari — Ibn Hajar al-Asqalani"
       ]
     },
     {
@@ -415,11 +413,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd"
       ]
     },
     {
@@ -438,11 +434,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Tafsir al-Qur'an al-'Azhim — Ibn Kathir"
       ]
     },
     {
@@ -463,11 +457,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd",
+        "Al-Ishabah fi Tamyiz al-Shahabah — Ibn Hajar al-Asqalani",
+        "Musnad Ahmad — Ahmad bin Hanbal"
       ]
     },
     {
@@ -487,11 +481,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Musnad Ahmad — Ahmad bin Hanbal",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd"
       ]
     },
     {
@@ -511,11 +504,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd"
       ]
     },
     {
@@ -536,11 +528,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
       ]
     },
     {
@@ -561,11 +553,12 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Shahih Muslim — Muslim",
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Tafsir al-Thabari — Al-Thabari"
       ]
     },
     {
@@ -584,11 +577,12 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Sirah al-Nabawiyyah — Ibn Hisham",
+        "Al-Rahiq al-Makhtum — Al-Mubarakfuri",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Thabaqat al-Kubra — Ibn Sa'd",
+        "Shahih al-Bukhari — Al-Bukhari",
+        "Tafsir al-Thabari — Al-Thabari"
       ]
     },
     {
@@ -607,11 +601,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Ibn Sa'd, Abu Abdullah Muhammad. — *Ibn Sa'd"
       ]
     },
     {
@@ -631,11 +623,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari"
       ]
     },
     {
@@ -654,11 +644,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Ibn Sa'd, Abu Abdullah Muhammad. — *Ibn Sa'd",
+        "Abu Ubayd al-Qasim bin Sallam. — *Abu Ubayd al-Qasim bin Sallam.** *Al-Amwal*. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr"
       ]
     },
     {
@@ -677,11 +665,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari"
       ]
     },
     {
@@ -700,11 +686,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim",
+        "Ibn Kathir, Ismail bin Umar. — *Ibn Kathir"
       ]
     },
     {
@@ -725,11 +709,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham"
       ]
     },
     {
@@ -750,11 +732,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham"
       ]
     },
     {
@@ -774,11 +754,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — *Al-Waqidi"
       ]
     },
     {
@@ -797,11 +775,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri"
       ]
     },
     {
@@ -823,11 +799,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -847,11 +821,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — *Al-Waqidi"
       ]
     },
     {
@@ -870,11 +842,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Waqidi, Abu Abdullah Muhammad bin Umar. — *Al-Waqidi"
       ]
     },
     {
@@ -894,11 +864,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -917,11 +886,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari"
       ]
     },
     {
@@ -940,11 +907,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -967,11 +932,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -990,11 +954,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Ibn Sa'd, Abu Abdullah Muhammad. — *Ibn Sa'd"
       ]
     },
     {
@@ -1013,11 +975,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Muslim, Abu al-Husain Muslim bin al-Hajjaj. — *Muslim",
+        "Al-Mubarakfuri, Shafiyyurrahman. — *Al-Mubarakfuri",
+        "Ahmad bin Hanbal. — *Ahmad bin Hanbal.** *Al-Musnad*. Hadits no. 23489 (khutbah persamaan manusia)",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham"
       ]
     },
     {
@@ -1038,11 +999,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Ibn Hisham, Abu Muhammad Abdul Malik. — *Ibn Hisham",
+        "Ibn Sa'd, Abu Abdullah Muhammad. — *Ibn Sa'd"
       ]
     },
     {
@@ -1061,11 +1020,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — *Al-Tabari",
+        "Ibn Kathir, Ismail bin Umar. — *Ibn Kathir",
+        "Ibn al-Jawzi, Abdurrahman bin Ali. — *Ibn al-Jawzi"
       ]
     },
     {
@@ -1085,11 +1042,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — *Al-Tabari",
+        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — *Ibn al-Athir",
+        "Al-Baladhuri, Ahmad bin Yahya. — *Al-Baladhuri"
       ]
     },
     {
@@ -1110,11 +1065,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — *Al-Tabari",
+        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — *Ibn al-Athir",
+        "Ibn Kathir, Ismail bin Umar. — *Ibn Kathir"
       ]
     },
     {
@@ -1135,11 +1088,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad bin Ismail. — *Al-Bukhari",
+        "Al-Suyuti, Jalal al-Din Abdurrahman. — *Al-Suyuti",
+        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — *Al-Tabari"
       ]
     },
     {
@@ -1159,11 +1110,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Baladhuri, Ahmad bin Yahya. — *Al-Baladhuri",
+        "Al-Tabari, Abu Ja'far Muhammad bin Jarir. — *Al-Tabari",
+        "Ibn al-Athir, Izz al-Din Abu al-Hasan. — *Ibn al-Athir"
       ]
     },
     {
@@ -1185,11 +1134,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Ismail ibn Umar. — *Ibn Kathir",
+        "Ibn al-Jawzi, Abu al-Faraj. — *Ibn al-Jawzi"
       ]
     },
     {
@@ -1208,11 +1155,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Ibn al-Athir, Izz al-Din. — *Ibn al-Athir"
       ]
     },
     {
@@ -1232,11 +1177,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Ibn Kathir, Ismail ibn Umar. — *Ibn Kathir"
       ]
     },
     {
@@ -1255,11 +1198,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman. — *Ibn Abd al-Hakam",
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari"
       ]
     },
     {
@@ -1281,11 +1222,12 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Abu al-Fida Ismail. — *Ibn Kathir",
+        "Ibn al-Jawzi, Abu al-Faraj. — *Ibn al-Jawzi",
+        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — *Muslim",
+        "Al-Tirmidzi, Abu Isa Muhammad. — *Al-Tirmidzi"
       ]
     },
     {
@@ -1305,11 +1247,10 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — *Al-Bukhari",
+        "Al-Suyuti, Jalaluddin Abdurrahman. — *Al-Suyuti",
+        "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman. — *Ibn Abi Dawud",
+        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -1329,11 +1270,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Abu al-Fida Ismail. — *Ibn Kathir",
+        "Al-Radhi, Syarif Abu al-Hasan Muhammad. — *Al-Radhi",
+        "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail. — *Al-Bukhari",
+        "Muslim, Abu al-Husain Muslim ibn al-Hajjaj. — *Muslim"
       ]
     },
     {
@@ -1353,11 +1294,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn al-Athir, Izzuddin Abu al-Hasan Ali. — *Ibn al-Athir",
+        "Nasr ibn Muzahim al-Minqari. — *Nasr ibn Muzahim al-Minqari.** *Waq'at Shiffin* (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah"
       ]
     },
     {
@@ -1376,11 +1315,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Ismail ibn Umar. — *Ibn Kathir",
+        "Ibn al-Athir, Izz al-Din. — *Ibn al-Athir"
       ]
     },
     {
@@ -1399,11 +1336,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Ibn al-Athir, Izz al-Din. — *Ibn al-Athir",
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari"
       ]
     },
     {
@@ -1423,11 +1358,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Ismail ibn Umar. — *Ibn Kathir",
+        "Abu Mikhnaf, Lut ibn Yahya. — *Abu Mikhnaf"
       ]
     },
     {
@@ -1446,11 +1379,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Mujir al-Din al-Hanbali, Abu al-Yumn. — *Mujir al-Din al-Hanbali",
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn Kathir, Ismail ibn Umar. — *Ibn Kathir"
       ]
     },
     {
@@ -1470,11 +1401,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn al-Qifti, Jamal al-Din. — *Ibn al-Qifti",
+        "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim. — *Ibn Abi Usaybi'ah",
+        "Ibn al-Nadim, Abu al-Faraj Muhammad. — *Ibn al-Nadim"
       ]
     },
     {
@@ -1494,11 +1423,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Al-Maqqari, Ahmad ibn Muhammad. — *Al-Maqqari",
+        "Ibn al-Athir, Izz al-Din. — *Ibn al-Athir"
       ]
     },
     {
@@ -1518,11 +1445,9 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ali ibn Muhammad al-Kufi. — *Ali ibn Muhammad al-Kufi.** *Chach Nama* (juga dikenal sebagai *Fathnama Sindh*). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
+        "Al-Baladhuri, Ahmad ibn Yahya. — *Al-Baladhuri",
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari"
       ]
     },
     {
@@ -1541,11 +1466,9 @@
       ],
       "significance": "medium",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
-        "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Ibn Abd al-Hakam, Abdullah. — *Ibn Abd al-Hakam",
+        "Al-Tabari, Abu Ja'far Muhammad ibn Jarir. — *Al-Tabari",
+        "Ibn al-Jawzi, Abu al-Faraj. — *Ibn al-Jawzi"
       ]
     },
     {
@@ -1738,11 +1661,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
+        "Sirah Nabawiyyah — Ibn Hisham (w. 218 H / 833 M)",
         "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bidayah wan Nihayah — Ibn Kathir (w. 774 H / 1373 M)",
+        "Shahih al-Bukhari — Imam al-Bukhari (w. 256 H / 870 M)",
+        "Shahih Muslim — Imam Muslim (w. 261 H / 875 M)"
       ]
     },
     {
@@ -1805,11 +1728,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
+        "Sirah Nabawiyyah — Ibn Hisham (w. 218 H / 833 M)",
         "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bidayah wan Nihayah — Ibn Kathir (w. 774 H / 1373 M)",
+        "Shahih al-Bukhari — Imam al-Bukhari (w. 256 H / 870 M)",
+        "Shahih Muslim — Imam Muslim (w. 261 H / 875 M)"
       ]
     },
     {
@@ -2344,11 +2267,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
+        "Sirah Nabawiyyah — Ibn Hisham (w. 218 H / 833 M)",
         "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bidayah wan Nihayah — Ibn Kathir (w. 774 H / 1373 M)",
+        "Shahih al-Bukhari — Imam al-Bukhari (w. 256 H / 870 M)",
+        "Shahih Muslim — Imam Muslim (w. 261 H / 875 M)"
       ]
     },
     {
@@ -2587,11 +2510,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
+        "Sirah Nabawiyyah — Ibn Hisham (w. 218 H / 833 M)",
         "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bidayah wan Nihayah — Ibn Kathir (w. 774 H / 1373 M)",
+        "Shahih al-Bukhari — Imam al-Bukhari (w. 256 H / 870 M)",
+        "Shahih Muslim — Imam Muslim (w. 261 H / 875 M)"
       ]
     },
     {
@@ -2927,11 +2850,11 @@
       ],
       "significance": "high",
       "sumber": [
-        "Sirah Nabawiyyah — Ibn Hisham",
+        "Sirah Nabawiyyah — Ibn Hisham (w. 218 H / 833 M)",
         "Al-Rahiq al-Makhtum — Shafiyyurrahman al-Mubarakfuri",
-        "Al-Bidayah wan Nihayah — Ibn Kathir",
-        "Shahih al-Bukhari — Imam al-Bukhari",
-        "Shahih Muslim — Imam Muslim"
+        "Al-Bidayah wan Nihayah — Ibn Kathir (w. 774 H / 1373 M)",
+        "Shahih al-Bukhari — Imam al-Bukhari (w. 256 H / 870 M)",
+        "Shahih Muslim — Imam Muslim (w. 261 H / 875 M)"
       ]
     },
     {

@@ -18,39 +18,45 @@
   ],
   "sources": [
     {
-      "id": "ibn-hisham",
-      "title": "Sirah Nabawiyyah",
-      "author": "Ibn Hisham (w. 218 H / 833 M)",
+      "id": "-ibn-hisham--",
+      "title": "Ibn Hisham",
+      "author": "*Ibn Hisham**",
       "type": "primary"
     },
     {
-      "id": "rahiq-makhtum",
-      "title": "Al-Rahiq al-Makhtum (The Sealed Nectar)",
-      "author": "Shafiyyurrahman al-Mubarakfuri",
+      "id": "-al-mubarakfuri--",
+      "title": "Al-Mubarakfuri",
+      "author": "*Al-Mubarakfuri**",
       "type": "primary"
     },
     {
-      "id": "tafsir-ibn-kathir",
-      "title": "Tafsir Al-Quran Al-Azhim — Surah Al-Fil",
-      "author": "Ibn Kathir (w. 774 H / 1373 M)",
+      "id": "-ibn-kathir--",
+      "title": "Ibn Kathir",
+      "author": "*Ibn Kathir**",
       "type": "primary"
     },
     {
-      "id": "shahih-bukhari",
-      "title": "Shahih al-Bukhari",
-      "author": "Imam al-Bukhari (w. 256 H / 870 M)",
-      "type": "hadith"
+      "id": "-al-bukhari--",
+      "title": "Al-Bukhari",
+      "author": "*Al-Bukhari**",
+      "type": "primary"
     },
     {
-      "id": "shahih-muslim",
-      "title": "Shahih Muslim",
-      "author": "Imam Muslim (w. 261 H / 875 M)",
-      "type": "hadith"
+      "id": "-muslim--",
+      "title": "Muslim",
+      "author": "*Muslim**",
+      "type": "primary"
     },
     {
-      "id": "tabaqat-ibn-sad",
-      "title": "Tabaqat al-Kubra",
-      "author": "Ibn Sa'd (w. 230 H / 845 M)",
+      "id": "-ibn-sa-d--",
+      "title": "Ibn Sa'd",
+      "author": "*Ibn Sa'd**",
+      "type": "primary"
+    },
+    {
+      "id": "-al-quran-al-karim----qs-al-fi",
+      "title": "Al-Quran al-Karim",
+      "author": "*Al-Quran al-Karim**. QS Al-Fil (105:1-5)",
       "type": "primary"
     }
   ],
