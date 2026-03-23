@@ -21,6 +21,10 @@ NOT a silhouette, NOT a child figure — ONLY a ball of golden light.
 No head, no body, no human features.
 ```
 
+**Prompt shorthand** (max 750 chars constraint): `A small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward`
+
+**Consistency rule**: ALWAYS use exact same description in every prompt. Do NOT vary -- no column, ribbon, burst, starburst, or other forms.
+
 **Height by age:**
 | Event Period | Age | Glow Height |
 |:---|:---:|:---|

@@ -436,9 +436,10 @@ interface Slide {
 
 // Image map for children illustrations — per sub-slide, sequentially assigned
 const childrenIllustrations: Record<string, string[]> = {
-  'e01-tahun-gajah': Array.from({length: 11}, (_, i) => `/illustrations/children/e01-slide-${String(i+1).padStart(2,'0')}.png`),
-  'e02-yatim-piatu': Array.from({length: 15}, (_, i) => `/illustrations/children/e02-slide-${String(i+1).padStart(2,'0')}.png`),
-  'e03-perjalanan-syam': Array.from({length: 11}, (_, i) => `/illustrations/children/e03-slide-${String(i+1).padStart(2,'0')}.png`),
+  'e01-tahun-gajah': Array.from({length: 11}, (_, i) => `/illustrations/children/e01/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e02-yatim-piatu': Array.from({length: 15}, (_, i) => `/illustrations/children/e02/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e03-perjalanan-syam': Array.from({length: 11}, (_, i) => `/illustrations/children/e03/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e04-pernikahan-khadijah': Array.from({length: 12}, (_, i) => `/illustrations/children/e04/slide-${String(i+1).padStart(2,'0')}.png`),
 }
 
 const sectionEmojis: Record<number, { emoji: string; bg: string }> = {
