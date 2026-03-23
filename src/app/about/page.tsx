@@ -1,9 +1,3 @@
-/**
- * About Us page — project description + verification methodology
- *
- * See: docs/content-style-guide.md (methodology basis)
- * See: docs/README.md (project overview)
- */
 'use client'
 
 import Header from '@/components/Header'
@@ -16,15 +10,8 @@ export default function AboutPage() {
       <Header />
       <article className="max-w-3xl mx-auto px-4 py-12">
 
-        <h1 className="text-3xl font-bold text-[var(--text-primary)] mb-2">
-          Tentang Baitul Hikmah
-        </h1>
-        <p className="text-sm text-[var(--text-secondary)] mb-8">
-          Portal digital interaktif sejarah peradaban Islam
-        </p>
-
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">🕌 Tentang Project</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tentang Baitul Hikmah</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               <strong>Baitul Hikmah</strong> adalah portal digital interaktif untuk menelusuri sejarah peradaban Islam —
@@ -44,7 +31,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">📖 Metode Verifikasi Konten</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Metode Verifikasi Konten</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Seluruh konten Baitul Hikmah diverifikasi menggunakan metodologi ketat yang mengacu pada
@@ -59,7 +46,7 @@ export default function AboutPage() {
                 <li><em>Tarikh al-Rusul wa al-Muluk</em> — Al-Tabari</li>
                 <li><em>Al-Bidayah wa al-Nihayah</em> — Ibn Kathir</li>
                 <li><em>Tabaqat al-Kubra</em> — Ibn Sa&apos;d</li>
-                <li><em>Al-Rahiq al-Makhtum</em> — Shafiyyurrahman al-Mubarakfuri</li>
+                <li><em>Al-Rahiq al-Makhtum</em> — Al-Mubarakfuri</li>
               </ul>
             </div>
 
@@ -109,7 +96,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">🎨 Ilustrasi</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Ilustrasi</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Ilustrasi untuk mode anak-anak dibuat menggunakan AI generative art (Gemini) dengan panduan ketat:
@@ -124,7 +111,7 @@ export default function AboutPage() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">🤝 Tim</h2>
+          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-4">Tim</h2>
           <div className="text-[var(--text-secondary)] space-y-4 leading-relaxed">
             <p>
               Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
@@ -134,14 +121,12 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className="mb-10 border-t border-[var(--border)] pt-8">
-          <blockquote className="text-center text-[var(--text-secondary)] italic">
-            <p className="text-lg mb-2" dir="rtl" lang="ar">
-              رَبِّ زِدْنِي عِلْمًا
-            </p>
-            <p>&quot;Ya Tuhanku, tambahkanlah ilmu kepadaku.&quot;</p>
-            <p className="text-sm mt-1">(QS. Taha: 114)</p>
-          </blockquote>
+        <section className="border-t border-[var(--border)] pt-8 text-center">
+          <p className="text-lg mb-2" dir="rtl" lang="ar">
+            رَبِّ زِدْنِي عِلْمًا
+          </p>
+          <p className="text-sm text-[var(--text-secondary)] italic">&quot;Ya Tuhanku, tambahkanlah ilmu kepadaku.&quot;</p>
+          <p className="text-xs text-[var(--text-secondary)] mt-1">(QS. Taha: 114)</p>
         </section>
 
       </article>
