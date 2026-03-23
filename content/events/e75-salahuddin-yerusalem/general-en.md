@@ -198,4 +198,10 @@ The golden crescent that replaced the cross atop the Dome of the Rock was not me
 12. Hillenbrand, Carole. *The Crusades: Islamic Perspectives*. Edinburgh: Edinburgh University Press, 1999.
 13. Gabrieli, Francesco, ed. *Arab Historians of the Crusades*. Berkeley: University of California Press, 1984.
 14. Maalouf, Amin. *The Crusades Through Arab Eyes*. London: Al Saqi Books, 1984.
+
+> وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ ﴿193﴾
+>
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
+>
 15. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 193; QS. Al-Isra (17): 1; QS. Al-Najm (53): 39.

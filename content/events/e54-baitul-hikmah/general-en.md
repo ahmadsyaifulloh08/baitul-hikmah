@@ -131,6 +131,12 @@ Bayt al-Hikmah proved that scientific advancement requires more than just data a
 5. Ibn al-Nadim, Muhammad ibn Ishaq. *Kitab al-Fihrist* (The Catalog).
 6. Hunayn ibn Ishaq. *Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus* (Letter to Ali ibn Yahya on the Translation of Galen's Works).
 7. Al-Jahiz, Abu Uthman Amr ibn Bahr. *al-Bayan wa al-Tabyin* (Clarity and Clarification).
+
+> فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴿114﴾
+>
+
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴿11﴾
+>
 8. Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.
 9. Al-Kindi, Abu Yusuf Ya'qub ibn Ishaq. *Fi al-Falsafah al-Ula* (On First Philosophy).
 10. Ibn al-Haytham, Abu Ali al-Hasan. *Kitab al-Manazir* (Book of Optics).

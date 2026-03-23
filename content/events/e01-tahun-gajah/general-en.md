@@ -136,4 +136,7 @@ From a trading town in the heart of a barren desert, from an orphan who lost his
 
 6. **Ibn Sa'd**, Muhammad. *Al-Tabaqat al-Kubra*. Volume 1: The Biography of the Messenger of Allah ﷺ. Beirut: Dar Sadir, 1968.
 
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ ﴿1﴾ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ ﴿2﴾ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ ﴿3﴾ تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ ﴿4﴾ فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ ﴿5﴾
+>
 7. **The Noble Quran**. Surah Al-Fil (105:1-5), Surah Quraysh (106:1-4).

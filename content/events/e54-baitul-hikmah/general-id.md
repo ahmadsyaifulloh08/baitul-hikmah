@@ -131,6 +131,12 @@ Baitul Hikmah membuktikan bahwa kemajuan ilmu pengetahuan memerlukan lebih dari 
 5. Ibn al-Nadim, Muhammad ibn Ishaq. *Kitab al-Fihrist* (Katalog).
 6. Hunayn ibn Ishaq. *Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus* (Surat kepada Ali ibn Yahya tentang Karya-karya Galen yang Diterjemahkan).
 7. Al-Jahiz, Abu Uthman Amr ibn Bahr. *al-Bayan wa al-Tabyin* (Kejelasan dan Klarifikasi).
+
+> فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ ۗ وَلَا تَعْجَلْ بِالْقُرْآنِ مِنْ قَبْلِ أَنْ يُقْضَىٰ إِلَيْكَ وَحْيُهُ ۖ وَقُلْ رَبِّ زِدْنِي عِلْمًا ﴿114﴾
+>
+
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ انْشُزُوا فَانْشُزُوا يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴿11﴾
+>
 8. Al-Qur'an al-Karim. QS. Taha (20): 114; QS. al-Mujadalah (58): 11.
 9. Al-Kindi, Abu Yusuf Ya'qub ibn Ishaq. *Fi al-Falsafah al-Ula* (Tentang Filsafat Pertama).
 10. Unknown_13, [Karya yang disebutkan dalam teks].

@@ -211,6 +211,12 @@ Akhirnya, meskipun Baitul Hikmah fisik telah musnah, semangat inkuiri intelektua
 5. Morgan, David. *The Mongols*. Oxford: Blackwell, 2007.
 6. Jackson, Peter. *The Mongols and the West, 1221-1410*. Harlow: Pearson Longman, 2005.
 7. May, Timothy. *The Mongol Conquests in World History*. London: Reaktion Books, 2012.
+
+> لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللَّهِ ۗ إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۗ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ ۚ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ ﴿11﴾
+>
+
+> وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ ﴿46﴾
+>
 8. Al-Qur'an al-Karim. QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46.
 9. Unknown_18, [Karya yang disebutkan dalam teks].
 10. Al-Maqrizi, [Karya yang disebutkan dalam teks].

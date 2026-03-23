@@ -180,6 +180,12 @@ Warisan Salahuddin melampaui kemenangan militernya. Ia meninggalkan model kepemi
 3. Imad al-Din al-Isfahani. *al-Fath al-Qussi fi al-Fath al-Qudsi* (Kisah Agung tentang Pembebasan Yerusalem).
 4. William of Tyre. *Historia Rerum in Partibus Transmarinis Gestarum* (Sejarah Peristiwa di Tanah Seberang Laut).
 5. Ibn Shaddad, Baha al-Din. *al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah*.
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
+>
+
+> وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ ﴿190﴾
+>
 6. Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.
 7. Al-Bukhari, Muhammad ibn Ismail. *al-Adab al-Mufrad* (Etika yang Terpilih), no. 441.
 8. Unknown_14, [Karya yang disebutkan dalam teks].
