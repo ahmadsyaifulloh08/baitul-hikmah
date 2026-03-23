@@ -36,7 +36,8 @@
 3. **Before/After download** — record latest file BEFORE download, wait until NEW file appears
 4. **Lightbox download** — hover → click image → lightbox opens → click "Download full size image"
 5. **Close lightbox** before next slide
-6. **Max ~750 chars per prompt** — longer prompts may hide Send button
+6. **Max 750 chars per prompt** — Gemini UI hides Send button beyond this. Sweet spot: 650-750 chars
+7. **Compress after download** — Gemini raw = ~9MB. Target: 1-2MB via sharp resize + PNG compression
 
 ## Batch & QA Flow
 
@@ -184,7 +185,7 @@ const slides = fs.readdirSync('public/illustrations/children/')
 
 ## Prompt Guidelines
 
-- **Max ~750 chars** — keep it concise, Gemini hides Send button on long prompts
+- **Max 750 chars** — Gemini UI hides Send button on longer prompts. Sweet spot: 650-750 chars. Tested: 659-777 ✅, 819-865 borderline ✅, 981 ❌ Send hidden
 - **Always include**: style, shot type, century/era, colors with hex, mood, ratio, NO text, NO black borders
 - **Em dash** `—` → replace with `--` (causes shell errors)
 - **No parentheses** `()` in prompts — breaks shell. Use commas instead
@@ -248,7 +249,7 @@ BEFORE_FILE="$AFTER_FILE"
 
 | Issue | Solution |
 |-------|----------|
-| Send button hidden | Prompt too long (>750 chars). Shorten. Type space to trigger. |
+| Send button hidden | Prompt >750 chars. Sweet spot 650-750. Shorten or type space. |
 | Snapshot hangs | Gemini page too heavy. Navigate to `about:blank` then back. |
 | "ai generated" not found | Image still generating. Wait 30s more. Or Gemini refused — check screenshot. |
 | Download timeout (20 attempts) | Lightbox method failed. Try: navigate back to chat, re-open lightbox. |
