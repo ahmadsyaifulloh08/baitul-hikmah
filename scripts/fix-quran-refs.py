@@ -83,26 +83,33 @@ def has_arabic_nearby(lines, line_idx, window=5):
     return bool(re.search(r'[\u0600-\u06FF]', context))
 
 def extract_qs_refs(line):
-    """Extract (surah_name, start, end) from QS. or Surah references."""
+    """Extract (surah_num, start, end) from QS. or Surah references."""
     refs = []
-    patterns = [
-        r'QS\.?\s+([A-Za-z\-\']+)(?:\s*[\[(\:]?\s*(\d+)\s*[\])]?\s*:\s*(\d+)(?:\s*-\s*(\d+))?)',
-        r'QS\.?\s+([A-Za-z\-\']+)\s*:\s*(\d+)(?:\s*-\s*(\d+))?',
-        r'Surah\s+([A-Za-z\-\']+)\s*[\[(\:]?\s*(\d+)\s*[\])]?\s*:\s*(\d+)(?:\s*-\s*(\d+))?',
-    ]
-    for pat in patterns:
-        for m in re.finditer(pat, line):
-            groups = m.groups()
-            surah_name = groups[0]
-            if len(groups) == 4:
-                start = int(groups[2])
-                end = int(groups[3]) if groups[3] else start
-            elif len(groups) == 3:
-                start = int(groups[1])
-                end = int(groups[2]) if groups[2] else start
-            else:
-                continue
-            refs.append((surah_name, start, end))
+    seen = set()
+    
+    # Pattern 1: QS. Name (N): A[-B]  — most common format
+    for m in re.finditer(r'QS\.\s+[\w\-\'\s]+\((\d+)\)\s*:\s*(\d+)(?:\s*[\-–]\s*(\d+))?', line):
+        surah = int(m.group(1))
+        start = int(m.group(2))
+        end = int(m.group(3)) if m.group(3) else start
+        key = (surah, start, end)
+        if key not in seen:
+            refs.append(key)
+            seen.add(key)
+    
+    # Pattern 2: QS. Name: A[-B]  — without surah number
+    if not refs:
+        for m in re.finditer(r'QS\.?\s+([A-Za-z\-\']+)\s*:\s*(\d+)(?:\s*[\-–]\s*(\d+))?', line):
+            surah_name = m.group(1)
+            surah = resolve_surah(surah_name)
+            if surah:
+                start = int(m.group(2))
+                end = int(m.group(3)) if m.group(3) else start
+                key = (surah, start, end)
+                if key not in seen:
+                    refs.append(key)
+                    seen.add(key)
+    
     return refs
 
 def scan_file(filepath, do_fix=False):
@@ -116,16 +123,14 @@ def scan_file(filepath, do_fix=False):
         if re.search(r'QS\.\s|Surah\s', line):
             if not has_arabic_nearby(lines, i):
                 refs = extract_qs_refs(line)
-                for surah_name, start, end in refs:
-                    surah_num = resolve_surah(surah_name)
-                    if surah_num:
-                        issues.append((i, surah_name, surah_num, start, end))
+                for surah_num, start, end in refs:
+                    issues.append((i, surah_num, start, end))
     
     if not do_fix:
         return issues, []
     
     # Build insertions (reverse order to preserve line numbers)
-    for line_idx, surah_name, surah_num, start, end in reversed(issues):
+    for line_idx, surah_num, start, end in reversed(issues):
         arabic_parts = []
         for ayah in range(start, end + 1):
             text = fetch_ayah_text(surah_num, ayah)
@@ -138,7 +143,7 @@ def scan_file(filepath, do_fix=False):
             # Insert Arabic blockquote before the line
             insert_text = f"\n> {arabic_full}\n>\n"
             lines.insert(line_idx, insert_text)
-            insertions.append((line_idx, surah_name, start, end))
+            insertions.append((line_idx, surah_num, start, end))
     
     if insertions and do_fix:
         with open(filepath, 'w') as f:

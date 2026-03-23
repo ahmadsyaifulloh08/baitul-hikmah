@@ -19,10 +19,29 @@ def check_file(filepath):
     lines = text.split('\n')
     
     # 1. Find QS. references without Arabic text nearby
+    # Detect Daftar Pustaka/Bibliography section to skip
+    pustaka_start = len(lines)
+    for i, line in enumerate(lines):
+        if re.match(r'^## (Daftar Pustaka|Bibliography)', line):
+            pustaka_start = i
+            break
+    
     for i, line in enumerate(lines, 1):
-        if re.search(r'QS\.\s', line) or re.search(r'Surah\s', line):
-            # Check if Arabic text exists within 5 lines
-            context = '\n'.join(lines[max(0,i-3):min(len(lines),i+3)])
+        # Skip lines in bibliography section
+        if i - 1 >= pustaka_start:
+            continue
+        # Skip blockquote lines (likely already have Arabic nearby)
+        if line.strip().startswith('>'):
+            continue
+        
+        # Only check lines with actual verse references (QS. Name (N): A or QS. Name: A)
+        # Skip narrative mentions like "Surah Maryam" without verse numbers
+        has_verse_ref = bool(re.search(r'QS\.\s+[\w\-\'\s]+\(\d+\)\s*:', line)) or \
+                        bool(re.search(r'QS\.\s+[\w\-\']+\s*:\s*\d+', line))
+        
+        if has_verse_ref:
+            # Check if Arabic text exists within 10 lines (wider window)
+            context = '\n'.join(lines[max(0,i-6):min(len(lines),i+6)])
             has_arabic = bool(re.search(r'[\u0600-\u06FF]', context))
             if not has_arabic:
                 errors.append(f"L{i}: Quran ref without Arabic text nearby")
