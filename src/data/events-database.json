@@ -287,9 +287,9 @@
           "type": "primary"
         },
         {
-          "id": "tafsir-ibn-kathir",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Quraisy [106]: 1-4",
+          "author": "QS. Quraisy",
           "type": "primary"
         },
         {
@@ -824,9 +824,9 @@
           "type": "primary"
         },
         {
-          "id": "ibn-kathir",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Al-Lahab [111]: 1-5, Al-Syu'ara' [26]: 214",
+          "author": "QS. Al-Lahab, Al-Syu'ara'",
           "type": "primary"
         }
       ],
@@ -2381,9 +2381,9 @@
           "type": "primary"
         },
         {
-          "id": "-al-suyuti",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Al-Hijr [15]: 9, Al-Taubah [9]: 128",
+          "author": "QS. Al-Hijr, Al-Taubah",
           "type": "primary"
         },
         {
@@ -2747,9 +2747,9 @@
           "type": "primary"
         },
         {
-          "id": "-al-suyuti",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Al-Hijr [15]: 9",
+          "author": "QS. Al-Hijr",
           "type": "primary"
         },
         {
@@ -3524,9 +3524,9 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--qs--taha--",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Taha [20]: 114, al-Mujadalah [58]: 11",
+          "author": "QS. Taha, al-Mujadalah",
           "type": "primary"
         },
         {
@@ -4248,9 +4248,9 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--qs--al-isr",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "al-Baqarah [2]: 190, al-Isra' [17]: 1",
+          "author": "QS. al-Baqarah, al-Isra'",
           "type": "primary"
         },
         {
@@ -4583,9 +4583,9 @@
           "type": "primary"
         },
         {
-          "id": "al-qur-an-al-karim--qs--ar-ra-",
+          "id": "quran",
           "title": "Al-Quran al-Karim",
-          "author": "Al-Anfal [8]: 46, Ar-Ra'd [13]: 11",
+          "author": "QS. Al-Anfal, Ar-Ra'd",
           "type": "primary"
         },
         {

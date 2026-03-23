@@ -659,6 +659,7 @@ function EventContentInner({ event }: { event: Event }) {
                   <p style={{ color: 'var(--text-secondary)', lineHeight: 1.8 }}>{event.desc}</p>
                 </section>
 
+                {event.sources?.length > 0 && (
                 <section className="mb-8">
                   <h2 className="font-heading text-xl font-semibold mb-3">📚 Daftar Pustaka</h2>
                   <ol style={{ listStyle: 'none', padding: 0 }}>
@@ -674,6 +675,7 @@ function EventContentInner({ event }: { event: Event }) {
                     ))}
                   </ol>
                 </section>
+                )}
               </>
             )}
           </motion.div>
