@@ -10,9 +10,42 @@
 3. `illustration-guide.md` — rules, larangan, Islamic compliance
 4. `operations/batch-image-generation-v4.md` — workflow & script
 
-**Mau tulis konten?** Baca:
+**Mau tulis konten baru?** Baca + lakukan:
 1. `content-style-guide.md` — aturan penulisan, sitasi, format Quran/Hadits
 2. `PRD.md` — product requirements lengkap
+3. **WAJIB buat `metadata.json`** di `content/events/{event}/` (lihat template di bawah)
+4. **WAJIB buat brief** di `docs/briefs/{event}.md` jika ada ilustrasi
+
+## 📋 New Event Checklist
+
+Setiap event baru WAJIB punya:
+
+```
+content/events/{event}/
+├── metadata.json      ← WAJIB (title, year, era, sources)
+├── children-en.md     ← story content (English)
+├── children-id.md     ← story content (Indonesian)
+├── general-en.md      ← adult content (English)
+└── general-id.md      ← adult content (Indonesian)
+
+docs/briefs/{event}.md ← WAJIB jika ada ilustrasi
+```
+
+### metadata.json Template
+```json
+{
+  "id": "eXX",
+  "title_id": "...",
+  "title_en": "...",
+  "year": "XXX M",
+  "era": "...",
+  "location": "...",
+  "tags": ["..."],
+  "sources": [
+    {"id": "...", "title": "...", "author": "...", "type": "primary|hadith"}
+  ]
+}
+```
 
 ---
 
