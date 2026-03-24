@@ -1,21 +1,21 @@
 # Muhammad si Pemecah Masalah
 
-## 🏛️ Ka'bah yang Rusak Oleh Banjir
+## 🏛️ Ka'bah Rusak dan Kapal Romawi yang Karam
 
-Di tengah kota Makkah berdiri bangunan yang sangat istimewa — namanya Ka'bah, yang pertama kali dibangun oleh Nabi Ibrahim dan putranya Nabi Ismail ribuan tahun yang lalu. Ka'bah saat itu masih sederhana — dindingnya tersusun dari batu gunung tanpa perekat, tidak punya atap, dan tingginya hanya sekitar empat meter. Tapi suatu hari banjir besar menghantam Ka'bah sampai retak dan hampir roboh!
+Di tengah kota Makkah berdiri bangunan yang sangat istimewa — namanya Ka'bah, yang pertama kali dibangun oleh Nabi Ibrahim dan putranya Nabi Ismail ribuan tahun yang lalu sebagai rumah untuk menyembah Allah. Ka'bah saat itu masih sederhana — dindingnya dari batu gunung tanpa perekat, tidak punya atap, dan tingginya hanya empat meter. Tapi suatu hari banjir besar menghantam dinding Ka'bah sampai retak dan hampir roboh! Di saat bersamaan, sebuah kapal dagang Romawi karam di pelabuhan Jeddah membawa kayu berkualitas tinggi yang sangat langka di padang pasir, dan seorang tukang kayu Romawi bernama Baqum ikut membantu memperbaiki Ka'bah.
 
-## ⛵ Kapal Romawi Karam di Jeddah
+## 🔨 Al-Walid Berani Membongkar dan Gotong Royong Membangun
 
-Di saat yang bersamaan, sebuah kapal dagang besar milik orang Romawi karam di pelabuhan Jeddah tidak jauh dari Makkah. Kapal itu membawa kayu-kayu berkualitas tinggi yang sangat langka di padang pasir Arabia. Orang-orang Quraisy segera memanfaatkan kayu dari kapal itu untuk memperbaiki Ka'bah, dan seorang tukang kayu Romawi bernama Baqum yang juga penumpang kapal itu ikut serta membantu pembangunan. Sungguh Allah mendatangkan rezeki dari arah yang tidak disangka-sangka!
+Tidak ada yang berani memulai pembongkaran Ka'bah karena takut terkena musibah, sampai akhirnya seorang pemimpin pemberani bernama al-Walid mengambil kapak dan mulai membongkar dinding yang rusak sambil berdoa: "Ya Allah, kami hanya ingin kebaikan!" Semua masyarakat Makkah mengamati dari kejauhan dengan cemas, namun keesokan harinya al-Walid sehat dan segar. Maka seluruh klan bergotong-royong membangun Ka'bah lebih tinggi dan kokoh dari sebelumnya, menggunakan kayu dari kapal Romawi untuk atap baru, dengan Baqum memimpin pemasangan balok-balok dan pintu masuk yang diangkat tinggi dari tanah.
 
-## 🔨 Al-Walid Berani Memulai Pembongkaran
+## ⚔️ Sengketa Hajar Aswad dan Usulan Abu Umayyah
 
-Semua orang sepakat Ka'bah harus diperbaiki, tapi tidak ada seorang pun yang berani memulai pembongkaran karena mereka sangat takut akan terkena musibah jika menyentuh bangunan suci itu. Akhirnya seorang pemimpin pemberani bernama al-Walid bin al-Mughirah mengambil kapak dan mulai membongkar dinding yang rusak sambil berdoa: "Ya Allah, kami hanya ingin kebaikan!" Orang-orang menunggu semalaman dengan cemas, namun keesokan harinya al-Walid ternyata sehat dan segar! Maka semua klan bergotong-royong membangun Ka'bah lebih tinggi dan lebih kokoh, dengan atap kayu baru dan pintu masuk yang diangkat tinggi dari tanah.
+Pembangunan berjalan lancar sampai tiba saatnya memasang kembali Hajar Aswad — batu hitam istimewa di sudut Ka'bah yang dianggap kehormatan tertinggi untuk memasangnya. Pertengkaran antar klan semakin panas dan beberapa bahkan sudah mencelupkan tangan ke wadah berisi darah sebagai tanda siap berperang! Sengketa berlangsung empat hari, sampai akhirnya tetua bijak bernama Abu Umayyah berdiri mengangkat tangannya dan mengusulkan: "Orang pertama yang masuk melalui pintu Masjidil Haram besok pagi, dialah yang akan menjadi hakim!" Semua klan menyetujui dan menunggu dengan tegang.
 
-## ⚔️ Sengketa Hajar Aswad dan Solusi Abu Umayyah
+## 💡 Muhammad al-Amin dan Solusi Kain yang Brilian
 
-Pembangunan berjalan lancar sampai tiba saatnya memasang kembali Hajar Aswad — batu hitam istimewa di sudut Ka'bah yang dianggap sebagai kehormatan tertinggi untuk memasangnya. Setiap klan ingin menjadi yang memasangnya dan pertengkaran semakin panas hingga beberapa klan bahkan siap berperang! Sengketa berlangsung empat hari, sampai seorang tetua bijak bernama Abu Umayyah mengusulkan: orang pertama yang masuk melalui pintu Masjidil Haram besok pagi akan menjadi hakim.
+Keesokan paginya orang pertama yang melangkah masuk adalah Muhammad — pemuda berusia tiga puluh lima tahun yang dikenal sebagai al-Amin, orang paling dipercaya di seluruh Makkah! Semua berseru gembira dan rela ia menjadi hakim. Muhammad meminta sehelai kain besar, meletakkan Hajar Aswad di tengahnya, dan berkata kepada setiap klan untuk mengirim satu perwakilan memegang ujung kain lalu mengangkatnya bersama-sama. Ketika kain sudah setinggi dinding Ka'bah, Muhammad mengambil Hajar Aswad dengan tangannya sendiri dan meletakkannya di sudut tenggara.
 
-## 🤲 Solusi Brilian Muhammad al-Amin
+## 🕋 Ka'bah Berdiri Megah dan Persatuan Terjaga
 
-Semua klan menyetujui dan keesokan paginya mereka menunggu dengan tegang — dan ternyata orang pertama yang melangkah masuk adalah Muhammad, pemuda yang dikenal sebagai al-Amin! Semua berseru gembira dan rela ia menjadi hakim. Muhammad meminta sehelai kain besar, meletakkan Hajar Aswad di tengahnya, dan meminta setiap klan mengirim satu perwakilan memegang ujung kain lalu mengangkatnya bersama ke dinding Ka'bah. Ketika sudah setinggi tempatnya, Muhammad meletakkan Hajar Aswad di sudut tenggara dengan tangannya sendiri. Semua bertepuk tangan — Ka'bah berdiri megah dan sengketa besar terselesaikan tanpa setetes darah pun tertumpah!
+Semua orang bertepuk tangan dan berseru takbir dengan gembira — sengketa besar yang nyaris menjadi perang saudara terselesaikan tanpa setetes darah pun tertumpah! Ka'bah kini berdiri lebih megah dari sebelumnya — lebih tinggi, lebih kokoh, dengan atap kayu baru dan Hajar Aswad terpasang kembali di sudutnya. Seluruh klan merasa puas karena semua ikut berpartisipasi. Peristiwa ini menunjukkan bahwa Muhammad memiliki kebijaksanaan luar biasa jauh sebelum menjadi nabi — ia tidak memihak siapa pun, menghargai semua orang, dan menemukan solusi yang membuat semua pihak merasa dihormati.
