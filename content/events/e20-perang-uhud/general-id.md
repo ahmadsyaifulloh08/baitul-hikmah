@@ -100,3 +100,5 @@ Jika Badr mengajarkan umat Islam bagaimana rasanya menang, Uhud mengajarkan baga
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Bab Ghazwah Uhud. Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3, Bab Ghazwah Uhud. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+
+4. Al-Quran al-Karim, QS. Ali.

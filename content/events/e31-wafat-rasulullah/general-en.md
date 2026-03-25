@@ -192,7 +192,7 @@ The death of the Messenger of Allah ﷺ teaches Muslims several fundamental less
 
 ---
 
-## References
+## Bibliography
 
 1. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih Bukhari). Hadith no. 4440 (death of the Prophet), no. 3667 (Abu Bakr's address), no. 5648 (the Prophet's fever), no. 466 (sermon of the servant given a choice), no. 713 (command for Abu Bakr to lead prayer).
 

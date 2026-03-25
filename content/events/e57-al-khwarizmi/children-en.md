@@ -1,0 +1,35 @@
+
+# Al-Khwarizmi — The Father of Algebra 🧮✨
+
+## 🧑 Who Was He?
+
+His name was **Muhammad ibn Musa al-Khwarizmi**. He was born in what is now **Uzbekistan** about 1,200 years ago! He moved to Baghdad and worked at **Bayt al-Hikmah** — the coolest library in the world! 📚
+
+## ⭐ What Did He Do?
+
+Al-Khwarizmi wrote a book called **"Kitab al-Jabr"**. From the word "al-Jabr" came the word **ALGEBRA** that you study in school! ➕✖️
+
+But what is algebra? Think of it this way:
+
+> *"Mom has some apples. After giving 3 to your little brother, she has 5 left. How many apples did Mom have?"*
+
+That's algebra! You're finding a missing number. And Al-Khwarizmi was the first person to write down **rules** for solving problems like this systematically!
+
+And did you know? The word **ALGORITHM** — used in every computer, phone, and app in the world — comes from **Al-Khwarizmi's name**! 🤯
+
+So every time you play a game on your phone, watch YouTube, or use Google — there's an **algorithm** inside, named after a Muslim scientist! 📱
+
+## 💡 Why Was He Amazing?
+
+1. **He made math for everyone** — not just for smart people, but for merchants, farmers, and anyone!
+2. **He combined knowledge from many countries** — India, Greece, Babylon — into one system that was even better
+3. **His inventions are still used 1,200 years later** — even MORE important now because of computers!
+
+## 📖 Allah Says...
+
+Do you know one reason Al-Khwarizmi developed algebra? It was to calculate **inheritance shares** in Islam! Allah describes inheritance division in Qur'an 4:11-12, and you need math to calculate it!
+
+So Islam inspired mathematical discovery! 🌟
+
+> *"My Lord, increase me in knowledge."*
+> — Qur'an, Taha: 114

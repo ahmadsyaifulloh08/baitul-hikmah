@@ -123,3 +123,5 @@ Bai'at Aqabah Pertama adalah benih yang kelak tumbuh menjadi peristiwa Hijrah (6
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 3 (Beirut: Dar Shadir, 1968).
 5. Al-Bukhari, *Shahih al-Bukhari*.
 6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
+
+7. Al-Quran al-Karim, QS. Al-Anfal.

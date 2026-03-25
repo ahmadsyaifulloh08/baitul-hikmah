@@ -1,0 +1,5309 @@
+{
+  "source": "docs/islamic-research.md",
+  "title": "Ilmu Pengetahuan dalam Peradaban Islam",
+  "owner": "Ahmad Syaifulloh",
+  "research_partner": "Ali bin Abi Thalib (Researcher Agent)",
+  "purpose": "Menelusuri perkembangan sains, teknologi, dan filsafat dalam peradaban Islam dari masa pra-Islam hingga kemunduran",
+  "philosophy": {
+    "name": "Filosofi Riset: Manhaj Bukhari → Elaborasi",
+    "description": "Tiga tahap: (1) Pengumpulan & validasi informasi menggunakan prinsip Imam Bukhari dalam memilah hadits sahih, (2) Elaborasi & analisis menggunakan pendekatan Al-Ghazali, Ibn Rushd, dan Ibn Taimiyah, (3) Penulisan & dokumentasi dengan standar akademis",
+    "tahap_1_pengumpulan": {
+      "name": "Prinsip Imam Bukhari — Validasi Sumber",
+      "description": "Setiap informasi diperlakukan seperti hadits: ditelusuri sanadnya, diverifikasi matannya, dan dinilai kredibilitas perawinya sebelum diterima",
+      "steps": [
+        {
+          "step": 1,
+          "name": "ISNAD (Sanad)",
+          "description": "Telusuri rantai sumber — siapa yang meriwayatkan, dari mana asalnya, apakah bersambung?"
+        },
+        {
+          "step": 2,
+          "name": "MATAN (Konten)",
+          "description": "Periksa isi informasi — apakah logis, konsisten, tidak bertentangan dengan sumber primer (Qur'an, hadits sahih)?"
+        },
+        {
+          "step": 3,
+          "name": "JARH WA TA'DIL (Kredibilitas)",
+          "description": "Nilai kredibilitas sumber — apakah penulis/perawi terpercaya, ada bias, atau dikenal dha'if?"
+        },
+        {
+          "step": 4,
+          "name": "TAWATUR / SYAWAHID",
+          "description": "Cross-reference — apakah informasi ini dikuatkan oleh sumber lain yang independen?"
+        }
+      ],
+      "prinsip": "Hanya informasi yang lolos verifikasi (sahih) yang diterima sebagai dasar analisis. Yang dha'if ditandai, yang maudhu' ditolak.",
+      "sumber_dalil": [
+        "Sumber primer: Al-Qur'an, Hadits Shahih",
+        "Catatan sejarah: manuskrip, kronik, prasasti",
+        "Konsensus ulama (ijma')",
+        "Data empiris (untuk topik sains & teknologi)"
+      ]
+    },
+    "tahap_2_elaborasi": {
+      "name": "Elaborasi — Al-Ghazali, Ibn Rushd, Ibn Taimiyah",
+      "description": "Informasi yang sudah tervalidasi dielaborasi menggunakan tiga pendekatan yang saling melengkapi",
+      "pendekatan": [
+        {
+          "tokoh": "Al-Ghazali",
+          "metode": "Sintesis & Hirarki",
+          "description": "Menyatukan berbagai perspektif dalam hirarki: Wahyu > Akal > Pengalaman. Menguji klaim filosofis terhadap fondasi iman."
+        },
+        {
+          "tokoh": "Ibn Rushd",
+          "metode": "Rasionalisme",
+          "description": "Membela penggunaan akal secara penuh dalam memahami realitas. Tidak ada kontradiksi antara kebenaran filosofis dan kebenaran religius — keduanya dari sumber yang sama."
+        },
+        {
+          "tokoh": "Ibn Taimiyah",
+          "metode": "Kritik & Dalil",
+          "description": "Menolak spekulasi tanpa dalil. Setiap kesimpulan harus kembali ke bukti (Qur'an, Sunnah, atau bukti empiris). Anti-taqlid buta."
+        }
+      ],
+      "prinsip": "Ketiga pendekatan digunakan bersama: rasionalisme Ibn Rushd untuk analisis, sintesis Al-Ghazali untuk menyatukan, kritik Ibn Taimiyah untuk memfilter.",
+      "prinsip_berpikir": [
+        "Logika (mantiq) — metode Al-Ghazali",
+        "Konteks maqasid al-syariah — tujuan di balik hukum",
+        "Hindari bias: confirmation bias, recency bias, authority bias"
+      ]
+    },
+    "tahap_3_penulisan": {
+      "name": "Penulisan — Metodologi Dokumentasi",
+      "description": "Setiap output riset didokumentasikan dengan standar akademis",
+      "aspek": [
+        {
+          "aspek": 1,
+          "name": "Struktur",
+          "description": "Setiap output memiliki: konteks historis, analisis, dan daftar pustaka (sumber)"
+        },
+        {
+          "aspek": 2,
+          "name": "Daftar Pustaka",
+          "description": "Wajib menyertakan referensi kitab, manuskrip, atau sumber primer. Minimal 1 sumber per klaim utama"
+        },
+        {
+          "aspek": 3,
+          "name": "Netralitas",
+          "description": "Menyajikan fakta sebelum interpretasi. Memisahkan data dari opini"
+        },
+        {
+          "aspek": 4,
+          "name": "Kontekstualisasi",
+          "description": "Menempatkan informasi dalam konteks historis, geografis, dan intelektual yang tepat"
+        },
+        {
+          "aspek": 5,
+          "name": "Verifikasi Silang",
+          "description": "Klaim penting di-cross-check dengan minimal 2 sumber independen"
+        }
+      ]
+    },
+    "sumber_hadits": "Hanya hadits dengan status sahih yang dijadikan rujukan. Sumber utama: Shahih Bukhari, Shahih Muslim, dan kitab hadits mu'tabar lainnya.",
+    "penutup": "Wallahu A'lam — menyimpulkan dengan rendah hati. Menerima ketidakpastian di mana dalil terbatas."
+  },
+  "regions": [
+    {
+      "id": "arabia",
+      "name": "Arabia",
+      "color": "#3fb950"
+    },
+    {
+      "id": "levant",
+      "name": "Levant/Sham",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "persia",
+      "name": "Persia/Iraq",
+      "color": "#d29922"
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt/N.Africa",
+      "color": "#bc8cff"
+    },
+    {
+      "id": "andalus",
+      "name": "Al-Andalus",
+      "color": "#f85149"
+    },
+    {
+      "id": "central_asia",
+      "name": "Central Asia",
+      "color": "#f778ba"
+    },
+    {
+      "id": "india",
+      "name": "India/SE Asia",
+      "color": "#d2a8ff"
+    },
+    {
+      "id": "nusantara",
+      "name": "Nusantara",
+      "color": "#79c0ff"
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "color": "#ffa657"
+    }
+  ],
+  "categories": [
+    {
+      "id": "prophetic",
+      "name": "Kenabian",
+      "emoji": "☆",
+      "color": "#3fb950"
+    },
+    {
+      "id": "political",
+      "name": "Politik",
+      "emoji": "♛",
+      "color": "#d29922"
+    },
+    {
+      "id": "knowledge",
+      "name": "Ilmu Pengetahuan",
+      "emoji": "≡",
+      "color": "#58a6ff"
+    },
+    {
+      "id": "military",
+      "name": "Militer/Ekspansi",
+      "emoji": "⚔",
+      "color": "#f85149"
+    },
+    {
+      "id": "heritage",
+      "name": "Peradaban & Warisan",
+      "emoji": "◆",
+      "color": "#bc8cff"
+    },
+    {
+      "id": "decline",
+      "name": "Kemunduran",
+      "emoji": "↓",
+      "color": "#da3633"
+    }
+  ],
+  "eras": [
+    {
+      "id": "pre_islamic",
+      "name": "Pra-Islam (Jahiliyyah)",
+      "start": 500,
+      "end": 610,
+      "color": "#8b949e"
+    },
+    {
+      "id": "prophetic",
+      "name": "Masa Kenabian",
+      "start": 610,
+      "end": 632,
+      "color": "#3fb950"
+    },
+    {
+      "id": "rashidun",
+      "name": "Khulafa ar-Rashidin",
+      "start": 632,
+      "end": 661,
+      "color": "#58a6ff"
+    },
+    {
+      "id": "umayyad",
+      "name": "Dinasti Umayyah",
+      "start": 661,
+      "end": 750,
+      "color": "#d29922"
+    },
+    {
+      "id": "golden_age",
+      "name": "Zaman Keemasan (Abbasiyah)",
+      "start": 750,
+      "end": 1055,
+      "color": "#bc8cff"
+    },
+    {
+      "id": "fragmentation",
+      "name": "Fragmentasi & Perang Salib",
+      "start": 1055,
+      "end": 1258,
+      "color": "#f778ba"
+    },
+    {
+      "id": "decline",
+      "name": "Kemunduran",
+      "start": 1258,
+      "end": 1500,
+      "color": "#da3633"
+    }
+  ],
+  "events": [
+    {
+      "id": "e01",
+      "title": "Tahun Gajah / Kelahiran Nabi Muhammad SAW",
+      "year": 570,
+      "year_end": null,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Kelahiran Nabi Muhammad SAW di Makkah pada Tahun Gajah — tahun di mana pasukan Abrahah gagal menyerang Ka'bah.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abdullah ibn Abdul Muttalib",
+        "Aminah binti Wahb",
+        "Abdul Muthalib",
+        "Abrahah",
+        "Halimah al-Sa'diyyah"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Tahun Gajah dan Kelahiran Nabi Muhammad SAW",
+      "title_en": "The Year of the Elephant and the Birth of Prophet Muhammad ﷺ",
+      "location": "Makkah, Jazirah Arab",
+      "tags": [
+        "tahun-gajah",
+        "amul-fil",
+        "kelahiran-nabi",
+        "abrahah",
+        "kaabah",
+        "surah-al-fil",
+        "pra-islam",
+        "makkah",
+        "quraisy"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Tafsir al-Quran al-Azhim",
+          "author": "Ibn Kathir",
+          "type": "quran"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-fil--quraisy",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fil, Quraisy",
+          "type": "quran"
+        },
+        {
+          "id": "qs--al-fil--quraisy",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fil, Quraisy",
+          "type": "quran"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Nabi Muhammad SAW",
+          "name_en": "Prophet Muhammad ﷺ",
+          "role": "protagonist"
+        },
+        {
+          "name_id": "Abdullah bin Abdul Muthalib",
+          "name_en": "Abdullah ibn Abd al-Muttalib",
+          "role": "father"
+        },
+        {
+          "name_id": "Aminah binti Wahb",
+          "name_en": "Aminah bint Wahb",
+          "role": "mother"
+        },
+        {
+          "name_id": "Abdul Muthalib",
+          "name_en": "Abd al-Muttalib",
+          "role": "grandfather"
+        },
+        {
+          "name_id": "Abrahah al-Asyram",
+          "name_en": "Abraha al-Ashram",
+          "role": "antagonist"
+        },
+        {
+          "name_id": "Halimah as-Sa'diyyah",
+          "name_en": "Halimah al-Sa'diyyah",
+          "role": "wet-nurse"
+        }
+      ]
+    },
+    {
+      "id": "e02",
+      "title": "Yatim piatu — wafat ayah Abdullah, ibu Aminah, dan kakek Abdul Muthalib",
+      "year": 576,
+      "year_end": 578,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Nabi Muhammad SAW sudah yatim sejak dalam kandungan — ayahnya Abdullah ibn Abdul Muthalib wafat sebelum beliau lahir (saat perjalanan dagang ke Madinah). Pada usia 6 tahun, ibunya Aminah binti Wahb wafat di Abwa' dalam perjalanan pulang dari Madinah. Beliau kemudian diasuh kakeknya Abdul Muthalib, namun dua tahun kemudian (578 M) kakeknya pun wafat. Pengasuhan beralih ke pamannya Abu Thalib yang membesarkan beliau dengan penuh kasih sayang meski dalam keterbatasan.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abdullah ibn Abdul Muttalib",
+        "Aminah binti Wahb",
+        "Abdul Muthalib",
+        "Abu Thalib",
+        "Halimah binti Abi Dzu'aib",
+        "Ummu Aiman (Barakah)",
+        "Jibril"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Yatim Piatu: Wafat Ayah, Ibu, dan Kakek Nabi Muhammad SAW",
+      "title_en": "Orphanhood: The Death of the Father, Mother, and Grandfather of Prophet Muhammad ﷺ",
+      "location": "Makkah - Madinah, Jazirah Arab",
+      "tags": [
+        "yatim-piatu",
+        "orphanhood",
+        "abdullah-bin-abdul-muthalib",
+        "aminah-binti-wahab",
+        "abdul-muthalib",
+        "halimah-sadiyah",
+        "abu-thalib",
+        "bani-sad",
+        "penyusuan",
+        "wet-nursing",
+        "abwa",
+        "ummu-aiman",
+        "surah-ad-dhuha",
+        "syaqq-al-shadr"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Tabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "al-bayhaqi",
+          "title": "Dalail al-Nubuwwah",
+          "author": "Al-Bayhaqi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-qayyim-al-jauziy",
+          "title": "Zad al-Ma'ad fi Hady Khair al-Ibad",
+          "author": "Ibn Qayyim al-Jauziyyah",
+          "type": "primary"
+        },
+        {
+          "id": "qs--ad-dhuha--al-an-",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ad-Dhuha, Al-An'am, An-Nisa",
+          "type": "quran"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Muhammad ﷺ",
+          "name_en": "Muhammad ﷺ",
+          "role": "Nabi & Rasul / Prophet & Messenger"
+        },
+        {
+          "name_id": "Abdullah bin Abdul Muthalib",
+          "name_en": "Abdullah ibn Abd al-Muttalib",
+          "role": "Ayah Nabi / Prophet's Father"
+        },
+        {
+          "name_id": "Aminah binti Wahab",
+          "name_en": "Aminah bint Wahb",
+          "role": "Ibu Nabi / Prophet's Mother"
+        },
+        {
+          "name_id": "Abdul Muthalib bin Hasyim",
+          "name_en": "Abd al-Muttalib ibn Hashim",
+          "role": "Kakek Nabi / Prophet's Grandfather"
+        },
+        {
+          "name_id": "Halimah As-Sa'diyah",
+          "name_en": "Halimah al-Sa'diyyah",
+          "role": "Ibu Susu / Wet-nurse"
+        },
+        {
+          "name_id": "Abu Thalib bin Abdul Muthalib",
+          "name_en": "Abu Talib ibn Abd al-Muttalib",
+          "role": "Paman & Pengasuh / Uncle & Guardian"
+        },
+        {
+          "name_id": "Ummu Aiman (Barakah)",
+          "name_en": "Umm Ayman (Barakah)",
+          "role": "Pengasuh setia / Faithful caretaker"
+        },
+        {
+          "name_id": "Al-Harits bin Abdul Uzza",
+          "name_en": "Al-Harith ibn Abd al-Uzza",
+          "role": "Suami Halimah / Halimah's husband"
+        }
+      ]
+    },
+    {
+      "id": "e03",
+      "title": "Perjalanan dagang ke Syam bersama Abu Thalib — pendeta Bahira mengenali tanda kenabian",
+      "year": 583,
+      "year_end": null,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia",
+        "levant"
+      ],
+      "category": "prophetic",
+      "desc": "Nabi Muhammad SAW remaja ikut perjalanan dagang ke Syam bersama pamannya Abu Thalib. Pendeta Bahira mengenali tanda-tanda kenabian pada beliau.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abu Thalib",
+        "Pendeta Bahira"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Perjalanan Dagang ke Syam",
+      "title_en": "The Trading Journey to Syria",
+      "location": "Makkah - Busra",
+      "tags": [
+        "perjalanan",
+        "syam"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-tirmidzi",
+          "title": "Sunan al-Tirmidzi",
+          "author": "Al-Tirmidzi",
+          "type": "hadith"
+        },
+        {
+          "id": "qs--quraisy",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Quraisy",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e04",
+      "title": "Pernikahan dengan Khadijah binti Khuwaylid",
+      "year": 595,
+      "year_end": null,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Pernikahan Nabi Muhammad SAW dengan Khadijah, wanita pedagang sukses yang menjadi pendukung utama dakwah Islam.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Khadijah binti Khuwaylid"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Pernikahan dengan Khadijah binti Khuwaylid",
+      "title_en": "The Marriage to Khadijah bint Khuwaylid",
+      "location": "Makkah, Jazirah Arab",
+      "tags": [
+        "pernikahan",
+        "khadijah",
+        "khadijah-binti-khuwaylid",
+        "makkah",
+        "pra-kenabian",
+        "abu-thalib",
+        "nafisah",
+        "maysarah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Nabi Muhammad SAW",
+          "name_en": "Prophet Muhammad ﷺ",
+          "role": "protagonist"
+        },
+        {
+          "name_id": "Khadijah binti Khuwaylid",
+          "name_en": "Khadijah bint Khuwaylid",
+          "role": "wife"
+        },
+        {
+          "name_id": "Maysarah",
+          "name_en": "Maysarah",
+          "role": "servant"
+        },
+        {
+          "name_id": "Nafisah binti Munyah",
+          "name_en": "Nafisah bint Munyah",
+          "role": "matchmaker"
+        },
+        {
+          "name_id": "Abu Thalib",
+          "name_en": "Abu Talib",
+          "role": "uncle"
+        }
+      ]
+    },
+    {
+      "id": "e05",
+      "title": "Renovasi Ka'bah & penyelesaian sengketa Hajar Aswad",
+      "year": 605,
+      "year_end": null,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Suku-suku Quraisy merenovasi Ka'bah. Terjadi sengketa siapa yang berhak meletakkan Hajar Aswad. Nabi Muhammad SAW menyelesaikannya dengan kebijaksanaan — meletakkan batu di atas kain yang diangkat bersama.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Renovasi Ka'bah dan Hajar Aswad",
+      "title_en": "The Renovation of Ka'bah",
+      "location": "Makkah",
+      "tags": [
+        "renovasi",
+        "kabah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-azraqi",
+          "title": "Akhbar Makkah wa Ma Ja'a fiha min al-Atsar",
+          "author": "Al-Azraqi",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e06",
+      "title": "Wahyu Pertama (Iqra') di Gua Hira",
+      "year": 610,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Turunnya wahyu pertama (QS. Al-'Alaq: 1-5) kepada Nabi Muhammad SAW melalui malaikat Jibril di Gua Hira, menandai awal kenabian.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Jibril AS"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Wahyu Pertama di Gua Hira",
+      "title_en": "The First Revelation at Cave Hira",
+      "location": "Gua Hira, Makkah",
+      "tags": [
+        "wahyu",
+        "pertama"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hajar-al-asqalan",
+          "title": "Fath al-Bari Syarh Shahih al-Bukhari",
+          "author": "Ibn Hajar al-Asqalani",
+          "type": "hadith"
+        },
+        {
+          "id": "qs--al--alaq",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-'Alaq",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e07",
+      "title": "Dakwah sembunyi-sembunyi (3 tahun pertama)",
+      "year": 610,
+      "year_end": 613,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Nabi Muhammad SAW berdakwah secara rahasia selama tiga tahun pertama. Para pemeluk Islam awal (as-Sabiqunal Awwalun) termasuk Khadijah, Abu Bakr, Ali, dan Zaid bin Haritsah.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Khadijah binti Khuwaylid",
+        "Abu Bakr as-Siddiq",
+        "Ali ibn Abi Thalib",
+        "Zaid bin Haritsah"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Dakwah Sembunyi-Sembunyi",
+      "title_en": "The Secret Preaching",
+      "location": "Makkah",
+      "tags": [
+        "dakwah",
+        "sembunyi"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al--alaq--al--as",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-'Alaq, Al-'Ashr",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e08",
+      "title": "Dakwah terang-terangan dari bukit Shafa",
+      "year": 613,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Setelah turun perintah untuk berdakwah secara terbuka, Nabi Muhammad SAW naik ke bukit Shafa dan menyeru seluruh penduduk Makkah kepada tauhid.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Dakwah Terang-Terangan",
+      "title_en": "The Open Preaching",
+      "location": "Makkah",
+      "tags": [
+        "dakwah",
+        "terang"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Tafsir al-Qur'an al-'Azhim",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e108",
+      "title": "Bilal bin Rabbah — Muadzin Pertama & Simbol Kesetaraan Islam",
+      "year": 614,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Bilal bin Rabbah, budak Habasyah yang disiksa oleh Umayyah bin Khalaf karena memeluk Islam — hanya mengucapkan \"Ahad, Ahad\" (Allah Maha Esa). Dibebaskan oleh Abu Bakr. Ditunjuk Nabi Muhammad SAW sebagai muadzin pertama Islam. Kisahnya menjadi simbol kesetaraan manusia dalam Islam — tidak ada keutamaan ras, warna kulit, atau status sosial.",
+      "figures": [
+        "Bilal bin Rabbah",
+        "Abu Bakr as-Siddiq",
+        "Umayyah bin Khalaf"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Bilal bin Rabah - Muadzin Pertama",
+      "title_en": "Bilal - The First Muezzin",
+      "location": "Makkah - Madinah",
+      "tags": [
+        "bilal"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hajar-al-asqalan",
+          "title": "Al-Ishabah fi Tamyiz al-Shahabah",
+          "author": "Ibn Hajar al-Asqalani",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-bin-hanbal",
+          "title": "Musnad Ahmad",
+          "author": "Ahmad bin Hanbal",
+          "type": "hadith"
+        },
+        {
+          "id": "qs--al-hujurat",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Hujurat",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e09",
+      "title": "Hijrah pertama ke Habasyah (Ethiopia)",
+      "year": 615,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Sebagian kaum Muslim hijrah ke Habasyah (Ethiopia) untuk menghindari penyiksaan Quraisy. Raja Najasyi (Negus) memberikan perlindungan kepada mereka.",
+      "figures": [
+        "Ja'far ibn Abi Thalib",
+        "Raja Najasyi"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Hijrah ke Habasyah",
+      "title_en": "The Migration to Abyssinia",
+      "location": "Habasyah",
+      "tags": [
+        "hijrah",
+        "habasyah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-bin-hanbal",
+          "title": "Musnad Ahmad",
+          "author": "Ahmad bin Hanbal",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--maryam",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Maryam",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e10",
+      "title": "Pemboikotan Bani Hasyim di Syi'b Abu Thalib",
+      "year": 616,
+      "year_end": 619,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Quraisy memboikot Bani Hasyim dan Bani Abdul Muthalib selama tiga tahun — tidak boleh jual-beli, menikah, atau bergaul. Kaum Muslim bertahan dalam kondisi sangat sulit.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abu Thalib"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pemboikotan Bani Hasyim",
+      "title_en": "The Boycott of Banu Hashim",
+      "location": "Makkah",
+      "tags": [
+        "pemboikotan"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e11",
+      "title": "'Am al-Huzn — wafat Khadijah & Abu Thalib",
+      "year": 619,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Tahun kesedihan — Khadijah binti Khuwaylid (istri tercinta) dan Abu Thalib (paman pelindung) wafat dalam waktu berdekatan. Nabi kehilangan dua pendukung utamanya.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Khadijah binti Khuwaylid",
+        "Abu Thalib"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Tahun Kesedihan",
+      "title_en": "The Year of Sorrow",
+      "location": "Makkah",
+      "tags": [
+        "amul",
+        "huzn"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-dhuha--al-qas",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Dhuha, Al-Qashash",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e12",
+      "title": "Isra' Mi'raj — perintah shalat 5 waktu",
+      "year": 620,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia",
+        "levant"
+      ],
+      "category": "prophetic",
+      "desc": "Perjalanan malam Nabi Muhammad SAW dari Masjidil Haram ke Masjidil Aqsha (Isra') dan naik ke langit (Mi'raj). Diperintahkan shalat lima waktu.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Jibril AS"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Isra Mi'raj",
+      "title_en": "The Night Journey and Ascension",
+      "location": "Makkah - Yerusalem",
+      "tags": [
+        "isra",
+        "miraj"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim",
+          "type": "hadith"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "al-thabari",
+          "title": "Tafsir al-Thabari",
+          "author": "Al-Thabari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-isra---al-naj",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra', Al-Najm",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e13",
+      "title": "Bai'at Aqabah Pertama (12 orang Madinah)",
+      "year": 621,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Dua belas orang dari Madinah (suku Aus dan Khazraj) bertemu Nabi di Aqabah dan berbai'at untuk memeluk Islam serta meninggalkan keburukan.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Baiat Aqabah Pertama",
+      "title_en": "The First Pledge of Aqabah",
+      "location": "Aqabah, Mina",
+      "tags": [
+        "baiat",
+        "aqabah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Al-Thabaqat al-Kubra",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Shahih al-Bukhari",
+          "author": "Al-Bukhari",
+          "type": "hadith"
+        },
+        {
+          "id": "al-thabari",
+          "title": "Tafsir al-Thabari",
+          "author": "Al-Thabari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anfal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e14",
+      "title": "Bai'at Aqabah Kedua (75 orang Madinah)",
+      "year": 622,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Tujuh puluh lima orang Madinah berbai'at kepada Nabi untuk melindungi dan membela beliau, membuka jalan bagi hijrah ke Madinah.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Baiat Aqabah Kedua",
+      "title_en": "The Second Pledge of Aqabah",
+      "location": "Aqabah, Mina",
+      "tags": [
+        "baiat",
+        "aqabah",
+        "kedua"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e15",
+      "title": "Hijrah ke Madinah — awal penanggalan Hijriyah",
+      "year": 622,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Perpindahan Nabi Muhammad SAW dan kaum Muslim dari Makkah ke Madinah. Menjadi titik awal penanggalan Hijriyah dan berdirinya negara Islam pertama.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abu Bakr as-Siddiq"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Hijrah ke Madinah",
+      "title_en": "The Migration to Madinah",
+      "location": "Makkah - Madinah",
+      "tags": [
+        "hijrah",
+        "madinah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anfal--al-taw",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal, Al-Tawbah, Yasin",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e16",
+      "title": "Piagam Madinah — konstitusi tertulis pertama",
+      "year": 622,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Konstitusi tertulis pertama yang mengatur hubungan antar suku dan agama di Madinah — contoh awal pluralisme dan tatanan sipil.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Piagam Madinah",
+      "title_en": "The Constitution of Madinah",
+      "location": "Madinah",
+      "tags": [
+        "piagam",
+        "madinah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "abu-ubayd-al-qasim-b",
+          "title": "Abu Ubayd al-Qasim bin Sallam.",
+          "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e17",
+      "title": "Pembangunan Masjid Nabawi & persaudaraan Muhajirin-Anshar",
+      "year": 622,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "heritage",
+      "desc": "Nabi Muhammad SAW membangun Masjid Nabawi di Madinah sebagai pusat ibadah dan pemerintahan. Beliau juga mempersaudarakan kaum Muhajirin (pendatang Makkah) dengan Anshar (penduduk Madinah).",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pembangunan Masjid Nabawi",
+      "title_en": "The Construction of Masjid Nabawi",
+      "location": "Madinah",
+      "tags": [
+        "masjid",
+        "nabawi"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e18",
+      "title": "Perubahan kiblat dari Baitul Maqdis ke Ka'bah",
+      "year": 623,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Turun perintah mengubah arah kiblat shalat dari Baitul Maqdis (Yerusalem) ke Ka'bah (Makkah), menegaskan identitas umat Islam.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perubahan Arah Kiblat",
+      "title_en": "The Change of Qiblah Direction",
+      "location": "Madinah",
+      "tags": [
+        "perubahan",
+        "kiblat"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e19",
+      "title": "Perang Badr — kemenangan pertama kaum Muslim",
+      "year": 624,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Kemenangan pertama kaum Muslim melawan pasukan Quraisy. 313 Muslim mengalahkan ~1000 pasukan Makkah.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Hamzah ibn Abdul Muthalib",
+        "Ali ibn Abi Thalib"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perang Badr",
+      "title_en": "The Battle of Badr",
+      "location": "Badr, Hijaz",
+      "tags": [
+        "perang",
+        "badr"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anfal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e20",
+      "title": "Perang Uhud — ujian kekalahan & pelajaran",
+      "year": 625,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Kaum Muslim menghadapi kekalahan di Uhud karena sebagian pasukan meninggalkan posisi. Hamzah ibn Abdul Muthalib gugur. Pelajaran tentang ketaatan dan kesabaran.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Hamzah ibn Abdul Muthalib",
+        "Khalid ibn al-Walid"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perang Uhud",
+      "title_en": "The Battle of Uhud",
+      "location": "Gunung Uhud, Madinah",
+      "tags": [
+        "perang",
+        "uhud"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "qs--ali",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ali",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e21",
+      "title": "Perang Khandaq (Parit) — strategi pertahanan Salman al-Farisi",
+      "year": 627,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Koalisi Quraisy dan sekutu menyerang Madinah. Atas saran Salman al-Farisi, digali parit (khandaq) untuk pertahanan — strategi yang belum dikenal bangsa Arab.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Salman al-Farisi"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perang Khandaq",
+      "title_en": "The Battle of the Trench",
+      "location": "Madinah",
+      "tags": [
+        "perang",
+        "khandaq"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-ahzab",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Ahzab",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e22",
+      "title": "Perjanjian Hudaibiyah — diplomasi & perdamaian",
+      "year": 628,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Perjanjian damai antara kaum Muslim dan Quraisy selama 10 tahun. Awalnya dianggap merugikan, namun Al-Qur'an menyebutnya 'kemenangan yang nyata' (Fath Mubin).",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perjanjian Hudaibiyah",
+      "title_en": "The Treaty of Hudaybiyyah",
+      "location": "Hudaibiyah",
+      "tags": [
+        "hudaibiyah"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-fath",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fath",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e23",
+      "title": "Surat-surat dakwah ke raja-raja (Romawi, Persia, Mesir, Habasyah)",
+      "year": 628,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia",
+        "levant",
+        "persia",
+        "egypt"
+      ],
+      "category": "prophetic",
+      "desc": "Nabi Muhammad SAW mengirim surat dakwah ke para penguasa dunia: Heraclius (Romawi), Kisra (Persia), Muqauqis (Mesir), dan Najasyi (Habasyah).",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Surat Dakwah kepada Raja-Raja",
+      "title_en": "Letters to the Kings",
+      "location": "Madinah",
+      "tags": [
+        "surat",
+        "dakwah",
+        "raja"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anbiya--ali",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anbiya, Ali",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e24",
+      "title": "Perang Khaibar",
+      "year": 629,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Kaum Muslim menaklukkan benteng-benteng Yahudi Khaibar di utara Madinah. Ali ibn Abi Thalib memainkan peran kunci dalam penaklukan.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Ali ibn Abi Thalib"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Perang Khaibar",
+      "title_en": "The Battle of Khaybar",
+      "location": "Khaibar",
+      "tags": [
+        "perang",
+        "khaibar"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e25",
+      "title": "Umrah Qadha — kembali ke Makkah secara damai",
+      "year": 629,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Sesuai Perjanjian Hudaibiyah, kaum Muslim kembali ke Makkah untuk menunaikan umrah yang tertunda — tiga hari di Makkah secara damai.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Umrah Qadha",
+      "title_en": "The Compensatory Umrah",
+      "location": "Makkah",
+      "tags": [
+        "umrah",
+        "qadha"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-waqidi",
+          "title": "Al-Waqidi, Abu Abdullah Muhammad bin Umar.",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e26",
+      "title": "Fath Makkah — pembebasan Makkah tanpa pertumpahan darah",
+      "year": 630,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Pasukan Muslim 10.000 orang memasuki Makkah tanpa pertumpahan darah. Nabi memberi amnesti umum kepada penduduk Makkah.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Khalid ibn al-Walid"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Fath Makkah",
+      "title_en": "The Conquest of Makkah",
+      "location": "Makkah",
+      "tags": [
+        "fath",
+        "makkah"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-fath--al-isra",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Fath, Al-Isra, An-Nashr",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e27",
+      "title": "Penghancuran berhala di Ka'bah — pemurnian tauhid",
+      "year": 630,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Setelah pembebasan Makkah, Nabi Muhammad SAW menghancurkan 360 berhala di sekitar Ka'bah, mengembalikan Ka'bah sebagai rumah ibadah tauhid.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Penghancuran Berhala di Ka'bah",
+      "title_en": "The Destruction of Idols",
+      "location": "Makkah",
+      "tags": [
+        "penghancuran",
+        "berhala"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-hajj--al-isra",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Hajj, Al-Isra, An-Najm, Ash-Shaffat, Saba",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e28",
+      "title": "Perang Hunain & pengepungan Thaif",
+      "year": 630,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Setelah Fath Makkah, kaum Muslim menghadapi koalisi suku Hawazin dan Tsaqif di Hunain. Awalnya terdesak, akhirnya menang. Dilanjutkan pengepungan Thaif.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Perang Hunain",
+      "title_en": "The Battle of Hunayn",
+      "location": "Lembah Hunain",
+      "tags": [
+        "perang",
+        "hunain"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--at-taubah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Taubah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e109",
+      "title": "Perang Tabuk — ekspedisi terakhir Nabi Muhammad SAW",
+      "year": 630,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia",
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Ekspedisi militer terakhir yang dipimpin langsung oleh Nabi Muhammad SAW. Pasukan 30.000 Muslim berbaris ke perbatasan Romawi Timur di Tabuk (utara Hijaz) di tengah musim panas yang sangat panas. Meskipun tidak terjadi pertempuran, ekspedisi ini menunjukkan kekuatan Islam dan mengamankan perbatasan utara. Peristiwa ini juga menjadi ujian keimanan — munafik yang enggan berangkat terekspos, dan tiga sahabat yang tertinggal (Ka'b bin Malik, Murarah bin Rabi', Hilal bin Umayyah) diboikot 50 hari sebelum taubat mereka diterima Allah (QS. At-Taubah: 118).",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abu Bakr as-Siddiq",
+        "Utsman ibn Affan",
+        "Ka'b bin Malik"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perang Tabuk",
+      "title_en": "The Battle of Tabuk",
+      "location": "Tabuk",
+      "tags": [
+        "perang",
+        "tabuk"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--at-taubah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Taubah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e29",
+      "title": "'Am al-Wufud — tahun delegasi suku-suku masuk Islam",
+      "year": 631,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Tahun ke-9 Hijriyah dikenal sebagai Tahun Delegasi — suku-suku Arab dari seluruh jazirah mengirim utusan ke Madinah untuk menyatakan keislaman.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Tahun Delegasi",
+      "title_en": "The Year of Delegations",
+      "location": "Madinah",
+      "tags": [
+        "amul",
+        "wufud"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah--al-h",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah, Al-Hujurat, Ali, An-Nashr",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e30",
+      "title": "Haji Wada' & Khutbah terakhir — hak asasi manusia dalam Islam",
+      "year": 632,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Haji perpisahan Nabi Muhammad SAW. Dalam khutbahnya, beliau menegaskan kesamaan derajat manusia, hak-hak perempuan, dan larangan riba serta penindasan.",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Haji Wada",
+      "title_en": "The Farewell Pilgrimage",
+      "location": "Makkah - Arafah",
+      "tags": [
+        "haji",
+        "wada"
+      ],
+      "sources": [
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Mubarakfuri, Shafiyyurrahman.",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-bin-hanbal--al",
+          "title": "Ahmad bin Hanbal.",
+          "author": "Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah--al-m",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah, Al-Ma'idah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e31",
+      "title": "Wafat Rasulullah SAW (12 Rabiul Awal 11 H)",
+      "year": 632,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "prophetic",
+      "desc": "Nabi Muhammad SAW wafat pada 12 Rabiul Awal 11 H di Madinah di pangkuan Aisyah. Abu Bakr berkata: 'Siapa yang menyembah Muhammad, Muhammad telah wafat. Siapa yang menyembah Allah, Allah Maha Hidup dan tidak pernah mati.'",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Abu Bakr as-Siddiq",
+        "Aisyah binti Abu Bakr"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Wafat Rasulullah SAW",
+      "title_en": "The Passing of Prophet Muhammad",
+      "location": "Madinah",
+      "tags": [
+        "wafat",
+        "rasulullah"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-hisham",
+          "title": "Ibn Hisham, Abu Muhammad Abdul Malik.",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sa-d",
+          "title": "Ibn Sa'd, Abu Abdullah Muhammad.",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs--ali",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ali",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e32",
+      "title": "Abu Bakr as-Siddiq — Khalifah Pertama",
+      "year": 632,
+      "year_end": 634,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "political",
+      "desc": "Abu Bakr terpilih sebagai khalifah pertama setelah wafatnya Rasulullah. Memimpin selama ~2 tahun dengan menjaga persatuan umat.",
+      "figures": [
+        "Abu Bakr as-Siddiq"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Abu Bakar as-Siddiq Menjadi Khalifah",
+      "title_en": "Abu Bakr Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "abu",
+        "bakr",
+        "khalifah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abdurrahman bin Ali.",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e33",
+      "title": "Perang Riddah (Perang Kemurtadan)",
+      "year": 632,
+      "year_end": 633,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Abu Bakr memerangi suku-suku Arab yang murtad dan menolak membayar zakat setelah wafatnya Nabi.",
+      "figures": [
+        "Abu Bakr as-Siddiq",
+        "Khalid ibn al-Walid"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Perang Riddah",
+      "title_en": "The Wars of Apostasy",
+      "location": "Jazirah Arab",
+      "tags": [
+        "perang",
+        "riddah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad bin Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-ma-idah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Ma'idah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e110",
+      "title": "Perang Yamamah — gugurnya para penghafal Quran",
+      "year": 633,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "military",
+      "desc": "Pertempuran terbesar dalam Perang Riddah melawan Musailamah al-Kadzab dan pengikutnya Bani Hanifah. Meskipun kaum Muslim menang, sekitar 70 penghafal Quran gugur — menjadi alasan utama Abu Bakr memerintahkan pengumpulan Al-Quran dalam satu mushaf.",
+      "figures": [
+        "Khalid ibn al-Walid",
+        "Musailamah al-Kadzab",
+        "Wahsyi bin Harb"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Perang Yamamah",
+      "title_en": "The Battle of Yamamah",
+      "location": "Yamamah",
+      "tags": [
+        "perang",
+        "yamamah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail bin Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--ali",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ali",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e34",
+      "title": "Pengumpulan Mushaf Al-Qur'an",
+      "year": 633,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "knowledge",
+      "desc": "Atas usul Umar, Abu Bakr memerintahkan Zaid ibn Tsabit mengumpulkan Al-Qur'an dalam satu mushaf setelah banyak penghafal gugur di Perang Yamamah.",
+      "figures": [
+        "Abu Bakr as-Siddiq",
+        "Umar ibn al-Khattab",
+        "Zaid ibn Tsabit"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pengumpulan Mushaf Al-Quran",
+      "title_en": "The Compilation of the Quran Manuscript",
+      "location": "Madinah",
+      "tags": [
+        "pengumpulan",
+        "mushaf"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "al-suyuti",
+          "title": "Al-Suyuti, Jalal al-Din Abdurrahman.",
+          "author": "Al-Suyuti",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e111",
+      "title": "Pertempuran Ajnadayn — pembuka penaklukan Levant",
+      "year": 634,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Kemenangan Muslim pertama melawan pasukan utama Bizantium di Palestina. Membuka jalan penaklukan seluruh Levant (Syam). Pasukan Muslim dari berbagai front digabungkan di bawah komando Khalid ibn al-Walid.",
+      "figures": [
+        "Khalid ibn al-Walid",
+        "Amr ibn al-Ash"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pertempuran Ajnadayn",
+      "title_en": "The Battle of Ajnadayn",
+      "location": "Ajnadayn, Palestina",
+      "tags": [
+        "pertempuran",
+        "ajnadayn"
+      ],
+      "sources": [
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad bin Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din Abu al-Hasan.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-isra",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e35",
+      "title": "Umar ibn al-Khattab — Khalifah Kedua",
+      "year": 634,
+      "year_end": 644,
+      "era": "rashidun",
+      "regions": [
+        "arabia",
+        "levant",
+        "persia",
+        "egypt"
+      ],
+      "category": "political",
+      "desc": "Khalifah kedua yang memimpin ekspansi besar-besaran. Mendirikan sistem administrasi negara, baitul mal, dan kalender Hijriyah.",
+      "figures": [
+        "Umar ibn al-Khattab"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Umar bin Khattab Menjadi Khalifah",
+      "title_en": "Umar Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "umar",
+        "khalifah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e36",
+      "title": "Pertempuran Qadisiyyah / Penaklukan Persia",
+      "year": 636,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "persia"
+      ],
+      "category": "military",
+      "desc": "Kemenangan pasukan Muslim atas Kekaisaran Sasaniyah (Persia) yang menandai awal runtuhnya kekuasaan Persia.",
+      "figures": [
+        "Sa'ad ibn Abi Waqqas"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pertempuran Qadisiyyah",
+      "title_en": "The Battle of Qadisiyyah",
+      "location": "Qadisiyyah, Irak",
+      "tags": [
+        "pertempuran",
+        "qadisiyyah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anbiya",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anbiya",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e37",
+      "title": "Penaklukan Yerusalem / Al-Quds",
+      "year": 637,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Khalifah Umar menerima kunci kota Yerusalem dari Patriark Sophronius. Umar menolak shalat di Gereja agar tidak dijadikan masjid.",
+      "figures": [
+        "Umar ibn al-Khattab",
+        "Patriark Sophronius"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Penaklukan Yerusalem",
+      "title_en": "The Conquest of Jerusalem",
+      "location": "Yerusalem",
+      "tags": [
+        "penaklukan",
+        "yerusalem"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-isra",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e38",
+      "title": "Penaklukan Mesir",
+      "year": 641,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "egypt"
+      ],
+      "category": "military",
+      "desc": "Amr ibn al-Ash menaklukkan Mesir dari Bizantium dan mendirikan kota Fustat (cikal bakal Kairo).",
+      "figures": [
+        "Amr ibn al-Ash"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Penaklukan Mesir",
+      "title_en": "The Conquest of Egypt",
+      "location": "Mesir",
+      "tags": [
+        "penaklukan",
+        "mesir"
+      ],
+      "sources": [
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-abd-al-hakam",
+          "title": "Ibn Abd al-Hakam, Abu al-Qasim Abdurrahman.",
+          "author": "Ibn Abd al-Hakam",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e107",
+      "title": "Utsman ibn Affan — Khalifah Ketiga",
+      "year": 644,
+      "year_end": 656,
+      "era": "rashidun",
+      "regions": [
+        "arabia",
+        "levant",
+        "persia",
+        "egypt"
+      ],
+      "category": "political",
+      "desc": "Khalifah ketiga, dermawan besar yang digelari \"Dzun Nurain\" (pemilik dua cahaya) karena menikahi dua putri Nabi. Memperluas wilayah Islam hingga Armenia, Cyprus, dan Afrika Utara. Membangun armada laut pertama Islam. Masa akhirnya ditandai fitnah yang berujung pada syahidnya beliau.",
+      "figures": [
+        "Utsman ibn Affan"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Utsman bin Affan Menjadi Khalifah",
+      "title_en": "Uthman Becomes Caliph",
+      "location": "Madinah",
+      "tags": [
+        "utsman",
+        "khalifah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Abu al-Fida Ismail.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "al-tirmidzi",
+          "title": "Al-Tirmidzi, Abu Isa Muhammad.",
+          "author": "Al-Tirmidzi",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Baqarah",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e39",
+      "title": "Standardisasi Mushaf oleh Utsman",
+      "year": 650,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "knowledge",
+      "desc": "Khalifah Utsman memerintahkan penyeragaman mushaf Al-Qur'an dan mengirimkan salinan ke seluruh provinsi untuk mencegah perbedaan bacaan.",
+      "figures": [
+        "Utsman ibn Affan",
+        "Zaid ibn Tsabit"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Standardisasi Mushaf",
+      "title_en": "The Standardization of the Quran",
+      "location": "Madinah",
+      "tags": [
+        "standardisasi",
+        "mushaf"
+      ],
+      "sources": [
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "al-suyuti",
+          "title": "Al-Suyuti, Jalaluddin Abdurrahman.",
+          "author": "Al-Suyuti",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-abi-dawud",
+          "title": "Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulaiman.",
+          "author": "Ibn Abi Dawud",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-hijr",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Hijr",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e40",
+      "title": "Ali ibn Abi Thalib — Khalifah Keempat",
+      "year": 656,
+      "year_end": 661,
+      "era": "rashidun",
+      "regions": [
+        "arabia",
+        "persia"
+      ],
+      "category": "political",
+      "desc": "Khalifah keempat, sepupu dan menantu Nabi. Masa kepemimpinannya ditandai perang saudara (fitnah) namun dikenal akan keadilan dan ilmunya.",
+      "figures": [
+        "Ali ibn Abi Thalib"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Ali bin Abi Thalib Menjadi Khalifah",
+      "title_en": "Ali Becomes Caliph",
+      "location": "Madinah - Kufah",
+      "tags": [
+        "ali",
+        "khalifah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Abu al-Fida Ismail.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "al-radhi",
+          "title": "Al-Radhi, Syarif Abu al-Hasan Muhammad.",
+          "author": "Al-Radhi",
+          "type": "primary"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e41",
+      "title": "Pertempuran Shiffin / Fitnah Pertama",
+      "year": 657,
+      "year_end": null,
+      "era": "rashidun",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Pertempuran antara pasukan Ali dan Muawiyah yang berakhir dengan arbitrase (tahkim). Memicu perpecahan politik besar dalam Islam.",
+      "figures": [
+        "Ali ibn Abi Thalib",
+        "Muawiyah ibn Abu Sufyan"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Pertempuran Shiffin",
+      "title_en": "The Battle of Siffin",
+      "location": "Shiffin, Syam",
+      "tags": [
+        "pertempuran",
+        "shiffin"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izzuddin Abu al-Hasan Ali.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "nasr-ibn-muzahim-al-",
+          "title": "Nasr ibn Muzahim al-Minqari.",
+          "author": "Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e42",
+      "title": "Muawiyah Mendirikan Dinasti Umayyah",
+      "year": 661,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "political",
+      "desc": "Setelah wafatnya Ali, Muawiyah menjadi khalifah dan memindahkan ibukota ke Damaskus, mendirikan dinasti Umayyah.",
+      "figures": [
+        "Muawiyah ibn Abu Sufyan"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Berdirinya Dinasti Umayyah",
+      "title_en": "The Umayyad Dynasty",
+      "location": "Damaskus",
+      "tags": [
+        "dinasti",
+        "umayyah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e43",
+      "title": "Penaklukan Afrika Utara",
+      "year": 670,
+      "year_end": 710,
+      "era": "umayyad",
+      "regions": [
+        "egypt"
+      ],
+      "category": "military",
+      "desc": "Ekspansi Islam ke seluruh Afrika Utara di bawah Umayyah, menaklukkan wilayah Berber hingga Maroko.",
+      "figures": [
+        "Uqba ibn Nafi"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Penaklukan Afrika Utara",
+      "title_en": "The Conquest of North Africa",
+      "location": "Afrika Utara",
+      "tags": [
+        "penaklukan",
+        "afrika",
+        "utara"
+      ],
+      "sources": [
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--an-nisa",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nisa",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e44",
+      "title": "Tragedi Karbala — Syahidnya Husain ibn Ali",
+      "year": 680,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "persia"
+      ],
+      "category": "political",
+      "desc": "Husain ibn Ali, cucu Nabi Muhammad SAW, beserta rombongan kecilnya dibantai di Karbala oleh pasukan Yazid ibn Muawiyah. Peristiwa ini menjadi akar perpecahan Sunni-Syiah dan simbol perlawanan terhadap kezaliman.",
+      "figures": [
+        "Husain ibn Ali",
+        "Yazid ibn Muawiyah"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Tragedi Karbala",
+      "title_en": "The Tragedy of Karbala",
+      "location": "Karbala, Irak",
+      "tags": [
+        "tragedi",
+        "karbala"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "abu-mikhnaf",
+          "title": "Abu Mikhnaf, Lut ibn Yahya.",
+          "author": "Abu Mikhnaf",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e45",
+      "title": "Dome of the Rock Dibangun",
+      "year": 691,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah Abdul Malik ibn Marwan membangun Qubbat al-Sakhra (Dome of the Rock) di Yerusalem — salah satu monumen arsitektur Islam paling ikonik.",
+      "figures": [
+        "Abdul Malik ibn Marwan"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Pembangunan Dome of the Rock",
+      "title_en": "The Dome of the Rock",
+      "location": "Yerusalem",
+      "tags": [
+        "dome",
+        "of",
+        "the",
+        "rock"
+      ],
+      "sources": [
+        {
+          "id": "mujir-al-din-al-hanb",
+          "title": "Mujir al-Din al-Hanbali, Abu al-Yumn.",
+          "author": "Mujir al-Din al-Hanbali",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-isra--an-nisa",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra, An-Nisa",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e46",
+      "title": "Awal Gerakan Penerjemahan",
+      "year": 700,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "persia",
+        "levant"
+      ],
+      "category": "knowledge",
+      "desc": "Dimulainya penerjemahan teks-teks Yunani, Persia, dan India ke bahasa Arab yang kelak menjadi gerakan masif di era Abbasiyah.",
+      "figures": [
+        "Khalid ibn Yazid"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Gerakan Penerjemahan Besar",
+      "title_en": "The Great Translation Movement",
+      "location": "Baghdad",
+      "tags": [
+        "gerakan",
+        "penerjemahan"
+      ],
+      "sources": [
+        {
+          "id": "ibn-al-qifti",
+          "title": "Ibn al-Qifti, Jamal al-Din.",
+          "author": "Ibn al-Qifti",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-abi-usaybi-ah",
+          "title": "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.",
+          "author": "Ibn Abi Usaybi'ah",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-nadim",
+          "title": "Ibn al-Nadim, Abu al-Faraj Muhammad.",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-alaq",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Alaq",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e47",
+      "title": "Penaklukan Al-Andalus / Tariq ibn Ziyad",
+      "year": 711,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "andalus"
+      ],
+      "category": "military",
+      "desc": "Tariq ibn Ziyad menyeberangi Selat Gibraltar dan menaklukkan sebagian besar Semenanjung Iberia, mendirikan peradaban Islam di Eropa.",
+      "figures": [
+        "Tariq ibn Ziyad",
+        "Musa ibn Nusayr"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Penaklukan Andalusia",
+      "title_en": "The Conquest of Andalusia",
+      "location": "Andalusia, Spanyol",
+      "tags": [
+        "penaklukan",
+        "andalus"
+      ],
+      "sources": [
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-maqqari",
+          "title": "Al-Maqqari, Ahmad ibn Muhammad.",
+          "author": "Al-Maqqari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Ibn al-Athir, Izz al-Din.",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anfal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e112",
+      "title": "Penaklukan Sindh — Muhammad bin Qasim",
+      "year": 711,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "india"
+      ],
+      "category": "military",
+      "desc": "Muhammad bin Qasim (17 tahun) memimpin pasukan Umayyah menaklukkan Sindh (Pakistan modern). Penaklukan ini paralel dengan Tariq ibn Ziyad di Andalus — Islam meluas ke timur dan barat secara bersamaan. Awal masuknya Islam ke anak benua India.",
+      "figures": [
+        "Muhammad bin Qasim",
+        "Raja Dahir"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Penaklukan Sindh",
+      "title_en": "The Conquest of Sindh",
+      "location": "Sindh, Pakistan",
+      "tags": [
+        "penaklukan",
+        "sindh"
+      ],
+      "sources": [
+        {
+          "id": "ali-ibn-muhammad-al-",
+          "title": "Ali ibn Muhammad al-Kufi.",
+          "author": "Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
+          "type": "primary"
+        },
+        {
+          "id": "al-baladhuri",
+          "title": "Al-Baladhuri, Ahmad ibn Yahya.",
+          "author": "Al-Baladhuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--an-nisa",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nisa",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e48",
+      "title": "Umar ibn Abd al-Aziz — Khalifah Reformis",
+      "year": 717,
+      "year_end": 720,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "political",
+      "desc": "Khalifah ke-8 Umayyah yang dikenal sebagai 'Khalifah Rasyidin kelima'. Melakukan reformasi pajak, keadilan, dan penghentian perluasan wilayah.",
+      "figures": [
+        "Umar ibn Abd al-Aziz"
+      ],
+      "significance": "medium",
+      "status": "published",
+      "title_id": "Umar bin Abdul Aziz",
+      "title_en": "Umar ibn Abd al-Aziz",
+      "location": "Damaskus",
+      "tags": [
+        "umar",
+        "abdul",
+        "aziz"
+      ],
+      "sources": [
+        {
+          "id": "ibn-abd-al-hakam",
+          "title": "Ibn Abd al-Hakam, Abdullah.",
+          "author": "Ibn Abd al-Hakam",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-jawzi",
+          "title": "Ibn al-Jawzi, Abu al-Faraj.",
+          "author": "Ibn al-Jawzi",
+          "type": "primary"
+        },
+        {
+          "id": "qs--an-nahl",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nahl",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e113",
+      "title": "Pengepungan Konstantinopel Kedua",
+      "year": 717,
+      "year_end": 718,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Ekspedisi besar Umayyah untuk menaklukkan ibukota Bizantium. Pasukan darat dan laut Muslim mengepung kota selama setahun namun gagal akibat Greek fire, musim dingin, dan serangan Bulgar. Kegagalan ini menandai batas ekspansi Islam ke Eropa dari timur.",
+      "figures": [
+        "Maslamah ibn Abdul Malik",
+        "Kaisar Leo III"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Futuh al-Buldan — Al-Baladhuri"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e49",
+      "title": "Pertempuran Tours/Poitiers",
+      "year": 732,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "andalus"
+      ],
+      "category": "military",
+      "desc": "Pasukan Muslim di bawah Abdul Rahman al-Ghafiqi dikalahkan oleh Charles Martel. Menandai batas ekspansi Islam ke Eropa Barat.",
+      "figures": [
+        "Abdul Rahman al-Ghafiqi",
+        "Charles Martel"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Nafh al-Tib — Al-Maqqari",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e114",
+      "title": "Pertempuran Zab Besar — akhir Umayyah, awal Abbasiyah",
+      "year": 750,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "persia"
+      ],
+      "category": "military",
+      "desc": "Pertempuran yang mengakhiri Dinasti Umayyah dan mengawali Dinasti Abbasiyah. Pasukan Abbasiyah di bawah Abu al-Abbas al-Saffah mengalahkan Khalifah Marwan II di tepi Sungai Zab Besar (Irak utara). Mengubah arah peradaban Islam — pusat kekuasaan berpindah dari Damaskus ke Baghdad.",
+      "figures": [
+        "Abu al-Abbas al-Saffah",
+        "Marwan II",
+        "Abu Muslim al-Khurasani"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Muruj al-Dzahab — Al-Mas'udi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e50",
+      "title": "Revolusi Abbasiyah / Pendirian Baghdad",
+      "year": 750,
+      "year_end": 762,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "political",
+      "desc": "Dinasti Abbasiyah menggulingkan Umayyah (750) dan membangun Baghdad (762) sebagai ibukota baru — Madinah al-Salam (Kota Perdamaian).",
+      "figures": [
+        "Abu al-Abbas as-Saffah",
+        "Abu Ja'far al-Mansur"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e115",
+      "title": "Pertempuran Talas — Muslim vs Tang China",
+      "year": 751,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "military",
+      "desc": "Pasukan Abbasiyah dan sekutu Turki mengalahkan pasukan Dinasti Tang China di Sungai Talas (Kazakhstan modern). Pertempuran ini menentukan batas pengaruh Islam di Asia Tengah dan menghasilkan transfer teknologi pembuatan kertas dari tawanan perang China ke dunia Islam — revolusi yang mengubah peradaban.",
+      "figures": [
+        "Ziyad ibn Salih",
+        "Gao Xianzhi (Tang)"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Muruj al-Dzahab — Al-Mas'udi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e51",
+      "title": "Imam Abu Hanifah — Pendiri Madzhab Hanafi",
+      "year": 699,
+      "year_end": 767,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Abu Hanifah al-Nu'man ibn Tsabit, pendiri Madzhab Hanafi — madzhab fiqih terbesar di dunia Islam. Pelopor penggunaan ra'yu (penalaran) dan qiyas (analogi) dalam istinbath hukum.",
+      "figures": [
+        "Abu Hanifah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi",
+        "Wafayat al-A'yan — Ibn Khallikan",
+        "Al-Intiqaa — Ibn Abd al-Barr"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e52",
+      "title": "Imam Malik ibn Anas — Al-Muwatta & Madzhab Maliki",
+      "year": 711,
+      "year_end": 795,
+      "era": "golden_age",
+      "regions": [
+        "arabia"
+      ],
+      "category": "knowledge",
+      "desc": "Imam Malik ibn Anas, pendiri Madzhab Maliki. Menyusun Al-Muwatta — salah satu kitab hadits dan fiqih tertua. Mengutamakan amal ahli Madinah sebagai sumber hukum.",
+      "figures": [
+        "Malik ibn Anas"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Muwatta — Imam Malik",
+        "Tartib al-Madarik — Al-Qadhi 'Iyadh",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e53",
+      "title": "Rabi'ah al-Adawiyah — Pelopor Mahabbah Ilahiyyah",
+      "year": 714,
+      "year_end": 801,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Sufi wanita dari Basra, pelopor konsep cinta ilahi (mahabbah) tanpa pamrih — \"Aku menyembah-Mu bukan karena takut neraka atau mengharap surga, tapi karena cinta kepada-Mu.\" Mengubah orientasi zuhud dari rasa takut menjadi cinta.",
+      "figures": [
+        "Rabi'ah al-Adawiyah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tadzkirat al-Auliya — Fariduddin Attar",
+        "Al-Risala al-Qushayriyya — Al-Qushayri",
+        "Sifat al-Safwa — Ibn al-Jawzi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e54",
+      "title": "Baitul Hikmah Didirikan",
+      "year": 786,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "heritage",
+      "desc": "Harun ar-Rashid mendirikan Baitul Hikmah (House of Wisdom) di Baghdad sebagai pusat penerjemahan dan riset ilmiah terbesar di dunia saat itu.",
+      "figures": [
+        "Harun ar-Rashid"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Baitul Hikmah",
+      "title_en": "The House of Wisdom",
+      "location": "Baghdad",
+      "tags": [
+        "baitul",
+        "hikmah"
+      ],
+      "sources": [
+        {
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-ya-qubi",
+          "title": "Kitab al-Buldan",
+          "author": "Al-Ya'qubi",
+          "type": "primary"
+        },
+        {
+          "id": "al-khatib-al-baghdad",
+          "title": "Tarikh Baghdad",
+          "author": "Al-Khatib al-Baghdadi",
+          "type": "primary"
+        },
+        {
+          "id": "al-mas-udi",
+          "title": "Muruj al-Dhahab wa Ma'adin al-Jawhar",
+          "author": "Al-Mas'udi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-nadim",
+          "title": "Kitab al-Fihrist",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "hunayn-ibn-ishaq--ri",
+          "title": "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus",
+          "author": "Hunayn ibn Ishaq. Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus (Surat kepada Ali ibn Yahya tentang Karya-karya Galen yang Diterjemahkan).",
+          "type": "primary"
+        },
+        {
+          "id": "al-jahiz",
+          "title": "al-Bayan wa al-Tabyin",
+          "author": "Al-Jahiz",
+          "type": "primary"
+        },
+        {
+          "id": "qs--taha--al-mujadal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Taha, al-Mujadalah",
+          "type": "quran"
+        },
+        {
+          "id": "al-kindi",
+          "title": "Fi al-Falsafah al-Ula",
+          "author": "Al-Kindi",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e55",
+      "title": "Imam al-Shafi'i — Al-Risala & Dasar Ushul Fiqih",
+      "year": 767,
+      "year_end": 820,
+      "era": "golden_age",
+      "regions": [
+        "arabia",
+        "egypt"
+      ],
+      "category": "knowledge",
+      "desc": "Muhammad ibn Idris al-Shafi'i, pendiri Madzhab Syafi'i. Menulis Al-Risala — kitab pertama yang menyusun metodologi ushul fiqih secara sistematis. Menjembatani pendekatan ahl al-hadits dan ahl al-ra'yu.",
+      "figures": [
+        "Al-Shafi'i"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Risala — Imam al-Shafi'i",
+        "Wafayat al-A'yan — Ibn Khallikan",
+        "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e56",
+      "title": "Puncak Gerakan Penerjemahan (Era Al-Ma'mun)",
+      "year": 813,
+      "year_end": 833,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Khalifah Al-Ma'mun menjadikan Baitul Hikmah sebagai pusat penerjemahan besar — karya Aristoteles, Plato, Euclid, Galen, Ptolemy diterjemahkan ke bahasa Arab.",
+      "figures": [
+        "Al-Ma'mun",
+        "Hunayn ibn Ishaq"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Fihrist — Ibn al-Nadim",
+        "Tarikh al-Hukama — Ibn al-Qifti",
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e57",
+      "title": "Al-Khwarizmi: Aljabar & Algoritma",
+      "year": 820,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Muhammad ibn Musa al-Khwarizmi menulis 'Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabalah' — dasar aljabar modern. Namanya menjadi asal kata 'algoritma'.",
+      "figures": [
+        "Al-Khwarizmi"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Al-Khwarizmi - Bapak Aljabar",
+      "title_en": "Al-Khwarizmi - Father of Algebra",
+      "location": "Baghdad",
+      "tags": [
+        "al",
+        "khwarizmi"
+      ],
+      "sources": [
+        {
+          "id": "ibn-al-nadim",
+          "title": "Kitab al-Fihrist",
+          "author": "Ibn al-Nadim",
+          "type": "primary"
+        },
+        {
+          "id": "al-biruni",
+          "title": "Kitab al-Hind",
+          "author": "Al-Biruni",
+          "type": "primary"
+        },
+        {
+          "id": "euclid--elements---g",
+          "title": "Elements",
+          "author": "Euclid. Elements — geometri Yunani klasik.",
+          "type": "primary"
+        },
+        {
+          "id": "brahmagupta--brahmas",
+          "title": "Brahmasphutasiddhanta",
+          "author": "Brahmagupta. Brahmasphutasiddhanta — matematika India abad ke-7.",
+          "type": "primary"
+        },
+        {
+          "id": "al-khwarizmi",
+          "title": "Kitab al-Jabr wa al-Muqabalah",
+          "author": "Al-Khwarizmi",
+          "type": "primary"
+        },
+        {
+          "id": "qs--an-nisa",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. an-Nisa",
+          "type": "quran"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e58",
+      "title": "Al-Kindi: Filsuf Islam Pertama",
+      "year": 830,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Ya'qub ibn Ishaq al-Kindi, 'Filsuf Arab', memadukan filsafat Yunani dengan teologi Islam. Menulis ~270 karya di berbagai bidang.",
+      "figures": [
+        "Al-Kindi"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Rasail al-Kindi al-Falsafiyyah — Al-Kindi",
+        "Tarikh al-Hukama — Ibn al-Qifti",
+        "Al-Fihrist — Ibn al-Nadim"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e59",
+      "title": "Imam Ahmad ibn Hanbal — Madzhab Hanbali",
+      "year": 780,
+      "year_end": 855,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Ahmad ibn Muhammad ibn Hanbal, pendiri Madzhab Hanbali. Menyusun Al-Musnad (salah satu koleksi hadits terbesar). Bertahan teguh mempertahankan keyakinan di masa Mihna (inkuisisi Mu'tazilah) meski disiksa dan dipenjara.",
+      "figures": [
+        "Ahmad ibn Hanbal"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Musnad — Imam Ahmad",
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi",
+        "Siyar A'lam al-Nubala — Al-Dzahabi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e60",
+      "title": "Al-Junayd al-Baghdadi — Imam Tasawuf & Doktrin Fana'",
+      "year": 830,
+      "year_end": 910,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "\"Sayyid al-Ta'ifah\" (pemimpin kaum Sufi). Menyusun doktrin tasawuf \"sadar\" (sahw) — fana' (peleburan ego) harus diikuti baqa' (kembali ke kehidupan dengan kesadaran ilahi). Guru dari Al-Hallaj.",
+      "figures": [
+        "Al-Junayd al-Baghdadi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Risala al-Qushayriyya — Al-Qushayri",
+        "Al-Luma' — Al-Sarraj",
+        "Tabaqat al-Sufiyyah — Al-Sulami"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e61",
+      "title": "Al-Hallaj — Martir Tasawuf & \"Ana al-Haqq\"",
+      "year": 858,
+      "year_end": 922,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Husain ibn Mansur al-Hallaj, Sufi yang dihukum mati karena ucapan \"Ana al-Haqq\" (Akulah Kebenaran). Bagi pendukungnya, ini ekspresi fana' tertinggi; bagi penentangnya, klaim ketuhanan. Tragedinya menandai batas antara tasawuf dan syariat.",
+      "figures": [
+        "Al-Hallaj"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Kitab al-Tawasin — Al-Hallaj",
+        "Akhbar al-Hallaj — berbagai perawi",
+        "Al-Risala al-Qushayriyya — Al-Qushayri",
+        "Tadzkirat al-Auliya — Fariduddin Attar"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e62",
+      "title": "Universitas Al-Qarawiyyin Didirikan",
+      "year": 859,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "egypt"
+      ],
+      "category": "heritage",
+      "desc": "Fatimah al-Fihri mendirikan Al-Qarawiyyin di Fez, Maroko — universitas tertua di dunia yang masih beroperasi hingga kini.",
+      "figures": [
+        "Fatimah al-Fihri"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Rawd al-Qirtas — Ibn Abi Zar'",
+        "Al-Istiqsa — Al-Nasiri",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e63",
+      "title": "Cordoba Sebagai Pusat Keilmuan",
+      "year": 929,
+      "year_end": 1031,
+      "era": "golden_age",
+      "regions": [
+        "andalus"
+      ],
+      "category": "heritage",
+      "desc": "Kekhalifahan Cordoba menjadi pusat keilmuan Eropa. Perpustakaan Cordoba memiliki ~400.000 manuskrip — terbesar di Eropa saat itu.",
+      "figures": [
+        "Abdurrahman III",
+        "Al-Hakam II"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Nafh al-Tib — Al-Maqqari",
+        "Al-Dhakhira fi Mahasin Ahl al-Jazira — Ibn Bassam",
+        "Tarikh Iftitah al-Andalus — Ibn al-Quthiyyah"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e64",
+      "title": "Universitas Al-Azhar Didirikan",
+      "year": 970,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "egypt"
+      ],
+      "category": "heritage",
+      "desc": "Dinasti Fatimiyah mendirikan Al-Azhar di Kairo — menjadi pusat pembelajaran Islam terpenting dan masih berdiri hingga kini.",
+      "figures": [
+        "Jawhar al-Siqilli"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Itti'az al-Hunafa — Al-Maqrizi",
+        "Al-Khitat — Al-Maqrizi",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e65",
+      "title": "Al-Biruni: Polymath",
+      "year": 973,
+      "year_end": 1048,
+      "era": "golden_age",
+      "regions": [
+        "central_asia"
+      ],
+      "category": "knowledge",
+      "desc": "Abu Rayhan al-Biruni — polymath yang menguasai astronomi, matematika, geografi, farmakologi, dan antropologi. Menghitung keliling Bumi dengan akurat.",
+      "figures": [
+        "Al-Biruni"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Tahqiq ma li al-Hind — Al-Biruni",
+        "Al-Qanun al-Mas'udi — Al-Biruni",
+        "Tarikh al-Hukama — Ibn al-Qifti"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e66",
+      "title": "Islam Masuk India / Dinasti Ghaznaviyah",
+      "year": 1001,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "india",
+        "central_asia"
+      ],
+      "category": "military",
+      "desc": "Sultan Mahmud dari Ghazni melakukan ekspedisi ke India, menyebarkan pengaruh Islam di anak benua India.",
+      "figures": [
+        "Mahmud dari Ghazni"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Tarikh-e Yamini — Al-Utbi",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tahqiq ma li al-Hind — Al-Biruni"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e67",
+      "title": "Ibn al-Haytham: Optik / Kitab al-Manazir",
+      "year": 1011,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "egypt"
+      ],
+      "category": "knowledge",
+      "desc": "Ibn al-Haytham (Alhazen) menulis 'Kitab al-Manazir' (Book of Optics) — revolusi dalam pemahaman cahaya dan penglihatan, menjadi bapak metode ilmiah.",
+      "figures": [
+        "Ibn al-Haytham"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Kitab al-Manazir — Ibn al-Haytham",
+        "Tarikh al-Hukama — Ibn al-Qifti",
+        "Uyun al-Anba — Ibn Abi Usaybi'ah"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e68",
+      "title": "Ibn Sina (Avicenna): Qanun fi al-Tibb",
+      "year": 1025,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia",
+        "central_asia"
+      ],
+      "category": "knowledge",
+      "desc": "Ibn Sina menyelesaikan 'Al-Qanun fi al-Tibb' (The Canon of Medicine) — ensiklopedia medis yang menjadi buku standar di universitas Eropa selama 600 tahun.",
+      "figures": [
+        "Ibn Sina"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Qanun fi al-Tibb — Ibn Sina",
+        "Al-Shifa — Ibn Sina",
+        "Uyun al-Anba — Ibn Abi Usaybi'ah"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e69",
+      "title": "Madrasah Nizamiyya Didirikan",
+      "year": 1065,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "heritage",
+      "desc": "Nizam al-Mulk mendirikan jaringan madrasah Nizamiyya di Baghdad dan kota-kota lain — model pendidikan formal yang mempengaruhi universitas Eropa.",
+      "figures": [
+        "Nizam al-Mulk"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Siyasat-Nama — Nizam al-Mulk",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e116",
+      "title": "Pertempuran Manzikert — Seljuk kalahkan Bizantium",
+      "year": 1071,
+      "year_end": null,
+      "era": "golden_age",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Sultan Seljuk Alp Arslan mengalahkan dan menawan Kaisar Bizantium Romanos IV Diogenes. Kemenangan ini membuka Anatolia (Turki modern) untuk pemukiman Turki-Muslim — mengubah demografi kawasan secara permanen dan menjadi salah satu pemicu Perang Salib.",
+      "figures": [
+        "Alp Arslan",
+        "Romanos IV Diogenes"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh Dimashq — Ibn al-Qalanisi",
+        "Siyasatnama — Nizam al-Mulk"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e70",
+      "title": "Syekh Abdul Qadir al-Jilani — Pendiri Tarekat Qadiriyyah",
+      "year": 1077,
+      "year_end": 1166,
+      "era": "fragmentation",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "\"Sultanul Auliya\" (Sultan para Wali). Pendiri tarekat Qadiriyyah — tariqa Sufi terbesar dan paling tersebar di dunia Islam. Kitab Al-Ghunya li Thalibi Thariq al-Haqq menjadi panduan spiritual bagi jutaan Muslim.",
+      "figures": [
+        "Abdul Qadir al-Jilani"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Ghunya li Thalibi Thariq al-Haqq — Abdul Qadir al-Jilani",
+        "Futuh al-Ghaib — Abdul Qadir al-Jilani",
+        "Qalaid al-Jawahir — Al-Tadifi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e84",
+      "title": "Batu Nisan Fatimah binti Maimun — Jejak Islam Tertua di Nusantara",
+      "year": 1082,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "nusantara"
+      ],
+      "category": "knowledge",
+      "desc": "Batu nisan bertulisan Arab di Leran, Gresik (Jawa Timur), bertarikh 475 H / 1082 M. Bukti arkeologis tertua keberadaan Muslim di Nusantara. Menunjukkan komunitas Muslim sudah ada di Jawa sejak abad ke-11 via jalur perdagangan Arab-India-Nusantara.",
+      "figures": [
+        "Fatimah binti Maimun"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Prasasti Leran / Batu Nisan Fatimah binti Maimun — Sumber Primer",
+        "Islam Nusantara — Azyumardi Azra",
+        "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e71",
+      "title": "Al-Ghazali: Ihya Ulum al-Din",
+      "year": 1095,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Abu Hamid al-Ghazali menulis 'Ihya Ulum al-Din' (Revival of Religious Sciences) — magnum opus yang menyatukan hukum Islam dengan spiritualitas.",
+      "figures": [
+        "Al-Ghazali"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Ihya Ulum al-Din — Al-Ghazali",
+        "Al-Munqidh min al-Dalal — Al-Ghazali",
+        "Tabaqat al-Shafi'iyyah al-Kubra — Al-Subki"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e72",
+      "title": "Perang Salib I / Jatuhnya Yerusalem",
+      "year": 1099,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Pasukan Salib merebut Yerusalem dan mendirikan kerajaan Salib di Levant. Ribuan Muslim dan Yahudi dibantai.",
+      "figures": [],
+      "significance": "high",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e118",
+      "title": "Imad ad-Din Zangi Merebut Edessa",
+      "year": 1144,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Imad ad-Din Zangi, atabeg Mosul dan Aleppo, merebut kembali County of Edessa — negara Salib pertama yang jatuh. Kemenangan ini menjadi titik balik pertama perlawanan Muslim terorganisir terhadap Tentara Salib dan memicu Perang Salib II.",
+      "figures": [
+        "Imad ad-Din Zangi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh Dimashq — Ibn al-Qalanisi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e119",
+      "title": "Nur ad-Din Zangi — Unifikasi Suriah",
+      "year": 1146,
+      "year_end": 1174,
+      "era": "fragmentation",
+      "regions": [
+        "levant",
+        "egypt"
+      ],
+      "category": "political",
+      "desc": "Nur ad-Din Mahmud, putra Zangi, menyatukan Suriah dan bagian utara Mesopotamia di bawah satu komando. Mendirikan madrasah, rumah sakit (Bimaristan Nuri), dan memperkuat jihad melawan Tentara Salib. Menjadi mentor Salahuddin al-Ayyubi dan arsitek perlawanan Muslim yang sistematis.",
+      "figures": [
+        "Nur ad-Din Mahmud",
+        "Salahuddin al-Ayyubi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Barq al-Shami — Imad al-Din al-Isfahani",
+        "Al-Rawdatayn — Abu Shamah"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e120",
+      "title": "Perang Salib II — Kegagalan di Damaskus",
+      "year": 1147,
+      "year_end": 1149,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Perang Salib II dipicu jatuhnya Edessa (1144). Raja Louis VII Prancis dan Konrad III Jerman memimpin ekspedisi besar namun gagal total saat mengepung Damaskus (1148). Kegagalan ini memperkuat posisi Muslim dan mempermalukan kekuatan Salib di Eropa.",
+      "figures": [
+        "Louis VII",
+        "Konrad III",
+        "Nur ad-Din Mahmud"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Tarikh Dimashq — Ibn al-Qalanisi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e73",
+      "title": "Ibn Arabi — Al-Shaykh al-Akbar & Wahdat al-Wujud",
+      "year": 1165,
+      "year_end": 1240,
+      "era": "fragmentation",
+      "regions": [
+        "andalus",
+        "levant"
+      ],
+      "category": "knowledge",
+      "desc": "Muhyiddin Ibn Arabi, \"Guru Terbesar\" (al-Shaykh al-Akbar). Menulis Al-Futuhat al-Makkiyyah dan Fushush al-Hikam — magnum opus tasawuf filosofis. Konsep Wahdat al-Wujud (Kesatuan Wujud) menjadi salah satu doktrin paling berpengaruh dan diperdebatkan dalam sejarah Islam.",
+      "figures": [
+        "Ibn Arabi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Futuhat al-Makkiyyah — Ibn Arabi",
+        "Fushush al-Hikam — Ibn Arabi",
+        "Al-Risala al-Qushayriyya — Al-Qushayri"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e85",
+      "title": "Dinasti Ayyubiyah — Warisan Salahuddin",
+      "year": 1171,
+      "year_end": 1260,
+      "era": "fragmentation",
+      "regions": [
+        "levant",
+        "egypt"
+      ],
+      "category": "political",
+      "desc": "Salahuddin mendirikan Dinasti Ayyubiyah setelah mengakhiri Fatimiyah di Mesir. Dinasti ini memimpin perlawanan Perang Salib dan menjaga Yerusalem hingga Mamluk mengambil alih (1260).",
+      "figures": [
+        "Salahuddin al-Ayyubi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Nawader al-Sultaniyyah — Ibn Shaddad",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e74",
+      "title": "Ibn Rushd (Averroes): Tahafut al-Tahafut",
+      "year": 1180,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "andalus"
+      ],
+      "category": "knowledge",
+      "desc": "Ibn Rushd menulis 'Tahafut al-Tahafut' (Incoherence of the Incoherence) sebagai respons terhadap kritik Al-Ghazali terhadap filsafat — membela rasionalisme.",
+      "figures": [
+        "Ibn Rushd"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tahafut al-Tahafut — Ibn Rushd",
+        "Fasl al-Maqal — Ibn Rushd",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e117",
+      "title": "Pertempuran Hattin — kemenangan kunci Salahuddin",
+      "year": 1187,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Kemenangan decisif Salahuddin al-Ayyubi melawan pasukan Tentara Salib di dekat Danau Tiberias. Hampir seluruh pasukan Salib dihancurkan, Raja Guy de Lusignan ditawan. Kemenangan ini membuka jalan perebutan kembali Yerusalem tiga bulan kemudian.",
+      "figures": [
+        "Salahuddin al-Ayyubi",
+        "Guy de Lusignan",
+        "Raynald de Chatillon"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Nawādir al-Sultaniyya — Baha al-Din ibn Shaddad",
+        "Al-Fath al-Qussi — Imad al-Din al-Isfahani"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e75",
+      "title": "Salahuddin Merebut Kembali Yerusalem",
+      "year": 1187,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "levant",
+        "egypt"
+      ],
+      "category": "military",
+      "desc": "Sultan Salahuddin al-Ayyubi merebut kembali Yerusalem dari Tentara Salib di Pertempuran Hattin. Dikenal akan kemurahan hatinya terhadap yang kalah.",
+      "figures": [
+        "Salahuddin al-Ayyubi"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Salahuddin Merebut Yerusalem",
+      "title_en": "Saladin Recaptures Jerusalem",
+      "location": "Yerusalem",
+      "tags": [
+        "salahuddin",
+        "yerusalem"
+      ],
+      "sources": [
+        {
+          "id": "baha-al-din-ibn-shad",
+          "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
+          "author": "Baha al-Din ibn Shaddad. al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah (Anekdot Sultan dan Kebaikan-kebaikan Yusuf).",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "imad-al-din-al-isfah",
+          "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
+          "author": "Imad al-Din al-Isfahani. al-Fath al-Qussi fi al-Fath al-Qudsi (Kisah Agung tentang Pembebasan Yerusalem).",
+          "type": "primary"
+        },
+        {
+          "id": "william-of-tyre--his",
+          "title": "Historia Rerum in Partibus Transmarinis Gestarum",
+          "author": "William of Tyre. Historia Rerum in Partibus Transmarinis Gestarum (Sejarah Peristiwa di Tanah Seberang Laut).",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-baqarah--al-i",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. al-Baqarah, al-Isra'",
+          "type": "quran"
+        },
+        {
+          "id": "al-bukhari",
+          "title": "al-Adab al-Mufrad",
+          "author": "Al-Bukhari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Sahih Muslim",
+          "author": "Muslim",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e121",
+      "title": "Perang Salib III — Richard vs Salahuddin",
+      "year": 1189,
+      "year_end": 1192,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Dipicu jatuhnya Yerusalem ke tangan Salahuddin (1187). Tiga raja Eropa — Richard I (Inggris), Philip II (Prancis), dan Frederick Barbarossa (Jerman) — memimpin ekspedisi. Berakhir dengan Perjanjian Ramla: Tentara Salib gagal merebut Yerusalem namun menguasai pesisir. Dikenang karena kehormatan dan saling hormat antara Richard dan Salahuddin.",
+      "figures": [
+        "Salahuddin al-Ayyubi",
+        "Richard I (The Lionheart)",
+        "Philip II Augustus"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Nawader al-Sultaniyyah — Ibn Shaddad",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Fath al-Qussi fi al-Fath al-Qudsi — Imad al-Din al-Isfahani"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e122",
+      "title": "Perang Salib IV — Penyimpangan ke Konstantinopel",
+      "year": 1202,
+      "year_end": 1204,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Perang Salib IV menyimpang dari tujuan awal merebut Yerusalem. Atas pengaruh Venesia, pasukan Salib justru menyerang dan menjarah Konstantinopel (1204) — ibukota Kristen Ortodoks sendiri. Mendirikan Kekaisaran Latin dan memperlemah Bizantium secara permanen. Mengungkap motif ekonomi-politik di balik Perang Salib.",
+      "figures": [
+        "Enrico Dandolo",
+        "Bonifasius dari Montferrat"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e76",
+      "title": "Al-Jazari: Teknik Mesin",
+      "year": 1206,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "persia"
+      ],
+      "category": "knowledge",
+      "desc": "Al-Jazari menulis 'Kitab fi Ma'rifat al-Hiyal al-Handasiyya' — ensiklopedia mesin dan automata, termasuk desain crankshaft dan jam air.",
+      "figures": [
+        "Al-Jazari"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Kitab fi Ma'rifat al-Hiyal al-Handasiyya — Al-Jazari",
+        "Tarikh al-Hukama — Ibn al-Qifti",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e86",
+      "title": "Kesultanan Delhi Didirikan",
+      "year": 1206,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "india"
+      ],
+      "category": "political",
+      "desc": "Qutbuddin Aibak mendirikan Kesultanan Delhi — kekuatan Islam pertama di anak benua India. Cikal bakal penyebaran Islam ke Asia Selatan dan Tenggara.",
+      "figures": [
+        "Qutbuddin Aibak"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Taj al-Ma'athir — Hasan Nizami",
+        "Tabaqat-i Nasiri — Minhaj al-Siraj Juzjani",
+        "Tarikh-i Firoz Shahi — Ziauddin Barani"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e77",
+      "title": "Jalaluddin Rumi — Masnavi & Tarekat Mevlevi",
+      "year": 1207,
+      "year_end": 1273,
+      "era": "fragmentation",
+      "regions": [
+        "persia",
+        "central_asia"
+      ],
+      "category": "knowledge",
+      "desc": "Maulana Jalaluddin Rumi, penyair Sufi terbesar. Menulis Masnavi-ye Ma'navi (\"Qur'an dalam bahasa Persia\") — 25.000+ bait puisi tentang cinta ilahi, kesatuan, dan perjalanan spiritual. Mendirikan Tarekat Mevlevi (whirling dervishes). Puisinya diterjemahkan ke puluhan bahasa dan menjadi salah satu karya sastra paling dibaca di dunia.",
+      "figures": [
+        "Jalaluddin Rumi"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Masnavi-ye Ma'navi — Jalaluddin Rumi",
+        "Diwan-e Shams-e Tabrizi — Jalaluddin Rumi",
+        "Fihi Ma Fihi — Jalaluddin Rumi",
+        "Manaqib al-Arifin — Aflaki"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e123",
+      "title": "Perang Salib V — Serangan ke Mesir (Damietta)",
+      "year": 1217,
+      "year_end": 1221,
+      "era": "fragmentation",
+      "regions": [
+        "egypt",
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Pasukan Salib mengubah strategi dengan menyerang Mesir — jantung kekuatan Ayyubiyah. Berhasil merebut pelabuhan Damietta (1219) namun gagal melanjutkan ke Kairo karena banjir Nil dan serangan balik Sultan al-Kamil. Pasukan Salib terjebak dan menyerah, mengembalikan Damietta.",
+      "figures": [
+        "Sultan al-Kamil",
+        "Pelagius (Legatus Paus)"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e124",
+      "title": "Perang Salib VI — Diplomasi Frederick II",
+      "year": 1228,
+      "year_end": 1229,
+      "era": "fragmentation",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Perang Salib unik tanpa pertempuran besar. Kaisar Frederick II bernegosiasi langsung dengan Sultan al-Kamil dan memperoleh Yerusalem, Betlehem, dan Nazareth melalui perjanjian damai (1229). Muslim tetap menguasai Haram asy-Syarif (Dome of the Rock & Al-Aqsa). Perjanjian ini dikritik keras oleh kedua belah pihak.",
+      "figures": [
+        "Frederick II",
+        "Sultan al-Kamil"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Mir'at al-Zaman — Sibt ibn al-Jawzi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e78",
+      "title": "Jatuhnya Cordoba ke Reconquista",
+      "year": 1236,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "andalus"
+      ],
+      "category": "decline",
+      "desc": "Ferdinand III dari Kastilia merebut Cordoba, mengakhiri kejayaan kota sebagai pusat keilmuan Islam di Eropa.",
+      "figures": [
+        "Ferdinand III"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Nafh al-Tib — Al-Maqqari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e125",
+      "title": "Perang Salib VII — Louis IX Ditawan di Mesir",
+      "year": 1248,
+      "year_end": 1254,
+      "era": "fragmentation",
+      "regions": [
+        "egypt",
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Raja Louis IX dari Prancis memimpin serangan besar ke Mesir. Merebut Damietta namun dikalahkan di Pertempuran al-Mansurah (1250) oleh Mamluk di bawah Baibars. Louis IX sendiri ditawan dan harus membayar tebusan besar. Kekalahan ini mempercepat kebangkitan Mamluk sebagai kekuatan dominan.",
+      "figures": [
+        "Louis IX",
+        "Turanshah",
+        "Baibars"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Subh al-A'sha — Al-Qalqashandi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e87",
+      "title": "Komunitas Muslim Quanzhou — Jejak Islam di Tiongkok",
+      "year": 1000,
+      "year_end": 1279,
+      "era": "fragmentation",
+      "regions": [
+        "china"
+      ],
+      "category": "knowledge",
+      "desc": "Quanzhou (Zayton) di Fujian menjadi salah satu pelabuhan terbesar dunia pada era Song. Ribuan pedagang Muslim Arab dan Persia menetap, membangun masjid (Masjid Qingjing, ~1009 M), pemakaman Islam, dan komunitas yang diakui pemerintah Song. Menjadi bukti jalur perdagangan maritim Islam ke Tiongkok jauh sebelum era Mongol.",
+      "figures": [],
+      "significance": "medium",
+      "sumber": [
+        "Zhu Fan Zhi (Deskripsi Bangsa-Bangsa Barbar) — Zhao Rukuo",
+        "Song Shi (Sejarah Dinasti Song) — Sumber Primer",
+        "Islam in China — Marshall Broomhall"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e79",
+      "title": "Serbuan Mongol / Jatuhnya Baghdad",
+      "year": 1258,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "persia"
+      ],
+      "category": "decline",
+      "desc": "Hulagu Khan menghancurkan Baghdad — Baitul Hikmah dimusnahkan, Sungai Tigris konon berwarna hitam karena tinta ribuan buku. Akhir Kekhalifahan Abbasiyah.",
+      "figures": [
+        "Hulagu Khan",
+        "Al-Musta'sim"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Jatuhnya Baghdad",
+      "title_en": "The Fall of Baghdad",
+      "location": "Baghdad",
+      "tags": [
+        "jatuhnya",
+        "baghdad"
+      ],
+      "sources": [
+        {
+          "id": "ibn-al-athir",
+          "title": "al-Kamil fi al-Tarikh",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "rashid-al-din-hamada",
+          "title": "Jami' al-Tawarikh",
+          "author": "Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
+          "type": "primary"
+        },
+        {
+          "id": "al-dhahabi",
+          "title": "Tarikh al-Islam",
+          "author": "Al-Dhahabi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-taymiyyah",
+          "title": "Majmu' al-Fatawa",
+          "author": "Ibn Taymiyyah",
+          "type": "primary"
+        },
+        {
+          "id": "morgan",
+          "title": "The Mongols",
+          "author": "Morgan",
+          "type": "primary"
+        },
+        {
+          "id": "jackson",
+          "title": "The Mongols and the West, 1221-1410",
+          "author": "Jackson",
+          "type": "primary"
+        },
+        {
+          "id": "may",
+          "title": "The Mongol Conquests in World History",
+          "author": "May",
+          "type": "primary"
+        },
+        {
+          "id": "qs--al-anfal--ar-ra-",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal, Ar-Ra'd",
+          "type": "quran"
+        },
+        {
+          "id": "al-suyuti",
+          "title": "Tarikh al-Khulafa'",
+          "author": "Al-Suyuti",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e88",
+      "title": "Pertempuran Ain Jalut — Mamluk Menghentikan Mongol",
+      "year": 1260,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Sultan Qutuz dan Baibars memimpin Mamluk mengalahkan Mongol di Ain Jalut (Palestina). Menghentikan ekspansi Mongol ke barat dan menyelamatkan Mesir serta sisa dunia Islam.",
+      "figures": [
+        "Sultan Qutuz",
+        "Baibars"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e127",
+      "title": "Sultan Baibars — Pengusiran Tentara Salib",
+      "year": 1260,
+      "year_end": 1277,
+      "era": "decline",
+      "regions": [
+        "levant",
+        "egypt"
+      ],
+      "category": "military",
+      "desc": "Baibars, sultan Mamluk keempat, mengubah keseimbangan kekuatan secara drastis. Setelah kemenangan di Ain Jalut (1260), ia memimpin kampanye sistematis melawan sisa negara-negara Salib: merebut Caesarea, Arsuf (1265), Safed (1266), Antiokhia (1268), dan Krak des Chevaliers (1271). Membangun jaringan pos dan intelijen yang efisien.",
+      "figures": [
+        "Sultan Baibars"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Rawdh al-Zahir — Ibn Abd al-Zahir",
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e126",
+      "title": "Perang Salib VIII & IX — Ekspedisi Terakhir",
+      "year": 1270,
+      "year_end": 1272,
+      "era": "decline",
+      "regions": [
+        "egypt",
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Dua ekspedisi terakhir Perang Salib. Salib VIII (1270): Louis IX menyerang Tunis namun wafat karena penyakit. Salib IX (1271-1272): Pangeran Edward dari Inggris tiba di Acre namun tidak mampu mencapai apapun. Dua kegagalan ini mengakhiri era Perang Salib besar dari Eropa.",
+      "figures": [
+        "Louis IX",
+        "Pangeran Edward I",
+        "Baibars"
+      ],
+      "significance": "medium",
+      "sumber": [
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Tarikh Mukhtasar al-Duwal — Ibn al-Ibri (Bar Hebraeus)"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e128",
+      "title": "Jatuhnya Acre — Akhir Kerajaan Salib",
+      "year": 1291,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "levant"
+      ],
+      "category": "military",
+      "desc": "Sultan al-Ashraf Khalil memimpin pasukan Mamluk merebut Acre (Akka), ibukota terakhir Kerajaan Yerusalem. Seluruh benteng Salib yang tersisa di pesisir Levant jatuh dalam beberapa bulan berikutnya. Mengakhiri hampir 200 tahun kehadiran Tentara Salib di Tanah Suci (1099-1291).",
+      "figures": [
+        "Sultan al-Ashraf Khalil"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Suluk li Ma'rifat Duwal al-Muluk — Al-Maqrizi",
+        "Nihayat al-Arab fi Funun al-Adab — Al-Nuwayri",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e80",
+      "title": "Ibn Taimiyah",
+      "year": 1263,
+      "year_end": 1328,
+      "era": "decline",
+      "regions": [
+        "levant"
+      ],
+      "category": "knowledge",
+      "desc": "Ulama yang menekankan kembali ke Al-Qur'an dan Sunnah, mengkritik taqlid buta, dan menyerukan ijtihad. Dipenjara berkali-kali karena pandangannya.",
+      "figures": [
+        "Ibn Taimiyah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Majmu' al-Fatawa — Ibn Taimiyah",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Siyar A'lam al-Nubala — Al-Dzahabi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e89",
+      "title": "Islam Awal di Nusantara — Samudera Pasai & Jalur Rempah",
+      "year": 1267,
+      "year_end": 1345,
+      "era": "decline",
+      "regions": [
+        "nusantara"
+      ],
+      "category": "political",
+      "desc": "Kerajaan Samudera Pasai di Aceh utara, didirikan Sultan Malik al-Saleh (~1267), kerajaan Islam pertama yang terdokumentasi di Nusantara. Marco Polo (1292) mencatat penduduk kota pelabuhan Perlak sudah memeluk Islam. Menjadi pusat penyebaran Islam dan perdagangan rempah yang menghubungkan India, Arab, dan Tiongkok.",
+      "figures": [
+        "Sultan Malik al-Saleh",
+        "Marco Polo"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Rihlah — Ibn Battuta",
+        "Il Milione — Marco Polo",
+        "Hikayat Raja-Raja Pasai — Sumber Primer",
+        "Sejarah Melayu — Tun Sri Lanang"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e90",
+      "title": "Sayyid Ajall & Muslim Hui — Islam di China Era Mongol",
+      "year": 1274,
+      "year_end": 1368,
+      "era": "decline",
+      "regions": [
+        "china"
+      ],
+      "category": "knowledge",
+      "desc": "Sayyid Ajall Shams al-Din (1211-1279), Muslim asal Bukhara, diangkat sebagai gubernur Yunnan oleh Kublai Khan. Membangun masjid, madrasah, dan menyebarkan Islam di China selatan. Pada era Dinasti Yuan (1271-1368), Muslim berstatus Semu (色目人) — kelas kedua setelah Mongol — menjadi administrator, pejabat, dan pedagang berpengaruh di seluruh Tiongkok. Komunitas Hui berkembang pesat.",
+      "figures": [
+        "Sayyid Ajall Shams al-Din",
+        "Kublai Khan"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Yuan Shi (Sejarah Dinasti Yuan) — Sumber Primer",
+        "Huihui Yaofang (Resep Obat Muslim) — Sumber Primer",
+        "Islam in China — Marshall Broomhall"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e91",
+      "title": "Ibn Battuta — Pengembara Muslim Terbesar",
+      "year": 1304,
+      "year_end": 1369,
+      "era": "decline",
+      "regions": [
+        "levant",
+        "india",
+        "nusantara",
+        "china"
+      ],
+      "category": "knowledge",
+      "desc": "Abu Abdullah Muhammad Ibn Battuta, pengembara dari Tangier, menempuh perjalanan ~120.000 km selama 29 tahun melintasi hampir seluruh dunia Islam — dari Maroko ke Mekah, Persia, India, China, Nusantara (Samudera Pasai), dan Afrika. Kitab Rihlah-nya menjadi sumber primer tentang kondisi dunia Islam abad ke-14. Di Samudera Pasai, ia mencatat sultan bermadzhab Syafi'i dan kehidupan keagamaan yang aktif.",
+      "figures": [
+        "Ibn Battuta"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Rihlah (Tuhfat al-Nuzzar) — Ibn Battuta",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Wafayat al-A'yan — Ibn Khallikan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e92",
+      "title": "Amir Timur (Tamerlane)",
+      "year": 1336,
+      "year_end": 1405,
+      "era": "decline",
+      "regions": [
+        "central_asia",
+        "persia"
+      ],
+      "category": "military",
+      "desc": "Amir Timur (Tamerlane), penguasa Turko-Mongol dari Samarkand. Imperium dari Anatolia hingga India. Menghancurkan Delhi (1398), mengalahkan Ottoman di Ankara (1402). Meskipun brutal, menjadi patron seni dan arsitektur Islam — Samarkand menjadi pusat kebudayaan dunia.",
+      "figures": [
+        "Amir Timur"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Zafarnama — Sharaf al-Din Ali Yazdi",
+        "Tuzuk-i Timuri (Institutes of Timur) — Sumber Primer",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e81",
+      "title": "Ibn Khaldun: Muqaddimah",
+      "year": 1377,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "egypt"
+      ],
+      "category": "knowledge",
+      "desc": "Ibn Khaldun menulis 'Muqaddimah' — dianggap sebagai karya perintis ilmu sosiologi, historiografi, dan ekonomi modern.",
+      "figures": [
+        "Ibn Khaldun"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Muqaddimah — Ibn Khaldun",
+        "Kitab al-Ibar — Ibn Khaldun",
+        "Al-Ta'rif bi Ibn Khaldun — Ibn Khaldun"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e93",
+      "title": "Kesultanan Malaka Didirikan",
+      "year": 1400,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "nusantara"
+      ],
+      "category": "political",
+      "desc": "Parameswara (setelah masuk Islam: Iskandar Shah) mendirikan Kesultanan Malaka. Pusat perdagangan terpenting di Asia Tenggara dan gerbang utama penyebaran Islam ke Nusantara, Filipina, dan Sulu.",
+      "figures": [
+        "Parameswara / Iskandar Shah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Sejarah Melayu — Tun Sri Lanang",
+        "The Suma Oriental — Tomé Pires",
+        "Ma Huan — Ying-yai Sheng-lan"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e94",
+      "title": "Laksamana Zheng He & Penyebaran Islam di Nusantara",
+      "year": 1405,
+      "year_end": 1433,
+      "era": "decline",
+      "regions": [
+        "nusantara",
+        "china"
+      ],
+      "category": "knowledge",
+      "desc": "Laksamana Zheng He (Ma He), Muslim Hui dari Yunnan, memimpin 7 ekspedisi maritim besar dengan armada raksasa. Singgah di Jawa, Sumatera, Malaka, dan memperkuat jaringan perdagangan Muslim. Komunitas Tionghoa Muslim dan masjid-masjid Cheng Ho berdiri di berbagai kota Nusantara.",
+      "figures": [
+        "Zheng He (Ma He)"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Ying-yai Sheng-lan — Ma Huan",
+        "Ming Shi — Zhang Tingyu",
+        "Zheng He Hanghai Tu (Peta Pelayaran Zheng He) — Sumber Primer"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e95",
+      "title": "Wali Songo — Penyebaran Islam di Jawa",
+      "year": 1400,
+      "year_end": 1500,
+      "era": "decline",
+      "regions": [
+        "nusantara"
+      ],
+      "category": "knowledge",
+      "desc": "Wali Songo (Sembilan Wali) menyebarkan Islam di Jawa melalui pendekatan kultural — wayang, gamelan, tembang, dan tradisi lokal. Tokoh: Sunan Gresik, Sunan Ampel, Sunan Bonang, Sunan Giri, Sunan Drajat, Sunan Kalijaga, Sunan Kudus, Sunan Muria, Sunan Gunung Jati. Strategi akulturasi unik yang menjadikan Jawa mayoritas Muslim.",
+      "figures": [
+        "Sunan Gresik",
+        "Sunan Ampel",
+        "Sunan Bonang",
+        "Sunan Giri",
+        "Sunan Drajat",
+        "Sunan Kalijaga",
+        "Sunan Kudus",
+        "Sunan Muria",
+        "Sunan Gunung Jati"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Babad Tanah Jawi — Sumber Primer",
+        "Serat Walisana — Sumber Primer",
+        "The Spread of Islam in the Indonesian Archipelago — Azyumardi Azra"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e96",
+      "title": "Kesultanan Demak — Kerajaan Islam Pertama di Jawa",
+      "year": 1478,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "nusantara"
+      ],
+      "category": "political",
+      "desc": "Raden Patah mendirikan Kesultanan Demak, kerajaan Islam pertama di Jawa. Menandai berakhirnya dominasi Hindu-Buddha Majapahit dan awal era keislaman di Jawa. Didukung Wali Songo.",
+      "figures": [
+        "Raden Patah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Babad Tanah Jawi — Sumber Primer",
+        "Serat Kanda — Sumber Primer",
+        "Pararaton"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e82",
+      "title": "Jatuhnya Granada — Akhir Islam di Al-Andalus",
+      "year": 1492,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "andalus"
+      ],
+      "category": "military",
+      "desc": "Penyerahan Granada — kerajaan Islam terakhir di Semenanjung Iberia — oleh Sultan Muhammad XII (Boabdil) kepada Ferdinand dan Isabella. Mengakhiri 781 tahun kehadiran Islam di Al-Andalus (711–1492). Umat Muslim dan Yahudi dipaksa masuk Kristen atau diusir (Reconquista).",
+      "figures": [
+        "Muhammad XII (Boabdil)",
+        "Ferdinand II",
+        "Isabella I"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Jatuhnya Granada",
+      "title_en": "The Fall of Granada",
+      "location": "Granada, Spanyol",
+      "tags": [
+        "jatuhnya",
+        "granada"
+      ],
+      "sources": [
+        {
+          "id": "ibn-al-khatib",
+          "title": "al-Ihata fi Akhbar Gharnata",
+          "author": "Ibn al-Khatib",
+          "type": "primary"
+        },
+        {
+          "id": "al-maqqari",
+          "title": "Nafh al-Tib min Ghusn al-Andalus al-Ratib",
+          "author": "Al-Maqqari",
+          "type": "primary"
+        },
+        {
+          "id": "hernando-del-pulgar",
+          "title": "Crónica de los Reyes Católicos",
+          "author": "Hernando del Pulgar",
+          "type": "primary"
+        },
+        {
+          "id": "maria-rosa-menocal",
+          "title": "The Ornament of the World",
+          "author": "Maria Rosa Menocal",
+          "type": "primary"
+        },
+        {
+          "id": "l-p--harvey",
+          "title": "Islamic Spain, 1250-1500",
+          "author": "L.P. Harvey",
+          "type": "primary"
+        },
+        {
+          "id": "richard-fletcher",
+          "title": "Moorish Spain",
+          "author": "Richard Fletcher",
+          "type": "primary"
+        }
+      ],
+      "characters": []
+    },
+    {
+      "id": "e83",
+      "title": "Inkuisisi Spanyol / Pembakaran Buku",
+      "year": 1492,
+      "year_end": 1502,
+      "era": "decline",
+      "regions": [
+        "andalus"
+      ],
+      "category": "decline",
+      "desc": "Inkuisisi Spanyol membakar ribuan manuskrip Arab, memaksa Muslim dan Yahudi untuk pindah agama atau terusir. Warisan intelektual Al-Andalus dihancurkan.",
+      "figures": [
+        "Kardinal Cisneros"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Nafh al-Tib — Al-Maqqari",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Tarikh al-Andalus — Ibn al-Kardabus"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e97",
+      "title": "Masjid Quba — Masjid Pertama dalam Islam",
+      "year": 622,
+      "year_end": null,
+      "era": "prophetic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "heritage",
+      "desc": "Nabi Muhammad SAW membangun Masjid Quba di Quba (pinggiran Madinah) saat tiba dari hijrah — masjid pertama yang dibangun dalam Islam. Al-Qur'an menyebutnya \"masjid yang didirikan atas dasar takwa\" (QS. At-Taubah: 108).",
+      "figures": [
+        "Nabi Muhammad SAW"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Shahih Muslim — Imam Muslim",
+        "Sirah Nabawiyyah — Ibn Hisham",
+        "Tafsir Ibn Kathir — Surah At-Taubah"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e98",
+      "title": "Perluasan Masjid Nabawi & Madinah sebagai Pusat Ilmu",
+      "year": 634,
+      "year_end": 656,
+      "era": "rashidun",
+      "regions": [
+        "arabia"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah Umar memperluas Masjid Nabawi (638) dan Utsman melakukan perluasan lebih besar lagi (650). Madinah menjadi pusat hadits dan fiqih — tempat Imam Malik mengajar, tradisi \"Amal Ahli Madinah\" menjadi sumber hukum. Kota ini tetap menjadi pusat keilmuan Islam selama era Rashidun dan awal Umayyah.",
+      "figures": [
+        "Umar ibn al-Khattab",
+        "Utsman ibn Affan",
+        "Malik ibn Anas"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Madinah al-Munawwarah — Ibn Shabba",
+        "Wafa' al-Wafa — Al-Samhudi",
+        "Al-Muwatta — Imam Malik"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e99",
+      "title": "Pembangunan Masjid al-Aqsa — Baitul Maqdis",
+      "year": 705,
+      "year_end": 715,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah al-Walid I membangun Masjid al-Aqsa di kompleks Haram asy-Syarif, Yerusalem. Bersama Dome of the Rock (e45), membentuk kompleks suci ketiga Islam setelah Masjidil Haram dan Masjid Nabawi. Kiblat pertama umat Islam dan tempat Isra' Mi'raj.",
+      "figures": [
+        "Al-Walid I"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Uns al-Jalil bi Tarikh al-Quds — Mujir al-Din",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Futuh al-Buldan — Al-Baladhuri"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e100",
+      "title": "Masjid Agung Damaskus (Masjid Umayyah)",
+      "year": 706,
+      "year_end": 715,
+      "era": "umayyad",
+      "regions": [
+        "levant"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah al-Walid I membangun Masjid Agung Damaskus di atas situs Kuil Jupiter dan Katedral Yohanes Pembaptis. Menara pertama (minaret) dalam arsitektur Islam. Mosaik emas menggambarkan surga. Salah satu masjid paling berpengaruh dalam sejarah arsitektur Islam.",
+      "figures": [
+        "Al-Walid I"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh Madinat Dimashq — Ibn Asakir",
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Mu'jam al-Buldan — Yaqut al-Hamawi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e101",
+      "title": "Masjid Agung Cordoba (Mezquita)",
+      "year": 784,
+      "year_end": null,
+      "era": "umayyad",
+      "regions": [
+        "andalus"
+      ],
+      "category": "heritage",
+      "desc": "Abdurrahman I (ad-Dakhil) membangun Masjid Agung Cordoba (Mezquita). Diperluas selama 200 tahun hingga menjadi masjid terbesar di dunia Barat. 856 kolom dengan lengkungan ganda merah-putih yang ikonik. Setelah Reconquista (1236), diubah menjadi katedral.",
+      "figures": [
+        "Abdurrahman I (ad-Dakhil)"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Nafh al-Tib — Al-Maqqari",
+        "Akhbar Majmu'ah — Anonim",
+        "Al-Bayan al-Mughrib — Ibn Idhari"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e102",
+      "title": "Masjid Agung Samarra & Menara Malwiya",
+      "year": 848,
+      "year_end": 852,
+      "era": "golden_age",
+      "regions": [
+        "persia"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah al-Mutawakkil membangun Masjid Agung Samarra — masjid terbesar di dunia saat itu (38.000 m²). Menara Malwiya (spiral minaret) setinggi 52 meter menjadi ikon arsitektur Islam Abbasiyah. Samarra sendiri merupakan ibukota Abbasiyah pada periode ini.",
+      "figures": [
+        "Al-Mutawakkil"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh al-Rusul wa al-Muluk — Al-Tabari",
+        "Mu'jam al-Buldan — Yaqut al-Hamawi",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e103",
+      "title": "Qutb Minar & Masjid Quwwat-ul-Islam, Delhi",
+      "year": 1199,
+      "year_end": 1220,
+      "era": "fragmentation",
+      "regions": [
+        "india"
+      ],
+      "category": "heritage",
+      "desc": "Qutbuddin Aibak memulai pembangunan Qutb Minar (menara kemenangan Islam di India, 72.5 m) dan Masjid Quwwat-ul-Islam (masjid pertama di Delhi). Dilanjutkan oleh Iltutmish. Menggabungkan teknik arsitektur Indo-Islam yang menjadi ciri khas arsitektur Mughal di kemudian hari.",
+      "figures": [
+        "Qutbuddin Aibak",
+        "Iltutmish"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Taj al-Ma'athir — Hasan Nizami",
+        "Tabaqat-i Nasiri — Minhaj-i Siraj",
+        "Tarikh-i Firuz Shahi — Ziauddin Barani"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e104",
+      "title": "Universitas Mustansiriya, Baghdad",
+      "year": 1227,
+      "year_end": null,
+      "era": "fragmentation",
+      "regions": [
+        "persia"
+      ],
+      "category": "heritage",
+      "desc": "Khalifah Abbasiyah al-Mustansir membangun Universitas Mustansiriya di Baghdad — universitas terbesar dan terlengkap di dunia Islam saat itu. Mengajarkan keempat madzhab fiqih sekaligus, plus kedokteran dan matematika. Salah satu institusi pendidikan terakhir sebelum Baghdad jatuh ke Mongol (1258).",
+      "figures": [
+        "Al-Mustansir Billah"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarikh Baghdad — Al-Khatib al-Baghdadi",
+        "Al-Kamil fi al-Tarikh — Ibn al-Athir",
+        "Mu'jam al-Buldan — Yaqut al-Hamawi"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e105",
+      "title": "Istana Alhambra — Puncak Arsitektur Islam di Eropa",
+      "year": 1238,
+      "year_end": 1358,
+      "era": "decline",
+      "regions": [
+        "andalus"
+      ],
+      "category": "heritage",
+      "desc": "Dinasti Nasrid membangun istana Alhambra di Granada — puncak seni arsitektur Islam di Eropa. Kompleks istana dengan Patio de los Leones, arabes, muqarnas, dan taman yang mewakili konsep surga. Warisan terakhir Al-Andalus sebelum jatuhnya Granada (1492).",
+      "figures": [
+        "Muhammad I al-Ahmar",
+        "Yusuf I",
+        "Muhammad V"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Al-Ihata fi Akhbar Gharnata — Ibn al-Khatib",
+        "Nafh al-Tib — Al-Maqqari",
+        "Al-Lamha al-Badriyya — Ibn al-Khatib"
+      ],
+      "status": "draft",
+      "sources": []
+    },
+    {
+      "id": "e106",
+      "title": "Penaklukan Konstantinopel & Hagia Sophia",
+      "year": 1453,
+      "year_end": null,
+      "era": "decline",
+      "regions": [
+        "levant"
+      ],
+      "category": "heritage",
+      "desc": "Sultan Mehmed II (al-Fatih) menaklukkan Konstantinopel, mengakhiri Kekaisaran Romawi Timur. Hagia Sophia dikonversi menjadi masjid — menara ditambahkan, mosaik sebagian ditutupi. Istanbul menjadi ibukota Kesultanan Ottoman dan pusat dunia Islam selama 5 abad. Nabi Muhammad SAW pernah memuji pasukan yang menaklukkan kota ini.",
+      "figures": [
+        "Mehmed II (al-Fatih)"
+      ],
+      "significance": "high",
+      "sumber": [
+        "Tarih-i Ebulfeth — Tursun Beg",
+        "Al-Bidayah wa al-Nihayah — Ibn Kathir",
+        "Musnad Ahmad — Imam Ahmad"
+      ],
+      "status": "draft",
+      "sources": []
+    }
+  ],
+  "workflow": {
+    "stages": "3-Stage Knowledge Workflow: Learning (As-Sama') → Writing & Validation (Al-Kitabah) → Sharing (At-Ta'lim)",
+    "innovation": "Prinsip Imam Bukhari untuk validasi sumber + elaborasi Al-Ghazali/Ibn Rushd/Ibn Taimiyah, dibantu AI agents"
+  }
+}

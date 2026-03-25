@@ -108,3 +108,5 @@ Tabuk menandai akhir dari era ekspedisi militer Nabi Muhammad ﷺ. Setelah Tabuk
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits tentang sumbangan Abu Bakr dan Utsman (Kitab al-Manaqib), Kisah Ka'b bin Malik (Kitab al-Maghazi, no. 4418).
 
 4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kisah Ka'b bin Malik (Kitab al-Taubah).
+
+5. Al-Quran al-Karim, QS. At-Taubah.

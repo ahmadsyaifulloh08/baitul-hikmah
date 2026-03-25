@@ -100,3 +100,5 @@ Yang unik dari Umar adalah bahwa ia mereformasi sistem dari dalam. Ia bukan pemb
 2. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
 
 3. **Ibn al-Jawzi, Abu al-Faraj.** *Sifat al-Safwa* (Sifat-Sifat Orang Pilihan). Beirut: Dar al-Ma'rifah, 1979.
+
+4. Al-Quran al-Karim, QS. An-Nahl.

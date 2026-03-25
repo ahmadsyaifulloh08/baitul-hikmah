@@ -149,3 +149,5 @@ Pesan utamanya jelas: kemuliaan manusia bukan ditentukan oleh warna kulit, suku 
 3. **Ahmad bin Hanbal.** *Al-Musnad*. Hadits no. 23489 (khutbah persamaan manusia), no. 18774 (haji adalah Arafah), serta riwayat talbiyah.
 
 4. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa, Ibrahim al-Abyari, dan Abdul Hafiz Syalabi. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+
+5. Al-Quran al-Karim, QS. Al-Baqarah, QS. Al-Ma'idah.

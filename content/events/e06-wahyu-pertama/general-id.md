@@ -138,3 +138,5 @@ Lima ayat yang turun di Gua Hira pada malam itu memulai sebuah gerakan yang akan
 3. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 4. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 5. Ibn Hajar al-Asqalani, *Fath al-Bari Syarh Shahih al-Bukhari*, jilid 1 (Kairo: Dar al-Ma'rifah, 1959).
+
+6. Al-Quran al-Karim, QS. Al-'Alaq.

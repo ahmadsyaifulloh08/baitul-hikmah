@@ -124,16 +124,10 @@ From a trading town in the heart of a barren desert, from an orphan who lost his
 
 ## Bibliography
 
-1. **Ibn Hisham**, Abu Muhammad Abd al-Malik. *Al-Sirah al-Nabawiyyah* (The Prophetic Biography). Edited by Mustafa al-Saqqa, Ibrahim al-Abyari, and Abd al-Hafiz Shalabi. Cairo: Maktabah Mustafa al-Babi al-Halabi, 1955.
-
-2. **Al-Mubarakfuri**, Safi-ur-Rahman. *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976. Winner of the first prize in the Sirah competition of the Muslim World League.
-
-3. **Ibn Kathir**, Isma'il ibn Umar. *Tafsir al-Quran al-'Azim*. Surah Al-Fil (QS 105:1-5). Edited by Sami ibn Muhammad al-Salamah. Riyadh: Dar Taybah, 1999.
-
-4. **Al-Bukhari**, Muhammad ibn Isma'il. *Al-Jami' al-Sahih* (Sahih al-Bukhari). Kitab al-Manaqib, Chapter on the Commissioning of the Prophet ﷺ.
-
-5. **Muslim**, ibn al-Hajjaj. *Al-Jami' al-Sahih* (Sahih Muslim). Kitab al-Siyam, Hadith on fasting on Mondays.
-
-6. **Ibn Sa'd**, Muhammad. *Al-Tabaqat al-Kubra*. Volume 1: The Biography of the Messenger of Allah ﷺ. Beirut: Dar Sadir, 1968.
-
-7. **The Noble Quran**. Surah Al-Fil (105:1-5), Surah Quraysh (106:1-4).
+1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
+2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
+3. Ibn Kathir, *Tafsir al-Quran al-Azim*, Surah Al-Fil, ed. Sami al-Salamah (Riyadh: Dar Taybah, 1999).
+4. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Manaqib (Dar Tawq al-Najah, 2001).
+5. Muslim, *Sahih Muslim*, Kitab al-Siyam.
+6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
+7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraysh (106:1-4).

@@ -114,7 +114,7 @@ In receiving dozens of delegations from across Arabia, the Prophet ﷺ exemplifi
 
 ---
 
-## References
+## Bibliography
 
 1. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Ed. Mustafa al-Saqqa, Ibrahim al-Abyari, and Abd al-Hafiz Shalabi. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
 

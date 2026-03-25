@@ -77,3 +77,5 @@ Gerakan penerjemahan menunjukkan bahwa peradaban-peradaban besar tidak tumbuh da
 2. **Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.** *Uyun al-Anba fi Tabaqat al-Atibba'* (Sumber Berita tentang Kelas-Kelas Tabib). Beirut: Dar Maktabat al-Hayah, 1965.
 
 3. **Ibn al-Nadim, Abu al-Faraj Muhammad.** *Al-Fihrist* (Indeks). Beirut: Dar al-Ma'rifah, 1978.
+
+4. Al-Quran al-Karim, QS. Al-Alaq.

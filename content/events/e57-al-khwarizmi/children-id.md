@@ -1,0 +1,35 @@
+
+# Al-Khwarizmi — Bapak Aljabar 🧮✨
+
+## 🧑 Siapa Dia?
+
+Namanya **Muhammad ibn Musa al-Khwarizmi**. Dia lahir di tempat yang sekarang disebut **Uzbekistan** sekitar 1.200 tahun yang lalu! Dia pindah ke Baghdad dan bekerja di **Baitul Hikmah** — perpustakaan paling keren sedunia! 📚
+
+## ⭐ Apa yang Beliau Lakukan?
+
+Al-Khwarizmi menulis sebuah buku yang namanya **"Kitab al-Jabr"**. Dari kata "al-Jabr" inilah lahir kata **ALJABAR** yang kamu pelajari di sekolah! ➕✖️
+
+Tapi apa sih aljabar itu? Bayangkan begini:
+
+> *"Ibu punya beberapa apel. Setelah dikasih 3 ke adik, sisa 5. Berapa apel ibu tadi?"*
+
+Itu aljabar! Kamu mencari angka yang belum diketahui. Dan Al-Khwarizmi adalah orang pertama yang menulis **aturan-aturan** untuk menyelesaikan soal-soal seperti ini secara sistematis!
+
+Dan tahukah kamu? Kata **ALGORITMA** — yang dipakai di setiap komputer, HP, dan aplikasi di dunia — berasal dari **nama Al-Khwarizmi**! 🤯
+
+Jadi setiap kali kamu main game di HP, nonton YouTube, atau buka Google — di dalamnya ada **algoritma** yang berasal dari nama seorang ilmuwan Muslim! 📱
+
+## 💡 Kenapa Beliau Luar Biasa?
+
+1. **Dia membuat matematika untuk semua orang** — bukan cuma untuk orang pintar, tapi untuk pedagang, petani, dan siapa saja!
+2. **Dia menggabungkan ilmu dari banyak negara** — India, Yunani, Babilonia — menjadi satu sistem yang lebih hebat
+3. **Penemuannya masih dipakai 1.200 tahun kemudian** — bahkan lebih penting sekarang karena komputer!
+
+## 📖 Allah Berfirman...
+
+Tahukah kamu kenapa Al-Khwarizmi menemukan aljabar? Salah satu alasannya adalah untuk menghitung **pembagian warisan** dalam Islam! Allah berfirman tentang pembagian warisan di QS. An-Nisa: 11-12, dan untuk menghitungnya dibutuhkan matematika!
+
+Jadi Islam mendorong penemuan matematika! 🌟
+
+> *"Ya Tuhanku, tambahkanlah ilmu kepadaku."*
+> — QS. Taha: 114

@@ -1,3 +1,17 @@
+/**
+ * EventContent.tsx — Event detail page with dual-mode content (general/children)
+ *
+ * Content flow:
+ *   content/events/*.md → scripts/build-content.js → event-content-map.json → this file
+ *   See: docs/README.md (Content Flow section)
+ *
+ * Content format rules:
+ *   See: docs/content-style-guide.md (citations, Quran format, bibliography)
+ *
+ * Illustration mapping:
+ *   See: docs/illustration-registry.md (character descriptions)
+ *   See: docs/briefs/*.md (per-episode image briefs)
+ */
 'use client'
 
 import React, { useState } from 'react'
@@ -5,7 +19,6 @@ import { I18nProvider, useI18n } from '@/i18n/context'
 import { motion, AnimatePresence } from 'framer-motion'
 import { getEra, getCategory, slugify, events, regions, type Event } from '@/lib/data'
 import Header from '@/components/Header'
-import eventContentData from '@/data/event-content.json'
 import eventContentMap from '@/data/event-content-map.json'
 
 const categoryEmoji: Record<string, string> = {
@@ -436,9 +449,11 @@ interface Slide {
 
 // Image map for children illustrations — per sub-slide, sequentially assigned
 const childrenIllustrations: Record<string, string[]> = {
-  'e01-tahun-gajah': Array.from({length: 11}, (_, i) => `/illustrations/children/e01-slide-${String(i+1).padStart(2,'0')}.png`),
-  'e02-yatim-piatu': Array.from({length: 15}, (_, i) => `/illustrations/children/e02-slide-${String(i+1).padStart(2,'0')}.png`),
-  'e03-perjalanan-syam': Array.from({length: 11}, (_, i) => `/illustrations/children/e03-slide-${String(i+1).padStart(2,'0')}.png`),
+  'e01-tahun-gajah': Array.from({length: 11}, (_, i) => `/illustrations/children/e01/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e02-yatim-piatu': Array.from({length: 15}, (_, i) => `/illustrations/children/e02/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e03-perjalanan-syam': Array.from({length: 11}, (_, i) => `/illustrations/children/e03/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e04-pernikahan-khadijah': Array.from({length: 12}, (_, i) => `/illustrations/children/e04/slide-${String(i+1).padStart(2,'0')}.png`),
+  'e05-renovasi-kabah': Array.from({length: 10}, (_, i) => `/illustrations/children/e05/slide-${String(i+1).padStart(2,'0')}.png`),
 }
 
 const sectionEmojis: Record<number, { emoji: string; bg: string }> = {
@@ -524,8 +539,8 @@ function EventContentInner({ event }: { event: Event }) {
   
   const slug = slugify(event.title)
   const contentMapEntry = (eventContentMap as any)[slug]
-  const contentDir = typeof contentMapEntry === 'string' ? contentMapEntry : undefined
-  const content = contentMapEntry ? (typeof contentMapEntry === 'string' ? (eventContentData as any)[contentMapEntry] : contentMapEntry) : null
+  const contentDir = undefined // all entries are now inline dicts
+  const content = contentMapEntry || null
   const hasRichContent = !!content
   // Resolve illustration key: try contentDir (string), or match slug against illustration keys
   const illustrationKey = contentDir || Object.keys(childrenIllustrations).find(k => {
@@ -645,20 +660,23 @@ function EventContentInner({ event }: { event: Event }) {
                   <p style={{ color: 'var(--text-secondary)', lineHeight: 1.8 }}>{event.desc}</p>
                 </section>
 
+                {event.sources?.length > 0 && (
                 <section className="mb-8">
                   <h2 className="font-heading text-xl font-semibold mb-3">📚 Daftar Pustaka</h2>
                   <ol style={{ listStyle: 'none', padding: 0 }}>
-                    {event.sumber.map((s, i) => (
+                    {/* Sources from events-database.json — See: docs/README.md */}
+                    {event.sources.map((s: { title?: string; author?: string }, i: number) => (
                       <li key={i} id={`ref-${i + 1}`} style={{
                         fontSize: 13, color: 'var(--text-secondary)', marginBottom: 8,
                         paddingLeft: 24, position: 'relative', lineHeight: 1.6,
                       }}>
                         <span style={{ position: 'absolute', left: 0, fontWeight: 700, color: 'var(--text-primary)' }}>{i + 1}.</span>
-                        {s}
+                        {s.title} — {s.author}
                       </li>
                     ))}
                   </ol>
                 </section>
+                )}
               </>
             )}
           </motion.div>

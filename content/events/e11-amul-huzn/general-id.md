@@ -110,3 +110,5 @@ Peristiwa Tha'if menambah lapisan penderitaan di atas *'Am al-Huzn*, namun juga 
 3. Al-Bukhari, *Shahih al-Bukhari*.
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
+
+6. Al-Quran al-Karim, QS. Al-Dhuha, QS. Al-Qashash.

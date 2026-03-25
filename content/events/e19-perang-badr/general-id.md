@@ -104,3 +104,5 @@ Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. S
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Bab Ghazwah Badr al-Kubra. Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 2, Bab Ghazwah Badr. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+
+4. Al-Quran al-Karim, QS. Al-Anfal.

@@ -124,7 +124,7 @@ This truthfulness was not mere verbal affirmation — it manifested in every act
 
 ---
 
-## References
+## Bibliography
 
 1. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (The History of Prophets and Kings). Vol. 3. Cairo: Dar al-Ma'arif.
 

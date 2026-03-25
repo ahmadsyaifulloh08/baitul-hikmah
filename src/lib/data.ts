@@ -1,4 +1,4 @@
-import researchData from '@/data/research_agenda.json'
+import eventsDB from '@/data/events-database.json'
 
 export interface Event {
   id: string
@@ -11,7 +11,7 @@ export interface Event {
   desc: string
   figures: string[]
   significance: string
-  sumber: string[]
+  sources: { id: string; title: string; author: string; type: string }[]
 }
 
 export interface Era {
@@ -35,10 +35,10 @@ export interface Region {
   color: string
 }
 
-export const events: Event[] = researchData.events as Event[]
-export const eras: Era[] = researchData.eras as Era[]
-export const categories: Category[] = researchData.categories as Category[]
-export const regions: Region[] = researchData.regions as Region[]
+export const events: Event[] = eventsDB.events as Event[]
+export const eras: Era[] = eventsDB.eras as Era[]
+export const categories: Category[] = eventsDB.categories as Category[]
+export const regions: Region[] = eventsDB.regions as Region[]
 
 export function getEra(id: string): Era | undefined {
   return eras.find(e => e.id === id)

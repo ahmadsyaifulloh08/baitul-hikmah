@@ -119,3 +119,5 @@ Bagi ratusan penghafal al-Quran yang gugur di Yamamah, ayat ini adalah janji bah
 2. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar Shadir, 1965.
 
 3. **Ibn Kathir, Ismail bin Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Jilid 6. Tahqiq: Abdullah bin Abdul Muhsin al-Turki. Kairo: Dar Hajr, 1997.
+
+4. Al-Quran al-Karim, QS. Ali.

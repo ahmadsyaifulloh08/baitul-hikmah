@@ -102,3 +102,5 @@ Alasannya mendalam: hijrah menandai momen ketika Islam bergerak dari fase dakwah
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits tentang hijrah, Gua Tsur, Suraqah bin Malik, dan kedatangan di Madinah.
+
+4. Al-Quran al-Karim, QS. Al-Anfal, QS. Al-Tawbah, QS. Yasin.

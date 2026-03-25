@@ -56,6 +56,9 @@ Bilal's voice was described as melodious and powerful. He called the adhan every
 Bilal's story is a living embodiment of the Qur'anic verse:
 
 > *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you."*
+
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴿13﴾
+>
 > — QS. Al-Hujurat (49): 13
 
 The Prophet SAW also declared in his Farewell Sermon:

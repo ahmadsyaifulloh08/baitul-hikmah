@@ -70,3 +70,5 @@ Kegugutan Uqba ibn Nafi mengingatkan bahwa setiap pencapaian besar membutuhkan p
 2. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Beirut: Dar Shadir, 1979.
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
+
+4. Al-Quran al-Karim, QS. An-Nisa.

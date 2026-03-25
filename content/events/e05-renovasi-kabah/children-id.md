@@ -1,67 +1,21 @@
 # Muhammad si Pemecah Masalah
 
-## 🏛️ Ka'bah yang Rusak
+## 🏛️ Ka'bah Rusak dan Kapal Romawi yang Karam
 
-Di tengah kota Makkah berdiri sebuah bangunan yang sangat istimewa — namanya **Ka'bah**. Bangunan berbentuk kubus ini pertama kali dibangun oleh **Nabi Ibrahim** dan putranya **Nabi Ismail** ribuan tahun yang lalu sebagai rumah untuk menyembah Allah.
+Di tengah kota Makkah berdiri bangunan yang sangat istimewa — namanya Ka'bah, yang pertama kali dibangun oleh Nabi Ibrahim dan putranya Nabi Ismail ribuan tahun yang lalu sebagai rumah untuk menyembah Allah. Ka'bah saat itu masih sederhana — dindingnya dari batu gunung tanpa perekat, tidak punya atap, dan tingginya hanya empat meter. Tapi suatu hari banjir besar menghantam dinding Ka'bah sampai retak dan hampir roboh! Di saat bersamaan, sebuah kapal dagang Romawi karam di pelabuhan Jeddah membawa kayu berkualitas tinggi yang sangat langka di padang pasir, dan seorang tukang kayu Romawi bernama Baqum ikut membantu memperbaiki Ka'bah.
 
-Tapi suatu hari, hujan yang sangat lebat turun di Makkah. Air bah mengalir deras dari bukit-bukit dan masuk ke dalam kota. Banjir besar itu menghantam dinding-dinding Ka'bah yang sudah tua sampai retak dan hampir roboh!
+## 🔨 Al-Walid Berani Membongkar dan Gotong Royong Membangun
 
-Orang-orang Quraisy — penduduk Makkah — sangat khawatir. "Ka'bah kita harus diperbaiki!" kata mereka. Tapi masalahnya, tidak ada yang berani mulai membongkar Ka'bah! Mereka takut akan terjadi sesuatu yang buruk kalau mereka menyentuh bangunan suci itu.
+Tidak ada yang berani memulai pembongkaran Ka'bah karena takut terkena musibah, sampai akhirnya seorang pemimpin pemberani bernama al-Walid mengambil kapak dan mulai membongkar dinding yang rusak sambil berdoa: "Ya Allah, kami hanya ingin kebaikan!" Semua masyarakat Makkah mengamati dari kejauhan dengan cemas, namun keesokan harinya al-Walid sehat dan segar. Maka seluruh klan bergotong-royong membangun Ka'bah lebih tinggi dan kokoh dari sebelumnya, menggunakan kayu dari kapal Romawi untuk atap baru, dengan Baqum memimpin pemasangan balok-balok dan pintu masuk yang diangkat tinggi dari tanah.
 
-Akhirnya, seorang pemimpin bernama al-Walid mengambil kapak dan mulai membongkar dinding yang rusak sambil berdoa: "Ya Allah, kami hanya ingin memperbaikinya!" Orang-orang menunggu semalaman — apakah al-Walid baik-baik saja? Ternyata iya! Maka mereka semua bergotong-royong memperbaiki Ka'bah.
+## ⚔️ Sengketa Hajar Aswad dan Usulan Abu Umayyah
 
-> **🎨 Brief Ilustrasi:**
-> *Ka'bah yang sedang direnovasi di tengah kota Makkah. Orang-orang Quraisy bekerja bersama — ada yang mengangkat batu, ada yang membawa kayu, ada yang mengaduk semen. Bangunan Ka'bah terlihat setengah jadi dengan perancah kayu di sekelilingnya. Langit biru cerah. Warna coklat batu, coklat kayu, putih pakaian pekerja, biru langit. Mood penuh semangat gotong-royong. Komposisi luas menunjukkan aktivitas pembangunan yang ramai.*
+Pembangunan berjalan lancar sampai tiba saatnya memasang kembali Hajar Aswad — batu hitam istimewa di sudut Ka'bah yang dianggap kehormatan tertinggi untuk memasangnya. Pertengkaran antar klan semakin panas dan beberapa bahkan sudah mencelupkan tangan ke wadah berisi darah sebagai tanda siap berperang! Sengketa berlangsung empat hari, sampai akhirnya tetua bijak bernama Abu Umayyah berdiri mengangkat tangannya dan mengusulkan: "Orang pertama yang masuk melalui pintu Masjidil Haram besok pagi, dialah yang akan menjadi hakim!" Semua klan menyetujui dan menunggu dengan tegang.
 
----
+## 💡 Muhammad al-Amin dan Solusi Kain yang Brilian
 
-## ⚔️ Pertengkaran Besar
+Keesokan paginya orang pertama yang melangkah masuk adalah Muhammad — pemuda berusia tiga puluh lima tahun yang dikenal sebagai al-Amin, orang paling dipercaya di seluruh Makkah! Semua berseru gembira dan rela ia menjadi hakim. Muhammad meminta sehelai kain besar, meletakkan Hajar Aswad di tengahnya, dan berkata kepada setiap klan untuk mengirim satu perwakilan memegang ujung kain lalu mengangkatnya bersama-sama. Ketika kain sudah setinggi dinding Ka'bah, Muhammad mengambil Hajar Aswad dengan tangannya sendiri dan meletakkannya di sudut tenggara.
 
-Pembangunan berjalan lancar sampai tiba saatnya memasang kembali **Hajar Aswad** — batu hitam istimewa yang ada di sudut Ka'bah. di sinilah masalah besar dimulai!
+## 🕋 Ka'bah Berdiri Megah dan Persatuan Terjaga
 
-Setiap keluarga besar (klan) di Quraisy ingin menjadi yang memasang Hajar Aswad. Mereka merasa itu adalah kehormatan yang sangat besar. "Kami yang berhak!" kata satu klan. "Tidak, kami yang lebih berhak!" kata klan yang lain.
-
-Pertengkaran semakin panas. Beberapa klan bahkan sudah siap berperang! Mereka mencelupkan tangan ke dalam wadah berisi darah sebagai tanda siap bertarung. Mereka nyaris berkelahi hanya karena berebut siapa yang memasang batu.
-
-Pertengkaran ini berlangsung empat hari tanpa ada solusi. Semua orang bingung. Akhirnya, seorang tetua bernama Abu Umayyah punya ide: "Begini saja — orang pertama yang masuk ke pintu Masjidil Haram besok pagi, dialah yang akan menjadi hakim untuk kita semua!"
-
-Semua setuju. Mereka menunggu dengan tegang..
-
-> **🎨 Brief Ilustrasi:**
-> *Para pemimpin klan Quraisy berdiri berhadap-hadapan di depan Ka'bah yang setengah jadi, dengan ekspresi marah dan tegang. Di antara mereka, Hajar Aswad tergeletak di atas sebuah bantal batu. Beberapa orang menunjuk-nunjuk dengan emosi. Abu Umayyah, seorang tetua berjenggot putih, mengangkat tangannya meminta semua orang tenang. Warna-warna tegang — merah, oranye, coklat gelap. Mood penuh ketegangan. Komposisi dua kelompok berhadapan dengan batu di tengah.*
-
----
-
-## 💡 Ide Brilian
-
-Keesokan paginya, semua orang menunggu di sekitar Masjidil Haram. Siapa yang akan masuk duluan? Mereka sangat penasaran.
-
-Dan tahu siapa yang pertama kali melangkah masuk? **Muhammad**! Seorang pemuda berusia tiga puluh lima tahun yang dikenal seluruh Makkah sebagai *al-Amin* — orang yang paling bisa dipercaya.
-
-"Itu *al-Amin*! Itu *al-Amin*!" seru orang-orang dengan gembira. "Kami semua rela dia menjadi hakim!"
-
-Muhammad mendengarkan masalah mereka dengan tenang. Lalu ia punya ide yang sangat cerdas! Ia meminta sehelai kain besar dan meletakkan Hajar Aswad di tengahnya. Kemudian ia berkata: "Setiap klan, kirimkan satu orang untuk memegang ujung kain ini. Lalu angkat bersama-sama!"
-
-Para pemimpin klan masing-masing memegang ujung kain dan mengangkat Hajar Aswad bersama-sama. Ketika sudah terangkat setinggi dinding Ka'bah, Muhammad mengambil batu itu dengan tangannya sendiri dan meletakkannya di tempatnya.
-
-Semua orang bertepuk tangan! Tidak ada yang merasa dirugikan. Semua ikut mengangkat batu itu bersama-sama. Masalah besar terselesaikan tanpa pertumpahan darah!
-
-> **🎨 Brief Ilustrasi:**
-> *Momen Muhammad mengangkat Hajar Aswad dari kain. Ia berdiri di atas perancah Ka'bah, mengangkat batu hitam dengan kedua tangan. Di bawahnya, perwakilan dari berbagai klan memegang ujung kain putih besar, wajah mereka penuh senyum dan kelegaan. Cahaya matahari pagi menyinari seluruh adegan. Warna putih kain, hitam Hajar Aswad, emas cahaya matahari, coklat dinding Ka'bah. Mood penuh kebahagiaan dan persatuan. Komposisi dari bawah ke atas — orang-orang di bawah mengangkat kain, Muhammad di atas memasang batu.*
-
----
-
-## 🌟 Pelajaran Penting
-
-Dari kisah ini kita bisa belajar banyak hal!
-
-**Pertama**, masalah yang rumit bisa diselesaikan dengan pikiran yang jernih. Muhammad tidak panik, tidak marah, dan tidak memihak siapa pun. Ia berpikir dengan tenang dan menemukan solusi yang membuat semua orang senang.
-
-**Kedua**, menjadi orang yang jujur dan bisa dipercaya itu sangat penting. Muhammad dipercaya oleh seluruh Makkah bukan karena ia kaya atau berkuasa, tapi karena ia selalu jujur sepanjang hidupnya. Gelar *al-Amin* didapatnya dari perilaku sehari-hari, bukan dari siapa-siapa.
-
-**Ketiga**, kerja sama lebih baik daripada pertengkaran. Ketika semua klan memegang kain bersama-sama, masalah terselesaikan. Tapi ketika mereka saling berebut, masalah justru semakin besar.
-
-Kelak, Muhammad akan menjadi Nabi dan Rasul Allah yang mengajarkan keadilan dan perdamaian kepada seluruh umat manusia. Dan kisah Hajar Aswad ini menunjukkan bahwa sifat-sifat mulia itu sudah ada dalam dirinya jauh sebelum wahyu pertama turun!
-
-> **🎨 Brief Ilustrasi:**
-> *Ka'bah yang sudah selesai direnovasi, berdiri megah di bawah langit biru cerah. Orang-orang Makkah berdiri mengelilinginya dengan wajah bangga dan bahagia. Muhammad berdiri di antara mereka, tersenyum lembut. Hajar Aswad berkilau di sudut Ka'bah. Warna coklat emas Ka'bah, biru langit, putih pakaian, hitam kilau Hajar Aswad. Mood penuh kebanggaan dan persatuan. Komposisi simetris — Ka'bah di tengah, orang-orang mengelilinginya.*
+Semua orang bertepuk tangan dan berseru takbir dengan gembira — sengketa besar yang nyaris menjadi perang saudara terselesaikan tanpa setetes darah pun tertumpah! Ka'bah kini berdiri lebih megah dari sebelumnya — lebih tinggi, lebih kokoh, dengan atap kayu baru dan Hajar Aswad terpasang kembali di sudutnya. Seluruh klan merasa puas karena semua ikut berpartisipasi. Peristiwa ini menunjukkan bahwa Muhammad memiliki kebijaksanaan luar biasa jauh sebelum menjadi nabi — ia tidak memihak siapa pun, menghargai semua orang, dan menemukan solusi yang membuat semua pihak merasa dihormati.

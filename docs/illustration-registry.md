@@ -21,6 +21,10 @@ NOT a silhouette, NOT a child figure — ONLY a ball of golden light.
 No head, no body, no human features.
 ```
 
+**Prompt shorthand** (max 750 chars constraint): `A small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward`
+
+**Consistency rule**: ALWAYS use exact same description in every prompt. Do NOT vary -- no column, ribbon, burst, starburst, or other forms.
+
 **Height by age:**
 | Event Period | Age | Glow Height |
 |:---|:---:|:---|
@@ -56,9 +60,11 @@ WIRY build with deep-set wise eyes. Deep wrinkles of age and study.
 
 ```
 Khadijah — a dignified Arab woman (about 40 years old in e04, aging 
-to 65 in e11). She wears an ELEGANT DEEP GREEN HIJAB and CREAM/WHITE 
-FLOWING ROBES. Graceful posture, warm maternal expression, intelligent 
-eyes. Wealthy merchant appearance — fine fabric, modest jewelry.
+to 65 in e11). She wears a HIJAB MATCHING HER CLOTHING COLOR and 
+NIQAB (face veil, only eyes visible) with CREAM/WHITE FLOWING 
+ROBES. Graceful posture, warm maternal expression visible through her 
+eyes, intelligent gaze. Wealthy merchant appearance — fine fabric, 
+modest jewelry.
 ```
 
 ### 1.5 Abu Bakr al-Siddiq (e108, e12, e32+)
@@ -186,7 +192,7 @@ weathered hands from desert life. Nursing mother.
 | Ali | e15-e42 | Young warrior | Short dark | Olive green |
 | Uthman | e09-e109 | Gentle dignified | Light brown | White (fine) |
 | Khalid | e20-e111 | Fierce warrior | Thick black | Armor + red turban |
-| Khadijah | e04-e11 | Dignified merchant | N/A | Deep green hijab |
+| Khadijah | e04-e11 | Dignified merchant | N/A | Hijab matching clothing + niqab |
 | Bilal | e108 | Ethiopian muezzin | N/A | Simple white |
 | Tariq | e43-e47 | Berber commander | Short dark | Armor + blue turban |
 | Hamzah | e19-e20 | Lion of Allah | Thick dark | Lion skin |

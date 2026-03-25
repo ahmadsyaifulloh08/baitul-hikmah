@@ -86,7 +86,7 @@ By making the Ka'bah the *qiblah*, Islam affirmed that it is not an ethnic relig
 
 From the perspective of *usul al-fiqh* (Islamic jurisprudence), the change of *qiblah* is one of the clearest examples of *nasikh-mansukh* (abrogation — the replacement of an earlier ruling with a new one). It establishes an important principle: that divine law is dynamic according to Allah's wisdom, not static. A ruling valid at one time can be changed by Allah according to the greater good that He knows — and a believer's obedience is measured by their willingness to follow the latest command, not to cling to old habits.
 
-## References
+## Bibliography
 
 1. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 399 (change of qiblah, narrated by al-Bara' ibn 'Azib), Kitab al-Salah.
 

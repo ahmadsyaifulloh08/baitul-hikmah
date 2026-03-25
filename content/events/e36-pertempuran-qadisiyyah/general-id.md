@@ -86,3 +86,5 @@ Pertempuran Qadisiyyah bukan sekadar kemenangan militer — ia menandai awal dar
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (Penaklukan Negeri-Negeri). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar al-Kitab al-Arabi, 1997.
+
+4. Al-Quran al-Karim, QS. Al-Anbiya.

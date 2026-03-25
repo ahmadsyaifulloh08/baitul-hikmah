@@ -206,11 +206,17 @@ In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to 
 26. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
 27. Muslim, *Sahih Muslim*, no. 162; al-Bukhari, *Sahih al-Bukhari*, no. 3207.
 28. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 135.
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
+>
 29. Al-Tabari, *Tafsir al-Tabari*, vol. 15, commentary on QS. al-Isra': 1.
 30. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 398.
 31. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 399.
 32. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 118.
 33. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 170.
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
+>
 34. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 107–108; al-Tabari, *Tafsir al-Tabari*, vol. 15, commentary on QS. al-Isra': 1.
 35. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 136.
 36. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.

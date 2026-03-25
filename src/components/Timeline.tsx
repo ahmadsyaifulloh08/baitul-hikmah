@@ -128,16 +128,16 @@ function EventDetail({ event, onClose, t }: { event: Event; onClose: () => void;
         </div>
       )}
 
-      {/* Sumber */}
-      {event.sumber?.length > 0 && (
+      {/* Daftar Pustaka — rendered from sources[] in events-database.json */}
+      {event.sources?.length > 0 && (
         <div style={{
           marginTop: 10, padding: '10px 12px',
           background: 'rgba(210,169,34,0.08)', borderRadius: 6,
         }}>
           <div style={{ fontSize: 11, fontWeight: 600, color: '#d29922', marginBottom: 4 }}>{t('detail.source')}</div>
           <ul style={{ margin: 0, paddingLeft: 16 }}>
-            {event.sumber.map((s, i) => (
-              <li key={i} style={{ fontSize: 11, color: 'var(--text2, #8b949e)', marginBottom: 2 }}>{s}</li>
+            {event.sources.map((s: { title?: string; author?: string }, i: number) => (
+              <li key={i} style={{ fontSize: 11, color: 'var(--text2, #8b949e)', marginBottom: 2 }}>{s.title} — {s.author}</li>
             ))}
           </ul>
         </div>

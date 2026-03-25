@@ -113,3 +113,5 @@ Pasukan Muslim di Ajnadayn bertempur dengan jumlah yang jauh lebih kecil melawan
 2. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
 
 3. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar Shadir, 1965.
+
+4. Al-Quran al-Karim, QS. Al-Isra.

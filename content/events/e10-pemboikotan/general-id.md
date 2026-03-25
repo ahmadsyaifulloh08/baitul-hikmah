@@ -87,3 +87,5 @@ Namun, tiga tahun penderitaan fisik meninggalkan dampak kesehatan yang serius ba
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 3. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra* (Beirut: Dar Shadir, 1968).
+
+5. Al-Quran al-Karim, QS. Al-Baqarah.

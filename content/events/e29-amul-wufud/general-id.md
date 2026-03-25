@@ -121,3 +121,5 @@ Dalam menyambut puluhan delegasi dari seluruh Jazirah Arab, Nabi ﷺ menunjukkan
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 1-2. Beirut: Dar Shadir.
+
+4. Al-Quran al-Karim, QS. Al-Baqarah, QS. Al-Hujurat, QS. Ali, QS. An-Nashr.

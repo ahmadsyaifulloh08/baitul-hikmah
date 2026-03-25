@@ -11,7 +11,7 @@ const MapView = dynamic(() => import('@/components/MapView'), { ssr: false })
 function HomeContent() {
   const [mode, setMode] = useState<'timeline' | 'map'>('timeline')
   const [search, setSearch] = useState('')
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
 
   return (
     <main className="min-h-screen">
@@ -91,7 +91,12 @@ function HomeContent() {
       {mode === 'timeline' && (
         <footer className="text-center py-8 text-xs text-[var(--text-secondary)] border-t border-[var(--border)]">
           <p>{t('footer.tagline')}</p>
-          <p className="mt-1">{t('footer.methodology')}</p>
+          <p className="mt-2">{t('footer.methodology')}</p>
+          <p className="mt-2">
+            <a href="/about" className="underline hover:text-[var(--text-primary)] transition-colors">
+              {lang === 'id' ? 'Tentang Baitul Hikmah' : 'About Baitul Hikmah'}
+            </a>
+          </p>
         </footer>
       )}
     </main>

@@ -75,11 +75,17 @@ His generals snorted in disapproval, but the Negus stood firm. He returned the Q
 The verses from Surah Maryam that Ja'far recited at the Negus's court:
 
 > *"Kaf Ha Ya 'Ain Sad. [This is] a mention of the mercy of your Lord to His servant Zechariah, when he called to his Lord in a private supplication."*
+
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ كهيعص ﴿1﴾
+>
 > — QS. Maryam (19): 1–3
 
 And regarding Jesus (peace be upon him):
 
 > *"He [Jesus] said: 'Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.'"*
+
+> قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا ﴿30﴾
+>
 > — QS. Maryam (19): 30
 
 ## Analysis and Lessons

@@ -7,7 +7,7 @@
 > - **[Illustration Registry](illustration-registry.md)** — ⭐ BACA PERTAMA. Characters, locations, time palettes, scene rules, prompt template
 > - [Batch Workflow v2](operations/batch-image-generation-v2.md) — ✅ PROVEN parallel generation workflow
 > - [PinchTab Image Pipeline](operations/pinchtab-image-pipeline.md) — single image step-by-step
-> - [Image Briefs](image-briefs-children.md) — prompt per event/slide
+> - [Image Briefs](briefs/ (per-episode files)) — prompt per event/slide
 > - [Design Guide](design-guide.md) — color system, moodboard per era
 
 ---

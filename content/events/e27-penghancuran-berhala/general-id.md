@@ -105,3 +105,5 @@ Peristiwa ini juga menginspirasi pengiriman ekspedisi-ekspedisi kecil untuk meng
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 3521 (Amr bin Luhay), no. 4280-4289 (Fath Makkah dan penghancuran berhala).
+
+4. Al-Quran al-Karim, QS. Al-Hajj, QS. Al-Isra, QS. An-Najm, QS. Ash-Shaffat, QS. Saba.

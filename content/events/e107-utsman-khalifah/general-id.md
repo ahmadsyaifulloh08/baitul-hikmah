@@ -116,3 +116,5 @@ Meskipun akhir hayatnya tragis, warisan Utsman tetap monumental: standardisasi m
 5. **Muslim, Abu al-Husain Muslim ibn al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits no. 2401 (malaikat malu), no. 2403 (kabar surga). Riyadh: Dar al-Salam, 2000.
 
 6. **Al-Tirmidzi, Abu Isa Muhammad.** *Al-Jami' al-Kabir* (Sunan al-Tirmidzi). Hadits no. 3701 (sedekah Tabuk). Beirut: Dar al-Gharb al-Islami, 1998.
+
+7. Al-Quran al-Karim, QS. Al-Baqarah.

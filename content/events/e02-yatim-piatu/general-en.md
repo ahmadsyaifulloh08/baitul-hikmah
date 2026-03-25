@@ -150,16 +150,10 @@ In constructing this chronology, several points of scholarly disagreement warran
 
 ## Bibliography
 
-1. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Edited by Mustafa al-Saqqa, Ibrahim al-Abyari, and Abd al-Hafiz Shalabi. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
-
-2. **Al-Mubarakfuri, Safi-ur-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976.
-
-3. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 2262 (herding sheep), no. 5304 (caring for orphans).
-
-4. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadiths on the opening of the chest (Kitab al-Iman), visiting Aminah's grave (Kitab al-Jana'iz).
-
-5. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Volume 1. Beirut: Dar Sadir.
-
-6. **Al-Bayhaqi, Abu Bakr Ahmad ibn al-Husayn.** *Dalail al-Nubuwwah wa Ma'rifat Ahwal Sahib al-Shari'ah*. Beirut: Dar al-Kutub al-Ilmiyyah, 1985.
-
-7. **Ibn Qayyim al-Jawziyyah, Shams al-Din.** *Zad al-Ma'ad fi Hady Khayr al-'Ibad*. Volume 1. Beirut: Mu'assasat al-Risalah, 1994.
+1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
+2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
+3. Al-Bukhari, *Sahih al-Bukhari*, ed. Muhammad Zuhayr al-Nashir (Dar Tawq al-Najah, 2001).
+4. Muslim, *Sahih Muslim*.
+5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
+6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
+7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad*, vol. 1 (Beirut: Mu'assasat al-Risalah, 1994).
