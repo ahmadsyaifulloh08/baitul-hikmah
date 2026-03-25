@@ -84,8 +84,8 @@ export default function AboutPage() {
             </div>
 
             <div className="bg-[var(--bg-secondary)] rounded-lg" style={{padding:"0.5rem"}}>
-              <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Sistem Penjaminan Mutu</h3>
-              <p className="mb-2">Seluruh konten melewati sistem pengecekan mutu sebelum dipublikasikan:</p>
+              <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Sistem Validasi Artikel</h3>
+              <p className="mb-2">Seluruh konten melewati sistem validasi artikel sebelum dipublikasikan:</p>
               <ul className="list-disc pl-5 space-y-1">
                 <li><strong>Citation Checker</strong> — memverifikasi format sitasi terkonsolidasi</li>
                 <li><strong>Quran Format Checker</strong> — memastikan teks Arab ada di setiap referensi</li>
