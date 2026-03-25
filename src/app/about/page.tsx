@@ -27,9 +27,7 @@ export default function AboutPage() {
               Tersedia dalam Bahasa Indonesia dan Bahasa Inggris, dilengkapi peta interaktif, timeline kronologis,
               dan ilustrasi original untuk setiap peristiwa.
             </p>
-            <p>
-              Konten lengkap (sudah ada mode anak) telah melewati pipeline QA otomatis sebelum dipublikasikan.
-            </p>
+
           </div>
         </section>
 
@@ -86,8 +84,8 @@ export default function AboutPage() {
             </div>
 
             <div className="bg-[var(--bg-secondary)] rounded-lg" style={{padding:"0.5rem"}}>
-              <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Automated Quality Assurance</h3>
-              <p className="mb-2">Seluruh konten melewati pipeline QA otomatis sebelum dipublikasikan:</p>
+              <h3 className="font-semibold text-[var(--text-primary)] mb-3">5. Sistem Penjaminan Mutu</h3>
+              <p className="mb-2">Seluruh konten melewati sistem pengecekan mutu sebelum dipublikasikan:</p>
               <ul className="list-disc pl-5 space-y-1">
                 <li><strong>Citation Checker</strong> — memverifikasi format sitasi terkonsolidasi</li>
                 <li><strong>Quran Format Checker</strong> — memastikan teks Arab ada di setiap referensi</li>
@@ -108,7 +106,7 @@ export default function AboutPage() {
               <li>Style: warm watercolor storybook, konsisten di seluruh peristiwa</li>
               <li>Kepatuhan Islamic: Nabi Muhammad ﷺ direpresentasikan sebagai <em>cahaya emas</em> (golden glow) — tidak ada penggambaran fisik dalam bentuk apapun</li>
               <li>Character consistency melalui <em>illustration registry</em> — deskripsi karakter yang sama digunakan di setiap prompt</li>
-              <li>QA review otomatis sebelum publikasi</li>
+
             </ul>
           </div>
         </section>
