@@ -27,6 +27,9 @@ export default function AboutPage() {
               Tersedia dalam Bahasa Indonesia dan Bahasa Inggris, dilengkapi peta interaktif, timeline kronologis,
               dan ilustrasi original untuk setiap peristiwa.
             </p>
+            <p>
+              Konten lengkap (sudah ada mode anak) telah melewati verifikasi manusia sebelum dipublikasikan.
+            </p>
           </div>
         </section>
 
@@ -107,17 +110,6 @@ export default function AboutPage() {
               <li>Character consistency melalui <em>illustration registry</em> — deskripsi karakter yang sama digunakan di setiap prompt</li>
               <li>QA review oleh manusia sebelum publikasi</li>
             </ul>
-          </div>
-        </section>
-
-        <section className="mb-4">
-          <h2 className="text-xl font-semibold text-[var(--text-primary)] mb-3">Tim</h2>
-          <div className="text-[var(--text-secondary)] leading-relaxed" style={{display:"flex",flexDirection:"column",gap:"1rem"}}>
-            <p>
-              Baitul Hikmah adalah project <strong>AhadByte</strong> — dikembangkan oleh Ahmad Syaifulloh
-              dengan bantuan AI agents untuk riset, penulisan, dan ilustrasi. Semua konten melewati
-              verifikasi manusia sebelum dipublikasikan.
-            </p>
           </div>
         </section>
 
