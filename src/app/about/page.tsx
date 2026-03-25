@@ -28,7 +28,7 @@ export default function AboutPage() {
               dan ilustrasi original untuk setiap peristiwa.
             </p>
             <p>
-              Konten lengkap (sudah ada mode anak) telah melewati verifikasi manusia sebelum dipublikasikan.
+              Konten lengkap (sudah ada mode anak) telah melewati pipeline QA otomatis sebelum dipublikasikan.
             </p>
           </div>
         </section>
@@ -108,7 +108,7 @@ export default function AboutPage() {
               <li>Style: warm watercolor storybook, konsisten di seluruh peristiwa</li>
               <li>Kepatuhan Islamic: Nabi Muhammad ﷺ direpresentasikan sebagai <em>cahaya emas</em> (golden glow) — tidak ada penggambaran fisik dalam bentuk apapun</li>
               <li>Character consistency melalui <em>illustration registry</em> — deskripsi karakter yang sama digunakan di setiap prompt</li>
-              <li>QA review oleh manusia sebelum publikasi</li>
+              <li>QA review otomatis sebelum publikasi</li>
             </ul>
           </div>
         </section>
