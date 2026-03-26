@@ -4,7 +4,7 @@
 
 The story of **Bilal ibn Rabbah** is one of the most powerful narratives of faith-driven courage and the social revolution brought by Islam. Bilal was a dark-skinned slave of Abyssinian (Ethiopian) descent owned by **Umayyah ibn Khalaf**, one of the Quraysh nobles most fiercely opposed to Islam.^1
 
-In the social structure of pre-Islamic Mecca, slaves occupied the lowest stratum — they were not fully human in any legal sense, but property that could be sold, beaten, or killed without legal consequence. Islam arrived with a message that radically rejected this hierarchy. The earliest Qur'anic verses affirmed that human dignity is determined by piety, not by skin color or social standing.^2 ^6
+In the social structure of pre-Islamic Mecca, slaves occupied the lowest stratum — they were not fully human in any legal sense, but property that could be sold, beaten, or killed without legal consequence. Islam arrived with a message that radically rejected this hierarchy. The earliest Qur'anic verses affirmed that human dignity is determined by piety, not by skin color or social standing.^2 ^5
 
 When Bilal embraced Islam — most likely in the second or third year of prophethood (around 612–613 CE) — he was not merely professing a creed. He was consciously rejecting the entire system that enslaved him, choosing to submit only to Allah. This decision triggered one of the most harrowing episodes of persecution in early Islamic history.^3
 
@@ -24,7 +24,7 @@ In this state, Umayyah would say to Bilal: "You will remain like this until you 
 
 Yet Bilal, with a boulder crushing his chest and his back seared by sand, uttered only one word:
 
-**"Ahad... Ahad..."** ("The One... The One...")^2
+**"Ahad. Ahad."** ("The One. The One.")^2
 
 This word — simple, resolute, saturated with faith — became one of the most iconic utterances in Islamic history. Amid extreme physical torture, Bilal refused to deny the oneness of Allah. Every cry of "Ahad" was a proclamation of tawhid that pierced through violence and oppression.
 
@@ -47,7 +47,7 @@ Abu Bakr did not free Bilal alone. Ibn Sa'd records that Abu Bakr freed seven ot
 
 After the Hijrah to Medina and the construction of Masjid al-Nabawi, Prophet Muhammad SAW chose Bilal as the **first muezzin** in Islam.^1 This selection was not merely a functional appointment — it was a revolutionary statement.
 
-A former dark-skinned slave — who in Mecca had been regarded as no more than property — now stood at the highest point in Medina, calling out in a voice heard throughout the city, summoning Muslims to stand as equals before Allah in prayer.^5
+A former dark-skinned slave — who in Mecca had been regarded as no more than property — now stood at the highest point in Medina, calling out in a voice heard throughout the city, summoning Muslims to stand as equals before Allah in prayer.^4
 
 Bilal's voice was described as melodious and powerful. He called the adhan every day throughout the Prophet's lifetime, and his standing in the Prophet's eyes was immensely honored.
 
@@ -61,7 +61,7 @@ Bilal's story is a living embodiment of the Qur'anic verse:
 >
 > — QS. Al-Hujurat (49): 13
 
-The Prophet SAW also declared in his Farewell Sermon:^6
+The Prophet SAW also declared in his Farewell Sermon:^5
 
 > *"There is no superiority of an Arab over a non-Arab, nor of a non-Arab over an Arab; no superiority of a red-skinned person over a dark-skinned person, nor of a dark-skinned person over a red-skinned one — except through piety."*
 > — Musnad Ahmad, no. 23489
@@ -94,6 +94,5 @@ The selection of Bilal as the first muezzin was a decision laden with symbolic s
 1. Al-Bukhari, Muhammad ibn Isma'il, *Sahih al-Bukhari* (Damascus: Dar Ibn Kathir, 2002).
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
 3. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 3 (Beirut: Dar Sadir, 1968).
-4. Ibn Hajar al-Asqalani, *Al-Isabah fi Tamyiz al-Sahabah*, vol. 1 (Beirut: Dar al-Kutub al-Ilmiyyah, 1995).
-5. Ahmad ibn Hanbal, *Musnad Ahmad*, vol. 5 (Cairo: Mu'assasat Qurtubah, n.d.).
-6. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+4. Ahmad ibn Hanbal, *Musnad Ahmad*, vol. 5 (Cairo: Mu'assasat Qurtubah, n.d.).
+5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.

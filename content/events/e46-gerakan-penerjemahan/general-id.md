@@ -47,25 +47,25 @@ Al-Ma'mun mengalokasikan dana yang sangat besar untuk membeli manuscript langka 
 Tokoh paling berpengaruh dalam gerakan penerjemahan adalah **Abu Zayd Hunayn ibn Ishaq al-Ibadi**, seorang Kristen Nestorian dari **Hira** yang menjadi direktur proyek penerjemahan di Baitul Hikmah.^12
 
 **Latar Belakang dan Pendidikan**
-Hunayn lahir dalam keluarga farmasis Kristen Arab yang telah lama terlibat dalam preservasi manuscript Yunani. Sejak kecil, ia menguasai bahasa Arab, Suriani, dan Yunani — kombinasi yang langka dan sangat berharga. Pendidikan formalnya ditempuh di **Gondishapur** dan **Aleksandria**, di mana ia mempelajari kedokteran, filsafat, dan teknik penerjemahan dari para master Suriani.^13
+Hunayn lahir dalam keluarga farmasis Kristen Arab yang telah lama terlibat dalam preservasi manuscript Yunani. Sejak kecil, ia menguasai bahasa Arab, Suriani, dan Yunani — kombinasi yang langka dan sangat berharga. Pendidikan formalnya ditempuh di **Gondishapur** dan **Aleksandria**, di mana ia mempelajari kedokteran, filsafat, dan teknik penerjemahan dari para master Suriani.
 
 **Metodologi Penerjemahan Hunayn**
 Yang membedakan Hunayn dari penerjemah sebelumnya adalah pengembangannya terhadap **metodologi penerjemahan ilmiah** yang sistematis:
 
-**1. Pencarian Manuscript Terbaik**: Hunayn tidak menerjemahkan dari satu manuscript saja, tetapi mengumpulkan berbagai versi teks yang sama untuk mendapatkan redaksi terbaik. Ia sering melakukan perjalanan ke Mesir, Syam, dan Mesopotamia untuk mencari manuscript berkualitas tinggi.^14
+**1. Pencarian Manuscript Terbaik**: Hunayn tidak menerjemahkan dari satu manuscript saja, tetapi mengumpulkan berbagai versi teks yang sama untuk mendapatkan redaksi terbaik. Ia sering melakukan perjalanan ke Mesir, Syam, dan Mesopotamia untuk mencari manuscript berkualitas tinggi.
 
 **2. Penerjemahan Bertingkat**: Sistem *Suriani-Arab* yang dikembangkan Hunayn melibatkan dua tahap:
-   - Tahap pertama: Yunani → Suriani (dilakukan Hunayn sendiri)
-   - Tahap kedua: Suriani → Arab (dilakukan putranya **Ishaq ibn Hunayn** atau murid-muridnya)
+ - Tahap pertama: Yunani → Suriani (dilakukan Hunayn sendiri)
+ - Tahap kedua: Suriani → Arab (dilakukan putranya **Ishaq ibn Hunayn** atau murid-muridnya)
 
-Metode ini memastikan akurasi maksimal karena setiap tahap dikelola oleh ahli bahasa yang berbeda.^15
+Metode ini memastikan akurasi maksimal karena setiap tahap dikelola oleh ahli bahasa yang berbeda.
 
-**3. Terminologi Teknis**: Hunayn menciptakan ratusan istilah teknis Arab untuk konsep-konsep Yunani yang tidak memiliki padanan. Banyak dari terminologi ciptaannya masih digunakan dalam bahasa Arab modern, seperti *falsafah* (filsafat), *mantiq* (logika), dan *riyadhiyat* (matematika).^16
+**3. Terminologi Teknis**: Hunayn menciptakan ratusan istilah teknis Arab untuk konsep-konsep Yunani yang tidak memiliki padanan. Banyak dari terminologi ciptaannya masih digunakan dalam bahasa Arab modern, seperti *falsafah* (filsafat), *mantiq* (logika), dan *riyadhiyat* (matematika).
 
-**4. Catatan dan Komentar**: Setiap terjemahan disertai catatan ekstensif yang menjelaskan konteks historis, kesulitan terjemahan, dan perbedaan antara berbagai manuscript yang digunakan.^17
+**4. Catatan dan Komentar**: Setiap terjemahan disertai catatan ekstensif yang menjelaskan konteks historis, kesulitan terjemahan, dan perbedaan antara berbagai manuscript yang digunakan.
 
 **Produktivitas Luar Biasa**
-Ibn al-Nadim mencatat bahwa Hunayn dan timnya berhasil menerjemahkan lebih dari **130 karya Galen**, **semua karya logika Aristoteles**, sebagian besar **corpus Hippokrates**, dan karya-karya penting **Plato**. Total output-nya diperkirakan mencapai lebih dari 200 teks besar dalam periode 40 tahun.^18
+Ibn al-Nadim mencatat bahwa Hunayn dan timnya berhasil menerjemahkan lebih dari **130 karya Galen**, **semua karya logika Aristoteles**, sebagian besar **corpus Hippokrates**, dan karya-karya penting **Plato**. Total output-nya diperkirakan mencapai lebih dari 200 teks besar dalam periode 40 tahun.
 
 **Tim Penerjemahan Hunayn**
 Hunayn membangun tim penerjemahan yang terorganisir dengan spesialisasi:
@@ -73,7 +73,7 @@ Hunayn membangun tim penerjemahan yang terorganisir dengan spesialisasi:
 - **Hubaish ibn al-Hasan** (keponakannya): spesialis kedokteran Galen
 - **Yahya ibn Adi**: spesialis filsafat dan logika
 - **Qusta ibn Luqa**: spesialis matematika dan astronomi
-- **Thabit ibn Qurrah**: spesialis geometri dan mekanika^19
+- **Thabit ibn Qurrah**: spesialis geometri dan mekanika
 
 ## Karya-Karya Besar yang Diterjemahkan
 
@@ -82,21 +82,21 @@ Hunayn membangun tim penerjemahan yang terorganisir dengan spesialisasi:
 - **Plato**: *Respublica* (parsial), *Timaeus*, *Phaedo*
 - **Plotinus**: *Enneades* (diadaptasi menjadi *Theologia Aristotelis*)
 - **Alexander dari Aphrodisias**: komentar-komentar terhadap Aristoteles
-- **Themistius**: parafrase karya-karya Aristoteles^20
+- **Themistius**: parafrase karya-karya Aristoteles
 
 **Kedokteran**
 - **Galen**: *Ars Medica*, *De Simplicium Medicamentorum*, *De Anatomicis Administrationibus*
 - **Hippokrates**: *Aphorismata*, *De Aere Aquis et Locis*, *Epidemiae*
 - **Oribasius**: *Collectiones Medicae*
 - **Paul dari Aegina**: *Epitomae Medicae*
-- **Dioscorides**: *De Materia Medica*^21
+- **Dioscorides**: *De Materia Medica*
 
 **Matematika dan Astronomi**
 - **Euclides**: *Elementa* (berbagai versi dan komentar)
 - **Ptolemaios**: *Almagest*, *Geographia*, *Tetrabiblos*
 - **Apollonios**: *Conicae*
 - **Archimedes**: *De Sphaera et Cylindro*, *De Circuli Dimensione*
-- **Nicomachus**: *Introductio Arithmetica*^22
+- **Nicomachus**: *Introductio Arithmetica*
 
 ## Metodologi dan Standar Penerjemahan
 
@@ -106,24 +106,24 @@ Para penerjemah Muslim mengembangkan prinsip-prinsip yang kemudian menjadi stand
 **1. Amanah (Fidelity)**: Kesetiaan terhadap makna asli tanpa distorsi atau sensor
 **2. Kejelasan (Clarity)**: Penggunaan bahasa Arab yang jernih dan dapat dipahami
 **3. Completeness**: Penerjemahan utuh tanpa penghilangan bagian-bagian penting
-**4. Kontekstualisasi**: Penambahan catatan untuk menjelaskan konteks budaya Yunani^23
+**4. Kontekstualisasi**: Penambahan catatan untuk menjelaskan konteks budaya Yunani
 
 **Tantangan Linguistik**
 Bahasa Arab pada abad ke-8-9 belum memiliki terminologi teknis untuk banyak konsep ilmiah Yunani. Para penerjemah mengembangkan tiga strategi:
 - **Arabisasi**: Mengadaptasi kata Yunani ke dalam sistem fonologis Arab (misalnya: *falsafah* dari *philosophia*)
 - **Kalke**: Terjemahan harfiah elemen-elemen kata (misalnya: *mantiq* dari *logikos*)
-- **Neologisme**: Penciptaan kata baru berdasarkan akar bahasa Arab (misalnya: *riyadhiyyat* untuk matematika)^24
+- **Neologisme**: Penciptaan kata baru berdasarkan akar bahasa Arab (misalnya: *riyadhiyyat* untuk matematika)
 
 ## Dampak terhadap Renaissance Eropa
 
 **Jalur Transmisi ke Eropa**
 Karya-karya yang telah diterjemahkan ke bahasa Arab kemudian mengalir ke Eropa melalui tiga jalur utama:
 
-**1. Al-Andalus (Spanyol Islam)**: Pusat penerjemahan **Toledo** di bawah Arzbishop Raymond (1125-1151) menjadi hub terjemahan Arab-Latin. **Gerard dari Cremona** sendirian menerjemahkan lebih dari 80 karya dari bahasa Arab, termasuk *Almagest* Ptolemy dan *Canon* Ibn Sina.^25
+**1. Al-Andalus (Spanyol Islam)**: Pusat penerjemahan **Toledo** di bawah Arzbishop Raymond (1125-1151) menjadi hub terjemahan Arab-Latin. **Gerard dari Cremona** sendirian menerjemahkan lebih dari 80 karya dari bahasa Arab, termasuk *Almagest* Ptolemy dan *Canon* Ibn Sina.
 
-**2. Sisilia**: Di bawah pemerintahan **Frederick II**, pulau ini menjadi pusat penerjemahan dengan tokoh seperti **Michael Scot** yang menerjemahkan karya-karya Aristoteles dan komentarnya.^26
+**2. Sisilia**: Di bawah pemerintahan **Frederick II**, pulau ini menjadi pusat penerjemahan dengan tokoh seperti **Michael Scot** yang menerjemahkan karya-karya Aristoteles dan komentarnya.
 
-**3. Konstantinopel**: Setelah jatuhnya Konstantinopel (1453), banyak sarjana Byzantium membawa manuscript Yunani ke Eropa Barat, namun sebagian besar karya Aristoteles sudah lebih dulu masuk melalui terjemahan Arab-Latin.^27
+**3. Konstantinopel**: Setelah jatuhnya Konstantinopel (1453), banyak sarjana Byzantium membawa manuscript Yunani ke Eropa Barat, namun sebagian besar karya Aristoteles sudah lebih dulu masuk melalui terjemahan Arab-Latin.
 
 **Impact pada Renaissance Thinking**
 Hampir semua tokoh besar Renaissance Eropa bergantung pada karya-karya yang telah diterjemahkan oleh gerakan penerjemahan Islam:
@@ -131,29 +131,29 @@ Hampir semua tokoh besar Renaissance Eropa bergantung pada karya-karya yang tela
 - **Thomas Aquinas**: *Summa Theologica*-nya mustahil tanpa Aristoteles versi terjemahan Arab
 - **Roger Bacon**: metode eksperimentalnya dipengaruhi tradisi optik dan alkimia Arab
 - **Albertus Magnus**: sistem filosofisnya dibangun di atas fondasi Aristotelianisme Arab-Latin
-- **Averroisme Latin**: gerakan filosofis yang mengikuti **Ibn Rushd** (Averroes) menjadi arus utama di Universitas Paris dan Padua^28
+- **Averroisme Latin**: gerakan filosofis yang mengikuti **Ibn Rushd** (Averroes) menjadi arus utama di Universitas Paris dan Padua
 
 ## Warisan dan Signifikansi Historis
 
 **Revolusi Epistemologis**
-Gerakan penerjemahan tidak hanya mentransfer teks-teks, tetapi menciptakan **revolusi epistemologis** dalam peradaban Islam. Untuk pertama kali dalam sejarah, sebuah peradaban secara sistematis menyerap, menterjemahkan, dan mengembangkan seluruh corpus pengetahuan dari peradaban-peradaban sebelumnya.^29
+Gerakan penerjemahan tidak hanya mentransfer teks-teks, tetapi menciptakan **revolusi epistemologis** dalam peradaban Islam. Untuk pertama kali dalam sejarah, sebuah peradaban secara sistematis menyerap, menterjemahkan, dan mengembangkan seluruh corpus pengetahuan dari peradaban-peradaban sebelumnya.
 
 **Model Toleransi Intelektual**
-Kolaborasi antara penerjemah Muslim, Kristen, dan Yahudi dalam proyek bersama menciptakan model **toleransi intelektual** yang jarang ditemui dalam sejarah. Hunayn ibn Ishaq (Kristen), Thabit ibn Qurrah (Sabian), dan al-Kindi (Muslim) bekerja berdampingan tanpa pertimbangan agama menghalangi pursuit of knowledge.^30
+Kolaborasi antara penerjemah Muslim, Kristen, dan Yahudi dalam proyek bersama menciptakan model **toleransi intelektual** yang jarang ditemui dalam sejarah. Hunayn ibn Ishaq (Kristen), Thabit ibn Qurrah (Sabian), dan al-Kindi (Muslim) bekerja berdampingan tanpa pertimbangan agama menghalangi pursuit of knowledge.
 
 **Standar Akademik Modern**
-Metodologi penerjemahan yang dikembangkan — kritik manuscript, kolasi sumber, catatan editorial, terminologi standar — menjadi fondasi bagi standar akademik modern yang masih digunakan hingga hari ini.^31
+Metodologi penerjemahan yang dikembangkan — kritik manuscript, kolasi sumber, catatan editorial, terminologi standar — menjadi fondasi bagi standar akademik modern yang masih digunakan hingga hari ini.
 
 ## Penutup: Jembatan Peradaban
 
-Gerakan penerjemahan membuktikan bahwa **peradaban terbaik lahir dari dialog, bukan isolasi**. Islam tidak menolak warisan intelektual non-Muslim, tetapi justru merangkulnya dengan sikap kritis dan konstruktif. Hasilnya adalah peradaban yang menjadi jembatan antara dunia kuno dan modern — sebuah **cosmopolitan synthesis** yang menginspirasi Renaissance Eropa dan membentuk fondasi ilmu pengetahuan universal.^32
+Gerakan penerjemahan membuktikan bahwa **peradaban terbaik lahir dari dialog, bukan isolasi**. Islam tidak menolak warisan intelektual non-Muslim, tetapi justru merangkulnya dengan sikap kritis dan konstruktif. Hasilnya adalah peradaban yang menjadi jembatan antara dunia kuno dan modern — sebuah **cosmopolitan synthesis** yang menginspirasi Renaissance Eropa dan membentuk fondasi ilmu pengetahuan universal.
 
 > وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ وَلَٰكِنَّ اللَّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ ﴿٢٥١﴾
 >
 > *"Dan kalau Allah tiada menolak (keganasan) sebagian manusia dengan sebagian yang lain, pastilah rusak binasa bumi ini. Tetapi Allah mempunyai karunia (yang dicurahkan) atas semesta alam."* ﴾251﴿
 > — QS. Al-Baqarah (2): 251
 
-Ayat ini mencerminkan visi Islam tentang diversity dan pluralitas sebagai rahmat, bukan ancaman. Gerakan penerjemahan adalah manifestasi konkret dari prinsip ini — di mana keberagaman tradisi intelektual justru memperkaya dan memajukan peradaban.^33^12
+Ayat ini mencerminkan visi Islam tentang diversity dan pluralitas sebagai rahmat, bukan ancaman. Gerakan penerjemahan adalah manifestasi konkret dari prinsip ini — di mana keberagaman tradisi intelektual justru memperkaya dan memajukan peradaban.^12
 
 ---
 

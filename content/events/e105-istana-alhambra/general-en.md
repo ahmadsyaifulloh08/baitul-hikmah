@@ -147,4 +147,3 @@ This hadith reflects the philosophy that inspired the creation of Alhambra - the
 2. Ruggles, D. Fairchild, *Gardens, Landscape, and Vision in the Palaces of Islamic Spain*, University Park: Pennsylvania State University Press, 2000.
 3. Arié, Rachel, *L'Espagne musulmane au temps des Nasrides (1232-1492)*, Paris: De Boccard, 1973.
 4. Fernández-Puertas, Antonio, *The Alhambra*, London: Saqi Books, 1997.
-5. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 91.

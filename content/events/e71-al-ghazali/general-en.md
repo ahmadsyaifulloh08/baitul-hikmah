@@ -59,7 +59,7 @@ In the preface to his work, al-Ghazali explained the purpose of writing by quoti
 > *"And We have not sent you except as a mercy to all the worlds. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107
 
-This verse inspired al-Ghazali to make his work a mercy for the Muslim community by reviving the true religious sciences, namely knowledge that not only fills the mind but also purifies the heart.²^5
+This verse inspired al-Ghazali to make his work a mercy for the Muslim community by reviving the true religious sciences, namely knowledge that not only fills the mind but also purifies the heart.²^1
 
 ## Innovative Methodology and Approach
 
@@ -131,8 +131,4 @@ Al-Ghazali succeeded in showing that Islam is a balanced religion that accommoda
 
 ## Bibliography
 
-1. Al-Ghazali, Abu Hamid Muhammad, *Ihya Ulum al-Din*, 4 volumes, Beirut: Dar al-Ma'rifah, 2010.
-2. Watt, W. Montgomery, *Muslim Intellectual: A Study of al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
-3. Nakamura, Kojiro, *Ghazali and Prayer in the Ihya*, Tokyo: Keio Institute of Cultural and Linguistic Studies, 1992.
-4. Frank, Richard M., *Al-Ghazali and the Ash'arite School*, Durham: Duke University Press, 1994.
-5. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.
+1. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.

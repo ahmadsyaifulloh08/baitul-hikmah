@@ -169,7 +169,7 @@ Tradisi Al-Qarawiyyin dalam menerima mahasiswa dari berbagai latar belakang agam
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^6^12
+Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^6^9
 
 ## Daftar Pustaka
 
@@ -181,7 +181,4 @@ Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiy
 6. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
 7. Nakosteen, Mehdi. *History of Islamic Origins of Western Education A.D. 800-1350*. Boulder: University of Colorado Press, 1964.
 8. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
-9. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
-10. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
-11. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
-12. Al-Qur'an al-Karim. QS. Taha (20): 114.
+9. Al-Qur'an al-Karim. QS. Taha (20): 114.

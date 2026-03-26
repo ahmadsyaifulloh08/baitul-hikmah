@@ -77,7 +77,7 @@ Dalam salah satu ceramahnya yang terkenal, Abdul Qadir menjelaskan tentang jiwa 
 > *"Wahai jiwa yang tenang! ﴾27﴿ Kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai. ﴾28﴿ Maka masuklah ke dalam golongan hamba-hamba-Ku, ﴾29﴿ dan masuklah ke dalam surga-Ku. ﴾30﴿"*
 > — QS. Al-Fajr (89): 27-30
 
-Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian **nafs al-mutma'innah** (jiwa yang tenang) sebagai tujuan tertinggi perjalanan spiritual. Menurut Abdul Qadir, jiwa yang tenang adalah jiwa yang telah mencapai kedamaian sempurna dengan Allah, dengan diri sendiri, dan dengan alam semesta.⁴^5
+Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian **nafs al-mutma'innah** (jiwa yang tenang) sebagai tujuan tertinggi perjalanan spiritual. Menurut Abdul Qadir, jiwa yang tenang adalah jiwa yang telah mencapai kedamaian sempurna dengan Allah, dengan diri sendiri, dan dengan alam semesta.⁴^1
 
 ## Penyebaran Tarekat Qadiriyyah ke Seluruh Dunia
 
@@ -129,8 +129,4 @@ Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan
 
 ## Daftar Pustaka
 
-1. Al-Jilani, Abdul Qadir, *Al-Ghunya li Thalib Tariq al-Haqq*, tahqiq Abu Abdurrahman Salah ibn Muhammad, Damaskus: Dar al-Khair, 2011.
-2. Al-Nabahani, Yusuf ibn Ismail, *Jami' Karamat al-Awliya'*, jilid 1, Beirut: Dar al-Kutub al-Ilmiyyah, 2009.
-3. Trimingham, J. Spencer, *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1998.
-4. Lings, Martin, *What is Sufism?*, Cambridge: Islamic Texts Society, 1993.
-5. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.
+1. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.

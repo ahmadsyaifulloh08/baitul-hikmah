@@ -137,19 +137,3 @@ Al-Hallaj's death became a symbol of sacrifice in divine love and struggle again
 7. Al-Sarraj, Abu Nasr, *Kitab al-Luma' fi al-Tasawwuf*, references to al-Hallaj.
 8. Al-Qushayri, Abd al-Karim, *Al-Risalah al-Qushayriyyah*, chapter on al-Hallaj.
 9. Ernst, Carl W., *Words of Ecstasy in Sufism*, Albany: SUNY Press, 1985.
-10. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
-11. Sells, Michael A., *Early Islamic Mysticism*, New York: Paulist Press, 1996.
-12. Böwering, Gerhard, *The Mystical Vision of Existence*, Berlin: Walter de Gruyter, 1980.
-13. Mason, Herbert, *Al-Hallaj*, Richmond: Curzon Press, 1995.
-14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 10.
-15. Ibn Khallikan, Ahmad ibn Muhammad, *Wafayat al-A'yan*, biography of al-Hallaj.
-16. Chodkiewicz, Michel, *An Ocean Without Shore*, Albany: SUNY Press, 1993.
-17. Attar, Farid al-Din, *Tadhkirat al-Awliya*, biography of al-Hallaj.
-18. Ibn Dawud al-Zahiri, references in historical sources.
-19. Van Ess, Josef, *Theologie und Gesellschaft*, Berlin: Walter de Gruyter, 1991-1997.
-20. Al-Shibli, Abu Bakr, defense of al-Hallaj in various sources.
-21. Ibn Suraij, Abu al-Abbas, fatwa on mystical statements.
-22. Al-Mas'udi, Ali ibn al-Husayn, *Muruj al-Dhahab*, execution account.
-23. Karamustafa, Ahmet T., *Sufism: The Formative Period*, Berkeley: University of California Press, 2007.
-24. Ibn Arabi, Muhyi al-Din, references to al-Hallaj in various works.
-25. Ritter, Hellmut, *Das Meer der Seele*, Leiden: E.J. Brill, 1955.

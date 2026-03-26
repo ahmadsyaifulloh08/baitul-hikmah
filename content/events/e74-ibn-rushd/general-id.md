@@ -21,7 +21,7 @@ Dukungan politik ini memungkinkan Ibn Rushd tidak hanya bekerja sebagai qadi di 
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."*
 > — QS. al-Isra' (17): 85^2
 
-## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut^2^10
+## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut^2^3
 
 Karya paling berpengaruh Ibn Rushd adalah **"Tahafut al-Tahafut"** (Kerancuan Kerancuan), ditulis sebagai bantahan terhadap karya **Al-Ghazali** berjudul "Tahafut al-Falasifah" (Kerancuan Para Filosof). Al-Ghazali, yang wafat pada 1111 M—lima belas tahun sebelum Ibn Rushd lahir—telah mengkritik keras para filosof Muslim seperti **Al-Farabi** dan **Ibn Sina** dalam karyanya tersebut.^2
 
@@ -115,11 +115,4 @@ Kontribusinya menunjukkan bahwa tradisi Islam memiliki kapasitas untuk berdialog
 
 1. Ibn Abi Usaybi'ah, *Uyun al-Anba' fi Tabaqat al-Atibba'*.
 2. Ibn Rushd, *Fasl al-Maqal fi ma bayn al-Hikmah wa al-Shari'ah min Ittisal*.
-3. Al-Ghazali, *Tahafut al-Falasifah*, tahqiq Sulayman Dunya.
-4. Majid Fakhry, *Averroes: His Life, Works and Influence*.
-5. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
-6. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
-7. Thomas Aquinas, *Summa Theologica*, trans. Fathers of the English Dominican Province.
-8. Étienne Gilson, *History of Christian Philosophy in the Middle Ages*.
-9. Oliver Leaman, *Averroes and His Philosophy*, Oxford: Clarendon Press, 1988.
-10. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.
+3. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.

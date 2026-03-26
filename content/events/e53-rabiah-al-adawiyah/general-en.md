@@ -97,14 +97,3 @@ In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (L
 7. Ibn al-Jawzi, Abd al-Rahman, *Sifat al-Safwah*, vol. 4.
 8. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
 9. Massignon, Louis, *Essay on the Origins of the Technical Language of Islamic Mysticism*, Paris: Vrin, 1954.
-10. Arberry, A.J., *Muslim Saints and Mystics*, Chicago: University of Chicago Press, 1966.
-11. Al-Junayd, Abu al-Qasim, *Rasa'il al-Junayd*, editor Ali Hasan Abdel-Kader.
-12. Al-Hujwiri, Ali ibn Uthman, *Kashf al-Mahjub*, Lahore: Islamic Book Foundation, 1976.
-13. Nicholson, Reynold A., *The Mystics of Islam*, London: G. Bell & Sons, 1914.
-14. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, vol. 4.
-15. Attar, *op. cit.*, compilation of Rabi'ah's prayers.
-16. Al-Baghdadi, Al-Khatib, *Tarikh Baghdad*, references to Hasan-Rabi'ah dialogues.
-17. Al-Makki, Abu Talib, *Qut al-Qulub*, Cairo: Dar al-Kutub al-Hadithah, 1961.
-18. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, Beirut: Dar Sadir, 1968.
-19. Ernst, Carl W., *The Shambhala Guide to Sufism*, Boston: Shambhala, 1997.
-20. Cornell, Vincent J., *Realm of the Saint*, Austin: University of Texas Press, 1998.

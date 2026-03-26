@@ -42,7 +42,7 @@ In several narrations, Prophet Muhammad SAW stopped at several important locatio
 2. **Mount Sinai** (*Tur Sina'*) — where Prophet Musa (Moses) AS received revelation
 3. **Bethlehem** (*Bayt Lahm*) — the birthplace of Prophet Isa (Jesus) AS
 
-At each location, Jibril AS asked the Prophet to dismount and perform two units of prayer, then informed him of the historical significance of the place.^1 ^0
+At each location, Jibril AS asked the Prophet to dismount and perform two units of prayer, then informed him of the historical significance of the place.^1 
 
 ### Congregational Prayer at al-Masjid al-Aqsa
 
@@ -62,27 +62,27 @@ After the prayer at al-Masjid al-Aqsa, Prophet Muhammad SAW and Jibril AS ascend
 4. **Fourth heaven** — **Prophet Idris (Enoch) AS**, whom Allah raised to a high station.^1 ^7
 5. **Fifth heaven** — **Prophet Harun (Aaron) AS**, the brother of Prophet Musa.^1 ^8
 6. **Sixth heaven** — **Prophet Musa (Moses) AS**, who wept when Muhammad passed him, knowing that more of Muhammad's followers would enter Paradise than his own.^1 ^9
-7. **Seventh heaven** — **Prophet Ibrahim (Abraham) AS**, *khalilullah* (the beloved of Allah), who was reclining against al-Bayt al-Ma'mur — the celestial Ka'bah entered by 70,000 angels every day, never to return.^2 ^0
+7. **Seventh heaven** — **Prophet Ibrahim (Abraham) AS**, *khalilullah* (the beloved of Allah), who was reclining against al-Bayt al-Ma'mur — the celestial Ka'bah entered by 70,000 angels every day, never to return.^2 
 
 The complete narration of these encounters is found in Sahih al-Bukhari:
 
-> فَانْطَلَقَ بِي جِبْرِيلُ حَتَّى أَتَى السَّمَاءَ الدُّنْيَا فَاسْتَفْتَحَ... قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ قِيلَ وَقَدْ أُرْسِلَ إِلَيْهِ قَالَ نَعَمْ قِيلَ مَرْحَبًا بِهِ فَنِعْمَ الْمَجِيءُ جَاءَ
+> فَانْطَلَقَ بِي جِبْرِيلُ حَتَّى أَتَى السَّمَاءَ الدُّنْيَا فَاسْتَفْتَحَ. قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ قِيلَ وَقَدْ أُرْسِلَ إِلَيْهِ قَالَ نَعَمْ قِيلَ مَرْحَبًا بِهِ فَنِعْمَ الْمَجِيءُ جَاءَ
 >
-> *"Then Jibril took me until we reached the lowest heaven, and he asked for it to be opened... It was asked: 'Who is this?' Jibril said: 'Jibril.' It was asked: 'And who is with you?' He said: 'Muhammad.' It was asked: 'Has he been sent for?' He said: 'Yes.' It was said: 'Welcome to him; what an excellent arrival has come.'"*
+> *"Then Jibril took me until we reached the lowest heaven, and he asked for it to be opened. It was asked: 'Who is this?' Jibril said: 'Jibril.' It was asked: 'And who is with you?' He said: 'Muhammad.' It was asked: 'Has he been sent for?' He said: 'Yes.' It was said: 'Welcome to him; what an excellent arrival has come.'"*
 > — Narrated by al-Bukhari, no. 3207, Kitab Bad' al-Khalq
 
 ### Sidrat al-Muntaha
 
 After passing beyond the seventh heaven, Prophet Muhammad SAW reached *Sidrat al-Muntaha* — the lote tree at the farthest boundary, the frontier between the realm of creation and Divine majesty. Even Jibril AS stopped at this point, saying that he could not proceed further — were he to cross that boundary, his wings would burn.^2 ^1
 
-Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^40:
+Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^10:
 
 > وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِندَ سِدْرَةِ الْمُنتَهَىٰ ﴿١٤﴾ عِندَهَا جَنَّةُ الْمَأْوَىٰ ﴿١٥﴾ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ ﴿١٦﴾ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ ﴿١٧﴾
 >
 > *"And he certainly saw him in another descent, ﴾13﴿ at Sidrat al-Muntaha. ﴾14﴿ Near it is the Garden of Refuge. ﴾15﴿ When there covered the lote tree that which covered it, ﴾16﴿ the sight did not swerve, nor did it transgress its limit. ﴾17﴿"*
 > — QS. Al-Najm (53): 13–17
 
-It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2 ^40
+It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2 ^10
 
 ### The Commandment of the Five Daily Prayers
 
@@ -103,9 +103,9 @@ When Musa once more suggested asking for further reduction, Prophet Muhammad SAW
 
 Then a proclamation from Allah the Almighty was heard:
 
-> أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي... هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ
+> أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي. هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ
 >
-> *"I have established My obligation and lightened the burden upon My servants... They are five (in practice), yet they are fifty (in reward). The decree from Me shall not be changed."*
+> *"I have established My obligation and lightened the burden upon My servants. They are five (in practice), yet they are fifty (in reward). The decree from Me shall not be changed."*
 > — Narrated by al-Bukhari, no. 3207, Kitab Bad' al-Khalq
 
 Thus, the five daily prayers were established with the reward of fifty prayers — a mercy and generosity from Allah the Almighty.^2 ^6
@@ -134,11 +134,11 @@ The event of the Isra' is immortalized in the opening of Surah al-Isra':
 > *"Exalted is He who took His servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the All-Hearing, the All-Seeing. ﴾1﴿"*
 > — QS. Al-Isra' (17): 1
 
-The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^9 ^40
+The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^9 ^10
 
 ### The Reaction of Meccan Society
 
-The next morning, when Prophet Muhammad SAW recounted his Isra' Mi'raj experience to the people of Mecca, the reactions were varied. The Quraysh laughed and mocked him. Some who had already embraced Islam even wavered and abandoned their faith.^3 ^0
+The next morning, when Prophet Muhammad SAW recounted his Isra' Mi'raj experience to the people of Mecca, the reactions were varied. The Quraysh laughed and mocked him. Some who had already embraced Islam even wavered and abandoned their faith.^3 
 
 However, **Abu Bakr al-Siddiq** gave a response that became the standard of faith. When the Quraysh came to him and asked: "Do you believe that your companion claims to have traveled to Bayt al-Maqdis in a single night?" Abu Bakr replied:
 
@@ -187,40 +187,4 @@ In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to 
 7. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162.
 8. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 132.
 9. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162; also in other narrations.
-10. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 109.
-11. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Khalq, no. 3207.
-12. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 110.
-13. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Khalq, no. 3207; Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162.
-14. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-15. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-16. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-17. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-18. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-19. Al-Bukhari, *Sahih al-Bukhari*, no. 3207; Muslim, *Sahih Muslim*, no. 162.
-20. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-21. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 115.
-22. Al-Tabari, *Tafsir al-Tabari*, vol. 27 (Cairo: Dar al-Ma'arif, 1954), commentary on QS. al-Najm: 13–17.
-23. Al-Bukhari, *Sahih al-Bukhari*, no. 3207; Muslim, *Sahih Muslim*, no. 162.
-24. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-25. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162.
-26. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-27. Muslim, *Sahih Muslim*, no. 162; al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-28. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 135.
-
-> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
->
-29. Al-Tabari, *Tafsir al-Tabari*, vol. 15, commentary on QS. al-Isra': 1.
-30. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 398.
-31. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 399.
-32. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 118.
-33. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 170.
-
-> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ ﴿1﴾
->
-34. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 107–108; al-Tabari, *Tafsir al-Tabari*, vol. 15, commentary on QS. al-Isra': 1.
-35. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 136.
-36. Al-Bukhari, *Sahih al-Bukhari*, no. 3207.
-37. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 119.
-38. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 399.
-39. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 137.
-40. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.
+10. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.

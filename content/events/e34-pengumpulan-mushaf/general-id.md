@@ -2,7 +2,7 @@
 
 ## Konteks: Urgensi Pasca-Yamamah
 
-Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^1 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.^2
+Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^1 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.
 
 Pada masa Rasulullah ﷺ, al-Quran dilestarikan melalui dua cara: **hafalan** (*hifzh*) dan **tulisan** (*kitabah*). Para sahabat menghafal al-Quran langsung dari lisan Nabi, sementara para juru tulis wahyu*kuttab al-wahy* — seperti Zaid bin Tsabit, Ubay bin Ka'b, Abdullah bin Mas'ud, dan lainnya — menuliskan ayat-ayat yang turun di atas berbagai media: pelepah kurma (*'usub*), lempengan batu tipis (*likhaf*), tulang belikat unta (*aktaf*), dan potongan kulit (*riqq*). 
 
@@ -47,7 +47,7 @@ Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin 
 
 **Pertama**, Zaid tidak mengandalkan hafalannya sendiri saja, meskipun ia hafal seluruh al-Quran. Ia menggunakan pendekatan verifikasi ganda*tawatur*.
 
-**Kedua**, untuk setiap ayat, Zaid mensyaratkan adanya **dua saksi** — yaitu dua orang yang memiliki catatan tertulis dari ayat tersebut yang ditulis di hadapan Rasulullah ﷺ, atau dua orang yang menghafalnya langsung dari lisan Nabi.  Syarat ini memastikan bahwa tidak ada ayat yang masuk ke dalam mushaf berdasarkan satu sumber saja.
+**Kedua**, untuk setiap ayat, Zaid mensyaratkan adanya **dua saksi** — yaitu dua orang yang memiliki catatan tertulis dari ayat tersebut yang ditulis di hadapan Rasulullah ﷺ, atau dua orang yang menghafalnya langsung dari lisan Nabi. Syarat ini memastikan bahwa tidak ada ayat yang masuk ke dalam mushaf berdasarkan satu sumber saja.
 
 **Ketiga**, Zaid mengumpulkan tulisan-tulisan al-Quran dari berbagai media — pelepah kurma, lempengan batu, tulang, potongan kulit, dan lembaran-lembaran (*suhuf*) — dari tangan para sahabat di seluruh Madinah.
 
@@ -57,14 +57,14 @@ Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin 
 
 Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid berkata:
 
-*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah (9): 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
+*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri.' (QS. Al-Taubah (9): 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
 
 > لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ﴿١٢٨﴾
 >
 > *"Sungguh telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaanmu, sangat menginginkan keimanan dan keselamatan bagimu, amat belas kasihan lagi penyayang terhadap orang-orang mukmin. ﴾128﴿"*
 > — QS. Al-Taubah (9): 128
 
-Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^3
+Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^2
 
 ### Penyimpanan Mushaf
 
@@ -81,7 +81,7 @@ Proyek pengumpulan al-Quran ini, dalam perspektif teologis Islam, merupakan perw
 > *"Sesungguhnya Kami-lah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^3
+Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^2
 
 ### Perbedaan dengan Pengumpulan Utsmani
 
@@ -116,5 +116,4 @@ Zaid bin Tsabit tidak berlebihan ketika ia berkata bahwa memindahkan gunung lebi
 ## Daftar Pustaka
 
 1. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
-3. Al-Suyuti, Jalaluddin, *Al-Itqan fi Ulum al-Quran*, jilid 1, tahqiq Muhammad Abu al-Fadhl Ibrahim (Kairo: Dar al-Turath, 1967).
-3. Al-Qur'an al-Karim. QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9.
+2. Al-Qur'an al-Karim. QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9.

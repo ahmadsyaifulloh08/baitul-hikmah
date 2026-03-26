@@ -14,7 +14,7 @@ On the fourth day after Umar's death, **Uthman ibn Affan** was pledged allegianc
 
 Uthman ibn Affan belonged to the Banu Umayyah, one of the most influential clans in Quraysh. He was among the *al-Sabiqun al-Awwalun* — the earliest converts to Islam — having embraced the faith through the invitation of Abu Bakr al-Siddiq.^2 ^3 His famous title was *Dhunnurayn* (possessor of two lights), as he married two daughters of Prophet Muhammad ﷺ: Ruqayyah, and after her death, Umm Kulthum.^2
 
-Ibn al-Jawzi in *Sifat al-Safwa* describes Uthman as gentle, exceedingly modest (*haya'*), extraordinarily generous, and deeply devoted to the Quran.^3 Prophet Muhammad ﷺ himself said regarding Uthman's modesty^7:
+Ibn al-Jawzi in *Sifat al-Safwa* describes Uthman as gentle, exceedingly modest (*haya'*), extraordinarily generous, and deeply devoted to the Quran.^3 Prophet Muhammad ﷺ himself said regarding Uthman's modesty^5:
 
 > أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ
 >
@@ -67,7 +67,7 @@ On Friday, 18 Dhul Hijjah 35 AH (17 June 656 CE), the rebels broke into Uthman's
 > *"Allah will be sufficient for you against them. And He is the All-Hearing, the All-Knowing. ﴾137﴿"*
 > — QS. Al-Baqarah (2): 137
 
-Uthman died at approximately 82 years of age, after serving as caliph for 12 years. He was buried at al-Baqi' cemetery in Madinah.^7
+Uthman died at approximately 82 years of age, after serving as caliph for 12 years. He was buried at al-Baqi' cemetery in Madinah.^5
 
 ## Prophetic Testimony and Key Texts
 
@@ -106,14 +106,7 @@ Despite his tragic end, Uthman's legacy remains monumental: the standardization 
 ## Bibliography
 
 1. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vols. 4-5. Beirut: Dar al-Turath, 1387 AH.
-
 2. **Ibn Kathir, Abu al-Fida Ismail.** *Al-Bidayah wa al-Nihayah* (The Beginning and the End). Vol. 7. Beirut: Dar al-Fikr, 1986.
-
 3. **Ibn al-Jawzi, Abu al-Faraj.** *Sifat al-Safwa* (Qualities of the Chosen). Vol. 1. Beirut: Dar al-Ma'rifah, 1979.
-
 4. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 3675 (Mount Uhud). Riyadh: Dar al-Salam, 1999.
-
-5. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 2401 (angelic modesty), no. 2403 (glad tidings of Paradise). Riyadh: Dar al-Salam, 2000.
-
-6. **Al-Tirmidhi, Abu Isa Muhammad.** *Al-Jami' al-Kabir* (Sunan al-Tirmidhi). Hadith no. 3701 (Tabuk charity). Beirut: Dar al-Gharb al-Islami, 1998.
-7. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 137.
+5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 137.

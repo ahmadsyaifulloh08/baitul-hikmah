@@ -22,9 +22,9 @@ This meeting transformed Rumi from a conventional scholar focused on exoteric kn
 
 **Shams's spiritual methodology** was very unique. He used **paradoxes**, **shock treatment**, and **provocative questions** to shake Rumi's rational thought structure. Shams often said: *"Death to the ego, life to the spirit!"* He taught that **true knowledge** (*ma'rifah*) could only be achieved through **fanā'** (extinction) from ego and self-consciousness.^10
 
-The intense spiritual relationship between Rumi and Shams caused jealousy among Rumi's other students, especially **Sultan Walad** (Rumi's son) and **Salah al-Din Zarkub**. They felt that Shams had "stolen" their teacher's attention and isolated Rumi from formal teaching activities.^11
+The intense spiritual relationship between Rumi and Shams caused jealousy among Rumi's other students, especially **Sultan Walad** (Rumi's son) and **Salah al-Din Zarkub**. They felt that Shams had "stolen" their teacher's attention and isolated Rumi from formal teaching activities.
 
-This social pressure eventually forced Shams to disappear mysteriously in **1248 CE**. Some sources mention that he was killed by Rumi's jealous students, while other sources say he left voluntarily after realizing that his mission to transform Rumi had been completed.^12
+This social pressure eventually forced Shams to disappear mysteriously in **1248 CE**. Some sources mention that he was killed by Rumi's jealous students, while other sources say he left voluntarily after realizing that his mission to transform Rumi had been completed.
 
 ## Literary Works: Diwan-i Shams and Masnavi Ma'navi
 
@@ -32,24 +32,24 @@ The loss of Shams triggered the greatest creative period in Rumi's life, which h
 
 ### Diwan-i Shams-i Tabrizi: Collection of Divine Love Ghazals
 
-**Diwan-i Shams** is a lyrical poetry collection containing more than **3,229 ghazals**, **1,983 rubai**, and several **qasidah** in Persian, with some verses in Arabic and Turkish. This collection was written during 1244-1273 CE as an expression of longing (*shawq*) and love (*ishq*) for Shams who had changed his life.^13
+**Diwan-i Shams** is a lyrical poetry collection containing more than **3,229 ghazals**, **1,983 rubai**, and several **qasidah** in Persian, with some verses in Arabic and Turkish. This collection was written during 1244-1273 CE as an expression of longing (*shawq*) and love (*ishq*) for Shams who had changed his life.
 
-What is unique about this **Diwan** is that Rumi wrote most of his ghazals with the **takhallus** (pen name) "Shams" or "Shams-i Tabrizi" rather than his own name. This shows Rumi's level of **fanā'** (extinction) in his spiritual teacher's figure. He seemed to become a **"mouthpiece"** for the voice of the vanished Shams.^14
+What is unique about this **Diwan** is that Rumi wrote most of his ghazals with the **takhallus** (pen name) "Shams" or "Shams-i Tabrizi" rather than his own name. This shows Rumi's level of **fanā'** (extinction) in his spiritual teacher's figure. He seemed to become a **"mouthpiece"** for the voice of the vanished Shams.
 
 **Main themes** in the Diwan include:
 - **Ishq** (divine love) as the path of spiritual transformation
 - **Hijr** (separation) and **wisal** (union) with the Beloved
 - **Fanā'** (extinction) and **baqā'** (subsistence) in divine consciousness
 - **Sama'** (hearing spiritual music) as a medium of ecstasy
-- Criticism of religious **formalism** without spiritual substance^15
+- Criticism of religious **formalism** without spiritual substance
 
 A famous example from the Diwan is the ghazal beginning with the verse:
 *"Biya biya, biya harki hastī biya / Na-umīd, na kāfir, na buttparast, biya"*
-(Come, come, whoever you are come / Hopeless, infidel, idol-worshipper, come)^16
+(Come, come, whoever you are come / Hopeless, infidel, idol-worshipper, come)
 
 ### Masnavi-ye Ma'navi: Spiritual Epic in Six Volumes
 
-Rumi's masterpiece is **Masnavi-ye Ma'navi** (*Spiritual Masnavi*), a spiritual epic containing **25,700 verses** in **six volumes** completed near the end of his life (1258-1273 CE). The book nicknamed **"The Quran in Persian"** is considered one of the greatest masterpieces in world literature.^17
+Rumi's masterpiece is **Masnavi-ye Ma'navi** (*Spiritual Masnavi*), a spiritual epic containing **25,700 verses** in **six volumes** completed near the end of his life (1258-1273 CE). The book nicknamed **"The Quran in Persian"** is considered one of the greatest masterpieces in world literature.
 
 **The structure of Masnavi** is very systematic:
 - **Volume I**: Spiritual foundation - stories of the king who fell in love with a slave, the parrot bird, and the shepherd
@@ -57,34 +57,34 @@ Rumi's masterpiece is **Masnavi-ye Ma'navi** (*Spiritual Masnavi*), a spiritual 
 - **Volume III**: Self-transformation - stories of the Jew who converted to Islam, and Prophet Moses
 - **Volume IV**: Perfection - story of friends who loved each other for Allah's sake
 - **Volume V**: Ma'rifah - stories of Prophet Moses and Khidr, and the secret of creation
-- **Volume VI**: Return to origin - stories of the elephant and mouse, and unity of being^18
+- **Volume VI**: Return to origin - stories of the elephant and mouse, and unity of being
 
-**The narrative method** of Masnavi combines esoteric Islamic teachings with symbolic stories that have **multiple layers of meaning**: literal (*zahir*), allegorical (*ramzi*), moral (*akhlāqi*), and spiritual (*bāṭin*). Rumi uses **story-within-story technique** that allows one story to trigger another in an infinite chain of meaning.^19
+**The narrative method** of Masnavi combines esoteric Islamic teachings with symbolic stories that have **multiple layers of meaning**: literal (*zahir*), allegorical (*ramzi*), moral (*akhlāqi*), and spiritual (*bāṭin*). Rumi uses **story-within-story technique** that allows one story to trigger another in an infinite chain of meaning.
 
-**An example of Rumi's hermeneutic methodology** is in the "Story of the Shepherd" (Volume I). A shepherd prays in simple language: *"O Allah, I want to comb Your hair, kiss Your feet, and sew Your sandals."* Moses rebukes the shepherd for anthropomorphism. Allah then reprimands Moses: *"You separate Me from My servant. I do not need perfection of speech, but sincerity of heart."*^20
+**An example of Rumi's hermeneutic methodology** is in the "Story of the Shepherd" (Volume I). A shepherd prays in simple language: *"O Allah, I want to comb Your hair, kiss Your feet, and sew Your sandals."* Moses rebukes the shepherd for anthropomorphism. Allah then reprimands Moses: *"You separate Me from My servant. I do not need perfection of speech, but sincerity of heart."*
 
 ## The Mevlevi Order: Institutionalization of Rumi's Teachings
 
-After Rumi's death on **5 Jumada al-Akhir 672 AH/17 December 1273 CE**, his son **Sultan Walad** (1226-1312 CE) organized his father's teachings into a formal order known as **Mevleviyye** or **"Whirling Dervishes"**. Sultan Walad wrote **Walad-nama**, his father's spiritual biography, and laid the foundations of the order's organization.^21
+After Rumi's death on **5 Jumada al-Akhir 672 AH/17 December 1273 CE**, his son **Sultan Walad** (1226-1312 CE) organized his father's teachings into a formal order known as **Mevleviyye** or **"Whirling Dervishes"**. Sultan Walad wrote **Walad-nama**, his father's spiritual biography, and laid the foundations of the order's organization.
 
 **Sultan Walad's successors** developed a sophisticated order structure:
 - **Ulu Arif** - highest leader (usually Rumi's descendants)
 - **Shaykh** - leader of local zawiyah
 - **Dede** - spiritual teacher who has completed full training
-- **Dervis** - order members at various levels^22
+- **Dervis** - order members at various levels
 
-**The main center** of the Mevlevi order was **Konya** (Mevlana Dergahi), but it later spread throughout the **Ottoman Empire** with zawiyas in **Istanbul, Cairo, Damascus, Aleppo**, and other important cities. Each zawiyah had a **semahane** (hall for sama') specially designed for ritual dance.^23
+**The main center** of the Mevlevi order was **Konya** (Mevlana Dergahi), but it later spread throughout the **Ottoman Empire** with zawiyas in **Istanbul, Cairo, Damascus, Aleppo**, and other important cities. Each zawiyah had a **semahane** (hall for sama') specially designed for ritual dance.
 
 ### Sama' Practice: The Cosmic Dance of Dervishes
 
-The distinctive practice of the Mevlevi order is **sama'** or **sema** - ritual dance involving ecstatic whirling while remembering Allah. Mevlevi sama' is not merely dance, but **moving meditation** symbolizing the movement of the universe and the soul's search to return to God.^24
+The distinctive practice of the Mevlevi order is **sama'** or **sema** - ritual dance involving ecstatic whirling while remembering Allah. Mevlevi sama' is not merely dance, but **moving meditation** symbolizing the movement of the universe and the soul's search to return to God.
 
 **Symbolism of Mevlevi sama'**:
 - **Sikke** (tall hat): tombstone of the dead ego
 - **Tennure** (white robe): shroud of spiritual death
 - **Hirka** (black robe): grave of the abandoned world
 - **Post** (sheepskin): the shaykh's place symbolizing spiritual authority
-- **Ney** (flute): symbol of the soul longing for God^25
+- **Ney** (flute): symbol of the soul longing for God
 
 **The ceremonial structure of sama'** consists of seven parts:
 1. **Na't-i Sharif**: praise to Prophet Muhammad SAW
@@ -93,54 +93,54 @@ The distinctive practice of the Mevlevi order is **sama'** or **sema** - ritual 
 4. **Four selams**: four rounds of dance with different spiritual meanings
 5. **Tilawat Al-Fatihah**: recitation of Al-Fatihah
 6. **Durud**: salawat to the Prophet
-7. **Closing prayer**: prayer for the welfare of the ummah^26
+7. **Closing prayer**: prayer for the welfare of the ummah
 
-**The spiritual meaning of whirling** is very profound: the whirling dervish symbolizes the **falak** (sphere) in Islamic cosmology, **right hand raised** receiving blessings from heaven, **left hand lowered** distributing blessings to earth. The dervish becomes a **medium** between heaven and earth, between spiritual and physical.^27
+**The spiritual meaning of whirling** is very profound: the whirling dervish symbolizes the **falak** (sphere) in Islamic cosmology, **right hand raised** receiving blessings from heaven, **left hand lowered** distributing blessings to earth. The dervish becomes a **medium** between heaven and earth, between spiritual and physical.
 
 ## Global Influence and Modern Popularity
 
-Rumi's teachings spread far beyond geographical boundaries and even religion. During the **Ottoman Empire** period, the Mevlevi order received special protection from the sultan and became one of the most influential orders. Ottoman sultans often attended sama' ceremonies and gave large donations to Mevlevi zawiyas.^28
+Rumi's teachings spread far beyond geographical boundaries and even religion. During the **Ottoman Empire** period, the Mevlevi order received special protection from the sultan and became one of the most influential orders. Ottoman sultans often attended sama' ceremonies and gave large donations to Mevlevi zawiyas.
 
-In the **modern Western world**, Rumi became one of the most widely read poets, especially after **Coleman Barks's** popular translations in the United States. His poems have been translated into **dozens of languages** and received appreciation from great thinkers like **Goethe, Emerson, and Carl Jung**.^29
+In the **modern Western world**, Rumi became one of the most widely read poets, especially after **Coleman Barks's** popular translations in the United States. His poems have been translated into **dozens of languages** and received appreciation from great thinkers like **Goethe, Emerson, and Carl Jung**.
 
 **Contemporary influence** of Rumi can be seen in:
 - **Literature**: inspiration for modern poets like Iqbal, Hafez, and Western writers
 - **Psychotherapy**: Jung used Rumi's concepts in psychological analysis
 - **Interfaith dialogue**: Rumi's teachings of tolerance became a bridge between religions
-- **Popular spirituality**: Rumi's concept of universal love attracts modern spiritual seekers^30
+- **Popular spirituality**: Rumi's concept of universal love attracts modern spiritual seekers
 
-However, it should be noted that **Rumi's popularity in the West** is often detached from the Islamic context that forms the basis of his teachings. Many translations **remove references to the Quran and Hadith** that are actually Rumi's spiritual foundation. **Omid Safi** and other scholars criticize **"spiritual colonialism"** that cuts Rumi from his Islamic roots.^31
+However, it should be noted that **Rumi's popularity in the West** is often detached from the Islamic context that forms the basis of his teachings. Many translations **remove references to the Quran and Hadith** that are actually Rumi's spiritual foundation. **Omid Safi** and other scholars criticize **"spiritual colonialism"** that cuts Rumi from his Islamic roots.
 
 ## Metaphysics of Love and Synthesis of Islamic Traditions
 
-Rumi successfully integrated various traditions in Islam: **jurisprudence** (fiqh), **theology** (kalam), **philosophy** (falsafah), and **mysticism** (tasawuf) in harmonious synthesis. He did not reject sharia, but saw it as the first step toward reality.^32
+Rumi successfully integrated various traditions in Islam: **jurisprudence** (fiqh), **theology** (kalam), **philosophy** (falsafah), and **mysticism** (tasawuf) in harmonious synthesis. He did not reject sharia, but saw it as the first step toward reality.
 
 **Rumi's spiritual hierarchy**:
 - **Syariat** (*shari'ah*): external law as foundation
 - **Tarekat** (*tariqah*): spiritual path as journey
 - **Hakikat** (*haqiqah*): spiritual reality as goal
-- **Ma'rifah** (*ma'rifah*): direct knowledge as culmination^33
+- **Ma'rifah** (*ma'rifah*): direct knowledge as culmination
 
-In Rumi's view, all creatures are **reflections of Divine beauty**, and humanity's task is to recognize **Unity** (tawhid) behind phenomenal **diversity**. He uses very rich metaphors: humans as **reed longing for its source**, birds **caged in the world**, or **a drop of water wanting to return to the ocean**.^34
+In Rumi's view, all creatures are **reflections of Divine beauty**, and humanity's task is to recognize **Unity** (tawhid) behind phenomenal **diversity**. He uses very rich metaphors: humans as **reed longing for its source**, birds **caged in the world**, or **a drop of water wanting to return to the ocean**.
 
-**The concept of "Ishq"** (divine love) in Rumi's thought is a cosmic **force** that moves the entire universe. Unlike **hubb** (ordinary love), **ishq** is transformative love that destroys ego and creates a new human. Rumi said: *"Ishq comes and blood becomes fire, ishq comes and reason becomes slave."*^35
+**The concept of "Ishq"** (divine love) in Rumi's thought is a cosmic **force** that moves the entire universe. Unlike **hubb** (ordinary love), **ishq** is transformative love that destroys ego and creates a new human. Rumi said: *"Ishq comes and blood becomes fire, ishq comes and reason becomes slave."*
 
 > وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ﴿١١٥﴾
 >
 > *"And to Allah belongs the east and the west. So wherever you [might] turn, there is the face of Allah."*
-> — QS. Al-Baqarah (2): 115^36
+> — QS. Al-Baqarah (2): 115
 
-This verse became the core of Rumi's philosophy about **Allah's presence everywhere** (*wahdaniyyah*), which he expressed in poems about universal love and unity with the Most High. For Rumi, every direction taken in spiritual search will lead to Allah, as long as it is done with sincerity of heart.^36^10
+This verse became the core of Rumi's philosophy about **Allah's presence everywhere** (*wahdaniyyah*), which he expressed in poems about universal love and unity with the Most High. For Rumi, every direction taken in spiritual search will lead to Allah, as long as it is done with sincerity of heart.^10
 
 ## Contemporary Legacy and Interpretation Challenges
 
-Today, **Rumi's poetry is still read** by millions of people worldwide as a source of spiritual inspiration. His teachings about tolerance, universal love, and searching for deep meaning in life make him relevant in the modern era that often loses spiritual orientation.^37
+Today, **Rumi's poetry is still read** by millions of people worldwide as a source of spiritual inspiration. His teachings about tolerance, universal love, and searching for deep meaning in life make him relevant in the modern era that often loses spiritual orientation.
 
-**UNESCO** has designated 2007 as the **"Year of Rumi"** in commemoration of the 800th anniversary of his birth. **Turkey** has made Konya the center of **"Rumi tourism"** with annual festivals that attract spiritual tourists from around the world.^38
+**UNESCO** has designated 2007 as the **"Year of Rumi"** in commemoration of the 800th anniversary of his birth. **Turkey** has made Konya the center of **"Rumi tourism"** with annual festivals that attract spiritual tourists from around the world.
 
-However, Muslim scholars emphasize the importance of **understanding Rumi in the correct context**: as a **devout Muslim**, not as a universalist who detaches himself from specific religion. **True understanding** of Rumi requires appreciation of the Islamic tradition that formed the background of his life.^39
+However, Muslim scholars emphasize the importance of **understanding Rumi in the correct context**: as a **devout Muslim**, not as a universalist who detaches himself from specific religion. **True understanding** of Rumi requires appreciation of the Islamic tradition that formed the background of his life.
 
-**Modern Mevlevi order** faces challenges in maintaining spiritual authenticity amid **commercialization** and **tourist performances**. Some groups strive to purify sama' practice back to spiritual **worship**, not cultural performance.^40
+**Modern Mevlevi order** faces challenges in maintaining spiritual authenticity amid **commercialization** and **tourist performances**. Some groups strive to purify sama' practice back to spiritual **worship**, not cultural performance.
 
 ## Analysis and Lessons
 

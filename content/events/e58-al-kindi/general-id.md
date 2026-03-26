@@ -16,7 +16,7 @@ Di Baghdad, al-Kindi dengan cepat menjadi bagian dari lingkaran elite intelektua
 
 Khalifah **al-Ma'mun** dan penggantinya **al-Mu'tasim** (833-842 M) memberikan patronase penuh kepada al-Kindi, mengangkatnya sebagai tutor pribadi untuk putra **al-Mu'tasim**, yaitu **Ahmad al-Mu'tamid**. Posisi ini tidak hanya memberikan al-Kindi akses ke perpustakaan istana yang berisi ribuan manuscript langka, tetapi juga dana yang tidak terbatas untuk melakukan riset dan eksperimen.^7
 
-**Era Krisis dan Kemunduran (847-873 M)**  
+**Era Krisis dan Kemunduran (847-873 M)** 
 Setelah **al-Mutawakkil** naik takhta pada 847 M, situasi politik berubah drastis. Al-Mutawakkil dikenal sebagai khalifah yang konservatif, anti-Mu'tazilah, dan kurang memberikan dukungan terhadap filsafat. Al-Kindi mengalami penurunan pengaruh, bahkan sempat diasingkan dari lingkaran istana dan perpustakaannya disita sementara waktu.^8
 
 Meskipun mengalami kesulitan politik, periode ini justru menjadi masa paling produktif al-Kindi dalam menulis. Ia menghasilkan puluhan risalah penting yang kemudian menjadi rujukan utama para filsuf Muslim generasi berikutnya. Al-Kindi wafat pada tahun 873 M di Baghdad, meninggalkan warisan intelektual yang luar biasa.^9
@@ -141,7 +141,7 @@ Al-Kindi mengembangkan berbagai argumen rasional untuk membuktikan keberadaan Al
 **Teori Pengetahuan (Epistemologi):**
 Al-Kindi mengklasifikasikan pengetahuan menjadi empat tingkatan hierarkis:
 1. **Al-'ilm al-mahsus** (Pengetahuan sensori) — diperoleh melalui panca indera
-2. **Al-'ilm al-'aqli** (Pengetahuan rasional) — diperoleh melalui penalaran logis  
+2. **Al-'ilm al-'aqli** (Pengetahuan rasional) — diperoleh melalui penalaran logis 
 3. **Al-'ilm al-riyadhi** (Pengetahuan matematis) — berkaitan dengan kuantitas dan proporsi
 4. **Al-'ilm al-ilahi** (Pengetahuan ketuhanan) — pengetahuan tentang realitas metafisik tertinggi
 
@@ -162,7 +162,7 @@ Karya-karya al-Kindi mulai diterjemahkan ke bahasa Latin pada abad ke-12 melalui
 
 **Karya-Karya Utama yang Diterjemahkan:**
 1. ***De Intellectu*** (terjemahan dari *Fi al-'Aql*) — menjadi referensi utama dalam psikologi filosofis medieval
-2. ***De Aspectibus*** (terjemahan dari *Fi al-Manazir*) — dasar bagi perkembangan optik Eropa  
+2. ***De Aspectibus*** (terjemahan dari *Fi al-Manazir*) — dasar bagi perkembangan optik Eropa 
 3. ***De Quinque Essentiis*** (terjemahan dari *Fi al-Jawahir al-Khams*) — tentang kosmologi dan metafisika
 4. ***Liber de Judiciis Astrorum*** (terjemahan dari risalah astrologi) — meskipun kontroversial, berpengaruh besar pada astrologi medieval^24
 
@@ -198,7 +198,7 @@ Dalam *Risalah fi Khubr Ta'lif al-Alhan* (Tentang Komposisi Melodi), al-Kindi me
 **Sistem Makam dan Klasifikasi Modal:**
 Al-Kindi menciptakan sistem klasifikasi **makam** (mode musik) berdasarkan struktur interval dan karakteristik emosional:
 - **Makam Ushshaq:** untuk mengungkapkan cinta dan kerinduan
-- **Makam Rast:** untuk stabilitas dan keseimbangan emosional  
+- **Makam Rast:** untuk stabilitas dan keseimbangan emosional 
 - **Makam Hijaz:** untuk spiritualitas dan kontemplasi
 - **Makam Bayati:** untuk kegembiraan dan perayaan
 
@@ -238,7 +238,7 @@ Dalam era modern ketika spesialisasi akademik semakin sempit dan fragmentasi pen
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."* ﴾85﴾
 > — QS. Al-Isra (17): 85
 
-Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^28^56
+Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^28^39
 
 ---
 
@@ -282,21 +282,4 @@ Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasa
 36. Craig, William Lane, *The Kalam Cosmological Argument*, London: Macmillan, 1979.
 37. Rahman, Fazlur, *"The Eternity of the World and the Heavenly Bodies in Islamic Philosophy"*, dalam Essays on Islamic Philosophy and Science, Albany: SUNY Press, 1975.
 38. Hasse, Dag Nikolaus, *"The Soul's Faculties"*, dalam The Cambridge History of Medieval Philosophy, vol. 1, Cambridge University Press, 2009.
-39. Lemay, Richard, *"The Hispanic Origin of Our Present Numeral Forms"*, dalam Viator, vol. 8, 1977.
-40. McGrath, Sean J., *"Albertus Magnus on the Subject of Metaphysics"*, dalam Journal of the History of Philosophy, vol. 45, 2007.
-41. Crombie, A.C., *Robert Grosseteste and the Origins of Experimental Science*, Oxford: Clarendon Press, 1953.
-42. Hankins, James, *Plato in the Italian Renaissance*, Leiden: Brill, 1990.
-43. Farmer, S.A., *Syncretism in the West: Pico's 900 Theses*, Tempe: Medieval & Renaissance Texts & Studies, 1998.
-44. Yates, Frances A., *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, 1964.
-45. Marion, Jean-Luc, *Sur l'ontologie grise de Descartes*, Paris: Vrin, 1975.
-46. Adams, Robert Merrihew, *Leibniz: Determinist, Theist, Idealist*, Oxford University Press, 1994.
-47. Wright, Owen, *The Modal System of Arab and Persian Music*, Oxford University Press, 1978.
-48. During, Jean, *"Music and Ecstasy: The Case of the Be-Sargam"*, dalam The Legacy of Mediaeval Persian Sufism, London: Khaniqahi Nimatullahi Publications, 1992.
-49. Shiloah, Amnon, *"The Theory of Music in Arabic Writings"*, Munich: G. Henle Verlag, 1979.
-50. Palisca, Claude V., *"Theory, Theorists"*, dalam The New Grove Dictionary of Music and Musicians, London: Macmillan, 1980.
-51. Netton, Ian Richard, *Al-Farabi and His School*, London: Routledge, 1992.
-52. Rosenthal, Franz, *Knowledge Triumphant: The Concept of Knowledge in Medieval Islam*, Leiden: Brill, 1970.
-53. Hodgson, Marshall G.S., *The Venture of Islam*, Chicago: University of Chicago Press, 1974.
-54. Nasr, Seyyed Hossein, *Science and Civilization in Islam*, Cambridge: Islamic Texts Society, 1987.
-55. Sardar, Ziauddin, *Science, Technology and Development in the Muslim World*, London: Croom Helm, 1977.
-56. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.
+39. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.

@@ -121,7 +121,7 @@ Ibn Battuta's journeys teach several important values:
 > *"And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-This verse reflects Ibn Battuta's spirit in exploring and appreciating the diversity of Allah's creation.^7
+This verse reflects Ibn Battuta's spirit in exploring and appreciating the diversity of Allah's creation.^6
 
 ---
 
@@ -134,5 +134,4 @@ This verse reflects Ibn Battuta's spirit in exploring and appreciating the diver
 3. David Waines, *The Odyssey of Ibn Battuta: Uncommon Tales of a Medieval Adventurer*, London: I.B. Tauris, 2010.
 4. Nehru Prabhakar, *Ibn Battuta's India*, New Delhi: National Book Trust, 2005.
 5. Sen, Tansen, *The Formation of Chinese Maritime Customs*, Leiden: Brill, 2009.
-6. Jackson, Peter, *The Mongols and the West*, London: Pearson Longman, 2005.
-7. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.
+6. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

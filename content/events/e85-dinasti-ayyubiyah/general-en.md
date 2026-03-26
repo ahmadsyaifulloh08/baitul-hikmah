@@ -67,7 +67,7 @@ The Ayyubid Dynasty left remarkable architectural traces throughout their territ
 
 In Cairo, Salahuddin built **Cairo Citadel** (*Qal'at al-Jabal*) which became a symbol of Ayyubid power in Egypt. This fortress functioned not only as a palace, but also as an administrative, military, and religious complex. The famous Muhammad Ali Mosque today was built on the foundation of the original Ayyubid mosque.^12
 
-**Ayyubid civil architecture** also included the construction of *bimaristan* (hospitals), *khan* (caravanserai), and *hammam* (public baths) in various cities. Bimaristan al-Nuri in Damascus and Bimaristan al-Mu'ayyadi in Cairo became models of modern hospitals with pavilion systems, pharmacies, and medical libraries.^13
+**Ayyubid civil architecture** also included the construction of *bimaristan* (hospitals), *khan* (caravanserai), and *hammam* (public baths) in various cities. Bimaristan al-Nuri in Damascus and Bimaristan al-Mu'ayyadi in Cairo became models of modern hospitals with pavilion systems, pharmacies, and medical libraries.
 
 ## Dynasty Descendants and Branches
 

@@ -2,7 +2,7 @@
 
 ## Context: The Urgency After Yamamah
 
-The Battle of Yamamah in 12 AH (633 CE) left deep wounds in the Muslim community. Among the approximately 700 martyrs who fell fighting Musaylimah al-Kadhdhab, there were hundreds of Quran memorizers — *huffazh* who carried Allah's revelation in their hearts. This loss shook the Muslim leadership in Madinah.^2
+The Battle of Yamamah in 12 AH (633 CE) left deep wounds in the Muslim community. Among the approximately 700 martyrs who fell fighting Musaylimah al-Kadhdhab, there were hundreds of Quran memorizers — *huffazh* who carried Allah's revelation in their hearts. This loss shook the Muslim leadership in Madinah.
 
 During the Prophet's lifetime, the Quran had been preserved through two means: **memorization** (*hifzh*) and **writing** (*kitabah*). The companions memorized the Quran directly from the Prophet's recitation, while the scribes of revelation — *kuttab al-wahy* — such as Zayd ibn Thabit, Ubayy ibn Ka'b, Abdullah ibn Mas'ud, and others wrote down the revealed verses on various materials: palm stalks (*'usub*), flat stones (*likhaf*), shoulder blades of camels (*aktaf*), and pieces of leather (*riqq*). 
 
@@ -47,7 +47,7 @@ Al-Suyuti in *Al-Itqan* details the rigorous methodology that Zayd ibn Thabit em
 
 **First**, Zayd did not rely on his own memory alone, even though he had memorized the entire Quran. He used a dual-verification approach — *tawatur*.
 
-**Second**, for every verse, Zayd required **two witnesses** — two people who possessed written records of that verse written in the Prophet's presence, or two people who had memorized it directly from the Prophet's recitation.  This condition ensured that no verse entered the manuscript on the basis of a single source alone.
+**Second**, for every verse, Zayd required **two witnesses** — two people who possessed written records of that verse written in the Prophet's presence, or two people who had memorized it directly from the Prophet's recitation. This condition ensured that no verse entered the manuscript on the basis of a single source alone.
 
 **Third**, Zayd gathered Quranic writings from various media — palm stalks, flat stones, bones, leather pieces, and parchment sheets (*suhuf*) — from the hands of companions throughout Madinah.
 
@@ -57,14 +57,14 @@ Al-Suyuti in *Al-Itqan* details the rigorous methodology that Zayd ibn Thabit em
 
 Al-Bukhari records a touching detail about this process. Zayd said:
 
-*"I found the last verses of Surah al-Tawbah — 'There has certainly come to you a messenger from among yourselves...' (QS. Al-Tawbah (9): 128-129) — only with Abu Khuzaymah al-Ansari, and I did not find them with anyone else. "*
+*"I found the last verses of Surah al-Tawbah — 'There has certainly come to you a messenger from among yourselves.' (QS. Al-Tawbah (9): 128-129) — only with Abu Khuzaymah al-Ansari, and I did not find them with anyone else. "*
 
 > لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ﴿١٢٨﴾
 >
 > *"There has certainly come to you a messenger from among yourselves. Grievous to him is what you suffer; he is concerned over you, and to the believers he is kind and merciful. ﴾128﴿"*
 > — QS. Al-Tawbah (9): 128
 
-Al-Suyuti explains that "only with Abu Khuzaymah " means that he alone possessed the **written record** of these two final verses, not that no one else had memorized them. Other memorizers did have the verses in memory, but Zayd required written documentation as additional verification.^3
+Al-Suyuti explains that "only with Abu Khuzaymah " means that he alone possessed the **written record** of these two final verses, not that no one else had memorized them. Other memorizers did have the verses in memory, but Zayd required written documentation as additional verification.^1
 
 ### The Safekeeping of the Manuscript
 
@@ -81,7 +81,7 @@ This compilation project, in the Islamic theological perspective, was the fulfil
 > *"Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Scholars interpret Allah's "guardianship " of the Quran not as direct divine inscription, but as Allah guiding the hearts and minds of His servants — Umar who urged, Abu Bakr who accepted, and Zayd who executed — to preserve the Quran through natural means.^3
+Scholars interpret Allah's "guardianship " of the Quran not as direct divine inscription, but as Allah guiding the hearts and minds of His servants — Umar who urged, Abu Bakr who accepted, and Zayd who executed — to preserve the Quran through natural means.^1
 
 ### Distinction from the Uthmanic Compilation
 
@@ -115,6 +115,4 @@ Zayd ibn Thabit was not exaggerating when he said that moving a mountain would h
 
 ## Bibliography
 
-1. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vol. 3. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1967.
-3. Al-Suyuti, Jalaluddin, *Al-Itqan fi Ulum al-Quran*, vol. 1, ed. Muhammad Abu al-Fadl Ibrahim (Cairo: Dar al-Turath, 1967).
-3. Al-Qur'an al-Karim. QS. Al-Tawbah (9): 128-129, 128; QS. Al-Hijr (15): 9.
+1. Al-Qur'an al-Karim. QS. Al-Tawbah (9): 128-129, 128; QS. Al-Hijr (15): 9.

@@ -93,17 +93,10 @@ Pengusiran Muslim (dan Yahudi, melalui Dekret Alhambra 1492) dari Spanyol menyeb
 
 Meskipun kehadiran politik Islam di Iberia berakhir, warisannya tetap hidup:
 - **Istana Alhambra** — salah satu karya arsitektur paling indah di dunia
-- **Ribuan kata** dalam bahasa Spanyol berasal dari bahasa Arab (almohada, aceite, azulejo, algebra, algoritmo...)
+- **Ribuan kata** dalam bahasa Spanyol berasal dari bahasa Arab (almohada, aceite, azulejo, algebra, algoritmo.)
 - **Tradisi musik flamenco** — yang memiliki akar kuat dalam musik Arab-Andalusia
 - **Kontribusi ilmiah** yang menjadi fondasi Renaissance Eropa
 
 ## Daftar Pustaka
 
-1. Ibn al-Khatib, *al-Ihata fi Akhbar Gharnata* (sejarah Granada).
-2. Al-Maqqari, *Nafh al-Tib min Ghusn al-Andalus al-Ratib* (sejarah komprehensif Al-Andalus).
-3. Hernando del Pulgar, *Crónica de los Reyes Católicos* (kronik Kristen).
-4. Maria Rosa Menocal, *The Ornament of the World* (Little, Brown & Co., 2002).
-5. L.P. Harvey, *Islamic Spain, 1250-1500* (University of Chicago Press, 1990).
-6. Richard Fletcher, *Moorish Spain* (University of California Press, 2006).
 
-> **Catatan Metodologi**: Sumber Arab dan Eropa dikonfirmasi silang. Legenda "tangisan Boabdil" dicatat sebagai tradisi yang tidak dapat diverifikasi secara historis. Angka-angka (populasi, manuskrip) bersifat perkiraan berdasarkan rentang dalam literatur akademis. Wallahu a'lam.

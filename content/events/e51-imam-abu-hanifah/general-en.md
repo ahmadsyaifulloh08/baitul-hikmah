@@ -52,45 +52,45 @@ Abu Yusuf was known for his ability to master hadith well, complementing his tea
 
 **Muhammad ibn al-Hasan al-Shaybani** (132-189 AH) joined Abu Hanifah's assembly at a young age. After Abu Hanifah's death, he continued studying with **Malik ibn Anas** in Medina for two years, then returned to Baghdad to join Abu Yusuf. The combination of Hanafi methodology and learning experience with Malik made al-Shaybani the first systematic writer of the Hanafi school.^1
 
-Al-Shaybani wrote six fundamental works of the Hanafi school known as *"Zahir al-Riwayah"* (famous narrations): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, and *Al-Ziyadat*. These works became the main reference for the Hanafi school to this day.^21
+Al-Shaybani wrote six fundamental works of the Hanafi school known as *"Zahir al-Riwayah"* (famous narrations): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, and *Al-Ziyadat*. These works became the main reference for the Hanafi school to this day.
 
-**Differences of opinion** among them actually became the richness of the Hanafi school. In about 20% of jurisprudential issues, Abu Yusuf and al-Shaybani differed with Abu Hanifah or with each other. This shows that the Hanafi school was not dogmatic, but opened space for continuous ijtihad within the established methodological framework.^22
+**Differences of opinion** among them actually became the richness of the Hanafi school. In about 20% of jurisprudential issues, Abu Yusuf and al-Shaybani differed with Abu Hanifah or with each other. This shows that the Hanafi school was not dogmatic, but opened space for continuous ijtihad within the established methodological framework.
 
 ## Trial by Time: Prison and Death
 
 ### Conflict with Rulers
 
-Abu Hanifah lived during the transition period from Umayyad to Abbasid, a time full of political upheaval. He refused the offer to become a *qadhi* (judge) from **Khalifah al-Mansur** due to concerns about independence in making legal decisions. *"I fear that if I become a judge, I will be forced to decide cases in ways I do not believe to be correct,"* Abu Hanifah explained his refusal.^23
+Abu Hanifah lived during the transition period from Umayyad to Abbasid, a time full of political upheaval. He refused the offer to become a *qadhi* (judge) from **Khalifah al-Mansur** due to concerns about independence in making legal decisions. *"I fear that if I become a judge, I will be forced to decide cases in ways I do not believe to be correct,"* Abu Hanifah explained his refusal.
 
-Moreover, Abu Hanifah had also provided financial support to **Zayd ibn Ali** and later **Muhammad al-Nafs al-Zakiyyah** who rebelled against the caliphate. He viewed resistance against tyrannical rulers as a religious obligation, though he was not directly involved in political action.^24
+Moreover, Abu Hanifah had also provided financial support to **Zayd ibn Ali** and later **Muhammad al-Nafs al-Zakiyyah** who rebelled against the caliphate. He viewed resistance against tyrannical rulers as a religious obligation, though he was not directly involved in political action.
 
-This refusal angered al-Mansur and led to Abu Hanifah's imprisonment. In prison, he continued teaching and giving fatwas to people in need. Even some of his students like **Abu Yusuf** continued visiting him to discuss legal matters. His principle was that scholars must maintain intellectual freedom from political intervention.^25
+This refusal angered al-Mansur and led to Abu Hanifah's imprisonment. In prison, he continued teaching and giving fatwas to people in need. Even some of his students like **Abu Yusuf** continued visiting him to discuss legal matters. His principle was that scholars must maintain intellectual freedom from political intervention.
 
 ### Death as a Martyr of Knowledge
 
-Abu Hanifah died in prison in 150 AH/767 CE at age 70. **Al-Khatib al-Baghdadi** narrated that his death was caused by harsh treatment in prison, making him a martyr in the struggle to defend scholarly independence. Some narrations mention that he was poisoned for continuing to refuse the position of judge.^26
+Abu Hanifah died in prison in 150 AH/767 CE at age 70. **Al-Khatib al-Baghdadi** narrated that his death was caused by harsh treatment in prison, making him a martyr in the struggle to defend scholarly independence. Some narrations mention that he was poisoned for continuing to refuse the position of judge.
 
-His funeral in Baghdad was attended by thousands from various backgrounds. **Abu Yusuf** led the funeral prayer, and the community respected him not only as a scholar but also as a figure who consistently fought for justice and intellectual freedom. The funeral lasted for days due to the large number of mourners who came.^27
+His funeral in Baghdad was attended by thousands from various backgrounds. **Abu Yusuf** led the funeral prayer, and the community respected him not only as a scholar but also as a figure who consistently fought for justice and intellectual freedom. The funeral lasted for days due to the large number of mourners who came.
 
 ## Legacy and Long-term Global Influence
 
 ### Spread of the Hanafi School Throughout the Islamic World
 
-The Hanafi school spread widely due to its flexibility in dealing with various social and cultural conditions. **The Abbasid Dynasty** officially adopted this school as the state's legal reference, especially during **Harun al-Rashid's** time, who appointed Abu Yusuf as *Qadhi al-Qudhat* (chief justice). This policy made the Hanafi school the positive law in Abbasid caliphate territories.^28
+The Hanafi school spread widely due to its flexibility in dealing with various social and cultural conditions. **The Abbasid Dynasty** officially adopted this school as the state's legal reference, especially during **Harun al-Rashid's** time, who appointed Abu Yusuf as *Qadhi al-Qudhat* (chief justice). This policy made the Hanafi school the positive law in Abbasid caliphate territories.
 
-Islamic expansion into Turkish, Central Asian, and Indian regions brought the Hanafi school to these areas. Merchants and Sufis from Central Asia who followed the Hanafi school played important roles in spreading Islam in these regions. **The Ghaznavid** and **Ghurid** dynasties in Afghanistan and North India made the Hanafi school their official school.^29
+Islamic expansion into Turkish, Central Asian, and Indian regions brought the Hanafi school to these areas. Merchants and Sufis from Central Asia who followed the Hanafi school played important roles in spreading Islam in these regions. **The Ghaznavid** and **Ghurid** dynasties in Afghanistan and North India made the Hanafi school their official school.
 
-**The Ottoman Dynasty** later made the Hanafi school the official school of the empire, extending its influence to the Balkans and North Africa. The Ottoman legal system (*Mecelle*) implemented in the 19th century was entirely based on the Hanafi school. This made the Hanafi school spread from Bosnia to Bangladesh, from Kazakhstan to Sudan.^30
+**The Ottoman Dynasty** later made the Hanafi school the official school of the empire, extending its influence to the Balkans and North Africa. The Ottoman legal system (*Mecelle*) implemented in the 19th century was entirely based on the Hanafi school. This made the Hanafi school spread from Bosnia to Bangladesh, from Kazakhstan to Sudan.
 
-Currently, the Hanafi school is followed by about 45% of the total world Muslim population, making it the largest jurisprudential school. Countries like Turkey, Pakistan, Bangladesh, Afghanistan, Kazakhstan, Uzbekistan, and most former Soviet countries in Central Asia are predominantly Hanafi.^31
+Currently, the Hanafi school is followed by about 45% of the total world Muslim population, making it the largest jurisprudential school. Countries like Turkey, Pakistan, Bangladesh, Afghanistan, Kazakhstan, Uzbekistan, and most former Soviet countries in Central Asia are predominantly Hanafi.
 
 ### Contribution to Legal Science and Methodology
 
-Abu Hanifah is considered a pioneer in the systematization of Islamic law. His rational and flexible methodology allowed Islamic law to adapt to developments of the times without losing its spiritual substance. The concept of **"fiqh al-muqarin"** (comparative jurisprudence) can be traced back to Abu Hanifah's method of always considering various opinions before establishing law.^32
+Abu Hanifah is considered a pioneer in the systematization of Islamic law. His rational and flexible methodology allowed Islamic law to adapt to developments of the times without losing its spiritual substance. The concept of **"fiqh al-muqarin"** (comparative jurisprudence) can be traced back to Abu Hanifah's method of always considering various opinions before establishing law.
 
-The concept of *istihsan* that he developed provided space for considering public interest in law establishment. This principle was later adopted and developed by other schools with various variations. **Imam Malik** used a similar concept with *al-masalih al-mursalah*, while **Imam Shafi'i** criticized istihsan but developed the concept of *istihsan khafi* in some of his cases.^33
+The concept of *istihsan* that he developed provided space for considering public interest in law establishment. This principle was later adopted and developed by other schools with various variations. **Imam Malik** used a similar concept with *al-masalih al-mursalah*, while **Imam Shafi'i** criticized istihsan but developed the concept of *istihsan khafi* in some of his cases.
 
-**Abu Hanifah's methodology in commercial law** was very influential in the development of Islamic economics. Concepts such as *murabahah*, *salam*, *istishna'*, and *ijarah* developed in the Hanafi school became the foundation for modern Islamic banking. Flexibility in contracts and ease in transactions made the Hanafi school suitable for trading communities.^34
+**Abu Hanifah's methodology in commercial law** was very influential in the development of Islamic economics. Concepts such as *murabahah*, *salam*, *istishna'*, and *ijarah* developed in the Hanafi school became the foundation for modern Islamic banking. Flexibility in contracts and ease in transactions made the Hanafi school suitable for trading communities.
 
 ## Analysis and Lessons
 
@@ -120,8 +120,3 @@ The concept of *istihsan* that he developed provided space for considering publi
 12. Muhammad al-Shaybani, *Al-Mabsut*, 30 volumes.
 13. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, vol. 5.
 14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 8.
-15. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 10.
-16. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
-17. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
-18. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
-19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

@@ -112,11 +112,11 @@ Pemikiran Ibn Taimiyah mempengaruhi perkembangan Islam Sunni hingga hari ini mel
 
 **Gerakan Wahabi** yang didirikan oleh **Muhammad ibn Abd al-Wahhab** (1703-1792 M) di Najd secara eksplisit mengadopsi metodologi Ibn Taimiyah dalam mengkritik bid'ah dan khurafat. Ibn Abd al-Wahhab mengutip karya-karya Ibn Taimiyah secara luas dalam "*Kitab al-Tawhid*" dan risalah-risalahnya yang lain.^12
 
-**Gerakan Salafiyyah** di Mesir yang dipimpin oleh **Muhammad Abduh** dan **Rashid Rida** juga terinspirasi oleh Ibn Taimiyah, khususnya dalam hal kembali kepada sumber-sumber asli Islam dan penolakan terhadap taqlid buta. Namun, mereka mengambil pendekatan yang lebih moderat dalam menghadapi modernitas.^13
+**Gerakan Salafiyyah** di Mesir yang dipimpin oleh **Muhammad Abduh** dan **Rashid Rida** juga terinspirasi oleh Ibn Taimiyah, khususnya dalam hal kembali kepada sumber-sumber asli Islam dan penolakan terhadap taqlid buta. Namun, mereka mengambil pendekatan yang lebih moderat dalam menghadapi modernitas.
 
-**Di Indonesia**, pemikiran Ibn Taimiyah mempengaruhi gerakan pemurnian Islam seperti yang dipelopori oleh organisasi **Muhammadiyah** dan **Persatuan Islam (Persis)**. Tokoh-tokoh seperti **Ahmad Hassan** dan **A. Hassan** menggunakan argumentasi Ibn Taimiyah dalam mengkritik praktik-praktik keagamaan yang dianggap bid'ah.^14
+**Di Indonesia**, pemikiran Ibn Taimiyah mempengaruhi gerakan pemurnian Islam seperti yang dipelopori oleh organisasi **Muhammadiyah** dan **Persatuan Islam (Persis)**. Tokoh-tokoh seperti **Ahmad Hassan** dan **A. Hassan** menggunakan argumentasi Ibn Taimiyah dalam mengkritik praktik-praktik keagamaan yang dianggap bid'ah.
 
-**Dalam konteks kontemporer**, pemikiran Ibn Taimiyah juga disalahgunakan oleh kelompok-kelompok ekstremis yang mengambil fatwa-fatwanya tentang jihad tanpa memahami konteks dan kondisi yang melatarbelakanginya. Hal ini menunjukkan pentingnya memahami pemikiran Ibn Taimiyah secara utuh dan kontekstual.^15
+**Dalam konteks kontemporer**, pemikiran Ibn Taimiyah juga disalahgunakan oleh kelompok-kelompok ekstremis yang mengambil fatwa-fatwanya tentang jihad tanpa memahami konteks dan kondisi yang melatarbelakanginya. Hal ini menunjukkan pentingnya memahami pemikiran Ibn Taimiyah secara utuh dan kontekstual.
 
 **Kontribusi metodologis** Ibn Taimiyah yang paling penting adalah memberikan kerangka untuk reformasi yang berkelanjutan dalam Islam tanpa kehilangan otentisitas. Dia menunjukkan bahwa kembali kepada sumber tidak berarti stagnasi, tetapi justru dinamisme intelektual yang kreatif.^1
 

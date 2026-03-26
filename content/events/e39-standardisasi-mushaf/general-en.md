@@ -2,7 +2,7 @@
 
 ## Context: Diversity of Recitations and the Threat of Division
 
-After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee. This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^3
+After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee. This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^2
 
 However, as Islamic territories expanded rapidly under Uthman's caliphate, companions scattered across various regions taught the Quran according to the *qira'at* (recitation variants) they had received directly from the Prophet ﷺ. The people of Syria followed the reading of **Ubayy ibn Ka'b**, those of Kufa followed **Abdullah ibn Mas'ud**, those of Basra followed **Abu Musa al-Ash'ari**, and so on.
 
@@ -62,7 +62,7 @@ The Quran itself guarantees its own preservation by Allah:
 > *"Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:^3
+Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:^2
 
 *"What Uthman did was unite the ummah upon a single mushaf and a single mode of the seven modes — not eliminate anything from the Quran. This was the consensus (ijma') of the companions. "*
 
@@ -99,6 +99,4 @@ Beyond a technical project, this standardization became a symbol of Muslim unity
 ## Bibliography
 
 1. **Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulayman.** *Al-Masahif* (The Book of Quranic Manuscripts). Ed. Muhibb al-Din Wa'izh. Beirut: Dar al-Basha'ir al-Islamiyyah, 2002.
-
-2. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 818 (seven ahruf). Riyadh: Dar al-Salam, 2000.
-3. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.
+2. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.

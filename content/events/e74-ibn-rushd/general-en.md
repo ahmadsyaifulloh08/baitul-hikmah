@@ -21,7 +21,7 @@ This political support enabled Ibn Rushd not only to work as a qadi in Seville a
 > *"And you have not been given of knowledge except a little."*
 > — QS. al-Isra' (17): 85^2
 
-## Confrontation with Al-Ghazali: Tahafut al-Tahafut^2^7
+## Confrontation with Al-Ghazali: Tahafut al-Tahafut^2^3
 
 Ibn Rushd's most influential work is **"Tahafut al-Tahafut"** (The Incoherence of the Incoherence), written as a refutation of **Al-Ghazali's** work titled "Tahafut al-Falasifah" (The Incoherence of the Philosophers). Al-Ghazali, who died in 1111 CE—fifteen years before Ibn Rushd was born—had harshly criticized Muslim philosophers like **Al-Farabi** and **Ibn Sina** in his work.^2
 
@@ -75,8 +75,4 @@ His contribution shows that Islamic tradition has the capacity to dialogue with 
 
 1. Ibn Abi Usaybi'ah, *Uyun al-Anba' fi Tabaqat al-Atibba'*.
 2. Ibn Rushd, *Fasl al-Maqal fi ma bayn al-Hikmah wa al-Shari'ah min Ittisal*.
-3. Al-Ghazali, *Tahafut al-Falasifah*, ed. Sulayman Dunya.
-4. Majid Fakhry, *Averroes: His Life, Works and Influence*.
-5. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
-6. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
-7. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.
+3. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.

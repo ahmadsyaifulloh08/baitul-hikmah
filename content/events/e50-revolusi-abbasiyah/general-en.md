@@ -126,7 +126,7 @@ Each gate was an architectural masterpiece. **Bab Khurasan**, for example, stood
 
 **The irrigation system** designed for the city was also revolutionary. Canal networks from the Tigris River were built to flow clean water throughout all parts of the city, with separate sewage disposal systems — sanitation concepts far more advanced than European cities of that era.^11
 
-Al-Ya'qubi described Baghdad's beauty: *"When the sun rises, its light reflects from golden domes so the entire city shines like a jewel. When night falls, oil lanterns create stellar constellations on earth."*^12
+Al-Ya'qubi described Baghdad's beauty: *"When the sun rises, its light reflects from golden domes so the entire city shines like a jewel. When night falls, oil lanterns create stellar constellations on earth."*
 
 ### Construction Process: Mass Mobilization
 
@@ -160,9 +160,9 @@ Revolutionarily, important positions began to be filled based on **competence**,
 
 ### Multi-Ethnic Integration
 
-One of the Abbasids' greatest successes was integrating various civilizational traditions without eliminating individual identities. **The Barmakid family** (Persian) became very influential wazirs, **Banu Munajjim** (Jewish) managed astronomy and mathematics, while **Arab tribes** remained honored in military and judiciary.^13
+One of the Abbasids' greatest successes was integrating various civilizational traditions without eliminating individual identities. **The Barmakid family** (Persian) became very influential wazirs, **Banu Munajjim** (Jewish) managed astronomy and mathematics, while **Arab tribes** remained honored in military and judiciary.
 
-Al-Jahiz in *Kitab al-Bukhala'* proudly recorded: *"In Baghdad, you can hear Arabic, Persian, Turkish, Aramaic, and Greek in one market. Yet all unite in the kalimah la ilaha illa Allah."*^13
+Al-Jahiz in *Kitab al-Bukhala'* proudly recorded: *"In Baghdad, you can hear Arabic, Persian, Turkish, Aramaic, and Greek in one market. Yet all unite in the kalimah la ilaha illa Allah."*
 
 ### Economic and Trade Systems
 
@@ -176,13 +176,13 @@ Baghdad quickly became the **world's trade center**. Stable currency systems (go
 
 Though formally **Baitul Hikmah** was founded during **Harun al-Rashid's** era (786-809 CE), its intellectual foundation was laid by Al-Mansur through **mass translation policies**. He ordered translation of Greek, Persian, and Indian works into Arabic.^11
 
-**The Translation Movement** (*harakat al-tarjamah*) was not merely knowledge transfer, but **civilizational dialogue** producing new synthesis. Aristotle's works were not only translated, but critiqued and developed by Muslim philosophers like Al-Kindi and Ibn Sina.^13
+**The Translation Movement** (*harakat al-tarjamah*) was not merely knowledge transfer, but **civilizational dialogue** producing new synthesis. Aristotle's works were not only translated, but critiqued and developed by Muslim philosophers like Al-Kindi and Ibn Sina.
 
 ### Religious and Intellectual Tolerance
 
-Unlike the relatively homogeneous Arab-Sunni Umayyad period, Abbasid Baghdad became a **melting pot** of various religious and intellectual traditions. **Nestorian Christians** managed hospitals and medical schools, **Jews** contributed to astronomy and mathematics, **Zoroastrians** maintained their traditions.^13
+Unlike the relatively homogeneous Arab-Sunni Umayyad period, Abbasid Baghdad became a **melting pot** of various religious and intellectual traditions. **Nestorian Christians** managed hospitals and medical schools, **Jews** contributed to astronomy and mathematics, **Zoroastrians** maintained their traditions.
 
-Khalifah **Al-Ma'mun** (813-833 CE) even founded **Majlis al-Hikmah** — an open debate forum between various theological and philosophical schools. Muslims, Christians, Jews, and Zoroastrians could debate scientifically without fear of persecution.^13
+Khalifah **Al-Ma'mun** (813-833 CE) even founded **Majlis al-Hikmah** — an open debate forum between various theological and philosophical schools. Muslims, Christians, Jews, and Zoroastrians could debate scientifically without fear of persecution.
 
 ### Scientific Revolution
 
@@ -191,7 +191,7 @@ The Abbasid era became the **Golden Age** of Islamic science:
 - **Medicine**: Al-Razi and Ibn Sina became the world's finest doctors
 - **Astronomy**: Al-Battani and Al-Biruni mapped the sky with high precision
 - **Chemistry**: Jabir ibn Hayyan laid the foundations of modern chemistry
-- **Geography**: Al-Mas'udi and Ibn Hawqal mapped the known world^13
+- **Geography**: Al-Mas'udi and Ibn Hawqal mapped the known world
 
 ## Long-Term Historical Significance
 
@@ -224,7 +224,7 @@ Abbasid administrative systems integrating Persian, Arab, and Byzantine traditio
 > *"And among His signs is the creation of the heavens and the earth and the diversity of your languages and colors. Indeed in that are signs for those of knowledge."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-This verse reflects Abbasid philosophy that embraced diversity as a sign of Allah's greatness. Baghdad became a city where various languages, cultures, and traditions united in one noble civilizational vision.^14
+This verse reflects Abbasid philosophy that embraced diversity as a sign of Allah's greatness. Baghdad became a city where various languages, cultures, and traditions united in one noble civilizational vision.
 
 The Abbasid Revolution and founding of Baghdad marked Islam's transformation from a movement centered on one ethnicity to a **universal civilization** open to all humanity. This was an achievement that not only changed the Middle East but the entire trajectory of world history.
 

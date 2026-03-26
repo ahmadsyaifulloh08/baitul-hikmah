@@ -28,22 +28,22 @@ Suatu hari, Hasan berkata kepada Rabi'ah: **"Alangkah indahnya jika kita bertemu
 
 Berbagai tokoh terkemuka, termasuk **Muhammad ibn Sulayman**, gubernur Basrah, dan beberapa ulama terhormat pernah melamar Rabi'ah. Lamaran dari gubernur disertai dengan janji **istana, harta berlimpah, dan ratusan budak**. Namun Rabi'ah menolak semua lamaran tersebut dengan jawaban yang mencerminkan kedalaman spiritualnya.^10
 
-Kepada gubernur, Rabi'ah menjawab: **"Dunia ini hanyalah tiga hari: kemarin telah pergi dengan segala apa yang ada di dalamnya, besok belum kau ketahui apakah akan kau raih, dan hari ini — jika kau berakal — gunakanlah untuk bertaubat."** Ketika ditanya tentang kehidupan akhirat, ia melanjutkan: **"Kehidupan akhirat juga akan berlalu bagi mereka yang mencapai Yang Kekal. Aku telah menjadi milik-Nya dan ada dalam-Nya. Tanyakanlah tanganmu kepada-Nya."**^11
+Kepada gubernur, Rabi'ah menjawab: **"Dunia ini hanyalah tiga hari: kemarin telah pergi dengan segala apa yang ada di dalamnya, besok belum kau ketahui apakah akan kau raih, dan hari ini — jika kau berakal — gunakanlah untuk bertaubat."** Ketika ditanya tentang kehidupan akhirat, ia melanjutkan: **"Kehidupan akhirat juga akan berlalu bagi mereka yang mencapai Yang Kekal. Aku telah menjadi milik-Nya dan ada dalam-Nya. Tanyakanlah tanganmu kepada-Nya."**
 
-Kepada para sufi yang menanyakan mengapa ia tidak menikah, Rabi'ah memberikan jawaban yang telah menjadi klasik dalam literatur tasawuf: **"Pernikahan adalah bagi mereka yang masih memiliki keberadaan (wujud). Aku telah fana dalam Allah dan hanya hidup melalui-Nya. Aku bukan milik diriku sendiri, bagaimana mungkin aku menjadi milik orang lain?"**^12
+Kepada para sufi yang menanyakan mengapa ia tidak menikah, Rabi'ah memberikan jawaban yang telah menjadi klasik dalam literatur tasawuf: **"Pernikahan adalah bagi mereka yang masih memiliki keberadaan (wujud). Aku telah fana dalam Allah dan hanya hidup melalui-Nya. Aku bukan milik diriku sendiri, bagaimana mungkin aku menjadi milik orang lain?"**
 
 ## Konsep Mahabbah Ilahiyyah: Revolusi Spiritual
 
 ### Cinta Murni Melampaui Takut dan Harap
 
-Rabi'ah dikenal sebagai **pelopor konsep mahabbah ilahiyyah** (cinta kepada Allah) yang murni dalam tasawuf Islam. Berbeda dengan kebanyakan sufi sebelumnya yang termotivasi oleh **khauf** (rasa takut kepada neraka) atau **raja'** (harapan surga), Rabi'ah mengembangkan **konsep cinta yang bebas dari motif apapun** selain Allah itu sendiri.^13
+Rabi'ah dikenal sebagai **pelopor konsep mahabbah ilahiyyah** (cinta kepada Allah) yang murni dalam tasawuf Islam. Berbeda dengan kebanyakan sufi sebelumnya yang termotivasi oleh **khauf** (rasa takut kepada neraka) atau **raja'** (harapan surga), Rabi'ah mengembangkan **konsep cinta yang bebas dari motif apapun** selain Allah itu sendiri.
 
 Dalam **munajat yang paling terkenal**, ia berkata:
 **"Allahumma in kuntu a'buduka khaufan min narika fa ahriqu fi an-nar, wa in kuntu a'buduka tamaan fi jannatika fa ahrimni minha, wa in kuntu a'buduka li wajhika al-karim fa la tahrumni min jamalika al-azali."**
 
-*"Ya Allah, jika aku menyembah-Mu karena takut neraka-Mu, bakarlah aku di dalamnya. Jika aku menyembah-Mu karena mengharap surga-Mu, jauhkanlah aku darinya. Tetapi jika aku menyembah-Mu karena wajah-Mu yang mulia, maka janganlah halangi aku dari keindahan-Mu yang kekal."*^14
+*"Ya Allah, jika aku menyembah-Mu karena takut neraka-Mu, bakarlah aku di dalamnya. Jika aku menyembah-Mu karena mengharap surga-Mu, jauhkanlah aku darinya. Tetapi jika aku menyembah-Mu karena wajah-Mu yang mulia, maka janganlah halangi aku dari keindahan-Mu yang kekal."*
 
-Doa ini **merevolusi** konsep ibadah dalam Islam, mengangkat motivasi dari tingkat **fear-based** dan **reward-based** menuju **love-based spirituality**. Rabi'ah menunjukkan bahwa puncak tertinggi ibadah adalah ketika dilakukan semata-mata karena Allah layak dipuja dan dicintai, bukan karena takut azab atau mengharap pahala.^15
+Doa ini **merevolusi** konsep ibadah dalam Islam, mengangkat motivasi dari tingkat **fear-based** dan **reward-based** menuju **love-based spirituality**. Rabi'ah menunjukkan bahwa puncak tertinggi ibadah adalah ketika dilakukan semata-mata karena Allah layak dipuja dan dicintai, bukan karena takut azab atau mengharap pahala.
 
 ### Tiga Tingkat Cinta dalam Ajaran Rabi'ah
 
@@ -51,46 +51,46 @@ Rabi'ah mengajarkan **tiga tingkatan cinta** yang menjadi fondasi spiritualitas 
 
 1. **Hubb li-nafsihi** (Cinta demi diri): Cinta yang termotivasi oleh kepentingan pribadi — takut azab atau harap pahala
 2. **Hubb li-ahlihi** (Cinta yang layak): Cinta kepada Allah karena Dia layak dicintai berdasarkan nama-nama dan sifat-sifat-Nya yang indah
-3. **Hubb li-wajhihi** (Cinta demi wajah-Nya): Cinta murni yang tidak menginginkan apapun selain Allah sendiri^16
+3. **Hubb li-wajhihi** (Cinta demi wajah-Nya): Cinta murni yang tidak menginginkan apapun selain Allah sendiri
 
-Tingkatan tertinggi adalah **hubb li-wajhihi**, di mana seorang hamba mencintai Allah **tanpa sebab** (*bila sabab*), sebagaimana Allah mencintai hamba-Nya tanpa mengharapkan imbalan. Ini adalah tingkat **fana' fi'l-mahabbah** (sirna dalam cinta) yang menjadi puncak pencapaian spiritual.^17
+Tingkatan tertinggi adalah **hubb li-wajhihi**, di mana seorang hamba mencintai Allah **tanpa sebab** (*bila sabab*), sebagaimana Allah mencintai hamba-Nya tanpa mengharapkan imbalan. Ini adalah tingkat **fana' fi'l-mahabbah** (sirna dalam cinta) yang menjadi puncak pencapaian spiritual.
 
 ## Puisi dan Munajat: Ekspresi Jiwa yang Berapi
 
 ### Syair-Syair Cinta Ilahi
 
-Rabi'ah mengekspresikan pengalaman spiritualnya melalui **puisi-puisi yang penuh api kerinduan**. Syair-syairnya menjadi prototype bagi poetry cinta mistik dalam Islam, mempengaruhi penyair-penyair sufi kemudian seperti **Hafez**, **Rumi**, dan **Ibn Arabi**.^18
+Rabi'ah mengekspresikan pengalaman spiritualnya melalui **puisi-puisi yang penuh api kerinduan**. Syair-syairnya menjadi prototype bagi poetry cinta mistik dalam Islam, mempengaruhi penyair-penyair sufi kemudian seperti **Hafez**, **Rumi**, dan **Ibn Arabi**.
 
 Salah satu **syair terkenalnya**:
 *"Uhibbuka hubbayn: hubba al-hawa / Wa hubban li-annaka ahlon li-dhalika / Fa amma alladhi hubbu al-hawa / Fa shughli bi-dhikrika 'amman siwa-ka / Wa amma alladhi anta ahlon lahu / Fa kashfuka al-hujuba hatta ara-ka"*
 
-*"Aku mencintai-Mu dengan dua cinta: cinta kerinduan / Dan cinta karena Engkau layak untuk itu / Adapun cinta kerinduan / Menyibukkanku dengan mengingat-Mu dari selain-Mu / Adapun cinta karena Engkau layak / Adalah Engkau singkapkan hijab hingga aku melihat-Mu"*^19
+*"Aku mencintai-Mu dengan dua cinta: cinta kerinduan / Dan cinta karena Engkau layak untuk itu / Adapun cinta kerinduan / Menyibukkanku dengan mengingat-Mu dari selain-Mu / Adapun cinta karena Engkau layak / Adalah Engkau singkapkan hijab hingga aku melihat-Mu"*
 
 ### Munajat yang Membakar Jiwa
 
 **Munajat-munajat Rabi'ah** yang penuh dengan kelembutan dan kerinduan kepada Allah menjadi model bagi generasi sufi setelahnya. Dalam salah satu munajatnnya yang paling menyentuh, ia berkata:
 
-**"Ya Allah, matahari-Mu telah tenggelam, bintang-bintang bersinar, para raja telah menutup pintu-pintu mereka dan setiap kekasih bersendirian dengan kekasihnya. Dan inilah aku bersendirian dengan-Mu."**^20
+**"Ya Allah, matahari-Mu telah tenggelam, bintang-bintang bersinar, para raja telah menutup pintu-pintu mereka dan setiap kekasih bersendirian dengan kekasihnya. Dan inilah aku bersendirian dengan-Mu."**
 
 Munajat lainnya yang menunjukkan keintiman spiritual:
 **"Ilahi, la taj'al al-nar fi qalbi wa inta fi qalbi, fa inna dhulumata al-nar la tuqawwim ma'a nuri wajhika"**
-*"Tuhanku, janganlah jadikan api di hatiku sementara Engkau ada di hatiku, karena kegelapan api tidak dapat berdampingan dengan cahaya wajah-Mu."*^21
+*"Tuhanku, janganlah jadikan api di hatiku sementara Engkau ada di hatiku, karena kegelapan api tidak dapat berdampingan dengan cahaya wajah-Mu."*
 
 ## Pengaruh Mendalam terhadap Perkembangan Tasawuf
 
 ### Murid dan Pengikut
 
-Meski Rabi'ah memilih hidup menyendiri, banyak **pencari spiritual yang berdatangan** untuk belajar darinya. Di antara mereka yang terpengaruh adalah **Sufyan al-Thawri**, **Malik ibn Dinar**, dan **Shaqiq al-Balkhi**. Mereka tidak hanya belajar metodologi spiritual, tetapi juga menyaksikan langsung **living example** dari cinta murni kepada Allah.^22
+Meski Rabi'ah memilih hidup menyendiri, banyak **pencari spiritual yang berdatangan** untuk belajar darinya. Di antara mereka yang terpengaruh adalah **Sufyan al-Thawri**, **Malik ibn Dinar**, dan **Shaqiq al-Balkhi**. Mereka tidak hanya belajar metodologi spiritual, tetapi juga menyaksikan langsung **living example** dari cinta murni kepada Allah.
 
-**Shaqiq al-Balkhi** pernah berkata: **"Semua yang aku ketahui tentang cinta kepada Allah, aku pelajari dari seorang wanita tua di Basrah."** Pengakuan ini dari seorang sufi besar menunjukkan betapa dalamnya pengaruh Rabi'ah terhadap perkembangan tasawuf teoretis.^23
+**Shaqiq al-Balkhi** pernah berkata: **"Semua yang aku ketahui tentang cinta kepada Allah, aku pelajari dari seorang wanita tua di Basrah."** Pengakuan ini dari seorang sufi besar menunjukkan betapa dalamnya pengaruh Rabi'ah terhadap perkembangan tasawuf teoretis.
 
 ### Pengaruh terhadap Sufi Generasi Berikutnya
 
-**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep **mahabbah** yang dikembangkan Rabi'ah kemudian diperdalam oleh **al-Junayd** menjadi teori **fana'** dan **baqa'**, oleh **al-Hallaj** menjadi konsep **ana'l-Haqq**, dan oleh **Ibn Arabi** menjadi **wahdat al-wujud**.^24
+**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep **mahabbah** yang dikembangkan Rabi'ah kemudian diperdalam oleh **al-Junayd** menjadi teori **fana'** dan **baqa'**, oleh **al-Hallaj** menjadi konsep **ana'l-Haqq**, dan oleh **Ibn Arabi** menjadi **wahdat al-wujud**.
 
-**Al-Ghazali** dalam *Ihya Ulum al-Din* mengutip Rabi'ah berkali-kali ketika membahas **maqam mahabbah**. Ia menganggap Rabi'ah sebagai **"umm al-khair"** (ibu kebaikan) dalam tradisi cinta sufi.^25
+**Al-Ghazali** dalam *Ihya Ulum al-Din* mengutip Rabi'ah berkali-kali ketika membahas **maqam mahabbah**. Ia menganggap Rabi'ah sebagai **"umm al-khair"** (ibu kebaikan) dalam tradisi cinta sufi.
 
-**Jalaluddin Rumi** dalam Masnavi-nya mengacu pada Rabi'ah sebagai contoh **perfected lover** yang telah mencapai tingkat fana' dalam cinta. Konsep **ishq** (cinta yang membakar) dalam poetry Rumi dapat dilacak kembali ke ajaran Rabi'ah tentang mahabbah yang transformatif.^26
+**Jalaluddin Rumi** dalam Masnavi-nya mengacu pada Rabi'ah sebagai contoh **perfected lover** yang telah mencapai tingkat fana' dalam cinta. Konsep **ishq** (cinta yang membakar) dalam poetry Rumi dapat dilacak kembali ke ajaran Rabi'ah tentang mahabbah yang transformatif.
 
 ### Kontribusi terhadap Teologi Mistik Islam
 
@@ -99,15 +99,15 @@ Rabi'ah memberikan **kontribusi fundamental** terhadap perkembangan teologi mist
 1. **Personalisasi hubungan dengan Allah**: Mengubah konsep Allah dari **"Rabb al-arbaab"** (Tuhan para tuhan) yang distant menjadi **"Habib"** (Kekasih) yang intimate
 2. **Feminisasi spiritualitas**: Memperkenalkan aspek **maternal** dan **bridal mysticism** dalam Islam
 3. **Purifikasi motivasi**: Membersihkan ibadah dari motif-motif duniawi dan ukhrawi
-4. **Universalisasi cinta**: Menunjukkan bahwa mahabbah melampaui gender, status sosial, dan latar belakang^27
+4. **Universalisasi cinta**: Menunjukkan bahwa mahabbah melampaui gender, status sosial, dan latar belakang
 
 ## Wafat dan Warisan Abadi
 
 ### Akhir Hayat yang Mulia
 
-Rabi'ah wafat pada tahun **185 H/801 M** dalam usia sekitar 84 tahun. **Al-Dhahabi** mencatat bahwa hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. Ia meninggal dalam keadaan **bersujud**, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat kepada-Nya.^28
+Rabi'ah wafat pada tahun **185 H/801 M** dalam usia sekitar 84 tahun. **Al-Dhahabi** mencatat bahwa hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. Ia meninggal dalam keadaan **bersujud**, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat kepada-Nya.
 
-Ketika **Hasan al-Bashri** mendengar berita kematiannya, ia berkata: **"Rabi'ah telah kembali kepada Yang dicintainya. Ia telah mencapai apa yang kita semua rindukan — perjumpaan dengan Allah tanpa hijab."**^29
+Ketika **Hasan al-Bashri** mendengar berita kematiannya, ia berkata: **"Rabi'ah telah kembali kepada Yang dicintainya. Ia telah mencapai apa yang kita semua rindukan — perjumpaan dengan Allah tanpa hijab."**
 
 ### Warisan dalam Tradisi Sufi
 
@@ -115,9 +115,9 @@ Ajaran Rabi'ah tentang **mahabbah ilahiyyah** memberikan pengaruh yang mendalam 
 
 - **Tarekat Qadiriyyah**: Mengadopsi konsep cinta sebagai jalan utama menuju Allah
 - **Tarekat Mevlevi**: Mengintegrasikan mahabbah dalam praktik sama' dan tarian ekstatis
-- **Tarekat Chishtiyyah**: Menjadikan cinta sebagai foundation dari metodologi spiritual mereka^30
+- **Tarekat Chishtiyyah**: Menjadikan cinta sebagai foundation dari metodologi spiritual mereka
 
-Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidat al-Nisa' al-Abidah"** (Pemimpin Perempuan yang Ahli Ibadah) dan **"Umm al-Khair"** (Ibu Kebaikan). Ia menjadi **prototipe** bagi perempuan sufi (*sufiyyah*) di masa-masa selanjutnya seperti **A'ishah al-Ba'uniyyah**, **Fatimah al-Nisaburi**, dan **Jahanara Begum**.^31
+Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidat al-Nisa' al-Abidah"** (Pemimpin Perempuan yang Ahli Ibadah) dan **"Umm al-Khair"** (Ibu Kebaikan). Ia menjadi **prototipe** bagi perempuan sufi (*sufiyyah*) di masa-masa selanjutnya seperti **A'ishah al-Ba'uniyyah**, **Fatimah al-Nisaburi**, dan **Jahanara Begum**.
 
 ## Analisis dan Hikmah
 

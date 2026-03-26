@@ -28,7 +28,7 @@ The term **"al-jabr"** (الجبر) literally means "completion" or "restoration
 
 Al-Khwarizmi classified all quadratic equations into six standard types:
 1. Squares equal roots (*ax^2 = bx*)
-2. Squares equal number (*ax^2 = c*)  
+2. Squares equal number (*ax^2 = c*) 
 3. Roots equal number (*bx = c*)
 4. Squares and roots equal number (*ax^2 + bx = c*)
 5. Squares and number equal roots (*ax^2 + c = bx*)
@@ -54,7 +54,7 @@ In another work titled *Kitab al-Hisab al-Hindi* ("Book on Indian Calculation"),
 
 Before this, Europe used Roman numerals which were highly inefficient for calculation. Imagine trying to multiply MCDLXVII by DCCCXC — nearly impossible! The system introduced by al-Khwarizmi enabled far more efficient calculations and became the foundation for the development of modern mathematics and science.
 
-The Latin translation of this work began with the phrase *"Algoritmi dixit..."* ("Al-Khwarizmi said..."). From this comes the word **"algorithm"** — a systematic procedure for solving problems. This term has now become the foundation of all computer science and digital technology.^1
+The Latin translation of this work began with the phrase *"Algoritmi dixit."* ("Al-Khwarizmi said."). From this comes the word **"algorithm"** — a systematic procedure for solving problems. This term has now become the foundation of all computer science and digital technology.^1
 
 ### Astronomy and Geography
 
@@ -64,14 +64,14 @@ In geography, his work *Kitab Surat al-Ard* ("Book of the Image of the Earth") w
 
 ## Dialogue and Evidence
 
-Al-Khwarizmi's motivation in developing algebra was inseparable from the practical demands of Islamic law, particularly in inheritance distribution problems. The Qur'an provides detailed but complex rules about inheritance distribution^11:
+Al-Khwarizmi's motivation in developing algebra was inseparable from the practical demands of Islamic law, particularly in inheritance distribution problems. The Qur'an provides detailed but complex rules about inheritance distribution^7:
 
 > يُوصِيكُمُ ٱللَّهُ فِىٓ أَوۡلَٰدِكُمۡ لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِ ﴿١١﴾
 >
 > *"Allah instructs you concerning your children: for the male, what is equal to the share of two females. ﴾11﴿"*
 > — QS. an-Nisa (4): 11
 
-This verse and subsequent verses in the same chapter regulate extremely complex inheritance proportions, involving various combinations of heirs. Solving these inheritance problems required complex equation systems — this drove al-Khwarizmi to develop systematic algebraic methods.^1 ^11
+This verse and subsequent verses in the same chapter regulate extremely complex inheritance proportions, involving various combinations of heirs. Solving these inheritance problems required complex equation systems — this drove al-Khwarizmi to develop systematic algebraic methods.^1 ^7
 
 In the preface to Kitab al-Jabr, al-Khwarizmi explicitly states that one of his main motivations was "what is mandated by Islamic law in matters of inheritance, wills, and distribution." This shows how practical demands of religious life became the driving force for mathematical innovation.^1
 
@@ -119,8 +119,4 @@ Al-Khwarizmi proved that science knows no geographical, ethnic, or religious bou
 4. Carl Boyer, *A History of Mathematics* (New York: John Wiley & Sons, 1991).
 5. Euclid. *Elements* — classical Greek geometry.
 6. Brahmagupta. *Brahmasphutasiddhanta* — 7th-century Indian mathematics.
-7. Otto Neugebauer. *The Exact Sciences in Antiquity* (Providence: Brown University Press, 1957).
-8. Al-Khwarizmi, Muhammad ibn Musa. *Kitab al-Jabr wa al-Muqabalah*, ed. Roshdi Rashed (Paris: Les Belles Lettres, 2007).
-9. Roshdi Rashed. *Al-Khwarizmi: The Beginnings of Algebra* (London: Saqi Books, 2009).
-10. Al-Khwarizmi. *The Algebra of Mohammed Ben Musa*, trans. Frederic Rosen (London, 1831).
-11. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.
+7. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.

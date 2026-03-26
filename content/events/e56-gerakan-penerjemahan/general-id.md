@@ -149,7 +149,7 @@ Metodologi penerjemahan yang dikembangkan Hunayn ibn Ishaq dengan sistem verifik
 > *"Dan Kami turunkan kepadamu Al-Kitab (Al-Quran) untuk menjelaskan segala sesuatu dan petunjuk serta rahmat dan kabar gembira bagi orang-orang yang berserah diri."* ﴾89﴿
 > — QS. An-Nahl (16): 89
 
-Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan segala sesuatu melalui berbagai sumber pengetahuan, dengan Al-Quran sebagai framework interpretatif utama.²⁶^25
+Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan segala sesuatu melalui berbagai sumber pengetahuan, dengan Al-Quran sebagai framework interpretatif utama.²⁶^1
 
 **Integrasi Tanpa Asimilasi**: Para penerjemah Muslim tidak hanya mengadopsi pengetahuan asing, tetapi mengintegrasikannya dengan worldview Islam, menciptakan sintesis yang unik. Mereka berhasil mempertahankan identitas intelektual Islam sambil mengembangkan tradisi pengetahuan universal.
 
@@ -161,28 +161,4 @@ Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan seg
 
 ## Daftar Pustaka
 
-1. Gutas, Dimitri, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*.
-2. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, jilid 8.
-3. Saliba, George, *Islamic Science and the Making of the European Renaissance*.
-4. Van Ess, Josef, *Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra*.
-5. Ibn al-Nadim, *Al-Fihrist*, editor Gustav Flügel.
-6. Bergsträsser, Gotthelf, *Hunayn ibn Ishaq über die syrischen und arabischen Galenübersetzungen*.
-7. Strohmaier, Gotthard, *Hunayn ibn Ishaq*, dalam Dictionary of Scientific Biography.
-8. Rashed, Roshdi, *The Development of Arabic Mathematics: Between Arithmetic and Algebra*.
-9. Montgomery, James E., *The Empty Hijra*, dalam Taken from the Mouth of the World.
-10. Al-Farabi, Abu Nasr, *Ihsa al-Ulum*, editor Uthman Amin.
-11. De Young, Gregg, *The Arabic Version of Euclid's Elements*, dalam Historia Mathematica.
-12. Sesiano, Jacques, *An Introduction to the History of Algebra*.
-13. Ullmann, Manfred, *Islamic Medicine*, Edinburgh University Press.
-14. Savage-Smith, Emilie, *Medicine*, dalam Encyclopedia of the History of Arabic Science.
-15. Adamson, Peter, *Al-Kindi*, Oxford University Press.
-16. Al-Khwarizmi, Muhammad ibn Musa, *Hisab al-jabr wa al-muqabalah*.
-17. Banu Musa, *Kitab al-Hiyal*, editor Ahmad Y. al-Hassan.
-18. Endress, Gerhard, *The Circle of al-Kindi*, dalam The Ancient Tradition in Christian and Islamic Hellenism.
-19. Patton, Walter M., *Ahmed ibn Hanbal and the Mihna*.
-20. Al-Ghazali, Abu Hamid, *Tahafut al-Falasifah*.
-21. Peters, F.E., *Aristoteles Arabus: The Oriental Translations and Commentaries of the Aristotelian Corpus*.
-22. Haskins, Charles Homer, *The Renaissance of the Twelfth Century*.
-23. Burnett, Charles, *The Introduction of Arabic Learning into England*.
-24. Bacon, Roger, *Opus Majus*, editor J.H. Bridges.
-25. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+1. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.

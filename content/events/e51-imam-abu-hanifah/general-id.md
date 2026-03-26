@@ -52,45 +52,45 @@ Abu Yusuf dikenal karena kemampuannya menguasai hadits dengan baik, melengkapi p
 
 **Muhammad bin al-Hasan al-Syaybani** (132-189 H) bergabung dengan majelis Abu Hanifah pada usia muda. Setelah Abu Hanifah wafat, ia melanjutkan studi dengan **Malik bin Anas** di Madinah selama dua tahun, kemudian kembali ke Baghdad untuk bergabung dengan Abu Yusuf. Perpaduan antara metodologi Hanafi dan pengalaman belajar dengan Malik menjadikan al-Syaybani sebagai penulis sistematik pertama madzhab Hanafi.^1
 
-Al-Syaybani menulis enam karya fundamental madzhab Hanafi yang dikenal sebagai *"Zhahir al-Riwayah"* (riwayat yang masyhur): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, dan *Al-Ziyadat*. Karya-karya ini menjadi rujukan utama madzhab Hanafi hingga hari ini.^21
+Al-Syaybani menulis enam karya fundamental madzhab Hanafi yang dikenal sebagai *"Zhahir al-Riwayah"* (riwayat yang masyhur): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, dan *Al-Ziyadat*. Karya-karya ini menjadi rujukan utama madzhab Hanafi hingga hari ini.
 
-**Perbedaan pendapat** di antara mereka justru menjadi kekayaan madzhab Hanafi. Dalam sekitar 20% masalah fiqih, Abu Yusuf dan al-Syaybani berbeda pendapat dengan Abu Hanifah atau satu sama lain. Hal ini menunjukkan bahwa madzhab Hanafi tidak dogmatik, melainkan membuka ruang untuk ijtihad berkelanjutan dalam kerangka metodologi yang telah ditetapkan.^22
+**Perbedaan pendapat** di antara mereka justru menjadi kekayaan madzhab Hanafi. Dalam sekitar 20% masalah fiqih, Abu Yusuf dan al-Syaybani berbeda pendapat dengan Abu Hanifah atau satu sama lain. Hal ini menunjukkan bahwa madzhab Hanafi tidak dogmatik, melainkan membuka ruang untuk ijtihad berkelanjutan dalam kerangka metodologi yang telah ditetapkan.
 
 ## Ujian Zaman: Penjara dan Kematian
 
 ### Konflik dengan Penguasa
 
-Abu Hanifah hidup dalam periode transisi dari Umayyah ke Abbasiyah, masa yang penuh gejolak politik. Ia menolak tawaran untuk menjadi qadhi (hakim) dari **Khalifah al-Mansur** karena khawatir akan independensi dalam memberikan keputusan hukum. *"Aku takut jika menjadi qadhi, aku akan dipaksa memutuskan perkara dengan cara yang tidak aku yakini kebenarannya,"* begitu Abu Hanifah menjelaskan penolakannya.^23
+Abu Hanifah hidup dalam periode transisi dari Umayyah ke Abbasiyah, masa yang penuh gejolak politik. Ia menolak tawaran untuk menjadi qadhi (hakim) dari **Khalifah al-Mansur** karena khawatir akan independensi dalam memberikan keputusan hukum. *"Aku takut jika menjadi qadhi, aku akan dipaksa memutuskan perkara dengan cara yang tidak aku yakini kebenarannya,"* begitu Abu Hanifah menjelaskan penolakannya.
 
-Lebih dari itu, Abu Hanifah juga pernah memberikan dukungan finansial kepada **Zaid bin Ali** dan kemudian **Muhammad al-Nafs al-Zakiyyah** yang memberontak melawan kekhalifahan. Ia memandang perlawanan terhadap penguasa zalim sebagai kewajiban agama, meski ia sendiri tidak terlibat langsung dalam aksi politik.^24
+Lebih dari itu, Abu Hanifah juga pernah memberikan dukungan finansial kepada **Zaid bin Ali** dan kemudian **Muhammad al-Nafs al-Zakiyyah** yang memberontak melawan kekhalifahan. Ia memandang perlawanan terhadap penguasa zalim sebagai kewajiban agama, meski ia sendiri tidak terlibat langsung dalam aksi politik.
 
-Penolakan ini membuat al-Mansur murka dan memenjarakan Abu Hanifah. Dalam penjara, ia tetap mengajar dan memberikan fatwa kepada orang-orang yang membutuhkan. Bahkan beberapa muridnya seperti **Abu Yusuf** tetap mengunjunginya untuk berdiskusi masalah hukum. Prinsipnya adalah bahwa ulama harus menjaga kemerdekaan intelektual dari intervensi politik.^25
+Penolakan ini membuat al-Mansur murka dan memenjarakan Abu Hanifah. Dalam penjara, ia tetap mengajar dan memberikan fatwa kepada orang-orang yang membutuhkan. Bahkan beberapa muridnya seperti **Abu Yusuf** tetap mengunjunginya untuk berdiskusi masalah hukum. Prinsipnya adalah bahwa ulama harus menjaga kemerdekaan intelektual dari intervensi politik.
 
 ### Wafat sebagai Martir Ilmu
 
-Abu Hanifah wafat dalam penjara pada tahun 150 H/767 M dalam usia 70 tahun. **Al-Khatib al-Baghdadi** meriwayatkan bahwa kematiannya disebabkan oleh perlakuan keras di penjara, menjadikannya martir dalam perjuangan mempertahankan kemerdekaan ulama. Beberapa riwayat menyebutkan bahwa ia diracun karena tetap menolak menjadi qadhi.^26
+Abu Hanifah wafat dalam penjara pada tahun 150 H/767 M dalam usia 70 tahun. **Al-Khatib al-Baghdadi** meriwayatkan bahwa kematiannya disebabkan oleh perlakuan keras di penjara, menjadikannya martir dalam perjuangan mempertahankan kemerdekaan ulama. Beberapa riwayat menyebutkan bahwa ia diracun karena tetap menolak menjadi qadhi.
 
-Pemakamannya di Baghdad dihadiri oleh ribuan orang dari berbagai kalangan. **Abu Yusuf** memimpin shalat jenazah, dan masyarakat menghormatinya bukan hanya sebagai ulama, tetapi juga sebagai sosok yang konsisten memperjuangkan keadilan dan kemerdekaan berpikir. Pemakaman berlangsung berhari-hari karena besarnya jumlah pelayat yang berdatangan.^27
+Pemakamannya di Baghdad dihadiri oleh ribuan orang dari berbagai kalangan. **Abu Yusuf** memimpin shalat jenazah, dan masyarakat menghormatinya bukan hanya sebagai ulama, tetapi juga sebagai sosok yang konsisten memperjuangkan keadilan dan kemerdekaan berpikir. Pemakaman berlangsung berhari-hari karena besarnya jumlah pelayat yang berdatangan.
 
 ## Warisan dan Pengaruh Jangka Panjang
 
 ### Penyebaran Madzhab Hanafi ke Seluruh Dunia Islam
 
-Madzhab Hanafi menyebar luas karena fleksibilitasnya dalam menghadapi berbagai kondisi sosial dan budaya. **Dinasti Abbasiyah** secara resmi mengadopsi madzhab ini sebagai rujukan hukum negara, terutama dalam masa **Harun al-Rashid** yang mengangkat Abu Yusuf sebagai *Qadhi al-Qudhat* (ketua mahkamah agung). Kebijakan ini menjadikan madzhab Hanafi sebagai hukum positif di wilayah kekhalifahan Abbasiyah.^28
+Madzhab Hanafi menyebar luas karena fleksibilitasnya dalam menghadapi berbagai kondisi sosial dan budaya. **Dinasti Abbasiyah** secara resmi mengadopsi madzhab ini sebagai rujukan hukum negara, terutama dalam masa **Harun al-Rashid** yang mengangkat Abu Yusuf sebagai *Qadhi al-Qudhat* (ketua mahkamah agung). Kebijakan ini menjadikan madzhab Hanafi sebagai hukum positif di wilayah kekhalifahan Abbasiyah.
 
-Ekspansi Islam ke wilayah Turki, Asia Tengah, dan India membawa madzhab Hanafi ke kawasan-kawasan ini. Para pedagang dan sufi dari Asia Tengah yang memeluk madzhab Hanafi memainkan peran penting dalam penyebaran Islam di wilayah-wilayah ini. **Dinasti Ghaznavid** dan **Ghurid** di Afghanistan dan India Utara menjadikan madzhab Hanafi sebagai madzhab resmi mereka.^29
+Ekspansi Islam ke wilayah Turki, Asia Tengah, dan India membawa madzhab Hanafi ke kawasan-kawasan ini. Para pedagang dan sufi dari Asia Tengah yang memeluk madzhab Hanafi memainkan peran penting dalam penyebaran Islam di wilayah-wilayah ini. **Dinasti Ghaznavid** dan **Ghurid** di Afghanistan dan India Utara menjadikan madzhab Hanafi sebagai madzhab resmi mereka.
 
-**Dinasti Ottoman** kemudian menjadikan madzhab Hanafi sebagai madzhab resmi kerajaan, memperluas pengaruhnya hingga Balkan dan Afrika Utara. Sistem hukum Ottoman (*Mecelle*) yang diberlakukan pada abad ke-19 sepenuhnya didasarkan pada madzhab Hanafi. Ini menjadikan madzhab Hanafi tersebar dari Bosnia hingga Bangladesh, dari Kazakhstan hingga Sudan.^30
+**Dinasti Ottoman** kemudian menjadikan madzhab Hanafi sebagai madzhab resmi kerajaan, memperluas pengaruhnya hingga Balkan dan Afrika Utara. Sistem hukum Ottoman (*Mecelle*) yang diberlakukan pada abad ke-19 sepenuhnya didasarkan pada madzhab Hanafi. Ini menjadikan madzhab Hanafi tersebar dari Bosnia hingga Bangladesh, dari Kazakhstan hingga Sudan.
 
-Saat ini, madzhab Hanafi dianut oleh sekitar 45% dari total populasi Muslim dunia, menjadikannya madzhab fiqih yang paling besar. Negara-negara seperti Turki, Pakistan, Bangladesh, Afghanistan, Kazakhstan, Uzbekistan, dan sebagian besar negara-negara bekas Soviet di Asia Tengah mayoritas mengikuti madzhab Hanafi.^31
+Saat ini, madzhab Hanafi dianut oleh sekitar 45% dari total populasi Muslim dunia, menjadikannya madzhab fiqih yang paling besar. Negara-negara seperti Turki, Pakistan, Bangladesh, Afghanistan, Kazakhstan, Uzbekistan, dan sebagian besar negara-negara bekas Soviet di Asia Tengah mayoritas mengikuti madzhab Hanafi.
 
 ### Kontribusi terhadap Ilmu Hukum dan Metodologi
 
-Abu Hanifah dianggap sebagai pelopor sistematisasi hukum Islam. Metodologinya yang rasional dan fleksibel memungkinkan hukum Islam beradaptasi dengan perkembangan zaman tanpa kehilangan substansi spiritualnya. Konsep **"fiqh al-muqarin"** (fiqih perbandingan) dapat dilacak kembali ke metode Abu Hanifah yang selalu mempertimbangkan berbagai pendapat sebelum menetapkan hukum.^32
+Abu Hanifah dianggap sebagai pelopor sistematisasi hukum Islam. Metodologinya yang rasional dan fleksibel memungkinkan hukum Islam beradaptasi dengan perkembangan zaman tanpa kehilangan substansi spiritualnya. Konsep **"fiqh al-muqarin"** (fiqih perbandingan) dapat dilacak kembali ke metode Abu Hanifah yang selalu mempertimbangkan berbagai pendapat sebelum menetapkan hukum.
 
-Konsep *istihsan* yang dikembangkannya memberikan ruang bagi pertimbangan kemaslahatan dalam penetapan hukum. Prinsip ini kemudian diadopsi dan dikembangkan oleh madzhab-madzhab lain dengan berbagai variasi. **Imam Malik** menggunakan konsep serupa dengan *al-masalih al-mursalah*, sementara **Imam Syafi'i** mengkritik istihsan namun mengembangkan konsep *istihsan khafi* dalam beberapa kasusnya.^33
+Konsep *istihsan* yang dikembangkannya memberikan ruang bagi pertimbangan kemaslahatan dalam penetapan hukum. Prinsip ini kemudian diadopsi dan dikembangkan oleh madzhab-madzhab lain dengan berbagai variasi. **Imam Malik** menggunakan konsep serupa dengan *al-masalih al-mursalah*, sementara **Imam Syafi'i** mengkritik istihsan namun mengembangkan konsep *istihsan khafi* dalam beberapa kasusnya.
 
-**Metodologi Abu Hanifah dalam hukum komersial** sangat berpengaruh dalam perkembangan ekonomi Islam. Konsep-konsep seperti *murabahah*, *salam*, *istishna'*, dan *ijarah* yang dikembangkan dalam madzhab Hanafi menjadi dasar bagi perbankan syariah modern. Fleksibilitas dalam akad dan kemudahan dalam muamalah menjadikan madzhab Hanafi cocok untuk masyarakat perdagangan.^34
+**Metodologi Abu Hanifah dalam hukum komersial** sangat berpengaruh dalam perkembangan ekonomi Islam. Konsep-konsep seperti *murabahah*, *salam*, *istishna'*, dan *ijarah* yang dikembangkan dalam madzhab Hanafi menjadi dasar bagi perbankan syariah modern. Fleksibilitas dalam akad dan kemudahan dalam muamalah menjadikan madzhab Hanafi cocok untuk masyarakat perdagangan.
 
 ## Analisis dan Hikmah
 
@@ -120,8 +120,3 @@ Konsep *istihsan* yang dikembangkannya memberikan ruang bagi pertimbangan kemasl
 12. Muhammad al-Syaybani, *Al-Mabsut*, 30 jilid.
 13. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, jilid 5.
 14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, jilid 8.
-15. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10.
-16. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
-17. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
-18. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
-19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

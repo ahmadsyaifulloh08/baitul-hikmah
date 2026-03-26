@@ -149,7 +149,7 @@ The translation methodology developed by Hunayn ibn Ishaq with multilayered veri
 > *"And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims."* ﴾89﴿
 > — QS. An-Nahl (16): 89
 
-This verse inspired Muslim scholars to seek explanations for all things through various sources of knowledge, with the Quran as the primary interpretive framework.²⁶^25
+This verse inspired Muslim scholars to seek explanations for all things through various sources of knowledge, with the Quran as the primary interpretive framework.²⁶^1
 
 **Integration Without Assimilation**: Muslim translators not only adopted foreign knowledge but integrated it with Islamic worldview, creating unique synthesis. They successfully maintained Islamic intellectual identity while developing universal knowledge traditions.
 
@@ -161,28 +161,4 @@ This verse inspired Muslim scholars to seek explanations for all things through 
 
 ## Bibliography
 
-1. Gutas, Dimitri, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*.
-2. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 8.
-3. Saliba, George, *Islamic Science and the Making of the European Renaissance*.
-4. Van Ess, Josef, *Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra*.
-5. Ibn al-Nadim, *Al-Fihrist*, ed. Gustav Flügel.
-6. Bergsträsser, Gotthelf, *Hunayn ibn Ishaq über die syrischen und arabischen Galenübersetzungen*.
-7. Strohmaier, Gotthard, *Hunayn ibn Ishaq*, in Dictionary of Scientific Biography.
-8. Rashed, Roshdi, *The Development of Arabic Mathematics: Between Arithmetic and Algebra*.
-9. Montgomery, James E., *The Empty Hijra*, in Taken from the Mouth of the World.
-10. Al-Farabi, Abu Nasr, *Ihsa al-Ulum*, ed. Uthman Amin.
-11. De Young, Gregg, *The Arabic Version of Euclid's Elements*, in Historia Mathematica.
-12. Sesiano, Jacques, *An Introduction to the History of Algebra*.
-13. Ullmann, Manfred, *Islamic Medicine*, Edinburgh University Press.
-14. Savage-Smith, Emilie, *Medicine*, in Encyclopedia of the History of Arabic Science.
-15. Adamson, Peter, *Al-Kindi*, Oxford University Press.
-16. Al-Khwarizmi, Muhammad ibn Musa, *Hisab al-jabr wa al-muqabalah*.
-17. Banu Musa, *Kitab al-Hiyal*, ed. Ahmad Y. al-Hassan.
-18. Endress, Gerhard, *The Circle of al-Kindi*, in The Ancient Tradition in Christian and Islamic Hellenism.
-19. Patton, Walter M., *Ahmed ibn Hanbal and the Mihna*.
-20. Al-Ghazali, Abu Hamid, *Tahafut al-Falasifah*.
-21. Peters, F.E., *Aristoteles Arabus: The Oriental Translations and Commentaries of the Aristotelian Corpus*.
-22. Haskins, Charles Homer, *The Renaissance of the Twelfth Century*.
-23. Burnett, Charles, *The Introduction of Arabic Learning into England*.
-24. Bacon, Roger, *Opus Majus*, ed. J.H. Bridges.
-25. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+1. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.

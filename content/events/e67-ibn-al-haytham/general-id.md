@@ -88,7 +88,7 @@ Sebelum Ibn al-Haytham, metodologi ilmiah didominasi oleh pendekatan **deduksi A
 
 Ibn al-Haytham secara revolusioner menantang paradigma ini dengan mengembangkan metodologi yang menggabungkan observasi, hipotesis, eksperimen, dan verifikasi.^1 Dalam pendahuluannya untuk Kitab al-Manazir, ia menulis:^3
 
-*"Pencari kebenaran bukanlah orang yang mempelajari tulisan-tulisan para pendahulu dan mengikuti sifat alamiah mereka dengan memercayainya, tetapi orang yang mencurigai keyakinannya terhadap mereka dan mempertanyakan apa yang ia ambil dari mereka... Tugasnya adalah menempatkan dirinya dalam posisi antagonis terhadap semua yang ia baca, dan... menyerangnya dari segala sisi."*^4
+*"Pencari kebenaran bukanlah orang yang mempelajari tulisan-tulisan para pendahulu dan mengikuti sifat alamiah mereka dengan memercayainya, tetapi orang yang mencurigai keyakinannya terhadap mereka dan mempertanyakan apa yang ia ambil dari mereka. Tugasnya adalah menempatkan dirinya dalam posisi antagonis terhadap semua yang ia baca, dan. menyerangnya dari segala sisi."*^4
 
 **Prinsip-Prinsip Metode Ibn al-Haytham:**^6
 
@@ -191,7 +191,7 @@ Metode yang dikembangkan Ibn al-Haytham mengantisipasi teknik-teknik yang kemudi
 Ibn al-Haytham juga memberikan kontribusi dalam teori bilangan dan analisis matematis.^8 Ia mengembangkan metode untuk menghitung jumlah kuadrat bilangan bulat dan mengeksplorasi sifat-sifat deret tak terhingga.^5
 
 **Formula Jumlah Kuadrat**: Ibn al-Haytham menemukan formula untuk menghitung jumlah kuadrat n bilangan bulat pertama:
-1² + 2² + 3² + ... + n² = n(n+1)(2n+1)/6^9
+1² + 2² + 3² + . + n² = n(n+1)(2n+1)/6^9
 
 Formula ini kemudian menjadi salah satu hasil fundamental dalam kalkulus dan analisis matematis.^3
 
@@ -199,13 +199,13 @@ Formula ini kemudian menjadi salah satu hasil fundamental dalam kalkulus dan ana
 
 ### Terjemahan Latin dan Transmisi Pengetahuan
 
-Karya-karya Ibn al-Haytham diterjemahkan ke bahasa Latin pada abad ke-12 dan 13 oleh para penerjemah di **Toledo**, **Palermo**, dan sekolah-sekolah terjemahan lainnya.^17 "*Kitab al-Manazir*" diterjemahkan dengan judul "*De Aspectibus*" atau "*Perspectiva*" dan menjadi rujukan utama bagi para ilmuwan Eropa abad pertengahan.^1
+Karya-karya Ibn al-Haytham diterjemahkan ke bahasa Latin pada abad ke-12 dan 13 oleh para penerjemah di **Toledo**, **Palermo**, dan sekolah-sekolah terjemahan lainnya. "*Kitab al-Manazir*" diterjemahkan dengan judul "*De Aspectibus*" atau "*Perspectiva*" dan menjadi rujukan utama bagi para ilmuwan Eropa abad pertengahan.^1
 
 Proses terjemahan ini tidak selalu sempurna, dan beberapa konsep fundamental terkadang hilang atau terdistorsi.^4 Namun, inti metodologi dan penemuan-penemuan penting Ibn al-Haytham berhasil ditransmisikan ke dunia Latin.^6
 
 ### Roger Bacon: Murid Tidak Langsung yang Setia
 
-**Roger Bacon** (1214-1294), yang sering disebut sebagai "bapak metode eksperimental" di Eropa, sebenarnya sangat dipengaruhi oleh karya Ibn al-Haytham.^18 Bacon secara eksplisit mengakui hutang intelektualnya kepada "Alhazen" dalam berbagai karyanya.^2
+**Roger Bacon** (1214-1294), yang sering disebut sebagai "bapak metode eksperimental" di Eropa, sebenarnya sangat dipengaruhi oleh karya Ibn al-Haytham. Bacon secara eksplisit mengakui hutang intelektualnya kepada "Alhazen" dalam berbagai karyanya.^2
 
 **Pengaruh Metodologis**: Bacon mengadopsi penekanan Ibn al-Haytham pada eksperimen dan observasi sebagai dasar pengetahuan ilmiah.^7 Dalam "*Opus Majus*"-nya, Bacon menulis bahwa "eksperimen adalah satu-satunya cara untuk memperoleh pengetahuan yang memadai tentang hal-hal duniawi."^3
 
@@ -260,7 +260,7 @@ Pendekatan kritisnya meliputi:^6
 
 ### Inspirasi bagi Ilmuwan Muslim Selanjutnya
 
-Di dunia Islam, karya Ibn al-Haytham menginspirasi generasi ilmuwan selanjutnya untuk mengadopsi pendekatan eksperimental dan sikap kritis terhadap otoritas.^19 Beberapa tokoh yang secara langsung dipengaruhi olehnya:^7
+Di dunia Islam, karya Ibn al-Haytham menginspirasi generasi ilmuwan selanjutnya untuk mengadopsi pendekatan eksperimental dan sikap kritis terhadap otoritas. Beberapa tokoh yang secara langsung dipengaruhi olehnya:^7
 
 **Al-Biruni** (973-1048) menggunakan metode Ibn al-Haytham dalam studinya tentang optik dan astronomi, khususnya dalam mengukur kecepatan cahaya dan menganalisis fenomena refraksi atmosfer.^3
 
@@ -275,7 +275,7 @@ Di dunia Islam, karya Ibn al-Haytham menginspirasi generasi ilmuwan selanjutnya 
 Metodologi observasi yang dikembangkan Ibn al-Haytham menjadi standar di observatorium-observatorium Islam seperti:^1
 
 - **Observatorium Maragheh** (1259) di Iran
-- **Observatorium Samarkand** (1420) di Uzbekistan  
+- **Observatorium Samarkand** (1420) di Uzbekistan 
 - **Observatorium Istanbul** (1577) di Turki^3
 
 Di observatorium-observatorium ini, astronom Muslim menggunakan instrumen-instrumen optik dan metode observasi yang dikembangkan berdasarkan prinsip-prinsip Ibn al-Haytham.^4
@@ -301,7 +301,7 @@ Ibn al-Haytham menunjukkan bahwa pencarian kebenaran ilmiah tidak bertentangan d
 > *"Dan orang-orang yang diberi ilmu meyakini bahwa Al Quran yang diturunkan kepadamu dari Tuhanmu itulah yang benar dan menunjuki kepada jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji."* ﴾6﴿
 > — QS. Saba (34): 6^3
 
-Bagi Ibn al-Haytham, mempelajari hukum-hukum alam adalah cara untuk mengenal keagungan Sang Pencipta.^1 Pendekatan ini menunjukkan bahwa sains dan spiritualitas dapat berjalan seiring, bukan saling bertentangan.^4^13
+Bagi Ibn al-Haytham, mempelajari hukum-hukum alam adalah cara untuk mengenal keagungan Sang Pencipta.^1 Pendekatan ini menunjukkan bahwa sains dan spiritualitas dapat berjalan seiring, bukan saling bertentangan.^4^10
 
 ### Warisan untuk Peradaban Global
 
@@ -318,7 +318,7 @@ Ibn al-Haytham meninggalkan warisan yang melampaui batas-batas peradaban dan aga
 > *"Sesungguhnya yang takut kepada Allah di antara hamba-hamba-Nya, hanyalah ulama. Sesungguhnya Allah Maha Perkasa lagi Maha Pengampun."* ﴾28﴿
 > — QS. Fatir (35): 28^3
 
-Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang memahami alam semesta melalui sains, semakin besar pula rasa takjubnya kepada Allah Yang Maha Pencipta.^8 Warisan spiritual ini sama pentingnya dengan warisan ilmiahnya dalam membentuk peradaban manusia.^5^13
+Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang memahami alam semesta melalui sains, semakin besar pula rasa takjubnya kepada Allah Yang Maha Pencipta.^8 Warisan spiritual ini sama pentingnya dengan warisan ilmiahnya dalam membentuk peradaban manusia.^5^10
 
 ---
 
@@ -333,7 +333,4 @@ Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang mem
 7. Saliba, George, *Islamic Science and the Making of the European Renaissance*, Cambridge: MIT Press, 2007.
 8. Polyak, Stephen, *The Retina*, Chicago: University of Chicago Press, 1941.
 9. Omar, Saleh Beshara, *Ibn al-Haytham's Optics*, Minneapolis: Bibliotheca Islamica, 1977.
-10. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
-11. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
-12. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
-13. Al-Qur'an al-Karim. QS. Saba (34): 6; QS. Fatir (35): 28.
+10. Al-Qur'an al-Karim. QS. Saba (34): 6; QS. Fatir (35): 28.

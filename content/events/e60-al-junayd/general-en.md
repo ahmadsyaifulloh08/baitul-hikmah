@@ -160,19 +160,3 @@ The **gradual training system** developed by al-Junayd became a model for order 
 8. Al-Sulami, Abu Abd al-Rahman, *Tabaqat al-Sufiyyah*, biography of al-Sari.
 9. Al-Junayd, Abu al-Qasim, *Rasa'il al-Junayd*, editor Ali Hassan Abdel-Kader, Cairo: Dar al-Ma'arif, 1988.
 10. Al-Kalabadhi, Abu Bakr, *Al-Ta'arruf li-Madhhab Ahl al-Tasawwuf*, Cairo: Maktabat al-Khanji, 1933.
-11. Smith, Margaret, *An Early Mystic of Baghdad: A Study of the Life and Teaching of Harith B. Asad al-Muhasibi*, London: Sheldon Press, 1935.
-12. Al-Muhasibi, al-Harith, *Kitab Riayat li-Huquq Allah*, Cairo: Dar al-Kutub al-Hadithah, 1970.
-13. Abu Thawr, Ibrahim ibn Khalid, references in biographical dictionaries.
-14. Abdel-Kader, Ali Hassan, *The Life, Personality and Writings of al-Junayd*, London: Luzac, 1976.
-15. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
-16. Sells, Michael A., *Early Islamic Mysticism*, New York: Paulist Press, 1996.
-17. Ernst, Carl W., *The Shambhala Guide to Sufism*, Boston: Shambhala, 1997.
-18. Karamustafa, Ahmet T., *Sufism: The Formative Period*, Berkeley: University of California Press, 2007.
-19. Green, Nile, *Sufism: A Global History*, Oxford: Wiley-Blackwell, 2012.
-20. Trimingham, J. Spencer, *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1971.
-21. Al-Jilani, Abdul Qadir, *Ghunyat al-Talibin*, references to spiritual lineage.
-22. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, references to al-Junayd.
-23. Böwering, Gerhard, *The Mystical Vision of Existence in Classical Islam*, Berlin: Walter de Gruyter, 1980.
-24. Knysh, Alexander D., *Islamic Mysticism: A Short History*, Leiden: E.J. Brill, 2000.
-25. Hoffman, Valerie J., *Sufism, Mystics, and Saints in Modern Egypt*, Columbia: University of South Carolina Press, 1995.
-26. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, references to al-Junayd's methodology.

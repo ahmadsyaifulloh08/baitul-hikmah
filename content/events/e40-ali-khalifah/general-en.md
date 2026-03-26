@@ -114,11 +114,5 @@ With Ali's martyrdom, the era of the Khulafa al-Rashidun — the four rightly gu
 ## Bibliography
 
 1. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vols. 5-6. Beirut: Dar al-Turath, 1387 AH.
-
 2. **Ibn Kathir, Abu al-Fida Ismail.** *Al-Bidayah wa al-Nihayah* (The Beginning and the End). Vols. 7-8. Beirut: Dar al-Fikr, 1986.
-
 3. **Al-Radi, al-Sharif Abu al-Hasan Muhammad.** *Nahj al-Balaghah* (The Peak of Eloquence) — a compilation of sermons, letters, and aphorisms of Ali ibn Abi Talib. Ed. Muhammad Abduh. Beirut: Dar al-Ma'rifah.
-
-4. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 3706. Riyadh: Dar al-Salam, 1999.
-
-5. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 2404. Riyadh: Dar al-Salam, 2000.

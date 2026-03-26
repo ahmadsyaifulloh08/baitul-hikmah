@@ -161,7 +161,7 @@ Although Al-Biruni was a rigorous empiricist, he did not separate science from s
 > *"We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth."* ﴾53﴿
 > — QS. Fussilat (41): 53³⁸
 
-Al-Biruni spent his life observing Allah's signs in the horizons (*fi'l-afaq*) — from astronomy to mineralogy — and within humans (*fi anfusihim*) through psychological and anthropological studies, precisely as this verse commands.³⁸ For him, the deeper the understanding of the universe, the stronger the faith in the Creator.^30
+Al-Biruni spent his life observing Allah's signs in the horizons (*fi'l-afaq*) — from astronomy to mineralogy — and within humans (*fi anfusihim*) through psychological and anthropological studies, precisely as this verse commands.³⁸ For him, the deeper the understanding of the universe, the stronger the faith in the Creator.^1
 
 ### Scientific Ethics and Social Responsibility
 
@@ -183,33 +183,4 @@ In his various works, Al-Biruni always acknowledged the contributions of his pre
 
 ## Bibliography
 
-1. Sachau, Edward C., *Alberuni's India: An Account of the Religion, Philosophy, Literature, Geography, Chronology, Astronomy, Customs, Laws and Astrology of India*.
-2. Bosworth, Clifford Edmund, *The Ghaznavids: Their Empire in Afghanistan and Eastern Iran 994-1040*.
-3. Kennedy, Edward Stewart, *The Exhaustive Treatise on Shadows by Abu al-Rayhan al-Biruni*.
-4. Al-Daffa, Ali Abdullah, *The Muslim Contribution to Mathematics*.
-5. Bulgakov, P.G., *Life and Works of Biruni*, translated by B.A. Rozenfeld.
-6. Nazim, Muhammad, *The Life and Times of Sultan Mahmud of Ghazna*.
-7. Bulliet, Richard W., *Cotton, Climate, and Camels in Early Islamic Iran*.
-8. Al-Biruni, Abu Rayhan, *Tahqiq ma li'l-Hind min Maqula*, edited by Edward Sachau.
-9. Pines, Shlomo, *The Semantic Distinction between the Terms Astronomy and Astrology according to al-Biruni*.
-10. Lawrence, Bruce B., *Shahrastani on the Indian Religions*.
-11. Ahmad, S. Maqbul, *India and the Neighbouring Territories in the Kitab nuzhat al-mushtaq fi'khtiraq al-afaq*.
-12. Friedmann, Yohanan, *Medieval Muslim Views of Indian Religions*.
-13. Berggren, J. Lennart, *Al-Biruni on the Determination of the Earth's Circumference*.
-14. Saliba, George, *Islamic Science and the Making of the European Renaissance*.
-15. Rashed, Roshdi, *Al-Biruni et la mesure de la circonference de la terre*.
-16. Nasr, Seyyed Hossein, *Science and Civilization in Islam*.
-17. Turner, Howard R., *Science in Medieval Islam: An Illustrated Introduction*.
-18. Hill, Donald R., *Islamic Science and Engineering*.
-19. King, David A., *Islamic Mathematical Astronomy*.
-20. Levey, Martin, *Early Arabic Pharmacology: An Introduction Based on Ancient and Medieval Sources*.
-21. Michot, Yahya, *Ibn Sina: Lettre au Vizir Abu Sa'd*.
-22. Pingree, David, *Sanskrit Astronomical Texts in Arabic Translation*.
-23. Endress, Gerhard, *The Language of Demonstration in the Exact Sciences*.
-24. Sezgin, Fuat, *Geschichte des arabischen Schrifttums*, Band VI: Astronomie.
-25. Said, Edward W., *Orientalism*, with special reference to Al-Biruni's methodology.
-26. Hodgson, Marshall G.S., *The Venture of Islam*, Volume 2: The Expansion of Islam in the Middle Periods.
-27. Ibn al-Qifti, *Tarikh al-Hukama*, edited by Julius Lippert.
-28. Lindberg, David C., *The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context*.
-29. Crombie, A.C., *Medieval and Early Modern Science: Science in the Later Middle Ages and Early Modern Times*.
-30. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
+1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.

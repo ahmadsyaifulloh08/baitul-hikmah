@@ -175,7 +175,7 @@ The Battle of Talas teaches several timeless lessons in statecraft, diplomacy, a
 > *"And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy."* ﴾60﴿
 > — QS. Al-Anfal (8): 60
 
-This verse reflects the philosophy applied by the Muslim-Turkic coalition at Talas. They prepared not only military strength in the form of troops and weapons, but also "steeds of war" — in Talas context, this included diplomacy with the Karluk and psychological warfare preparation that ultimately determined victory. "Terrifying the enemy" was achieved not only through battle prowess, but through comprehensive strategic thinking.^1^27
+This verse reflects the philosophy applied by the Muslim-Turkic coalition at Talas. They prepared not only military strength in the form of troops and weapons, but also "steeds of war" — in Talas context, this included diplomacy with the Karluk and psychological warfare preparation that ultimately determined victory. "Terrifying the enemy" was achieved not only through battle prowess, but through comprehensive strategic thinking.^1^3
 
 The Battle of Talas proved that **true victory** in civilizational conflicts comes from a combination of military strength, diplomatic wisdom, cultural inclusivity, and divine guidance. Its legacy transcended immediate military consequences and shaped the course of human civilization for centuries to come.^1
 
@@ -185,28 +185,4 @@ The Battle of Talas proved that **true victory** in civilizational conflicts com
 
 1. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 8, ed. Michael Jan de Goeje, Leiden: E.J. Brill, 1885.
 2. *Zizhi Tongjian* (资治通鉴), annals of Emperor Xuanzong, year 751, Beijing: Zhonghua Shuju, 1956.
-3. Golden, Peter B., *Central Asia in World History*, Oxford: Oxford University Press, 2011.
-4. Al-Baladhuri, Ahmad ibn Yahya, *Futuh al-Buldan*, ed. Philip Khuri Hitti, New York: Columbia University Press, 1916.
-5. Chavannes, Édouard, *Documents sur les Tou-kiue (Turcs) occidentaux*, Paris: Librairie d'Amérique et d'Orient, 1903.
-6. *Tang Shu* (唐书), biography of Gao Xianzhi, Beijing: Zhonghua Shuju, 1975.
-7. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, vol. 5, ed. Carl Johan Tornberg, Leiden: E.J. Brill, 1867.
-8. Needham, Joseph, *Science and Civilization in China*, vol. 5, part 6, Cambridge: Cambridge University Press, 1994.
-9. Barthold, Vasily V., *Turkestan Down to the Mongol Invasion*, London: Luzac & Co., 1928.
-10. Gibb, H.A.R., *The Arab Conquests in Central Asia*, London: Royal Asiatic Society, 1923.
-11. Grousset, René, *The Empire of the Steppes*, New Brunswick: Rutgers University Press, 1970.
-12. Al-Mas'udi, Ali ibn al-Husayn, *Muruj al-Dhahab*, vol. 4, ed. Barbier de Meynard, Paris: Imprimerie Nationale, 1865.
-13. Pritsak, Omeljan, *"The Türk Empire"*, in *The Cambridge History of Early Inner Asia*, Cambridge: Cambridge University Press, 1990.
-14. Pulleyblank, Edwin G., *The Background of the Rebellion of An Lu-shan*, London: Oxford University Press, 1955.
-15. Bulliet, Richard W., *Conversion to Islam in the Medieval Period*, Cambridge: Harvard University Press, 1979.
-16. Bloom, Jonathan M., *Paper Before Print: The History and Impact of Paper in the Islamic World*, New Haven: Yale University Press, 2001.
-17. Watson, William J., *"The Spread of Paper Technology"*, in *Technology and Culture*, vol. 14, 1973.
-18. Gutas, Dimitri, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement*, London: Routledge, 1998.
-19. Hodgson, Marshall G.S., *The Venture of Islam*, vol. 1, Chicago: University of Chicago Press, 1974.
-20. Frye, Richard N., *The History of Ancient Iran*, Munich: C.H. Beck, 1984.
-21. Morgan, David, *Medieval Persia 1040-1797*, London: Longman, 1988.
-22. Burns, Robert I., *"Paper Comes to the West"*, in *Journal of Library History*, vol. 12, 1977.
-23. Haskins, Charles Homer, *The Renaissance of the Twelfth Century*, Cambridge: Harvard University Press, 1927.
-24. Millward, James A., *Eurasian Crossroads: A History of Xinjiang*, New York: Columbia University Press, 2007.
-25. Jackson, Peter, *The Delhi Sultanate: A Political and Military History*, Cambridge: Cambridge University Press, 1999.
-26. Lapidus, Ira M., *A History of Islamic Societies*, Cambridge: Cambridge University Press, 2002.
-27. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+3. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.

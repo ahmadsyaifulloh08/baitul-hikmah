@@ -30,7 +30,7 @@ For nearly three years (616–619 CE), life in the ravine was marked by extraord
 
 **Sa'd ibn Abi Waqqas** narrated his personal experience during the boycott:
 
-> "One night I went out to relieve myself, and suddenly my foot stepped on something moist. It turned out to be a piece of dried camel hide. I picked it up, washed it, burned it until it became charcoal, then ground it and mixed it with water. I ate it, and it sustained me for three days."^1 ^0
+> "One night I went out to relieve myself, and suddenly my foot stepped on something moist. It turned out to be a piece of dried camel hide. I picked it up, washed it, burned it until it became charcoal, then ground it and mixed it with water. I ate it, and it sustained me for three days."^1 
 
 This account illustrates the severity of the famine they endured. Food could only be obtained secretly during the pilgrimage season, when visitors from outside Mecca were not bound by the boycott agreement.^1 ^1
 
@@ -50,14 +50,14 @@ Zuhayr ibn Abi Umayyah initiated the action before the Ka'bah, calling out to th
 
 ## Dialogue and Sacred Texts
 
-The boycott is connected to several important scriptural references. Regarding the suffering and patience endured, Allah the Almighty says^26:
+The boycott is connected to several important scriptural references. Regarding the suffering and patience endured, Allah the Almighty says^10:
 
 > أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا ﴿٢١٤﴾
 >
 > *"Do you think that you will enter Paradise without undergoing such trials as were experienced by the believers before you? They were afflicted with suffering and adversity, and were so shaken. ﴾214﴿"*
 > — QS. Al-Baqarah (2): 214
 
-Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you."^1 ^8 ^26
+Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you."^1 ^8 ^10
 
 ## Analysis and Lessons
 
@@ -65,7 +65,7 @@ Regarding the termites consuming the boycott charter, this event was narrated by
 
 The boycott of Shi'b Abi Talib represents one of the earliest documented forms of collective punishment (*collective sanctions*) in history. This strategy reflected the limitations of the Quraysh: they were unable to attack Banu Hashim militarily due to tribal norms, so they resorted to economic pressure and social isolation.^1 ^9
 
-From a political science perspective, the boycott demonstrates the mechanisms of social control employed by the Quraysh oligarchy. The boycott charter functioned as "emergency legislation" ratified through the consensus of tribal leaders — a form of collective legislation in a society without a formal state.^2 ^0
+From a political science perspective, the boycott demonstrates the mechanisms of social control employed by the Quraysh oligarchy. The boycott charter functioned as "emergency legislation" ratified through the consensus of tribal leaders — a form of collective legislation in a society without a formal state.^2 
 
 ### The Resilience of the Muslim Community
 
@@ -92,20 +92,4 @@ However, three years of physical suffering left serious health consequences for 
 7. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 122.
 8. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 352.
 9. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 353.
-10. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 3 (Beirut: Dar Sadir, 1968), p. 139.
-11. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 123.
-12. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 354–355.
-13. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 84.
-14. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 355–357.
-15. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 356.
-16. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 357–358.
-17. Ibn Ishaq via Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 357.
-18. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 357.
-19. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 124.
-20. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 85.
-21. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 352.
-22. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 125.
-23. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 84–85.
-24. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 125–126.
-25. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968), p. 211.
-26. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 214.^26
+10. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 214.^26

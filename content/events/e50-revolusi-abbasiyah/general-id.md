@@ -126,7 +126,7 @@ Setiap gerbang adalah mahakarya arsitektur tersendiri. **Bab Khurasan**, misalny
 
 **Sistem irigasi** yang dirancang untuk kota ini juga revolusioner. Jaringan kanal dari Sungai Tigris dibuat untuk mengalirkan air bersih ke seluruh bagian kota, dengan sistem pembuangan limbah yang terpisah — konsep sanitasi yang jauh lebih maju dibanding kota-kota Eropa pada masa itu.^11
 
-Al-Ya'qubi menggambarkan keindahan Baghdad: *"Ketika matahari terbit, cahayanya memantul dari kubah-kubah emas sehingga seluruh kota bersinar seperti permata. Ketika malam tiba, lentera-lentera minyak menciptakan konstelasi bintang di bumi."*^12
+Al-Ya'qubi menggambarkan keindahan Baghdad: *"Ketika matahari terbit, cahayanya memantul dari kubah-kubah emas sehingga seluruh kota bersinar seperti permata. Ketika malam tiba, lentera-lentera minyak menciptakan konstelasi bintang di bumi."*
 
 ### Proses Pembangunan: Mobilisasi Massal
 
@@ -134,7 +134,7 @@ Pembangunan Baghdad adalah proyek raksasa yang melibatkan **100.000 pekerja** da
 
 Arsitek dan tukang ahli didatangkan dari:
 - **Persia**: Teknologi kubah dan ornamen
-- **Bizantium**: Teknik mosaik dan kaca patri  
+- **Bizantium**: Teknik mosaik dan kaca patri 
 - **India**: Matematika arsitektur dan ukiran kayu
 - **Arab**: Kaligrafi dan desain geometris Islam^11
 
@@ -153,16 +153,16 @@ Revolusi Abbasiyah membawa transformasi fundamental dalam sistem pemerintahan Is
 **Sistem *diwan*** (departemen pemerintahan) diperluas dan diprofesionalkan:
 - ***Diwan al-Kharaj***: Menangani perpajakan dan keuangan negara
 - ***Diwan al-Jund***: Administrasi militer dan logistik
-- ***Diwan al-Barid***: Sistem pos dan komunikasi antar provinsi  
+- ***Diwan al-Barid***: Sistem pos dan komunikasi antar provinsi 
 - ***Diwan al-Mazalim***: Pengadilan keluhan rakyat terhadap pejabat
 
 Yang revolusioner, jabatan-jabatan penting mulai diisi berdasarkan **kompetensi**, bukan lagi berdasarkan silsilah kesukuan. Orang Persia, Turki, bahkan mantan budak (*mamluk*) bisa mencapai posisi tinggi jika memiliki kemampuan.^9
 
 ### Integrasi Multi-Etnis
 
-Salah satu keberhasilan terbesar Abbasiyah adalah mengintegrasikan berbagai tradisi peradaban tanpa menghilangkan identitas masing-masing. **Keluarga Barmakiyah** (Persia) menjadi wazir yang sangat berpengaruh, **Bani Munajjim** (Yahudi) mengelola astronomi dan matematika, sementara **suku-suku Arab** tetap dihormati dalam militer dan kehakiman.^13
+Salah satu keberhasilan terbesar Abbasiyah adalah mengintegrasikan berbagai tradisi peradaban tanpa menghilangkan identitas masing-masing. **Keluarga Barmakiyah** (Persia) menjadi wazir yang sangat berpengaruh, **Bani Munajjim** (Yahudi) mengelola astronomi dan matematika, sementara **suku-suku Arab** tetap dihormati dalam militer dan kehakiman.
 
-Al-Jahiz dalam *Kitab al-Bukhala'* mencatat dengan bangga: *"Di Baghdad, kamu bisa mendengar bahasa Arab, Persia, Turki, Aramia, dan Yunani dalam satu pasar. Namun semuanya bersatu dalam kalimah la ilaha illa Allah."*^13
+Al-Jahiz dalam *Kitab al-Bukhala'* mencatat dengan bangga: *"Di Baghdad, kamu bisa mendengar bahasa Arab, Persia, Turki, Aramia, dan Yunani dalam satu pasar. Namun semuanya bersatu dalam kalimah la ilaha illa Allah."*
 
 ### Sistem Ekonomi dan Perdagangan
 
@@ -176,13 +176,13 @@ Baghdad dengan cepat menjadi **pusat perdagangan dunia**. Sistem mata uang yang 
 
 Meski secara formal **Baitul Hikmah** didirikan pada masa **Harun al-Rashid** (786-809 M), fondasi intelektualnya telah diletakkan Al-Mansur melalui **kebijakan terjemahan massal**. Ia memerintahkan penerjemahan karya-karya Yunani, Persia, dan India ke bahasa Arab.^11
 
-**Gerakan Terjemahan** (*harakat al-tarjamah*) ini bukan sekadar transfer pengetahuan, tetapi **dialog peradaban** yang menghasilkan sintesis baru. Karya Aristoteles tidak hanya diterjemahkan, tetapi dikritisi dan dikembangkan oleh filosof Muslim seperti Al-Kindi dan Ibn Sina.^13
+**Gerakan Terjemahan** (*harakat al-tarjamah*) ini bukan sekadar transfer pengetahuan, tetapi **dialog peradaban** yang menghasilkan sintesis baru. Karya Aristoteles tidak hanya diterjemahkan, tetapi dikritisi dan dikembangkan oleh filosof Muslim seperti Al-Kindi dan Ibn Sina.
 
 ### Toleransi Religius dan Intelektual
 
-Berbeda dengan periode Umayyah yang relatif homogen Arab-Sunni, Baghdad Abbasiyah menjadi **melting pot** berbagai tradisi religius dan intelektual. **Kristen Nestorian** mengelola rumah sakit dan sekolah kedokteran, **Yahudi** berkontribusi dalam astronomi dan matematika, **Zoroaster** tetap mempertahankan tradisi mereka.^13
+Berbeda dengan periode Umayyah yang relatif homogen Arab-Sunni, Baghdad Abbasiyah menjadi **melting pot** berbagai tradisi religius dan intelektual. **Kristen Nestorian** mengelola rumah sakit dan sekolah kedokteran, **Yahudi** berkontribusi dalam astronomi dan matematika, **Zoroaster** tetap mempertahankan tradisi mereka.
 
-Khalifah **Al-Ma'mun** (813-833 M) bahkan mendirikan **Majlis al-Hikmah** — forum debat terbuka antara berbagai aliran teologi dan filsafat. Muslim, Kristen, Yahudi, dan Zoroaster bisa berdebat secara ilmiah tanpa takut persekusi.^13
+Khalifah **Al-Ma'mun** (813-833 M) bahkan mendirikan **Majlis al-Hikmah** — forum debat terbuka antara berbagai aliran teologi dan filsafat. Muslim, Kristen, Yahudi, dan Zoroaster bisa berdebat secara ilmiah tanpa takut persekusi.
 
 ### Revolusi Ilmu Pengetahuan
 
@@ -191,7 +191,7 @@ Era Abbasiyah menjadi **Golden Age** ilmu pengetahuan Islam:
 - **Kedokteran**: Al-Razi dan Ibn Sina menjadi dokter terbaik dunia
 - **Astronomi**: Al-Battani dan Al-Biruni memetakan langit dengan presisi tinggi
 - **Kimia**: Jabir ibn Hayyan meletakkan dasar kimia modern
-- **Geografi**: Al-Mas'udi dan Ibn Hawqal memetakan dunia yang dikenal^13
+- **Geografi**: Al-Mas'udi dan Ibn Hawqal memetakan dunia yang dikenal
 
 ## Signifikansi Sejarah Jangka Panjang
 
@@ -224,7 +224,7 @@ Sistem administrasi Abbasiyah yang mengintegrasikan tradisi Persia, Arab, dan Bi
 > *"Dan di antara tanda-tanda (kebesaran)-Nya adalah menciptakan langit dan bumi serta keberagaman bahasa dan warna kulitmu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-Ayat ini mencerminkan filosofi Abbasiyah yang merangkul keragaman sebagai tanda kebesaran Allah. Baghdad menjadi kota di mana berbagai bahasa, budaya, dan tradisi bersatu dalam satu visi peradaban yang mulia.^14
+Ayat ini mencerminkan filosofi Abbasiyah yang merangkul keragaman sebagai tanda kebesaran Allah. Baghdad menjadi kota di mana berbagai bahasa, budaya, dan tradisi bersatu dalam satu visi peradaban yang mulia.
 
 Revolusi Abbasiyah dan pendirian Baghdad menandai transformasi Islam dari gerakan yang berpusat pada satu etnis menjadi **peradaban universal** yang terbuka bagi seluruh umat manusia. Ini adalah pencapaian yang tidak hanya mengubah Timur Tengah, tetapi seluruh trajektori sejarah dunia.
 

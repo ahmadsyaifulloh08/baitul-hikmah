@@ -152,8 +152,4 @@ Prinsip-prinsip Ahmad tentang independensi ulama, sikap kritis terhadap *taqlid*
 
 ## Daftar Pustaka
 
-1. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10, Beirut: Dar Ihya' al-Turath al-'Arabi, 1988.
-2. Al-Dhahabi, Shams al-Din, *Siyar A'lam al-Nubala'*, jilid 11, Beirut: Mu'assasat al-Risalah, 1985.
-3. Abu Nu'aym al-Asbahani, *Hilyat al-Awliya'*, jilid 9, Beirut: Dar al-Kutub al-'Ilmiyyah, 1997.
-4. Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jilid 4, Beirut: Dar al-Gharb al-Islami, 2002.
-5. Ibn al-Jawzi, *Manaqib Ahmad ibn Hanbal*, Cairo: Dar Hijr, 1988.
+

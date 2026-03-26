@@ -113,7 +113,7 @@ This tragedy also teaches the importance of **unity within the same religion**.�
 > *"They will not fight you all except within fortified cities or from behind walls. Their enmity among themselves is severe."* ﴾14﴿
 > — QS. Al-Hasyr (59): 14
 
-This verse reflects the condition of the Crusaders who should have been united against a common enemy, yet instead attacked fellow Christians in Constantinople. This internal division proved the truth of Allah's words about severe enmity among themselves, which ultimately weakened their overall position.⁶^6
+This verse reflects the condition of the Crusaders who should have been united against a common enemy, yet instead attacked fellow Christians in Constantinople. This internal division proved the truth of Allah's words about severe enmity among themselves, which ultimately weakened their overall position.⁶^1
 
 The Fourth Crusade also demonstrates how **individual and group ambitions** can override collective missions. **Enrico Dandolo** and Venice exploited the financial dependence of the crusaders to achieve their own geopolitical goals. This reminds us of the importance of integrity in leadership and the dangers of excessive dependence on one party.
 
@@ -125,9 +125,4 @@ Finally, this event underscores the importance of maintaining **original objecti
 
 ## Bibliography
 
-1. Geoffroy de Villehardouin, *La Conquête de Constantinople*.
-2. Jonathan Phillips, *The Fourth Crusade and the Sack of Constantinople*.
-3. Donald E. Queller & Thomas F. Madden, *The Fourth Crusade: The Conquest of Constantinople*.
-4. Niketas Choniates, *Historia*.
-5. Robert de Clari, *The Conquest of Constantinople*.
-6. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.
+1. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.

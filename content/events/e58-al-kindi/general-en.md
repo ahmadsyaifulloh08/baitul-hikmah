@@ -91,7 +91,7 @@ Al-Kindi developed a system based on **geometric progression** to determine the 
 Al-Kindi classified diseases based on their intensity on a scale of 1-4:
 - Level 1: Minor imbalance of humors (*akhlat*)
 - Level 2: Moderate imbalance requiring intervention
-- Level 3: Serious illness requiring intensive treatment  
+- Level 3: Serious illness requiring intensive treatment 
 - Level 4: Critical illness threatening life
 
 Each disease level required medicines with corresponding mathematical strength, creating a precise dosing system.^24
@@ -238,7 +238,7 @@ In the modern era when academic specialization is increasingly narrow and knowle
 > *"And mankind have not been given of knowledge except a little."* ﴾85﴿
 > — QS. Al-Isra (17): 85
 
-Al-Kindi embodied the humility described in this verse. Despite mastering almost the entire spectrum of knowledge of his time, he always emphasized the limitations of human knowledge and the need to continue learning from all valid sources. This attitude enabled him to become a bridge between different intellectual traditions and create syntheses that enriched human civilization.^28^56
+Al-Kindi embodied the humility described in this verse. Despite mastering almost the entire spectrum of knowledge of his time, he always emphasized the limitations of human knowledge and the need to continue learning from all valid sources. This attitude enabled him to become a bridge between different intellectual traditions and create syntheses that enriched human civilization.^28^39
 
 ---
 
@@ -282,21 +282,4 @@ Al-Kindi embodied the humility described in this verse. Despite mastering almost
 36. Craig, William Lane, *The Kalam Cosmological Argument*, London: Macmillan, 1979.
 37. Rahman, Fazlur, *"The Eternity of the World and the Heavenly Bodies in Islamic Philosophy"*, in Essays on Islamic Philosophy and Science, Albany: SUNY Press, 1975.
 38. Hasse, Dag Nikolaus, *"The Soul's Faculties"*, in The Cambridge History of Medieval Philosophy, vol. 1, Cambridge University Press, 2009.
-39. Lemay, Richard, *"The Hispanic Origin of Our Present Numeral Forms"*, in Viator, vol. 8, 1977.
-40. McGrath, Sean J., *"Albertus Magnus on the Subject of Metaphysics"*, in Journal of the History of Philosophy, vol. 45, 2007.
-41. Crombie, A.C., *Robert Grosseteste and the Origins of Experimental Science*, Oxford: Clarendon Press, 1953.
-42. Hankins, James, *Plato in the Italian Renaissance*, Leiden: Brill, 1990.
-43. Farmer, S.A., *Syncretism in the West: Pico's 900 Theses*, Tempe: Medieval & Renaissance Texts & Studies, 1998.
-44. Yates, Frances A., *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, 1964.
-45. Marion, Jean-Luc, *Sur l'ontologie grise de Descartes*, Paris: Vrin, 1975.
-46. Adams, Robert Merrihew, *Leibniz: Determinist, Theist, Idealist*, Oxford University Press, 1994.
-47. Wright, Owen, *The Modal System of Arab and Persian Music*, Oxford University Press, 1978.
-48. During, Jean, *"Music and Ecstasy: The Case of the Be-Sargam"*, in The Legacy of Mediaeval Persian Sufism, London: Khaniqahi Nimatullahi Publications, 1992.
-49. Shiloah, Amnon, *"The Theory of Music in Arabic Writings"*, Munich: G. Henle Verlag, 1979.
-50. Palisca, Claude V., *"Theory, Theorists"*, in The New Grove Dictionary of Music and Musicians, London: Macmillan, 1980.
-51. Netton, Ian Richard, *Al-Farabi and His School*, London: Routledge, 1992.
-52. Rosenthal, Franz, *Knowledge Triumphant: The Concept of Knowledge in Medieval Islam*, Leiden: Brill, 1970.
-53. Hodgson, Marshall G.S., *The Venture of Islam*, Chicago: University of Chicago Press, 1974.
-54. Nasr, Seyyed Hossein, *Science and Civilization in Islam*, Cambridge: Islamic Texts Society, 1987.
-55. Sardar, Ziauddin, *Science, Technology and Development in the Muslim World*, London: Croom Helm, 1977.
-56. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.
+39. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.

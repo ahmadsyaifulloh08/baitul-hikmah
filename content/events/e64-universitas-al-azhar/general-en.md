@@ -83,13 +83,13 @@ Al-Azhar became a pioneer in integrating various branches of Islamic knowledge, 
 
 ### Center of Islamic World Learning
 
-From the 13th century, Al-Azhar began attracting students from throughout the Islamic world and became the primary reference for other Islamic educational institutions.^14 Students came not only for formal education but also for spiritual experience and networking that would benefit them throughout their lives.^2
+From the 13th century, Al-Azhar began attracting students from throughout the Islamic world and became the primary reference for other Islamic educational institutions. Students came not only for formal education but also for spiritual experience and networking that would benefit them throughout their lives.^2
 
 Al-Azhar developed a **riwaq** (dormitory) system based on regional origin to accommodate international students. Each riwaq had unique characteristics reflecting the cultural and intellectual traditions of its region of origin, including *Riwaq al-Atrak* (for Turkish and Central Asian students), *Riwaq al-Magharibah* (for North African students), and *Riwaq al-Jawiyin* (for Southeast Asian students).^10
 
 ### Great Alumni Figures
 
-**Imam al-Suyuti** (1445-1505 CE), one of Al-Azhar's greatest scholars, wrote more than 500 works in various fields of Islamic knowledge.^15 His works such as *"Tafsir al-Jalalayn"* (with al-Mahalli), *"Al-Itqan fi Ulum al-Quran"*, and *"Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah"* remain primary references today and are studied in Islamic schools worldwide.^1
+**Imam al-Suyuti** (1445-1505 CE), one of Al-Azhar's greatest scholars, wrote more than 500 works in various fields of Islamic knowledge. His works such as *"Tafsir al-Jalalayn"* (with al-Mahalli), *"Al-Itqan fi Ulum al-Quran"*, and *"Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah"* remain primary references today and are studied in Islamic schools worldwide.^1
 
 **Ibn Hajar al-Asqalani** (1372-1449 CE), though born in Damascus, completed his education at Al-Azhar and later taught there.^4 His work *"Fath al-Bari Sharh Sahih al-Bukhari"* is considered the best commentary on Sahih al-Bukhari and is still widely studied.^5
 
@@ -97,7 +97,7 @@ Al-Azhar developed a **riwaq** (dormitory) system based on regional origin to ac
 
 ### Era of Muhammad Abduh and Rashid Rida
 
-In the late 19th and early 20th centuries, Al-Azhar became the center of Islamic reform movements (*islah*) through figures like **Muhammad Abduh** (1849-1905 CE) and **Rashid Rida** (1865-1935 CE).^16 They advocated for reform in Al-Azhar's teaching methods and curriculum to make them more relevant to modern challenges without losing traditional roots.^4
+In the late 19th and early 20th centuries, Al-Azhar became the center of Islamic reform movements (*islah*) through figures like **Muhammad Abduh** (1849-1905 CE) and **Rashid Rida** (1865-1935 CE). They advocated for reform in Al-Azhar's teaching methods and curriculum to make them more relevant to modern challenges without losing traditional roots.^4
 
 **Muhammad Abduh**, who became Mufti of Egypt and later Rector of Al-Azhar, introduced several important reforms including curriculum modernization (adding mathematics, natural sciences, and foreign languages), teaching methods (introducing class systems and structured examinations), management (administrative reorganization with more modern systems), and library improvements (cataloging and digitizing ancient manuscripts).^11
 
@@ -111,7 +111,7 @@ Currently, Al-Azhar has over 450,000 students from 110 countries, making it one 
 
 ### Authority in Fatwas and Islamic Law
 
-Al-Azhar remains the primary reference for Islamic law, especially in the Shafi'i school dominant in Egypt and Southeast Asia.^17 **Dar al-Ifta** (Fatwa Institution) of Al-Azhar issues thousands of fatwas annually that are read and followed by Muslims worldwide.^2
+Al-Azhar remains the primary reference for Islamic law, especially in the Shafi'i school dominant in Egypt and Southeast Asia. **Dar al-Ifta** (Fatwa Institution) of Al-Azhar issues thousands of fatwas annually that are read and followed by Muslims worldwide.^2
 
 ### Preservation of Islamic Intellectual Heritage
 

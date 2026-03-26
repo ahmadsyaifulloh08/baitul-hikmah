@@ -48,7 +48,7 @@ One of his famous works was the solution to "Alhazen's problem" - determining th
 
 Ibn al-Haytham developed methodology that we now know as the modern scientific method.^3 He emphasized the importance of systematic observation, hypothesis formulation, and testing through controlled experiments. This approach was very different from the Greek philosophical tradition that relied more on logical deduction.
 
-In Ibn al-Haytham's own words: "Truth is sought for its own sake... Finding truth is a hard task, and the path to truth is rough."^1 This statement shows his commitment to scientific objectivity and impartial pursuit of truth.
+In Ibn al-Haytham's own words: "Truth is sought for its own sake. Finding truth is a hard task, and the path to truth is rough."^1 This statement shows his commitment to scientific objectivity and impartial pursuit of truth.
 
 ### Critique of Authority and Tradition
 
@@ -59,7 +59,7 @@ One revolutionary aspect of Ibn al-Haytham's approach was his courage to critici
 > *"And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy." ﴾6﴿*
 > — QS. Saba (34): 6^1
 
-## Influence on Western and Eastern Civilizations^1^14
+## Influence on Western and Eastern Civilizations^1^10
 
 ### Latin Translation and Influence in Europe
 
@@ -94,10 +94,4 @@ The life and work of Ibn al-Haytham teach several important lessons:
 7. Saliba, George, *Islamic Science and the Making of the European Renaissance*, Cambridge: MIT Press, 2007.
 8. Polyak, Stephen, *The Retina*, Chicago: University of Chicago Press, 1941.
 9. Omar, Saleh Beshara, *Ibn al-Haytham's Optics*, Minneapolis: Bibliotheca Islamica, 1977.
-10. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
-11. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
-12. Ibn al-Haytham, *Kitab al-Manazir*, Book I, Chapter 6.
-13. Hogendijk, Jan P., *Ibn al-Haytham's Completion of the Conics*, New York: Springer-Verlag, 1985.
-14. Al-Qur'an al-Karim. QS. Saba (34): 6.
-15. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
-16. Nasr, Seyyed Hossein, *Islamic Life and Thought*, Albany: SUNY Press, 1981.
+10. Al-Qur'an al-Karim. QS. Saba (34): 6.

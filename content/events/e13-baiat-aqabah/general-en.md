@@ -4,7 +4,7 @@
 
 After *'Am al-Huzn* (the Year of Sorrow) and the rejection at Ta'if, **Prophet Muhammad SAW** faced the reality that preaching in Mecca had reached a point of saturation. Tribal protection had been lost with the death of **Abu Talib**, and **Abu Lahab**, who succeeded him as head of Banu Hashim, had withdrawn protection from the Prophet. The situation in Mecca grew increasingly unsafe for him and his followers.^1
 
-Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2 ^23
+Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2 ^10
 
 The city of **Yathrib** (which would later become Medina) had a unique socio-political situation. It was inhabited by two large Arab tribes — **Aws** and **Khazraj** — who had been feuding for several generations. Their last war, the Battle of Bu'ath (617 CE), had exhausted both sides and created a longing for peace and leadership that could unite them.^3
 
@@ -44,7 +44,7 @@ The twelve men were:^9
 
 ### The Contents of the Pledge
 
-**Ubadah ibn al-Samit** narrated the contents of the pledge they made to Prophet Muhammad SAW. This pledge is also known as *Bay'at al-Nisa'* (the Pledge of Women) because its contents were identical to the pledge later required of women — namely, a moral and spiritual pledge without military commitment:^1 ^0
+**Ubadah ibn al-Samit** narrated the contents of the pledge they made to Prophet Muhammad SAW. This pledge is also known as *Bay'at al-Nisa'* (the Pledge of Women) because its contents were identical to the pledge later required of women — namely, a moral and spiritual pledge without military commitment:^1 
 
 The pledge comprised the following:
 
@@ -85,7 +85,7 @@ Regarding the opening of new paths for the message through new people, Allah the
 > *"Had Allah known any good in them, He would have made them hear. And if He had made them hear, they would still have turned away while they were refusing. ﴾23﴿"*
 > — QS. Al-Anfal (8): 23
 
-This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly.^1 ^5 ^23
+This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly.^1 ^5 ^10
 
 ## Analysis and Lessons
 
@@ -107,7 +107,7 @@ It is significant that the contents of the First Pledge of Aqabah were moral and
 
 ### Mus'ab as a Model of Preaching
 
-The dispatch of Mus'ab ibn Umayr to Yathrib was a brilliant strategic decision. The Prophet did not send a general or politician, but rather a gentle teacher of the Qur'an. Mus'ab's success proved that sustainable social transformation begins with education and the changing of hearts, not through force or coercion.^2 ^0
+The dispatch of Mus'ab ibn Umayr to Yathrib was a brilliant strategic decision. The Prophet did not send a general or politician, but rather a gentle teacher of the Qur'an. Mus'ab's success proved that sustainable social transformation begins with education and the changing of hearts, not through force or coercion.^2 
 
 In less than a year, Mus'ab managed to transform Yathrib from a city torn apart by tribal warfare into a base ready to receive the Prophet's emigration. This stands as one of the most impressive preaching achievements in early Islamic history.^2 ^1
 
@@ -126,20 +126,4 @@ The First Pledge of Aqabah was the seed that would eventually grow into the Hijr
 7. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 139.
 8. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 431.
 9. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 431–432; Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 3 (Beirut: Dar Sadir, 1968), p. 599.
-10. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Iman, no. 18.
-11. Al-Bukhari, *Sahih al-Bukhari*, no. 18; Muslim, *Sahih Muslim*, no. 1709.
-12. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 434.
-13. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 435–437.
-14. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 142–145.
-
-> وَلَوْ عَلِمَ اللَّهُ فِيهِمْ خَيْرًا لَأَسْمَعَهُمْ ۖ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوْا وَهُمْ مُعْرِضُونَ ﴿23﴾
->
-15. Al-Tabari, *Tafsir al-Tabari*, vol. 9 (Cairo: Dar al-Ma'arif, 1954), commentary on QS. al-Anfal: 23.
-16. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 140.
-17. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 140.
-18. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 431.
-19. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 140–141.
-20. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 434.
-21. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 141.
-22. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 145.
-23. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.
+10. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.

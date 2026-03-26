@@ -169,7 +169,7 @@ Al-Qarawiyyin's tradition of accepting students from various religious and cultu
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^6^12
+This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^6^9
 
 ## Bibliography
 
@@ -181,7 +181,4 @@ This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, enca
 6. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
 7. Nakosteen, Mehdi. *History of Islamic Origins of Western Education A.D. 800-1350*. Boulder: University of Colorado Press, 1964.
 8. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
-9. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
-10. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
-11. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
-12. Al-Qur'an al-Karim. QS. Taha (20): 114.
+9. Al-Qur'an al-Karim. QS. Taha (20): 114.

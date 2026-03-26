@@ -88,7 +88,7 @@ With al-Musta'sim's death ended the **Abbasid Caliphate** that had stood for **5
 
 ### Theological Reflection on Decline
 
-Scholars who survived the Baghdad disaster engaged in deep introspection about the theological meaning of this tragedy. They referred to Allah's word^15:
+Scholars who survived the Baghdad disaster engaged in deep introspection about the theological meaning of this tragedy. They referred to Allah's word^14:
 
 > إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ
 >
@@ -217,5 +217,4 @@ Finally, though the physical Bayt al-Hikmah was destroyed, the spirit of intelle
 11. Allsen, Thomas T. *Culture and Conquest in Mongol Eurasia*. Cambridge: Cambridge University Press, 2001.
 12. May, Timothy. *The Mongol Conquests in World History*. London: Reaktion Books, 2012.
 13. Hodgson, Marshall G.S. *The Venture of Islam, Volume 2: The Expansion of Islam in the Middle Periods*. Chicago: University of Chicago Press, 1974.
-14. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran*. New York: Columbia University Press, 2009.
-15. Al-Qur'an al-Karim. Qur'an 13:11; Qur'an 8:46.
+14. Al-Qur'an al-Karim. Qur'an 13:11; Qur'an 8:46.

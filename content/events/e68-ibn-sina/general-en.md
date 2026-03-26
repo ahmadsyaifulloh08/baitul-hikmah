@@ -45,7 +45,7 @@ He was also the first to explain the transmission of infectious diseases through
 > *"O mankind! There has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers." ﴾57﴿*
 > — QS. Yunus (10): 57^3
 
-## Contributions to Philosophy and Metaphysics^3^10
+## Contributions to Philosophy and Metaphysics^3^7
 
 ### Synthesis of Aristotelianism and Islam
 
@@ -117,19 +117,4 @@ The life and work of Ibn Sina provide several important lessons:
 4. Afnan, Soheil M., *Avicenna: His Life and Works*, London: George Allen and Unwin, 1958.
 5. Gutas, Dimitri, *Avicenna and the Aristotelian Tradition*, Leiden: Brill, 1988.
 6. Rahman, Fazlur, *Avicenna's Psychology*, Oxford: Oxford University Press, 1952.
-7. Haddad, Sami I., *History of Arab Medicine*, Beirut: Dar al-Kutub, 1975.
-8. Ullmann, Manfred, *Islamic Medicine*, Edinburgh: Edinburgh University Press, 1978.
-9. Dols, Michael W., *Medieval Islamic Medicine*, Berkeley: University of California Press, 1984.
-10. Al-Qur'an al-Karim. QS. Yunus (10): 57.
-11. Marmura, Michael E., *The Metaphysics of The Healing*, Provo: Brigham Young University Press, 2005.
-12. Davidson, Herbert A., *Alfarabi, Avicenna, and Averroes on Intellect*, Oxford: Oxford University Press, 1992.
-13. Black, Deborah L., *Logic and Aristotle's Rhetoric and Poetics*, Leiden: Brill, 1990.
-14. Rashed, Roshdi, *Encyclopedia of the History of Arabic Science*, Volume 3, London: Routledge, 1996.
-15. Wickens, G. M., *Avicenna: Scientist and Philosopher*, London: Luzac, 1952.
-16. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
-17. Siraisi, Nancy G., *Medieval and Early Renaissance Medicine*, Chicago: University of Chicago Press, 1990.
-18. Ibn al-Nafis, *Sharh Tashrih al-Qanun* (Commentary on the Anatomy of the Canon), Damascus: French Institute, 1956.
-19. Bulliet, Richard W., *The Patricians of Nishapur*, Cambridge: Harvard University Press, 1972.
-20. Pormann, Peter E., *Medieval Islamic Medicine*, Washington: Georgetown University Press, 2007.
-21. Savage-Smith, Emilie, *Islamic Medical Manuscripts*, London: Wellcome Institute, 1985.
-22. Saliba, George, *Islamic Science and the Making of the European Renaissance*, Cambridge: MIT Press, 2007.
+7. Al-Qur'an al-Karim. QS. Yunus (10): 57.

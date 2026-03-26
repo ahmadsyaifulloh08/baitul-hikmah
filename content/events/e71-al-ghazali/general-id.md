@@ -59,7 +59,7 @@ Dalam mukadimah karyanya, al-Ghazali menjelaskan tujuan penulisan dengan menguti
 > *"Dan tidaklah Kami mengutus engkau (Muhammad), kecuali sebagai rahmat bagi seluruh alam. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107
 
-Ayat ini menginspirasi al-Ghazali untuk menjadikan karyanya sebagai rahmat bagi umat Islam dengan menghidupkan kembali ilmu-ilmu agama yang hakiki, yaitu ilmu yang tidak hanya mengisi otak tetapi juga menyucikan hati.²^5
+Ayat ini menginspirasi al-Ghazali untuk menjadikan karyanya sebagai rahmat bagi umat Islam dengan menghidupkan kembali ilmu-ilmu agama yang hakiki, yaitu ilmu yang tidak hanya mengisi otak tetapi juga menyucikan hati.²^1
 
 ## Metodologi dan Pendekatan Inovatif
 
@@ -131,8 +131,4 @@ Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang men
 
 ## Daftar Pustaka
 
-1. Al-Ghazali, Abu Hamid Muhammad, *Ihya Ulum al-Din*, 4 jilid, Beirut: Dar al-Ma'rifah, 2010.
-2. Watt, W. Montgomery, *Muslim Intellectual: A Study of al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
-3. Nakamura, Kojiro, *Ghazali and Prayer in the Ihya*, Tokyo: Keio Institute of Cultural and Linguistic Studies, 1992.
-4. Frank, Richard M., *Al-Ghazali and the Ash'arite School*, Durham: Duke University Press, 1994.
-5. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.
+1. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.

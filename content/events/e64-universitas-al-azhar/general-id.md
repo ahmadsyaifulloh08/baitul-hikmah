@@ -205,7 +205,7 @@ Kurikulum Al-Azhar dirancang secara holistik dengan prinsip bahwa semua ilmu pad
 
 ### Pusat Keilmuan Dunia Islam
 
-Sejak abad ke-13, Al-Azhar mulai menarik mahasiswa dari seluruh dunia Islam dan bahkan menjadi rujukan utama bagi institusi-institusi pendidikan Islam lainnya.^14 Reputasi Al-Azhar menyebar melalui jaringan perdagangan, jamaah haji, dan korespondensi intelektual antar ulama.^6
+Sejak abad ke-13, Al-Azhar mulai menarik mahasiswa dari seluruh dunia Islam dan bahkan menjadi rujukan utama bagi institusi-institusi pendidikan Islam lainnya. Reputasi Al-Azhar menyebar melalui jaringan perdagangan, jamaah haji, dan korespondensi intelektual antar ulama.^6
 
 Para pelajar yang datang ke Al-Azhar tidak hanya mencari pendidikan formal, tetapi juga pengalaman spiritual dan jaringan (*networking*) yang akan bermanfaat sepanjang hidup mereka.^2 Al-Azhar menjadi semacam "Harvard-nya dunia Islam" — tempat di mana elit intelektual Muslim ditempa dan jaringan global dibentuk.^9
 
@@ -225,7 +225,7 @@ Sistem ini tidak hanya memberikan rasa kebersamaan berdasarkan asal daerah, teta
 
 Al-Azhar telah menghasilkan ribuan ulama yang kemudian menjadi tokoh berpengaruh di daerah asal mereka.^11 Beberapa di antaranya yang paling terkenal:
 
-**Imam al-Suyuti** (1445-1505 M), salah satu ulama terbesar Al-Azhar, menulis lebih dari 500 karya dalam berbagai bidang ilmu Islam.^15 Karya-karyanya seperti *"Tafsir al-Jalalayn"* (bersama al-Mahalli), *"Al-Itqan fi Ulum al-Quran"*, dan *"Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah"* menjadi rujukan utama hingga kini dan dipelajari di pesantren-pesantren di seluruh dunia.^1
+**Imam al-Suyuti** (1445-1505 M), salah satu ulama terbesar Al-Azhar, menulis lebih dari 500 karya dalam berbagai bidang ilmu Islam. Karya-karyanya seperti *"Tafsir al-Jalalayn"* (bersama al-Mahalli), *"Al-Itqan fi Ulum al-Quran"*, dan *"Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah"* menjadi rujukan utama hingga kini dan dipelajari di pesantren-pesantren di seluruh dunia.^1
 
 **Ibn Hajar al-Asqalani** (1372-1449 M), meskipun lahir di Damaskus, menyelesaikan pendidikannya di Al-Azhar dan kemudian mengajar di sana.^4 Karyanya *"Fath al-Bari Syarh Sahih al-Bukhari"* dianggap sebagai syarah terbaik untuk Sahih al-Bukhari dan masih dipelajari secara luas.^5
 
@@ -249,7 +249,7 @@ Di Afrika, alumni Al-Azhar memainkan peran penting dalam penyebaran Islam dan pe
 
 ### Era Muhammad Abduh dan Rasyid Ridha
 
-Pada akhir abad ke-19 dan awal abad ke-20, Al-Azhar menjadi pusat gerakan pembaruan Islam (*islah*) melalui tokoh-tokoh seperti **Muhammad Abduh** (1849-1905 M) dan **Rasyid Ridha** (1865-1935 M).^16 Mereka mengadvokasi pembaruan metode pengajaran dan kurikulum Al-Azhar agar lebih relevan dengan tantangan zaman modern tanpa kehilangan akar tradisinya.^4
+Pada akhir abad ke-19 dan awal abad ke-20, Al-Azhar menjadi pusat gerakan pembaruan Islam (*islah*) melalui tokoh-tokoh seperti **Muhammad Abduh** (1849-1905 M) dan **Rasyid Ridha** (1865-1935 M). Mereka mengadvokasi pembaruan metode pengajaran dan kurikulum Al-Azhar agar lebih relevan dengan tantangan zaman modern tanpa kehilangan akar tradisinya.^4
 
 **Muhammad Abduh**, yang menjadi Mufti Mesir dan kemudian Rektor Al-Azhar, memperkenalkan beberapa reformasi penting:^5
 - **Modernisasi kurikulum**: Menambahkan matematika, ilmu pengetahuan alam, dan bahasa asing
@@ -281,7 +281,7 @@ Saat ini, Al-Azhar memiliki lebih dari 450.000 mahasiswa dari 110 negara, menjad
 
 ### Otoritas Fatwa dan Hukum Islam
 
-Al-Azhar tetap menjadi rujukan utama dalam penetapan hukum Islam, terutama dalam mazhab Syafi'i yang dominan di Mesir dan Asia Tenggara.^17 **Dar al-Ifta** (Lembaga Fatwa) Al-Azhar mengeluarkan ribuan fatwa setiap tahun yang dibaca dan diikuti oleh Muslim di seluruh dunia.^2
+Al-Azhar tetap menjadi rujukan utama dalam penetapan hukum Islam, terutama dalam mazhab Syafi'i yang dominan di Mesir dan Asia Tenggara. **Dar al-Ifta** (Lembaga Fatwa) Al-Azhar mengeluarkan ribuan fatwa setiap tahun yang dibaca dan diikuti oleh Muslim di seluruh dunia.^2
 
 Dalam isu-isu kontemporer seperti teknologi finansial Islam (*fintech syariah*), bioteknologi, dan etika digital, fatwa-fatwa Al-Azhar sering menjadi rujukan bagi lembaga-lembaga Islam lainnya.^8 Otoritas ini dibangun atas reputasi seribu tahun sebagai pusat keilmuan Islam yang kredibel dan moderat.^3
 

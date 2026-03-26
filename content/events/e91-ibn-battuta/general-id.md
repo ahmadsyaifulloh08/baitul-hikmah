@@ -121,7 +121,7 @@ Perjalanan Ibn Battuta mengajarkan beberapa nilai penting:
 > *"Dan di antara tanda-tanda kekuasaan-Nya ialah menciptakan langit dan bumi dan berlain-lainan bahasamu dan warna kulitmu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-Ayat ini mencerminkan semangat Ibn Battuta dalam mengeksplorasi dan mengapresiasi keragaman ciptaan Allah.^7
+Ayat ini mencerminkan semangat Ibn Battuta dalam mengeksplorasi dan mengapresiasi keragaman ciptaan Allah.^6
 
 ---
 
@@ -134,5 +134,4 @@ Ayat ini mencerminkan semangat Ibn Battuta dalam mengeksplorasi dan mengapresias
 3. David Waines, *The Odyssey of Ibn Battuta: Uncommon Tales of a Medieval Adventurer*, London: I.B. Tauris, 2010.
 4. Nehru Prabhakar, *Ibn Battuta's India*, New Delhi: National Book Trust, 2005.
 5. Sen, Tansen, *The Formation of Chinese Maritime Customs*, Leiden: Brill, 2009.
-6. Jackson, Peter, *The Mongols and the West*, London: Pearson Longman, 2005.
-7. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.
+6. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

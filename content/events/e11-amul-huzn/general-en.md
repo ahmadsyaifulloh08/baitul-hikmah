@@ -18,7 +18,7 @@ Abu Talib's relationship with his nephew is one of the most touching narratives 
 
 Ibn Hisham narrated that when Abu Talib fell gravely ill, Prophet Muhammad SAW visited him and earnestly pleaded with his uncle to utter the testimony of faith. At Abu Talib's bedside were also **Abu Jahl** and **Abdullah ibn Abi Umayyah**, who continuously urged Abu Talib to remain upon the religion of his forefathers, Abd al-Muttalib.^6
 
-In Sahih al-Bukhari it is narrated^23:
+In Sahih al-Bukhari it is narrated^10:
 
 > قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَالِبٍ: قُلْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ. قَالَ: لَوْلاَ أَنْ تُعَيِّرَنِي قُرَيْشٌ يَقُولُونَ إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللَّهُ: إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ
 >
@@ -32,7 +32,7 @@ The verse revealed in connection with this event was:
 > *"Indeed, you (O Muhammad) do not guide whom you love, but Allah guides whom He wills, and He is most knowing of the rightly guided. ﴾56﴿"*
 > — QS. Al-Qasas (28): 56
 
-Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^7 ^23
+Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^7 ^10
 
 ### The Death of Khadijah bint Khuwaylid
 
@@ -42,7 +42,7 @@ Khadijah was far more than a wife. She was the first person to believe in Muhamm
 
 Ibn Hisham narrated Khadijah's words:
 
-"Rejoice, O son of my uncle! Be steadfast! By Allah, Allah will never humiliate you. Indeed, you maintain the ties of kinship, bear the burdens of others, provide for the destitute, honor your guests, and assist those afflicted by calamity."^1 ^0
+"Rejoice, O son of my uncle! Be steadfast! By Allah, Allah will never humiliate you. Indeed, you maintain the ties of kinship, bear the burdens of others, provide for the destitute, honor your guests, and assist those afflicted by calamity."^1 
 
 Khadijah was also the primary economic supporter of the Islamic mission in its earliest days. As a successful businesswoman before her marriage to Muhammad, her wealth was used to fund the struggle of preaching and to sustain the lives of persecuted Muslims.^1 ^1
 
@@ -81,7 +81,7 @@ It was in this state of anguish that Allah the Almighty sent consolation through
 > *"Did He not find you an orphan and give you refuge? ﴾6﴿ And He found you lost and guided you. ﴾7﴿ And He found you in need and made you self-sufficient. ﴾8﴿"*
 > — QS. Al-Duha (93): 6–8
 
-These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^7 ^23
+These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^7 ^10
 
 ## Analysis and Lessons
 
@@ -95,7 +95,7 @@ Khadijah's death highlights how central the role of women was in Islamic history
 
 ### Trial Before Bestowal
 
-In the Islamic tradition of faith, *'Am al-Huzn* is understood as a severe trial preceding a great gift. After this year of sorrow, Allah bestowed upon Prophet Muhammad SAW the event of Isra' Mi'raj — the night journey that elevated him beyond the seven heavens. This pattern — severe trial followed by magnificent grace — is one of the central themes in the prophetic narrative.^2 ^0
+In the Islamic tradition of faith, *'Am al-Huzn* is understood as a severe trial preceding a great gift. After this year of sorrow, Allah bestowed upon Prophet Muhammad SAW the event of Isra' Mi'raj — the night journey that elevated him beyond the seven heavens. This pattern — severe trial followed by magnificent grace — is one of the central themes in the prophetic narrative.^2 
 
 ### The Journey to Ta'if
 
@@ -114,17 +114,4 @@ The Ta'if episode added another layer of suffering atop *'Am al-Huzn*, yet it al
 7. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 122.
 8. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 418.
 9. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Wahy, no. 3.
-10. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 238.
-11. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 71–72.
-12. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 128.
-13. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 419.
-14. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 123.
-15. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 129.
-16. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1, p. 212.
-17. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 130.
-18. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 124.
-19. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 71.
-20. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 131.
-21. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 419–421.
-22. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 135–136.
-23. Al-Qur'an al-Karim. QS. Al-Qasas (28): 56; QS. Al-Duha (93): 6–8.^23
+10. Al-Qur'an al-Karim. QS. Al-Qasas (28): 56; QS. Al-Duha (93): 6–8.^23

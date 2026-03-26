@@ -67,13 +67,13 @@ Dinasti Ayyubiyah meninggalkan jejak arsitektural yang menakjubkan di seluruh wi
 
 Di Kairo, Salahuddin membangun **Benteng Kairo** (*Qal'at al-Jabal*) yang menjadi simbol kekuasaan Ayyubiyah di Mesir. Benteng ini tidak hanya berfungsi sebagai istana, tetapi juga sebagai kompleks administratif, militer, dan religius. Masjid Muhammad Ali yang terkenal saat ini dibangun di atas fondasi masjid Ayyubiyah yang asli.^12
 
-**Arsitektur sipil** Ayyubiyah juga mencakup pembangunan *bimaristan* (rumah sakit), *khan* (karavanserai), dan *hammam* (pemandian umum) di berbagai kota. Bimaristan al-Nuri di Damaskus dan Bimaristan al-Mu'ayyadi di Kairo menjadi model rumah sakit modern dengan sistem pavilun, apotek, dan perpustakaan medis.^13
+**Arsitektur sipil** Ayyubiyah juga mencakup pembangunan *bimaristan* (rumah sakit), *khan* (karavanserai), dan *hammam* (pemandian umum) di berbagai kota. Bimaristan al-Nuri di Damaskus dan Bimaristan al-Mu'ayyadi di Kairo menjadi model rumah sakit modern dengan sistem pavilun, apotek, dan perpustakaan medis.
 
-**Seni dekoratif** periode Ayyubiyah menunjukkan perkembangan yang signifikan dalam kaligrafi, *mihrab* keramik, dan ukiran kayu. *Mihrab* masjid al-Salahiyyah di Damaskus dengan hiasan kaligrafi Kufi berwarna biru-putih menjadi inspirasi bagi seni Islam di periode selanjutnya.^14
+**Seni dekoratif** periode Ayyubiyah menunjukkan perkembangan yang signifikan dalam kaligrafi, *mihrab* keramik, dan ukiran kayu. *Mihrab* masjid al-Salahiyyah di Damaskus dengan hiasan kaligrafi Kufi berwarna biru-putih menjadi inspirasi bagi seni Islam di periode selanjutnya.
 
 ## Keturunan dan Cabang-Cabang Dinasti
 
-Setelah wafat Salahuddin pada 1193 M, Dinasti Ayyubiyah terpecah menjadi beberapa cabang yang masing-masing menguasai wilayah tertentu. **Al-Afdal Ali** mewarisi Damaskus dan sebagian besar Suriah, **al-Aziz Uthman** menguasai Mesir, **al-Zahir Ghazi** mendapat Aleppo, dan **al-Adil Sayf al-Din** (adik Salahuddin) mengendalikan wilayah Mesopotamia.^15
+Setelah wafat Salahuddin pada 1193 M, Dinasti Ayyubiyah terpecah menjadi beberapa cabang yang masing-masing menguasai wilayah tertentu. **Al-Afdal Ali** mewarisi Damaskus dan sebagian besar Suriah, **al-Aziz Uthman** menguasai Mesir, **al-Zahir Ghazi** mendapat Aleppo, dan **al-Adil Sayf al-Din** (adik Salahuddin) mengendalikan wilayah Mesopotamia.
 
 **Cabang Mesir** di bawah al-Aziz Uthman kemudian al-Kamil menjadi yang paling kuat dan berpengaruh. Al-Kamil (memerintah 1218-1238 M) berhasil menghadapi Perang Salib Kelima dengan cemerlang dan menjalin diplomasi yang cerdik dengan Frederick II. Keturunannya memerintah Mesir hingga munculnya Mamluk pada 1250 M.^1
 
