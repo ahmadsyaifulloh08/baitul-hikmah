@@ -125,4 +125,4 @@ This verse reflects Demak's philosophy in creating harmony between Islamic value
 2. Graaf, H.J. de and Th.G.Th. Pigeaud, *De eerste Moslimse vorstendommen op Java*, The Hague: Martinus Nijhoff, 1974.
 3. Tjandrasasmita, Uka, *Majapahit dan Kedatuan-Kedatuan di Nusantara Abad XIII-XV*, Jakarta: Perpustakaan Nasional, 1981.
 4. Slamet Muljana, *Runtuhnya Kerajaan Hindu-Jawa dan Timbulnya Negara-Negara Islam di Nusantara*, Yogyakarta: LKiS, 2005.
-5. Al-Qur'an al-Karim. QS. Ar-Rum (30): 21.
+5. Al-Qur'an al-Karim. QS. An-Nahl (16): 125.

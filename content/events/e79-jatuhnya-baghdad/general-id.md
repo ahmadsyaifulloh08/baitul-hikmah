@@ -26,7 +26,7 @@ Sementara Hulagu mempersiapkan serangan dengan teliti, Baghdad berada dalam kond
 
 Sistem pertahanan Baghdad yang pernah menjadi kebanggaan Harun al-Rashid telah lama tidak dipelihara dengan baik. Tembok-tembok kota mengalami kerusakan akibat usia, dan garnisun militer sangat terbatas. Yang lebih memprihatinkan, tidak ada upaya serius untuk mempersiapkan persediaan makanan untuk menghadapi pengepungan yang berkepanjangan.^5
 
-Berbagai peringatan dari agen-agen intelijen tentang pergerakan pasukan Mongol diabaikan atau dianggap remeh. Khalifah dan penasihat-penasihatnya tampaknya tidak memahami skala ancaman yang sedang mendekat. Mereka masih berharap bahwa status Baghdad sebagai pusat keagamaan Islam akan memberikan perlindungan diplomatik, tidak menyadari bahwa Mongol tidak mengenal konsep sanctuary atau kota suci.^1
+Berbagai peringatan dari agen-agen intelijen tentang pergerakan pasukan Mongol diabaikan atau dianggap remeh. Khalifah dan penasihat-penasihatnya tampaknya tidak memahami skala ancaman yang sedang mendekat. Mereka masih berharap bahwa status Baghdad sebagai pusat keagamaan Islam akan memberikan perlindungan diplomatik, tidak menyadari bahwa Mongol tidak mengenal konsep tempat perlindungan atau kota suci.^1
 
 ## Pengepungan Baghdad
 
@@ -74,7 +74,7 @@ Karya-karya yang hilang termasuk manuskrip-manuskrip langka dalam berbagai disip
 
 ### Penghancuran Infrastruktur
 
-Selain pembunuhan massal dan penghancuran perpustakaan, Mongol juga menghancurkan infrastruktur fisik Baghdad secara sistematis. Masjid-masjid dibakar, madrasah-madrasah dihancurkan, rumah sakit dibongkar, dan yang paling devastating adalah kerusakan pada sistem irigasi yang telah beroperasi sejak zaman Babilonia.^1
+Selain pembunuhan massal dan penghancuran perpustakaan, Mongol juga menghancurkan infrastruktur fisik Baghdad secara sistematis. Masjid-masjid dibakar, madrasah-madrasah dihancurkan, rumah sakit dibongkar, dan yang paling dahsyat adalah kerusakan pada sistem irigasi yang telah beroperasi sejak zaman Babilonia.^1
 
 Sistem kanal-kanal canggih yang menghidupi pertanian Mesopotamia — warisan dari peradaban Sumeria dan Babilonia yang telah dipelihara dan dikembangkan oleh berbagai dinasti Islam — rusak parah. Beberapa kanal besar sengaja dibendung atau dialihkan untuk memudahkan serangan, sementara yang lain rusak akibat pertempuran. Kerusakan ini menyebabkan kemunduran pertanian jangka panjang yang dampaknya masih terasa berabad-abad kemudian.^4
 
@@ -133,7 +133,7 @@ Namun, sejarawan modern seperti David Morgan mempertanyakan tuduhan ini, menunju
 
 ### Para Ulama yang Tewas
 
-Di antara korban intellectual yang paling disayangkan adalah para ulama dan ilmuwan Baghdad. **Ibn al-Jawzi al-Saghir** (cucu dari Ibn al-Jawzi yang terkenal), seorang ahli hadits dan sejarawan, tewas dalam pembantaian. **Al-Ansari al-Baghdadi**, seorang astronom yang melanjutkan tradisi Baitul Hikmah, juga menjadi korban.^2
+Di antara korban intelektual yang paling disayangkan adalah para ulama dan ilmuwan Baghdad. **Ibn al-Jawzi al-Saghir** (cucu dari Ibn al-Jawzi yang terkenal), seorang ahli hadits dan sejarawan, tewas dalam pembantaian. **Al-Ansari al-Baghdadi**, seorang astronom yang melanjutkan tradisi Baitul Hikmah, juga menjadi korban.^2
 
 **Muhyi al-Din Ibn al-Arabi** yang besar telah wafat pada tahun 1240 M di Damaskus, tetapi banyak murid-muridnya di Baghdad menjadi korban. Kehilangan generasi ulama ini menciptakan kekosongan intelektual yang membutuhkan waktu berabad-abad untuk dipulihkan.^1
 
@@ -151,7 +151,7 @@ Jatuhnya Baghdad memberikan studi kasus yang tragic tentang bagaimana sebuah per
 
 ### Ironi Konversi Mongol
 
-Salah satu twist historis yang paling menarik adalah konversi banyak pemimpin Mongol ke Islam dalam dekade-dekade setelah conquest. **Berke Khan**, cucu Jenghis Khan yang memimpin Golden Horde, memeluk Islam dan bahkan berperang melawan Hulagu karena perlakuannya terhadap Baghdad. **Ghazan Khan**, penguasa Ilkhanate ketujuh, juga memeluk Islam dan berupaya memulihkan peradaban Islam di wilayahnya.^1
+Salah satu perubahan historis yang paling menarik adalah konversi banyak pemimpin Mongol ke Islam dalam dekade-dekade setelah penaklukan. **Berke Khan**, cucu Jenghis Khan yang memimpin Golden Horde, memeluk Islam dan bahkan berperang melawan Hulagu karena perlakuannya terhadap Baghdad. **Ghazan Khan**, penguasa Ilkhanate ketujuh, juga memeluk Islam dan berupaya memulihkan peradaban Islam di wilayahnya.^1
 
 Ini menunjukkan kekuatan spiritual Islam yang mampu "menaklukkan" hati para penakluknya. Seperti yang dikatakan penyair Persia:
 

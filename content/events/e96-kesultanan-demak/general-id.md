@@ -108,12 +108,12 @@ Kesultanan Demak mengajarkan pelajaran penting:
 
 **Transformasi bertahap**: Perubahan sosial yang berhasil memerlukan kesabaran dan kebijaksanaan.^1 **Kepekaan budaya**: Otoritas agama ditingkatkan dengan menghormati tradisi lokal. **Aliansi strategis**: Membangun koalisi krusial untuk keberhasilan politik.^2 **Investasi pendidikan**: Pengaruh jangka panjang memerlukan pengembangan sumber daya manusia.
 
-> وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ﴿٢١﴾
+> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ﴿١٢٥﴾
 >
-> *"Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya di antaramu rasa kasih dan sayang."* ﴾21﴿
-> — QS. Ar-Rum (30): 21
+> *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang lebih baik."* ﴾125﴿
+> — QS. An-Nahl (16): 125
 
-Ayat ini mencerminkan filosofi Demak dalam menciptakan harmoni antara nilai-nilai Islam dengan budaya lokal, membangun pernikahan tradisi yang menghasilkan peradaban yang berkelanjutan.^3
+Ayat ini mencerminkan pendekatan dakwah Wali Songo dan Kesultanan Demak yang mengutamakan hikmah dan kelembutan dalam menyebarkan Islam di Jawa — menghormati tradisi lokal sambil menanamkan nilai-nilai tauhid secara bertahap.^3
 
 ---
 
@@ -125,4 +125,4 @@ Ayat ini mencerminkan filosofi Demak dalam menciptakan harmoni antara nilai-nila
 2. Graaf, H.J. de dan Th.G.Th. Pigeaud, *De eerste Moslimse vorstendommen op Java*, The Hague: Martinus Nijhoff, 1974.
 3. Tjandrasasmita, Uka, *Majapahit dan Kedatuan-Kedatuan di Nusantara Abad XIII-XV*, Jakarta: Perpustakaan Nasional, 1981.
 4. Slamet Muljana, *Runtuhnya Kerajaan Hindu-Jawa dan Timbulnya Negara-Negara Islam di Nusantara*, Yogyakarta: LKiS, 2005.
-5. Al-Qur'an al-Karim. QS. Ar-Rum (30): 21.
+5. Al-Qur'an al-Karim. QS. An-Nahl (16): 125.
