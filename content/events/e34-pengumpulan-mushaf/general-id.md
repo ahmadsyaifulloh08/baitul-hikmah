@@ -57,7 +57,7 @@ Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin 
 
 Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid berkata:
 
-*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah: 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
+*"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah (9): 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
 
 > لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ﴿١٢٨﴾
 >
@@ -117,4 +117,4 @@ Zaid bin Tsabit tidak berlebihan ketika ia berkata bahwa memindahkan gunung lebi
 
 1. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
 3. Al-Suyuti, Jalaluddin, *Al-Itqan fi Ulum al-Quran*, jilid 1, tahqiq Muhammad Abu al-Fadhl Ibrahim (Kairo: Dar al-Turath, 1967).
-3. Al-Qur'an al-Karim. QS. Al-Taubah: 128-129, 128; QS. Al-Hijr (15): 9.
+3. Al-Qur'an al-Karim. QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9.

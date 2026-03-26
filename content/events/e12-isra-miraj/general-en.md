@@ -223,4 +223,4 @@ In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to 
 37. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 119.
 38. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 399.
 39. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 137.
-40. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1; QS. al-Najm: 13–17; QS. al-Isra': 1, 1.
+40. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.

@@ -137,6 +137,31 @@ N. Al-Qur'an al-Karim. QS. [Nama Surah 1] ([Nomor]): [Ayat]; QS. [Nama Surah 2] 
 - Di body text, setiap blockquote ayat Quran HARUS memiliki sitasi `^N` yang merujuk ke entry ini
 - Ayat yang hanya direferensikan inline (tanpa blockquote) tetap harus tercantum di entry ini
 - **WAJIB** — artikel yang punya `QS.` refs tapi TIDAK punya entry Al-Qur'an di pustaka = **REJECT**
+- **SETIAP surah HARUS ditulis lengkap**: `QS. [Nama Surah] ([Nomor]): [Ayat]` — TIDAK BOLEH terpotong
+  - ❌ `QS. Ali` → ✅ `QS. Ali Imran (3): 152`
+  - ❌ `QS. Al-Anfal` → ✅ `QS. Al-Anfal (8): 60`
+  - ❌ `QS. Maryam` → ✅ `QS. Maryam (19): 1–3`
+- **SEMUA surah yang dikutip di body HARUS tercantum di entry** — jika body kutip 2 surah, entry harus punya 2 surah
+- **1 entry only** — TIDAK BOLEH ada 2 entry Al-Qur'an al-Karim di Daftar Pustaka = **REJECT**
+
+### Card Sources — Al-Qur'an Format (WAJIB)
+
+Card di `events-database.json` juga HARUS menggunakan format lengkap:
+
+```json
+{
+  "id": "qs-al-fil-quraisy",
+  "title": "Al-Quran al-Karim",
+  "author": "QS. Al-Fil (105): 1-5, QS. Quraisy (106): 1-4",
+  "type": "quran"
+}
+```
+
+**Aturan card:**
+- `author` field HARUS mencantumkan SEMUA surah yang dikutip di artikel
+- Setiap surah di `author` HARUS format lengkap: `QS. [Nama] ([Nomor]): [Ayat]`
+- ❌ `"author": "QS. Ali"` → ✅ `"author": "QS. Ali Imran (3): 64"`
+- Card harus sinkron dengan markdown Daftar Pustaka
 - **HANYA 1 entry Al-Qur'an per artikel** — jika ada duplikat (2+ entry Al-Qur'an), hapus yang format lama dan keep yang format lengkap
 - **Nama surah TIDAK BOLEH terpotong**: ❌ `QS. Ali` → ✅ `QS. Ali Imran (3): 64` — harus lengkap dengan nomor surah dan ayat dalam parentheses
 - **Format wajib**: `Al-Qur'an al-Karim. QS. [Nama Lengkap] ([Nomor]): [Ayat]` — tanpa parentheses/nomor = REJECT

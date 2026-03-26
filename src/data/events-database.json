@@ -430,9 +430,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--ad-dhuha--al-an-",
+          "id": "qs-ad-dhuha-al-an-am-an-nisa",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ad-Dhuha, Al-An'am, An-Nisa",
+          "author": "QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10",
           "type": "quran"
         }
       ],
@@ -525,9 +525,9 @@
           "type": "hadith"
         },
         {
-          "id": "qs--quraisy",
+          "id": "qs-quraisy",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Quraisy",
+          "author": "QS. Quraisy (106): 1–4",
           "type": "quran"
         }
       ],
@@ -724,9 +724,9 @@
           "type": "hadith"
         },
         {
-          "id": "qs--al--alaq",
+          "id": "qs-al--alaq",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-'Alaq",
+          "author": "QS. Al-'Alaq (96): 1–5",
           "type": "quran"
         }
       ],
@@ -779,9 +779,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al--alaq--al--as",
+          "id": "qs-al--ashr-al--alaq",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-'Alaq, Al-'Ashr",
+          "author": "QS. Al-'Ashr (103): 1–3; QS. Al-'Alaq (96): 1",
           "type": "quran"
         }
       ],
@@ -888,9 +888,9 @@
           "type": "hadith"
         },
         {
-          "id": "qs--al-hujurat",
+          "id": "qs-al-hujurat",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat",
+          "author": "QS. Al-Hujurat (49): 13",
           "type": "quran"
         }
       ],
@@ -946,9 +946,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--maryam",
+          "id": "qs-maryam",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Maryam",
+          "author": "QS. Maryam (19): 1–3, 30",
           "type": "quran"
         }
       ],
@@ -1003,9 +1003,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah",
+          "id": "qs-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
+          "author": "QS. Al-Baqarah (2): 214",
           "type": "quran"
         }
       ],
@@ -1068,9 +1068,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-dhuha--al-qas",
+          "id": "qs-al-qashash-al-dhuha",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Dhuha, Al-Qashash",
+          "author": "QS. Al-Qashash (28): 56; QS. Al-Dhuha (93): 6–8",
           "type": "quran"
         }
       ],
@@ -1139,9 +1139,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-isra---al-naj",
+          "id": "qs-al-najm-al-isra",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra', Al-Najm",
+          "author": "QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1",
           "type": "quran"
         }
       ],
@@ -1208,9 +1208,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anfal",
+          "id": "qs-al-anfal",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
+          "author": "QS. Al-Anfal (8): 23",
           "type": "quran"
         }
       ],
@@ -1306,9 +1306,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anfal--al-taw",
+          "id": "qs-al-anfal-yasin-al-tawbah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal, Al-Tawbah, Yasin",
+          "author": "QS. Al-Anfal (8): 30; QS. Yasin (36): 9; QS. Al-Tawbah (9): 40",
           "type": "quran"
         }
       ],
@@ -1357,9 +1357,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah",
+          "id": "qs-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
+          "author": "QS. Al-Baqarah (2): 256",
           "type": "quran"
         }
       ],
@@ -1500,9 +1500,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anfal",
+          "id": "qs-al-anfal",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
+          "author": "QS. Al-Anfal (8): 9, 10, 11, 41",
           "type": "quran"
         }
       ],
@@ -1553,9 +1553,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--ali",
+          "id": "qs-ali-imran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali",
+          "author": "QS. Ali Imran (3): 152, 165, 139",
           "type": "quran"
         }
       ],
@@ -1605,9 +1605,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-ahzab",
+          "id": "qs-al-ahzab",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Ahzab",
+          "author": "QS. Al-Ahzab (33): 9, 10",
           "type": "quran"
         }
       ],
@@ -1655,9 +1655,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-fath",
+          "id": "qs-al-fath",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fath",
+          "author": "QS. Al-Fath (48): 18, 1",
           "type": "quran"
         }
       ],
@@ -1710,9 +1710,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anbiya--ali",
+          "id": "qs-ali-imran-al-anbiya",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anbiya, Ali",
+          "author": "QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107",
           "type": "quran"
         }
       ],
@@ -1859,9 +1859,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-fath--al-isra",
+          "id": "qs-al-fath-al-isra-an-nashr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fath, Al-Isra, An-Nashr",
+          "author": "QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nashr (110): 1-2",
           "type": "quran"
         }
       ],
@@ -1910,9 +1910,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-hajj--al-isra",
+          "id": "qs-an-najm-al-isra-saba-ash-shaffat-al-hajj",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hajj, Al-Isra, An-Najm, Ash-Shaffat, Saba",
+          "author": "QS. An-Najm (53): 19-20; QS. Al-Isra (17): 81; QS. Saba (34): 49; QS. Ash-Shaffat (37): 91-93; QS. Al-Hajj (22): 26",
           "type": "quran"
         }
       ],
@@ -1961,9 +1961,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--at-taubah",
+          "id": "qs-at-taubah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. At-Taubah",
+          "author": "QS. At-Taubah (9): 25, 26",
           "type": "quran"
         }
       ],
@@ -2022,9 +2022,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--at-taubah",
+          "id": "qs-at-taubah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. At-Taubah",
+          "author": "QS. At-Taubah (9): 41, 79, 92, 49, 118",
           "type": "quran"
         }
       ],
@@ -2073,9 +2073,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah--al-h",
+          "id": "qs-an-nashr-al-hujurat-ali-imran-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah, Al-Hujurat, Ali, An-Nashr",
+          "author": "QS. An-Nashr (110): 1-3; QS. Al-Hujurat (49): 4; QS. Ali Imran (3): 61; QS. Al-Baqarah (2): 256",
           "type": "quran"
         }
       ],
@@ -2130,9 +2130,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah--al-m",
+          "id": "qs-al-baqarah-al-ma-idah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah, Al-Ma'idah",
+          "author": "QS. Al-Baqarah (2): 125; QS. Al-Ma'idah (5): 3",
           "type": "quran"
         }
       ],
@@ -2183,9 +2183,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--ali",
+          "id": "qs-ali-imran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali",
+          "author": "QS. Ali Imran (3): 144",
           "type": "quran"
         }
       ],
@@ -2281,9 +2281,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-ma-idah",
+          "id": "qs-al-ma-idah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Ma'idah",
+          "author": "QS. Al-Ma'idah (5): 54",
           "type": "quran"
         }
       ],
@@ -2334,9 +2334,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--ali",
+          "id": "qs-ali-imran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali",
+          "author": "QS. Ali Imran (3): 169",
           "type": "quran"
         }
       ],
@@ -2383,7 +2383,7 @@
         {
           "id": "qs-al-taubah-al-hijr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Taubah (9): 128-129; QS. Al-Hijr (15): 9",
+          "author": "QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9",
           "type": "quran"
         }
       ],
@@ -2433,9 +2433,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-isra",
+          "id": "qs-al-isra",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra",
+          "author": "QS. Al-Isra (17): 1",
           "type": "quran"
         }
       ],
@@ -2532,9 +2532,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anbiya",
+          "id": "qs-al-anbiya",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anbiya",
+          "author": "QS. Al-Anbiya (21): 105",
           "type": "quran"
         }
       ],
@@ -2584,9 +2584,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-isra",
+          "id": "qs-al-isra",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra",
+          "author": "QS. Al-Isra (17): 1",
           "type": "quran"
         }
       ],
@@ -2701,9 +2701,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah",
+          "id": "qs-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah",
+          "author": "QS. Al-Baqarah (2): 137",
           "type": "quran"
         }
       ],
@@ -2948,9 +2948,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--an-nisa",
+          "id": "qs-an-nisa",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nisa",
+          "author": "QS. An-Nisa (4): 75",
           "type": "quran"
         }
       ],
@@ -3047,9 +3047,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-isra--an-nisa",
+          "id": "qs-al-isra-an-nisa",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra, An-Nisa",
+          "author": "QS. Al-Isra (17): 1; QS. An-Nisa (4): 171",
           "type": "quran"
         }
       ],
@@ -3099,9 +3099,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-alaq",
+          "id": "qs-al-alaq",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Alaq",
+          "author": "QS. Al-Alaq (96): 1",
           "type": "quran"
         }
       ],
@@ -3151,9 +3151,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anfal",
+          "id": "qs-al-anfal",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal",
+          "author": "QS. Al-Anfal (8): 60",
           "type": "quran"
         }
       ],
@@ -3203,9 +3203,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--an-nisa",
+          "id": "qs-an-nisa",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nisa",
+          "author": "QS. An-Nisa (4): 75",
           "type": "quran"
         }
       ],
@@ -3255,9 +3255,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--an-nahl",
+          "id": "qs-an-nahl",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nahl",
+          "author": "QS. An-Nahl (16): 90",
           "type": "quran"
         }
       ],
@@ -4230,9 +4230,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--taha--al-mujadal",
+          "id": "qs-taha-al-mujadalah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Taha, al-Mujadalah",
+          "author": "QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
           "type": "quran"
         },
         {
@@ -4649,9 +4649,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--an-nisa",
+          "id": "qs-an-nisa",
           "title": "Al-Quran al-Karim",
-          "author": "QS. an-Nisa",
+          "author": "QS. an-Nisa (4): 11",
           "type": "quran"
         }
       ],
@@ -7532,9 +7532,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-baqarah--al-i",
+          "id": "qs-al-isra-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. al-Baqarah, al-Isra'",
+          "author": "QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
           "type": "quran"
         },
         {
@@ -8109,9 +8109,9 @@
           "type": "primary"
         },
         {
-          "id": "qs--al-anfal--ar-ra-",
+          "id": "qs-ar-ra-d-al-anfal",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal, Ar-Ra'd",
+          "author": "QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
           "type": "quran"
         },
         {
@@ -9062,7 +9062,7 @@
         {
           "id": "qs-at-taubah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. At-Taubah",
+          "author": "QS. At-Taubah (9): 108",
           "type": "quran"
         }
       ]
@@ -9112,7 +9112,7 @@
         {
           "id": "qs-thaha",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Thaha",
+          "author": "QS. Thaha (20): 114",
           "type": "quran"
         }
       ]

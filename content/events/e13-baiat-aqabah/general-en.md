@@ -142,4 +142,4 @@ The First Pledge of Aqabah was the seed that would eventually grow into the Hijr
 20. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 434.
 21. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 141.
 22. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 145.
-23. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23; QS. al-Anfal: 23.
+23. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.

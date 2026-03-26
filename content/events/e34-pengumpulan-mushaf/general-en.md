@@ -57,7 +57,7 @@ Al-Suyuti in *Al-Itqan* details the rigorous methodology that Zayd ibn Thabit em
 
 Al-Bukhari records a touching detail about this process. Zayd said:
 
-*"I found the last verses of Surah al-Tawbah — 'There has certainly come to you a messenger from among yourselves...' (QS. Al-Tawbah: 128-129) — only with Abu Khuzaymah al-Ansari, and I did not find them with anyone else. "*
+*"I found the last verses of Surah al-Tawbah — 'There has certainly come to you a messenger from among yourselves...' (QS. Al-Tawbah (9): 128-129) — only with Abu Khuzaymah al-Ansari, and I did not find them with anyone else. "*
 
 > لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ ﴿١٢٨﴾
 >
@@ -117,4 +117,4 @@ Zayd ibn Thabit was not exaggerating when he said that moving a mountain would h
 
 1. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vol. 3. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1967.
 3. Al-Suyuti, Jalaluddin, *Al-Itqan fi Ulum al-Quran*, vol. 1, ed. Muhammad Abu al-Fadl Ibrahim (Cairo: Dar al-Turath, 1967).
-3. Al-Qur'an al-Karim. QS. Al-Tawbah: 128-129, 128; QS. Al-Hijr (15): 9.
+3. Al-Qur'an al-Karim. QS. Al-Tawbah (9): 128-129, 128; QS. Al-Hijr (15): 9.
