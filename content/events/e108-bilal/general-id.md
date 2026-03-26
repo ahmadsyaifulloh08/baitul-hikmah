@@ -4,7 +4,7 @@
 
 Kisah **Bilal bin Rabbah** merupakan salah satu narasi paling kuat tentang keberanian iman dan revolusi sosial yang dibawa oleh Islam. Bilal adalah seorang budak berkulit hitam keturunan Habasyah (Ethiopia) yang dimiliki oleh **Umayyah bin Khalaf**, salah satu bangsawan Quraisy paling keras menentang Islam.^1
 
-Dalam struktur sosial Makkah pra-Islam, budak berada di strata paling bawah — mereka bukan manusia dalam arti penuh, melainkan properti yang bisa dijual, dipukul, atau dibunuh tanpa konsekuensi hukum. Islam datang dengan pesan yang secara radikal menolak hierarki ini. Ayat-ayat awal Al-Qur'an menegaskan bahwa kemuliaan manusia ditentukan oleh ketakwaan, bukan warna kulit atau status sosial.^2^7
+Dalam struktur sosial Makkah pra-Islam, budak berada di strata paling bawah — mereka bukan manusia dalam arti penuh, melainkan properti yang bisa dijual, dipukul, atau dibunuh tanpa konsekuensi hukum. Islam datang dengan pesan yang secara radikal menolak hierarki ini. Ayat-ayat awal Al-Qur'an menegaskan bahwa kemuliaan manusia ditentukan oleh ketakwaan, bukan warna kulit atau status sosial.^2 ^6
 
 Ketika Bilal memeluk Islam — kemungkinan besar pada tahun kedua atau ketiga kenabian (sekitar 612–613 M) — ia tidak sekadar mengucapkan syahadat. Ia secara sadar menolak seluruh sistem yang menjadikannya budak, dan memilih tunduk hanya kepada Allah. Keputusan ini memicu salah satu episode penyiksaan paling memilukan dalam sejarah Islam awal.^3
 
@@ -36,7 +36,7 @@ Ibn Hisham meriwayatkan bahwa Waraqah bin Naufal pernah melewati Bilal yang seda
 
 Ibn Hisham meriwayatkan bahwa Abu Bakr berkata kepada Umayyah: "Tidakkah engkau takut kepada Allah terhadap orang miskin ini?" Umayyah menjawab dengan sinis: "Kamu yang merusaknya, maka bebaskanlah dia." Abu Bakr pun membelinya dengan harga tinggi dan segera memerdekakan Bilal di jalan Allah.^2
 
-Dalam Shahih al-Bukhari, Rasulullah SAW bersabda tentang Abu Bakr^6:
+Dalam Shahih al-Bukhari, Rasulullah SAW bersabda tentang Abu Bakr:
 
 > إِنَّ أَمَنَّ النَّاسِ عَلَيَّ فِي صُحْبَتِهِ وَمَالِهِ أَبُو بَكْرٍ
 >
@@ -102,5 +102,4 @@ Pemilihan Bilal sebagai muadzin pertama adalah keputusan yang sarat makna simbol
 4. Ibn Hajar al-Asqalani, *Al-Ishabah fi Tamyiz al-Shahabah*, jilid 1 (Beirut: Dar al-Kutub al-Ilmiyyah, 1995).
 5. Ahmad bin Hanbal, *Musnad Ahmad*, jilid 5 (Kairo: Mu'assasah Qurthubah, t.t.).
 
-6. Al-Quran al-Karim, QS. Al-Hujurat.
-7. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+6. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.

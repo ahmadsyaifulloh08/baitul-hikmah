@@ -48,7 +48,7 @@ Pada fajar hari keempat, badai pasir bertiup dari arah barat — menghantam waja
 
 Selain kata-kata Rib'i bin Amir yang telah disebutkan, al-Tabari mencatat beberapa momen penting lainnya:
 
-Ketika Sa'ad bin Abi Waqqash — yang saat itu sedang sakit bisul sehingga tidak bisa menunggang kuda — memimpin pertempuran dari atas menara, ia memotivasi pasukannya dengan mengutip firman Allah:^1^4
+Ketika Sa'ad bin Abi Waqqash — yang saat itu sedang sakit bisul sehingga tidak bisa menunggang kuda — memimpin pertempuran dari atas menara, ia memotivasi pasukannya dengan mengutip firman Allah:^1
 
 > وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ﴿١٠٥﴾
 >
@@ -87,5 +87,4 @@ Pertempuran Qadisiyyah bukan sekadar kemenangan militer — ia menandai awal dar
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar al-Kitab al-Arabi, 1997.
 
-4. Al-Quran al-Karim, QS. Al-Anbiya.^5
-5. Al-Qur'an al-Karim. QS. Al-Anbiya (21): 105.
+4. Al-Qur'an al-Karim. QS. Al-Anbiya (21): 105.

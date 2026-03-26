@@ -6,7 +6,7 @@ In the months preceding his death, Prophet Muhammad ﷺ gave subtle indications 
 
 Imam al-Bukhari narrates that Abdullah ibn Abbas said: Umar ibn al-Khattab once invited me to a gathering of the veterans of Badr — though some objected due to my young age. Umar asked about the meaning of Surah An-Nasr. When the others were silent, I answered: *"It is a notification of the approaching death of the Messenger of Allah ﷺ."* Umar said: *"I know nothing of its meaning except what you have stated."*^1
 
-During Ramadan of 10 AH, the Prophet ﷺ performed *i'tikaf* (spiritual retreat) for twenty days — twice his usual ten days. He also reviewed the Quran with Jibril twice in his final year — whereas he normally reviewed it once each Ramadan. Al-Bukhari narrates that the Prophet ﷺ told his daughter **Fatimah**: *"Jibril used to review the Quran with me once every year, but this year he reviewed it twice. I can only see this as a sign that my death is near."*^1^4
+During Ramadan of 10 AH, the Prophet ﷺ performed *i'tikaf* (spiritual retreat) for twenty days — twice his usual ten days. He also reviewed the Quran with Jibril twice in his final year — whereas he normally reviewed it once each Ramadan. Al-Bukhari narrates that the Prophet ﷺ told his daughter **Fatimah**: *"Jibril used to review the Quran with me once every year, but this year he reviewed it twice. I can only see this as a sign that my death is near."*^1 ^4
 
 Fatimah wept upon hearing this. But the Prophet ﷺ then whispered to her again, and this time she smiled. When **Aisha** later asked what he had said, Fatimah revealed that the second whisper was news that she would be the foremost among the women of Paradise and the first of his family to join him.^1
 

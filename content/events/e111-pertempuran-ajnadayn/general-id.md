@@ -4,7 +4,7 @@
 
 Setelah Perang Riddah berakhir dan seluruh Jazirah Arab kembali bersatu, Khalifah **Abu Bakr as-Siddiq** mengambil keputusan strategis yang akan mengubah peta dunia: mengirim pasukan Muslim ke wilayah **Syam** (Levant) — kawasan yang meliputi Palestina, Yordania, Syria, dan Lebanon modern. Wilayah ini berada di bawah kekuasaan **Kekaisaran Romawi Timur** (Bizantium) yang dipimpin oleh Kaisar Heraklius.^1
 
-Al-Baladhuri dalam *Futuh al-Buldan* menjelaskan bahwa keputusan Abu Bakr untuk menyerang Syam bukanlah ekspansi tanpa alasan. Pertama, Rasulullah ﷺ sendiri telah mengarahkan perhatian umat Islam ke Syam — beliau mengirim ekspedisi Mu'tah (8 H) dan pasukan Usamah (11 H) ke wilayah tersebut. Kedua, beberapa kabilah Arab di perbatasan Syam yang sebelumnya menjadi sekutu Bizantium telah memeluk Islam. Ketiga, Syam memiliki kedudukan istimewa dalam Islam — disebut sebagai *al-Ardh al-Mubarakah* (tanah yang diberkahi) dalam al-Quran.^1^5
+Al-Baladhuri dalam *Futuh al-Buldan* menjelaskan bahwa keputusan Abu Bakr untuk menyerang Syam bukanlah ekspansi tanpa alasan. Pertama, Rasulullah ﷺ sendiri telah mengarahkan perhatian umat Islam ke Syam — beliau mengirim ekspedisi Mu'tah (8 H) dan pasukan Usamah (11 H) ke wilayah tersebut. Kedua, beberapa kabilah Arab di perbatasan Syam yang sebelumnya menjadi sekutu Bizantium telah memeluk Islam. Ketiga, Syam memiliki kedudukan istimewa dalam Islam — disebut sebagai *al-Ardh al-Mubarakah* (tanah yang diberkahi) dalam al-Quran.^1 ^4
 
 Abu Bakr membagi pasukan ekspedisi ke Syam menjadi empat korps utama, masing-masing ditugaskan ke wilayah berbeda:^1 ^3
 
@@ -65,7 +65,7 @@ Kemenangan di Ajnadayn membuka jalan bagi:
 
 ### Syam dalam Al-Quran dan Hadits
 
-Penaklukan Syam memiliki dimensi spiritual yang mendalam bagi kaum Muslim. Al-Quran menyebut Syam sebagai tanah yang diberkahi^4:
+Penaklukan Syam memiliki dimensi spiritual yang mendalam bagi kaum Muslim. Al-Quran menyebut Syam sebagai tanah yang diberkahi:
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
@@ -114,5 +114,4 @@ Pasukan Muslim di Ajnadayn bertempur dengan jumlah yang jauh lebih kecil melawan
 
 3. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar Shadir, 1965.
 
-4. Al-Quran al-Karim, QS. Al-Isra.
-5. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.
+4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.

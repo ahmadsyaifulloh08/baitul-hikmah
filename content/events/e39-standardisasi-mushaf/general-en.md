@@ -2,17 +2,17 @@
 
 ## Context: Diversity of Recitations and the Threat of Division
 
-After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee.^1 This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^1^5
+After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee. This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^3
 
-However, as Islamic territories expanded rapidly under Uthman's caliphate, companions scattered across various regions taught the Quran according to the *qira'at* (recitation variants) they had received directly from the Prophet ﷺ. The people of Syria followed the reading of **Ubayy ibn Ka'b**, those of Kufa followed **Abdullah ibn Mas'ud**, those of Basra followed **Abu Musa al-Ash'ari**, and so on.^2
+However, as Islamic territories expanded rapidly under Uthman's caliphate, companions scattered across various regions taught the Quran according to the *qira'at* (recitation variants) they had received directly from the Prophet ﷺ. The people of Syria followed the reading of **Ubayy ibn Ka'b**, those of Kufa followed **Abdullah ibn Mas'ud**, those of Basra followed **Abu Musa al-Ash'ari**, and so on.
 
-Imam al-Bukhari relates that the issue reached a critical point during the conquest of Armenia and Azerbaijan. **Hudhayfah ibn al-Yaman**, who led the combined forces from Syria and Iraq, witnessed sharp disputes among Muslim soldiers over the Quran's recitation. Some claimed their reading was more correct than others.^1
+Imam al-Bukhari relates that the issue reached a critical point during the conquest of Armenia and Azerbaijan. **Hudhayfah ibn al-Yaman**, who led the combined forces from Syria and Iraq, witnessed sharp disputes among Muslim soldiers over the Quran's recitation. Some claimed their reading was more correct than others.
 
 Hudhayfah immediately went to Caliph Uthman in Madinah and said urgently:
 
-*"O Commander of the Faithful, save this ummah before they differ over their Book as the Jews and Christians differed."*^1
+*"O Commander of the Faithful, save this ummah before they differ over their Book as the Jews and Christians differed."*
 
-Al-Suyuti in *Al-Itqan fi Ulum al-Quran* explains that the disagreement was not over the Quran's content — the text remained the same — but rather over dialectal variations and modes of pronunciation (*ahruf*).^2 The Prophet ﷺ himself had stated that the Quran was revealed in seven *ahruf* to accommodate the various Arab tribes.
+Al-Suyuti in *Al-Itqan fi Ulum al-Quran* explains that the disagreement was not over the Quran's content — the text remained the same — but rather over dialectal variations and modes of pronunciation (*ahruf*). The Prophet ﷺ himself had stated that the Quran was revealed in seven *ahruf* to accommodate the various Arab tribes.
 
 Yet when these variations became a source of mutual condemnation and accusations of disbelief, Uthman realized that decisive action was urgently needed.
 
@@ -20,14 +20,14 @@ Yet when these variations became a source of mutual condemnation and accusations
 
 ### Formation of the Committee
 
-Uthman acted swiftly. He requested the *mushaf* held by Hafsah bint Umar as the primary reference text, then formed a copying committee of four:^1 ^2
+Uthman acted swiftly. He requested the *mushaf* held by Hafsah bint Umar as the primary reference text, then formed a copying committee of four: 
 
 1. **Zayd ibn Thabit** — committee chairman, who had also led the first codification under Abu Bakr. He was from the Ansar of Madinah.
 2. **Abdullah ibn al-Zubayr** — from Quraysh.
 3. **Sa'id ibn al-'As** — from Quraysh, chosen because his Arabic pronunciation was considered closest to the Prophet's ﷺ.
 4. **Abd al-Rahman ibn al-Harith ibn Hisham** — from Quraysh.
 
-Imam al-Bukhari relates that Uthman instructed the three Qurayshi members:^1
+Imam al-Bukhari relates that Uthman instructed the three Qurayshi members:
 
 *"If you disagree with Zayd ibn Thabit on anything of the Quran, write it in the dialect of Quraysh, for it was revealed in their language."*
 
@@ -35,23 +35,23 @@ This instruction was linguistically significant: when differences in spelling or
 
 ### The Copying Process
 
-Ibn Abi Dawud in *Al-Masahif* provides detail on the copying process.^3 The committee worked with extreme diligence, comparing every verse against Hafsah's *mushaf* and cross-referencing it with the memorization of living Quran memorizers (*huffazh*).
+Ibn Abi Dawud in *Al-Masahif* provides detail on the copying process.^1 The committee worked with extreme diligence, comparing every verse against Hafsah's *mushaf* and cross-referencing it with the memorization of living Quran memorizers (*huffazh*).
 
-Al-Suyuti notes that the resulting *mushaf* was written without diacritical dots (*nuqat*) and without vowel marks (*tashkil* such as *fathah, kasrah, dammah*).^2 This was intentional, so that a single written text could accommodate more than one valid *qira'ah* — as long as the recitation conformed to the *rasm* (skeletal text) of the Uthmanic *mushaf*.
+Al-Suyuti notes that the resulting *mushaf* was written without diacritical dots (*nuqat*) and without vowel marks (*tashkil* such as *fathah, kasrah, dammah*). This was intentional, so that a single written text could accommodate more than one valid *qira'ah* — as long as the recitation conformed to the *rasm* (skeletal text) of the Uthmanic *mushaf*.
 
 ### Distribution and Destruction of Variant Copies
 
-Once the copying was complete, Uthman took a bold and decisive step:^1 ^2
+Once the copying was complete, Uthman took a bold and decisive step: 
 
 1. **Standard copies** were sent to major cities: Makkah, Basra, Kufa, Syria, and — according to some accounts — Yemen and Bahrain. One copy was kept in Madinah as the *mushaf al-imam* (master copy).
 2. **Each copy was accompanied by an expert reciter** (*qari'*) to teach the correct recitation according to the standard text.
 3. **All differing copies** were ordered destroyed — either by burning or washing with water — to eliminate any further source of dispute.
 
-Imam al-Bukhari narrates:^1
+Imam al-Bukhari narrates:
 
 *"Uthman sent the copies to every region and ordered that every Quranic manuscript or sheet other than the (standard) copies be burned. "*
 
-This decision was not without controversy. Abdullah ibn Mas'ud, a senior companion who possessed his own personal *mushaf* with a slightly different arrangement of chapters, initially objected.^3 However, the vast majority of companions supported Uthman's decision, recognizing the urgency of unity in Quranic recitation.
+This decision was not without controversy. Abdullah ibn Mas'ud, a senior companion who possessed his own personal *mushaf* with a slightly different arrangement of chapters, initially objected.^1 However, the vast majority of companions supported Uthman's decision, recognizing the urgency of unity in Quranic recitation.
 
 ## Key Texts and Evidence
 
@@ -62,7 +62,7 @@ The Quran itself guarantees its own preservation by Allah:
 > *"Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:^2
+Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:
 
 *"What Uthman did was unite the ummah upon a single mushaf and a single mode of the seven modes — not eliminate anything from the Quran. This was the consensus (ijma') of the companions. "*
 
@@ -90,7 +90,7 @@ The standardization was not carried out haphazardly. Several methodological prin
 
 ### An Enduring Legacy
 
-The Uthmanic *mushaf* remains the standard for Quranic text to this day. Every printed Quran in the modern world — from the Madinah edition, Cairo, Istanbul, to digital editions — traces back to the *rasm Uthmani* established in 650 CE.^2 ^3
+The Uthmanic *mushaf* remains the standard for Quranic text to this day. Every printed Quran in the modern world — from the Madinah edition, Cairo, Istanbul, to digital editions — traces back to the *rasm Uthmani* established in 650 CE. ^1
 
 Beyond a technical project, this standardization became a symbol of Muslim unity. Amid the diversity of languages, cultures, and legal schools, one thing unites all Muslims worldwide: the same *mushaf*, with the same script, originating from the initiative of a caliph who looked far into the future.
 
@@ -98,11 +98,7 @@ Beyond a technical project, this standardization became a symbol of Muslim unity
 
 ## Bibliography
 
-1. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Kitab Fada'il al-Quran, Bab Jam' al-Quran. Hadith no. 4987, 4988, 4992. Riyadh: Dar al-Salam, 1999.
+1. **Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulayman.** *Al-Masahif* (The Book of Quranic Manuscripts). Ed. Muhibb al-Din Wa'izh. Beirut: Dar al-Basha'ir al-Islamiyyah, 2002.
 
-2. **Al-Suyuti, Jalal al-Din Abd al-Rahman.** *Al-Itqan fi Ulum al-Quran* (Perfection in the Sciences of the Quran). Vol. 1, Bab Jam' al-Quran wa Tartibih. Beirut: Dar al-Kitab al-Arabi, 2008.
-
-3. **Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulayman.** *Al-Masahif* (The Book of Quranic Manuscripts). Ed. Muhibb al-Din Wa'izh. Beirut: Dar al-Basha'ir al-Islamiyyah, 2002.
-
-4. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 818 (seven ahruf). Riyadh: Dar al-Salam, 2000.
-5. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.
+2. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 818 (seven ahruf). Riyadh: Dar al-Salam, 2000.
+3. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.

@@ -8,11 +8,11 @@ Imam al-Bukhari narrated from **al-Bara' ibn 'Azib** that the Prophet Muhammad �
 
 For Muslims in Madinah, facing Bayt al-Maqdis also carried a diplomatic dimension. Madinah had a significant Jewish population, and sharing the same direction of prayer demonstrated continuity with the Abrahamic tradition. However, rather than serving as common ground, this shared *qiblah* was used by some Jewish leaders in Madinah to argue that Islam lacked theological independence — that Muhammad was merely a follower of their tradition without independent prophetic authority.^2
 
-Al-Mubarakfuri in *al-Rahiq al-Makhtum* notes that this social pressure added to the Prophet's longing for a divine command to change the *qiblah*.^2 He would frequently turn his face toward the sky, awaiting revelation — a gesture immortalized directly by the Quran.^4
+Al-Mubarakfuri in *al-Rahiq al-Makhtum* notes that this social pressure added to the Prophet's longing for a divine command to change the *qiblah*.^2 He would frequently turn his face toward the sky, awaiting revelation — a gesture immortalized directly by the Quran.^3
 
 ## The Event: The Revelation of the Qiblah Change
 
-In the middle of Rajab or Sha'ban in the second year of Hijrah (approximately February 623 CE), while the Prophet Muhammad ﷺ was leading the Zuhr prayer — some narrations mention the Asr prayer — in a mosque in Madinah, the revelation descended that would change the direction of worship for the entire Muslim community:^1 ^3
+In the middle of Rajab or Sha'ban in the second year of Hijrah (approximately February 623 CE), while the Prophet Muhammad ﷺ was leading the Zuhr prayer — some narrations mention the Asr prayer — in a mosque in Madinah, the revelation descended that would change the direction of worship for the entire Muslim community:^1 
 
 > قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ ﴿١٤٤﴾
 >
@@ -48,14 +48,14 @@ The Quran also clarified that the change of *qiblah* was a test of faith:
 > *"And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Another question arose among the Companions, one born of genuine concern: what about the prayers they had already performed facing Bayt al-Maqdis? Were their sixteen months of worship rendered void? The Quran answered gently:^3
+Another question arose among the Companions, one born of genuine concern: what about the prayers they had already performed facing Bayt al-Maqdis? Were their sixteen months of worship rendered void? The Quran answered gently:
 
 > وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ ﴿١٤٣﴾
 >
 > *"And never would Allah have caused you to lose your faith. Indeed Allah is, to the people, Kind and Merciful. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith.^3 Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted.
+Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith. Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted.
 
 ## Analysis and Lessons
 
@@ -63,13 +63,13 @@ Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse r
 
 The change of *qiblah* marked a crucial moment in the formation of the Muslim community's independent identity. While Islam could previously be perceived as a branch of the Judeo-Christian tradition, the *qiblah* change affirmed that Islam had its own spiritual center — the Ka'bah, built by Ibrahim and Ismail long before Musa and 'Isa.
 
-Ibn Kathir emphasizes that the command to face the Ka'bah was not merely a change of physical direction but a theological declaration: that Islam is the direct continuation of *millah Ibrahim* (the Abrahamic way), not a derivative of Judaism or Christianity.^3
+Ibn Kathir emphasizes that the command to face the Ka'bah was not merely a change of physical direction but a theological declaration: that Islam is the direct continuation of *millah Ibrahim* (the Abrahamic way), not a derivative of Judaism or Christianity.
 
 ### A Test of Obedience and Spiritual Flexibility
 
 The *qiblah* change was a formidable psychological test. Imagine: for over a year, you pray facing one direction with absolute conviction. Suddenly, mid-prayer, you are asked to turn 180 degrees. The response to this command became a measure of faith — distinguishing those who obeyed the Messenger without hesitation from those who questioned prophetic authority.
 
-In this context, the Quran designated the Muslim community as an *ummatan wasatan* — a balanced, moderate nation:^3
+In this context, the Quran designated the Muslim community as an *ummatan wasatan* — a balanced, moderate nation:
 
 > وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا ﴿١٤٣﴾
 >
@@ -92,5 +92,4 @@ From the perspective of *usul al-fiqh* (Islamic jurisprudence), the change of *q
 
 2. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith on the change of qiblah from Anas ibn Malik, Kitab al-Masajid wa Mawadi' al-Salah.
 
-3. **Ibn Kathir, Ismail ibn Umar.** *Tafsir al-Quran al-'Azim*. Tafsir of Surah Al-Baqarah, verses 142-150. Beirut: Dar al-Kutub al-Ilmiyyah, 1999.
-4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.
+3. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.

@@ -36,7 +36,7 @@ Puncaknya, **Musa ibn Nusayr** ditunjuk sebagai gubernur Afrika Utara dan menyel
 
 ## Dalil dan Motivasi Spiritual
 
-Penaklukan Afrika Utara digerakkan oleh semangat dakwah dan jihad yang berakar pada perintah al-Quran^5^4:
+Penaklukan Afrika Utara digerakkan oleh semangat dakwah dan jihad yang berakar pada perintah al-Quran^4:
 
 > وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ ﴿٧٥﴾
 >
@@ -71,5 +71,4 @@ Kegugutan Uqba ibn Nafi mengingatkan bahwa setiap pencapaian besar membutuhkan p
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
 
-4. Al-Quran al-Karim, QS. An-Nisa.
-5. Al-Qur'an al-Karim. QS. An-Nisa (4): 75.
+4. Al-Qur'an al-Karim. QS. An-Nisa (4): 75.

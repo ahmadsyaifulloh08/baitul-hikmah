@@ -30,7 +30,7 @@ Ini berarti *ummah* dalam konteks Piagam Madinah memiliki dua lapisan: umat Isla
 
 ### Prinsip Kebebasan Beragama
 
-Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak menjalankan agamanya masing-masing. Tidak ada pemaksaan dalam beragama.^1 ^3 Ini merupakan implementasi nyata dari prinsip al-Quran^5^4:
+Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak menjalankan agamanya masing-masing. Tidak ada pemaksaan dalam beragama.^1 ^3 Ini merupakan implementasi nyata dari prinsip al-Quran^4:
 
 > لَا إِكْرَاهَ فِي الدِّينِ ﴿٢٥٦﴾
 >
@@ -79,5 +79,4 @@ Pasal 42 menyebutkan bahwa jika terjadi perselisihan yang berpotensi menimbulkan
 
 3. **Abu Ubayd al-Qasim bin Sallam.** *Al-Amwal*. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr, 1975.
 
-4. Al-Quran al-Karim, QS. Al-Baqarah.
-5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 256.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 256.

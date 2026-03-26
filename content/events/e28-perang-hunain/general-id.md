@@ -16,7 +16,7 @@ Malik menolak nasihat Duraid, sebuah keputusan yang kelak terbukti mahal.
 
 Rasulullah ﷺ berangkat dari Makkah dengan pasukan berjumlah sekitar 12.000 orang — 10.000 pasukan yang ikut Fath Makkah ditambah 2.000 penduduk Makkah yang baru masuk Islam.^1 ^2 Ini adalah pasukan terbesar yang pernah dipimpin beliau. Jumlah yang besar ini membuat sebagian sahabat merasa percaya diri berlebihan. Seseorang bahkan berkata: *"Kita tidak akan kalah hari ini karena sedikitnya jumlah kita."*^2
 
-Al-Quran merekam sikap ini dan konsekuensinya^5^4:
+Al-Quran merekam sikap ini dan konsekuensinya^4:
 
 > لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ ﴿٢٥﴾
 >
@@ -100,5 +100,4 @@ Keputusan untuk mengangkat pengepungan Thaif menunjukkan kebijaksanaan militer y
 
 3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, bab Ghazwah Hunain.
 
-4. Al-Quran al-Karim, QS. At-Taubah.
-5. Al-Qur'an al-Karim. QS. At-Taubah (9): 25, 26.
+4. Al-Qur'an al-Karim. QS. At-Taubah (9): 25, 26.

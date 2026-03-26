@@ -1,0 +1,49 @@
+# Perang Salib VII - Louis IX Ditawan di Mesir
+
+## 🌍 Apa yang terjadi?
+
+Raja Louis IX dari Prancis, yang sangat saleh dan dermawan, memutuskan memimpin perang salib ke-7 setelah Yerusalem jatuh lagi ke tangan Muslim pada 1244. Dia bahkan menjual perhiasan mahkota untuk membiayai ekspedisi ini!
+
+Louis IX belajar dari kesalahan perang salib sebelumnya. Dia tidak mau berbagi komando dengan kardinal gereja, jadi dia sendiri yang jadi pemimpin tunggal. Strateginya sama dengan Perang Salib V: serang Mesir dulu untuk memotong kekuatan Muslim di akarnya.
+
+🎨 *Ilustrasi: Raja Louis IX yang tampan dan saleh dengan mahkota emas dan jubah biru royal berdoa di kapel sebelum berangkat perang salib. Cahaya matahari masuk melalui jendela kaca patri, menciptakan suasana sakral. Di belakangnya para ksatria Prancis bersiap. Warna dominan: biru royal, emas mahkota, putih cahaya suci, merah salib. Suasana khusyuk dan determinasi. Komposisi: Louis IX berlutut di center, altar di foreground, ksatria di background.*
+
+---
+
+## 📖 Ceritanya
+
+Pada Juni 1249, armada Louis IX dengan 15.000 tentara mendarat di Damietta. Anehnya, kota ini jatuh dengan mudah karena tentara Muslim panik dan kabur. Louis IX kira ini pertanda baik, padahal ini jebakan!
+
+Turan Shah, sultan yang baru, sengaja membiarkan Louis menguasai Damietta supaya pasukan Salib masuk lebih dalam ke Mesir dan bisa dikepung. Ketika Louis maju ke kota Mansura, dia menghadapi tentara Mamluk yang sangat tangguh.
+
+Pertempuran di Mansura jadi bencana buat pasukan Salib. Robert, adik Louis IX, memimpin serangan gegabah dan terjebak di jalan-jalan sempit kota. Banyak ksatria elit Templar dan Hospitaler tewas dalam pertempuran ini.
+
+🎨 *Ilustrasi: Pertempuran sengit di jalanan sempit Mansura dengan ksatria Prancis berarmor menghadapi tentara Mamluk yang gesit. Bangunan-bangunan khas Mesir mengapit jalan sempit. Debu dan asap pertempuran memenuhi udara. Warna dominan: abu-abu armor, coklat bangunan, merah darah, kuning debu. Suasana pertempuran urban yang chaos. Komposisi: pertempuran di center jalan sempit, bangunan mengapit kiri-kanan, asap pertempuran di atas.*
+
+---
+
+## 🌟 Pelajarannya
+
+Yang lebih buruk lagi, pasukan Louis IX kena wabah penyakit dan kelaparan karena jalur suplai terputus. Banyak tentara mati bukan karena perang, tapi karena sakit dan kelaparan. Kondisi ini memaksa Louis IX mundur ke Damietta.
+
+Tapi penarikan pasukan jadi bencana total. Tentara Mamluk menyerang dari segala arah, dan akhirnya Louis IX ditangkap bersama bangsawan Prancis lainnya pada April 1250! Seorang raja yang sangat saleh jadi tawanan di negeri Muslim.
+
+Dari penjara, Louis IX menunjukkan martabat yang luar biasa. Dia tidak memohon-mohon, tapi bernegosiasi sebagai raja terhormat. Sultan Mamluk menghormatinya dan memperlakukan dengan baik. Akhirnya Louis IX dibebaskan setelah membayar tebusan 1 juta keping emas plus mengembalikan Damietta.
+
+🎨 *Ilustrasi: Louis IX dalam penjara Mesir yang bersih tapi sederhana, duduk dengan martabat raja meski dalam belenggu. Dia sedang bernegosiasi dengan pemimpin Mamluk yang duduk berhadapan dengannya. Cahaya masuk melalui jendela berteralis. Warna dominan: coklat batu penjara, biru jubah Louis, hijau pakaian Mamluk, putih cahaya. Suasana tegang tapi bermartabat. Komposisi: kedua pemimpin berhadapan di center, jendela berteralis di background, detail penjara di foreground.*
+
+---
+
+## 🤲 Doa & Dalil
+
+Meski gagal secara militer, Louis IX justru dapat kehormatan spiritual yang luar biasa. Cara dia menghadapi kekalahan dan penderitaan di penjara menunjukkan karakter mulia seorang raja sejati. Gereja bahkan menjadikannya santo (Saint Louis).
+
+Kisah ini mengajarkan bahwa kadang kekalahan bisa jadi kebaikan tersembunyi. Allah SWT berfirman:
+
+> وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ ﴿٢١٦﴾
+>
+> *"Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu, dan boleh jadi pula kamu menyukai sesuatu, padahal ia amat buruk bagimu; Allah mengetahui, sedang kamu tidak mengetahui."* ﴾216﴿
+
+Subhanallah, bagaimana seseorang menghadapi ujian justru menunjukkan karakter sejatinya.
+
+🎨 *Ilustrasi: Louis IX setelah dibebaskan, berdiri di dermaga Acre dengan pandangan penuh hikmah. Dia sudah berubah dari seorang crusader menjadi diplomat bijaksana. Laut Mediterania membentang di belakangnya, kapal-kapal berlabuh. Matahari terbenam menciptakan cahaya emas. Warna dominan: emas matahari terbenam, biru laut, putih pakaian Louis, coklat dermaga kayu. Suasana transformasi dan kebijaksanaan. Komposisi: Louis IX di center dermaga, laut luas di background, detail pelabuhan di foreground.*

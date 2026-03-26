@@ -50,7 +50,7 @@ Zuhair bin Abi Umayyah memulai aksi di depan Ka'bah dengan berseru kepada pendud
 
 ## Dialog dan Dalil
 
-Peristiwa pemboikotan memiliki kaitan dengan beberapa dalil penting. Terkait penderitaan dan kesabaran yang dialami, Allah SWT berfirman^5:
+Peristiwa pemboikotan memiliki kaitan dengan beberapa dalil penting. Terkait penderitaan dan kesabaran yang dialami, Allah SWT berfirman:
 
 > أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا ﴿٢١٤﴾
 >
@@ -88,5 +88,4 @@ Namun, tiga tahun penderitaan fisik meninggalkan dampak kesehatan yang serius ba
 3. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra* (Beirut: Dar Shadir, 1968).
 
-5. Al-Quran al-Karim, QS. Al-Baqarah.^6
-6. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 214.
+5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 214.

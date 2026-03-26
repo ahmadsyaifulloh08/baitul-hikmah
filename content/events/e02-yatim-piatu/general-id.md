@@ -10,7 +10,7 @@ Namun terdapat riwayat lain yang menyebutkan bahwa Abdullah wafat beberapa bulan
 
 Apa yang disepakati oleh seluruh sumber adalah: Abdullah wafat di Madinah, dalam perjalanan dagang, dan meninggalkan warisan yang sangat sedikit — lima ekor unta, sekawanan kambing, dan seorang budak perempuan bernama Ummu Aiman atau Barakah.^1 ^5 Ketiadaan kekayaan material ini menandai bahwa sejak awal, Nabi Muhammad ﷺ tumbuh bukan dalam kemewahan, melainkan dalam keterbatasan.
 
-Dari sudut pandang teologis, keyatiman sejak sebelum lahir merupakan bagian dari rancangan ilahi. Sebagaimana Allah berfirman dalam Surah Ad-Dhuha^8:
+Dari sudut pandang teologis, keyatiman sejak sebelum lahir merupakan bagian dari rancangan ilahi. Sebagaimana Allah berfirman dalam Surah Ad-Dhuha:
 
 > أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ ﴿٦﴾
 >
@@ -27,7 +27,7 @@ Satu per satu, para perempuan Bani Sa'd memilih bayi dari keluarga-keluarga kaya
 
 Apa yang terjadi setelahnya digambarkan oleh Halimah sendiri — sebagaimana diriwayatkan oleh Ibn Ishaq — sebagai rangkaian keberkahan yang luar biasa.^1 Begitu bayi Muhammad berada dalam gendongannya, air susu Halimah melimpah, unta mereka yang kurus memberikan susu berlimpah, dan keledai mereka yang tadinya lemah berjalan paling depan dalam rombongan. Para perempuan lain bertanya-tanya: *"Wahai Halimah, apa yang terjadi padamu?"*
 
-Muhammad ﷺ tinggal di tengah Bani Sa'd selama kurang lebih empat hingga lima tahun.^2 Di padang pasir yang luas inilah beliau tumbuh — berlari di antara bukit-bukit pasir, menggembala kambing bersama saudara-saudara sesusuannya, dan menyerap kemurnian bahasa Arab Badui yang kelak menjadi wadah bagi wahyu al-Quran.^9
+Muhammad ﷺ tinggal di tengah Bani Sa'd selama kurang lebih empat hingga lima tahun.^2 Di padang pasir yang luas inilah beliau tumbuh — berlari di antara bukit-bukit pasir, menggembala kambing bersama saudara-saudara sesusuannya, dan menyerap kemurnian bahasa Arab Badui yang kelak menjadi wadah bagi wahyu al-Quran.^8
 
 ### Peristiwa Pembelahan Dada — *Syaqq al-Shadr*
 
@@ -158,5 +158,4 @@ Dalam menyusun kronologi ini, terdapat beberapa catatan penting mengenai perbeda
 6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
 7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad fi Hady Khair al-Ibad*, jilid 1 (Beirut: Mu'assasat al-Risalah, 1994).
 
-8. Al-Quran al-Karim, QS. Ad-Dhuha, QS. Al-An'am, QS. An-Nisa.
-9. Al-Qur'an al-Karim. QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10.
+8. Al-Qur'an al-Karim. QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10.

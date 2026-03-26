@@ -14,7 +14,7 @@ Secara teologis, Isra' Mi'raj menegaskan posisi Nabi Muhammad SAW sebagai penutu
 
 #### Pembelahan Dada (*Syaqq al-Shadr*)
 
-Menjelang peristiwa Isra', terjadi pembelahan dada Nabi Muhammad SAW oleh Malaikat **Jibril AS**. Dalam riwayat Shahih Muslim, Nabi menceritakan^7:
+Menjelang peristiwa Isra', terjadi pembelahan dada Nabi Muhammad SAW oleh Malaikat **Jibril AS**. Dalam riwayat Shahih Muslim, Nabi menceritakan:
 
 > فُرِجَ عَنْ سَقْفِ بَيْتِي وَأَنَا بِمَكَّةَ فَنَزَلَ جِبْرِيلُ فَفَرَجَ صَدْرِي ثُمَّ غَسَلَهُ بِمَاءِ زَمْزَمَ ثُمَّ جَاءَ بِطَسْتٍ مِنْ ذَهَبٍ مُمْتَلِئٍ حِكْمَةً وَإِيمَانًا فَأَفْرَغَهُ فِي صَدْرِي ثُمَّ أَطْبَقَهُ
 >
@@ -75,7 +75,7 @@ Riwayat lengkap pertemuan ini terdapat dalam Shahih al-Bukhari:
 
 Setelah melampaui langit ketujuh, Nabi Muhammad SAW mencapai *Sidratul Muntaha* — pohon bidara di batas tertinggi yang menjadi perbatasan antara alam makhluk dan keagungan Ilahi. Bahkan Jibril AS berhenti di titik ini dan berkata bahwa ia tidak mampu melanjutkan lebih jauh — jika ia melewati batas tersebut, sayapnya akan terbakar.^5
 
-Allah SWT menggambarkan Sidratul Muntaha dalam Al-Qur'an^8:
+Allah SWT menggambarkan Sidratul Muntaha dalam Al-Qur'an^7:
 
 > وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِندَ سِدْرَةِ الْمُنتَهَىٰ ﴿١٤﴾ عِندَهَا جَنَّةُ الْمَأْوَىٰ ﴿١٥﴾ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ ﴿١٦﴾ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ ﴿١٧﴾
 >
@@ -185,5 +185,4 @@ Dalam konteks kronologis sirah, Isra' Mi'raj adalah jawaban langit atas penderit
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
 
-7. Al-Quran al-Karim, QS. Al-Isra', QS. Al-Najm.
-8. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.
+7. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.

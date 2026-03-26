@@ -1,0 +1,50 @@
+# Sultan Baibars — Pengusiran Tentara Salib
+
+## 🧑 Siapa Dia?
+
+Baibars al-Bunduqdari adalah Sultan Mamluk yang menjadi pemimpin setelah Sultan Qutuz wafat pada tahun 1260 M. Dia dijuluki "Singa Mesir" karena keberaniannya dalam bertempur. Baibars bukan hanya prajurit hebat, tapi juga ahli strategi dan diplomat yang cerdas.
+
+Dia memiliki mata biru yang tajam dan selalu mempelajari musuh-musuhnya dengan teliti sebelum menyerang. Baibars punya jaringan mata-mata yang tersebar hingga ke dalam benteng-benteng musuh. Dia tidak pernah menyerang tanpa persiapan yang matang.
+
+🎨 *Ilustrasi: Portrait Sultan Baibars di atas kuda perang dengan armor Mamluk lengkap. Sosok berjanggut hitam tebal, mata biru tajam, mengenakan helm Mamluk dengan lambang singa, baju zirah perak, dan jubah biru dengan emas. Latar belakang Kairo dengan masjid dan benteng. Kuda Arab coklat dengan sadel mewah. Warna dominan: biru, emas, perak, coklat. Suasana berwibawa dan gagah. Komposisi portrait centered dengan Baibars menghadap slight angle, benteng Kairo di background.*
+
+---
+
+## ⭐ Apa yang Dilakukan?
+
+Baibars memimpin banyak pertempuran untuk mengusir Tentara Salib dari tanah Muslim. Pertempuran terbesar adalah saat merebut kota Antiokia pada 1268 M. Sebelum menyerang, dia mengirim surat kepada pangeran Tentara Salib: "Kau akan melihat prajuritmu tercabik pedang dan kotamu hancur!"
+
+Yang paling menakjubkan adalah saat Baibars merebut benteng Krak des Chevaliers, benteng terkuat Tentara Salib yang tidak pernah bisa ditaklukkan selama 160 tahun. Dia menggunakan taktik cerdik: memotong jalur makanan ke benteng dan membuat surat palsu yang memerintahkan penyerahan benteng. Setelah 36 hari, benteng itu menyerah!
+
+Baibars juga bertempur melawan Mongol dan menang di pertempuran Elbistan. Dia membuktikan bahwa kemenangan di Ain Jalut bukan keberuntungan, tapi karena kekuatan strategi Muslim yang superior.
+
+🎨 *Ilustrasi: Baibars memimpin serangan terhadap benteng Krak des Chevaliers yang megah. Pasukan Mamluk berkuda menyerang dengan busur dan panah, mesin pengepung besar menghantam dinding benteng. Baibars di depan dengan pedang teracung, bendera Mamluk berkibar. Benteng batu putih besar dengan menara tinggi. Warna dominan: abu-abu, biru, merah, emas. Suasana pertempuran epik. Komposisi wide dengan benteng di center background, Baibars dan pasukan di foreground menyerang.*
+
+---
+
+## 💡 Kenapa Luar Biasa?
+
+Baibars luar biasa karena dia berhasil mengusir Tentara Salib dari hampir seluruh wilayah Levant (Syam-Palestina) yang sudah mereka kuasai hampir 200 tahun. Dia tidak hanya mengandalkan kekuatan militer, tapi juga diplomasi cerdas dengan menjalin persahabatan dengan kaisar Bizantium dan raja-raja Eropa.
+
+Yang membuatnya istimewa adalah sistem "perang kilat" yang dia ciptakan: serang mendadak, hancurkan target, lalu mundur cepat sebelum musuh bisa meminta bantuan. Dia juga membangun sistem pos kilat yang bisa mengirim pesan dari Kairo ke Damaskus hanya dalam 4 hari - sangat cepat untuk zaman itu!
+
+Baibars membuktikan bahwa dengan persiapan matang, strategi cerdas, dan kepemimpinan yang kuat, umat Islam bisa mengalahkan musuh yang tampak lebih kuat. Dia menyelamatkan Tanah Suci dari pendudukan dan membuka jalan bagi pembebasan total Yerusalem.
+
+🎨 *Ilustrasi: Peta besar Levant di atas meja dengan Baibars dan para panglima merencanakan strategi. Benteng-benteng Tentara Salib ditandai bendera salib merah, wilayah yang sudah dibebaskan bertanda bendera Islam. Baibars menunjuk peta dengan tongkat komando. Ruang strategi dengan peta, buku, dan senjata di dinding. Warna dominan: coklat, biru, merah, hijau. Suasana serius dan strategis. Komposisi bird's eye view dengan peta di center, Baibars dan panglima di sekeliling meja.*
+
+---
+
+## 📖 Dalil
+
+Allah SWT berfirman:
+
+> إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾
+>
+> *"Sesungguhnya bersama kesulitan ada kemudahan."* ﴾6﴿
+> — QS. Al-Insyirah (94): 6
+
+Baibars menghadapi banyak kesulitan yang tampak mustahil: benteng-benteng kuat yang tidak pernah jatuh, musuh dengan teknologi canggih, dan situasi politik yang rumit. Tapi dia tidak pernah putus asa dan selalu mencari jalan keluar dengan bijak.
+
+Kisah Baibars mengajarkan kita bahwa Allah akan memberikan kemudahan bagi mereka yang berjuang dengan sungguh-sungguh di jalan-Nya. Kita harus selalu siap, belajar dari musuh, dan tidak pernah menyerah meski menghadapi tantangan besar. Dengan iman, strategi, dan kerja keras, tidak ada yang tidak mungkin.
+
+🎨 *Ilustrasi: Baibars bersujud syukur di mihrab masjid Damascus setelah kemenangan besar. Cahaya emas dari jendela masjid menyinari sosoknya yang sedang bersujud. Arsitektur masjid Umayyah dengan mihrab indah, karpet Persia merah-biru, kaligrafi Arab di dinding. Pedang dan helm diletakkan di samping. Warna dominan: emas, biru, merah, putih. Suasana khusyuk dan penuh syukur. Komposisi intimate dengan Baibars di center foreground bersujud, mihrab dan arsitektur di background.*

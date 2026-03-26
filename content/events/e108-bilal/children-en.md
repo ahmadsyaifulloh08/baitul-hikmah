@@ -1,78 +1,75 @@
 # Bilal — The Brave One 💪
 
-## 💔 A Slave in Mecca
+## 💔 A Slave Who Dared
 
-**Bilal ibn Rabbah** came from Ethiopia. He had dark skin, and in Mecca he lived as a slave. His master was **Umayyah ibn Khalaf** — a very cruel man.
+This is a story about a very brave man. His name was **Bilal ibn Rabbah**. Bilal came from Ethiopia, had dark skin, and in Mecca he lived as a slave. His master was named **Umayyah ibn Khalaf** — a very evil and cruel man.
 
-In those times, slaves were not considered fully human. They could be sold, beaten, and had no rights at all.
+In those times, slaves were not considered fully human. They could be sold, beaten, and had no rights at all. How sad, right?
 
-> **🎨 Illustration Brief:**
-> *A busy Mecca marketplace. Bilal, a dark-skinned young man, carries heavy goods while wealthy merchants pass by without looking. Harsh sunlight. Colors of sandy brown, white buildings, hot yellow. Mood oppressive yet dignified. Bilal centered, marketplace around him.*
+But when Bilal heard about Islam from **Abu Bakr**, his heart immediately trembled. Islam taught that all people are equal — no difference between rich and poor, white and black, master and slave. All are the same before Allah!
 
----
+Bilal then embraced Islam. He knew the risk was very great — his master would surely be angry. But Bilal chose the truth.
 
-## ✨ Hearing the Truth
+🎨 *Illustration: Bilal, a dark-skinned young man with bright eyes full of determination, standing upright despite his body looking tired. Behind him, a golden sunrise. Broken chains lie at his feet. Dominant colors golden sun, dark brown skin, white simple clothing. Mood full of strength and hope. Composition portrait — Bilal in center with light behind.*
 
-When Bilal heard about Islam from **Abu Bakr**, his heart was moved. Islam taught that all people are equal — no difference between rich and poor, master and slave. All are equal before Allah!
+## 🔥 A Very Heavy Trial
 
-Bilal embraced Islam. He knew his master would be furious. But Bilal chose the truth over safety.
+When Umayyah found out that Bilal had become Muslim, he was furious! Every day, when the sun was directly overhead and the desert sand was very hot, Umayyah ordered his men to lay Bilal on his back on the burning sand. Then they placed a **large stone** on his chest!
 
-> **🎨 Illustration Brief:**
-> *Abu Bakr speaking quietly to Bilal in a shadowed corner of Mecca. Bilal's eyes are wide with wonder. A beam of light falls between them. Colors of warm gold light, cool shadows, brown walls. Mood intimate and hopeful. Two figures in conversation, light between them.*
+How painful it was! His back burned from the hot sand, his chest pressed by the heavy stone, the sun blazing relentlessly.
 
----
+Umayyah shouted: "Leave Islam! Worship our idols! Only then will I release you!"
 
-## 🔥 The Hardest Test
+But do you know what Bilal said?
 
-When Umayyah found out, he was furious! Every day at noon, he ordered Bilal laid on the burning sand with a **huge boulder** on his chest.
+**"Ahad.. Ahad.."**
 
-Umayyah screamed: "Leave Islam!" But Bilal only said: **"Ahad.. Ahad.."** — "The One.. The One.." In terrible pain, he never gave up.
+Meaning: **"The One.. The One.."**
 
-> **🎨 Illustration Brief:**
-> *Scorching desert under midday sun. Bilal lies with a massive boulder on his chest, face turned toward the sky. His mouth open, uttering "Ahad." From his mouth, golden light rises. The shadow of Umayyah looms nearby. Colors of hot orange, red, gold. Mood of suffering yet unbreakable strength.*
+Only that one word! In the midst of extraordinary pain, Bilal did not cry for mercy, did not give up, did not deny Allah. He kept saying: "Ahad.. Ahad.." — Allah is One, and nothing can force me to worship besides Him!
 
----
+Subhanallah, how strong was Bilal's faith!
 
-## 🤝 Abu Bakr the Rescuer
+🎨 *Illustration: Scorching desert sand under the midday sun. Bilal lies with a large stone on his chest, face toward the sky. His mouth slightly open, uttering something. From his mouth comes golden calligraphy "Ahad" rising to the sky. Beside him, the dark shadow of Umayyah stands towering. Hot colors: orange, red, gold. Mood full of suffering but also strength. Composition horizontal — Bilal lying down, calligraphy rising upward.*
 
-News of the torture reached **Abu Bakr al-Siddiq**. He went to Umayyah: "Do you not fear Allah?" Umayyah sneered: "Buy him yourself!"
+## 🤝 Abu Bakr the Helper
 
-So Abu Bakr bought Bilal for a high price — and **set him free**! He also freed seven other tortured slaves with his own money.
+News of Bilal's torture reached **Abu Bakr al-Siddiq** — the best friend of Prophet Muhammad SAW. Abu Bakr was a wealthy man who was very generous. His heart ached hearing of Bilal's torture.
 
-> **🎨 Illustration Brief:**
-> *Abu Bakr extends his hand to Bilal, who kneels in the sand. Bilal lifts his face with tears in his eyes. Broken chains lie in the sand. Warm afternoon light. Colors of golden evening, brown sand, white clothing. Mood full of emotion and kindness. Two-figure composition — Abu Bakr standing, Bilal reaching up.*
+Abu Bakr went to Umayyah and said: "Do you not fear Allah? Release this man!"
 
----
+Umayyah answered arrogantly: "You're the one who corrupted him. If you want, just buy him!"
 
-## 🕌 The Voice of Medina
+So Abu Bakr bought Bilal at a very high price — then **freed him**! Bilal was no longer a slave. Bilal was a free man!
 
-After the Muslims moved to Medina, Prophet Muhammad SAW built a mosque. He chose **Bilal** to call the people to prayer!
+Abu Bakr did not only free Bilal. He also freed seven other slaves who were tortured for becoming Muslim. All with his own money. How noble Abu Bakr was!
 
-The man who was once a slave now stood at the highest point in Medina. His beautiful voice echoed across the city: **"Allahu Akbar, Allahu Akbar.."**
+🎨 *Illustration: Abu Bakr extends his hand to Bilal who kneels in the sand. Bilal lifts his face with tearful eyes, accepting the outstretched hand. Broken chains lie scattered in the sand. Warm evening light envelops them both. Dominant colors golden evening, brown sand, white clothing of Abu Bakr. Mood full of emotion and kindness. Composition of two figures — Abu Bakr standing extending hand, Bilal below receiving it.*
 
-The Prophet even told Bilal: "I heard your sandals walking ahead of me in Paradise!"
+## 🕌 The Most Beautiful Voice in Medina
 
-> **🎨 Illustration Brief:**
-> *Bilal stands atop Masjid al-Nabawi, hands at his ears, calling the adhan. Below, the city of Medina with palm trees and simple houses. Sunset sky in purple and gold. Sound waves as spreading circles of light. Mood majestic and beautiful. Vertical — Bilal above, city below.*
+After the Muslims migrated to Medina, Prophet Muhammad SAW built a mosque. But who would call the people to prayer?
 
----
+Prophet Muhammad SAW chose.. **Bilal!**
 
-## 😢 The Last Adhan
+The man who was once a slave, who was tortured and humiliated, now stood at the highest place in the city of Medina, echoing the adhan heard by all the city's residents!
 
-After Prophet Muhammad SAW passed away, Bilal could not bear to give the adhan anymore. Every time he tried, he would break down crying at the words "I bear witness that Muhammad is the Messenger of Allah."
+**"Allahu Akbar, Allahu Akbar.."**
 
-Years later, when Bilal visited Medina, the people begged him to give the adhan one more time. When his voice rang out over the city again, every person in Medina wept. They remembered their beloved Prophet.
+Bilal's melodious voice echoed throughout Medina. Every morning, every afternoon, every evening — it was Bilal's voice that called the Muslims to worship.
 
-> **🎨 Illustration Brief:**
-> *Bilal, now older with grey in his beard, stands calling the adhan. Tears stream down his face. Below, people of Medina also weep. Soft golden light. Colors of warm gold, gentle brown, white. Mood deeply emotional. Vertical — Bilal above with tears, weeping crowd below.*
+Prophet Muhammad SAW even once said to Bilal: "I heard the sound of your sandals walking in front of me in paradise!" This means Bilal had a very high position in Allah's sight.
 
----
+🎨 *Illustration: Bilal stands on the roof of Masjid Nabawi, both hands beside his ears, mouth open echoing the adhan. Below, the city of Medina with palm trees and simple houses. Evening sky colored purple and gold. Sound waves visualized as spreading circles of light. Dominant colors evening purple, gold, green palm trees. Mood grand and beautiful. Composition vertical — Bilal above, city below, sky enveloping.*
 
-## 🌟 Lessons from Bilal
+## 🌟 Lessons for Us
 
-**All people are equal.** Bilal was a former slave, but in Allah's sight he was nobler than many Quraysh nobles. What matters is faith and a good heart.
+**All humans are equal.** Bilal was dark-skinned and a former slave — but in Allah's sight, he was more noble than many Quraysh nobles. What determines nobility is not skin color or wealth, but faith and goodness of heart.
 
-**Never look down on anyone.** The most despised person in Mecca became the most honored voice in Medina! Subhanallah!
+**True faith cannot be broken.** Even though tortured in the most cruel way, Bilal kept saying "Ahad." If we believe something is right, we must hold onto it even though it's difficult.
 
-> **🎨 Illustration Brief:**
-> *Children of various skin colors standing together, smiling, hands linked. Above them, a golden sunrise. Bright cheerful colors — diverse skin tones, diverse clothing. Mood of hip and equality. Circular composition — children in a ring, sunrise above.*
+**Use your wealth for good.** Abu Bakr could have just prayed for Bilal. But he used his money to free Bilal. If we have something that can help others, let's use it!
+
+**Never look down on anyone.** The most despised person in Mecca turned out to be the person whose voice was most respected in Medina. Never judge people by their appearance!
+
+🎨 *Illustration: Children of various skin colors and backgrounds standing side by side, smiling, hands holding each other forming a circle. Above them, calligraphy writing "All humans are equal in Allah's sight." Bright and cheerful colors — rainbow of skin colors, diverse clothing. Mood full of friendship and equality. Composition circular — children forming circle, calligraphy at top center.*

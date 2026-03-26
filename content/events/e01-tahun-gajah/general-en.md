@@ -6,7 +6,7 @@ In the mid-sixth century CE, the Arabian Peninsula stood at the crossroads of ci
 
 Politically, Arabia existed in the shadow of two superpowers: the Eastern Roman Empire (Byzantium) to the northwest and the Sassanid Empire (Persia) to the northeast. Both empires maintained Arab buffer states along their borders — the Ghassanid Kingdom as a vassal of Byzantium, and the Lakhmid Kingdom as a tributary state of Persia.^1 Yemen in the south, once home to the advanced civilizations of Saba' (Sheba) and Himyar, had fallen under the control of the Aksumite Kingdom (Abyssinia/Ethiopia) following a series of internal power struggles.^2
 
-Economically, Makkah occupied a position of strategic importance. The city lay on the major trade route connecting Yemen in the south — gateway to spices from India and East Africa — with al-Sham (Syria and Palestine) in the north. The Quraysh tribe, masters of Makkah, were accomplished merchants who organized two great trade caravans each year: the *rihlat al-shita'* to Yemen and the *rihlat al-sayf* to al-Sham, as immortalized in Surah Quraysh (106:1-4):^7
+Economically, Makkah occupied a position of strategic importance. The city lay on the major trade route connecting Yemen in the south — gateway to spices from India and East Africa — with al-Sham (Syria and Palestine) in the north. The Quraysh tribe, masters of Makkah, were accomplished merchants who organized two great trade caravans each year: the *rihlat al-shita'* to Yemen and the *rihlat al-sayf* to al-Sham, as immortalized in Surah Quraysh (106:1-4):
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
@@ -48,9 +48,9 @@ Both Ibn Hisham and al-Mubarakfuri record this statement as evidence of Abd al-M
 
 ## The Destruction of the Elephant Army
 
-On the day of the assault, the unexpected occurred. Mahmud — the lead elephant — refused to advance when directed toward the Ka'bah. Each time it was turned toward Makkah, it knelt down and would not rise. Yet when pointed in any other direction — toward Yemen, toward al-Sham, toward the east — it stood and walked readily.^1 Ibn Kathir notes in his tafsir that this was already a divine sign before the greater destruction arrived.^3
+On the day of the assault, the unexpected occurred. Mahmud — the lead elephant — refused to advance when directed toward the Ka'bah. Each time it was turned toward Makkah, it knelt down and would not rise. Yet when pointed in any other direction — toward Yemen, toward al-Sham, toward the east — it stood and walked readily.^1 Ibn Kathir notes in his tafsir that this was already a divine sign before the greater destruction arrived.
 
-Then came flocks of birds — *ababil* — from the direction of the sea, each carrying three small stones — *hijarat min sijjil* — one in its beak and one in each claw.^3 These stones rained down upon Abraha's army, destroying them like "eaten straw" — *ka-'asfin ma'kul* — as Allah declares in Surah Al-Fil (105:1-5):^7
+Then came flocks of birds — *ababil* — from the direction of the sea, each carrying three small stones — *hijarat min sijjil* — one in its beak and one in each claw. These stones rained down upon Abraha's army, destroying them like "eaten straw" — *ka-'asfin ma'kul* — as Allah declares in Surah Al-Fil (105:1-5):
 
 > أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ﴿١﴾ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِى تَضۡلِيلٍ ﴿٢﴾ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ﴿٣﴾ تَرۡمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ﴿٤﴾ فَجَعَلَهُمۡ كَعَصۡفٍ مَّأۡكُولٍ ﴿٥﴾
 >
@@ -71,10 +71,10 @@ What remains undisputed, however, is its **significance**: the incident of the e
 
 In the same year as the destruction of the elephant army — or according to some accounts, fifty days later — a child was born in Makkah who would transform the course of human civilization.^2
 
-**Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim ibn Abd Manaf** was born on a Monday, on the 12th of Rabi' al-Awwal according to the most widely accepted opinion, although some scholars cite the 8th, 9th, or 10th of Rabi' al-Awwal.^2 ^6 Ibn Sa'd in his *Tabaqat al-Kubra* and al-Mubarakfuri in *al-Rahiq al-Makhtum* affirm the Monday birth based on an authentic hadith in *Sahih Muslim*, where the Prophet ﷺ was asked about fasting on Mondays and replied:^5
+**Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim ibn Abd Manaf** was born on a Monday, on the 12th of Rabi' al-Awwal according to the most widely accepted opinion, although some scholars cite the 8th, 9th, or 10th of Rabi' al-Awwal.^2 ^5 Ibn Sa'd in his *Tabaqat al-Kubra* and al-Mubarakfuri in *al-Rahiq al-Makhtum* affirm the Monday birth based on an authentic hadith in *Sahih Muslim*, where the Prophet ﷺ was asked about fasting on Mondays and replied:^4
 
 > *"That is the day on which I was born, and the day on which I was commissioned (as a Prophet)."*
-> — Sahih Muslim, no. 1162, Kitab al-Siyam^5
+> — Sahih Muslim, no. 1162, Kitab al-Siyam^4
 
 ### A Noble Lineage
 
@@ -82,37 +82,37 @@ The Prophet Muhammad's ﷺ lineage from his father's side traces back to Prophet
 
 **Muhammad** son of **Abdullah** son of **Abd al-Muttalib** (Shaybah) son of **Hashim** (Amr) son of **Abd Manaf** (al-Mughirah) son of **Qusayy** son of **Kilab** — continuing to **Adnan**, a descendant of Isma'il ibn Ibrahim.
 
-His father, **Abdullah**, was the youngest and most beloved son of Abd al-Muttalib.^6 Abdullah married **Aminah bint Wahb** of the Banu Zuhrah, one of the prominent tribes of the Quraysh.^1 However, Abdullah died before Muhammad was born — according to the strongest opinion, he passed away during a trade journey to Madinah (then called Yathrib) and was buried there.^6 Thus, Muhammad ﷺ was born an orphan.
+His father, **Abdullah**, was the youngest and most beloved son of Abd al-Muttalib.^5 Abdullah married **Aminah bint Wahb** of the Banu Zuhrah, one of the prominent tribes of the Quraysh.^1 However, Abdullah died before Muhammad was born — according to the strongest opinion, he passed away during a trade journey to Madinah (then called Yathrib) and was buried there.^5 Thus, Muhammad ﷺ was born an orphan.
 
 ### Events Surrounding the Birth
 
 The sirah sources record several extraordinary events around the birth of Prophet Muhammad ﷺ, though the historical status of some of these accounts requires careful scrutiny:
 
-1. **A radiant light**: Aminah reported that at the time of delivery, she saw a light emanating from her that illuminated the palaces of al-Sham (Syria). This account is recorded by Ibn Hisham and Ibn Sa'd, though its chain of narration does not reach the level of *sahih* (authentic) according to some hadith scholars.^1 ^6
+1. **A radiant light**: Aminah reported that at the time of delivery, she saw a light emanating from her that illuminated the palaces of al-Sham (Syria). This account is recorded by Ibn Hisham and Ibn Sa'd, though its chain of narration does not reach the level of *sahih* (authentic) according to some hadith scholars.^1 ^5
 
 2. **The crumbling of Chosroes' palace**: Tradition records that fourteen balconies of Chosroes' (the Persian Emperor's) palace crumbled on the night of the Prophet's birth. This report is popular in sirah literature but its authenticity is disputed.^2
 
 3. **The extinguishing of the Persian fire**: The sacred fire of the Zoroastrians in Persia, which had burned for a thousand years, is said to have been extinguished. Like the previous account, this belongs more to popular tradition.^2
 
-**Methodological note**: Following the methodology of al-Bukhari, we must distinguish between narrations with authentic chains of transmission and popular traditions that circulate widely but may not meet the rigorous standards of hadith authentication.^4 The Prophet's birth on a Monday in the Year of the Elephant has a strong basis in authentic hadith, while the events described above are more in the category of reports (*khabar*) transmitted in sirah works.
+**Methodological note**: Following the methodology of al-Bukhari, we must distinguish between narrations with authentic chains of transmission and popular traditions that circulate widely but may not meet the rigorous standards of hadith authentication.^3 The Prophet's birth on a Monday in the Year of the Elephant has a strong basis in authentic hadith, while the events described above are more in the category of reports (*khabar*) transmitted in sirah works.
 
 ### Early Childhood
 
-After birth, Muhammad was briefly nursed by **Thuwaybah**, a bondwoman of Abu Lahab, who suckled him for several days.^6 Then, following the Qurayshi custom of sending children to be raised in the desert by Bedouin tribes — so they might grow up with clean air, eloquent Arabic, and desert resilience — Muhammad was entrusted to **Halimah bint Abi Dhu'ayb al-Sa'diyyah** of the Banu Sa'd.^6
+After birth, Muhammad was briefly nursed by **Thuwaybah**, a bondwoman of Abu Lahab, who suckled him for several days.^5 Then, following the Qurayshi custom of sending children to be raised in the desert by Bedouin tribes — so they might grow up with clean air, eloquent Arabic, and desert resilience — Muhammad was entrusted to **Halimah bint Abi Dhu'ayb al-Sa'diyyah** of the Banu Sa'd.^5
 
-Ibn Sa'd records that Halimah was initially reluctant to take Muhammad because he was an orphan — wet-nurses typically expected generous payment from the child's father.^6 But having found no other infant, Halimah finally accepted Muhammad. From that moment, the life of Halimah and her family was showered with blessings: her thin sheep grew fat and gave abundant milk, her land became fertile, and her weak mount grew strong.^1 ^6
+Ibn Sa'd records that Halimah was initially reluctant to take Muhammad because he was an orphan — wet-nurses typically expected generous payment from the child's father.^5 But having found no other infant, Halimah finally accepted Muhammad. From that moment, the life of Halimah and her family was showered with blessings: her thin sheep grew fat and gave abundant milk, her land became fertile, and her weak mount grew strong.^1 ^5
 
 ## The Meaning of the Year of the Elephant in Islamic Historiography
 
 The Year of the Elephant is far more than a chronological marker. In the framework of Islamic historiography, this event carries multiple layers of meaning:
 
-**First**, it stands as proof of divine protection of the Ka'bah. Allah defended His House not through human agency — the Quraysh themselves were powerless against Abraha's forces — but through direct heavenly intervention.^3 ^7 This affirms the Ka'bah's special status before Allah.
+**First**, it stands as proof of divine protection of the Ka'bah. Allah defended His House not through human agency — the Quraysh themselves were powerless against Abraha's forces — but through direct heavenly intervention.  This affirms the Ka'bah's special status before Allah.
 
-**Second**, it serves as a *muqaddimah* (prelude) to the birth of Prophet Muhammad ﷺ. Scholars such as Ibn Kathir interpret the destruction of the elephant army as a sign that Allah was preparing the stage of history for the arrival of the final messenger.^3 The Ka'bah was protected not merely as a physical structure, but as a symbol of monotheism (*tawhid*) that Muhammad ﷺ would restore.
+**Second**, it serves as a *muqaddimah* (prelude) to the birth of Prophet Muhammad ﷺ. Scholars such as Ibn Kathir interpret the destruction of the elephant army as a sign that Allah was preparing the stage of history for the arrival of the final messenger. The Ka'bah was protected not merely as a physical structure, but as a symbol of monotheism (*tawhid*) that Muhammad ﷺ would restore.
 
 **Third**, it became a dating system that united the Arabs. Before the Year of the Elephant, there was no universally agreed-upon temporal reference point across all the tribes. This event was so monumental that all Arabs, regardless of tribal affiliation, acknowledged it as a marker of the age.^2
 
-**Fourth**, it demonstrates a divine pattern in history — that even the mightiest military force is helpless before Allah's will. Abraha with his formidable army and terrifying elephants was ultimately destroyed by small birds carrying pebbles.^7 This is a lesson that would echo throughout the Prophet Muhammad's ﷺ mission — that truth is not measured by physical might.
+**Fourth**, it demonstrates a divine pattern in history — that even the mightiest military force is helpless before Allah's will. Abraha with his formidable army and terrifying elephants was ultimately destroyed by small birds carrying pebbles. This is a lesson that would echo throughout the Prophet Muhammad's ﷺ mission — that truth is not measured by physical might.
 
 ## Conclusion
 
@@ -126,9 +126,7 @@ From a trading town in the heart of a barren desert, from an orphan who lost his
 
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
-3. Ibn Kathir, *Tafsir al-Quran al-Azim*, Surah Al-Fil, ed. Sami al-Salamah (Riyadh: Dar Taybah, 1999).^8
-4. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Manaqib (Dar Tawq al-Najah, 2001).
-5. Muslim, *Sahih Muslim*, Kitab al-Siyam.
-6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
-7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraysh (106:1-4).
-8. Al-Qur'an al-Karim. QS. Quraysh (106): 1-4.
+3. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Manaqib (Dar Tawq al-Najah, 2001).
+4. Muslim, *Sahih Muslim*, Kitab al-Siyam.
+5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
+6. Al-Qur'an al-Karim. QS. Quraysh (106): 1-4.

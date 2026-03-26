@@ -14,7 +14,7 @@ Kabar keberangkatan Nabi ﷺ menyebar ke seluruh Jazirah Arab. Al-Mubarakfuri da
 
 Imam Muslim meriwayatkan bahwa Nabi ﷺ berangkat dari Madinah pada tanggal 25 Dzulqa'dah. Beliau shalat Zhuhur di Dzul Hulaifah (miqat penduduk Madinah), lalu memasuki ihram setelah shalat.^1 Jabir menggambarkan bahwa beliau bisa melihat lautan manusia ke segala arah — di depan, di belakang, di kanan, dan di kiri Nabi ﷺ — sejauh mata memandang.
 
-Ahmad bin Hanbal dalam *Musnad*-nya meriwayatkan bahwa Nabi ﷺ bertalbiyah dengan kalimat:^3^5
+Ahmad bin Hanbal dalam *Musnad*-nya meriwayatkan bahwa Nabi ﷺ bertalbiyah dengan kalimat:^3
 
 > لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ
 >
@@ -100,7 +100,7 @@ Nabi ﷺ menutup khutbahnya dengan wasiat yang abadi:
 
 ## Turunnya Ayat Kesempurnaan Agama
 
-Di hari Arafah itu pula, turunlah salah satu ayat al-Quran yang paling monumental^6:
+Di hari Arafah itu pula, turunlah salah satu ayat al-Quran yang paling monumental^5:
 
 > الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ﴿٣﴾
 >
@@ -150,5 +150,4 @@ Pesan utamanya jelas: kemuliaan manusia bukan ditentukan oleh warna kulit, suku 
 
 4. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa, Ibrahim al-Abyari, dan Abdul Hafiz Syalabi. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
-5. Al-Quran al-Karim, QS. Al-Baqarah, QS. Al-Ma'idah.
-6. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 125; QS. Al-Ma'idah (5): 3.
+5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 125; QS. Al-Ma'idah (5): 3.

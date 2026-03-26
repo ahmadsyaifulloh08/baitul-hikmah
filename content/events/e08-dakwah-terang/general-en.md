@@ -2,14 +2,14 @@
 
 ## Context
 
-After three years of secret da'wah, the number of Muslims in Mecca had reached approximately forty. The foundation of faith had been laid, the core cadre had been formed, and now the time had come for Allah's command to expand the reach of the mission. The verse descended:^1^4
+After three years of secret da'wah, the number of Muslims in Mecca had reached approximately forty. The foundation of faith had been laid, the core cadre had been formed, and now the time had come for Allah's command to expand the reach of the mission. The verse descended:^1 ^3
 
 > وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ ﴿٢١٤﴾
 >
 > *"And warn your closest kindred. ﴾214﴿"*
 > — QS. Al-Shu'ara' (26): 214
 
-This verse marked the transition from *sirriyyah* (secret) da'wah to *jahriyyah* (open) da'wah.^3 Mecca at this time was still entirely dominated by the Quraysh elite whose livelihood depended on the idol-worship system. An open call to monotheism meant challenging the entire social, economic, and religious order that had been established for centuries.^2
+This verse marked the transition from *sirriyyah* (secret) da'wah to *jahriyyah* (open) da'wah. Mecca at this time was still entirely dominated by the Quraysh elite whose livelihood depended on the idol-worship system. An open call to monotheism meant challenging the entire social, economic, and religious order that had been established for centuries.^2
 
 ## The Events
 
@@ -59,7 +59,7 @@ Abu Lahab — whose real name was Abd al-'Uzza ibn Abd al-Muttalib — was the P
 > *"May the hands of Abu Lahab perish, and may he perish. ﴾1﴿ His wealth and what he earned will not benefit him. ﴾2﴿ He will burn in a Fire of blazing flame. ﴾3﴿ And his wife — the carrier of firewood (spreader of slander). ﴾4﴿ Around her neck is a rope of palm fiber. ﴾5﴿"*
 > — QS. Al-Lahab (111): 1–5
 
-Ibn Kathir explains in his tafsir that this surah was a direct response to Abu Lahab's rejection and to the role of his wife, **Umm Jamil bint Harb** (Abu Sufyan's sister), who frequently scattered thorns on the Prophet's path and spread malicious rumors about him among the Quraysh.^3
+Ibn Kathir explains in his tafsir that this surah was a direct response to Abu Lahab's rejection and to the role of his wife, **Umm Jamil bint Harb** (Abu Sufyan's sister), who frequently scattered thorns on the Prophet's path and spread malicious rumors about him among the Quraysh.
 
 ## Quotations and Evidence
 
@@ -92,5 +92,4 @@ Abu Lahab's reaction and the revelation of Surah al-Lahab demonstrate that rejec
 
 1. Al-Bukhari, Muhammad ibn Isma'il, *Sahih al-Bukhari* (Damascus: Dar Ibn Kathir, 2002).
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
-3. Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, vol. 4 (Beirut: Dar al-Fikr, 1999).^4
-4. Al-Qur'an al-Karim. QS. Al-Shu'ara' (26): 214; QS. Al-Lahab (111): 1–5.
+3. Al-Qur'an al-Karim. QS. Al-Shu'ara' (26): 214; QS. Al-Lahab (111): 1–5.

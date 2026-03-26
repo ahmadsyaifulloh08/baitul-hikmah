@@ -1,0 +1,49 @@
+# Perang Salib III - Richard vs Salahuddin
+
+## 🌍 Apa yang terjadi?
+
+Pada tahun 1189 Masehi, tiga raja besar dari Eropa memutuskan berperang melawan Salahuddin al-Ayyubi. Mereka marah karena Salahuddin berhasil merebut kembali Yerusalem dari pasukan Salib dua tahun sebelumnya.
+
+Raja Frederick dari Jerman, Raja Philip dari Prancis, dan Raja Richard dari Inggris berkumpul dengan tentara mereka yang sangat besar. Mereka ingin merebut Yerusalem kembali dari tangan Salahuddin yang telah menyatukan seluruh dunia Islam.
+
+🎨 *Ilustrasi: Tiga raja Eropa berdiri di pelabuhan dengan kapal-kapal perang besar di belakang mereka. Frederick berjanggut putih memegang bendera kekaisaran, Philip dengan mahkota emas, dan Richard memegang pedang. Latar belakang pelabuhan abad pertengahan dengan layar-layar besar. Warna dominan: merah, emas, biru laut, putih. Suasana tegas dan siap berperang. Komposisi: ketiga raja di foreground, armada di background.*
+
+---
+
+## 📖 Ceritanya
+
+Frederick memilih jalan darat melalui Turki, tetapi tenggelam di sungai sebelum sampai ke Tanah Suci. Tentara Jerman menjadi sedih dan banyak yang pulang. Philip dan Richard datang dengan kapal, tetapi mereka tidak akur satu sama lain.
+
+Mereka mengepung kota Acre selama hampir tiga tahun. Setelah Acre jatuh, Philip marah dan pulang ke Prancis. Richard tersisa sendirian untuk menghadapi Salahuddin. Kedua pemimpin ini saling menghormati meski berperang.
+
+Richard berhasil merebut beberapa kota di pesisir, tetapi Salahuddin menggunakan taktik gerilya yang cerdas. Setiap kali Richard maju, Salahuddin menyerang dari samping dan belakang.
+
+🎨 *Ilustrasi: Pemandangan pengepungan Acre dengan tentara Salib membangun menara pengepung dan katapel menghadap tembok kota yang tinggi. Di dalam kota terlihat bendera-bendera Muslim berkibar. Latar belakang laut biru dengan kapal-kapal perang. Warna dominan: coklat tanah, abu-abu batu, merah darah, hijau bendera. Suasana tegang dan melelahkan. Komposisi: pengepung di foreground, tembok kota di center, laut di background.*
+
+---
+
+## 🌟 Pelajarannya
+
+Yang paling menarik dari perang ini adalah Richard dan Salahuddin saling menghormati. Mereka bahkan bernegosiasi untuk mencari jalan damai. Richard pernah mengusulkan pernikahan antara keluarganya dengan keluarga Salahuddin.
+
+Meski Richard berada sangat dekat dengan Yerusalem, dia memutuskan tidak menyerang karena tahu akan sulit mempertahankannya. Ini menunjukkan bahwa kadang mundur adalah keputusan yang bijak.
+
+Akhirnya mereka membuat perjanjian: Salahuddin tetap menguasai Yerusalem, tetapi orang Kristen boleh berziarah ke sana. Richard menguasai beberapa kota pesisir. Kedua pihak mendapat sesuatu yang mereka butuhkan.
+
+🎨 *Ilustrasi: Richard dan Salahuddin bertemu di sebuah tenda putih untuk bernegosiasi. Richard berambut pirang dengan baju zirah, Salahuddin bersorban putih dan jubah hijau. Di meja ada gulungan perjanjian dan peta. Latar belakang padang pasir dengan gunung di kejauhan. Warna dominan: putih, hijau, emas, coklat. Suasana tenang dan diplomatic. Komposisi: kedua pemimpin di center, tenda membingkai, landscape luas di background.*
+
+---
+
+## 🤲 Doa & Dalil
+
+Perang ini mengajarkan bahwa perdamaian lebih baik daripada perang yang tidak ada ujungnya. Allah SWT menyukai orang yang memilih jalan damai ketika ada kesempatan.
+
+Islam mengajarkan untuk selalu mencari jalan damai jika musuh juga menginginkannya. Salahuddin menunjukkan sikap ini dengan menerima negosiasi meski dia sedang unggul.
+
+> وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ﴿٦١﴾
+>
+> *"Dan jika mereka condong kepada perdamaian, maka condonglah kepadanya dan bertawakallah kepada Allah."* ﴾61﴿
+
+Subhanallah, betapa mulianya akhlak para pemimpin yang mengutamakan kebaikan umat daripada kemenangan pribadi.
+
+🎨 *Ilustrasi: Suasana damai di Yerusalem setelah perjanjian, dengan peziarah Kristen dan Muslim berjalan bersama menuju Masjid Al-Aqsa dan Gereja Makam Kudus. Arsitektur khas Yerusalem dengan kubah emas dan menara. Langit biru cerah dengan burung-burung terbang. Warna dominan: emas, biru, putih, hijau. Suasana harmonis dan damai. Komposisi: peziarah di foreground, bangunan suci di center, langit luas di background.*

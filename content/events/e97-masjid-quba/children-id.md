@@ -8,7 +8,7 @@ language: "id"
 sections: 4
 ---
 
-## 🏛 Tahukah kamu?
+## 🏛 Masjid Pertama dalam Islam
 
 Di tahun 622 M, Nabi Muhammad ﷺ membangun masjid pertama di dunia di tempat yang disebut Quba. Masjid ini dibangun hanya dalam empat hari!
 

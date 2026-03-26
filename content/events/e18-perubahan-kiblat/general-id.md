@@ -8,11 +8,11 @@ Imam al-Bukhari meriwayatkan dari **al-Bara' bin 'Azib** bahwa Nabi Muhammad ﷺ
 
 Bagi kaum Muslim di Madinah, menghadap ke Baitul Maqdis memiliki dimensi diplomatik pula. Madinah adalah kota dengan populasi Yahudi yang signifikan, dan kesamaan arah kiblat menunjukkan kesinambungan tradisi Ibrahimiyah. Namun alih-alih menjadi titik temu, kiblat yang sama justru digunakan oleh sebagian kalangan Yahudi Madinah sebagai argumen bahwa Islam tidak memiliki kemandirian teologis — bahwa Muhammad hanyalah pengikut tradisi mereka tanpa otoritas kenabian yang mandiri.^2
 
-Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa tekanan sosial ini menambah kerinduan Nabi Muhammad ﷺ akan perintah ilahi untuk mengubah kiblat.^2 Beliau sering menengadahkan wajahnya ke langit, menanti wahyu — sebuah gestur yang diabadikan langsung oleh al-Quran.^5
+Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa tekanan sosial ini menambah kerinduan Nabi Muhammad ﷺ akan perintah ilahi untuk mengubah kiblat.^2 Beliau sering menengadahkan wajahnya ke langit, menanti wahyu — sebuah gestur yang diabadikan langsung oleh al-Quran.^3
 
 ## Peristiwa: Turunnya Wahyu Perubahan Kiblat
 
-Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623 M), saat Nabi Muhammad ﷺ sedang memimpin salat Zhuhur — ada riwayat yang menyebutkan salat Ashar — di sebuah masjid di Madinah, turunlah wahyu yang mengubah arah ibadah seluruh umat Islam:^1 ^3^4
+Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623 M), saat Nabi Muhammad ﷺ sedang memimpin salat Zhuhur — ada riwayat yang menyebutkan salat Ashar — di sebuah masjid di Madinah, turunlah wahyu yang mengubah arah ibadah seluruh umat Islam:^1 
 
 > قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ ﴿١٤٤﴾
 >
@@ -48,14 +48,14 @@ Al-Quran juga menjelaskan bahwa perubahan kiblat adalah ujian keimanan:
 > *"Dan Kami tidak menjadikan kiblat yang engkau hadapi sekarang melainkan agar Kami mengetahui siapa yang mengikuti Rasul dan siapa yang berbalik ke belakang. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Pertanyaan lain yang muncul di kalangan sahabat bersifat lebih tulus: bagaimana nasib salat-salat yang telah mereka laksanakan menghadap Baitul Maqdis? Apakah ibadah mereka selama enam belas bulan sia-sia? Al-Quran menjawab dengan lembut:^3
+Pertanyaan lain yang muncul di kalangan sahabat bersifat lebih tulus: bagaimana nasib salat-salat yang telah mereka laksanakan menghadap Baitul Maqdis? Apakah ibadah mereka selama enam belas bulan sia-sia? Al-Quran menjawab dengan lembut:
 
 > وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ ﴿١٤٣﴾
 >
 > *"Dan Allah tidak akan menyia-nyiakan imanmu. Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada manusia. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata.^3 Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima.
+Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata. Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima.
 
 ## Analisis dan Hikmah
 
@@ -63,13 +63,13 @@ Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk 
 
 Perubahan kiblat menandai momen krusial dalam pembentukan identitas umat Islam sebagai komunitas yang mandiri. Jika sebelumnya Islam bisa dianggap sebagai cabang dari tradisi Yahudi-Kristen, perubahan kiblat menegaskan bahwa Islam memiliki pusat spiritualnya sendiri — Ka'bah yang dibangun oleh Ibrahim dan Ismail, jauh sebelum Musa dan Isa.
 
-Ibn Kathir menekankan bahwa perintah menghadap Ka'bah bukan sekadar perubahan arah fisik, melainkan pernyataan teologis: bahwa Islam adalah kelanjutan langsung dari *millah Ibrahim* (tradisi Ibrahim), bukan derivasi dari Yudaisme atau Kristianitas.^3
+Ibn Kathir menekankan bahwa perintah menghadap Ka'bah bukan sekadar perubahan arah fisik, melainkan pernyataan teologis: bahwa Islam adalah kelanjutan langsung dari *millah Ibrahim* (tradisi Ibrahim), bukan derivasi dari Yudaisme atau Kristianitas.
 
 ### Ujian Ketaatan dan Kelenturan Iman
 
 Perubahan kiblat adalah ujian psikologis yang berat. Bayangkan: selama lebih dari satu tahun, Anda salat menghadap satu arah dengan keyakinan penuh. Tiba-tiba, di tengah salat, Anda diminta berputar 180 derajat. Respons terhadap perintah ini menjadi ukuran keimanan — siapa yang taat kepada Rasul tanpa ragu, dan siapa yang mempertanyakan otoritas kenabian.
 
-Dalam konteks ini, al-Quran menyebut umat Islam sebagai *ummatan wasathan* — umat pertengahan yang moderat:^3
+Dalam konteks ini, al-Quran menyebut umat Islam sebagai *ummatan wasathan* — umat pertengahan yang moderat:
 
 > وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا ﴿١٤٣﴾
 >
@@ -92,7 +92,5 @@ Dari perspektif ushul fikih, perubahan kiblat adalah salah satu contoh paling je
 
 2. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits tentang perubahan kiblat dari Anas bin Malik, Kitab al-Masajid wa Mawadhi' al-Shalah.
 
-3. **Ibn Kathir, Ismail bin Umar.** *Tafsir al-Quran al-'Azhim*. Tafsir Surah Al-Baqarah ayat 142-150. Beirut: Dar al-Kutub al-Ilmiyyah, 1999.
 
-4. Al-Quran al-Karim, QS. Al-Baqarah.
-5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.
+3. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.

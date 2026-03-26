@@ -1,65 +1,45 @@
 # Tariq ibn Ziyad and the Conquest of Al-Andalus ⚔️
 
-## 🏔️ A Commander from Africa
-
-**Tariq ibn Ziyad** was a Muslim commander from the **Berber** tribe in North Africa. He was not Arab — he was a Berber who embraced Islam and became one of the greatest commanders in history!
-
-Tariq served as governor of **Tangier** in Morocco, right across the sea from Spain. Across the water, Spain was ruled by the cruel Visigothic kingdom, and its people suffered under oppression.
-
-> **🎨 Illustration Brief:**
-> *Tariq ibn Ziyad standing on the coast of North Africa, gazing toward Spain faintly visible across the strait. Wind blowing his cloak. Colors of sea blue, rock brown, white waves. Mood determined and brave. Tariq on the left, wide sea on the right with faint land on the horizon.*
-
 ---
 
-## ⛵ Crossing the Strait
+## The Berber Commander from Africa
 
-In April 711 CE, Tariq led about **7,000 soldiers** across the narrow strait between Africa and Europe. They landed at the foot of a great rocky hill.
+**Tariq ibn Ziyad** was a Muslim commander from the **Berber** tribe in North Africa. He was not originally Arab — he was a Berber who embraced Islam and became one of the greatest commanders in history!
 
-That hill was later named **Jabal Tariq** — meaning "Mount Tariq." In English, it became **Gibraltar**. Every time you hear "Gibraltar," remember this brave Muslim commander!
+Tariq became governor of the city **Tangier** in Morocco, right across the ocean from Spain. At that time, Spain was ruled by the **Visigoth** kingdom which was in chaos because the kings were fighting each other for power. The people — especially Jews and farmers — lived under oppression.
 
-> **🎨 Illustration Brief:**
-> *Sailing ships approaching the towering Rock of Gibraltar. Muslim soldiers disembarking onto the beach. Morning sun illuminating the rock. Colors of grey rock, sea blue, golden morning light. Dramatic mood. Gibraltar towering in the center, ships below.*
+🎨 *Illustration: Tariq ibn Ziyad stands at the edge of the African coast, gazing toward Spain that appears faintly across the strait. Wind blows his robe. Dominant colors blue sea, brown rock, and white waves. Mood full of determination and courage. Composition Tariq on left, wide sea on right with faint land on the horizon.*
 
----
+## Crossing the Strait of Gibraltar
 
-## 🗣️ The Famous Speech
+In April 711 CE, Tariq led about **7,000 soldiers** across the narrow strait between Africa and Europe. They landed at the foot of a large rocky hill.
 
-Before the great battle, Tariq gave a famous speech to his soldiers: *"The sea is behind you and the enemy before you. You have nothing but honesty and patience."*
+That rocky hill was later named **Jabal Tariq** — meaning "Mount Tariq." Do you know? That name is still used today! In English, Jabal Tariq became **Gibraltar**. So every time you hear the word "Gibraltar," remember this Muslim commander from Africa! 🗻
 
-His soldiers were inspired. Even though they were far fewer in number, their hearts were united and their courage was strong.
+Before the great battle, Tariq delivered a famous speech to his troops: *"The sea is behind you and the enemy before you. You have nothing but honesty and patience."*
 
-> **🎨 Illustration Brief:**
-> *Tariq standing on a rocky outcrop addressing his army below. Soldiers look up with determined faces. The sea behind them, the land of Spain ahead. Colors of warm sunset orange, brown rocks, green land ahead. Mood inspiring and powerful. Tariq elevated center, army below.*
+🎨 *Illustration: Sailing ships approaching the towering Rock of Gibraltar. Muslim troops disembarking from ships to the shore. Morning sun illuminates the rocky cliff. Dominant colors grey rock, blue sea, and golden morning light. Mood dramatic and spirited. Composition Gibraltar towering in center, ships below.*
 
----
+## The Great Battle of Guadalete
 
-## ⚔️ The Battle of Guadalete
+The Visigothic king named **Roderic** gathered a large army to face Tariq. A great battle took place near the **Guadalete** River in July 711 CE.
 
-The Visigothic king **Roderic** assembled a much larger army. A great battle took place near the Guadalete River in July 711 CE.
+Although Roderic's army was much larger, they were divided due to internal conflicts — some nobles actually sided with Tariq! Tariq's compact and spirited army succeeded in winning the battle. King Roderic was killed, and the Visigothic kingdom collapsed.
 
-Although outnumbered, Tariq's united forces won! King Roderic was defeated. After that, the conquest moved fast — Tariq captured **Toledo**, the capital, and other major cities.
+After that, the conquest proceeded very quickly. Tariq conquered **Toledo** — the Visigothic capital — and other major cities. His superior, **Musa ibn Nusayr**, came the following year with additional troops. Within three years, almost all of Spain became part of the Islamic world!
 
-> **🎨 Illustration Brief:**
-> *Muslim cavalry charging across a river toward the Visigothic army. Banners flying. Green hills of Spain in the background. Colors of green, brown, and red banners. Intense and historic mood. Two armies facing each other with the river between them.*
+🎨 *Illustration: The Battle of Guadalete — Muslim and Visigothic cavalry facing each other at the river's edge. Banners flying. In the background, the green hills of Spain. Dominant colors green, brown, and red banners. Mood intense and historic. Composition two armies facing each other with river in the middle.*
 
----
+## Al-Andalus — A Glorious Civilization
 
-## 🏛️ A Brilliant Civilization
+This conquest was not the end of the story — it was actually the **beginning** of something magnificent. For nearly **800 years**, this territory — called **Al-Andalus** — became one of the most advanced centers of civilization in the world!
 
-This was not the end — it was the **beginning** of something extraordinary! For nearly **800 years**, this land called **Al-Andalus** became one of the most advanced civilizations in the world.
+In the city of **Cordoba**, there was a library with hundreds of thousands of books — far more than all other European libraries combined! Muslims, Christians, and Jews lived side by side, learned together, and built civilization together.
 
-In **Cordoba**, the library had hundreds of thousands of books — more than all other European libraries combined! Muslims, Christians, and Jews lived side by side and learned together.
+Lessons from this story:
+- **Courage changes history** — Tariq and his 7,000 soldiers dared to cross the ocean to a foreign land
+- **Unity is key** — Tariq's united army defeated a larger divided army  
+- **An eternal name** — Gibraltar reminds the world of the Muslim commander from Africa
+- **Civilization, not just conquest** — More important than winning wars is building a glorious civilization
 
-> **🎨 Illustration Brief:**
-> *The Great Mosque of Cordoba with its famous red-and-white arches. Green gardens and people of diverse backgrounds walking together. Colors of brick red, white, green, blue sky. Peaceful and brilliant mood. Panoramic city composition.*
-
----
-
-## 🌟 Lessons from Al-Andalus
-
-**Courage changes history** — Tariq and 7,000 soldiers dared to cross the sea to an unknown land. **Unity is strength** — a united small army defeated a larger divided one.
-
-And most importantly: what matters more than winning battles is **building a great civilization**. The name Gibraltar reminds the whole world of a Muslim commander from Africa. Subhanallah!
-
-> **🎨 Illustration Brief:**
-> *A sunset view from the Rock of Gibraltar. Below, the peaceful city of Al-Andalus with mosques, libraries, and gardens. Ships sail in the strait. Colors of golden sunset, blue sea, green land. Mood peaceful and reflective. Panoramic — Gibraltar on the left, city below, sunset horizon.*
+🎨 *Illustration: View of the magnificent city of Cordoba — the Great Mosque of Cordoba with its red and white arches, green gardens, and people of various backgrounds walking together. Dominant colors brick red, white, green, and blue. Mood peaceful and glorious. Panoramic city composition.*

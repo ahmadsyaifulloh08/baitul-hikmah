@@ -1,0 +1,52 @@
+# Nur ad-Din Zangi
+
+## 🧑 Siapa Dia?
+
+Nur ad-Din Mahmud Zangi adalah putra dari Imad ad-Din Zangi yang berhasil merebut Edessa. Ia lahir pada tahun 1118 M dan tumbuh melihat perjuangan ayahnya melawan Tentara Salib. Ketika ayahnya dibunuh pada tahun 1146 M, Nur ad-Din mewarisi cita-cita besar untuk menyatukan umat Islam.
+
+Berbeda dengan ayahnya yang lebih fokus berperang, Nur ad-Din memiliki visi yang lebih luas. Ia memahami bahwa untuk mengalahkan Tentara Salib, tidak cukup hanya dengan kekuatan militer. Perlu persatuan, pendidikan agama, dan pembangunan masyarakat yang kuat.
+
+🎨 *Ilustrasi: Nur ad-Din muda berusia 28 tahun berdiri di atas menara Aleppo, memandang kota yang luas di bawahnya. Ia mengenakan jubah hijau dan sorban putih, dengan ekspresi tekad yang kuat. Matahari senja menerangi kota dengan cahaya emas. Warna dominan: hijau jubah, putih sorban, emas matahari, coklat batu menara. Suasana penuh tekad dan visi. Komposisi: Nur ad-Din di center foreground, kota Aleppo di background, horizon luas di kejauhan.*
+
+---
+
+## ⭐ Apa yang Dilakukan?
+
+Nur ad-Din memulai dengan menyatukan wilayah-wilayah yang ditinggalkan ayahnya. Ia menjadikan Aleppo sebagai pusat kekuasaan dan mulai memperluas wilayah ke seluruh Suriah. Pada tahun 1154 M, ia berhasil merebut Damaskus dan menyatukan hampir seluruh Suriah.
+
+Yang istimewa dari Nur ad-Din adalah pendekatannya yang menyeluruh. Ia tidak hanya membangun tentara yang kuat, tetapi juga mendirikan madrasah-madrasah untuk mendidik ulama. Ia membuat jihad menjadi gerakan yang menyatukan semua lapisan masyarakat Muslim.
+
+Nur ad-Din juga melakukan banyak pembangunan untuk rakyatnya. Ia membangun rumah sakit, sekolah, masjid, dan memperbaiki sistem irigasi. Kebijakan yang adil dan pembangunan yang merata membuat rakyat mendukung perjuangannya melawan Tentara Salib.
+
+🎨 *Ilustrasi: Nur ad-Din sedang mengawasi pembangunan madrasah besar di Damaskus. Para pekerja membangun dinding batu, sementara arsitek menunjukkan gambar bangunan. Suasana sibuk dan produktif dengan banyak aktivitas pembangunan. Warna dominan: coklat batu, putih gambar arsitektur, hijau pakaian Nur ad-Din, biru langit. Suasana kemajuan dan pembangunan. Komposisi: Nur ad-Din di center, aktivitas pembangunan di sekeliling, madrasah berkembang di background.*
+
+---
+
+## 💡 Kenapa Luar Biasa?
+
+Nur ad-Din berhasil membuktikan bahwa kekuatan sejati tidak hanya datang dari pedang, tetapi juga dari pendidikan, keadilan, dan persatuan. Ia menciptakan fondasi yang kuat untuk generasi setelahnya dalam melawan Tentara Salib.
+
+Konsep jihad yang dikembangkan Nur ad-Din tidak hanya tentang perang, tetapi juga tentang membangun masyarakat yang adil dan beradab. Ia menunjukkan bahwa seorang pemimpin harus peduli dengan kesejahteraan rakyatnya, bukan hanya kemenangan di medan perang.
+
+Meskipun Nur ad-Din meninggal pada tahun 1174 M sebelum bisa membebaskan Yerusalem, warisannya sangat besar. Salahuddin al-Ayyubi, yang akan membebaskan Yerusalem, melanjutkan jalan yang telah dibangun oleh Nur ad-Din.
+
+Unifikasi Suriah yang dicapai Nur ad-Din menjadi contoh bahwa umat Islam bisa kuat jika bersatu. Pelajaran ini penting untuk semua generasi Muslim.
+
+🎨 *Ilustrasi: Pemandangan Suriah yang telah bersatu di bawah kepemimpinan Nur ad-Din. Berbagai kota dengan masjid dan madrasah terlihat dari atas, dihubungkan oleh jalan-jalan perdagangan. Bendera-bendera hijau berkibar di menara-menara. Warna dominan: hijau bendera Islam, emas kubah masjid, coklat tanah, biru sungai. Suasana persatuan dan kemakmuran. Komposisi: panorama luas dengan kota-kota tersebar, jalan sebagai penghubung, langit luas di atas.*
+
+---
+
+## 📖 Dalil
+
+Al-Qur'an mengajarkan pentingnya persiapan dalam menghadapi musuh:
+
+> وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةٖ وَمِن رِّبَاطِ ٱلۡخَيۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ ﴿٦٠﴾
+>
+> *"Dan siapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi dan dari pasukan berkuda yang dapat menggentarkan musuh Allah dan musuhmu. ﴾60﴿"*
+> — QS. Al-Anfal (8): 60
+
+Nur ad-Din memahami ayat ini dengan sangat baik. Ia menyiapkan "kekuatan" tidak hanya dalam bentuk tentara dan senjata, tetapi juga dalam bentuk pendidikan, persatuan, dan pembangunan masyarakat yang kuat.
+
+Kisah Nur ad-Din mengajarkan bahwa persiapan yang sesungguhnya adalah persiapan yang menyeluruh. Kita harus kuat tidak hanya secara fisik, tetapi juga secara spiritual, intelektual, dan sosial.
+
+🎨 *Ilustrasi: Malam hari di kamp tentara Nur ad-Din dengan para prajurit sedang belajar Al-Qur'an di bawah bimbingan seorang ulama. Tenda-tenda berkibar tertiup angin gurun, dengan api unggun memberikan cahaya hangat. Suasana damai dan penuh ilmu. Warna dominan: biru malam, jingga api, putih Al-Qur'an, hijau tenda. Suasana kombinasi kekuatan militer dan spiritual. Komposisi: lingkaran belajar di center, tenda militer di background, langit berbintang di atas.*

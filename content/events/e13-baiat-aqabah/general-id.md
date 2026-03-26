@@ -4,7 +4,7 @@
 
 Setelah *'Am al-Huzn* (Tahun Kesedihan) dan penolakan di Tha'if, **Nabi Muhammad SAW** menghadapi kenyataan bahwa dakwah di Makkah telah mencapai titik jenuh. Perlindungan kesukuan telah hilang dengan wafatnya **Abu Thalib**, dan **Abu Lahab** yang menggantikannya sebagai kepala Bani Hasyim justru mencabut perlindungan terhadap Nabi. Situasi di Makkah semakin tidak aman bagi beliau dan para pengikutnya.^2
 
-Dalam kondisi ini, Nabi Muhammad SAW mulai mengubah strategi dakwahnya. Beliau memanfaatkan musim haji — ketika orang-orang dari seluruh Jazirah Arab berdatangan ke Makkah — untuk menawarkan Islam kepada berbagai delegasi suku. Beliau mendatangi kemah-kemah para jamaah haji, memperkenalkan diri, membacakan Al-Qur'an, dan mengajak mereka beriman. Sebagian besar menolak, bahkan mengusir beliau. Namun, beliau tidak pernah berhenti mencoba.^1^8
+Dalam kondisi ini, Nabi Muhammad SAW mulai mengubah strategi dakwahnya. Beliau memanfaatkan musim haji — ketika orang-orang dari seluruh Jazirah Arab berdatangan ke Makkah — untuk menawarkan Islam kepada berbagai delegasi suku. Beliau mendatangi kemah-kemah para jamaah haji, memperkenalkan diri, membacakan Al-Qur'an, dan mengajak mereka beriman. Sebagian besar menolak, bahkan mengusir beliau. Namun, beliau tidak pernah berhenti mencoba.^1 ^7
 
 Kota **Yatsrib** (yang kelak menjadi Madinah) memiliki kondisi sosial-politik yang unik. Kota ini dihuni oleh dua suku Arab besar — **Aus** dan **Khazraj** — yang telah bermusuhan selama beberapa generasi. Perang terakhir mereka, Perang Bu'ats (617 M), telah menguras kedua belah pihak dan menciptakan kerinduan akan perdamaian dan kepemimpinan yang bisa menyatukan mereka.^3
 
@@ -71,7 +71,7 @@ Proses Islamisasi Yatsrib melalui Mush'ab ini berlangsung selama setahun, dan ha
 
 Peristiwa Bai'at Aqabah Pertama merupakan titik balik strategis dalam sejarah dakwah Islam. Dalil yang terkait dengan peristiwa ini terutama berasal dari riwayat hadits.
 
-Ubadah bin al-Shamit meriwayatkan tentang bai'at ini^7:
+Ubadah bin al-Shamit meriwayatkan tentang bai'at ini:
 
 > بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى أَنْ لاَ نُشْرِكَ بِاللَّهِ شَيْئًا وَلاَ نَسْرِقَ وَلاَ نَزْنِيَ وَلاَ نَقْتُلَ أَوْلاَدَنَا وَلاَ نَأْتِيَ بِبُهْتَانٍ نَفْتَرِيهِ بَيْنَ أَيْدِينَا وَأَرْجُلِنَا وَلاَ نَعْصِيَهُ فِي مَعْرُوفٍ
 >
@@ -124,5 +124,4 @@ Bai'at Aqabah Pertama adalah benih yang kelak tumbuh menjadi peristiwa Hijrah (6
 5. Al-Bukhari, *Shahih al-Bukhari*.
 6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
 
-7. Al-Quran al-Karim, QS. Al-Anfal.
-8. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.
+7. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.

@@ -14,7 +14,7 @@ When al-Khwarizmi arrived in Baghdad, the city was experiencing an unprecedented
 
 To understand the revolution brought by al-Khwarizmi, we must understand the state of mathematics before his time. In the eighth century, mathematics consisted of separate traditions without a strong unifying framework.^1
 
-The **Greeks** excelled in theoretical geometry — the works of Euclid, Archimedes, and Apollonius provided a perfect geometric foundation. However, they were weak in algebraic notation and number systems. Equations were expressed in words or complex geometric diagrams. For example, to express what we write as "x² + 10x = 39," they would say "a square plus ten roots equals thirty-nine units."^3
+The **Greeks** excelled in theoretical geometry — the works of Euclid, Archimedes, and Apollonius provided a perfect geometric foundation. However, they were weak in algebraic notation and number systems. Equations were expressed in words or complex geometric diagrams. For example, to express what we write as "x^2 + 10x = 39," they would say "a square plus ten roots equals thirty-nine units."^3
 
 The **Indians** had developed the decimal number system and the concept of zero (*sunya*) — a revolutionary innovation that enabled positional notation. Brahmagupta (628 CE) and other Indian mathematicians could also solve quadratic equations. However, their methods had not been systematized into a coherent theoretical framework.^4
 
@@ -27,12 +27,12 @@ Around 820 CE, al-Khwarizmi completed his most revolutionary work: *al-Kitab al-
 The term **"al-jabr"** (الجبر) literally means "completion" or "restoration" — the operation of moving negative terms to the other side of an equation. **"Al-muqabalah"** means "balancing" — the operation of reducing like terms from both sides of an equation. These two terms describe the fundamental operations in algebraic equation manipulation.^1
 
 Al-Khwarizmi classified all quadratic equations into six standard types:
-1. Squares equal roots (*ax² = bx*)
-2. Squares equal number (*ax² = c*)  
+1. Squares equal roots (*ax^2 = bx*)
+2. Squares equal number (*ax^2 = c*)  
 3. Roots equal number (*bx = c*)
-4. Squares and roots equal number (*ax² + bx = c*)
-5. Squares and number equal roots (*ax² + c = bx*)
-6. Roots and number equal squares (*bx + c = ax²*)
+4. Squares and roots equal number (*ax^2 + bx = c*)
+5. Squares and number equal roots (*ax^2 + c = bx*)
+6. Roots and number equal squares (*bx + c = ax^2*)
 
 For each type, he provided systematic solution methods, accompanied by elegant geometric proofs.^1
 

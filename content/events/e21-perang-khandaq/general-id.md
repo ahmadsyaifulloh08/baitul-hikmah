@@ -4,7 +4,7 @@
 
 Setelah Badr dan Uhud, kaum Quraisy menyadari bahwa mereka tidak bisa menghancurkan Madinah sendirian. Pada tahun 5 Hijriyah (627 M), mereka membentuk koalisi militer terbesar yang pernah dikumpulkan di Jazirah Arab untuk menyerang satu kota.^1
 
-Aliansi ini — yang dalam al-Quran disebut *al-Ahzab* (golongan-golongan yang bersekutu) — terdiri dari beberapa kekuatan utama: Quraisy Makkah yang dipimpin Abu Sufyan dengan 4.000 prajurit; suku Ghathafan dan Bani Fazarah dari Najd dengan 6.000 prajurit; serta beberapa suku Arab lainnya.^1 ^2 Total pasukan koalisi berjumlah sekitar **10.000 prajurit** — kekuatan militer terbesar yang pernah diarahkan terhadap komunitas Muslim hingga saat itu.^5
+Aliansi ini — yang dalam al-Quran disebut *al-Ahzab* (golongan-golongan yang bersekutu) — terdiri dari beberapa kekuatan utama: Quraisy Makkah yang dipimpin Abu Sufyan dengan 4.000 prajurit; suku Ghathafan dan Bani Fazarah dari Najd dengan 6.000 prajurit; serta beberapa suku Arab lainnya.^1 ^2 Total pasukan koalisi berjumlah sekitar **10.000 prajurit** — kekuatan militer terbesar yang pernah diarahkan terhadap komunitas Muslim hingga saat itu.^4
 
 Pembentukan koalisi ini dimotori oleh tokoh-tokoh Yahudi dari Bani Nadhir yang telah diusir dari Madinah. Pemimpin mereka, Huyay bin Akhtab, berkeliling dari satu suku ke suku lain, menghasut mereka dengan janji pembagian kekayaan Madinah dan pembasmi ancaman Islam.^2 ^3
 
@@ -56,7 +56,7 @@ Abu Sufyan, yang sudah lelah dengan pengepungan yang berlarut-larut, akhirnya me
 
 ## Dialog dan Dalil
 
-Al-Quran merekam peristiwa Khandaq dalam Surah Al-Ahzab^4:
+Al-Quran merekam peristiwa Khandaq dalam Surah Al-Ahzab:
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَاءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ﴿٩﴾
 >
@@ -105,5 +105,4 @@ Khandaq menandai perubahan fundamental dalam dinamika kekuatan di Jazirah Arab. 
 
 3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi*. Jilid 2, Bab Ghazwah al-Khandaq. Beirut: Dar al-A'lami, 1989.
 
-4. Al-Quran al-Karim, QS. Al-Ahzab.
-5. Al-Qur'an al-Karim. QS. Al-Ahzab (33): 9, 10.
+4. Al-Qur'an al-Karim. QS. Al-Ahzab (33): 9, 10.

@@ -8,7 +8,7 @@ Ibn Hisham dalam *Sirah Nabawiyyah* menjelaskan logika yang berkembang di kalang
 
 Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* menegaskan bahwa Fathu Makkah diikuti oleh kemenangan di Perang Hunain dan pengepungan Thaif, yang semakin mengonsolidasikan kekuatan Islam di wilayah Hijaz.^2 Tidak ada lagi kekuatan militer signifikan yang mampu menentang Madinah. Konteks inilah yang melahirkan fenomena *'Am al-Wufud* — tahun di mana delegasi demi delegasi datang ke Madinah untuk menyatakan keislaman mereka.
 
-Al-Quran sendiri mengabadikan fenomena ini dalam Surah An-Nashr^5^4:
+Al-Quran sendiri mengabadikan fenomena ini dalam Surah An-Nashr^4:
 
 > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا ﴿٣﴾
 >
@@ -122,5 +122,4 @@ Dalam menyambut puluhan delegasi dari seluruh Jazirah Arab, Nabi ﷺ menunjukkan
 
 3. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 1-2. Beirut: Dar Shadir.
 
-4. Al-Quran al-Karim, QS. Al-Baqarah, QS. Al-Hujurat, QS. Ali, QS. An-Nashr.
-5. Al-Qur'an al-Karim. QS. An-Nashr (110): 1-3; QS. Al-Hujurat (49): 4; QS. Ali Imran (3): 61; QS. Al-Baqarah (2): 256.
+4. Al-Qur'an al-Karim. QS. An-Nashr (110): 1-3; QS. Al-Hujurat (49): 4; QS. Ali Imran (3): 61; QS. Al-Baqarah (2): 256.

@@ -28,7 +28,7 @@ Ibn Sa'd dalam *Al-Thabaqat al-Kubra* mencatat bahwa orang-orang yang masuk Isla
 
 ### Dar al-Arqam: Pusat Dakwah Rahasia
 
-Seiring bertambahnya jumlah muslim, diperlukan tempat untuk berkumpul, belajar Al-Qur'an, dan beribadah secara bersama. Pilihan jatuh pada rumah **Al-Arqam bin Abi al-Arqam**, seorang pemuda Quraisy dari Bani Makhzum yang telah masuk Islam. Rumahnya terletak di kaki bukit Shafa — lokasi yang cukup tersembunyi namun mudah dijangkau.^1^5
+Seiring bertambahnya jumlah muslim, diperlukan tempat untuk berkumpul, belajar Al-Qur'an, dan beribadah secara bersama. Pilihan jatuh pada rumah **Al-Arqam bin Abi al-Arqam**, seorang pemuda Quraisy dari Bani Makhzum yang telah masuk Islam. Rumahnya terletak di kaki bukit Shafa — lokasi yang cukup tersembunyi namun mudah dijangkau.^1 ^4
 
 Di sinilah Nabi Muhammad SAW mengajarkan ayat-ayat Al-Qur'an yang baru turun, membimbing para sahabat dalam salat, dan membangun fondasi spiritual komunitas muslim pertama. Dar al-Arqam berfungsi sebagai madrasah, masjid, dan pusat koordinasi sekaligus — semua dalam kerahasiaan penuh.^2
 
@@ -44,7 +44,7 @@ Dakwah pada fase ini memiliki beberapa karakteristik penting:
 
 ## Dialog dan Dalil
 
-Ayat-ayat Al-Qur'an yang turun pada periode ini sebagian besar berfokus pada tiga tema: penguatan keimanan, peringatan tentang akhirat, dan kritik terhadap keserakahan serta ketidakadilan sosial. Di antara surah-surah awal yang turun^4:
+Ayat-ayat Al-Qur'an yang turun pada periode ini sebagian besar berfokus pada tiga tema: penguatan keimanan, peringatan tentang akhirat, dan kritik terhadap keserakahan serta ketidakadilan sosial. Di antara surah-surah awal yang turun:
 
 > وَٱلْعَصْرِ ﴿١﴾ إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ ﴿٢﴾ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ ﴿٣﴾
 >
@@ -80,5 +80,4 @@ Memeluk Islam pada fase sembunyi-sembunyi memerlukan keberanian luar biasa. Para
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 3. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 
-4. Al-Quran al-Karim, QS. Al-'Alaq, QS. Al-'Ashr.
-5. Al-Qur'an al-Karim. QS. Al-'Ashr (103): 1–3; QS. Al-'Alaq (96): 1.
+4. Al-Qur'an al-Karim. QS. Al-'Ashr (103): 1–3; QS. Al-'Alaq (96): 1.

@@ -28,7 +28,7 @@ Ibn Sa'd records in *Al-Tabaqat al-Kubra* that those who embraced Islam in this 
 
 ### Dar al-Arqam: The Secret Center of Da'wah
 
-As the number of Muslims grew, a gathering place was needed to study the Qur'an and worship together. The choice fell upon the house of **Al-Arqam ibn Abi al-Arqam**, a young Qurayshi from the clan of Banu Makhzum who had embraced Islam. His house was located at the foot of Mount Safa — sufficiently secluded yet easily accessible.^1^4
+As the number of Muslims grew, a gathering place was needed to study the Qur'an and worship together. The choice fell upon the house of **Al-Arqam ibn Abi al-Arqam**, a young Qurayshi from the clan of Banu Makhzum who had embraced Islam. His house was located at the foot of Mount Safa — sufficiently secluded yet easily accessible.^1 ^4
 
 It was here that the Prophet Muhammad SAW taught newly revealed Qur'anic verses, guided the companions in prayer, and built the spiritual foundation of the first Muslim community. Dar al-Arqam functioned simultaneously as a school, a mosque, and a coordination center — all under complete secrecy.^2
 

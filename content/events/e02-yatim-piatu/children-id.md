@@ -10,6 +10,8 @@ Menurut pendapat mayoritas ulama, Abdullah wafat **sebelum Nabi Muhammad lahir**
 
 Nabi Muhammad ﷺ lahir sebagai anak yatim. Allah berfirman tentang ini dalam QS Ad-Dhuha: **"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿"**
 
+🎨 *Ilustrasi: Makam sederhana Abdullah di Yatsrib (Madinah) dengan batu nisan kuno. Karavan dagang terlihat meninggalkan kota dengan bendera berkibar. Matahari senja memberikan cahaya keemasan. Di kejauhan, siluet Ka'bah Makkah. Warna dominan coklat tanah, emas senja, putih nisan, biru langit sore. Mood sedih namun penuh takdir. Komposisi makam di kiri depan, karavan menjauh ke kanan, Ka'bah samar di ufuk.*
+
 ---
 
 ## Masa Penyusuan di Padang Pasir
@@ -22,6 +24,8 @@ Halimah akhirnya mengambil Muhammad. Sejak saat itu, kehidupan Halimah berubah �
 
 Muhammad tinggal bersama Bani Sa'd selama kurang lebih **empat tahun**, tumbuh sehat di udara padang pasir yang segar. Di sana ia belajar berbicara bahasa Arab yang fasih dan mengenal kehidupan alam yang luas.
 
+🎨 *Ilustrasi: Perkemahan Bani Sa'd di padang pasir dengan tenda-tenda hitam. Halimah menggendong bayi Muhammad ﷺ (cahaya emas lembut) sambil memandang kawanan kambing yang gemuk dan sehat. Anak-anak Badui bermain di dekat tenda. Warna dominan coklat pasir, hitam tenda, putih kambing, emas cahaya. Mood berkah dan kedamaian. Komposisi tenda di tengah, Halimah dengan bayi di depan, kawanan ternak tersebar di sekitar.*
+
 ---
 
 ## Peristiwa Pembelahan Dada
@@ -29,6 +33,8 @@ Muhammad tinggal bersama Bani Sa'd selama kurang lebih **empat tahun**, tumbuh s
 Selama di Bani Sa'd, terjadi peristiwa yang disebut **syaqq al-shadr** (pembelahan dada). Diriwayatkan dalam Shahih Muslim bahwa malaikat Jibril datang, membelah dada Muhammad kecil, mengeluarkan segumpal darah hitam, lalu mencuci hatinya dengan air Zamzam.
 
 Peristiwa luar biasa ini membuat Halimah sangat khawatir dengan keselamatan Muhammad. Meskipun berat hati karena sangat menyayanginya, Halimah memutuskan untuk mengembalikan Muhammad kepada ibunya, Amidi Makkah. Dengan hati yang berat, Halimah menempuh perjalanan kembali ke Makkah, menggendong Muhammad kecil erat-erat di dadanya. Ia tahu bahwa Muhammad bukan anak biasa — ada sesuatu yang sangat istimewa dalam diri anak yatim ini.
+
+🎨 *Ilustrasi: Cahaya putih suci menyelimuti anak kecil Muhammad ﷺ (ditampilkan sebagai cahaya emas lembut) di padang pasir. Malaikat Jibril AS sebagai sosok cahaya putih bercahaya. Halimah berjalan tergesa-gesa membawa Muhammad menuju Makkah yang terlihat di kejauhan. Warna dominan putih cahaya suci, emas divine, biru langit, coklat pasir. Mood keajaiban dan perlindungan divine. Komposisi cahaya suci di tengah atas, Halimah dan anak di bawah, Makkah di horizon.*
 
 ---
 
@@ -40,6 +46,8 @@ Dalam perjalanan pulang, Aminah jatuh sakit dan wafat di sebuah tempat bernama *
 
 **Ummu Aiman** membawanya kembali ke Makkah, ke pangkuan kakeknya Abdul Muthalib.
 
+🎨 *Ilustrasi: Perjalanan karavan di padang pasir al-Abwa' dengan makam sederhana Aminah di bawah pohon kecil. Muhammad berusia 6 tahun (cahaya emas lembut) berdiri di samping makam dengan Ummu Aiman yang menggenggam tangannya. Karavan unta terlihat di kejauhan menuju Makkah. Warna dominan coklat tanah, hijau pohon, putih makam, emas cahaya. Mood duka namun penuh perlindungan. Komposisi makam di kiri, Muhammad dan Ummu Aiman di tengah, karavan menuju Makkah di kanan.*
+
 ---
 
 ## Dalam Asuhan Abdul Muthalib
@@ -50,6 +58,8 @@ Abdul Muthalib selalu membawa Muhammad ke pertemuan kaum Quraisy dan menjadikann
 
 Tapi kebahagiaan ini tidak berlangsung lama. Dua tahun kemudian, saat Muhammad berusia **delapan tahun**, Abdul Muthalib jatuh sakit dan wafat. Sebelum menghembuskan napas terakhirnya, ia memanggil putranya **Abu Thalib** dan berpesan: "Jagalah Muhammad untukku." Abu Thalib berjanji akan merawat keponakannya seperti anaknya sendiri.
 
+🎨 *Ilustrasi: Abdul Muthalib yang berjanggut putih duduk bersila di bawah pohon dekat Ka'bah, membelai kepala Muhammad berusia 8 tahun (cahaya emas lembut) dengan kasih sayang. Pemimpin-pemimpin Quraisy duduk dalam lingkaran mendengarkan. Abu Thalib berdiri di belakang dengan ekspresi siap menerima amanah. Warna dominan putih janggut, coklat jubah, hijau pohon, putih Ka'bah. Mood hangat namun berat karena amanah. Komposisi lingkaran diskusi dengan kakek dan cucu di tengah, Ka'bah di latar belakang.*
+
 ---
 
 ## Abu Thalib — Paman yang Setia
@@ -57,6 +67,8 @@ Tapi kebahagiaan ini tidak berlangsung lama. Dua tahun kemudian, saat Muhammad b
 **Abu Thalib** bukan orang kaya, tapi ia merawat Muhammad dengan penuh kasih sayang — melebihi anak-anaknya sendiri. Muhammad membantu ekonomi keluarga pamannya dengan **menggembala kambing** untuk penduduk Makkah.
 
 Nabi Muhammad ﷺ pernah bersabda: **"Tidak ada seorang nabi pun kecuali ia pernah menggembala kambing."** (HR Bukhari, no. 2262)
+
+🎨 *Ilustrasi: Muhammad remaja (cahaya emas lembut) menggembala kambing di bukit-bukit sekitar Makkah. Abu Thalib duduk di bawah pohon memandang keponakannya dengan bangga. Kawanan kambing tersebar di padang rumput. Makkah dengan Ka'bah terlihat di lembah. Warna dominan hijau rumput, putih kambing, coklat bukit, emas cahaya matahari. Mood damai dan pembentukan karakter. Komposisi Muhammad dengan kambing di tengah, Abu Thalib di kiri, Makkah di latar belakang lembah.*
 
 ---
 
@@ -70,3 +82,5 @@ Keyatiman Nabi Muhammad ﷺ punya hikmah besar:
 - **Teladan** — Allah mengangkat martabat setiap anak yatim melalui nabi-Nya
 
 Allah berfirman: **"Maka terhadap anak yatim janganlah kamu berlaku sewenang-wenang."** (QS Ad-Dhuha: 9)
+
+🎨 *Ilustrasi: Muhammad dewuda (cahaya emas mulia) berdiri di atas bukit memandang Makkah, dengan jejak perjalanan hidupnya terlihat simbolik - makam ayah di Yatsrib, makam ibu di Abwa', perkemahan Halimah, rumah Abdul Muthalib, dan rumah Abu Thalib. Anak-anak yatim dari berbagai zaman berdiri di sisinya dengan penuh harapan. Warna dominan emas cahaya kenabian, biru langit luas, coklat bumi, putih harapan. Mood mulia dan inspiratif. Komposisi Muhammad di puncak sebagai focal point, jejak perjalanan membentuk lingkaran, anak yatim di sekeliling.*

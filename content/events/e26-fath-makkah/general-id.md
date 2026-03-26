@@ -18,7 +18,7 @@ Rasulullah ﷺ memerintahkan kaum muslimin untuk bersiap, namun beliau merahasia
 
 Salah satu insiden penting terjadi ketika **Hathib bin Abi Balta'ah**, seorang sahabat yang ikut dalam Perang Badr, mengirimkan surat rahasia ke Makkah memberitahukan rencana Nabi ﷺ. Hathib melakukannya bukan karena kemunafikan, melainkan karena ia memiliki keluarga di Makkah yang tidak memiliki pelindung dari kalangan Quraisy. Allah menurunkan wahyu membongkar perbuatannya, dan Rasulullah ﷺ mengutus **Ali bin Abi Thalib** dan **al-Zubair bin al-Awwam** untuk mengejar utusan perempuan yang membawa surat tersebut.^3
 
-Imam al-Bukhari meriwayatkan^5:
+Imam al-Bukhari meriwayatkan:
 
 > يَا رَسُولَ اللَّهِ لَا تَعْجَلْ عَلَيَّ إِنِّي كُنْتُ امْرَأً مُلْصَقًا فِي قُرَيْشٍ وَلَمْ أَكُنْ مِنْ أَنْفُسِهَا
 >
@@ -114,5 +114,4 @@ Fath Makkah mengubah peta geopolitik Jazirah Arab secara permanen. Dengan jatuhn
 
 4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, bab Fath Makkah.
 
-5. Al-Quran al-Karim, QS. Al-Fath, QS. Al-Isra, QS. An-Nashr.^6
-6. Al-Qur'an al-Karim. QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nashr (110): 1-2.
+5. Al-Qur'an al-Karim. QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nashr (110): 1-2.

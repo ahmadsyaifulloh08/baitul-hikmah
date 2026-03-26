@@ -14,7 +14,7 @@ Ketika al-Khwarizmi tiba di Baghdad, kota ini sedang mengalami ledakan intelektu
 
 Untuk memahami revolusi yang dibawa al-Khwarizmi, perlu dipahami kondisi matematika sebelum masanya. Pada abad kedelapan, matematika merupakan kumpulan tradisi yang terpisah tanpa kerangka unifikasi yang kuat.^1
 
-Bangsa **Yunani** unggul dalam geometri teoretis — karya Euclid, Archimedes, dan Apollonius memberikan dasar geometri yang sempurna. Namun mereka lemah dalam notasi aljabar dan sistem bilangan. Persamaan dinyatakan dalam bentuk kata-kata atau diagram geometris yang rumit. Misalnya, untuk menyatakan apa yang kita tulis sebagai "x² + 10x = 39", mereka akan mengatakan "persegi plus sepuluh akar sama dengan tiga puluh sembilan unit."^3
+Bangsa **Yunani** unggul dalam geometri teoretis — karya Euclid, Archimedes, dan Apollonius memberikan dasar geometri yang sempurna. Namun mereka lemah dalam notasi aljabar dan sistem bilangan. Persamaan dinyatakan dalam bentuk kata-kata atau diagram geometris yang rumit. Misalnya, untuk menyatakan apa yang kita tulis sebagai "x^2 + 10x = 39", mereka akan mengatakan "persegi plus sepuluh akar sama dengan tiga puluh sembilan unit."^3
 
 Bangsa **India** telah mengembangkan sistem angka desimal dan konsep nol (*sunya*) — inovasi revolusioner yang memungkinkan notasi posisional. Brahmagupta (628 M) dan matematikawan India lainnya juga mampu menyelesaikan persamaan kuadrat. Namun metode mereka belum tersistematisasi dalam kerangka teoretis yang koheren.^4
 
@@ -27,12 +27,12 @@ Sekitar tahun 820 M, al-Khwarizmi menyelesaikan karyanya yang paling revolusione
 Istilah **"al-jabr"** (الجبر) secara harfiah berarti "penyempurnaan" atau "pemulihan" — operasi memindahkan suku negatif ke sisi lain persamaan. **"Al-muqabalah"** berarti "penyeimbangan" — operasi mengurangi suku-suku serupa dari kedua sisi persamaan. Kedua istilah ini menggambarkan operasi-operasi fundamental dalam manipulasi persamaan aljabar.^1
 
 Al-Khwarizmi mengklasifikasikan semua persamaan kuadrat menjadi enam tipe standar:
-1. Squares equal roots (*ax² = bx*)
-2. Squares equal number (*ax² = c*)  
+1. Squares equal roots (*ax^2 = bx*)
+2. Squares equal number (*ax^2 = c*)  
 3. Roots equal number (*bx = c*)
-4. Squares and roots equal number (*ax² + bx = c*)
-5. Squares and number equal roots (*ax² + c = bx*)
-6. Roots and number equal squares (*bx + c = ax²*)
+4. Squares and roots equal number (*ax^2 + bx = c*)
+5. Squares and number equal roots (*ax^2 + c = bx*)
+6. Roots and number equal squares (*bx + c = ax^2*)
 
 Untuk setiap tipe, ia memberikan metode solusi yang sistematis, disertai dengan bukti geometris yang elegant.^1
 
@@ -64,7 +64,7 @@ Dalam bidang geografi, karyanya *Kitab Surat al-Ard* ("Buku Peta Bumi") merupaka
 
 ## Dialog dan Dalil
 
-Motivasi al-Khwarizmi dalam mengembangkan aljabar tidak terlepas dari tuntutan praktis hukum Islam, khususnya dalam masalah pembagian warisan. Al-Qur'an memberikan aturan yang detail namun kompleks tentang pembagian harta warisan^7^6:
+Motivasi al-Khwarizmi dalam mengembangkan aljabar tidak terlepas dari tuntutan praktis hukum Islam, khususnya dalam masalah pembagian warisan. Al-Qur'an memberikan aturan yang detail namun kompleks tentang pembagian harta warisan^6:
 
 > يُوصِيكُمُ ٱللَّهُ فِىٓ أَوۡلَٰدِكُمۡ لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِ ﴿١١﴾
 >
@@ -118,5 +118,4 @@ Al-Khwarizmi membuktikan bahwa ilmu pengetahuan tidak mengenal batas geografis, 
 3. Euclid. *Elements* — geometri Yunani klasik.
 4. Brahmagupta. *Brahmasphutasiddhanta* — matematika India abad ke-7.
 5. Al-Khwarizmi, Muhammad ibn Musa. *Kitab al-Jabr wa al-Muqabalah*, ed. Roshdi Rashed (Paris: Les Belles Lettres, 2007).
-6. Al-Quran al-Karim, QS. an-Nisa.
-7. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.
+6. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.

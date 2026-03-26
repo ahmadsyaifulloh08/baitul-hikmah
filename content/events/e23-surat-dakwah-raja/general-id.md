@@ -16,7 +16,7 @@ Nabi Muhammad ﷺ mengutus **Dihyah bin Khalifah al-Kalbi** untuk membawa surat 
 
 *"Bismillahirrahmanirrahim. Dari Muhammad, hamba Allah dan utusan-Nya, kepada Heraklius, pembesar Romawi. Salam sejahtera bagi siapa yang mengikuti petunjuk. Amma ba'du, sesungguhnya aku mengajakmu dengan seruan Islam. Masuk Islamlah, niscaya engkau selamat, dan Allah akan memberimu pahala dua kali lipat. Jika engkau berpaling, maka engkau menanggung dosa rakyatmu... "*
 
-Surat itu kemudian mengutip ayat al-Quran^5^4:
+Surat itu kemudian mengutip ayat al-Quran^4:
 
 > قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ بِهِ شَيْئًا ﴿٦٤﴾
 >
@@ -108,5 +108,4 @@ Surat-surat dakwah ini mengandung beberapa pelajaran penting:
 
 3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, Bab Surat Nabi kepada Heraklius.
 
-4. Al-Quran al-Karim, QS. Al-Anbiya, QS. Ali.
-5. Al-Qur'an al-Karim. QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107.

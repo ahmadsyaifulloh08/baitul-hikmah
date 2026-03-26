@@ -38,7 +38,7 @@ Musa ibn Nusayr sendiri menyeberangi selat pada tahun 712 M dengan pasukan tamba
 
 ## Dialog dan Dalil
 
-Motivasi spiritual di balik penaklukan Al-Andalus sejalan dengan semangat al-Quran^5^4:
+Motivasi spiritual di balik penaklukan Al-Andalus sejalan dengan semangat al-Quran^4:
 
 > وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ ﴿٦٠﴾
 >
@@ -73,5 +73,4 @@ Fakta bahwa "Gibraltar" — salah satu nama tempat paling dikenal di dunia — b
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Beirut: Dar Shadir, 1979.
 
-4. Al-Quran al-Karim, QS. Al-Anfal.
-5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.

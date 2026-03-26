@@ -2,11 +2,11 @@
 
 ## Konteks: Urgensi Pasca-Yamamah
 
-Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^3 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.^1^4
+Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^1 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.^2
 
-Pada masa Rasulullah ﷺ, al-Quran dilestarikan melalui dua cara: **hafalan** (*hifzh*) dan **tulisan** (*kitabah*). Para sahabat menghafal al-Quran langsung dari lisan Nabi, sementara para juru tulis wahyu*kuttab al-wahy* — seperti Zaid bin Tsabit, Ubay bin Ka'b, Abdullah bin Mas'ud, dan lainnya — menuliskan ayat-ayat yang turun di atas berbagai media: pelepah kurma (*'usub*), lempengan batu tipis (*likhaf*), tulang belikat unta (*aktaf*), dan potongan kulit (*riqq*).^1 ^2
+Pada masa Rasulullah ﷺ, al-Quran dilestarikan melalui dua cara: **hafalan** (*hifzh*) dan **tulisan** (*kitabah*). Para sahabat menghafal al-Quran langsung dari lisan Nabi, sementara para juru tulis wahyu*kuttab al-wahy* — seperti Zaid bin Tsabit, Ubay bin Ka'b, Abdullah bin Mas'ud, dan lainnya — menuliskan ayat-ayat yang turun di atas berbagai media: pelepah kurma (*'usub*), lempengan batu tipis (*likhaf*), tulang belikat unta (*aktaf*), dan potongan kulit (*riqq*). 
 
-Namun tulisan-tulisan ini tersebar di tangan banyak sahabat, tidak terkumpul dalam satu tempat atau satu mushaf. Setiap sahabat menyimpan bagian-bagian yang ia tulis atau salin. Al-Suyuti dalam *Al-Itqan fi Ulum al-Qur'an* menjelaskan bahwa Rasulullah ﷺ tidak memerintahkan pengumpulan al-Quran dalam satu mushaf semasa hidup beliau karena wahyu masih terus turun — kemungkinan ada ayat yang di-*nasakh* (dihapus hukumnya) atau diubah urutannya.^2
+Namun tulisan-tulisan ini tersebar di tangan banyak sahabat, tidak terkumpul dalam satu tempat atau satu mushaf. Setiap sahabat menyimpan bagian-bagian yang ia tulis atau salin. Al-Suyuti dalam *Al-Itqan fi Ulum al-Qur'an* menjelaskan bahwa Rasulullah ﷺ tidak memerintahkan pengumpulan al-Quran dalam satu mushaf semasa hidup beliau karena wahyu masih terus turun — kemungkinan ada ayat yang di-*nasakh* (dihapus hukumnya) atau diubah urutannya.
 
 Dengan wafatnya Rasulullah dan terhentinya wahyu, alasan untuk tidak mengumpulkan al-Quran sudah tidak ada lagi. Dan dengan gugurnya ratusan penghafal di Yamamah, urgensi untuk mengumpulkannya menjadi sangat mendesak.
 
@@ -14,28 +14,28 @@ Dengan wafatnya Rasulullah dan terhentinya wahyu, alasan untuk tidak mengumpulka
 
 ### Umar Mendesak Abu Bakr
 
-Imam al-Bukhari meriwayatkan dalam *Shahih*-nya — hadits yang menjadi sumber utama tentang pengumpulan al-Quran — dari **Zaid bin Tsabit** sendiri:^1
+Imam al-Bukhari meriwayatkan dalam *Shahih*-nya — hadits yang menjadi sumber utama tentang pengumpulan al-Quran — dari **Zaid bin Tsabit** sendiri:
 
 Zaid berkata: *"Abu Bakr mengirim utusan kepadaku setelah peristiwa Yamamah. Ternyata Umar bin al-Khattab sudah ada bersamanya."*
 
-Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*^1
+Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*
 
 Abu Bakr awalnya ragu. Ia menjawab Umar: *"Bagaimana kita melakukan sesuatu yang tidak pernah dilakukan oleh Rasulullah ﷺ?"*
 
 Umar menjawab: *"Demi Allah, ini adalah kebaikan."*
 
-Al-Bukhari meriwayatkan bahwa Umar terus mendesak Abu Bakr hingga **Allah melapangkan dada Abu Bakr** untuk menerima pendapat tersebut.^1 Perubahan sikap Abu Bakr ini menunjukkan proses *ijtihad* — penalaran independen dalam masalah yang tidak ada nashnya secara eksplisit — yang menjadi preseden penting dalam hukum Islam.
+Al-Bukhari meriwayatkan bahwa Umar terus mendesak Abu Bakr hingga **Allah melapangkan dada Abu Bakr** untuk menerima pendapat tersebut. Perubahan sikap Abu Bakr ini menunjukkan proses *ijtihad* — penalaran independen dalam masalah yang tidak ada nashnya secara eksplisit — yang menjadi preseden penting dalam hukum Islam.
 
 ### Pemilihan Zaid bin Tsabit
 
 Abu Bakr kemudian memanggil **Zaid bin Tsabit** dan mempercayakan tugas besar ini kepadanya. Mengapa Zaid? Ada beberapa alasan yang dicatat oleh para ulama:
 
-1. **Zaid adalah juru tulis wahyu utama** — ia paling sering menulis wahyu atas perintah langsung Rasulullah ﷺ.^1
-2. **Zaid hadir pada** ***al-'Ardhah al-Akhirah*** — pembacaan terakhir al-Quran oleh Nabi di hadapan Jibril pada Ramadhan terakhir sebelum wafat.^2
+1. **Zaid adalah juru tulis wahyu utama** — ia paling sering menulis wahyu atas perintah langsung Rasulullah ﷺ.
+2. **Zaid hadir pada** ***al-'Ardhah al-Akhirah*** — pembacaan terakhir al-Quran oleh Nabi di hadapan Jibril pada Ramadhan terakhir sebelum wafat.
 3. **Zaid adalah penghafal al-Quran yang cermat** — kecermatannya diakui oleh para sahabat senior.
 4. **Zaid masih muda dan cerdas** — usianya sekitar 22 tahun saat itu, penuh energi untuk mengemban tugas besar ini.
 
-Zaid sendiri merasa berat dengan penugasan ini. Ia berkata dalam riwayat al-Bukhari:^1
+Zaid sendiri merasa berat dengan penugasan ini. Ia berkata dalam riwayat al-Bukhari:
 
 *"Demi Allah, seandainya mereka membebaniku untuk memindahkan gunung, itu tidak akan lebih berat bagiku daripada apa yang diperintahkan kepadaku berupa pengumpulan al-Quran."*
 
@@ -43,19 +43,19 @@ Pernyataan Zaid ini bukan berlebihan. Ia memahami bahwa ia sedang mengemban aman
 
 ### Metodologi Pengumpulan
 
-Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin Tsabit:^2
+Al-Suyuti dalam *Al-Itqan* menjelaskan metodologi ketat yang digunakan Zaid bin Tsabit:
 
 **Pertama**, Zaid tidak mengandalkan hafalannya sendiri saja, meskipun ia hafal seluruh al-Quran. Ia menggunakan pendekatan verifikasi ganda*tawatur*.
 
-**Kedua**, untuk setiap ayat, Zaid mensyaratkan adanya **dua saksi** — yaitu dua orang yang memiliki catatan tertulis dari ayat tersebut yang ditulis di hadapan Rasulullah ﷺ, atau dua orang yang menghafalnya langsung dari lisan Nabi.^1 ^2 Syarat ini memastikan bahwa tidak ada ayat yang masuk ke dalam mushaf berdasarkan satu sumber saja.
+**Kedua**, untuk setiap ayat, Zaid mensyaratkan adanya **dua saksi** — yaitu dua orang yang memiliki catatan tertulis dari ayat tersebut yang ditulis di hadapan Rasulullah ﷺ, atau dua orang yang menghafalnya langsung dari lisan Nabi.  Syarat ini memastikan bahwa tidak ada ayat yang masuk ke dalam mushaf berdasarkan satu sumber saja.
 
-**Ketiga**, Zaid mengumpulkan tulisan-tulisan al-Quran dari berbagai media — pelepah kurma, lempengan batu, tulang, potongan kulit, dan lembaran-lembaran (*suhuf*) — dari tangan para sahabat di seluruh Madinah.^1
+**Ketiga**, Zaid mengumpulkan tulisan-tulisan al-Quran dari berbagai media — pelepah kurma, lempengan batu, tulang, potongan kulit, dan lembaran-lembaran (*suhuf*) — dari tangan para sahabat di seluruh Madinah.
 
 **Keempat**, Zaid mencocokkan semua tulisan ini dengan hafalan para penghafal al-Quran yang masih hidup, memastikan konsistensi antara teks tertulis dan hafalan.
 
 ### Ayat Terakhir yang Ditemukan
 
-Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid berkata:^1
+Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid berkata:
 
 *"Aku menemukan akhir Surah al-Taubah — 'Sungguh telah datang kepadamu seorang rasul dari kalanganmu sendiri...' (QS. Al-Taubah: 128-129) — hanya pada Abu Khuzaimah al-Anshari, dan aku tidak menemukannya pada seorang pun selain dia. "*
 
@@ -64,11 +64,11 @@ Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid be
 > *"Sungguh telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaanmu, sangat menginginkan keimanan dan keselamatan bagimu, amat belas kasihan lagi penyayang terhadap orang-orang mukmin. ﴾128﴿"*
 > — QS. Al-Taubah (9): 128
 
-Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^2
+Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.
 
 ### Penyimpanan Mushaf
 
-Setelah proses pengumpulan selesai, lembaran-lembaran *suhuf* yang telah disusun ini disimpan di tangan **Abu Bakr** selama sisa kekhalifahannya. Setelah Abu Bakr wafat, *suhuf* tersebut berpindah ke tangan **Umar bin al-Khattab**. Dan setelah Umar wafat, *suhuf* tersebut disimpan oleh **Hafshah binti Umar**, putri Umar dan istri Rasulullah ﷺ — sehingga wahyu Allah dijaga oleh keluarga yang paling dipercaya.^1
+Setelah proses pengumpulan selesai, lembaran-lembaran *suhuf* yang telah disusun ini disimpan di tangan **Abu Bakr** selama sisa kekhalifahannya. Setelah Abu Bakr wafat, *suhuf* tersebut berpindah ke tangan **Umar bin al-Khattab**. Dan setelah Umar wafat, *suhuf* tersebut disimpan oleh **Hafshah binti Umar**, putri Umar dan istri Rasulullah ﷺ — sehingga wahyu Allah dijaga oleh keluarga yang paling dipercaya.
 
 ## Dialog dan Dalil: Janji Allah tentang Penjagaan Al-Quran
 
@@ -81,13 +81,13 @@ Proyek pengumpulan al-Quran ini, dalam perspektif teologis Islam, merupakan perw
 > *"Sesungguhnya Kami-lah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^2
+Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.
 
 ### Perbedaan dengan Pengumpulan Utsmani
 
 Penting untuk membedakan antara pengumpulan al-Quran masa Abu Bakr (*jam' al-Qur'an*) dan penyalinan mushaf standar masa Utsman (*naskh al-mashahif*). Pengumpulan Abu Bakr bertujuan mengumpulkan seluruh ayat al-Quran yang terpencar dalam satu tempat. Sementara penyalinan Utsman — sekitar dua dekade kemudian — bertujuan menyeragamkan bacaan dan tulisan al-Quran di seluruh wilayah Islam yang sudah meluas hingga Persia dan Afrika Utara.
 
-Proyek Abu Bakr menghasilkan *suhuf* (lembaran-lembaran) dalam satu tempat. Proyek Utsman menghasilkan *mashahif* (mushaf-mushaf standar) yang dikirim ke berbagai kota besar.^2
+Proyek Abu Bakr menghasilkan *suhuf* (lembaran-lembaran) dalam satu tempat. Proyek Utsman menghasilkan *mashahif* (mushaf-mushaf standar) yang dikirim ke berbagai kota besar.
 
 ## Analisis dan Hikmah
 
@@ -115,9 +115,6 @@ Zaid bin Tsabit tidak berlebihan ketika ia berkata bahwa memindahkan gunung lebi
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 4986, Kitab Fadha'il al-Qur'an, Bab Jam' al-Qur'an.
-
-2. **Al-Suyuti, Jalal al-Din Abdurrahman.** *Al-Itqan fi Ulum al-Qur'an* (Kesempurnaan dalam Ilmu-Ilmu al-Quran). Jilid 1. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: al-Hay'ah al-Mishriyyah al-'Ammah li al-Kitab, 1974.
-
-3. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
-4. Al-Qur'an al-Karim. QS. Al-Taubah: 128-129, 128; QS. Al-Hijr (15): 9.
+1. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
+3. Al-Suyuti, Jalaluddin, *Al-Itqan fi Ulum al-Quran*, jilid 1, tahqiq Muhammad Abu al-Fadhl Ibrahim (Kairo: Dar al-Turath, 1967).
+3. Al-Qur'an al-Karim. QS. Al-Taubah: 128-129, 128; QS. Al-Hijr (15): 9.

@@ -48,7 +48,7 @@ At dawn on the fourth day, a sandstorm blew from the west — striking the Persi
 
 Beyond the words of Rib'i ibn Amir already mentioned, al-Tabari records several important moments:
 
-Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not ride a horse — commanded the battle from a tower, motivating his troops by reciting the words of Allah:^1^4
+Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not ride a horse — commanded the battle from a tower, motivating his troops by reciting the words of Allah:^1 ^4
 
 > وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ﴿١٠٥﴾
 >

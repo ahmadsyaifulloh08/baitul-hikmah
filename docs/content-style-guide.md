@@ -137,6 +137,9 @@ N. Al-Qur'an al-Karim. QS. [Nama Surah 1] ([Nomor]): [Ayat]; QS. [Nama Surah 2] 
 - Di body text, setiap blockquote ayat Quran HARUS memiliki sitasi `^N` yang merujuk ke entry ini
 - Ayat yang hanya direferensikan inline (tanpa blockquote) tetap harus tercantum di entry ini
 - **WAJIB** — artikel yang punya `QS.` refs tapi TIDAK punya entry Al-Qur'an di pustaka = **REJECT**
+- **HANYA 1 entry Al-Qur'an per artikel** — jika ada duplikat (2+ entry Al-Qur'an), hapus yang format lama dan keep yang format lengkap
+- **Nama surah TIDAK BOLEH terpotong**: ❌ `QS. Ali` → ✅ `QS. Ali Imran (3): 64` — harus lengkap dengan nomor surah dan ayat dalam parentheses
+- **Format wajib**: `Al-Qur'an al-Karim. QS. [Nama Lengkap] ([Nomor]): [Ayat]` — tanpa parentheses/nomor = REJECT
 
 ### 🚫 5 Violation Types (Auto-Reject)
 
@@ -147,6 +150,7 @@ N. Al-Qur'an al-Karim. QS. [Nama Surah 1] ([Nomor]): [Ayat]; QS. [Nama Surah 2] 
 | V3 | **Duplikat pustaka** — sumber yang sama muncul >1x di daftar pustaka | Ibn Hisham muncul di #1, #4, #7 | REJECT |
 | V4 | **Pustaka <3 entries** — terlalu sedikit, kurang triangulasi | Hanya 1-2 sumber | REJECT |
 | V5 | **Sitasi ⁰ (nol)** — nomor sitasi harus mulai dari 1 | ^0 di teks | REJECT |
+| V6 | **Duplikat Al-Qur'an entry** — lebih dari 1 entry Al-Qur'an di daftar pustaka, atau nama surah terpotong | 2 entry "Al-Qur'an al-Karim" atau "QS. Ali" tanpa "(3): 64" | REJECT |
 
 ### Self-Check Sebelum Submit
 

@@ -8,7 +8,7 @@ language: "id"
 sections: 4
 ---
 
-## 🏛 Tahukah kamu?
+## 🏛 Sejarah Perluasan
 
 Pada tahun 634 M, Khalifah Umar ibn al-Khattab memperluas Masjid Nabawi menjadi dua kali lebih besar! Masjid ini tidak hanya untuk shalat, tapi juga menjadi tempat belajar terbesar di dunia.
 

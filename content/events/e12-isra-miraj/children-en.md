@@ -1,80 +1,55 @@
 # The Miraculous Journey to the Heavens
 
-## 🌙 A Sad and Difficult Time
+## 🌙 An Extraordinary Night
 
-Prophet Muhammad SAW had just lost two people he loved most — his wife **Khadijah** and his uncle **Abu Talib**. His heart was filled with sadness.
+On a quiet night in Mecca, **Prophet Muhammad SAW** was resting at home. He had just gone through very difficult times — losing his beloved wife **Khadijah** and dear uncle **Abu Talib**. His heart was still sad.
 
-The people of Mecca were also being very cruel to him. It felt like the whole world was against him. But Allah had a very special plan for His beloved Prophet.
+Suddenly, the roof of his house opened! Angel **Jibril AS** descended with bright shining light. Jibril brought a special mount called *Buraq* — a beautiful white creature, bigger than a donkey but smaller than a horse. Do you know how fast Buraq was? Each step could reach as far as the eye could see! Faster than any airplane!
 
-> **🎨 Illustration Brief:**
-> *Prophet Muhammad SAW sitting alone in a simple room at night. Moonlight comes through a small window. His posture shows sadness. Colors of deep blue, silver moonlight, warm brown. Mood reflective and somber. Simple interior composition.*
+Jibril said to the Prophet: "Mount up, O Messenger of Allah. Tonight you will make a journey that no one has ever made before."
 
----
+So Prophet Muhammad SAW rode Buraq, and in an instant they flew across deserts, mountains, and oceans — from Mecca to the distant city of Jerusalem!
 
-## ✨ The Buraq Arrives
+🎨 *Illustration: A starry night above Mecca. Buraq — a glowing white creature with wings — stands in the courtyard of a simple house. Jibril stands beside Buraq, his hand extended inviting Prophet Muhammad SAW who stands at the threshold. Dominant colors deep blue sky, glowing white Buraq, golden stars. Mood full of wonder and anticipation. Composition diagonal — Buraq on left, Prophet on right, vast sky above.*
 
-On a quiet night, the Angel **Jibril** came with a special mount called the *Buraq* — a beautiful white creature with wings. Each step of the Buraq could reach as far as the eye can see!
+## 🕌 Leading All the Prophets
 
-Jibril said: "Mount up, O Messenger of Allah. Tonight you will make a journey no one has ever made before."
+Prophet Muhammad SAW arrived at a very beautiful and sacred mosque called **al-Masjid al-Aqsa** in Jerusalem. Guess who was already waiting there? All the prophets and messengers who had ever existed in the world!
 
-In an instant, they flew across deserts, mountains, and oceans — from Mecca all the way to Jerusalem!
+There was **Prophet Adam AS** — the first human on earth. There was **Prophet Ibrahim AS** — who built the Ka'bah. There was **Prophet Musa AS** — who parted the sea. There was **Prophet Isa AS** — who could heal the sick with Allah's permission. They were all gathered there!
 
-> **🎨 Illustration Brief:**
-> *A starlit night sky. The Buraq — a glowing white winged creature — soars above clouds. Below, a landscape of desert and mountains bathed in moonlight. Colors of deep blue sky, glowing white Buraq, golden stars. Mood wondrous and magical. Diagonal composition — Buraq flying from lower left to upper right.*
+Then Jibril invited Prophet Muhammad SAW to stand in front as the imam. Imagine — all the prophets who had ever lived throughout the ages, all prayed behind Prophet Muhammad SAW! This showed that Muhammad is the final prophet and leader of all prophets.
 
----
+After the prayer ended, the journey was not over. Jibril said: "Now, we ascend to the heavens!"
 
-## 🕌 Prayer at al-Aqsa
-
-At **al-Masjid al-Aqsa** in Jerusalem, all the prophets who had ever lived were gathered. Prophet Adam, Prophet Ibrahim, Prophet Musa, Prophet Isa — all of them!
-
-Jibril invited Prophet Muhammad SAW to lead the prayer. Every prophet who ever lived prayed behind him. This showed that Muhammad is the final prophet and the leader of all prophets.
-
-> **🎨 Illustration Brief:**
-> *The majestic interior of al-Masjid al-Aqsa with tall pillars and glowing lamps. Rows of luminous figures in white garments praying. Golden light fills the space. Colors of warm gold, white garments, brown stone pillars. Mood reverent and majestic. Symmetrical composition — rows extending to the back.*
-
----
+🎨 *Illustration: The magnificent interior of al-Masjid al-Aqsa with tall pillars and glowing lamps. Prophet Muhammad SAW stands in front as imam, behind him rows upon rows of glowing prophets in white clothing. Golden light fills the room. Dominant colors warm gold, white clothing, brown stone pillars. Mood full of reverence and majesty. Composition symmetrical — Prophet in center front, rows of prophets extending backward.*
 
 ## ⭐ Ascending Through Seven Heavens
 
-Then came the most amazing part! Prophet Muhammad SAW and Jibril ascended through seven layers of heaven. At each heaven, the Prophet met a different prophet.
+This is the most amazing part! Prophet Muhammad SAW and Jibril ascended through the heavens — not just one heaven, but seven layers of heaven!
 
-In the first heaven was Prophet Adam, who smiled warmly. In the seventh heaven was Prophet Ibrahim. Each one welcomed him with joy.
+At each heaven, there were guardian angels who asked: "Who is this?" Jibril answered: "This is Muhammad." "Has he been sent as a messenger?" "Yes!" "Welcome! How excellent is this arrival!"
 
-> **🎨 Illustration Brief:**
-> *Layers of heaven in different colors — blue, purple, pink, gold, silver, green, glowing white — stacked like a stairway of light. At each layer, luminous figures wave. Colors gradient from dark blue at bottom to glowing white at top. Mood full of wonder. Vertical composition — journey from bottom to top.*
+And at each heaven, the Prophet met different prophets. At the first heaven was Prophet Adam AS who smiled warmly. At the second heaven were Prophet Isa and Prophet Yahya. At the third heaven was Prophet Yusuf AS whose face was very handsome. At the fourth heaven was Prophet Idris, at the fifth was Prophet Harun, and at the sixth was Prophet Musa who wept with emotion.
 
----
+At the seventh heaven — the highest heaven — Prophet Muhammad SAW met **Prophet Ibrahim AS**, his great-great-grandfather, who was leaning against *Baitul Ma'mur* — the Ka'bah of the angels in heaven! Every day, 70,000 angels enter there to worship, and they never return again because it's other angels' turn to come. There are so many of Allah's angels!
 
-## 🌳 Sidrat al-Muntaha
+Then the Prophet ascended even higher, to *Sidrat al-Muntaha* — a very beautiful tree at the highest boundary of Allah's creation. Even Jibril AS stopped here and said: "I cannot go any farther." It was here that Prophet Muhammad SAW spoke directly with Allah — without any intermediary!
 
-The Prophet ascended even higher, to *Sidrat al-Muntaha* — a beautiful tree at the highest boundary of creation. Even Jibril stopped here and said: "I cannot go any farther."
+🎨 *Illustration: Prophet Muhammad SAW and Jibril flying upward through layers of different colored heavens — blue, purple, pink, gold, silver, green, glowing white. At each layer, silhouettes of prophets wave their hands. At the top, the golden glowing tree Sidrat al-Muntaha shines very brightly. Dominant colors gradient from dark blue below to glowing white above. Mood full of wonder and awe. Composition vertical — journey from bottom to top, like a stairway of light.*
 
-It was here that Prophet Muhammad SAW spoke directly with Allah — without any intermediary! No other human being has ever been given this honor.
+## 🤲 The Gift of Five Daily Prayers
 
-> **🎨 Illustration Brief:**
-> *An enormous glowing tree radiating golden-white light in every direction. The light is so intense it fills the entire image. Colors of brilliant gold, pure white, soft green leaves. Mood awe-inspiring and divine. Central composition — the great tree of light dominating the image.*
+At that highest place, Allah gave a very special gift to Prophet Muhammad SAW and his entire community: **prayer**.
 
----
+Initially, Allah commanded fifty prayers a day. When the Prophet descended and met Prophet Musa AS, Musa asked: "What was commanded to you?" The Prophet answered: "Fifty prayers." Musa said: "Return to your Lord and ask for relief. I have experience — your community will not be able to manage!"
 
-## 🤲 The Gift of Five Prayers
+So the Prophet returned to Allah and asked for relief. Allah reduced it to forty. But Musa said: "Still too many, go back again!" The Prophet returned, and Allah reduced it again. This happened repeatedly — forty, thirty, twenty, ten — until finally it became **five prayers**.
 
-Allah gave a special gift: **prayer**. At first it was fifty prayers per day. But Prophet Musa advised Muhammad to ask for a reduction.
+When Musa still suggested asking for further relief, Prophet Muhammad SAW said: "I am too shy to return to my Lord again." Then Allah declared: "I have fixed these five prayers, but their reward equals fifty prayers!"
 
-The Prophet went back and forth until it became five daily prayers. Then Allah said: "Five prayers, but their reward equals fifty!"
+Subhanallah! That's why we pray five times a day — Fajr, Dhuhr, Asr, Maghrib, and Isha. Prayer is a direct gift from Allah given at the highest place. No other worship was commanded in such a special way!
 
-That is why we pray five times a day — Fajr, Dhuhr, Asr, Maghrib, and Isha. Prayer is a gift from the highest place!
+The next morning, the Prophet returned to Mecca. When he told people about his journey, many did not believe. But **Abu Bakr** immediately said: "If Muhammad said it, it must be true!" That's why Abu Bakr received the title *al-Siddiq* — the one who always affirms the truth.
 
-> **🎨 Illustration Brief:**
-> *Golden light descending from above. The number "5" glows in the center, surrounded by five circles of light representing the five prayers. Below, silhouettes of people praying in congregation. Colors of divine gold, pure white, sky blue. Mood devotional and grateful. Central composition — light from above, community below.*
-
----
-
-## 🌅 Back in Mecca
-
-The next morning, Prophet Muhammad SAW told people about his journey. Many did not believe him. But **Abu Bakr** immediately said: "If Muhammad said it, then it must be true!"
-
-That is why Abu Bakr was given the title *al-Siddiq* — the one who always affirms the truth. Faith means trusting even when something seems impossible!
-
-> **🎨 Illustration Brief:**
-> *Morning in Mecca. Abu Bakr stands confidently beside Prophet Muhammad SAW while skeptical Quraysh men look on with doubt. Warm morning sunlight. Colors of golden sunrise, brown stone buildings, white clothing. Mood of conviction and loyalty. Group composition — Abu Bakr and the Prophet on one side, doubters on the other.*
+🎨 *Illustration: Very bright golden light descending from above to the figure of Prophet Muhammad SAW who is prostrating with deep reverence. Around him, the numbers "50" change to "5" in circles of light. Below, silhouettes of people praying in congregation — representing Muslims throughout the ages. Dominant colors golden divine light, pure white, sky blue. Mood full of reverence and gratitude. Composition central — light from above illuminating the prostrating Prophet in the center, community below.*

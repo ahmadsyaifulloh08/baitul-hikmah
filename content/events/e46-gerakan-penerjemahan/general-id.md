@@ -4,7 +4,7 @@
 
 Ketika Islam menyebar ke wilayah-wilayah bekas kekaisaran Bizantium dan Persia, kaum Muslim menemukan kekayaan intelektual yang luar biasa — perpustakaan-perpustakaan yang menyimpan karya-karya filsafat Yunani, kedokteran Romawi, astronomi Persia, dan matematika India. Warisan ini tidak hilang bersama runtuhnya kerajaan-kerajaan lama; ia menunggu untuk ditemukan, diterjemahkan, dan dikembangkan.^1
 
-Al-Quran sendiri mendorong umat Islam untuk menuntut ilmu tanpa batas geografis atau etnis^5^4:
+Al-Quran sendiri mendorong umat Islam untuk menuntut ilmu tanpa batas geografis atau etnis^4:
 
 > اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾
 >
@@ -78,5 +78,4 @@ Gerakan penerjemahan menunjukkan bahwa peradaban-peradaban besar tidak tumbuh da
 
 3. **Ibn al-Nadim, Abu al-Faraj Muhammad.** *Al-Fihrist* (Indeks). Beirut: Dar al-Ma'rifah, 1978.
 
-4. Al-Quran al-Karim, QS. Al-Alaq.
-5. Al-Qur'an al-Karim. QS. Al-Alaq (96): 1.
+4. Al-Qur'an al-Karim. QS. Al-Alaq (96): 1.

@@ -6,7 +6,7 @@ Pada pertengahan abad keenam Masehi, Jazirah Arab berdiri di persimpangan perada
 
 Secara politik, Jazirah Arab berada di antara dua kekuatan adidaya dunia saat itu: Kekaisaran Romawi Timur (Bizantium) di barat laut dan Kekaisaran Sassanid (Persia) di timur laut. Kedua imperium ini menjadikan kerajaan-kerajaan Arab di perbatasan sebagai negara penyangga — Kerajaan Ghassaniyah sebagai negara bawahan Bizantium, dan Kerajaan Lakhmiyah sebagai negara bawahan Persia.^1 Yaman di selatan, yang dulunya pernah menjadi pusat peradaban maju di bawah Kerajaan Saba' dan Himyar, kini jatuh ke tangan Kerajaan Aksum (Habasyah/Ethiopia) setelah serangkaian perebutan kekuasaan internal.^2
 
-Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS Quraisy (106:1-4):^7
+Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS Quraisy (106:1-4):
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
@@ -48,9 +48,9 @@ Ibn Hisham dan al-Mubarakfuri sama-sama mencatat pernyataan ini sebagai bukti ke
 
 ## Kehancuran Pasukan Gajah
 
-Pada hari penyerangan, peristiwa yang tidak terduga terjadi. Gajah Mahmud — pemimpin pasukan gajah — menolak bergerak maju ketika diarahkan menuju Ka'bah. Setiap kali dihadapkan ke arah Makkah, ia berlutut dan menolak bangkit. Namun ketika diarahkan ke arah lain — ke Yaman, ke Syam, ke timur — ia berdiri dan berjalan.^1 Ibn Kathir dalam tafsirnya menyebutkan bahwa peristiwa ini sudah merupakan tanda ilahi sebelum kehancuran yang lebih besar datang.^3
+Pada hari penyerangan, peristiwa yang tidak terduga terjadi. Gajah Mahmud — pemimpin pasukan gajah — menolak bergerak maju ketika diarahkan menuju Ka'bah. Setiap kali dihadapkan ke arah Makkah, ia berlutut dan menolak bangkit. Namun ketika diarahkan ke arah lain — ke Yaman, ke Syam, ke timur — ia berdiri dan berjalan.^1 Ibn Kathir dalam tafsirnya menyebutkan bahwa peristiwa ini sudah merupakan tanda ilahi sebelum kehancuran yang lebih besar datang.
 
-Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa tiga batu kecil — *hijarat min sijjil* — satu di paruh dan satu di masing-masing cakar.^3 Batu-batu ini menghujani pasukan Abrahah, menghancurkan mereka seperti "daun-daun yang dimakan ulat" — *ka-'ashfin ma'kul* — sebagaimana difirmankan Allah dalam QS Al-Fil (105:1-5):^7
+Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa tiga batu kecil — *hijarat min sijjil* — satu di paruh dan satu di masing-masing cakar. Batu-batu ini menghujani pasukan Abrahah, menghancurkan mereka seperti "daun-daun yang dimakan ulat" — *ka-'ashfin ma'kul* — sebagaimana difirmankan Allah dalam QS Al-Fil (105:1-5):
 
 > أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ﴿١﴾ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِى تَضۡلِيلٍ ﴿٢﴾ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ﴿٣﴾ تَرۡمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ﴿٤﴾ فَجَعَلَهُمۡ كَعَصۡفٍ مَّأۡكُولٍ ﴿٥﴾
 >
@@ -71,10 +71,10 @@ Meski demikian, yang tidak diperdebatkan adalah **signifikansinya**: peristiwa p
 
 Dalam tahun yang sama dengan kehancuran pasukan gajah — atau menurut sebagian riwayat, lima puluh hari setelahnya — lahirlah di Makkah seorang bayi yang akan mengubah wajah peradaban manusia.^2
 
-**Muhammad bin Abdullah bin Abdul Muthalib bin Hasyim bin Abdi Manaf** lahir pada hari Senin, tanggal 12 Rabi'ul-Awwal menurut pendapat yang paling masyhur, meskipun sebagian ulama menyebutkan tanggal 8, 9, atau 10 Rabi'ul-Awwal.^2 ^6 Ibn Sa'd dalam *Tabaqat al-Kubra* dan al-Mubarakfuri dalam *al-Rahiq al-Makhtum* menguatkan kelahiran pada hari Senin berdasarkan hadits shahih dalam *Shahih Muslim*, di mana Nabi Muhammad ﷺ ditanya tentang puasa hari Senin dan beliau menjawab:^5
+**Muhammad bin Abdullah bin Abdul Muthalib bin Hasyim bin Abdi Manaf** lahir pada hari Senin, tanggal 12 Rabi'ul-Awwal menurut pendapat yang paling masyhur, meskipun sebagian ulama menyebutkan tanggal 8, 9, atau 10 Rabi'ul-Awwal.^2 ^5 Ibn Sa'd dalam *Tabaqat al-Kubra* dan al-Mubarakfuri dalam *al-Rahiq al-Makhtum* menguatkan kelahiran pada hari Senin berdasarkan hadits shahih dalam *Shahih Muslim*, di mana Nabi Muhammad ﷺ ditanya tentang puasa hari Senin dan beliau menjawab:^4
 
 > *"Itulah hari aku dilahirkan, dan hari aku diutus (sebagai Nabi)."*
-> — HR Muslim, no. 1162, Kitab al-Shiyam^5
+> — HR Muslim, no. 1162, Kitab al-Shiyam^4
 
 ### Nasab yang Mulia
 
@@ -82,37 +82,37 @@ Nasab Nabi Muhammad ﷺ dari jalur ayah bersambung hingga Nabi Ismail bin Ibrahi
 
 **Muhammad** bin **Abdullah** bin **Abdul Muthalib** (Syaibah) bin **Hasyim** (Amr) bin **Abdi Manaf** (al-Mughirah) bin **Qushay** bin **Kilab** — seterusnya hingga **Adnan**, keturunan Ismail bin Ibrahim.
 
-Ayahnya, **Abdullah**, adalah putra termuda dan paling dicintai oleh Abdul Muthalib.^6 Abdullah menikah dengan **Aminah binti Wahb** dari Bani Zuhrah, salah satu suku terkemuka Quraisy.^1 Namun Abdullah wafat sebelum Muhammad lahir — menurut pendapat yang paling kuat, ia meninggal dalam perjalanan dagang ke Madinah (saat itu bernama Yatsrib) dan dimakamkan di sana.^6 Dengan demikian, Muhammad ﷺ lahir sebagai anak yatim.
+Ayahnya, **Abdullah**, adalah putra termuda dan paling dicintai oleh Abdul Muthalib.^5 Abdullah menikah dengan **Aminah binti Wahb** dari Bani Zuhrah, salah satu suku terkemuka Quraisy.^1 Namun Abdullah wafat sebelum Muhammad lahir — menurut pendapat yang paling kuat, ia meninggal dalam perjalanan dagang ke Madinah (saat itu bernama Yatsrib) dan dimakamkan di sana.^5 Dengan demikian, Muhammad ﷺ lahir sebagai anak yatim.
 
 ### Peristiwa Sekitar Kelahiran
 
 Sumber-sumber sirah mencatat beberapa peristiwa luar biasa yang terjadi di sekitar kelahiran Nabi Muhammad ﷺ, meskipun status historis sebagian riwayat ini perlu dicermati:
 
-1. **Cahaya yang memancar**: Aminah meriwayatkan bahwa saat melahirkan, ia melihat cahaya yang memancar darinya hingga menerangi istana-istana Syam (Suriah). Riwayat ini dicatat oleh Ibn Hisham dan Ibn Sa'd, meski sanadnya tidak sampai derajat shahih menurut sebagian muhaddits.^1 ^6
+1. **Cahaya yang memancar**: Aminah meriwayatkan bahwa saat melahirkan, ia melihat cahaya yang memancar darinya hingga menerangi istana-istana Syam (Suriah). Riwayat ini dicatat oleh Ibn Hisham dan Ibn Sa'd, meski sanadnya tidak sampai derajat shahih menurut sebagian muhaddits.^1 ^5
 
 2. **Runtuhnya balkon istana Kisra**: Tradisi mencatat bahwa empat belas balkon istana Kisra (Kaisar Persia) runtuh pada malam kelahiran Nabi. Riwayat ini populer dalam literatur sirah namun diperselisihkan keshahihannya.^2
 
 3. **Padamnya api Persia**: Api suci kaum Majusi di Persia yang telah menyala selama seribu tahun dikabarkan padam. Seperti riwayat sebelumnya, ini lebih bersifat tradisi populer.^2
 
-**Catatan metodologis**: Mengikuti manhaj al-Bukhari, kita perlu membedakan antara riwayat yang memiliki sanad shahih dengan tradisi populer yang beredar luas namun belum tentu memenuhi standar otentikasi hadits yang ketat.^4 Kelahiran Nabi pada hari Senin di Tahun Gajah memiliki dasar yang kuat dalam hadits shahih, sementara peristiwa-peristiwa di atas lebih bersifat khabar yang diriwayatkan dalam kitab-kitab sirah.
+**Catatan metodologis**: Mengikuti manhaj al-Bukhari, kita perlu membedakan antara riwayat yang memiliki sanad shahih dengan tradisi populer yang beredar luas namun belum tentu memenuhi standar otentikasi hadits yang ketat.^3 Kelahiran Nabi pada hari Senin di Tahun Gajah memiliki dasar yang kuat dalam hadits shahih, sementara peristiwa-peristiwa di atas lebih bersifat khabar yang diriwayatkan dalam kitab-kitab sirah.
 
 ### Masa Kecil
 
-Setelah lahir, Muhammad diasuh sementara oleh **Tsuwaibah**, budak perempuan Abu Lahab, yang menyusuinya selama beberapa hari.^6 Kemudian, sesuai tradisi Quraisy yang mengirim anak-anak mereka ke pedalaman untuk diasuh oleh suku-suku Badui — agar mereka tumbuh dengan udara segar, bahasa Arab yang fasih, dan ketangguhan gurun — Muhammad diasuh oleh **Halimah binti Abi Dzu'aib as-Sa'diyyah** dari Bani Sa'd.^6
+Setelah lahir, Muhammad diasuh sementara oleh **Tsuwaibah**, budak perempuan Abu Lahab, yang menyusuinya selama beberapa hari.^5 Kemudian, sesuai tradisi Quraisy yang mengirim anak-anak mereka ke pedalaman untuk diasuh oleh suku-suku Badui — agar mereka tumbuh dengan udara segar, bahasa Arab yang fasih, dan ketangguhan gurun — Muhammad diasuh oleh **Halimah binti Abi Dzu'aib as-Sa'diyyah** dari Bani Sa'd.^5
 
-Ibn Sa'd mencatat bahwa Halimah awalnya enggan mengambil Muhammad karena ia anak yatim — para ibu susu biasanya mengharap bayaran besar dari ayah si anak.^6 Namun karena tidak mendapatkan bayi lain, Halimah akhirnya mengambil Muhammad. Sejak saat itu, kehidupan Halimah dan keluarganya dilimpahi keberkahan: kambing-kambingnya yang kurus menjadi gemuk dan banyak air susunya, ladangnya subur, dan kendaraannya yang lemah menjadi kuat.^1 ^6
+Ibn Sa'd mencatat bahwa Halimah awalnya enggan mengambil Muhammad karena ia anak yatim — para ibu susu biasanya mengharap bayaran besar dari ayah si anak.^5 Namun karena tidak mendapatkan bayi lain, Halimah akhirnya mengambil Muhammad. Sejak saat itu, kehidupan Halimah dan keluarganya dilimpahi keberkahan: kambing-kambingnya yang kurus menjadi gemuk dan banyak air susunya, ladangnya subur, dan kendaraannya yang lemah menjadi kuat.^1 ^5
 
 ## Makna Tahun Gajah dalam Historiografi Islam
 
 Tahun Gajah bukan sekadar penanda kronologis. Dalam perspektif historiografi Islam, peristiwa ini mengandung beberapa lapisan makna:
 
-**Pertama**, ia adalah bukti perlindungan ilahi terhadap Ka'bah. Allah melindungi rumah-Nya bukan melalui kekuatan manusia — Quraisy sendiri tidak mampu melawan pasukan Abrahah — tetapi melalui intervensi langsung dari langit.^3 ^7 Ini menegaskan bahwa Ka'bah memiliki kedudukan khusus di sisi Allah.
+**Pertama**, ia adalah bukti perlindungan ilahi terhadap Ka'bah. Allah melindungi rumah-Nya bukan melalui kekuatan manusia — Quraisy sendiri tidak mampu melawan pasukan Abrahah — tetapi melalui intervensi langsung dari langit.  Ini menegaskan bahwa Ka'bah memiliki kedudukan khusus di sisi Allah.
 
-**Kedua**, ia adalah *muqaddimah* (pendahuluan) bagi kelahiran Nabi Muhammad ﷺ. Para ulama seperti Ibn Kathir menafsirkan bahwa kehancuran pasukan gajah adalah pertanda bahwa Allah sedang mempersiapkan panggung sejarah untuk kehadiran rasul terakhir.^3 Ka'bah dilindungi bukan hanya sebagai bangunan fisik, tetapi sebagai simbol tauhid yang akan dipulihkan oleh Muhammad ﷺ.
+**Kedua**, ia adalah *muqaddimah* (pendahuluan) bagi kelahiran Nabi Muhammad ﷺ. Para ulama seperti Ibn Kathir menafsirkan bahwa kehancuran pasukan gajah adalah pertanda bahwa Allah sedang mempersiapkan panggung sejarah untuk kehadiran rasul terakhir. Ka'bah dilindungi bukan hanya sebagai bangunan fisik, tetapi sebagai simbol tauhid yang akan dipulihkan oleh Muhammad ﷺ.
 
 **Ketiga**, ia menjadi sistem penanggalan yang menyatukan bangsa Arab. Sebelum Tahun Gajah, tidak ada titik referensi waktu yang disepakati seluruh kabilah. Peristiwa ini begitu monumental sehingga seluruh bangsa Arab, terlepas dari afiliasi suku, mengakuinya sebagai penanda zaman.^2
 
-**Keempat**, ia menunjukkan pola ilahi dalam sejarah — bahwa kekuatan militer terbesar sekalipun tidak berdaya di hadapan kehendak Allah. Abrahah dengan pasukannya yang perkasa dan gajah-gajahnya yang menggetarkan, pada akhirnya dihancurkan oleh burung-burung kecil yang membawa batu kerikil.^7 Ini adalah pelajaran yang akan diulang berkali-kali dalam perjalanan dakwah Nabi Muhammad ﷺ — bahwa kebenaran tidak diukur dari kekuatan fisik.
+**Keempat**, ia menunjukkan pola ilahi dalam sejarah — bahwa kekuatan militer terbesar sekalipun tidak berdaya di hadapan kehendak Allah. Abrahah dengan pasukannya yang perkasa dan gajah-gajahnya yang menggetarkan, pada akhirnya dihancurkan oleh burung-burung kecil yang membawa batu kerikil. Ini adalah pelajaran yang akan diulang berkali-kali dalam perjalanan dakwah Nabi Muhammad ﷺ — bahwa kebenaran tidak diukur dari kekuatan fisik.
 
 ## Penutup
 
@@ -126,11 +126,8 @@ Dari kota dagang di tengah gurun yang gersang, dari seorang anak yatim yang kehi
 
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
-3. Ibn Kathir, Ismail bin Umar, *Tafsir al-Quran al-Azhim*, Surah Al-Fil, tahqiq Sami bin Muhammad al-Salamah (Riyadh: Dar Thaibah, 1999).^9
-4. Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Manaqib (Dar Thauq al-Najah, 2001).
-5. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
-6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
-7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraisy (106:1-4).
+3. Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Manaqib (Dar Thauq al-Najah, 2001).
+4. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
+5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 
-8. Al-Quran al-Karim, QS. Al-Fil, QS. Quraisy.
-9. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.
+6. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.
