@@ -60,10 +60,12 @@ The Fifth Crusade taught that **effective leadership requires unity of command**
 
 This story also shows the danger of **hubris** or excessive arrogance. When small victories make leaders feel invincible, they tend to make fatal decisions.^1
 
-> وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ الْأَرْضَ وَلَن تَبْلُغَ الْجِبَالَ طُولًا ﴿٣٧﴾
+> وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ ﴿١٣٩﴾
 >
-> *"And do not walk upon the earth exultantly. Indeed, you will never tear the earth apart, and you will never reach the mountains in height."* ﴾37﴿
-> — QS. Al-Isra (17): 37
+> *"Do not weaken and do not grieve, for you will be superior if you are truly believers."* ﴾139﴿
+> — QS. Ali Imran (3): 139
+
+The Muslims of Egypt successfully defended their land from the Fifth Crusade invasion through steadfast faith and intelligent strategy.
 
 ---
 
@@ -72,4 +74,4 @@ This story also shows the danger of **hubris** or excessive arrogance. When smal
 1. Oliver of Paderborn, *Historia Damiatina*.
 2. al-Maqrizi, Taqi al-Din Ahmad, *Al-Suluk li-Ma'rifat Duwal al-Muluk*.
 3. Van Cleve, Thomas Curtis, *The Fifth Crusade*, dalam *A History of the Crusades*.
-4. Al-Qur'an al-Karim. QS. Al-Isra (17): 37.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 139.

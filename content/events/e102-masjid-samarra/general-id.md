@@ -60,10 +60,7 @@ Meskipun secara teknisnya adalah menara masjid (*manara*), Menara Malwiya memili
 
 Desain spiral menara dikaitkan dengan tradisi kosmologi Islam yang melihat alam semesta sebagai struktur berlapis yang menghubungkan bumi dengan langit. Naik ke puncak menara melambangkan perjalanan spiritual menuju kedekatan dengan Allah.^19
 
-> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ۚ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ ﴿١١٥﴾
->
-> *"Dan kepunyaan Allah-lah timur dan barat, maka ke manapun kamu menghadap di situlah wajah Allah. Sesungguhnya Allah Maha Luas lagi Maha Mengetahui." ﴾115﴿*
-> — QS. Al-Baqarah (2): 115^20
+Masjid Agung Samarra dan Menara Malwiya menjadi simbol ambisi arsitektural Abbasiyah yang berani bereksperimen melampaui tradisi. Warisan mereka menginspirasi generasi arsitek Muslim selanjutnya.
 
 ## Ornamentasi dan Seni Dekoratif
 
@@ -174,7 +171,7 @@ Masjid Samarra dan Menara Malwiya tetap menjadi simbol penting kejayaan peradaba
 17. Flood, Finbarr Barry, *The Great Mosque of Damascus*, Leiden: Brill, 2001.
 18. Rabbat, Nasser, "The Meaning of the Umayyad Dome of the Rock", *Muqarnas*, 6 (1989): 12-21.
 19. Burckhardt, Titus, *Art of Islam*, London: World of Islam Festival, 1976.
-20. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.
+
 21. Baer, Eva, "The Human Figure in Early Islamic Art", *Muqarnas*, 16 (1999): 32-41.
 22. George, Alain, *The Rise of Islamic Calligraphy*, London: Saqi Books, 2010.
 23. Jenkins, Marilyn, "Islamic Pottery: A Brief History", *Metropolitan Museum Journal*, 13 (1978): 53-79.

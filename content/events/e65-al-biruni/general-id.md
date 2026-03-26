@@ -62,10 +62,12 @@ Salah satu episode paling menarik dalam kehidupan intelektual Al-Biruni adalah p
 
 Al-Biruni mengkritik beberapa teori fisika Aristoteles berdasarkan observasi dan eksperimennya, sementara Ibn Sina mempertahankan kerangka filosofis Aristotelian. Debate ini mencerminkan dinamika intelektual yang sehat dalam tradisi keilmuan Islam.
 
-> وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ ﴿٧٨﴾
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ﴿٥٣﴾
 >
-> *"Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatupun, dan Dia memberi kamu pendengaran, penglihatan dan hati, agar kamu bersyukur." ﴾78﴿*
-> — QS. An-Nahl (16): 78^18
+> *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Quran itu benar."* ﴾53﴿
+> — QS. Fussilat (41): 53^18
+
+Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala — dari astronomi hingga mineralogi — persis seperti yang diperintahkan ayat ini.
 
 ## Warisan dan Pengaruh pada Peradaban
 
@@ -100,6 +102,6 @@ Pendekatan interdisipliner Al-Biruni dan penekanannya pada verifikasi empiris me
 15. Levey, Martin, *Early Arabic Pharmacology*, Leiden: Brill, 1973.
 16. Al-Biruni, Abu Rayhan, *The Chronology of Ancient Nations*, London: William H. Allen, 1879.
 17. Michot, Yahya, *Ibn Sina: Lettre au Vizir Abu Sa'd*, Beirut: Albouraq, 2000.
-18. Al-Qur'an al-Karim. QS. An-Nahl (16): 78.
+18. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
 19. Pines, Shlomo, *Studies in Arabic Versions of Greek Texts and in Mediaeval Science*, Jerusalem: Magnes Press, 1986.
 20. Lindberg, David C., *The Beginnings of Western Science*, Chicago: University of Chicago Press, 2007.

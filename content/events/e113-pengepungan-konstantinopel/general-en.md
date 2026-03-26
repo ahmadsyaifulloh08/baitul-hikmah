@@ -44,10 +44,10 @@ Politically, this failure strengthened Emperor Leo III's position domestically a
 
 The failure of this siege provided important lessons for Islamic civilization about the importance of mature strategic calculations. The Quran reminds about the principle of caution in planning:
 
-> وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ ﴿٦٠﴾
+> هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ ﴿٢﴾
 >
-> *"And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy."* ﴾60﴿
-> — QS. Al-Anfal (8): 60
+> *"It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allah; but [the decree of] Allah came upon them from where they had not expected, and He cast terror into their hearts so they destroyed their houses by their own hands and the hands of the believers. So take warning, O people of vision."* ﴾2﴿
+> — QS. Al-Hasyr (59): 2
 
 This siege also showed that military strength alone is not enough without being accompanied by diplomatic strategy, adequate logistics, and deep understanding of geographical and climatic conditions.^7
 
@@ -78,4 +78,4 @@ The event of the second siege of Constantinople teaches important values about w
 5. Theophanes the Confessor, *Chronographia*, ed. Carl de Boor, Leipzig: Teubner, 1883.
 6. Ostrogorsky, George, *History of the Byzantine State*, Oxford: Blackwell, 1968.
 7. Treadgold, Warren, *A History of the Byzantine State and Society*, Stanford: Stanford University Press, 1997.
-8. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+8. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 2.

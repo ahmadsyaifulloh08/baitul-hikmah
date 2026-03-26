@@ -40,10 +40,10 @@ Nur ad-Din membangun madrasah-madrasah di berbagai kota untuk mendidik ulama yan
 
 Al-Qur'an menekankan pentingnya persiapan dalam menghadapi musuh:
 
-> وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةٖ وَمِن رِّبَاطِ ٱلۡخَيۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ ﴿٦٠﴾
+> وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ﴿١٠٥﴾
 >
-> *"Dan siapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi dan dari pasukan berkuda yang dapat menggentarkan musuh Allah dan musuhmu. ﴾60﴿"*
-> — QS. Al-Anfal (8): 60^3
+> *"Dan sungguh telah Kami tulis dalam Zabur sesudah (Kami tulis dalam) Lauh Mahfuzh, bahwasanya bumi ini dipusakai hamba-hamba-Ku yang saleh."* ﴾105﴿
+> — QS. Al-Anbiya (21): 105
 
 ## Hubungan dengan Mesir
 
@@ -76,4 +76,4 @@ Unifikasi Suriah yang dicapai Nur ad-Din membuktikan bahwa persatuan umat Islam 
 1. Abu Shama, Shihab ad-Din, *Kitab ar-Rawdatayn fi Akhbar ad-Dawlatayn*, 2 jilid, Cairo: Maktabat al-Khanji, 1998.
 2. Lyons, Malcolm Cameron, *Saladin: The Politics of the Holy War*, Cambridge: Cambridge University Press, 1982.
 3. Elisséeff, Nikita, *Nur ad-Din: Un Grand Prince Musulman de Syrie*, 3 jilid, Damascus: Institut Français de Damas, 1967.
-4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+4. Al-Qur'an al-Karim. QS. Al-Anbiya (21): 105.

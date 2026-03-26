@@ -80,12 +80,12 @@ The fall of Acre demonstrates several important factors in history:
 
 **The importance of unity**: Internal divisions among Crusaders in Acre facilitated Mamluk victory. **Evolution of military technology**: Mamluk superiority in siege engines shows the importance of technological adaptation. **Demographic factors**: The much larger Muslim population in the region made Crusader presence structurally unsustainable in the long term.
 
-> وَقُل جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًا ﴿٨١﴾
+> إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا ﴿٣﴾
 >
-> *"And say: 'Truth has come, and falsehood has departed. Indeed falsehood, [by nature], is ever bound to depart.'"* ﴾81﴿
-> — QS. Al-Isra' (17): 81
+> *"When the victory of Allah has come and the conquest, And you see the people entering into the religion of Allah in multitudes, then exalt [Him] with praise of your Lord and ask forgiveness of Him."* ﴾1-3﴿
+> — QS. An-Nashr (110): 1-3
 
-The Mamluk victory at Acre from an Islamic perspective is seen as the return of the Holy Land to rightful hands after nearly two centuries of occupation.
+The fall of Acre marked the final victory of Muslims over the Crusader States, fulfilling Allah's promise of help and victory for His patient servants.
 
 ---
 
@@ -95,4 +95,4 @@ The Mamluk victory at Acre from an Islamic perspective is seen as the return of 
 2. Steven Runciman, *A History of the Crusades*, vol. 3: The Kingdom of Acre and the Later Crusades, Cambridge: Cambridge University Press, 1954.
 3. Peter Edbury, *The Kingdom of Cyprus and the Crusades, 1191-1374*, Cambridge: Cambridge University Press, 1991.
 4. David Nicolle, *The Fall of Acre 1291: The Final Defeat of the Crusades*, Oxford: Osprey Publishing, 2005.
-5. Al-Qur'an al-Karim. QS. Al-Isra' (17): 81.
+5. Al-Qur'an al-Karim. QS. An-Nashr (110): 1-3.

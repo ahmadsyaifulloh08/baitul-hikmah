@@ -32,10 +32,12 @@ Bagi dunia Islam sendiri, kekalahan di Tours tidak menghentikan perkembangan per
 
 Pertempuran Tours mengingatkan kita pada prinsip bahwa dalam Islam, peperangan bukanlah tujuan utama, melainkan sarana untuk menegakkan keadilan. Allah SWT berfirman:
 
-> وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ ﴿١٩٠﴾
+> وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ ﴿٢٥١﴾
 >
-> *"Dan perangilah di jalan Allah orang-orang yang memerangi kamu, tetapi janganlah kamu melampaui batas. Sungguh, Allah tidak menyukai orang-orang yang melampaui batas."* ﴾190﴿
-> — QS. Al-Baqarah (2): 190
+> *"Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, niscaya rusaklah bumi ini."* ﴾251﴿
+> — QS. Al-Baqarah (2): 251
+
+Tours menjadi titik keseimbangan kekuatan antara Islam dan Eropa, menunjukkan bagaimana Allah menetapkan check-and-balance antara peradaban untuk menjaga keseimbangan dunia.
 
 Peristiwa ini juga mengajarkan pentingnya kepemimpinan yang kuat dalam situasi sulit. Kematian Abdul Rahman al-Ghafiqi menunjukkan bagaimana faktor kepemimpinan dapat mempengaruhi jalannya sejarah.
 
@@ -56,4 +58,4 @@ Peristiwa ini juga mengajarkan pentingnya kepemimpinan yang kuat dalam situasi s
 5. Ibn al-Athir, Ali ibn Abi Bakr, *Al-Kamil fi al-Tarikh*, Beirut: Dar al-Kitab al-Arabi, 1987.
 6. Roger Collins, *The Arab Conquest of Spain 710-797*, Oxford: Blackwell Publishers, 1989.
 7. Hugh Kennedy, *The Great Arab Conquests*, London: Weidenfeld & Nicolson, 2007.
-8. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 190.
+8. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 251.

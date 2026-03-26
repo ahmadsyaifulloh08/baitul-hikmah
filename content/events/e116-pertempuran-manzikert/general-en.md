@@ -64,10 +64,7 @@ Alp Arslan showed remarkable conduct in treating Romanos IV. Rather than killing
 
 The treaty stipulated that Romanos would be released after paying a ransom of 10 million gold *nomismata*, surrendering several frontier fortresses, and sending Byzantine troops to assist the Seljuks in campaigns against their enemies.^19
 
-> وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴿٦١﴾
->
-> *"And if they incline to peace, then incline to it also and trust in Allah. Indeed, it is He who is the Hearing, the Knowing." ﴾61﴿*
-> — QS. Al-Anfal (8): 61^20
+The victory at Manzikert teaches that success in warfare is determined not only by the number of troops, but also by unity of command, proper strategy, and the ability to exploit enemy weaknesses. Alp Arslan's chivalrous attitude toward the defeated enemy demonstrates the noble values that should be maintained even in victory.
 
 ### Political Complications in Constantinople
 
@@ -146,7 +143,7 @@ Alp Arslan's decision not to exploit the Manzikert victory for a direct attack o
 17. Ibn al-Athir, *Al-Kamil fi al-Tarikh*, 12 vols., Beirut: Dar Sadir, 1979.
 18. Al-Husaini, Sadr al-Din, *Akhbar al-Dawla al-Seljuqiyya*, ed. Muhammad Iqbal, Lahore: University of Punjab, 1933.
 19. Psellus, Michael, *Fourteen Byzantine Rulers*, trans. E. R. A. Sewter, London: Penguin, 1966.
-20. Al-Qur'an al-Karim. QS. Al-Anfal (8): 61.
+
 21. Garland, Lynda, *Byzantine Empresses*, London: Routledge, 1999.
 22. Mélikoff, Irène, *La Geste de Melik Danismend*, 2 vols., Paris: Adrien Maisonneuve, 1960.
 23. Turan, Osman, *Selçuklular Zamanında Türkiye*, Istanbul: Boğaziçi Yayınları, 1971.

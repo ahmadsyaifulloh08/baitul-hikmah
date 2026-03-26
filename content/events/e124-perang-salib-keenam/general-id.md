@@ -60,10 +60,12 @@ Kisah ini mengajarkan bahwa **kebijaksanaan politik kadang lebih mulia daripada 
 
 Perjanjian Jaffa juga membuktikan bahwa **mutual respect** dapat mengatasi perbedaan agama dan budaya.^1 Ketika kedua belah pihak menghormati kepentingan masing-masing, solusi win-win menjadi mungkin.
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ﴿١٣﴾
+> لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ﴿٨﴾
 >
-> *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling takwa."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Allah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam agama dan tidak mengusirmu dari negerimu."* ﴾8﴿
+> — QS. Al-Mumtahanah (60): 8
+
+Perjanjian Jaffa antara Frederick II dan al-Kamil membuktikan bahwa diplomasi damai antar-peradaban dimungkinkan ketika kedua pihak saling menghormati.
 
 ---
 
@@ -72,4 +74,4 @@ Perjanjian Jaffa juga membuktikan bahwa **mutual respect** dapat mengatasi perbe
 1. Abulafia, David, *Frederick II: A Medieval Emperor*.
 2. Ibn Wasil, Jamal al-Din, *Mufarrij al-Kurub fi Akhbar Bani Ayyub*.
 3. Van Cleve, Thomas Curtis, *The Emperor Frederick II of Hohenstaufen*.
-4. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+4. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.

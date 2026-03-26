@@ -42,10 +42,10 @@ Perang Salib Ketiga menunjukkan bahwa **kepemimpinan yang bersatu** lebih efekti
 
 Konflik ini juga membuktikan pentingnya **diplomasi** dalam menyelesaikan sengketa.^3 Kedua pihak menyadari bahwa perang berkepanjangan hanya akan menghabiskan sumber daya tanpa hasil yang memuaskan.^3 Akhirnya, jalan tengah melalui negosiasi terbukti lebih bijaksana.^3
 
-> وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ﴿٦١﴾
+> لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ ﴿٨﴾
 >
-> *"Dan jika mereka condong kepada perdamaian, maka condonglah kepadanya dan bertawakallah kepada Allah."* ﴾61﴿
-> — QS. Al-Anfal (8): 61
+> *"Allah tidak melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil."* ﴾8﴿
+> — QS. Al-Mumtahanah (60): 8
 
 ---
 
@@ -54,4 +54,4 @@ Konflik ini juga membuktikan pentingnya **diplomasi** dalam menyelesaikan sengke
 1. Ibn al-Athir, *Al-Kamil fi al-Tarikh*, jilid 12.
 2. William dari Tyre, *Historia Rerum in Partibus Transmarinis Gestarum*.
 3. Al-Isfahani, Imad al-Din, *Al-Barq al-Shami*.
-4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 61.
+4. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.

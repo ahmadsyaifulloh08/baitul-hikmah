@@ -62,10 +62,12 @@ One of the most interesting episodes in Al-Biruni's intellectual life was his co
 
 Al-Biruni criticized several Aristotelian physics theories based on his observations and experiments, while Ibn Sina defended the Aristotelian philosophical framework. This debate reflected healthy intellectual dynamics within the Islamic scholarly tradition.
 
-> وَاللَّهُ أَخْرَجَكُم مِّن بُطُونِ أُمَّهَاتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ ﴿٧٨﴾
+> سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ﴿٥٣﴾
 >
-> *"And Allah brought you forth from the wombs of your mothers knowing nothing, and He gave you hearing and sight and hearts that you might give thanks." ﴾78﴿*
-> — QS. An-Nahl (16): 78^18
+> *"We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth."* ﴾53﴿
+> — QS. Fussilat (41): 53^18
+
+Al-Biruni spent his life observing God's signs across the horizons — from astronomy to mineralogy — precisely as this verse commands.
 
 ## Legacy and Influence on Civilization
 
@@ -100,6 +102,6 @@ Al-Biruni's interdisciplinary approach and emphasis on empirical verification ma
 15. Levey, Martin, *Early Arabic Pharmacology*, Leiden: Brill, 1973.
 16. Al-Biruni, Abu Rayhan, *The Chronology of Ancient Nations*, London: William H. Allen, 1879.
 17. Michot, Yahya, *Ibn Sina: Lettre au Vizir Abu Sa'd*, Beirut: Albouraq, 2000.
-18. Al-Qur'an al-Karim. QS. An-Nahl (16): 78.
+18. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
 19. Pines, Shlomo, *Studies in Arabic Versions of Greek Texts and in Mediaeval Science*, Jerusalem: Magnes Press, 1986.
 20. Lindberg, David C., *The Beginnings of Western Science*, Chicago: University of Chicago Press, 2007.

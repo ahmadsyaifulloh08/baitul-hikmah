@@ -80,12 +80,12 @@ Kisah Sayyid Ajall dan Muslim Hui menunjukkan model integrasi yang unik dalam se
 
 **Adaptasi tanpa asimilasi**: Mempertahankan identitas religius sambil beradaptasi secara kultural.^2 **Kontribusi loyal**: Menjadi Muslim yang taat sambil berkontribusi loyal kepada negara. **Diplomasi kultural**: Menjadi jembatan antara peradaban yang berbeda.^3
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ﴿١٣﴾
+> لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ ﴿٨﴾
 >
-> *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Allah tidak melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil."* ﴾8﴿
+> — QS. Al-Mumtahanah (60): 8
 
-Ayat ini mencerminkan semangat multikultural yang diwujudkan oleh Muslim Hui dalam sejarah China.^4
+Ayat ini mencerminkan prinsip koeksistensi damai yang diterapkan oleh Muslim Hui dalam beradaptasi dengan masyarakat China non-Muslim, di mana mereka berbuat baik dan berlaku adil terhadap tetangga mereka yang berbeda keyakinan.^4
 
 ---
 
@@ -97,4 +97,4 @@ Ayat ini mencerminkan semangat multikultural yang diwujudkan oleh Muslim Hui dal
 2. Raphael Israeli, *Muslims in China: A Study in Cultural Confrontation*, London: Curzon Press, 1980.
 3. Sen Dou Chang, *The Distribution and Occupations of the Muslims in China*, dalam *Geographic Review*, Vol. 59, No. 2, 1969.
 4. Donald Daniel Leslie, *Islam in Traditional China: A Short History to 1800*, Canberra: Canberra College of Advanced Education, 1986.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+5. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.

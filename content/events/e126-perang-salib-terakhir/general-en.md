@@ -60,12 +60,7 @@ These final expeditions taught several important lessons:
 
 **Sincere motivation vs political interests**: Louis IX was driven by sincere faith, but his strategic decisions were influenced by his brother's political interests. **Realism vs idealism**: Edward showed realism by negotiating when he realized his limitations, while Louis was trapped in unrealistic idealism.
 
-> وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ ﴿٦٠﴾
->
-> *"And prepare against them whatever you are able of power."* ﴾60﴿
-> — QS. Al-Anfal (8): 60
-
-The Mamluks' success in facing these final expeditions demonstrates the importance of thorough preparation and realistic leadership.
+The Eighth and Ninth Crusades marked the end of the Crusading spirit in Europe. Repeated failures proved that violence is never a permanent solution to civilizational conflicts — a lesson that should have been learned from the very beginning.
 
 ---
 
@@ -75,4 +70,3 @@ The Mamluks' success in facing these final expeditions demonstrates the importan
 2. Jacques Le Goff, *Saint Louis*, trans. Gareth Evan Gollrad, Paris: Gallimard, 1996.
 3. Michael Lower, *The Tunis Crusade of 1270: A Mediterranean History*, Oxford: Oxford University Press, 2018.
 4. Peter Jackson, *The Seventh Crusade, 1244-1254: Sources and Documents*, Aldershot: Ashgate, 2007.
-5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.

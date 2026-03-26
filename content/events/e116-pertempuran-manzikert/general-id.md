@@ -64,10 +64,7 @@ Alp Arslan menunjukkan sikap yang luar biasa dalam memperlakukan Romanos IV. Dar
 
 Perjanjian tersebut menetapkan bahwa Romanos akan dibebaskan setelah membayar tebusan sebesar 10 juta *nomismata* emas, menyerahkan beberapa benteng perbatasan, dan mengirim pasukan Bizantium untuk membantu Seljuk dalam kampanye melawan musuh-musuhnya.^19
 
-> وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا وَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ ﴿٦١﴾
->
-> *"Dan jika mereka cenderung kepada perdamaian, maka condonglah kepadanya dan bertawakkallah kepada Allah. Sesungguhnya Dialah Yang Maha Mendengar lagi Maha Mengetahui." ﴾61﴿*
-> — QS. Al-Anfal (8): 61^20
+Kemenangan di Manzikert mengajarkan bahwa kesuksesan dalam peperangan bukan hanya ditentukan oleh jumlah pasukan, tetapi juga oleh kesatuan komando, strategi yang tepat, dan kemampuan untuk memanfaatkan kelemahan lawan. Sikap ksatria Alp Arslan terhadap musuh yang dikalahkan menunjukkan nilai-nilai luhur yang seharusnya dijaga bahkan dalam kemenangan.
 
 ### Komplikasi Politik di Konstantinopel
 
@@ -146,7 +143,7 @@ Keputusan Alp Arslan untuk tidak memanfaatkan kemenangan Manzikert untuk seranga
 17. Ibn al-Athir, *Al-Kamil fi al-Tarikh*, 12 vols., Beirut: Dar Sadir, 1979.
 18. Al-Husaini, Sadr al-Din, *Akhbar al-Dawla al-Seljuqiyya*, ed. Muhammad Iqbal, Lahore: University of Punjab, 1933.
 19. Psellus, Michael, *Fourteen Byzantine Rulers*, trans. E. R. A. Sewter, London: Penguin, 1966.
-20. Al-Qur'an al-Karim. QS. Al-Anfal (8): 61.
+
 21. Garland, Lynda, *Byzantine Empresses*, London: Routledge, 1999.
 22. Mélikoff, Irène, *La Geste de Melik Danismend*, 2 vols., Paris: Adrien Maisonneuve, 1960.
 23. Turan, Osman, *Selçuklular Zamanında Türkiye*, Istanbul: Boğaziçi Yayınları, 1971.

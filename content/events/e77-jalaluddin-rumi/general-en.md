@@ -60,10 +60,12 @@ Rumi demonstrates that **Islam has a very rich spiritual dimension** that can sa
 
 The importance of **spiritual teachers (murshid)** in the sufi journey is also clearly seen from Rumi's transformation after meeting Shams.^3 Without proper guidance, spiritual seeking can get lost in ego and illusion.
 
-> وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ ﴿٨٩﴾
+> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ﴿١١٥﴾
 >
-> *"And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims."* ﴾89﴿
-> — QS. An-Nahl (16): 89
+> *"And to Allah belongs the east and the west. So wherever you [might] turn, there is the face of Allah."* ﴾115﴿
+> — QS. Al-Baqarah (2): 115
+
+This verse became the core of Rumi's philosophy about Allah's omnipresence, which he expressed in poems about universal love and union with the Most High.
 
 ---
 
@@ -72,4 +74,4 @@ The importance of **spiritual teachers (murshid)** in the sufi journey is also c
 1. Aflaki, Shams al-Din Ahmad, *Manaqib al-Arifin*, biography of Mevlevi sufis.
 2. Furuzanfar, Badi al-Zaman, *Risala dar Tahqiq-i Ahwal wa Zindigi-yi Maulana Jalal al-Din*.
 3. Iqbal, Afzal, *The Life and Work of Jalal-ud-din Rumi*.
-4. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.

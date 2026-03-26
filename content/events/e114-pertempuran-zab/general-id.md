@@ -54,10 +54,12 @@ Namun, perlu dicatat bahwa prestasi peradaban Umayyah juga luar biasa, terutama 
 
 Pertempuran Zab Besar mengingatkan kita tentang hukum alam politik: tidak ada kekuasaan yang kekal kecuali kekuasaan Allah. Al-Quran mengajarkan:
 
-> قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٦﴾
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ﴿٨٣﴾
 >
-> *"Katakanlah, 'Wahai Allah, pemilik kekuasaan! Engkau berikan kekuasaan kepada siapa pun yang Engkau kehendaki, dan Engkau cabut kekuasaan dari siapa pun yang Engkau kehendaki. Engkau muliakan siapa pun yang Engkau kehendaki dan Engkau hinakan siapa pun yang Engkau kehendaki. Di tangan-Mu segala kebajikan. Sungguh, Engkau Mahakuasa atas segala sesuatu.'"* ﴾26﴿
-> — QS. Ali Imran (3): 26
+> *"Negeri akhirat itu Kami jadikan untuk orang-orang yang tidak menyombongkan diri dan tidak berbuat kerusakan di bumi."* ﴾83﴿
+> — QS. Al-Qasas (28): 83
+
+Dinasti Umayyah jatuh karena arogansi dan kezaliman yang berkepanjangan — ayat ini mengingatkan bahwa kekuasaan sejati hanya bagi mereka yang tidak mengejar kesombongan.
 
 Peristiwa ini juga mengajarkan pentingnya legitimasi dan dukungan rakyat dalam pemerintahan, serta bagaimana ketidakadilan dan diskriminasi dapat menjadi benih kehancuran sebuah dinasti.
 
@@ -78,4 +80,4 @@ Peristiwa ini juga mengajarkan pentingnya legitimasi dan dukungan rakyat dalam p
 5. Al-Baladhuri, Ahmad ibn Yahya, *Ansab al-Ashraf*, Beirut: Dar al-Fikr, 1996.
 6. Wellhausen, Julius, *The Arab Kingdom and its Fall*, London: Curzon Press, 1973.
 7. Shaban, M.A., *The Abbasid Revolution*, Cambridge: Cambridge University Press, 1970.
-8. Al-Qur'an al-Karim. QS. Ali Imran (3): 26.
+8. Al-Qur'an al-Karim. QS. Al-Qasas (28): 83.

@@ -54,10 +54,12 @@ However, it should be noted that Umayyad civilizational achievements were also e
 
 The Battle of the Great Zab reminds us of the natural law of politics: no power is eternal except Allah's power. The Quran teaches:
 
-> قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ﴿٢٦﴾
+> تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ﴿٨٣﴾
 >
-> *"Say, 'O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.'"* ﴾26﴿
-> — QS. Ali Imran (3): 26
+> *"That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption."* ﴾83﴿
+> — QS. Al-Qasas (28): 83
+
+The Umayyad dynasty fell due to prolonged arrogance and oppression — this verse reminds that true authority belongs to those who do not seek exaltedness.
 
 This event also teaches the importance of legitimacy and popular support in government, as well as how injustice and discrimination can become seeds of destruction for a dynasty.
 
@@ -78,4 +80,4 @@ This event also teaches the importance of legitimacy and popular support in gove
 5. Al-Baladhuri, Ahmad ibn Yahya, *Ansab al-Ashraf*, Beirut: Dar al-Fikr, 1996.
 6. Wellhausen, Julius, *The Arab Kingdom and its Fall*, London: Curzon Press, 1973.
 7. Shaban, M.A., *The Abbasid Revolution*, Cambridge: Cambridge University Press, 1970.
-8. Al-Qur'an al-Karim. QS. Ali Imran (3): 26.
+8. Al-Qur'an al-Karim. QS. Al-Qasas (28): 83.

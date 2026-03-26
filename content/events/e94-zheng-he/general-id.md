@@ -76,12 +76,7 @@ Ekspedisi Zheng He mengajarkan beberapa pelajaran penting:
 
 **Kebijaksanaan diplomatik**: Menghormati adat lokal sambil mempertahankan prinsip sendiri.^1 **Toleransi agama**: Menciptakan ruang untuk berbagai agama untuk hidup berdampingan. **Pemikiran strategis**: Menggunakan posisi resmi untuk memajukan kepentingan komunitas secara bertanggung jawab.^2 **Membangun jembatan budaya**: Memfasilitasi interaksi antar peradaban yang berbeda.
 
-> إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ ﴿١٠﴾
->
-> *"Sesungguhnya orang-orang mukmin adalah bersaudara."* ﴾10﴿
-> — QS. Al-Hujurat (49): 10
-
-Ayat ini mencerminkan semangat persaudaraan yang ditunjukkan Zheng He dalam memperkuat solidaritas antar komunitas Muslim di berbagai wilayah.^3
+Kisah Zheng He menunjukkan bahwa diplomasi yang bijaksana dan sikap saling menghormati dapat menjadi jembatan yang menghubungkan peradaban yang berbeda. Kemampuannya mempertahankan identitas Islam sambil melayani dengan setia menunjukkan bahwa keragaman spiritual tidak harus menjadi penghalang dalam membangun persatuan dan kemajuan bersama.^3
 
 ---
 
@@ -93,4 +88,3 @@ Ayat ini mencerminkan semangat persaudaraan yang ditunjukkan Zheng He dalam memp
 2. Ptak, Roderich, *Die maritime Seidenstraße*, München: Verlag C.H. Beck, 2007.
 3. Dreyer, Edward L., *Zheng He: China and the Oceans in the Early Ming Dynasty*, New York: Pearson Longman, 2007.
 4. Raffles, Thomas Stamford, *The History of Java*, London: Black, Parbury, and Allen, 1817.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 10.

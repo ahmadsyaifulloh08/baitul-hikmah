@@ -67,10 +67,12 @@ Kemenangan di Ajnadayn membuka jalan bagi:
 
 Penaklukan Syam memiliki dimensi spiritual yang mendalam bagi kaum Muslim. Al-Quran menyebut Syam sebagai tanah yang diberkahi:
 
-> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
+> قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ ﴿١٤﴾
 >
-> *"Mahasuci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsha yang telah Kami berkahi sekelilingnya. ﴾1﴿"*
-> — QS. Al-Isra (17): 1
+> *"Perangilah mereka, niscaya Allah akan menyiksa mereka melalui tanganmu dan menghinakan mereka, serta menolong kamu atas mereka, dan melegakan dada orang-orang yang beriman."* ﴾14﴿
+> — QS. At-Taubah (9): 14
+
+Pertempuran Ajnadayn merupakan salah satu futuhat awal di mana kaum Muslim merasakan pertolongan langsung Allah dalam menghadapi pasukan Bizantium yang jauh lebih besar.
 
 Masjidil Aqsha, yang terletak di Yerusalem — jantung wilayah Syam — adalah kiblat pertama umat Islam dan tempat Isra' Mi'raj Rasulullah ﷺ. Penaklukan Syam dengan demikian bukan sekadar ekspansi militer, melainkan juga pemenuhan hubungan spiritual antara umat Islam dan tanah suci yang telah Allah berkahi.
 
@@ -114,4 +116,4 @@ Pasukan Muslim di Ajnadayn bertempur dengan jumlah yang jauh lebih kecil melawan
 
 3. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (Sejarah Lengkap). Jilid 2. Beirut: Dar Shadir, 1965.
 
-4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.
+4. Al-Qur'an al-Karim. QS. At-Taubah (9): 14.

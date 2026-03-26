@@ -67,10 +67,12 @@ The victory at Ajnadayn opened the way for:
 
 The conquest of al-Sham carried profound spiritual meaning for the Muslims. The Quran refers to al-Sham as a blessed land:
 
-> سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
+> قَاتِلُوهُمْ يُعَذِّبْهُمُ اللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ ﴿١٤﴾
 >
-> *"Exalted is He who took His servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed. ﴾1﴿"*
-> — QS. Al-Isra (17): 1
+> *"Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people."* ﴾14﴿
+> — QS. At-Taubah (9): 14
+
+The Battle of Ajnadayn was one of the early futuhat where Muslims experienced direct divine assistance against the vastly larger Byzantine forces.
 
 Al-Masjid al-Aqsa, located in Jerusalem — the heart of al-Sham — was the first *qiblah* of the Muslims and the destination of the Prophet's Night Journey. The conquest of al-Sham was thus not merely military expansion, but the fulfillment of a spiritual bond between the Muslim community and a sacred land blessed by Allah.
 
@@ -113,4 +115,4 @@ The Muslim forces at Ajnadayn fought with far fewer numbers against one of the g
 2. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vol. 3. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1967.
 
 3. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (The Complete History). Vol. 2. Beirut: Dar Sadir, 1965.
-4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.
+4. Al-Qur'an al-Karim. QS. At-Taubah (9): 14.

@@ -48,10 +48,10 @@ The success of the Quanzhou Muslim community in **navigating cultural plurality*
 
 This story also shows that **economic integration** can become a bridge for acceptance and mutual understanding between communities.^1 Significant economic contributions proved the value-add of diversity in society.^1
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ﴿١٣﴾
+> وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ ﴿٢٢﴾
 >
-> *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"And among His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge."* ﴾22﴿
+> — QS. Ar-Rum (30): 22
 
 ---
 
@@ -60,4 +60,4 @@ This story also shows that **economic integration** can become a bridge for acce
 1. Sen, Tansen, *The Formation of Chinese Maritime Customs in Song Quanzhou*.
 2. Ibn Battuta, *Rihla*, translated by H.A.R. Gibb, vol. 4.
 3. Wang Lianmao, *Quanzhou Islamic Stone Inscriptions* (泉州伊斯兰教石刻).
-4. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+4. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

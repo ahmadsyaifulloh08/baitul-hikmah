@@ -80,12 +80,12 @@ Jatuhnya Akka menunjukkan beberapa faktor penting dalam sejarah:
 
 **Pentingnya persatuan**: Perpecahan internal Tentara Salib di Akka memudahkan kemenangan Mamluk. **Evolusi teknologi militer**: Superioritas Mamluk dalam mesin pengepung menunjukkan pentingnya adaptasi teknologi. **Faktor demografi**: Populasi Muslim yang jauh lebih besar di wilayah tersebut membuat kehadiran Tentara Salib secara struktural tidak sustainable dalam jangka panjang.
 
-> وَقُل جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَٰطِلُ ۚ إِنَّ ٱلْبَٰطِلَ كَانَ زَهُوقًا ﴿٨١﴾
+> إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا ﴿٣﴾
 >
-> *"Dan katakanlah: 'Kebenaran telah datang dan kebatilan telah lenyap. Sesungguhnya kebatilan itu adalah sesuatu yang pasti lenyap.'"* ﴾81﴿
-> — QS. Al-Isra' (17): 81
+> *"Apabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia masuk agama Allah dengan berbondong-bondong, maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya."* ﴾1-3﴿
+> — QS. An-Nashr (110): 1-3
 
-Kemenangan Mamluk di Akka dalam perspektif Islam dipandang sebagai kembalinya Tanah Suci ke tangan yang rightful setelah hampir dua abad pendudukan.
+Jatuhnya Acre menandai kemenangan final Muslim atas Kerajaan Salib, memenuhi janji Allah tentang pertolongan dan kemenangan bagi hamba-hamba-Nya yang bersabar.
 
 ---
 
@@ -95,4 +95,4 @@ Kemenangan Mamluk di Akka dalam perspektif Islam dipandang sebagai kembalinya Ta
 2. Steven Runciman, *A History of the Crusades*, vol. 3: The Kingdom of Acre and the Later Crusades, Cambridge: Cambridge University Press, 1954.
 3. Peter Edbury, *The Kingdom of Cyprus and the Crusades, 1191-1374*, Cambridge: Cambridge University Press, 1991.
 4. David Nicolle, *The Fall of Acre 1291: The Final Defeat of the Crusades*, Oxford: Osprey Publishing, 2005.
-5. Al-Qur'an al-Karim. QS. Al-Isra' (17): 81.
+5. Al-Qur'an al-Karim. QS. An-Nashr (110): 1-3.

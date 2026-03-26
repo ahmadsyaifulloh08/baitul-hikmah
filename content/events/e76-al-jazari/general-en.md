@@ -54,10 +54,12 @@ Al-Jazari demonstrated that **Islam encourages innovation and technological adva
 
 Al-Jazari's work also teaches the importance of **documentation and knowledge transfer**.^2 Without his detailed book, those revolutionary technologies might have been lost to time. This shows that knowledge must be disseminated to provide maximum benefit to humanity.
 
-> وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ ﴿٣١﴾
+> يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ ﴿٣٣﴾
 >
-> *"And He taught Adam all the names, then presented them to the angels."* ﴾31﴿
-> — QS. Al-Baqarah (2): 31
+> *"O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority."* ﴾33﴿
+> — QS. Ar-Rahman (55): 33
+
+Al-Jazari embodied this Quranic challenge through his work — breaking through the technological barriers of his time with the power of knowledge and innovation.
 
 ---
 
@@ -66,4 +68,4 @@ Al-Jazari's work also teaches the importance of **documentation and knowledge tr
 1. Al-Jazari, Abu al-Iz ibn Ismail, *Kitab fi Ma'rifat al-Hiyal al-Handasiyya*, 1206.
 2. Ahmad Y. Hassan, *Science and Technology in Islam*, volume 4.
 3. Donald R. Hill, *A History of Engineering in Classical and Medieval Times*.
-4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 31.
+4. Al-Qur'an al-Karim. QS. Ar-Rahman (55): 33.

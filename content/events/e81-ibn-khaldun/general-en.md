@@ -94,12 +94,7 @@ Ibn Khaldun teaches several important principles:
 
 **Empirical observation in understanding society**: Social phenomena can be analyzed scientifically without contradicting religious faith. **Cyclical nature of history**: Civilizations rise and fall according to discoverable patterns. **Importance of social cohesion**: Strong societies require unity of purpose and mutual support. **Balance between religion and reason**: Rational analysis can strengthen rather than weaken religious understanding.
 
-> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ ﴿٧٠﴾
->
-> *"And We have certainly honored the children of Adam."* ﴾70﴿
-> — QS. Al-Isra' (17): 70
-
-This verse reflects Ibn Khaldun's appreciation for human capacity to reason and understand patterns in creation.
+Ibn Khaldun proved that empirical observation of society does not contradict faith but enriches it. His Muqaddimah stands as proof that the Islamic intellectual tradition was capable of generating social sciences that transcended their time.
 
 ---
 
@@ -109,4 +104,3 @@ This verse reflects Ibn Khaldun's appreciation for human capacity to reason and 
 2. Aziz al-Azmeh, *Ibn Khaldun: An Essay in Reinterpretation*, London: Frank Cass, 1982.
 3. Fuad Baali, *Society, State, and Urbanism: Ibn Khaldun's Sociological Thought*, Albany: SUNY Press, 1988.
 4. Allen James Fromherz, *Ibn Khaldun: Life and Times*, Edinburgh: Edinburgh University Press, 2010.
-5. Al-Qur'an al-Karim. QS. Al-Isra' (17): 70.

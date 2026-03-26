@@ -80,12 +80,12 @@ The story of Sayyid Ajall and Muslim Hui shows a unique integration model in Isl
 
 **Adaptation without assimilation**: Maintaining religious identity while culturally adapting.^2 **Loyal contribution**: Being devout Muslims while contributing loyally to the state. **Cultural diplomacy**: Becoming bridges between different civilizations.^3
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ﴿١٣﴾
+> لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ ﴿٨﴾
 >
-> *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly."* ﴾8﴿
+> — QS. Al-Mumtahanah (60): 8
 
-This verse reflects the multicultural spirit embodied by Muslim Hui in Chinese history.^4
+This verse reflects the principle of peaceful coexistence applied by Muslim Hui in adapting to Chinese non-Muslim society, where they did good and acted justly toward their neighbors of different faiths.^4
 
 ---
 
@@ -97,4 +97,4 @@ This verse reflects the multicultural spirit embodied by Muslim Hui in Chinese h
 2. Raphael Israeli, *Muslims in China: A Study in Cultural Confrontation*, London: Curzon Press, 1980.
 3. Sen Dou Chang, *The Distribution and Occupations of the Muslims in China*, in *Geographic Review*, Vol. 59, No. 2, 1969.
 4. Donald Daniel Leslie, *Islam in Traditional China: A Short History to 1800*, Canberra: Canberra College of Advanced Education, 1986.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+5. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.

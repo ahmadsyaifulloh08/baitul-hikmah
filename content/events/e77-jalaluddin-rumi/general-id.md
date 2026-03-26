@@ -60,10 +60,12 @@ Rumi menunjukkan bahwa **Islam memiliki dimensi spiritual yang sangat kaya** yan
 
 Pentingnya **guru spiritual (murshid)** dalam perjalanan sufi juga terlihat jelas dari transformasi Rumi setelah bertemu Shams.^3 Tanpa bimbingan yang tepat, pencarian spiritual dapat tersesat dalam ego dan ilusi.
 
-> وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ ﴿٨٩﴾
+> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ﴿١١٥﴾
 >
-> *"Dan Kami turunkan kepadamu Al Kitab (Al Quran) untuk menjelaskan segala sesuatu dan petunjuk serta rahmat dan kabar gembira bagi orang-orang yang berserah diri."* ﴾89﴿
-> — QS. An-Nahl (16): 89
+> *"Dan milik Allah-lah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."* ﴾115﴿
+> — QS. Al-Baqarah (2): 115
+
+Ayat ini menjadi inti filosofi Rumi tentang kehadiran Allah di mana-mana, yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa.
 
 ---
 
@@ -72,4 +74,4 @@ Pentingnya **guru spiritual (murshid)** dalam perjalanan sufi juga terlihat jela
 1. Aflaki, Shams al-Din Ahmad, *Manaqib al-Arifin*, biografi para sufi Mevlevi.
 2. Furuzanfar, Badi al-Zaman, *Risala dar Tahqiq-i Ahwal wa Zindigi-yi Maulana Jalal al-Din*.
 3. Iqbal, Afzal, *The Life and Work of Jalal-ud-din Rumi*.
-4. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.

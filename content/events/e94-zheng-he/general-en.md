@@ -76,12 +76,7 @@ Zheng He's expeditions teach several important lessons:
 
 **Diplomatic wisdom**: Respecting local customs while maintaining one's own principles.^1 **Religious tolerance**: Creating space for multiple faiths to coexist. **Strategic thinking**: Using official positions to advance community interests responsibly.^2 **Cultural bridge-building**: Facilitating interaction between different civilizations.
 
-> إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ ﴿١٠﴾
->
-> *"The believers are but brothers."* ﴾10﴿
-> — QS. Al-Hujurat (49): 10
-
-This verse reflects the spirit of brotherhood that Zheng He demonstrated in strengthening solidarity among Muslim communities in various regions.^3
+The story of Zheng He demonstrates that wise diplomacy and mutual respect can serve as bridges connecting different civilizations. His ability to maintain Islamic identity while serving faithfully shows that spiritual diversity need not be a barrier to building unity and shared progress.^3
 
 ---
 
@@ -93,4 +88,3 @@ This verse reflects the spirit of brotherhood that Zheng He demonstrated in stre
 2. Ptak, Roderich, *Die maritime Seidenstraße*, München: Verlag C.H. Beck, 2007.
 3. Dreyer, Edward L., *Zheng He: China and the Oceans in the Early Ming Dynasty*, New York: Pearson Longman, 2007.
 4. Raffles, Thomas Stamford, *The History of Java*, London: Black, Parbury, and Allen, 1817.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 10.

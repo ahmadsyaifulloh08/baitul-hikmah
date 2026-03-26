@@ -24,12 +24,12 @@ Abdul Qadir's teaching methods attracted significant attention. He not only taug
 
 In one of his sermons, Abdul Qadir explained the importance of balance between knowledge and practice:
 
-> وَمَا أُوتِيتُم مِّنَ الۡعِلۡمِ إِلَّا قَلِيلًا ﴿٨٥﴾
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ﴿٢٧﴾ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ﴿٢٨﴾ فَادْخُلِي فِي عِبَادِي ﴿٢٩﴾ وَادْخُلِي جَنَّتِي ﴿٣٠﴾
 >
-> *"And you have not been given of knowledge except a little. ﴾85﴿"*
-> — QS. Al-Isra' (17): 85^4
+> *"O peaceful soul, return to your Lord, well-pleased and pleasing [to Him]. And enter among My [righteous] servants, and enter My Paradise."* ﴾27-30﴿
+> — QS. Al-Fajr (89): 27-30^4
 
-He often used this verse to remind his students to remain humble despite having mastered extensive knowledge.
+This verse became the core of the Sufi teachings that Abdul Qadir taught — the attainment of the peaceful soul (*nafs al-mutma'innah*) as the highest goal of the spiritual journey.
 
 ## The Qadiriyyah Order and Its Teachings
 
@@ -66,4 +66,4 @@ The death of Abdul Qadir al-Jilani on 21 Rabi'ul Akhir 561 AH/1166 CE in Baghdad
 1. Al-Nabahani, Yusuf ibn Ismail, *Jami' Karamat al-Awliya'*, vol. 1, Beirut: Dar al-Kutub al-Ilmiyyah, 2009.
 2. Trimingham, J. Spencer, *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1998.
 3. Al-Jilani, Abdul Qadir, *Al-Ghunya li Thalib Tariq al-Haqq*, ed. Abu Abdurrahman Salah ibn Muhammad, Damascus: Dar al-Khair, 2011.
-4. Al-Qur'an al-Karim. QS. Al-Isra' (17): 85.
+4. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.

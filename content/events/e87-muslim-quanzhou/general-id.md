@@ -72,10 +72,10 @@ Keberhasilan komunitas Muslim Quanzhou dalam **menavigasi keragaman budaya** men
 
 Kisah ini juga menunjukkan bahwa **integrasi ekonomi** dapat menjadi jembatan untuk penerimaan dan saling pengertian antar-komunitas.^1 Kontribusi ekonomi yang signifikan membuktikan nilai tambah dari keragaman dalam masyarakat.^1
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ﴿١٣﴾
+> وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ ﴿٢٢﴾
 >
-> *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling takwa."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Dan di antara tanda-tanda kekuasaan-Nya ialah menciptakan langit dan bumi dan berlain-lainan bahasa dan warnamu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."* ﴾22﴿
+> — QS. Ar-Rum (30): 22
 
 ---
 
@@ -84,4 +84,4 @@ Kisah ini juga menunjukkan bahwa **integrasi ekonomi** dapat menjadi jembatan un
 1. Sen, Tansen, *The Formation of Chinese Maritime Customs in Song Quanzhou*.
 2. Ibn Battuta, *Rihla*, translated by H.A.R. Gibb, vol. 4.
 3. Wang Lianmao, *Quanzhou Islamic Stone Inscriptions* (泉州伊斯兰教石刻).
-4. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+4. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

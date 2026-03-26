@@ -307,7 +307,7 @@
         {
           "id": "qs-al-fil-quraisy",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Fil (105): 1-5, QS. Quraisy (106): 1-4",
+          "author": "QS. Al-Fil (105): 1-5; QS. Quraisy (106): 1-4",
           "type": "quran"
         }
       ],
@@ -2433,9 +2433,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra",
+          "id": "qs-at-taubah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra (17): 1",
+          "author": "QS. At-Taubah (9): 14",
           "type": "quran"
         }
       ],
@@ -3151,9 +3151,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal",
+          "id": "qs-muhammad",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 60",
+          "author": "QS. Muhammad (47): 7",
           "type": "quran"
         }
       ],
@@ -3329,9 +3329,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal--8---60",
+          "id": "qs-al-hasyr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 60",
+          "author": "QS. Al-Hasyr (59): 2",
           "type": "quran"
         }
       ]
@@ -3402,9 +3402,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah--2---190",
+          "id": "qs-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah (2): 190",
+          "author": "QS. Al-Baqarah (2): 251",
           "type": "quran"
         }
       ]
@@ -3476,9 +3476,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---26",
+          "id": "qs-al-qasas",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali Imran (3): 26",
+          "author": "QS. Al-Qasas (28): 83",
           "type": "quran"
         }
       ]
@@ -5732,9 +5732,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra--17---85",
+          "id": "qs-al-mujadalah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra (17): 85",
+          "author": "QS. Al-Mujadalah (58): 11",
           "type": "quran"
         },
         {
@@ -5888,9 +5888,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nahl--16---78",
+          "id": "qs-fussilat",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nahl (16): 78",
+          "author": "QS. Fussilat (41): 53",
           "type": "quran"
         },
         {
@@ -6845,9 +6845,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra---17---85",
+          "id": "qs-al-fajr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra' (17): 85",
+          "author": "QS. Al-Fajr (89): 27-30",
           "type": "quran"
         }
       ]
@@ -7085,9 +7085,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal--8---60",
+          "id": "qs-al-anbiya",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 60",
+          "author": "QS. Al-Anbiya (21): 105",
           "type": "quran"
         }
       ]
@@ -7595,9 +7595,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal--8---61",
+          "id": "qs-al-mumtahanah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 61",
+          "author": "QS. Al-Mumtahanah (60): 8",
           "type": "quran"
         }
       ]
@@ -7644,9 +7644,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---103",
+          "id": "qs-al-hasyr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali Imran (3): 103",
+          "author": "QS. Al-Hasyr (59): 14",
           "type": "quran"
         }
       ]
@@ -7692,9 +7692,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah--2---31",
+          "id": "qs-ar-rahman",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah (2): 31",
+          "author": "QS. Ar-Rahman (55): 33",
           "type": "quran"
         }
       ]
@@ -7790,9 +7790,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nahl--16---89",
+          "id": "qs-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nahl (16): 89",
+          "author": "QS. Al-Baqarah (2): 115",
           "type": "quran"
         }
       ]
@@ -7840,9 +7840,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra--17---37",
+          "id": "qs-ali-imran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra (17): 37",
+          "author": "QS. Ali Imran (3): 139",
           "type": "quran"
         }
       ]
@@ -7889,9 +7889,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hujurat--49---13",
+          "id": "qs-al-mumtahanah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat (49): 13",
+          "author": "QS. Al-Mumtahanah (60): 8",
           "type": "quran"
         }
       ]
@@ -8034,9 +8034,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hujurat--49---13",
+          "id": "qs-ar-rum",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat (49): 13",
+          "author": "QS. Ar-Rum (30): 22",
           "type": "quran"
         }
       ]
@@ -8337,9 +8337,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra---17---81",
+          "id": "qs-an-nashr",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra' (17): 81",
+          "author": "QS. An-Nashr (110): 1-3",
           "type": "quran"
         }
       ]
@@ -8502,9 +8502,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hujurat--49---13",
+          "id": "qs-al-mumtahanah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat (49): 13",
+          "author": "QS. Al-Mumtahanah (60): 8",
           "type": "quran"
         }
       ]
@@ -8722,9 +8722,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hujurat--49---13",
+          "id": "qs-quraisy",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat (49): 13",
+          "author": "QS. Quraisy (106): 1-4",
           "type": "quran"
         }
       ]

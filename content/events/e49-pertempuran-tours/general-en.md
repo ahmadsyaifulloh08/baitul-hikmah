@@ -32,10 +32,12 @@ For the Islamic world itself, the defeat at Tours did not stop the development o
 
 The Battle of Tours reminds us of the principle that in Islam, warfare is not the primary objective, but a means to establish justice. Allah SWT says:
 
-> وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ ﴿١٩٠﴾
+> وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ ﴿٢٥١﴾
 >
-> *"Fight in the way of Allah those who fight you but do not transgress. Indeed, Allah does not like transgressors."* ﴾190﴿
-> — QS. Al-Baqarah (2): 190
+> *"And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted."* ﴾251﴿
+> — QS. Al-Baqarah (2): 251
+
+Tours became a point of balance of power between Islam and Europe, showing how Allah establishes check-and-balance between civilizations to maintain world equilibrium.
 
 This event also teaches the importance of strong leadership in difficult situations. The death of Abdul Rahman al-Ghafiqi shows how the leadership factor can influence the course of history.
 
@@ -56,4 +58,4 @@ This event also teaches the importance of strong leadership in difficult situati
 5. Ibn al-Athir, Ali ibn Abi Bakr, *Al-Kamil fi al-Tarikh*, Beirut: Dar al-Kitab al-Arabi, 1987.
 6. Roger Collins, *The Arab Conquest of Spain 710-797*, Oxford: Blackwell Publishers, 1989.
 7. Hugh Kennedy, *The Great Arab Conquests*, London: Weidenfeld & Nicolson, 2007.
-8. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 190.
+8. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 251.

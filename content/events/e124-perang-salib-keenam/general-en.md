@@ -60,10 +60,12 @@ This story teaches that **political wisdom is sometimes nobler than military her
 
 The Treaty of Jaffa also proved that **mutual respect** can overcome religious and cultural differences.^1 When both sides respect each other's interests, win-win solutions become possible.
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ﴿١٣﴾
+> لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ﴿٨﴾
 >
-> *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Allah does not forbid you from being kind and just to those who have not fought you because of religion and have not driven you from your homes."* ﴾8﴿
+> — QS. Al-Mumtahanah (60): 8
+
+The Treaty of Jaffa between Frederick II and al-Kamil proved that peaceful diplomacy between civilizations is possible when both sides show mutual respect.
 
 ---
 
@@ -72,4 +74,4 @@ The Treaty of Jaffa also proved that **mutual respect** can overcome religious a
 1. Abulafia, David, *Frederick II: A Medieval Emperor*.
 2. Ibn Wasil, Jamal al-Din, *Mufarrij al-Kurub fi Akhbar Bani Ayyub*.
 3. Van Cleve, Thomas Curtis, *The Emperor Frederick II of Hohenstaufen*.
-4. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+4. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.

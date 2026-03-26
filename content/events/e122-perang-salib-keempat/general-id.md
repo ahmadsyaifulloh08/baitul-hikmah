@@ -50,10 +50,12 @@ Perang Salib Keempat menunjukkan bagaimana **kepentingan politik dan ekonomi** d
 
 Tragedi ini juga mengajarkan pentingnya **persatuan di dalam agama** yang sama.^2 Perpecahan internal selalu lebih merusak daripada ancaman eksternal.^2 Ketika sesama beriman saling berperang, yang diuntungkan justru pihak luar.^2
 
-> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ﴿١٠٣﴾
+> لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَاءِ جُدُرٍ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ﴿١٤﴾
 >
-> *"Dan berpeganglah kamu semuanya pada tali Allah, dan janganlah kamu bercerai-berai."* ﴾103﴿
-> — QS. Ali Imran (3): 103
+> *"Mereka tidak akan memerangi kamu secara bersama-sama kecuali di desa-desa yang berbenteng atau di balik tembok. Permusuhan antara sesama mereka sangat hebat."* ﴾14﴿
+> — QS. Al-Hasyr (59): 14
+
+Perang Salib Keempat membuktikan ayat ini — Tentara Salib yang seharusnya bersatu justru menyerang sesama Kristen di Konstantinopel, menunjukkan perpecahan internal yang parah.
 
 ---
 
@@ -62,4 +64,4 @@ Tragedi ini juga mengajarkan pentingnya **persatuan di dalam agama** yang sama.^
 1. Geoffroy de Villehardouin, *La Conquête de Constantinople*.
 2. Niketas Choniates, *Historia*.
 3. Robert de Clari, *The Conquest of Constantinople*.
-4. Al-Qur'an al-Karim. QS. Ali Imran (3): 103.
+4. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.

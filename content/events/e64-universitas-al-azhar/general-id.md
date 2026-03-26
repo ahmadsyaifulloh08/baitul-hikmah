@@ -44,12 +44,12 @@ Sistem "ijazah" (sertifikat) yang dikembangkan Al-Azhar menjadi model bagi insti
 
 ### Integrasi Ilmu-Ilmu Islam
 
-> وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
+> يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ﴿١١﴾
 >
-> *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit." ﴾85﴿*
-> — QS. Al-Isra (17): 85^13
+> *"Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat."* ﴾11﴿
+> — QS. Al-Mujadalah (58): 11^13
 
-Al-Azhar menjadi pelopor dalam integrasi berbagai cabang ilmu Islam. Para mahasiswa tidak hanya mempelajari satu bidang, tetapi harus menguasai "ilmu alat" (nahw, sharf, mantiq) sebagai dasar untuk memahami ilmu-ilmu yang lebih tinggi seperti tafsir, hadits, dan fiqh.
+Al-Azhar menjadi pelopor dalam integrasi berbagai cabang ilmu Islam, mewujudkan janji Allah tentang peninggian derajat bagi orang-orang berilmu. Para mahasiswa tidak hanya mempelajari satu bidang, tetapi harus menguasai "ilmu alat" (nahw, sharf, mantiq) sebagai dasar untuk memahami ilmu-ilmu yang lebih tinggi seperti tafsir, hadits, dan fiqh.
 
 ## Pengaruh Global dan Jaringan Ulama
 
@@ -91,7 +91,7 @@ Perpustakaan Al-Azhar menyimpan ribuan manuskrip kuno yang menjadi warisan intel
 10. Petry, Carl F., *The Civilian Elite of Cairo in the Later Middle Ages*, Princeton: Princeton University Press, 1981.
 11. Ibn Taghribirdi, Yusuf, *Al-Nujum al-Zahirah fi Muluk Misr wa al-Qahirah*, Cairo: Dar al-Kutub, 1963.
 12. Makdisi, George, *The Rise of Humanism in Classical Islam and the Christian West*, Edinburgh: Edinburgh University Press, 1990.
-13. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.
+13. Al-Qur'an al-Karim. QS. Al-Mujadalah (58): 11.
 14. Crecelius, Daniel, *The Roots of Modern Egypt*, Chicago: Bibliotheca Islamica, 1981.
 15. Al-Suyuti, Jalal al-Din, *Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah*, Cairo: Matba'ah al-Sa'adah, 1967.
 16. Hourani, Albert, *Arabic Thought in the Liberal Age 1798-1939*, Cambridge: Cambridge University Press, 1983.

@@ -44,10 +44,10 @@ Secara politik, kegagalan ini memperkuat posisi Kaisar Leo III di dalam negeri d
 
 Kegagalan pengepungan ini memberikan pelajaran penting bagi peradaban Islam tentang pentingnya perhitungan strategis yang matang. Al-Quran mengingatkan tentang prinsip kehati-hatian dalam perencanaan:
 
-> وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ ﴿٦٠﴾
+> هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ ﴿٢﴾
 >
-> *"Dan persiapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi dan dari kuda-kuda yang ditambat untuk berperang yang dengan persiapan itu kamu menggetarkan musuh Allah, musuhmu."* ﴾60﴿
-> — QS. Al-Anfal (8): 60
+> *"Dialah yang mengeluarkan orang-orang kafir dari ahli Kitab dari kampung-kampung mereka pada saat pengusiran yang pertama. Kamu tidak menyangka bahwa mereka akan keluar dan mereka yakin bahwa benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan kepada mereka (hukuman) dari arah yang tidak mereka sangka-sangka. Dan Allah melemparkan ketakutan ke dalam hati mereka; mereka memusnahkan rumah-rumah mereka dengan tangan mereka sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, hai orang-orang yang mempunyai wawasan."* ﴾2﴿
+> — QS. Al-Hasyr (59): 2
 
 Pengepungan ini juga menunjukkan bahwa kekuatan militer saja tidak cukup tanpa disertai dengan strategi diplomatik, logistik yang memadai, dan pemahaman mendalam tentang kondisi geografis dan iklim.^7
 
@@ -78,4 +78,4 @@ Peristiwa pengepungan Konstantinopel kedua mengajarkan nilai-nilai penting tenta
 5. Theophanes the Confessor, *Chronographia*, ed. Carl de Boor, Leipzig: Teubner, 1883.
 6. Ostrogorsky, George, *History of the Byzantine State*, Oxford: Blackwell, 1968.
 7. Treadgold, Warren, *A History of the Byzantine State and Society*, Stanford: Stanford University Press, 1997.
-8. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+8. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 2.

@@ -44,12 +44,12 @@ The "ijazah" (certificate) system developed by Al-Azhar became a model for other
 
 ### Integration of Islamic Sciences
 
-> وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
+> يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ﴿١١﴾
 >
-> *"And you have not been given of knowledge except a little." ﴾85﴿*
-> — QS. Al-Isra (17): 85^13
+> *"Allah will raise those who have believed among you and those who were given knowledge, by degrees."* ﴾11﴿
+> — QS. Al-Mujadalah (58): 11^13
 
-Al-Azhar became a pioneer in integrating various branches of Islamic knowledge. Students not only studied one field but had to master the "instrumental sciences" (nahw, sarf, mantiq) as a foundation for understanding higher sciences like tafsir, hadith, and fiqh.
+Al-Azhar became a pioneer in integrating various branches of Islamic knowledge, embodying Allah's promise to elevate the status of those endowed with knowledge. Students not only studied one field but had to master the "instrumental sciences" (nahw, sarf, mantiq) as a foundation for understanding higher sciences like tafsir, hadith, and fiqh.
 
 ## Global Influence and Scholarly Networks
 
@@ -91,7 +91,7 @@ Al-Azhar's library houses thousands of ancient manuscripts that constitute Islam
 10. Petry, Carl F., *The Civilian Elite of Cairo in the Later Middle Ages*, Princeton: Princeton University Press, 1981.
 11. Ibn Taghribirdi, Yusuf, *Al-Nujum al-Zahirah fi Muluk Misr wa al-Qahirah*, Cairo: Dar al-Kutub, 1963.
 12. Makdisi, George, *The Rise of Humanism in Classical Islam and the Christian West*, Edinburgh: Edinburgh University Press, 1990.
-13. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.
+13. Al-Qur'an al-Karim. QS. Al-Mujadalah (58): 11.
 14. Crecelius, Daniel, *The Roots of Modern Egypt*, Chicago: Bibliotheca Islamica, 1981.
 15. Al-Suyuti, Jalal al-Din, *Husn al-Muhadarah fi Ta'rikh Misr wa al-Qahirah*, Cairo: Matba'ah al-Sa'adah, 1967.
 16. Hourani, Albert, *Arabic Thought in the Liberal Age 1798-1939*, Cambridge: Cambridge University Press, 1983.

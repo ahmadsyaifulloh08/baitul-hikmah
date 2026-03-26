@@ -94,12 +94,7 @@ Ibn Khaldun mengajarkan beberapa prinsip penting:
 
 **Observasi empiris dalam memahami masyarakat**: Fenomena sosial dapat dianalisis secara ilmiah tanpa bertentangan dengan iman agama. **Sifat siklus sejarah**: Peradaban bangkit dan jatuh sesuai dengan pola yang dapat ditemukan. **Pentingnya kohesi sosial**: Masyarakat yang kuat memerlukan kesatuan tujuan dan saling mendukung. **Keseimbangan antara agama dan akal**: Analisis rasional dapat memperkuat daripada melemahkan pemahaman agama.
 
-> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ ﴿٧٠﴾
->
-> *"Dan sesungguhnya telah Kami muliakan anak-anak Adam."* ﴾70﴿
-> — QS. Al-Isra' (17): 70
-
-Ayat ini mencerminkan apresiasi Ibn Khaldun untuk kapasitas manusia untuk bernalar dan memahami pola dalam ciptaan.
+Ibn Khaldun membuktikan bahwa observasi empiris terhadap masyarakat tidak bertentangan dengan keimanan, melainkan memperkayanya. Muqaddimah-nya menjadi bukti bahwa tradisi intelektual Islam mampu melahirkan ilmu-ilmu sosial yang melampaui zamannya.
 
 ---
 
@@ -109,4 +104,3 @@ Ayat ini mencerminkan apresiasi Ibn Khaldun untuk kapasitas manusia untuk bernal
 2. Aziz al-Azmeh, *Ibn Khaldun: An Essay in Reinterpretation*, London: Frank Cass, 1982.
 3. Fuad Baali, *Society, State, and Urbanism: Ibn Khaldun's Sociological Thought*, Albany: SUNY Press, 1988.
 4. Allen James Fromherz, *Ibn Khaldun: Life and Times*, Edinburgh: Edinburgh University Press, 2010.
-5. Al-Qur'an al-Karim. QS. Al-Isra' (17): 70.

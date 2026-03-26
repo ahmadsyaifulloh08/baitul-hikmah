@@ -50,10 +50,12 @@ The Fourth Crusade shows how **political and economic interests** can divert nob
 
 This tragedy also teaches the importance of **unity within the same religion**.^2 Internal divisions are always more destructive than external threats.^2 When fellow believers fight each other, outsiders benefit.^2
 
-> وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ﴿١٠٣﴾
+> لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَاءِ جُدُرٍ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ﴿١٤﴾
 >
-> *"And hold fast, all of you together, to the rope of Allah, and do not separate."* ﴾103﴿
-> — QS. Ali Imran (3): 103
+> *"They will not fight you all except within fortified cities or from behind walls. Their enmity among themselves is severe."* ﴾14﴿
+> — QS. Al-Hasyr (59): 14
+
+The Fourth Crusade proved this verse — the Crusaders who should have been united instead attacked fellow Christians at Constantinople, demonstrating severe internal division.
 
 ---
 
@@ -62,4 +64,4 @@ This tragedy also teaches the importance of **unity within the same religion**.^
 1. Geoffroy de Villehardouin, *La Conquête de Constantinople*.
 2. Niketas Choniates, *Historia*.
 3. Robert de Clari, *The Conquest of Constantinople*.
-4. Al-Qur'an al-Karim. QS. Ali Imran (3): 103.
+4. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.

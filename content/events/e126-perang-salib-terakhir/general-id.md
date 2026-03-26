@@ -60,12 +60,7 @@ Ekspedisi terakhir ini mengajarkan beberapa pelajaran penting:
 
 **Motivasi yang tulus vs kepentingan politik**: Louis IX didorong oleh iman yang tulus, namun keputusan strategisnya dipengaruhi kepentingan politik adiknya. **Realisme vs idealisme**: Edward menunjukkan realisme dengan bernegosiasi ketika menyadari keterbatasannya, sementara Louis terjebak dalam idealisme yang tidak realistis.
 
-> وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ ﴿٦٠﴾
->
-> *"Dan persiapkanlah untuk menghadapi mereka kekuatan apa saja yang kamu sanggupi."* ﴾60﴿
-> — QS. Al-Anfal (8): 60
-
-Kesuksesan Mamluk dalam menghadapi ekspedisi terakhir ini menunjukkan pentingnya persiapan yang matang dan kepemimpinan yang realistis.
+Perang Salib VIII dan IX menandai berakhirnya semangat Perang Salib di Eropa. Kegagalan berulang membuktikan bahwa kekerasan tidak pernah menjadi solusi permanen bagi konflik peradaban — pelajaran yang seharusnya diambil sejak awal.
 
 ---
 
@@ -75,4 +70,3 @@ Kesuksesan Mamluk dalam menghadapi ekspedisi terakhir ini menunjukkan pentingnya
 2. Jacques Le Goff, *Saint Louis*, trans. Gareth Evan Gollrad, Paris: Gallimard, 1996.
 3. Michael Lower, *The Tunis Crusade of 1270: A Mediterranean History*, Oxford: Oxford University Press, 2018.
 4. Peter Jackson, *The Seventh Crusade, 1244-1254: Sources and Documents*, Aldershot: Ashgate, 2007.
-5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.

@@ -40,10 +40,10 @@ Musa ibn Nusayr himself crossed the strait in 712 CE with an additional force of
 
 The spiritual motivation behind the conquest of Al-Andalus aligned with the spirit of the Quran^4:
 
-> وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ ﴿٦٠﴾
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ ﴿٧﴾
 >
-> *"And prepare against them whatever you are able of power and of steeds of war by which you may deter the enemy of Allah and your enemy. ﴾60﴿"*
-> — QS. Al-Anfal (8): 60
+> *"O you who have believed, if you support Allah, He will support you and plant firmly your feet."* ﴾7﴿
+> — QS. Muhammad (47): 7
 
 ## Analysis and Lessons
 
@@ -72,4 +72,4 @@ The fact that "Gibraltar" — one of the world's most recognized place names —
 2. **Al-Maqqari, Ahmad ibn Muhammad.** *Nafh al-Tib min Ghusn al-Andalus al-Rathib* (The Fragrant Breeze from the Fresh Branch of Al-Andalus). Beirut: Dar Sadir, 1968.
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (The Complete History). Beirut: Dar Sadir, 1979.
-4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 60.
+4. Al-Qur'an al-Karim. QS. Muhammad (47): 7.

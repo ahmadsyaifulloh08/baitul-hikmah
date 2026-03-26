@@ -24,12 +24,12 @@ Metode pengajaran Abdul Qadir sangat menarik perhatian. Ia tidak hanya mengajark
 
 Dalam salah satu khutbahnya, Abdul Qadir menjelaskan pentingnya keseimbangan antara ilmu dan amal:
 
-> وَمَا أُوتِيتُم مِّنَ الۡعِلۡمِ إِلَّا قَلِيلًا ﴿٨٥﴾
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ﴿٢٧﴾ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً ﴿٢٨﴾ فَادْخُلِي فِي عِبَادِي ﴿٢٩﴾ وَادْخُلِي جَنَّتِي ﴿٣٠﴾
 >
-> *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit. ﴾85﴿"*
-> — QS. Al-Isra' (17): 85^4
+> *"Wahai jiwa yang tenang, kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai. Maka masuklah ke dalam golongan hamba-hamba-Ku, dan masuklah ke dalam surga-Ku."* ﴾27-30﴿
+> — QS. Al-Fajr (89): 27-30^4
 
-Ayat ini sering ia gunakan untuk mengingatkan murid-muridnya agar tetap rendah hati meskipun telah menguasai banyak ilmu.
+Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian jiwa yang tenang (nafs al-mutma'innah) sebagai tujuan tertinggi perjalanan spiritual.
 
 ## Tarekat Qadiriyyah dan Ajarannya
 
@@ -66,4 +66,4 @@ Wafatnya Abdul Qadir al-Jilani pada tanggal 21 Rabi'ul Akhir 561 H/1166 M di Bag
 1. Al-Nabahani, Yusuf ibn Ismail, *Jami' Karamat al-Awliya'*, jilid 1, Beirut: Dar al-Kutub al-Ilmiyyah, 2009.
 2. Trimingham, J. Spencer, *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1998.
 3. Al-Jilani, Abdul Qadir, *Al-Ghunya li Thalib Tariq al-Haqq*, tahqiq Abu Abdurrahman Salah ibn Muhammad, Damaskus: Dar al-Khair, 2011.
-4. Al-Qur'an al-Karim. QS. Al-Isra' (17): 85.
+4. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.

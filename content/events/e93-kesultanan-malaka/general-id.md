@@ -94,12 +94,12 @@ Kesultanan Malaka mengajarkan:
 
 **Lokasi strategis dan tata pemerintahan yang baik**: Perpaduan posisi yang menguntungkan dengan kebijakan yang adil.^2 **Toleransi agama dalam keragaman**: Keberhasilan dalam mengelola komunitas perdagangan yang multi-etnis dan multi-agama. **Sintesis budaya**: Kemampuan untuk menciptakan budaya Islam yang khas yang relevan secara lokal.^3 **Keterbukaan ekonomi**: Kebijakan perdagangan bebas yang menguntungkan semua peserta.
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ﴿١٣﴾
+> لِإِيلَافِ قُرَيْشٍ ﴿١﴾ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ ﴿٤﴾
 >
-> *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"Karena kebiasaan orang-orang Quraisy, yaitu kebiasaan mereka bepergian pada musim dingin dan musim panas. Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah), yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."* ﴾1-4﴿
+> — QS. Quraisy (106): 1-4
 
-Ayat ini mencerminkan semangat kosmopolitan Malaka yang menyambut orang dari semua latar belakang.^4
+Ayat ini sangat relevan dengan karakter Malaka sebagai pusat perdagangan maritim yang mengandalkan perjalanan dagang musiman seperti halnya Quraisy dengan kafilah perdagangannya, di mana Allah memberikan kemakmuran dan keamanan bagi para pedagang.^4
 
 ---
 
@@ -111,4 +111,4 @@ Ayat ini mencerminkan semangat kosmopolitan Malaka yang menyambut orang dari sem
 2. Tome Pires, *The Suma Oriental of Tome Pires*, trans. Armando Cortesao, London: Hakluyt Society, 1944.
 3. C.C. Brown (trans.), *Sejarah Melayu or Malay Annals*, Kuala Lumpur: Oxford University Press, 1970.
 4. Anthony Reid, *Southeast Asia in the Age of Commerce*, New Haven: Yale University Press, 1993.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+5. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.

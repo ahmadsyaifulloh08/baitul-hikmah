@@ -60,10 +60,7 @@ Although technically a mosque tower (*manara*), the Malwiya Tower had more compl
 
 The spiral design of the tower was associated with Islamic cosmological traditions that view the universe as a layered structure connecting earth to heaven. Ascending to the top of the tower symbolized a spiritual journey toward closeness to Allah.^19
 
-> وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ۚ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ ﴿١١٥﴾
->
-> *"And to Allah belongs the east and the west. So wherever you turn, there is the face of Allah. Indeed, Allah is all-Encompassing and Knowing." ﴾115﴿*
-> — QS. Al-Baqarah (2): 115^20
+The Great Mosque of Samarra and the Malwiya Minaret became symbols of Abbasid architectural ambition that dared to experiment beyond tradition. Their legacy inspired generations of Muslim architects who followed.
 
 ## Ornamentation and Decorative Arts
 
@@ -174,7 +171,7 @@ The Samarra Mosque and Malwiya Tower remain important symbols of Islamic civiliz
 17. Flood, Finbarr Barry, *The Great Mosque of Damascus*, Leiden: Brill, 2001.
 18. Rabbat, Nasser, "The Meaning of the Umayyad Dome of the Rock", *Muqarnas*, 6 (1989): 12-21.
 19. Burckhardt, Titus, *Art of Islam*, London: World of Islam Festival, 1976.
-20. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.
+
 21. Baer, Eva, "The Human Figure in Early Islamic Art", *Muqarnas*, 16 (1999): 32-41.
 22. George, Alain, *The Rise of Islamic Calligraphy*, London: Saqi Books, 2010.
 23. Jenkins, Marilyn, "Islamic Pottery: A Brief History", *Metropolitan Museum Journal*, 13 (1978): 53-79.

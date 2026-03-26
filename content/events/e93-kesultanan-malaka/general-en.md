@@ -94,12 +94,12 @@ The Sultanate of Malacca teaches:
 
 **Strategic location and good governance**: Combination of advantageous position with fair policies.^2 **Religious tolerance in diversity**: Success in managing a multi-ethnic, multi-religious trading community. **Cultural synthesis**: Ability to create distinctive Islamic culture that was locally relevant.^3 **Economic openness**: Free trade policies that benefited all participants.
 
-> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ﴿١٣﴾
+> لِإِيلَافِ قُرَيْشٍ ﴿١﴾ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ ﴿٤﴾
 >
-> *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another."* ﴾13﴿
-> — QS. Al-Hujurat (49): 13
+> *"For the accustomed security of the Quraysh - their accustomed security in the winter and summer caravan. Let them worship the Lord of this House, who has fed them, saving them from hunger and made them safe, saving them from fear."* ﴾1-4﴿
+> — QS. Quraisy (106): 1-4
 
-This verse reflects the cosmopolitan spirit of Malacca that welcomed people from all backgrounds.^4
+This verse is highly relevant to Malacca's character as a maritime trading center that relied on seasonal commercial voyages like the Quraysh with their trading caravans, where Allah provided prosperity and security for the merchants.^4
 
 ---
 
@@ -111,4 +111,4 @@ This verse reflects the cosmopolitan spirit of Malacca that welcomed people from
 2. Tome Pires, *The Suma Oriental of Tome Pires*, trans. Armando Cortesao, London: Hakluyt Society, 1944.
 3. C.C. Brown (trans.), *Sejarah Melayu or Malay Annals*, Kuala Lumpur: Oxford University Press, 1970.
 4. Anthony Reid, *Southeast Asia in the Age of Commerce*, New Haven: Yale University Press, 1993.
-5. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.
+5. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.

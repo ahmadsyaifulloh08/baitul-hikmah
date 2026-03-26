@@ -60,10 +60,12 @@ Perang Salib Kelima mengajarkan bahwa **kepemimpinan yang efektif membutuhkan un
 
 Kisah ini juga menunjukkan bahaya **hybris** atau kesombongan berlebihan. Ketika kemenangan kecil membuat pemimpin merasa invincible, mereka cenderung mengambil keputusan yang fatal.^1
 
-> وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ الْأَرْضَ وَلَن تَبْلُغَ الْجِبَالَ طُولًا ﴿٣٧﴾
+> وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ ﴿١٣٩﴾
 >
-> *"Dan janganlah kamu berjalan di muka bumi ini dengan sombong, karena sesungguhnya kamu sekali-kali tidak dapat menembus bumi dan sekali-kali kamu tidak akan sampai setinggi gunung."* ﴾37﴿
-> — QS. Al-Isra (17): 37
+> *"Janganlah kamu merasa lemah dan janganlah pula bersedih, padahal kamu adalah orang-orang yang paling tinggi (derajatnya), jika kamu benar-benar beriman."* ﴾139﴿
+> — QS. Ali Imran (3): 139
+
+Kaum Muslim di Mesir berhasil mempertahankan tanah mereka dari invasi Perang Salib V dengan keteguhan iman dan strategi yang cerdas.
 
 ---
 
@@ -72,4 +74,4 @@ Kisah ini juga menunjukkan bahaya **hybris** atau kesombongan berlebihan. Ketika
 1. Oliver dari Paderborn, *Historia Damiatina*.
 2. al-Maqrizi, Taqi al-Din Ahmad, *Al-Suluk li-Ma'rifat Duwal al-Muluk*.
 3. Van Cleve, Thomas Curtis, *The Fifth Crusade*, dalam *A History of the Crusades*.
-4. Al-Qur'an al-Karim. QS. Al-Isra (17): 37.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 139.
