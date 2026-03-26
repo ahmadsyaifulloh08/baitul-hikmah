@@ -551,7 +551,10 @@ STEP 2: QA CONTENT REVIEW (automated + agent) ← NEW
       V3: Duplikat pustaka (sumber sama muncul >1x)
       V4: Pustaka >8 atau <3 entries
       V5: Sitasi ^0 (nol)
-      V6: Al-Qur'an tidak di pustaka (ada QS. refs tapi tidak ada entry Al-Qur'an al-Karim di Daftar Pustaka)
+      V6: Al-Qur'an tidak di pustaka / duplikat / nama surah terpotong
+      V7: Penjelasan ayat tanpa sitasi Al-Qur'an (paragraf setelah blockquote ayat harus cite entry Al-Quran)
+      V8: Ayat tidak relevan (Tier 3 — generik, tidak ada korelasi historis)
+      V9: Ayat overused (>3 events pakai ayat spesifik yang sama)
   └── Juga cek: section count ID↔EN sync, children slide count match
   └── Output: PASS list + FAIL list per event
 

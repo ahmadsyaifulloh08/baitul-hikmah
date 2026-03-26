@@ -216,6 +216,9 @@ Card di `events-database.json` juga HARUS menggunakan format lengkap:
 | V4 | **Pustaka <3 entries** — terlalu sedikit, kurang triangulasi | Hanya 1-2 sumber | REJECT |
 | V5 | **Sitasi ⁰ (nol)** — nomor sitasi harus mulai dari 1 | ^0 di teks | REJECT |
 | V6 | **Duplikat Al-Qur'an entry** — lebih dari 1 entry Al-Qur'an di daftar pustaka, atau nama surah terpotong | 2 entry "Al-Qur'an al-Karim" atau "QS. Ali" tanpa "(3): 64" | REJECT |
+| V7 | **Penjelasan ayat tanpa sitasi Al-Qur'an** — paragraf setelah blockquote ayat Al-Quran HARUS cite ke entry Al-Qur'an al-Karim | Paragraf "Ayat ini mencerminkan..." punya ^3 (Ibn Arabshah) tapi tidak punya ^5 (Al-Quran) | REJECT |
+| V8 | **Ayat tidak relevan (Tier 3)** — ayat generik yang bisa ditempel ke event apa saja, tanpa korelasi historis | QS. Ar-Rum 30:21 (pernikahan) di event politik Kesultanan Demak | REJECT |
+| V9 | **Ayat overused** — ayat spesifik yang sama dipakai di >3 events berbeda | QS. Al-Hujurat 49:13 di 7 events | REJECT — cari alternatif |
 
 ### Self-Check Sebelum Submit
 
@@ -227,6 +230,9 @@ CHECKLIST SITASI:
 □ Untuk SETIAP entry #N → cari ^N atau ⁿ di body → harus ada minimal 1x
 □ Untuk SETIAP ^N di body → cek entry #N ada di Daftar Pustaka
 □ Cek tidak ada 2 entry yang merujuk kitab/buku yang SAMA
+□ V7: Paragraf SETELAH blockquote ayat Al-Quran → HARUS punya ^N yang merujuk entry Al-Qur'an al-Karim
+□ V8: Ayat yang dikutip → cek Tier (1=asbabun nuzul, 2=tematik kuat, 3=HINDARI). Tier 3 = REJECT
+□ V9: Ayat yang dikutip → cek apakah sudah dipakai di >3 events lain. Jika ya → cari alternatif
 □ Tidak ada ^0 (nol) di body
 □ Detail bab/halaman di INLINE text, BUKAN di entry pustaka
 ```
@@ -490,7 +496,7 @@ python3 scripts/qa-content.py e03 e47
 python3 scripts/qa-content.py --json
 ```
 
-**Checks:** V1-V5 (sitasi), V6 (ID↔EN section count), V7 (children slide count), file completeness.
+**Checks:** V1-V5 (sitasi dasar), V6 (duplikat/truncated Al-Quran), V7 (penjelasan ayat tanpa cite Al-Quran), V8 (ayat Tier 3), V9 (ayat overused >3x), ID↔EN section count, children slide count, file completeness.
 
 **Pipeline integration:**
 ```
@@ -516,7 +522,10 @@ Researcher output → qa-content.py audit
 - [ ] **V3**: Tidak ada duplikat — setiap entry merujuk karya/kitab BERBEDA
 - [ ] **V4**: Jumlah entry daftar pustaka: **minimal 3**, consolidated (1 entry = 1 karya unik)
 - [ ] **V5**: Tidak ada sitasi ^0 atau ⁰ — nomor mulai dari 1
-- [ ] **V6**: Jika ada referensi `QS.` di body → Al-Qur'an al-Karim WAJIB ada sebagai entry di Daftar Pustaka
+- [ ] **V6**: Jika ada referensi `QS.` di body → Al-Qur'an al-Karim WAJIB ada sebagai entry di Daftar Pustaka. Tidak boleh duplikat. Nama surah lengkap: `QS. [Nama] ([N]): [Ayat]`
+- [ ] **V7**: Paragraf setelah blockquote ayat → HARUS punya `^N` ke entry Al-Qur'an (bukan hanya cite sumber sirah)
+- [ ] **V8**: Ayat yang dikutip harus Tier 1 (asbabun nuzul) atau Tier 2 (tematik kuat). Tier 3 (generik) = REJECT
+- [ ] **V9**: Satu ayat spesifik tidak boleh muncul di >3 events. Cek `ayat_usage` sebelum tambah ayat baru
 - [ ] Sitasi reuse — sumber sama = nomor SAMA (bukan nomor baru)
 - [ ] Detail bab/halaman di inline text, BUKAN di entry pustaka
 - [ ] Setiap paragraf klaim historis punya minimal 1 sitasi
