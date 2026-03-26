@@ -51,7 +51,7 @@ The Qur'an affirms Allah's promise of help for believers:
 > وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۗ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٞ ﴿٤٠﴾
 >
 > *"And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might. ﴾40﴿"*
-> — QS. Al-Hajj (22): 40^3
+> — QS. Al-Hajj (22): 40
 
 ## Christian World Response^4
 

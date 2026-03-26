@@ -19,7 +19,7 @@ This political support enabled Ibn Rushd not only to work as a qadi in Seville a
 > وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
 >
 > *"And you have not been given of knowledge except a little."*
-> — QS. al-Isra' (17): 85^2
+> — QS. al-Isra' (17): 85
 
 ## Confrontation with Al-Ghazali: Tahafut al-Tahafut^3
 

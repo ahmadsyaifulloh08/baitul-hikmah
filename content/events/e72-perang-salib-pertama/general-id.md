@@ -59,7 +59,7 @@ Al-Qur'an mengingatkan tentang batasan-batasan dalam peperangan:
 > وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓا۟ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ ﴿١٩٠﴾
 >
 > *"Dan perangilah di jalan Allah orang-orang yang memerangi kamu, tetapi jangan melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas. ﴾190﴿"*
-> — QS. Al-Baqarah (2): 190^3
+> — QS. Al-Baqarah (2): 190
 
 ## Pembentukan Negara-Negara Tentara Salib^4
 

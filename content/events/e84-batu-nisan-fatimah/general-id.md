@@ -67,7 +67,7 @@ Al-Qur'an menegaskan prinsip kebebasan beragama yang mungkin diterapkan dalam pr
 > لَا إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ ﴿٢٥٦﴾
 >
 > *"Tidak ada paksaan dalam agama. Sesungguhnya telah jelas perbedaan antara jalan yang benar dengan jalan yang sesat. ﴾256﴿"*
-> — QS. Al-Baqarah (2): 256^1
+> — QS. Al-Baqarah (2): 256
 
 ## Teori-Teori Kedatangan Islam ke Nusantara.^4
 

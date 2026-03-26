@@ -47,7 +47,7 @@ Di Nizamiyya, Al-Ghazali tidak hanya mengajar fiqh dan teologi, tetapi juga meng
 > وَقُل رَّبِّ زِدْنِي عِلْمًا ﴿١١٤﴾
 >
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'" ﴾114﴿*
-> — QS. Taha (20): 114^9
+> — QS. Taha (20): 114
 
 Ayat ini mencerminkan semangat intelektual yang menjadi inti misi Nizamiyya — pencarian ilmu yang tiada henti sebagai bentuk ibadah dan pengabdian kepada Allah.^9
 

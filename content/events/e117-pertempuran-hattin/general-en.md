@@ -21,7 +21,7 @@ Interestingly, the composition of Crusader forces reflected almost their entire 
 > وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾
 >
 > *"And indeed Allah had given you victory at Badr when you were few in number. So fear Allah that you may be grateful." ﴾123﴿*
-> — QS. Ali Imran (3): 123^4
+> — QS. Ali Imran (3): 123
 
 This verse reflects the faith and conviction that drove Muslim forces to face enemies who were no less strong numerically and technologically.^4
 

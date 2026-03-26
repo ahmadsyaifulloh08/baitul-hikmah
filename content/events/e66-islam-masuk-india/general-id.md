@@ -61,7 +61,7 @@ Banyak anggota kasta rendah yang kemudian masuk Islam karena melihat dalam agama
 > يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ ﴿١٣﴾
 >
 > *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal. Sesungguhnya orang yang paling mulia diantara kamu disisi Allah ialah orang yang paling taqwa diantara kamu." ﴾13﴿*
-> — QS. Al-Hujurat (49): 13^10
+> — QS. Al-Hujurat (49): 13
 
 Ayat ini mencerminkan prinsip universal Islam yang memungkinkan penerimaan berbagai elemen budaya lokal dalam kerangka akidah yang benar. Proses Islamisasi India menciptakan identitas kultural yang unik, di mana elemen-elemen Arab, Persia, Turki, dan India berpadu menjadi sesuatu yang baru.^10
 

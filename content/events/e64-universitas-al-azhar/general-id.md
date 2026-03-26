@@ -187,7 +187,7 @@ Hierarki ini bukan kaku, tetapi fleksibel berdasarkan kompetensi. Seorang murid 
 > يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴿١١﴾
 >
 > *"Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat. Dan Allah Maha Mengetahui apa yang kamu kerjakan."* ﴾11﴿
-> — QS. Al-Mujadalah (58): 11^13
+> — QS. Al-Mujadalah (58): 11
 
 Al-Azhar menjadi pelopor dalam integrasi berbagai cabang ilmu Islam, mewujudkan janji Allah tentang peninggian derajat bagi orang-orang berilmu. Para mahasiswa tidak hanya mempelajari satu bidang, tetapi harus menguasai "ilmu alat" (*nahw*, *sharf*, *mantiq*) sebagai dasar untuk memahami ilmu-ilmu yang lebih tinggi seperti tafsir, hadits, dan fiqh.^13
 
@@ -330,7 +330,7 @@ Dalam era globalisasi dan pluralitas kontemporer, Al-Azhar memainkan peran penti
 > وَقُل رَّبِّ زِدْنِي عِلْمًا ﴿١١٤﴾
 >
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
-> — QS. Taha (20): 114^13
+> — QS. Taha (20): 114
 
 Doa yang diajarkan al-Quran ini menjadi semangat yang terus menghidupkan Al-Azhar selama lebih dari seribu tahun. Institusi yang dimulai sebagai masjid sederhana telah berkembang menjadi mercusuar peradaban Islam yang terus bersinar, menginspirasi jutaan Muslim di seluruh dunia untuk terus mencari ilmu dan berkontribusi bagi kemanusiaan.^13
 

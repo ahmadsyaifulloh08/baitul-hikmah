@@ -23,7 +23,7 @@ This unification was strategic in facing the Crusader threat. Previously, Crusad
 > وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ﴿١٠٣﴾
 >
 > *"And hold fast, all of you together, to the rope of Allah, and do not be divided."*
-> — QS. Ali Imran (3): 103^12
+> — QS. Ali Imran (3): 103
 
 ## Ayyubid Government System^12
 

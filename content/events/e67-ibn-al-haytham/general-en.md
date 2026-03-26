@@ -57,7 +57,7 @@ One revolutionary aspect of Ibn al-Haytham's approach was his courage to critici
 > وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ ﴿٦﴾
 >
 > *"And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy." ﴾6﴿*
-> — QS. Saba (34): 6^1
+> — QS. Saba (34): 6
 
 ## Influence on Western and Eastern Civilizations^10
 

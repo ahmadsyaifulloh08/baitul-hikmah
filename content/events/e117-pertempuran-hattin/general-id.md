@@ -21,7 +21,7 @@ Yang menarik, komposisi pasukan Salib mencerminkan hampir seluruh kekuatan milit
 > وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾
 >
 > *"Dan sungguh, Allah telah menolong kamu dalam Perang Badr, padahal kamu dalam keadaan lemah. Maka bertakwalah kepada Allah agar kamu bersyukur." ﴾123﴿*
-> — QS. Ali Imran (3): 123^4
+> — QS. Ali Imran (3): 123
 
 Ayat ini mencerminkan kepercayaan dan keyakinan yang mendorong pasukan Muslim menghadapi musuh yang secara numerik dan teknologi tidak kalah kuat.^4
 

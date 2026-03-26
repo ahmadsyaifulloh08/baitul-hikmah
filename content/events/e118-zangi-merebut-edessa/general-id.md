@@ -51,7 +51,7 @@ Al-Qur'an menegaskan janji pertolongan Allah bagi orang-orang yang beriman:
 > وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۗ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٞ ﴿٤٠﴾
 >
 > *"Dan pasti Allah menolong orang yang menolong (agama)-Nya. Sesungguhnya Allah Mahakuat lagi Mahaperkasa. ﴾40﴿"*
-> — QS. Al-Hajj (22): 40^3
+> — QS. Al-Hajj (22): 40
 
 ## Respons Dunia Kristen^4
 

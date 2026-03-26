@@ -25,7 +25,7 @@ In July 1148 CE, the combined Crusader forces led by Louis VII, Conrad III, and 
 > وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِن بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ﴿١٠٥﴾
 >
 > *"And indeed, We have written in the Zabur after the Reminder that the righteous among My servants shall inherit the earth."*
-> — QS. al-Anbiya' (21): 105^7
+> — QS. al-Anbiya' (21): 105
 
 The siege lasted only four days. The Crusaders initially succeeded in breaching the outer defenses and occupying the gardens around Damascus. However, their decision to change their attack position from the west side (which was more open) to the east side (which was more heavily fortified) proved fatal. Muslim forces managed to cut their supply lines while reinforcements from Aleppo drew closer. ^7
 

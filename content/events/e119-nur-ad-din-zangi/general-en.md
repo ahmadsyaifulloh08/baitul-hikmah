@@ -23,7 +23,7 @@ The Qur'an emphasizes the importance of preparation in facing enemies:
 > وَأَعِدُّوا۟ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةٖ وَمِن رِّبَاطِ ٱلۡخَيۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ ﴿٦٠﴾
 >
 > *"And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy. ﴾60﴿"*
-> — QS. Al-Anfal (8): 60^1
+> — QS. Al-Anfal (8): 60
 
 ## Legacy and Future Preparation^4
 

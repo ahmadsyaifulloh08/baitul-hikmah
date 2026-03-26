@@ -61,7 +61,7 @@ Many members of lower castes later converted to Islam because they saw in this r
 > يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقۡنَٰكُم مِّن ذَكَرٖ وَأُنثَىٰ وَجَعَلۡنَٰكُمۡ شُعُوبٗا وَقَبَآئِلَ لِتَعَارَفُوٓاْۚ إِنَّ أَكۡرَمَكُمۡ عِندَ ٱللَّهِ أَتۡقَىٰكُمۡۚ ﴿١٣﴾
 >
 > *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you." ﴾13﴿*
-> — QS. Al-Hujurat (49): 13^11
+> — QS. Al-Hujurat (49): 13
 
 This verse reflects the universal principles of Islam that enabled acceptance of various local cultural elements within the framework of correct faith. The process of Islamization of India created a unique cultural identity, where Arabic, Persian, Turkish, and Indian elements merged into something new.^11
 

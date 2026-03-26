@@ -43,7 +43,7 @@ One of Cordoba's distinguishing features was the model of religious tolerance pr
 > يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۢ بَيْنَنَا وَبَيْنَكُمْ ﴿٦٤﴾
 >
 > *"O People of the Book, come to a word that is equitable between us and you..." ﴾64﴿*
-> — QS. Ali Imran (3): 64^11
+> — QS. Ali Imran (3): 64
 
 ## Eternal Legacy for Europe and the World^11
 

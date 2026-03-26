@@ -67,7 +67,7 @@ The Qur'an affirms the principle of religious freedom that may have been applied
 > لَا إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ ﴿٢٥٦﴾
 >
 > *"There is no compulsion in religion. The right course has become clear from the wrong. ﴾256﴿"*
-> — QS. Al-Baqarah (2): 256^1
+> — QS. Al-Baqarah (2): 256
 
 ## Theories of Islam's Arrival in the Archipelago.^4
 

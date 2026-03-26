@@ -75,7 +75,7 @@ Al-Azhar developed a unique learning system through **halaqah** — study circle
 > يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ ﴿١١﴾
 >
 > *"Allah will raise those who have believed among you and those who were given knowledge, by degrees. And Allah is Acquainted with what you do."* ﴾11﴿
-> — QS. Al-Mujadalah (58): 11^13
+> — QS. Al-Mujadalah (58): 11
 
 Al-Azhar became a pioneer in integrating various branches of Islamic knowledge, embodying Allah's promise to elevate the status of those endowed with knowledge. Students had to master "instrumental sciences" (*nahw*, *sarf*, *mantiq*) as foundation for understanding higher sciences like *tafsir*, *hadith*, and *fiqh*.^13
 
@@ -122,7 +122,7 @@ In recent decades, Al-Azhar launched a massive digitization program to convert a
 > وَقُل رَّبِّ زِدْنِي عِلْمًا ﴿١١٤﴾
 >
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
-> — QS. Taha (20): 114^13
+> — QS. Taha (20): 114
 
 This prayer taught by the Quran continues to be the spirit that keeps Al-Azhar alive for over a thousand years. The institution that began as a simple mosque has developed into a beacon of Islamic civilization that continues to shine, inspiring millions of Muslims worldwide to continue seeking knowledge and contributing to humanity.^13
 

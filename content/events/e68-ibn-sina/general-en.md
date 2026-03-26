@@ -43,7 +43,7 @@ He was also the first to explain the transmission of infectious diseases through
 > يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ﴿٥٧﴾
 >
 > *"O mankind! There has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers." ﴾57﴿*
-> — QS. Yunus (10): 57^3
+> — QS. Yunus (10): 57
 
 ## Contributions to Philosophy and Metaphysics^7
 

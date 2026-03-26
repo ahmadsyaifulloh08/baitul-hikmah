@@ -47,7 +47,7 @@ At Nizamiyya, Al-Ghazali not only taught jurisprudence and theology, but also de
 > وَقُل رَّبِّ زِدْنِي عِلْمًا ﴿١١٤﴾
 >
 > *"And say: 'My Lord, increase me in knowledge.'" ﴾114﴿*
-> — QS. Taha (20): 114^10
+> — QS. Taha (20): 114
 
 This verse reflects the intellectual spirit that became the core of Nizamiyya's mission — the relentless pursuit of knowledge as a form of worship and devotion to Allah.^10
 

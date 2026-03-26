@@ -23,7 +23,7 @@ Unifikasi ini strategis dalam menghadapi ancaman Salib. Sebelumnya, kerajaan-ker
 > وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ﴿١٠٣﴾
 >
 > *"Dan berpegangteguhlah kamu semuanya pada tali (agama) Allah, dan janganlah kamu bercerai-berai."*
-> — QS. Ali Imran (3): 103^12
+> — QS. Ali Imran (3): 103
 
 ## Sistem Pemerintahan Ayyubiyah^12
 

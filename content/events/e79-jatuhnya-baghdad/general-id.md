@@ -93,7 +93,7 @@ Ulama-ulama yang selamat dari bencana Baghdad melakukan introspeksi mendalam ten
 > إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ
 >
 > *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri."*
-> — QS. Ar-Ra'd (13): 11^6
+> — QS. Ar-Ra'd (13): 11
 
 Ibn Taymiyyah, yang hidup satu generasi setelah jatuhnya Baghdad, menulis dalam *Majmu' al-Fatawa* bahwa tragedi Baghdad adalah "ujian dari Allah atas kemunduran moral dan spiritual umat Islam yang telah meninggalkan jihad dan terlena dalam kemewahan." ^8
 
@@ -113,7 +113,7 @@ Salah satu pelajaran utama dari jatuhnya Baghdad adalah bahaya perpecahan intern
 > وَلَا تَنَٰزَعُواْ فَتَفۡشَلُواْ وَتَذۡهَبَ رِيحُكُمۡ
 >
 > *"Dan janganlah kamu berselisih, karena jika demikian kamu akan menjadi lemah dan akan hilang kekuatanmu."*
-> — QS. Al-Anfal (8): 46^6
+> — QS. Al-Anfal (8): 46
 
 Ibn Kathir dalam tafsirnya menegaskan bahwa perpecahan adalah salah satu sebab utama kekalahan umat Islam dari musuh-musuh mereka, sebagaimana yang terjadi di Baghdad ketika para pemimpin Muslim tidak bersatu menghadapi ancaman Mongol. ^8
 

@@ -299,7 +299,7 @@ Ibn al-Haytham menunjukkan bahwa pencarian kebenaran ilmiah tidak bertentangan d
 > وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقُّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ ﴿٦﴾
 >
 > *"Dan orang-orang yang diberi ilmu meyakini bahwa Al Quran yang diturunkan kepadamu dari Tuhanmu itulah yang benar dan menunjuki kepada jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji."* ﴾6﴿
-> — QS. Saba (34): 6^3
+> — QS. Saba (34): 6
 
 Bagi Ibn al-Haytham, mempelajari hukum-hukum alam adalah cara untuk mengenal keagungan Sang Pencipta. Pendekatan ini menunjukkan bahwa sains dan spiritualitas dapat berjalan seiring, bukan saling bertentangan.^10
 
@@ -316,7 +316,7 @@ Ibn al-Haytham meninggalkan warisan yang melampaui batas-batas peradaban dan aga
 > إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ ﴿٢٨﴾
 >
 > *"Sesungguhnya yang takut kepada Allah di antara hamba-hamba-Nya, hanyalah ulama. Sesungguhnya Allah Maha Perkasa lagi Maha Pengampun."* ﴾28﴿
-> — QS. Fatir (35): 28^3
+> — QS. Fatir (35): 28
 
 Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang memahami alam semesta melalui sains, semakin besar pula rasa takjubnya kepada Allah Yang Maha Pencipta. Warisan spiritual ini sama pentingnya dengan warisan ilmiahnya dalam membentuk peradaban manusia.^10
 

@@ -59,7 +59,7 @@ The Qur'an reminds about the limits in warfare:
 > وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓا۟ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ ﴿١٩٠﴾
 >
 > *"And fight in the way of Allah those who fight you but do not transgress. Indeed, Allah does not like transgressors. ﴾190﴿"*
-> — QS. Al-Baqarah (2): 190^3
+> — QS. Al-Baqarah (2): 190
 
 ## Formation of Crusader States^4
 

@@ -43,7 +43,7 @@ Dia juga adalah orang pertama yang menjelaskan penularan penyakit menular melalu
 > يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ﴿٥٧﴾
 >
 > *"Wahai manusia! Sungguh, telah datang kepadamu pelajaran (Al-Quran) dari Tuhanmu, penyembuh bagi penyakit yang ada dalam dada, dan petunjuk serta rahmat bagi orang-orang yang beriman." ﴾57﴿*
-> — QS. Yunus (10): 57^3
+> — QS. Yunus (10): 57
 
 ## Kontribusi dalam Filosofi dan Metafisika^7
 

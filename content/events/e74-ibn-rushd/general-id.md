@@ -19,7 +19,7 @@ Dukungan politik ini memungkinkan Ibn Rushd tidak hanya bekerja sebagai qadi di 
 > وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
 >
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."*
-> — QS. al-Isra' (17): 85^2
+> — QS. al-Isra' (17): 85
 
 ## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut^3
 
