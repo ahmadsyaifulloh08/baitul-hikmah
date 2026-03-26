@@ -10,7 +10,7 @@ By the mid-8th century CE, the Umayyad Dynasty, which had ruled since 661 CE, fa
 
 **Systematic discrimination against *mawali*** (non-Arabs who converted to Islam) became the most fundamental source of tension. Despite having embraced Islam — often more devout than Arabs themselves — they were still treated as second-class citizens. They were subjected to *jizyah* tax like non-Muslims, prohibited from calling the *adhan*, and almost never received high positions in government.^2
 
-Al-Jahiz in *al-Bayan wa al-Tabyin* recorded a Persian *mawali* complaint: *"We entered Islam sincerely, learned Arabic diligently, even memorized the Quran better than Arabs. Yet they still call us 'ajam (barbarians) and consider us unworthy to lead."*^3
+Al-Jahiz in *al-Bayan wa al-Tabyin* recorded a Persian *mawali* complaint: *"We entered Islam sincerely, learned Arabic diligently, even memorized the Quran better than Arabs. Yet they still call us 'ajam (barbarians) and consider us unworthy to lead."*^3^12
 
 **Internal divisions within the Umayyad family** further worsened the situation. Rivalry between the **Sufyaniyah** branch (descendants of Mu'awiyah) and **Marwaniyah** branch (descendants of Marwan ibn Hakam) created endless palace intrigues. Every khalifah succession was marked by conspiracies, political assassinations, and brutal power struggles.^2
 
@@ -279,3 +279,4 @@ The religious tolerance practiced by the Abbasids enabled dialogue and knowledge
 9. Sourdel, Dominique, *Medieval Islam*, London: Routledge & Kegan Paul, 1983.
 10. Shaban, M.A., *The Abbasid Revolution*, Cambridge: Cambridge University Press, 1970.
 11. Bulliet, Richard W., *Conversion to Islam in the Medieval Period*, Harvard University Press, 1979.
+12. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

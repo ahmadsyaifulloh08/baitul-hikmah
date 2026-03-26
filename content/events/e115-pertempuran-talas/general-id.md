@@ -10,17 +10,17 @@ Di sisi barat, **Kekhalifahan Abbasiyah** yang baru saja menggulingkan Dinasti U
 
 Yang membuat situasi semakin kompleks adalah dinamika internal suku-suku Turki. Konfederasi **Türgesh** yang sebelumnya mendominasi Asia Tengah sedang mengalami fragmentasi, sementara suku **Karluk** muncul sebagai kekuatan baru yang ingin mengisi kekosongan kekuasaan. Posisi suku-suku ini menjadi sangat strategis karena mereka menguasai teknologi perang berkuda yang superior dan mengetahui medan geografis stepa dengan sempurna.^3
 
-**Ziyad ibn Salih**, gubernur Abbasiyah untuk Samarkand, memainkan peran kunci dalam membangun aliansi dengan penguasa lokal yang mulai merasa terancam oleh ambisi ekspansionis Tang. Diplomasi Ziyad menunjukkan pengertian mendalam tentang politik tribal Asia Tengah, di mana loyalitas bersifat pragmatis dan bisa berubah sesuai dengan balance of power.^4
+**Ziyad ibn Salih**, gubernur Abbasiyah untuk Samarkand, memainkan peran kunci dalam membangun aliansi dengan penguasa lokal yang mulai merasa terancam oleh ambisi ekspansionis Tang. Diplomasi Ziyad menunjukkan pengertian mendalam tentang politik tribal Asia Tengah, di mana loyalitas bersifat pragmatis dan bisa berubah sesuai dengan keseimbangan kekuasaan.^4
 
 ## Eskalasi Menuju Konflik: Perebutan Ferghana
 
 Krisis yang menuju Pertempuran Talas dimulai dengan perebutan **Lembah Ferghana**, wilayah subur yang terkenal dengan kuda-kuda perangnya yang legendaris. **Raja Ikhshid dari Ferghana** menghadapi tekanan internal dari faksi-faksi yang didukung oleh sekutu-sekutu Abbasiyah. Menghadapi ancaman kehilangan tahta, Ikhshid meminta bantuan militer kepada Dinasti Tang.^5
 
-Permintaan bantuan ini memberikan justifikasi yang sempurna bagi Tang untuk intervensi militer besar-besaran. **Kaisar Xuanzong** melihat ini sebagai kesempatan untuk mengkonsolidasikan kekuasaan Tang atas seluruh Asia Tengah dan menghentikan ekspansi Islam yang semakin mengancam sphere of influence Tiongkok.^2
+Permintaan bantuan ini memberikan justifikasi yang sempurna bagi Tang untuk intervensi militer besar-besaran. **Kaisar Xuanzong** melihat ini sebagai kesempatan untuk mengkonsolidasikan kekuasaan Tang atas seluruh Asia Tengah dan menghentikan ekspansi Islam yang semakin mengancam wilayah pengaruh Tiongkok.^2
 
-**Jenderal Gao Xianzhi**, veteran kampanye Asia Tengah yang telah memimpin ekspedisi sukses ke Kashmir dan Gilgit, ditunjuk untuk memimpin pasukan ekspedisi. Gao Xianzhi adalah seorang perwira yang sangat berpengalaman dalam perang gunung dan stepa, dengan rekam jejak kemenangan yang impresif melawan berbagai koalisi suku-suku lokal.^6
+**Jenderal Gao Xianzhi**, veteran kampanye Asia Tengah yang telah memimpin ekspedisi sukses ke Kashmir dan Gilgit, ditunjuk untuk memimpin pasukan ekspedisi. Gao Xianzhi adalah seorang perwira yang sangat berpengalaman dalam perang gunung dan stepa, dengan rekam jejak kemenangan yang mengesankan melawan berbagai koalisi suku-suku lokal.^6
 
-Respons Abbasiyah tidak kalah cepat. **Abu Muslim al-Khurasani**, meski sedang mengkonsolidasikan kekuasaan Abbasiyah di Persia, mengirim **Ziyad ibn Salih** dengan mandat penuh untuk mengorganisasi koalisi anti-Tang. Yang sangat strategis, Ziyad berhasil meyakinkan **Bilge Khagan dari Karluk** bahwa Tang merupakan ancaman eksistensial bagi independensi suku-suku Turki.^7
+Respons Abbasiyah tidak kalah cepat. **Abu Muslim al-Khurasani**, meski sedang mengkonsolidasikan kekuasaan Abbasiyah di Persia, mengirim **Ziyad ibn Salih** dengan mandat penuh untuk mengorganisasi koalisi anti-Tang. Yang sangat strategis, Ziyad berhasil meyakinkan **Bilge Khagan dari Karluk** bahwa Tang merupakan ancaman eksistensial bagi kemerdekaan suku-suku Turki.^7
 
 Negosiasi rahasia antara Ziyad dan pemimpin Karluk berlangsung berbulan-bulan. Al-Tabari mencatat bahwa Ziyad menjanjikan status otonomi luas bagi Karluk dalam struktur kekuasaan Abbasiyah, ditambah dengan akses preferential terhadap jalur perdagangan yang akan dikuasai. Kontras dengan Tang yang cenderung impose sistem administrasi terpusat, penawaran Abbasiyah memberikan fleksibilitas yang lebih menarik bagi mentalitas nomaden Turki.^1
 
@@ -33,12 +33,12 @@ Pasukan ekspedisi Tang yang berkumpul di Ferghana pada musim semi 751 M merupaka
 - **12.000 infanteri berat** (*bu bing*) dengan armor lamellar dan persenjataan standardized
 - **8.000 kavaleri** (*qi bing*) dengan kuda-kuda perang Asia Tengah terbaik  
 - **5.000 pemanah silang** (*nu shou*) dengan crossbow yang memiliki range dan akurasi superior
-- **3.000 auxiliary troops** dari berbagai vassal states yang dikuasai Tang
-- **2.000 specialist units** termasuk engineers dan siege equipment operators
+- **3.000 pasukan bantu** dari berbagai negara vasal yang dikuasai Tang
+- **2.000 unit spesialis** termasuk insinyur dan operator peralatan pengepungan
 
-Keunggulan teknologi Tang sangat mencolok. **Crossbow Tang** (*nu*) memiliki jangkauan hingga 400 meter dengan akurasi yang jauh melebihi composite bow konvensional. Sistem armor lamellar mereka memberikan perlindungan optimal tanpa mengurangi mobilitas. Yang paling penting, disiplin dan koordinasi pasukan Tang mencerminkan centuries of military evolution dan professionalization.^9
+Keunggulan teknologi Tang sangat mencolok. **Busur silang Tang** (*nu*) memiliki jangkauan hingga 400 meter dengan akurasi yang jauh melebihi busur komposit konvensional. Sistem armor lamellar mereka memberikan perlindungan optimal tanpa mengurangi mobilitas. Yang paling penting, disiplin dan koordinasi pasukan Tang mencerminkan berabad-abad evolusi dan profesionalisasi militer.^9
 
-**Strategi Gao Xianzhi** mengandalkan formasi teratur yang telah terbukti efektif melawan berbagai musuh di Asia Tengah. Ia berencana menggunakan kombinasi volley crossbow untuk melumpuhkan kavaleri musuh, kemudian melakukan decisive charge dengan kavaleri berat untuk memecah formasi lawan.^6
+**Strategi Gao Xianzhi** mengandalkan formasi teratur yang telah terbukti efektif melawan berbagai musuh di Asia Tengah. Ia berencana menggunakan kombinasi tembakan busur silang untuk melumpuhkan kavaleri musuh, kemudian melakukan serangan menentukan dengan kavaleri berat untuk memecah formasi lawan.^6
 
 ### Koalisi Muslim-Turki: Fleksibilitas dan Aliansi
 

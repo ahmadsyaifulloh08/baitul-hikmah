@@ -125,10 +125,13 @@ Dalam konteks psikologi modern, pendekatan al-Ghazali dalam menganalisis berbaga
 
 Wafatnya al-Ghazali pada tahun 1111 M di Thus menandai berakhirnya salah satu periode paling cemerlang dalam sejarah pemikiran Islam. Namun, warisan intelektual dan spiritualnya terus hidup melalui "Ihya Ulum al-Din" dan karya-karyanya yang lain. Gelar "Hujjat al-Islam" (Dalil Islam) yang diberikan kepadanya mencerminkan pengakuan umat Islam terhadap kontribusinya yang luar biasa dalam memurnikan dan menghidupkan kembali ajaran Islam.³
 
-Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang mengakomodasi kebutuhan akal dan hati, dunia dan akhirat, syariah dan tarekat. Warisan ini menjadi fondasi bagi perkembangan Islam yang moderat dan inklusif di berbagai belahan dunia hingga hari ini.⁴
+Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang mengakomodasi kebutuhan akal dan hati, dunia dan akhirat, syariah dan tarekat. Warisan ini menjadi fondasi bagi perkembangan Islam yang moderat dan inklusif di berbagai belahan dunia hingga hari ini.⁴.^2.^3
 
 ---
 
 ## Daftar Pustaka
 
+
 1. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.
+2. Watt, W. Montgomery, *Muslim Intellectual: A Study of Al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
+3. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Kairo: Dar al-Ma'arif, 1957.

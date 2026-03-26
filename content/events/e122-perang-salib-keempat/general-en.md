@@ -119,10 +119,13 @@ The Fourth Crusade also demonstrates how **individual and group ambitions** can 
 
 The long-term impact of this tragedy was felt for centuries to come. The weakened post-1204 CE Constantinople became easy prey for the expanding **Ottoman** power. Thus, the Fourth Crusade paradoxically paved the way for Constantinople's conquest by **Sultan Mehmet II** in 1453 CE, ending more than a thousand years of Eastern Roman Empire history.²
 
-Finally, this event underscores the importance of maintaining **original objectives in any noble endeavor**. When financial and political motivations begin to dominate spiritual missions, the results are often disasters greater than the problems they sought to solve.
+Finally, this event underscores the importance of maintaining **original objectives in any noble endeavor**. When financial and political motivations begin to dominate spiritual missions, the results are often disasters greater than the problems they sought to solve.^2.^3
 
 ---
 
 ## Bibliography
 
+
 1. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.
+2. Phillips, Jonathan, *The Fourth Crusade and the Sack of Constantinople*, London: Pimlico, 2005.
+3. Queller, Donald E. dan Thomas F. Madden, *The Fourth Crusade: The Conquest of Constantinople*, Philadelphia: University of Pennsylvania Press, 1997.

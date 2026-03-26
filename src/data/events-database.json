@@ -3571,6 +3571,12 @@
           "title": "Conversion to Islam in the Medieval Period",
           "author": "Bulliet",
           "type": "primary"
+        },
+        {
+          "id": "qs-ar-rum",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Ar-Rum (30): 22",
+          "type": "quran"
         }
       ]
     },
@@ -3680,6 +3686,12 @@
           "title": "Cotton, Climate, and Camels in Early Islamic Iran",
           "author": "Bulliet",
           "type": "primary"
+        },
+        {
+          "id": "qs-al-anfal",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Anfal (8): 60",
+          "type": "quran"
         }
       ]
     },
@@ -4591,6 +4603,12 @@
           "title": "\"The Empty Hijra\"",
           "author": "Montgomery",
           "type": "primary"
+        },
+        {
+          "id": "qs-an-nahl",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nahl (16): 89",
+          "type": "quran"
         }
       ]
     },
@@ -4828,6 +4846,12 @@
           "title": "Robert Grosseteste and the Origins of Experimental Science",
           "author": "Crombie",
           "type": "primary"
+        },
+        {
+          "id": "qs-al-isra",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Isra (17): 85",
+          "type": "quran"
         }
       ]
     },
@@ -5890,7 +5914,7 @@
         {
           "id": "qs-fussilat",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Fussilat (41): 53",
+          "author": "QS. Fussilat (41): 53.^1",
           "type": "quran"
         },
         {
@@ -7842,7 +7866,7 @@
         {
           "id": "qs-ali-imran",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ali Imran (3): 139",
+          "author": "QS. Ali Imran (3): 126.^1",
           "type": "quran"
         }
       ]
@@ -7889,9 +7913,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-mumtahanah",
+          "id": "qs-hud",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Mumtahanah (60): 8",
+          "author": "QS. Hud (11): 118-119",
           "type": "quran"
         }
       ]
@@ -9657,9 +9681,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya--21---107",
+          "id": "qs-al-maidah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anbiya (21): 107",
+          "author": "QS. Al-Maidah (5): 48",
           "type": "quran"
         }
       ]

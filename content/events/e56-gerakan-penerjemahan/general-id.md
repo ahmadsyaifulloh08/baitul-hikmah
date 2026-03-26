@@ -20,7 +20,7 @@ Konflik suksesi dengan saudaranya **al-Amin** (809-813 M) juga memberikan pengar
 
 ### Doktrin Khalq al-Quran dan Rasionalisme
 
-Promosi al-Ma'mun terhadap doktrin **khalq al-Quran** (Quran sebagai makhluk, bukan firman Allah yang azali) mencerminkan pengaruh teologi rasional Yunani yang diserap melalui proses penerjemahan.⁴ Doktrin ini, yang kemudian dikenal sebagai **mihna** (ujian/inkuisisi), mengharuskan para qadi dan ulama untuk menerima pendekatan rasional dalam memahami agama.
+Promosi al-Ma'mun terhadap doktrin **khalq al-Quran** (Quran sebagai makhluk, bukan firman Allah yang azali) mencerminkan pengaruh teologi rasional Yunani yang diserap melalui proses penerjemahan.⁴ Doktrin ini, yang kemudian dikenal sebagai **mihna** (ujian/inkuisisi), mengharuskan para qadi dan ulama untuk menerima pendekatan rasional dalam memahami agama.^2
 
 Kebijakan kontroversial ini menunjukkan sejauh mana al-Ma'mun berkomitmen terhadap sintesis antara wahyu Islam dan filsafat Yunani. Baginya, akal (*aql*) dan wahyu (*naql*) tidak bertentangan, melainkan saling melengkapi dalam pencarian kebenaran.⁴
 
@@ -32,7 +32,7 @@ Kebijakan kontroversial ini menunjukkan sejauh mana al-Ma'mun berkomitmen terhad
 
 Al-Ma'mun mengalokasikan anggaran negara yang sangat besar untuk operasi Baitul Hikmah. Menurut **Ibn al-Nadim** dalam *Fihrist*, khalifah bahkan membayar penerjemah dengan emas seberat manuskrip yang berhasil mereka terjemahkan.⁵ Sistem insentif ini mendorong produktivitas yang luar biasa dan menarik sarjana terbaik dari seluruh dunia Islam.
 
-**Hunayn ibn Ishaq** (809-873 M) diangkat sebagai kepala (*ra'is*) tim penerjemah dan bertanggung jawab untuk mengkoordinasi seluruh proyek penerjemahan. Hunayn, yang menguasai bahasa Arab, Suryani, Yunani, dan Persia, mengembangkan metodologi penerjemahan yang revolusioner untuk masanya.⁶
+**Hunayn ibn Ishaq** (809-873 M) diangkat sebagai kepala (*ra'is*) tim penerjemah dan bertanggung jawab untuk mengkoordinasi seluruh proyek penerjemahan. Hunayn, yang menguasai bahasa Arab, Suryani, Yunani, dan Persia, mengembangkan metodologi penerjemahan yang revolusioner untuk masanya.¹
 
 ### Struktur Organisasional dan Tim Kerja
 
@@ -66,7 +66,7 @@ Baitul Hikmah mengembangkan sistem kontrol kualitas yang sangat canggih. Setiap 
 
 **"Organon"** Aristoteles diterjemahkan secara lengkap oleh tim Hunayn dan murid-muridnya, mencakup *Categoriae*, *De Interpretatione*, *Analytica Priora*, *Analytica Posteriora*, *Topica*, dan *De Sophisticis Elenchis*.¹⁰ Terjemahan ini menjadi dasar bagi perkembangan logika dalam pemikiran Islam dan mempengaruhi generasi filsuf Muslim seperti **al-Farabi**, **Ibn Sina**, dan **Ibn Rushd**.
 
-**Al-Farabi** kemudian menggunakan terjemahan ini untuk mengembangkan sistem logika Islam yang orisinal dalam karyanya *Ihsa al-Ulum* (Enumerasi Ilmu-Ilmu). Ia berhasil mengintegrasikan logika Aristotelian dengan epistemologi Islam, menciptakan framework yang mempengaruhi seluruh tradisi filosofis Islam.¹⁰
+**Al-Farabi** kemudian menggunakan terjemahan ini untuk mengembangkan sistem logika Islam yang orisinal dalam karyanya *Ihsa al-Ulum* (Enumerasi Ilmu-Ilmu). Ia berhasil mengintegrasikan logika Aristotelian dengan epistemologi Islam, menciptakan framework yang mempengaruhi seluruh tradisi filosofis Islam.²
 
 Selain Organon, karya-karya lain Aristoteles seperti *Metaphysica*, *Physica*, *De Anima*, dan *Ethica Nicomachea* juga diterjemahkan dengan kualitas tinggi. **Ishaq ibn Hunayn** yang menerjemahkan sebagian besar karya-karya ini, mengembangkan terminologi Arab untuk konsep-konsep kompleks seperti *substansi* (*jawhar*), *aksiden* (*aradh*), dan *potensialitas* (*quwwah*).
 
@@ -161,4 +161,5 @@ Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan seg
 
 ## Daftar Pustaka
 
-1. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+1. Dimitri Gutas, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*, London: Routledge, 1998.
+2. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.

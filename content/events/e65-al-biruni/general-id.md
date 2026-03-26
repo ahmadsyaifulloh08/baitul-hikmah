@@ -42,7 +42,7 @@ Lebih penting lagi, Al-Biruni berkesempatan mengikuti ekspedisi-ekspedisi Sultan
 
 ### Proses Penelitian dan Metodologi
 
-Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.¹⁰ Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial.
+Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.¹ Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial.
 
 Al-Biruni menghabiskan bertahun-tahun mempelajari bahasa Sanskrit hingga tingkat yang memungkinkannya membaca teks-teks klasik India dalam bahasa aslinya. Dia bergaul langsung dengan para pandit, brahmin, dan filsuf Hindu untuk memahami nuansa-nuansa ajaran yang tidak dapat ditangkap hanya melalui teks tertulis.¹⁰ Pendekatan immersive ini sangat revolusioner untuk masanya dan mengantisipasi metodologi antropologi modern.
 
@@ -50,7 +50,7 @@ Yang paling menakjubkan dari Kitab al-Hind adalah objektivitas ilmiah Al-Biruni 
 
 ### Analisis Komparatif dan Metode Kritis
 
-Dalam Kitab al-Hind, Al-Biruni menggunakan metode komparatif yang sophisticated, membandingkan konsep-konsep Hindu dengan paralel-paralel dalam tradisi Yunani, Persia, dan Islam.¹¹ Misalnya, ketika menjelaskan konsep yoga, dia membandingkannya dengan praktik sufi dalam Islam dan askese filosofis dalam tradisi Yunani, menunjukkan kesamaan dan perbedaan dengan analisis yang nuanced.
+Dalam Kitab al-Hind, Al-Biruni menggunakan metode komparatif yang canggih, membandingkan konsep-konsep Hindu dengan paralel-paralel dalam tradisi Yunani, Persia, dan Islam.¹¹ Misalnya, ketika menjelaskan konsep yoga, dia membandingkannya dengan praktik sufi dalam Islam dan askese filosofis dalam tradisi Yunani, menunjukkan kesamaan dan perbedaan dengan analisis yang bernuansa.
 
 Al-Biruni juga mengembangkan kriteria untuk menilai reliabilitas sumber-sumber India. Dia membedakan antara teks-teks autoriatif (seperti Veda dan Upanishad), literatur populer, dan tradisi oral, serta memberikan bobot yang berbeda pada masing-masing kategori.¹² Metodologi kritis ini jauh lebih canggih daripada yang umumnya digunakan oleh sejarawan dan etnografer pada masa itu.
 
@@ -96,9 +96,9 @@ Al-Biruni juga mengamati stratifikasi batuan dan menyimpulkan bahwa lapisan-lapi
 
 ### Eksperimen dalam Fisika dan Kimia
 
-Al-Biruni melakukan eksperimen untuk mengukur densitas berbagai logam dan mineral dengan menggunakan metode displacement yang sophisticated. Dia merancang alat khusus yang dapat mengukur perubahan volume air ketika benda padat dimasukkan ke dalamnya, kemudian menghitung densitas dengan akurasi tinggi.¹⁹ Hasil pengukurannya untuk densitas emas, perak, tembaga, dan logam lainnya sangat mendekati nilai-nilai modern.
+Al-Biruni melakukan eksperimen untuk mengukur densitas berbagai logam dan mineral dengan menggunakan metode pemindahan yang canggih. Dia merancang alat khusus yang dapat mengukur perubahan volume air ketika benda padat dimasukkan ke dalamnya, kemudian menghitung densitas dengan akurasi tinggi.¹⁹ Hasil pengukurannya untuk densitas emas, perak, tembaga, dan logam lainnya sangat mendekati nilai-nilai modern.
 
-Dalam bidang kimia, Al-Biruni melakukan eksperimen untuk memahami sifat-sifat berbagai zat. Dia mempelajari reaksi kimia, titik leleh, dan sifat kelarutan berbagai mineral.¹⁹ Pendekatannya yang empiris dan kuantitatif dalam kimia mengantisipasi revolusi kimia modern yang dimulai pada abad ke-18.
+Dalam bidang kimia, Al-Biruni melakukan eksperimen untuk memahami sifat-sifat berbagai zat. Dia mempelajari reaksi kimia, titik leleh, dan sifat kelarutan berbagai mineral.² Pendekatannya yang empiris dan kuantitatif dalam kimia mengantisipasi revolusi kimia modern yang dimulai pada abad ke-18.
 
 ## Inovasi dalam Instrumen Ilmiah dan Teknologi
 
@@ -146,7 +146,7 @@ Salah satu episode paling menarik dalam kehidupan intelektual Al-Biruni adalah p
 
 Al-Biruni mengajukan 18 pertanyaan kritis tentang teori fisika dan kosmologi Aristoteles, khususnya mengenai sifat ruang hampa, gerak natural dan violent, dan struktur kosmos. Dia mengkritik beberapa postulat Aristotelian berdasarkan observasi empiris dan analisis matematis yang menunjukkan inkonsistensi dalam sistem Aristotelian.²⁶
 
-**Ibn Sina**, sebagai filsuf Peripatetik, mempertahankan kerangka filosofis Aristotelian dengan argumen yang sophisticated. Namun Al-Biruni tidak puas dengan jawaban-jawaban yang terlalu bergantung pada premis filosofis tanpa dukungan empiris. Debate ini mencerminkan ketegangan kreatif antara pendekatan rasionalis dan empiris dalam tradisi keilmuan Islam.
+**Ibn Sina**, sebagai filsuf Peripatetik, mempertahankan kerangka filosofis Aristotelian dengan argumen yang canggih. Namun Al-Biruni tidak puas dengan jawaban-jawaban yang terlalu bergantung pada premis filosofis tanpa dukungan empiris. Perdebatan ini mencerminkan ketegangan kreatif antara pendekatan rasionalis dan empiris dalam tradisi keilmuan Islam.
 
 ### Interaksi dengan Sarjana India
 
@@ -202,14 +202,14 @@ Kitab al-Hind Al-Biruni menjadi model bagi studi antropologi objektif. **Max Web
 
 ### Integrasi Sains dan Spiritualitas
 
-Meskipun Al-Biruni adalah seorang empiris yang ketat, dia tidak memisahkan sains dari spiritualitas. Baginya, studi tentang alam semesta adalah bentuk ibadah (*ta'abbud*) yang membawa manusia semakin dekat kepada pemahaman tentang kebesaran Allah.³⁷ Setiap observasi astronomi, setiap kalkulasi matematis, dan setiap eksperimen fisika adalah cara untuk mengagumi keharmonisan (*nazm*) ciptaan Allah.
+Meskipun Al-Biruni adalah seorang empiris yang ketat, dia tidak memisahkan sains dari spiritualitas. Baginya, studi tentang alam semesta adalah bentuk ibadah (*ta'abbud*) yang membawa manusia semakin dekat kepada pemahaman tentang kebesaran Allah.³⁷ Setiap observasi astronomi, setiap kalkulasi matematis, dan setiap eksperimen fisika adalah cara untuk mengagumi keharmonisan (*nazm*) ciptaan Allah^1.
 
 > سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ﴿٥٣﴾
 >
 > *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Quran itu benar."* ﴾53﴿
 > — QS. Fussilat (41): 53³⁸
 
-Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala (*fi'l-afaq*) — dari astronomi hingga mineralogi — dan dalam diri manusia (*fi anfusihim*) melalui studi psikologi dan antropologi, persis seperti yang diperintahkan ayat ini.³⁸ Baginya, semakin dalam pemahaman terhadap alam semesta, semakin kuat keyakinan terhadap Sang Pencipta.^1
+Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala (*fi'l-afaq*) — dari astronomi hingga mineralogi — dan dalam diri manusia (*fi anfusihim*) melalui studi psikologi dan antropologi, persis seperti yang diperintahkan ayat ini.³ Baginya, semakin dalam pemahaman terhadap alam semesta, semakin kuat keyakinan terhadap Sang Pencipta.¹
 
 ### Etika Ilmiah dan Tanggung Jawab Sosial
 
@@ -230,5 +230,6 @@ Dalam berbagai karyanya, Al-Biruni selalu mengakui kontribusi para pendahulunya 
 ---
 
 ## Daftar Pustaka
+1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.^1
 
-1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
+

@@ -123,10 +123,13 @@ In the modern context, Abdul Qadir's teachings about balance between spiritual a
 
 The principles of spiritual ethics taught by Abdul Qadir, such as honesty, justice, compassion, and service to others, remain relevant as foundations for building a better society. In the context of globalization and pluralism, Abdul Qadir's teachings on tolerance and interfaith dialogue also make positive contributions.¹
 
-The Qadiriyyah Order to this day remains active in various parts of the world, with millions of followers spread from West Africa to Southeast Asia. The continuity of this order for more than 800 years demonstrates the vitality and relevance of Abdul Qadir al-Jilani's teachings that continue to provide spiritual meaning for Muslims across different eras and places.²
+The Qadiriyyah Order to this day remains active in various parts of the world, with millions of followers spread from West Africa to Southeast Asia. The continuity of this order for more than 800 years demonstrates the vitality and relevance of Abdul Qadir al-Jilani's teachings that continue to provide spiritual meaning for Muslims across different eras and places.².^2.^3
 
 ---
 
 ## Bibliography
 
+
 1. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.
+2. Trimingham, J.S., *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1971.
+3. Al-Jilani, Abdul Qadir, *Futuh al-Ghaib*, Kairo: Dar al-Kutub al-Ilmiyyah, 1986.

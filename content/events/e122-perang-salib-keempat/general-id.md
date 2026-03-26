@@ -119,10 +119,13 @@ Perang Salib Keempat juga menunjukkan bagaimana **ambisi individu dan kelompok**
 
 Dampak jangka panjang dari tragedi ini terasa hingga berabad-abad kemudian. Konstantinopel yang lemah pasca-1204 M menjadi sasaran empuk bagi ekspansi **Ottoman** yang sedang berkembang. Dengan demikian, Perang Salib Keempat secara paradoks membuka jalan bagi penaklukan Konstantinopel oleh **Sultan Mehmet II** pada tahun 1453 M, mengakhiri lebih dari seribu tahun sejarah Kekaisaran Romawi Timur.²
 
-Akhirnya, peristiwa ini menggarisbawahi pentingnya mempertahankan **tujuan asli dalam setiap usaha mulia**. Ketika motivasi finansial dan politik mulai mendominasi misi spiritual, hasilnya seringkali bencana yang lebih besar dari masalah yang ingin diselesaikan.
+Akhirnya, peristiwa ini menggarisbawahi pentingnya mempertahankan **tujuan asli dalam setiap usaha mulia**. Ketika motivasi finansial dan politik mulai mendominasi misi spiritual, hasilnya seringkali bencana yang lebih besar dari masalah yang ingin diselesaikan.^2.^3
 
 ---
 
 ## Daftar Pustaka
 
+
 1. Al-Qur'an al-Karim. QS. Al-Hasyr (59): 14.
+2. Phillips, Jonathan, *The Fourth Crusade and the Sack of Constantinople*, London: Pimlico, 2005.
+3. Queller, Donald E. dan Thomas F. Madden, *The Fourth Crusade: The Conquest of Constantinople*, Philadelphia: University of Pennsylvania Press, 1997.

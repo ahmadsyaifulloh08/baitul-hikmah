@@ -2,7 +2,7 @@
 
 ## Konteks: Urgensi Pasca-Yamamah
 
-Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^1 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.
+Perang Yamamah pada tahun 12 H (633 M) meninggalkan luka yang dalam bagi umat Islam. Al-Tabari dalam *Tarikh al-Rusul wa al-Muluk* mencatat bahwa di antara sekitar 700 syuhada yang gugur dalam pertempuran melawan Musailamah al-Kadzab, terdapat ratusan penghafal al-Quran — *huffazh* yang menyimpan wahyu Allah dalam dada mereka.^1 Kehilangan ini mengguncang para pemimpin Muslim di Madinah.^3
 
 Pada masa Rasulullah ﷺ, al-Quran dilestarikan melalui dua cara: **hafalan** (*hifzh*) dan **tulisan** (*kitabah*). Para sahabat menghafal al-Quran langsung dari lisan Nabi, sementara para juru tulis wahyu*kuttab al-wahy* — seperti Zaid bin Tsabit, Ubay bin Ka'b, Abdullah bin Mas'ud, dan lainnya — menuliskan ayat-ayat yang turun di atas berbagai media: pelepah kurma (*'usub*), lempengan batu tipis (*likhaf*), tulang belikat unta (*aktaf*), dan potongan kulit (*riqq*). 
 
@@ -18,7 +18,7 @@ Imam al-Bukhari meriwayatkan dalam *Shahih*-nya — hadits yang menjadi sumber u
 
 Zaid berkata: *"Abu Bakr mengirim utusan kepadaku setelah peristiwa Yamamah. Ternyata Umar bin al-Khattab sudah ada bersamanya."*
 
-Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*
+Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*²
 
 Abu Bakr awalnya ragu. Ia menjawab Umar: *"Bagaimana kita melakukan sesuatu yang tidak pernah dilakukan oleh Rasulullah ﷺ?"*
 
@@ -116,4 +116,5 @@ Zaid bin Tsabit tidak berlebihan ketika ia berkata bahwa memindahkan gunung lebi
 ## Daftar Pustaka
 
 1. **Al-Tabari, Abu Ja'far Muhammad bin Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Jilid 3. Tahqiq: Muhammad Abu al-Fadhl Ibrahim. Kairo: Dar al-Ma'arif, 1967.
-2. Al-Qur'an al-Karim. QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9.
+2. Ibn Kathir, Isma'il bin Umar, *Al-Bidayah wa al-Nihayah*, jilid 6, ed. Abdullah bin Abdul Muhsin al-Turki, Kairo: Hijr, 1997.
+3. Al-Qur'an al-Karim. QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9.

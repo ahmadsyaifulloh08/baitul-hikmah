@@ -123,10 +123,13 @@ Dalam konteks modern, ajaran Abdul Qadir tentang keseimbangan antara kehidupan s
 
 Prinsip-prinsip etika spiritual yang diajarkan Abdul Qadir, seperti kejujuran, keadilan, kasih sayang, dan pelayanan kepada sesama, tetap relevan sebagai landasan untuk membangun masyarakat yang lebih baik. Dalam konteks globalisasi dan pluralisme, ajaran Abdul Qadir tentang toleransi dan dialog antar-agama juga memberikan kontribusi positif.¹
 
-Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan jutaan pengikut yang tersebar dari Afrika Barat hingga Asia Tenggara. Kelangsungan tarekat ini selama lebih dari 800 tahun menunjukkan vitalitas dan relevansi ajaran Abdul Qadir al-Jilani yang terus memberikan makna spiritual bagi umat Islam di berbagai zaman dan tempat.²
+Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan jutaan pengikut yang tersebar dari Afrika Barat hingga Asia Tenggara. Kelangsungan tarekat ini selama lebih dari 800 tahun menunjukkan vitalitas dan relevansi ajaran Abdul Qadir al-Jilani yang terus memberikan makna spiritual bagi umat Islam di berbagai zaman dan tempat.².^2.^3
 
 ---
 
 ## Daftar Pustaka
 
+
 1. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.
+2. Trimingham, J.S., *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1971.
+3. Al-Jilani, Abdul Qadir, *Futuh al-Ghaib*, Kairo: Dar al-Kutub al-Ilmiyyah, 1986.
