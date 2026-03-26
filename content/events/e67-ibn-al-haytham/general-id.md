@@ -191,7 +191,7 @@ Metode yang dikembangkan Ibn al-Haytham mengantisipasi teknik-teknik yang kemudi
 Ibn al-Haytham juga memberikan kontribusi dalam teori bilangan dan analisis matematis.^8 Ia mengembangkan metode untuk menghitung jumlah kuadrat bilangan bulat dan mengeksplorasi sifat-sifat deret tak terhingga.^5
 
 **Formula Jumlah Kuadrat**: Ibn al-Haytham menemukan formula untuk menghitung jumlah kuadrat n bilangan bulat pertama:
-1² + 2² + 3² + . + n² = n(n+1)(2n+1)/6^9
+1^2 + 2^2 + 3^2 + . + n^2 = n(n+1)(2n+1)/6^9
 
 Formula ini kemudian menjadi salah satu hasil fundamental dalam kalkulus dan analisis matematis.^3
 

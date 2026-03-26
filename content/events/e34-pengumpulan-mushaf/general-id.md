@@ -18,7 +18,7 @@ Imam al-Bukhari meriwayatkan dalam *Shahih*-nya — hadits yang menjadi sumber u
 
 Zaid berkata: *"Abu Bakr mengirim utusan kepadaku setelah peristiwa Yamamah. Ternyata Umar bin al-Khattab sudah ada bersamanya."*
 
-Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*²
+Abu Bakr berkata: *"Umar datang kepadaku dan berkata: 'Sesungguhnya pembunuhan telah merajalela pada hari Yamamah terhadap para penghafal al-Quran. Sungguh aku khawatir pembunuhan akan terus merajalela terhadap para penghafal al-Quran di medan-medan perang lainnya, sehingga banyak bagian al-Quran yang hilang. Aku berpendapat engkau harus memerintahkan pengumpulan al-Quran.'"*^2
 
 Abu Bakr awalnya ragu. Ia menjawab Umar: *"Bagaimana kita melakukan sesuatu yang tidak pernah dilakukan oleh Rasulullah ﷺ?"*
 

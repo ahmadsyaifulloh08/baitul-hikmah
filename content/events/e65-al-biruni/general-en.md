@@ -2,133 +2,133 @@
 
 ## Background: Childhood in Khwarazm and Intellectual Formation
 
-**Abu Rayhan Muhammad ibn Ahmad al-Biruni** was born on 5 Dhul-Hijjah 362 AH/September 4, 973 CE in a suburb (*birun*) of Kath, the capital of Khwarazm (now Uzbekistan).¹ The name "Al-Biruni" itself derives from the Persian word "birun" meaning "outside" or "suburb," indicating his birthplace outside the city center. However, this "peripheral" geographical position actually provided unique advantages for his intellectual formation.
+**Abu Rayhan Muhammad ibn Ahmad al-Biruni** was born on 5 Dhul-Hijjah 362 AH/September 4, 973 CE in a suburb (*birun*) of Kath, the capital of Khwarazm (now Uzbekistan).^1 The name "Al-Biruni" itself derives from the Persian word "birun" meaning "outside" or "suburb," indicating his birthplace outside the city center. However, this "peripheral" geographical position actually provided unique advantages for his intellectual formation.
 
-Khwarazm at that time was a thriving center of civilization and learning under the Ma'munid Dynasty.² This region was a cultural crossroads between the Islamic world, Persia, Central Asia, and India, creating a rich and diverse intellectual environment. **Khwarazm Shah Ma'mun II** (967-997 CE) was a great patron of science who attracted the best scholars from various corners of the Islamic world to his court.
+Khwarazm at that time was a thriving center of civilization and learning under the Ma'munid Dynasty.^2 This region was a cultural crossroads between the Islamic world, Persia, Central Asia, and India, creating a rich and diverse intellectual environment. **Khwarazm Shah Ma'mun II** (967-997 CE) was a great patron of science who attracted the best scholars from various corners of the Islamic world to his court.
 
-It was in this cosmopolitan atmosphere that Al-Biruni grew up and developed his boundless curiosity. His father, **Ahmad ibn al-Biruni**, was a merchant who frequently traveled to various regions, giving young Al-Biruni early exposure to cultural diversity and scholarly traditions.² Al-Biruni's mother came from an educated family that possessed a considerable private library for that time.
+It was in this cosmopolitan atmosphere that Al-Biruni grew up and developed his boundless curiosity. His father, **Ahmad ibn al-Biruni**, was a merchant who frequently traveled to various regions, giving young Al-Biruni early exposure to cultural diversity and scholarly traditions.^2 Al-Biruni's mother came from an educated family that possessed a considerable private library for that time.
 
-From childhood, Al-Biruni showed extraordinary intellectual ability and deep interest in knowledge.³ He learned Arabic, Persian, Khwarezmian (the local language), Sanskrit, Greek, Hebrew, and Syriac, mastering various different scholarly traditions. This amazing linguistic ability later became key to his success as a polymath capable of accessing and comparing various sources of knowledge.
+From childhood, Al-Biruni showed extraordinary intellectual ability and deep interest in knowledge.^3 He learned Arabic, Persian, Khwarezmian (the local language), Sanskrit, Greek, Hebrew, and Syriac, mastering various different scholarly traditions. This amazing linguistic ability later became key to his success as a polymath capable of accessing and comparing various sources of knowledge.
 
 ### Teachers and Early Intellectual Influences
 
-Al-Biruni's first teacher was **Abu Nasr Mansur ibn Iraq** (960-1036 CE), a prominent mathematician and astronomer from the Banu Iraq dynasty that ruled part of Khwarazm.³ Mansur ibn Iraq not only taught mathematics and astronomy to Al-Biruni but also instilled a rigorous scientific approach and appreciation for precision in measurement.
+Al-Biruni's first teacher was **Abu Nasr Mansur ibn Iraq** (960-1036 CE), a prominent mathematician and astronomer from the Banu Iraq dynasty that ruled part of Khwarazm.^3 Mansur ibn Iraq not only taught mathematics and astronomy to Al-Biruni but also instilled a rigorous scientific approach and appreciation for precision in measurement.
 
-Al-Biruni also learned from **Abu al-Wafa al-Buzjani** (940-998 CE), the great mathematician of Baghdad who happened to visit Khwarazm. From al-Buzjani, Al-Biruni learned spherical trigonometry and its applications in astronomy.⁴ Interaction with these internationally caliber teachers formed Al-Biruni's very high scholarly standards from a young age.
+Al-Biruni also learned from **Abu al-Wafa al-Buzjani** (940-998 CE), the great mathematician of Baghdad who happened to visit Khwarazm. From al-Buzjani, Al-Biruni learned spherical trigonometry and its applications in astronomy. Interaction with these internationally caliber teachers formed Al-Biruni's very high scholarly standards from a young age.
 
 ## Political Upheaval and the Ghazni Period
 
 ### Sultan Mahmud's Invasion and Forced Relocation
 
-Al-Biruni's life changed drastically when **Sultan Mahmud of Ghazni** (971-1030 CE) conquered Khwarazm in 1017 CE. Sultan Mahmud, knowing Al-Biruni's intellectual reputation, forced the scholar to move to Ghazni along with other spoils of war.⁷ This forced relocation was initially traumatic for Al-Biruni, who lost his homeland and familiar academic environment.
+Al-Biruni's life changed drastically when **Sultan Mahmud of Ghazni** (971-1030 CE) conquered Khwarazm in 1017 CE. Sultan Mahmud, knowing Al-Biruni's intellectual reputation, forced the scholar to move to Ghazni along with other spoils of war. This forced relocation was initially traumatic for Al-Biruni, who lost his homeland and familiar academic environment.
 
-However, as often happens in history, this disaster actually opened new opportunities. Al-Biruni found that the court of Ghazni, though known for its military might, also had a strong tradition of patronizing knowledge. **Sultan Mahmud**, though better known as a conqueror, understood the importance of intellectual legitimacy in maintaining power over culturally diverse territories.⁷
+However, as often happens in history, this disaster actually opened new opportunities. Al-Biruni found that the court of Ghazni, though known for its military might, also had a strong tradition of patronizing knowledge. **Sultan Mahmud**, though better known as a conqueror, understood the importance of intellectual legitimacy in maintaining power over culturally diverse territories.
 
 ### Adaptation and New Opportunities
 
-Under Ghaznavid patronage, Al-Biruni gained access to the rich court library with collections of manuscripts from various scholarly traditions.⁸ The library of Ghazni not only had Arabic and Persian works but also Sanskrit manuscripts brought from India through Sultan Mahmud's various expeditions. Access to Sanskrit literature opened new horizons for Al-Biruni in understanding Indian mathematical, astronomical, and philosophical traditions.
+Under Ghaznavid patronage, Al-Biruni gained access to the rich court library with collections of manuscripts from various scholarly traditions. The library of Ghazni not only had Arabic and Persian works but also Sanskrit manuscripts brought from India through Sultan Mahmud's various expeditions. Access to Sanskrit literature opened new horizons for Al-Biruni in understanding Indian mathematical, astronomical, and philosophical traditions.
 
-Al-Biruni also received adequate financial support for his research, including the creation of sophisticated and expensive astronomical instruments.⁸ Sultan Mahmud realized that having a leading scholar at his court would enhance the prestige of the Ghaznavid dynasty in the broader Islamic world.
+Al-Biruni also received adequate financial support for his research, including the creation of sophisticated and expensive astronomical instruments. Sultan Mahmud realized that having a leading scholar at his court would enhance the prestige of the Ghaznavid dynasty in the broader Islamic world.
 
-Most importantly, Al-Biruni had the opportunity to accompany Sultan Mahmud's expeditions to India as advisor and observer.⁹ Between 1017 and 1030 CE, Al-Biruni made at least seven journeys to India, giving him direct experience with a completely different civilization from his Islamic-Persian background.
+Most importantly, Al-Biruni had the opportunity to accompany Sultan Mahmud's expeditions to India as advisor and observer. Between 1017 and 1030 CE, Al-Biruni made at least seven journeys to India, giving him direct experience with a completely different civilization from his Islamic-Persian background.
 
 ## Kitab al-Hind: Masterpiece of Anthropology and Comparative Methodology
 
 ### Research Process and Methodology
 
-One of Al-Biruni's greatest works is "*Tahqiq ma li'l-Hind*" (Investigation of India), better known as "Kitab al-Hind," completed around 1030 CE after 13 years of intensive research.¹⁰ This monumental work consists of 80 chapters covering almost every aspect of Indian civilization: religion, philosophy, science, literature, law, customs, and social systems.
+One of Al-Biruni's greatest works is "*Tahqiq ma li'l-Hind*" (Investigation of India), better known as "Kitab al-Hind," completed around 1030 CE after 13 years of intensive research. This monumental work consists of 80 chapters covering almost every aspect of Indian civilization: religion, philosophy, science, literature, law, customs, and social systems.
 
-Al-Biruni spent years studying Sanskrit to a level that allowed him to read classical Indian texts in their original language. He directly associated with pandits, brahmins, and Hindu philosophers to understand nuances of teachings that could not be grasped through written texts alone.¹⁰ This immersive approach was revolutionary for its time and anticipated modern anthropological methodology.
+Al-Biruni spent years studying Sanskrit to a level that allowed him to read classical Indian texts in their original language. He directly associated with pandits, brahmins, and Hindu philosophers to understand nuances of teachings that could not be grasped through written texts alone. This immersive approach was revolutionary for its time and anticipated modern anthropological methodology.
 
-Most remarkable about Kitab al-Hind was Al-Biruni's extraordinary scientific objectivity. He did not mix religious or cultural prejudices into his analysis but sought to understand India from the Indians' own perspective.¹¹ Al-Biruni even criticized Muslims who gave negative judgments about India without understanding it first.
+Most remarkable about Kitab al-Hind was Al-Biruni's extraordinary scientific objectivity. He did not mix religious or cultural prejudices into his analysis but sought to understand India from the Indians' own perspective. Al-Biruni even criticized Muslims who gave negative judgments about India without understanding it first.
 
 ### Comparative Analysis and Critical Method
 
-In Kitab al-Hind, Al-Biruni used sophisticated comparative methods, comparing Hindu concepts with parallels in Greek, Persian, and Islamic traditions.¹¹ For example, when explaining the concept of yoga, he compared it with Sufi practices in Islam and philosophical asceticism in the Greek tradition, showing similarities and differences with nuanced analysis.
+In Kitab al-Hind, Al-Biruni used sophisticated comparative methods, comparing Hindu concepts with parallels in Greek, Persian, and Islamic traditions. For example, when explaining the concept of yoga, he compared it with Sufi practices in Islam and philosophical asceticism in the Greek tradition, showing similarities and differences with nuanced analysis.
 
-Al-Biruni also developed criteria for assessing the reliability of Indian sources. He distinguished between authoritative texts (like Vedas and Upanishads), popular literature, and oral traditions, giving different weights to each category.¹² This critical methodology was far more sophisticated than that generally used by historians and ethnographers of his time.
+Al-Biruni also developed criteria for assessing the reliability of Indian sources. He distinguished between authoritative texts (like Vedas and Upanishads), popular literature, and oral traditions, giving different weights to each category. This critical methodology was far more sophisticated than that generally used by historians and ethnographers of his time.
 
 ### Contribution to Comparative Religious Studies
 
-Kitab al-Hind was pioneering work in objective comparative religious studies. Al-Biruni analyzed various Hindu schools (Advaita, Sankhya, Yoga) with deep understanding of the basic premises and logical implications of each system.¹³ He even translated parts of the Bhagavad Gita and Upanishads into Arabic, becoming the first Muslim to do so.
+Kitab al-Hind was pioneering work in objective comparative religious studies. Al-Biruni analyzed various Hindu schools (Advaita, Sankhya, Yoga) with deep understanding of the basic premises and logical implications of each system. He even translated parts of the Bhagavad Gita and Upanishads into Arabic, becoming the first Muslim to do so.
 
-Interestingly, Al-Biruni did not attempt to "Islamize" Hindu philosophy or seek justification for Islamic superiority. Instead, he acknowledged intrinsic values in Hindu tradition while maintaining his Islamic identity.¹³ This approach showed extraordinary intellectual maturity and pluralistic vision far ahead of his time.
+Interestingly, Al-Biruni did not attempt to "Islamize" Hindu philosophy or seek justification for Islamic superiority. Instead, he acknowledged intrinsic values in Hindu tradition while maintaining his Islamic identity. This approach showed extraordinary intellectual maturity and pluralistic vision far ahead of his time.
 
 ## Al-Qanun al-Mas'udi: Encyclopedia of Astronomy and Mathematics
 
 ### Structure and Scope
 
-"*Al-Qanun al-Mas'udi*" is Al-Biruni's monumental astronomical work dedicated to **Mas'ud ibn Mahmud** (1030-1040 CE), Sultan Mahmud's son who inherited his father's love of knowledge.¹⁴ This work consists of 11 maqalahs (major chapters) covering geodesy, chronology, spherical astronomy, planetary theory, astrology, and astronomical instruments.
+"*Al-Qanun al-Mas'udi*" is Al-Biruni's monumental astronomical work dedicated to **Mas'ud ibn Mahmud** (1030-1040 CE), Sultan Mahmud's son who inherited his father's love of knowledge. This work consists of 11 maqalahs (major chapters) covering geodesy, chronology, spherical astronomy, planetary theory, astrology, and astronomical instruments.
 
-Al-Qanun al-Mas'udi is a brilliant synthesis of Greek (Ptolemy), Indian (Brahmagupta, Aryabhata), and Islamic (al-Battani, al-Zarqali) astronomical traditions, demonstrating Al-Biruni's ability to integrate various knowledge systems.¹⁴ He not only compiled existing theories but also conducted criticism and improvements based on his own observations and calculations.
+Al-Qanun al-Mas'udi is a brilliant synthesis of Greek (Ptolemy), Indian (Brahmagupta, Aryabhata), and Islamic (al-Battani, al-Zarqali) astronomical traditions, demonstrating Al-Biruni's ability to integrate various knowledge systems. He not only compiled existing theories but also conducted criticism and improvements based on his own observations and calculations.
 
 ### Achievements in Geodesy
 
-In this work, Al-Biruni performed highly precise mathematical calculations to determine the Earth's circumference using revolutionary trigonometric methods. He climbed mountaintops and measured horizon depression angles, then used mountain heights to calculate Earth's radius.¹⁵ His calculation result: 6,339.6 km (Earth's radius), differing only 16.8 km from modern calculations (6,356.8 km).
+In this work, Al-Biruni performed highly precise mathematical calculations to determine the Earth's circumference using revolutionary trigonometric methods. He climbed mountaintops and measured horizon depression angles, then used mountain heights to calculate Earth's radius. His calculation result: 6,339.6 km (Earth's radius), differing only 16.8 km from modern calculations (6,356.8 km).
 
-Al-Biruni's method was far more practical and accurate than Eratosthenes' method which required measuring long linear distances between two cities.¹⁵ This methodological innovation showed Al-Biruni's ability to develop elegant mathematical solutions for practical problems.
+Al-Biruni's method was far more practical and accurate than Eratosthenes' method which required measuring long linear distances between two cities. This methodological innovation showed Al-Biruni's ability to develop elegant mathematical solutions for practical problems.
 
 ### Contribution to Planetary Motion Theory
 
-Al-Biruni developed sophisticated mathematical models to explain planetary movements. He conducted thousands of observations and calculations to improve planetary orbit parameters in the Ptolemaic model.¹⁶ Several of his corrections to Ptolemy's astronomical constants (such as equinox precession and ecliptic obliquity) closely approached modern values.
+Al-Biruni developed sophisticated mathematical models to explain planetary movements. He conducted thousands of observations and calculations to improve planetary orbit parameters in the Ptolemaic model. Several of his corrections to Ptolemy's astronomical constants (such as equinox precession and ecliptic obliquity) closely approached modern values.
 
-More remarkably, Al-Biruni suggested the possibility that Earth rotates on its axis and orbits the sun, long before Copernicus. Although he did not develop heliocentric theory fully, his observations of planet Venus's movement provided evidence supporting the heliocentric model.¹⁶
+More remarkably, Al-Biruni suggested the possibility that Earth rotates on its axis and orbits the sun, long before Copernicus. Although he did not develop heliocentric theory fully, his observations of planet Venus's movement provided evidence supporting the heliocentric model.
 
 ## Revolutionary Scientific Method and Empirical Approach
 
 ### Principles of Scientific Methodology
 
-Al-Biruni was a pioneer of modern scientific method emphasizing observation (*mushahada*), experimentation (*tajriba*), and data verification (*tahqiq*).¹⁷ He formulated the principle that theories must be supported by empirical evidence and testable through experiments. This approach was very different from philosophical traditions that relied on deductive reasoning from accepted premises.
+Al-Biruni was a pioneer of modern scientific method emphasizing observation (*mushahada*), experimentation (*tajriba*), and data verification (*tahqiq*). He formulated the principle that theories must be supported by empirical evidence and testable through experiments. This approach was very different from philosophical traditions that relied on deductive reasoning from accepted premises.
 
-In every research project, Al-Biruni always included detailed descriptions of instruments used, measurement procedures, margin of error, and factors that could affect results. This methodological transparency enabled others to replicate his experiments, a fundamental principle in modern science.¹⁷
+In every research project, Al-Biruni always included detailed descriptions of instruments used, measurement procedures, margin of error, and factors that could affect results. This methodological transparency enabled others to replicate his experiments, a fundamental principle in modern science.
 
 ### Pioneering Geology and Paleontology Studies
 
-In his geological studies of India, Al-Biruni observed marine fossils found in mountains and high lands. Based on these observations, he concluded that these areas were formerly sea floors that were later uplifted to become land.¹⁸ This observation showed his understanding of geological changes occurring over very long periods, anticipating modern geological theories about uplift and sedimentation.
+In his geological studies of India, Al-Biruni observed marine fossils found in mountains and high lands. Based on these observations, he concluded that these areas were formerly sea floors that were later uplifted to become land. This observation showed his understanding of geological changes occurring over very long periods, anticipating modern geological theories about uplift and sedimentation.
 
-Al-Biruni also observed rock stratification and concluded that different layers formed in different time periods.¹⁸ He even used fossils as indicators to determine ancient environments, showing amazing proto-paleontological understanding.
+Al-Biruni also observed rock stratification and concluded that different layers formed in different time periods. He even used fossils as indicators to determine ancient environments, showing amazing proto-paleontological understanding.
 
 ### Experiments in Physics and Chemistry
 
-Al-Biruni conducted experiments to measure the density of various metals and minerals using sophisticated displacement methods. He designed special tools that could measure volume changes when solids were inserted into water, then calculated density with high accuracy.¹⁹ His measurement results for the density of gold, silver, copper, and other metals closely approached modern values.
+Al-Biruni conducted experiments to measure the density of various metals and minerals using sophisticated displacement methods. He designed special tools that could measure volume changes when solids were inserted into water, then calculated density with high accuracy. His measurement results for the density of gold, silver, copper, and other metals closely approached modern values.
 
-In chemistry, Al-Biruni conducted experiments to understand the properties of various substances. He studied chemical reactions, melting points, and solubility properties of various minerals.¹⁹ His empirical and quantitative approach in chemistry anticipated the modern chemical revolution that began in the 18th century.
+In chemistry, Al-Biruni conducted experiments to understand the properties of various substances. He studied chemical reactions, melting points, and solubility properties of various minerals. His empirical and quantitative approach in chemistry anticipated the modern chemical revolution that began in the 18th century.
 
 ## Innovation in Scientific Instruments and Technology
 
-Al-Biruni designed and used various scientific instruments to improve the accuracy of his measurements. He developed more sophisticated astrolabes (*usturlab*) with finer scales and more precise mechanisms.²⁰ Al-Biruni's astrolabes could measure star positions with accuracy up to 2 arc minutes, extraordinary precision for that time.
+Al-Biruni designed and used various scientific instruments to improve the accuracy of his measurements. He developed more sophisticated astrolabes (*usturlab*) with finer scales and more precise mechanisms. Al-Biruni's astrolabes could measure star positions with accuracy up to 2 arc minutes, extraordinary precision for that time.
 
-He also designed large quadrants (*rub' al-da'irah*) with radii up to 3 meters for astronomical observations. These instruments enabled measurement of sun and star elevation angles with precision far exceeding previously available instruments.²⁰
+He also designed large quadrants (*rub' al-da'irah*) with radii up to 3 meters for astronomical observations. These instruments enabled measurement of sun and star elevation angles with precision far exceeding previously available instruments.
 
-One of Al-Biruni's most famous innovations was a density measuring instrument using displacement principles. This tool consisted of a flask with a very thin neck and fine graduated scale, enabling high-precision volume change measurements.²¹ This design inspired the development of modern densitometer instruments.
+One of Al-Biruni's most famous innovations was a density measuring instrument using displacement principles. This tool consisted of a flask with a very thin neck and fine graduated scale, enabling high-precision volume change measurements. This design inspired the development of modern densitometer instruments.
 
 ## Multidisciplinary Contributions in Various Fields
 
 ### Mathematics and Trigonometry Development
 
-Al-Biruni made fundamental contributions to spherical trigonometry development. He was the first to use sine functions to solve complex astronomical problems and developed trigonometric formulas that later became standard.²³ His work "*Maqala fi Istikhroj al-Awtar fi'l-Da'ira*" (Treatise on Finding Chords in a Circle) contained original trigonometric theorems.
+Al-Biruni made fundamental contributions to spherical trigonometry development. He was the first to use sine functions to solve complex astronomical problems and developed trigonometric formulas that later became standard. His work "*Maqala fi Istikhroj al-Awtar fi'l-Da'ira*" (Treatise on Finding Chords in a Circle) contained original trigonometric theorems.
 
-Al-Biruni also developed interpolation methods for calculating intermediate values in mathematical tables. This technique enabled more accurate calculations in astronomy and navigation.²³
+Al-Biruni also developed interpolation methods for calculating intermediate values in mathematical tables. This technique enabled more accurate calculations in astronomy and navigation.
 
 ### Pharmacology and Comparative Medicine
 
-In "*Kitab al-Saydanah fi'l-Tibb*" (Book of Pharmacology in Medicine), Al-Biruni documented more than 700 medicines with detailed descriptions of their properties, effects, dosages, and usage methods.²⁴ Unique to Al-Biruni's approach was comparative analysis of drug terminology in various languages: Arabic, Persian, Greek, Sanskrit, and Indian local languages.
+In "*Kitab al-Saydanah fi'l-Tibb*" (Book of Pharmacology in Medicine), Al-Biruni documented more than 700 medicines with detailed descriptions of their properties, effects, dosages, and usage methods. Unique to Al-Biruni's approach was comparative analysis of drug terminology in various languages: Arabic, Persian, Greek, Sanskrit, and Indian local languages.
 
-Al-Biruni not only compiled existing knowledge but also conducted his own observations and experiments to verify drug effectiveness. He developed criteria for assessing drug quality and provided guidance for accurate identification of medicinal plants.²⁴ His empirical approach in pharmacology anticipated modern pharmacological principles.
+Al-Biruni not only compiled existing knowledge but also conducted his own observations and experiments to verify drug effectiveness. He developed criteria for assessing drug quality and provided guidance for accurate identification of medicinal plants. His empirical approach in pharmacology anticipated modern pharmacological principles.
 
 ### Chronology and Comparative Historical Studies
 
-"*Al-Athar al-Baqiyah 'an al-Qurun al-Khaliyah*" (Traces Remaining from Past Centuries) is Al-Biruni's work in comparative chronology showing extraordinary erudition.²⁵ He compared calendar systems and eras used by various civilizations: Arab, Persian, Greek, Roman, Jewish, Indian, and others.
+"*Al-Athar al-Baqiyah 'an al-Qurun al-Khaliyah*" (Traces Remaining from Past Centuries) is Al-Biruni's work in comparative chronology showing extraordinary erudition. He compared calendar systems and eras used by various civilizations: Arab, Persian, Greek, Roman, Jewish, Indian, and others.
 
-Al-Biruni conducted deep historical analysis of the origins and development of each calendar system, demonstrating his capabilities in historical and anthropological studies. He also studied festivals and religious traditions of various civilizations, providing broad comparative perspectives on human cultural development.²⁵
+Al-Biruni conducted deep historical analysis of the origins and development of each calendar system, demonstrating his capabilities in historical and anthropological studies. He also studied festivals and religious traditions of various civilizations, providing broad comparative perspectives on human cultural development.
 
 ## Intellectual Dialogue with Great Figures
 
 ### Correspondence with Ibn Sina
 
-One of the most interesting episodes in Al-Biruni's intellectual life was his correspondence with **Ibn Sina (Avicenna)** about Aristotelian philosophy and cosmology.²⁶ This dialogue took place around 1000-1010 CE and showed fundamental differences in epistemological approaches between these two great polymaths.
+One of the most interesting episodes in Al-Biruni's intellectual life was his correspondence with **Ibn Sina (Avicenna)** about Aristotelian philosophy and cosmology. This dialogue took place around 1000-1010 CE and showed fundamental differences in epistemological approaches between these two great polymaths.
 
-Al-Biruni raised 18 critical questions about Aristotelian physics and cosmology theories, particularly regarding the nature of vacuum, natural and violent motion, and cosmic structure. He criticized several Aristotelian postulates based on empirical observations and mathematical analysis showing inconsistencies in the Aristotelian system.²⁶
+Al-Biruni raised 18 critical questions about Aristotelian physics and cosmology theories, particularly regarding the nature of vacuum, natural and violent motion, and cosmic structure. He criticized several Aristotelian postulates based on empirical observations and mathematical analysis showing inconsistencies in the Aristotelian system.
 
 **Ibn Sina**, as a Peripatetic philosopher, defended the Aristotelian philosophical framework with sophisticated arguments. However, Al-Biruni was not satisfied with answers that relied too heavily on philosophical premises without empirical support. This debate reflected creative tension between rationalist and empirical approaches in Islamic scholarly tradition.
 
@@ -136,38 +136,38 @@ Al-Biruni raised 18 critical questions about Aristotelian physics and cosmology 
 
 ### Influence on European Science
 
-Al-Biruni died on 13 Rajab 440 AH/December 9, 1048 CE in Ghazni at age 75, leaving an extraordinary intellectual legacy.³² He had written more than 180 works in various fields, though unfortunately almost 80% have been lost due to various historical factors.
+Al-Biruni died on 13 Rajab 440 AH/December 9, 1048 CE in Ghazni at age 75, leaving an extraordinary intellectual legacy. He had written more than 180 works in various fields, though unfortunately almost 80% have been lost due to various historical factors.
 
-Al-Biruni's works, especially in astronomy and mathematics, were translated into Latin and influenced the development of science in medieval and Renaissance Europe.³⁴ **Gerard of Cremona** and **Robert of Chester** translated several of Al-Biruni's astronomical works that were later studied in European universities.
+Al-Biruni's works, especially in astronomy and mathematics, were translated into Latin and influenced the development of science in medieval and Renaissance Europe. **Gerard of Cremona** and **Robert of Chester** translated several of Al-Biruni's astronomical works that were later studied in European universities.
 
-**Copernicus**, in "*De Revolutionibus*", referred to Al-Biruni's observations about planetary motion. **Kepler** used Al-Biruni's data about Mars's orbit in developing his planetary laws. **Tycho Brahe** admired Al-Biruni's observational precision and used several of his observational methods.³⁴
+**Copernicus**, in "*De Revolutionibus*", referred to Al-Biruni's observations about planetary motion. **Kepler** used Al-Biruni's data about Mars's orbit in developing his planetary laws. **Tycho Brahe** admired Al-Biruni's observational precision and used several of his observational methods.
 
 ### Model for Modern Scientific Methodology
 
-Al-Biruni's interdisciplinary approach and emphasis on empirical verification made him a precursor to modern scientific methodology. **Francis Bacon**, in "*Novum Organum*", advocated inductive approaches that shared similarities with Al-Biruni's methods. **Galileo** used observational principles traceable back to Al-Biruni.³⁵
+Al-Biruni's interdisciplinary approach and emphasis on empirical verification made him a precursor to modern scientific methodology. **Francis Bacon**, in "*Novum Organum*", advocated inductive approaches that shared similarities with Al-Biruni's methods. **Galileo** used observational principles traceable back to Al-Biruni.
 
 ### Inspiration for Modern Anthropology
 
-Al-Biruni's Kitab al-Hind became a model for objective anthropological studies. **Max Weber** and **Clifford Geertz** acknowledged Al-Biruni as a pioneer in interpretive cultural studies that sought to understand insider perspectives from studied communities.³⁶ Al-Biruni's ethnographic methodology anticipated participant-observation approaches in modern anthropology.
+Al-Biruni's Kitab al-Hind became a model for objective anthropological studies. **Max Weber** and **Clifford Geertz** acknowledged Al-Biruni as a pioneer in interpretive cultural studies that sought to understand insider perspectives from studied communities. Al-Biruni's ethnographic methodology anticipated participant-observation approaches in modern anthropology.
 
 ## Spiritual and Philosophical Reflection
 
 ### Integration of Science and Spirituality
 
-Although Al-Biruni was a rigorous empiricist, he did not separate science from spirituality. For him, studying the universe was a form of worship (*ta'abbud*) that brought humans closer to understanding Allah's greatness.³⁷ Every astronomical observation, every mathematical calculation, and every physical experiment was a way to admire the harmony (*nazm*) of Allah's creation.
+Although Al-Biruni was a rigorous empiricist, he did not separate science from spirituality. For him, studying the universe was a form of worship (*ta'abbud*) that brought humans closer to understanding Allah's greatness. Every astronomical observation, every mathematical calculation, and every physical experiment was a way to admire the harmony (*nazm*) of Allah's creation.
 
 > سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ﴿٥٣﴾
 >
 > *"We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth."* ﴾53﴿
-> — QS. Fussilat (41): 53³⁸
+> — QS. Fussilat (41): 53
 
-Al-Biruni spent his life observing Allah's signs in the horizons (*fi'l-afaq*) — from astronomy to mineralogy — and within humans (*fi anfusihim*) through psychological and anthropological studies, precisely as this verse commands.³⁸ For him, the deeper the understanding of the universe, the stronger the faith in the Creator.^1
+Al-Biruni spent his life observing Allah's signs in the horizons (*fi'l-afaq*) — from astronomy to mineralogy — and within humans (*fi anfusihim*) through psychological and anthropological studies, precisely as this verse commands. For him, the deeper the understanding of the universe, the stronger the faith in the Creator.^1
 
 ### Scientific Ethics and Social Responsibility
 
-Al-Biruni developed scientific ethics emphasizing intellectual honesty, humility, and social responsibility. He stated that scientists have obligations to share their knowledge with society and not monopolize truth for personal interests.³⁹
+Al-Biruni developed scientific ethics emphasizing intellectual honesty, humility, and social responsibility. He stated that scientists have obligations to share their knowledge with society and not monopolize truth for personal interests.
 
-In his various works, Al-Biruni always acknowledged the contributions of his predecessors and did not claim excessive originality. This humble attitude reflected spiritual maturity rarely found in the academic world, both then and now.³⁹
+In his various works, Al-Biruni always acknowledged the contributions of his predecessors and did not claim excessive originality. This humble attitude reflected spiritual maturity rarely found in the academic world, both then and now.
 
 ## Analysis and Wisdom
 
@@ -182,7 +182,6 @@ In his various works, Al-Biruni always acknowledged the contributions of his pre
 ---
 
 ## Bibliography
-
 
 1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
 2. Sachau, Eduard C., *Alberuni's India*, London: Kegan Paul, 1910.
