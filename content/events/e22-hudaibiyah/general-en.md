@@ -77,7 +77,7 @@ The Quran called this event a *fath mubin* — a clear victory:
 > *"Indeed, We have granted you a clear victory."*
 > — QS. Al-Fath (48): 1
 
-Many companions were initially bewildered: where was the victory? They returned without performing umrah, accepted apparently one-sided terms, and had to return Muslims who sought asylum. Yet history proved that Hudaybiyyah was the true strategic turning point.^1 ^2 ^3 ^4
+Many companions were initially bewildered: where was the victory? They returned without performing umrah, accepted apparently one-sided terms, and had to return Muslims who sought asylum. Yet history proved that Hudaybiyyah was the true strategic turning point. ^4
 
 **First, de facto recognition.** By sitting down to negotiate as equals with Muhammad, the Quraysh implicitly acknowledged the Muslims as a legitimate political entity. For years, the Quraysh had portrayed Muhammad as a rebel and troublemaker. The Treaty of Hudaybiyyah permanently altered that narrative.
 

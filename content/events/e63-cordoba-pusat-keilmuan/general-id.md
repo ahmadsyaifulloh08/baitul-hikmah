@@ -145,7 +145,7 @@ Program penerjemahan Cordoba membuktikan bahwa **terjemahan** adalah salah satu 
 > *"Katakanlah: 'Hai Ahli Kitab, marilah (berpegang) kepada suatu kalimat (ketetapan) yang tidak ada perselisihan antara kami dan kamu, bahwa tidak kita sembah kecuali Allah dan tidak kita persekutukan Dia dengan sesuatu pun dan tidak (pula) sebagian kita menjadikan sebagian yang lain sebagai Tuhan selain Allah.'"* ﴾64﴿
 > — QS. Ali Imran (3): 64
 
-Ayat ini sering dikutip oleh sarjana-sarjana Cordoba sebagai landasan filosofis bagi dialog antarperadaban. Spirit *convivencia* yang dikembangkan di Cordoba mencerminkan pemahaman bahwa kemanusiaan bersatu dalam pencarian kebenaran, meskipun melalui jalan-jalan yang berbeda.^7^13
+Ayat ini sering dikutip oleh sarjana-sarjana Cordoba sebagai landasan filosofis bagi dialog antarperadaban. Spirit *convivencia* yang dikembangkan di Cordoba mencerminkan pemahaman bahwa kemanusiaan bersatu dalam pencarian kebenaran, meskipun melalui jalan-jalan yang berbeda.^13
 
 ## Daftar Pustaka
 

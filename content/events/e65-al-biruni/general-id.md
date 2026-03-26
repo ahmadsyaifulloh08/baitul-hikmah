@@ -209,7 +209,7 @@ Meskipun Al-Biruni adalah seorang empiris yang ketat, dia tidak memisahkan sains
 > *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Quran itu benar."* ﴾53﴿
 > — QS. Fussilat (41): 53
 
-Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala (*fi'l-afaq*) — dari astronomi hingga mineralogi — dan dalam diri manusia (*fi anfusihim*) melalui studi psikologi dan antropologi, persis seperti yang diperintahkan ayat ini.^3 Baginya, semakin dalam pemahaman terhadap alam semesta, semakin kuat keyakinan terhadap Sang Pencipta.^1
+Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala (*fi'l-afaq*) — dari astronomi hingga mineralogi — dan dalam diri manusia (*fi anfusihim*) melalui studi psikologi dan antropologi, persis seperti yang diperintahkan ayat ini. Baginya, semakin dalam pemahaman terhadap alam semesta, semakin kuat keyakinan terhadap Sang Pencipta.^1
 
 ### Etika Ilmiah dan Tanggung Jawab Sosial
 

@@ -85,7 +85,7 @@ Regarding the opening of new paths for the message through new people, Allah the
 > *"Had Allah known any good in them, He would have made them hear. And if He had made them hear, they would still have turned away while they were refusing. ﴾23﴿"*
 > — QS. Al-Anfal (8): 23
 
-This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly.^1 ^2 ^5
+This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly. ^5
 
 ## Analysis and Lessons
 

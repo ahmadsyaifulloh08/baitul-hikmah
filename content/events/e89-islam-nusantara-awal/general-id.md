@@ -85,7 +85,7 @@ Islam Nusantara menunjukkan model penyebaran agama yang unik dalam sejarah dunia
 > *"Dan tidaklah Kami mengutus kamu, melainkan untuk (menjadi) rahmat bagi semesta alam."* ﴾107﴿
 > — QS. Al-Anbiya' (21): 107
 
-Ayat ini mencerminkan karakter Islam Nusantara yang rahmatan lil alamiin - membawa kebaikan dan kedamaian bagi semua.^2 ^5
+Ayat ini mencerminkan karakter Islam Nusantara yang rahmatan lil alamiin - membawa kebaikan dan kedamaian bagi semua. ^5
 
 ---
 

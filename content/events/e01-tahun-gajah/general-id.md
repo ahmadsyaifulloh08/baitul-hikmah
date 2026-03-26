@@ -13,7 +13,7 @@ Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur pe
 > *"Karena kebiasaan orang-orang Quraisy, ﴾1﴿ (yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas. ﴾2﴿ Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah), ﴾3﴿ yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa takut. ﴾4﴿"*
 > — QS. Quraisy (106): 1-4
 
-Namun lebih dari sekadar pusat perdagangan, Makkah adalah pusat spiritual seluruh Jazirah Arab. Di jantung kota berdiri Ka'bah — bangunan kubus yang menurut tradisi Islam dibangun pertama kali oleh Nabi Ibrahim dan putranya Ismail 'alaihimas-salam. Meski pada masa ini Ka'bah telah dikelilingi oleh 360 berhala (*ashnam*), statusnya sebagai tempat suci tetap diakui seluruh kabilah Arab.^1 Setiap tahun, orang-orang dari penjuru semenanjung berdatangan untuk berhaji, dan selama bulan-bulan haram (*al-asyhur al-hurum*), segala bentuk peperangan dihentikan. Inilah yang membuat Ka'bah — dan siapa pun yang menguasainya — memiliki pengaruh politik dan ekonomi yang luar biasa besar.^6
+Namun lebih dari sekadar pusat perdagangan, Makkah adalah pusat spiritual seluruh Jazirah Arab. Di jantung kota berdiri Ka'bah — bangunan kubus yang menurut tradisi Islam dibangun pertama kali oleh Nabi Ibrahim dan putranya Ismail 'alaihimas-salam. Meski pada masa ini Ka'bah telah dikelilingi oleh 360 berhala (*ashnam*), statusnya sebagai tempat suci tetap diakui seluruh kabilah Arab. Setiap tahun, orang-orang dari penjuru semenanjung berdatangan untuk berhaji, dan selama bulan-bulan haram (*al-asyhur al-hurum*), segala bentuk peperangan dihentikan. Inilah yang membuat Ka'bah — dan siapa pun yang menguasainya — memiliki pengaruh politik dan ekonomi yang luar biasa besar.^6
 
 ## Abrahah dan Ambisi yang Membakar
 
@@ -57,7 +57,7 @@ Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa
 > *"Tidakkah engkau perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah? ﴾1﴿ Bukankah Dia telah menjadikan tipu daya mereka sia-sia? ﴾2﴿ Dan Dia mengirimkan kepada mereka burung-burung yang berbondong-bondong, ﴾3﴿ yang melempari mereka dengan batu dari tanah liat yang dibakar, ﴾4﴿ sehingga Dia menjadikan mereka seperti daun-daun yang dimakan ulat. ﴾5﴿"*
 > — QS. Al-Fil (105): 1-5
 
-Abrahah sendiri terkena batu-batu tersebut. Tubuhnya membusuk sedikit demi sedikit sepanjang perjalanan pulang, dan ia meninggal di Sana'a dalam keadaan yang mengenaskan — dagingnya rontok hingga tulang dan jantungnya terlihat. Ibn Hisham mencatat detail ini dengan sangat rinci dalam *Sirah Nabawiyyah*.^1 ^6
+Abrahah sendiri terkena batu-batu tersebut. Tubuhnya membusuk sedikit demi sedikit sepanjang perjalanan pulang, dan ia meninggal di Sana'a dalam keadaan yang mengenaskan — dagingnya rontok hingga tulang dan jantungnya terlihat. Ibn Hisham mencatat detail ini dengan sangat rinci dalam *Sirah Nabawiyyah*. ^6
 
 ## Debat Historiografis: Kapan Tepatnya?
 

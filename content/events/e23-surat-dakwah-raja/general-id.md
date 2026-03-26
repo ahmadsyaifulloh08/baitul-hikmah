@@ -23,7 +23,7 @@ Surat itu kemudian mengutip ayat al-Quran^4:
 > *"Katakanlah, 'Wahai Ahli Kitab, marilah menuju kalimat yang sama antara kami dan kamu, yaitu bahwa kita tidak menyembah kecuali Allah dan tidak mempersekutukan-Nya dengan sesuatu pun.' ﴾64﴿"*
 > — QS. Ali Imran (3): 64
 
-Reaksi Heraklius sangat menarik dan didokumentasikan secara detail dalam Shahih al-Bukhari melalui riwayat panjang dari Abu Sufyan. Saat itu Abu Sufyan — yang masih musyrik — kebetulan berada di Syam untuk berdagang. Heraklius memanggilnya dan mengajukan serangkaian pertanyaan tentang Muhammad: asal-usulnya, pengikutnya, ajarannya, apakah ia pernah berbohong, apakah pengikutnya bertambah atau berkurang.^1 ^4
+Reaksi Heraklius sangat menarik dan didokumentasikan secara detail dalam Shahih al-Bukhari melalui riwayat panjang dari Abu Sufyan. Saat itu Abu Sufyan — yang masih musyrik — kebetulan berada di Syam untuk berdagang. Heraklius memanggilnya dan mengajukan serangkaian pertanyaan tentang Muhammad: asal-usulnya, pengikutnya, ajarannya, apakah ia pernah berbohong, apakah pengikutnya bertambah atau berkurang. ^4
 
 Setelah mendengar semua jawaban Abu Sufyan, Heraklius menyimpulkan: *"Jika apa yang kau katakan benar, maka ia akan menguasai tempat di bawah kedua kakiku ini."* Abu Sufyan kemudian berkata: *"Aku keluar dari situ, dan aku yakin bahwa urusan Ibn Abi Kabsyah (sebutan merendahkan untuk Muhammad) akan menjadi besar."*^1
 

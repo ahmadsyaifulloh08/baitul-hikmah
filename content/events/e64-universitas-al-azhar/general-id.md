@@ -332,7 +332,7 @@ Dalam era globalisasi dan pluralitas kontemporer, Al-Azhar memainkan peran penti
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
 > — QS. Taha (20): 114^13
 
-Doa yang diajarkan al-Quran ini menjadi semangat yang terus menghidupkan Al-Azhar selama lebih dari seribu tahun. Institusi yang dimulai sebagai masjid sederhana telah berkembang menjadi mercusuar peradaban Islam yang terus bersinar, menginspirasi jutaan Muslim di seluruh dunia untuk terus mencari ilmu dan berkontribusi bagi kemanusiaan.^5^13
+Doa yang diajarkan al-Quran ini menjadi semangat yang terus menghidupkan Al-Azhar selama lebih dari seribu tahun. Institusi yang dimulai sebagai masjid sederhana telah berkembang menjadi mercusuar peradaban Islam yang terus bersinar, menginspirasi jutaan Muslim di seluruh dunia untuk terus mencari ilmu dan berkontribusi bagi kemanusiaan.^13
 
 ---
 

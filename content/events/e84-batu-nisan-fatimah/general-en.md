@@ -62,14 +62,14 @@ The discovery of Fatimah binti Maimun's tombstone brought revolutionary impact t
 
 This archaeological evidence strengthens the theory that Islam's spread in the Archipelago occurred gradually and peacefully. There is no indication of conflict or coercion in the early Islamization process. Instead, Islam appears to have been voluntarily accepted by part of the local community.^1
 
-The Qur'an affirms the principle of religious freedom that may have been applied in the early da'wah process in the Archipelago:
+The Qur'an affirms the principle of religious freedom that may have been applied in the early da'wah process in the Archipelago^4:
 
 > لَا إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ ﴿٢٥٦﴾
 >
 > *"There is no compulsion in religion. The right course has become clear from the wrong. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^1
 
-## Theories of Islam's Arrival in the Archipelago^1
+## Theories of Islam's Arrival in the Archipelago.^4
 
 The discovery of Fatimah binti Maimun's tombstone provides empirical support for various theories about Islam's arrival in the Archipelago. There are several main theories developed by scholars regarding how and when Islam first entered Indonesian territory.^1
 
@@ -106,3 +106,4 @@ The spiritual legacy left through this tombstone reminds us of the importance of
 1. Moquette, J.P., *De Grafsteenen te Pase en Grisse vergeleken met dergelijke monumenten uit Hindostan*, Leiden: Tijdschrift voor Indische Taal-, Land- en Volkenkunde, 1912.
 2. Fatimi, S.Q., *Islam Comes to Malaysia*, Singapore: Malaysian Sociological Research Institute, 1963.
 3. Guillot, Claude, *Batu Aceh: Warisan Sejarah Johor*, Jakarta: Kepustakaan Populer Gramedia, 2008.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 256.

@@ -109,7 +109,7 @@ Aibak's wisdom in preserving the Iron Pillar while building a mosque around it s
 > *"And if Allah had willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ."* ﴾48﴿
 > — QS. Al-Maidah (5): 48
 
-This verse illustrates the wisdom behind cultural and civilizational diversity: differences are not to be annihilated, but to encourage competition in goodness and innovation beneficial to all humanity.^2
+This verse illustrates the wisdom behind cultural and civilizational diversity: differences are not to be annihilated, but to encourage competition in goodness and innovation beneficial to all humanity.^1
 
 ---
 

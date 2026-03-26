@@ -149,7 +149,7 @@ Metodologi penerjemahan yang dikembangkan Hunayn ibn Ishaq dengan sistem verifik
 > *"Dan Kami turunkan kepadamu Al-Kitab (Al-Quran) untuk menjelaskan segala sesuatu dan petunjuk serta rahmat dan kabar gembira bagi orang-orang yang berserah diri."* ﴾89﴿
 > — QS. An-Nahl (16): 89
 
-Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan segala sesuatu melalui berbagai sumber pengetahuan, dengan Al-Quran sebagai framework interpretatif utama.^1
+Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan segala sesuatu melalui berbagai sumber pengetahuan, dengan Al-Quran sebagai framework interpretatif utama.^3
 
 **Integrasi Tanpa Asimilasi**: Para penerjemah Muslim tidak hanya mengadopsi pengetahuan asing, tetapi mengintegrasikannya dengan worldview Islam, menciptakan sintesis yang unik. Mereka berhasil mempertahankan identitas intelektual Islam sambil mengembangkan tradisi pengetahuan universal.
 

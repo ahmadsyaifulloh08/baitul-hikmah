@@ -48,7 +48,7 @@ Keistimewaan Masjid Quba diabadikan dalam Al-Qur'an surah At-Taubah:^4
 > *"Sesungguhnya masjid yang didirikan atas dasar takwa (Masjid Quba) sejak hari pertama adalah lebih layak kamu shalat di dalamnya. Di dalamnya ada orang-orang yang ingin membersihkan diri. Dan Allah menyukai orang-orang yang bersih."*
 > — QS. At-Taubah (9): 108
 
-Ayat ini turun sebagai penegasan bahwa Masjid Quba memiliki kedudukan istimewa karena dibangun atas fondasi *takwa* sejak hari pertama.^3 Para ulama menafsirkan "takwa sejak hari pertama" sebagai niat yang ikhlas untuk beribadah kepada Allah, tanpa embel-embel kemegahan atau pamer.^1 ^4
+Ayat ini turun sebagai penegasan bahwa Masjid Quba memiliki kedudukan istimewa karena dibangun atas fondasi *takwa* sejak hari pertama. Para ulama menafsirkan "takwa sejak hari pertama" sebagai niat yang ikhlas untuk beribadah kepada Allah, tanpa embel-embel kemegahan atau pamer. ^4
 
 **Ibn Abbas** meriwayatkan bahwa Rasulullah ﷺ bersabda:
 

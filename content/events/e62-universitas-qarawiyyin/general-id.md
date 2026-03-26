@@ -169,7 +169,7 @@ Tradisi Al-Qarawiyyin dalam menerima mahasiswa dari berbagai latar belakang agam
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^6^9
+Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^9
 
 ## Daftar Pustaka
 

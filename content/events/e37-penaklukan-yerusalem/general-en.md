@@ -11,7 +11,7 @@ The Quran immortalizes this sacred bond^4:
 > *"Glory be to the One Who took His servant on a night journey from the Sacred Mosque to the Farthest Mosque, whose surroundings We have blessed. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-In 637 CE, Jerusalem was under Byzantine (Eastern Roman) rule. The city had been held by Byzantium for centuries, though it briefly fell to Sasanian Persia in 614 CE before being recaptured by Emperor Heraclius in 629 CE. Its population was predominantly Christian, with a Jewish community that had been expelled by Rome and only partially permitted to return.^1 ^4
+In 637 CE, Jerusalem was under Byzantine (Eastern Roman) rule. The city had been held by Byzantium for centuries, though it briefly fell to Sasanian Persia in 614 CE before being recaptured by Emperor Heraclius in 629 CE. Its population was predominantly Christian, with a Jewish community that had been expelled by Rome and only partially permitted to return. ^4
 
 After the Muslim victory at the Battle of Yarmuk (636 CE), which shattered the main Byzantine force in Syria, cities fell one by one to the Islamic armies. **Abu Ubaidah ibn al-Jarrah**, supreme commander of Muslim forces in Syria, besieged Jerusalem. Al-Tabari and al-Baladhuri record that the siege lasted several months without major violence — the Muslim army did not storm the city but waited patiently.^1 ^2
 

@@ -70,7 +70,7 @@ On the severe trial the Muslims endured during the siege:^4
 > *"[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats. ﴾10﴿"*
 > — QS. Al-Ahzab (33): 10
 
-After the victory, the Prophet Muhammad ﷺ declared:^1 ^4
+After the victory, the Prophet Muhammad ﷺ declared: ^4
 
 > الْآنَ نَغْزُوهُمْ وَلَا يَغْزُونَنَا، نَحْنُ نَسِيرُ إِلَيْهِمْ
 >

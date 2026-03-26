@@ -45,7 +45,7 @@ Dia juga adalah orang pertama yang menjelaskan penularan penyakit menular melalu
 > *"Wahai manusia! Sungguh, telah datang kepadamu pelajaran (Al-Quran) dari Tuhanmu, penyembuh bagi penyakit yang ada dalam dada, dan petunjuk serta rahmat bagi orang-orang yang beriman." ﴾57﴿*
 > — QS. Yunus (10): 57^3
 
-## Kontribusi dalam Filosofi dan Metafisika^3^7
+## Kontribusi dalam Filosofi dan Metafisika^7
 
 ### Sintesis Aristotelianisme dan Islam
 

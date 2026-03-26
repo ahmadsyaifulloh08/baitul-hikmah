@@ -66,23 +66,23 @@ Setelah shalat di Masjidil Aqsha, Nabi Muhammad SAW bersama Jibril AS naik ke la
 
 Riwayat lengkap pertemuan ini terdapat dalam Shahih al-Bukhari:
 
-> فَانْطَلَقَ بِي جِبْرِيلُ حَتَّى أَتَى السَّمَاءَ الدُّنْيَا فَاسْتَفْتَحَ... قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ قِيلَ وَقَدْ أُرْسِلَ إِلَيْهِ قَالَ نَعَمْ قِيلَ مَرْحَبًا بِهِ فَنِعْمَ الْمَجِيءُ جَاءَ
+> فَانْطَلَقَ بِي جِبْرِيلُ حَتَّى أَتَى السَّمَاءَ الدُّنْيَا فَاسْتَفْتَحَ. قِيلَ مَنْ هَذَا قَالَ جِبْرِيلُ قِيلَ وَمَنْ مَعَكَ قَالَ مُحَمَّدٌ قِيلَ وَقَدْ أُرْسِلَ إِلَيْهِ قَالَ نَعَمْ قِيلَ مَرْحَبًا بِهِ فَنِعْمَ الْمَجِيءُ جَاءَ
 >
-> *"Maka Jibril membawaku hingga tiba di langit dunia, lalu ia meminta dibukakan... Ditanya: 'Siapa ini?' Jibril menjawab: 'Jibril.' Ditanya: 'Siapa bersamamu?' Jibril menjawab: 'Muhammad.' Ditanya: 'Apakah ia telah diutus?' Jibril menjawab: 'Ya.' Dikatakan: 'Selamat datang, alangkah baiknya kedatangan ini.'"*
+> *"Maka Jibril membawaku hingga tiba di langit dunia, lalu ia meminta dibukakan. Ditanya: 'Siapa ini?' Jibril menjawab: 'Jibril.' Ditanya: 'Siapa bersamamu?' Jibril menjawab: 'Muhammad.' Ditanya: 'Apakah ia telah diutus?' Jibril menjawab: 'Ya.' Dikatakan: 'Selamat datang, alangkah baiknya kedatangan ini.'"*
 > — HR al-Bukhari, no. 3207, Kitab Bad' al-Khalq
 
 #### Sidratul Muntaha
 
 Setelah melampaui langit ketujuh, Nabi Muhammad SAW mencapai *Sidratul Muntaha* — pohon bidara di batas tertinggi yang menjadi perbatasan antara alam makhluk dan keagungan Ilahi. Bahkan Jibril AS berhenti di titik ini dan berkata bahwa ia tidak mampu melanjutkan lebih jauh — jika ia melewati batas tersebut, sayapnya akan terbakar.^5
 
-Allah SWT menggambarkan Sidratul Muntaha dalam Al-Qur'an^7:
+Allah SWT menggambarkan Sidratul Muntaha dalam Al-Qur'an^6:
 
 > وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِندَ سِدْرَةِ الْمُنتَهَىٰ ﴿١٤﴾ عِندَهَا جَنَّةُ الْمَأْوَىٰ ﴿١٥﴾ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ ﴿١٦﴾ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ ﴿١٧﴾
 >
 > *"Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) pada kali yang lain, ﴾13﴿ di Sidratul Muntaha. ﴾14﴿ Di dekatnya ada surga tempat tinggal. ﴾15﴿ (Muhammad melihat Jibril) ketika Sidratul Muntaha diliputi oleh sesuatu yang meliputinya. ﴾16﴿ Penglihatannya tidak berpaling dan tidak (pula) melampaui batas. ﴾17﴿"*
 > — QS. Al-Najm (53): 13–17
 
-Di Sidratul Muntaha inilah Nabi Muhammad SAW menerima wahyu langsung dari Allah SWT — tanpa perantara malaikat — suatu kehormatan yang tidak diberikan kepada nabi manapun sebelumnya.^6 ^7
+Di Sidratul Muntaha inilah Nabi Muhammad SAW menerima wahyu langsung dari Allah SWT — tanpa perantara malaikat — suatu kehormatan yang tidak diberikan kepada nabi manapun sebelumnya. ^6
 
 #### Perintah Shalat Lima Waktu
 
@@ -103,9 +103,9 @@ Ketika Musa kembali menyarankan untuk meminta keringanan lagi, Nabi Muhammad SAW
 
 Kemudian terdengar seruan dari Allah SWT:
 
-> أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي... هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ
+> أَمْضَيْتُ فَرِيضَتِي وَخَفَّفْتُ عَنْ عِبَادِي. هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ
 >
-> *"Aku telah menetapkan kewajiban-Ku dan Aku telah memberikan keringanan kepada hamba-hamba-Ku... Ia (shalat) itu lima, namun (pahalanya) lima puluh. Tidak berubah perkataan di sisi-Ku."*
+> *"Aku telah menetapkan kewajiban-Ku dan Aku telah memberikan keringanan kepada hamba-hamba-Ku. Ia (shalat) itu lima, namun (pahalanya) lima puluh. Tidak berubah perkataan di sisi-Ku."*
 > — HR al-Bukhari, no. 3207, Kitab Bad' al-Khalq
 
 Dengan demikian, shalat lima waktu ditetapkan dengan pahala lima puluh shalat — sebuah rahmat dan kemurahan dari Allah SWT.^1
@@ -134,7 +134,7 @@ Peristiwa Isra' diabadikan dalam pembukaan Surah Al-Isra':
 > *"Mahasuci (Allah) yang telah memperjalankan hamba-Nya (Muhammad) pada malam hari dari Masjidil Haram ke Masjidil Aqsha yang telah Kami berkahi sekelilingnya, agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar, Maha Melihat. ﴾1﴿"*
 > — QS. Al-Isra' (17): 1
 
-Penggunaan kata *subhana* (Mahasuci) di awal ayat menunjukkan keagungan dan keluarbiasaan peristiwa ini, sekaligus menegaskan bahwa hal tersebut berada dalam kuasa Allah semata.^6 ^7
+Penggunaan kata *subhana* (Mahasuci) di awal ayat menunjukkan keagungan dan keluarbiasaan peristiwa ini, sekaligus menegaskan bahwa hal tersebut berada dalam kuasa Allah semata. ^6
 
 ### Reaksi Masyarakat Makkah
 
@@ -183,6 +183,4 @@ Dalam konteks kronologis sirah, Isra' Mi'raj adalah jawaban langit atas penderit
 3. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 4. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
-6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
-
-7. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.
+6. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.

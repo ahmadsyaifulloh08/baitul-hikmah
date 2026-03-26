@@ -48,7 +48,7 @@ The special status of Quba Mosque is immortalized in the Quran, Surah At-Taubah:
 > *"A mosque whose foundation was laid from the first day on piety (Quba Mosque) is more worthy of your standing for prayer therein. In it are men who love to purify themselves; and Allah loves those who purify themselves."*
 > — QS. At-Taubah (9): 108
 
-This verse was revealed as confirmation that Quba Mosque holds a special position because it was built on the foundation of *taqwa* from the very first day.^3 Scholars interpret "taqwa from the first day" as sincere intention to worship Allah, without any embellishment of grandeur or showing off.^1 ^4
+This verse was revealed as confirmation that Quba Mosque holds a special position because it was built on the foundation of *taqwa* from the very first day. Scholars interpret "taqwa from the first day" as sincere intention to worship Allah, without any embellishment of grandeur or showing off. ^4
 
 **Ibn Abbas** narrated that the Prophet ﷺ said:
 

@@ -55,7 +55,7 @@ Mereka mencari-cari alasan untuk tidak ikut berperang. Sebagian meminta izin den
 > *"Ketahuilah, sesungguhnya mereka telah jatuh ke dalam fitnah (keburukan). ﴾49﴿"*
 > — QS. At-Taubah (9): 49
 
-Ada pula sekelompok munafik yang membangun masjid — disebut **Masjid al-Dhirar** — sebagai markas untuk memecah belah umat. Allah membongkar rencana mereka dan memerintahkan Rasulullah ﷺ untuk menghancurkan masjid tersebut.^1 ^5
+Ada pula sekelompok munafik yang membangun masjid — disebut **Masjid al-Dhirar** — sebagai markas untuk memecah belah umat. Allah membongkar rencana mereka dan memerintahkan Rasulullah ﷺ untuk menghancurkan masjid tersebut. ^5
 
 ### Kisah Ka'b bin Malik: Kejujuran yang Menyelamatkan
 

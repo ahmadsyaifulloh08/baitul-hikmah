@@ -59,7 +59,7 @@ Dalam mukadimah karyanya, al-Ghazali menjelaskan tujuan penulisan dengan menguti
 > *"Dan tidaklah Kami mengutus engkau (Muhammad), kecuali sebagai rahmat bagi seluruh alam. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107
 
-Ayat ini menginspirasi al-Ghazali untuk menjadikan karyanya sebagai rahmat bagi umat Islam dengan menghidupkan kembali ilmu-ilmu agama yang hakiki, yaitu ilmu yang tidak hanya mengisi otak tetapi juga menyucikan hati.^2^1
+Ayat ini menginspirasi al-Ghazali untuk menjadikan karyanya sebagai rahmat bagi umat Islam dengan menghidupkan kembali ilmu-ilmu agama yang hakiki, yaitu ilmu yang tidak hanya mengisi otak tetapi juga menyucikan hati.^1
 
 ## Metodologi dan Pendekatan Inovatif
 

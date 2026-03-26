@@ -19,7 +19,7 @@ In the middle of Rajab or Sha'ban in the second year of Hijrah (approximately Fe
 > *"We have certainly seen the turning of your face toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face toward al-Masjid al-Haram. And wherever you are, turn your faces toward it. ﴾144﴿"*
 > — QS. Al-Baqarah (2): 144
 
-This occurred in the middle of prayer. Imam al-Bukhari narrated from al-Bara' ibn 'Azib:^1 ^3
+This occurred in the middle of prayer. Imam al-Bukhari narrated from al-Bara' ibn 'Azib: ^3
 
 > صَلَّيْنَا مَعَ رَسُولِ اللَّهِ ﷺ نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا أَوْ سَبْعَةَ عَشَرَ شَهْرًا، ثُمَّ صُرِفْنَا نَحْوَ الْكَعْبَةِ
 >

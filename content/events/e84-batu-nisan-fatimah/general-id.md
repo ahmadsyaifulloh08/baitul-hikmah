@@ -62,14 +62,14 @@ Penemuan batu nisan Fatimah binti Maimun membawa dampak revolusioner terhadap pe
 
 Bukti arkeologis ini menguatkan teori bahwa penyebaran Islam di Nusantara berlangsung secara gradual dan damai. Tidak ada indikasi konflik atau paksaan dalam proses Islamisasi awal. Sebaliknya, Islam tampak diterima secara sukarela oleh sebagian masyarakat lokal.^1
 
-Al-Qur'an menegaskan prinsip kebebasan beragama yang mungkin diterapkan dalam proses dakwah awal di Nusantara:
+Al-Qur'an menegaskan prinsip kebebasan beragama yang mungkin diterapkan dalam proses dakwah awal di Nusantara^4:
 
 > لَا إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ ﴿٢٥٦﴾
 >
 > *"Tidak ada paksaan dalam agama. Sesungguhnya telah jelas perbedaan antara jalan yang benar dengan jalan yang sesat. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^1
 
-## Teori-Teori Kedatangan Islam ke Nusantara^1
+## Teori-Teori Kedatangan Islam ke Nusantara.^4
 
 Penemuan batu nisan Fatimah binti Maimun memberikan dukungan empiris terhadap berbagai teori kedatangan Islam ke Nusantara. Terdapat beberapa teori utama yang dikembangkan para ahli mengenai bagaimana dan kapan Islam pertama kali masuk ke wilayah Indonesia.^1
 
@@ -106,3 +106,4 @@ Warisan spiritual yang ditinggalkan melalui batu nisan ini mengingatkan kita ten
 1. Moquette, J.P., *De Grafsteenen te Pase en Grisse vergeleken met dergelijke monumenten uit Hindostan*, Leiden: Tijdschrift voor Indische Taal-, Land- en Volkenkunde, 1912.
 2. Fatimi, S.Q., *Islam Comes to Malaysia*, Singapore: Malaysian Sociological Research Institute, 1963.
 3. Guillot, Claude, *Batu Aceh: Warisan Sejarah Johor*, Jakarta: Kepustakaan Populer Gramedia, 2008.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 256.

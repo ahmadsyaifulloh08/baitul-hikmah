@@ -169,7 +169,7 @@ Al-Qarawiyyin's tradition of accepting students from various religious and cultu
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^6^9
+This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^9
 
 ## Bibliography
 

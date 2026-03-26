@@ -45,7 +45,7 @@ He was also the first to explain the transmission of infectious diseases through
 > *"O mankind! There has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers." ﴾57﴿*
 > — QS. Yunus (10): 57^3
 
-## Contributions to Philosophy and Metaphysics^3^7
+## Contributions to Philosophy and Metaphysics^7
 
 ### Synthesis of Aristotelianism and Islam
 

@@ -76,14 +76,14 @@ The conquest occurred during a period when the Islamic world was experiencing va
 
 The conquest of Constantinople teaches several important lessons:
 
-**Strategic patience**: Mehmed waited and prepared carefully before attempting conquest. **Technological innovation**: Adoption of new military technology was crucial for success. **Religious tolerance**: Treatment of conquered populations with relative tolerance helped consolidate rule. **Cultural synthesis**: The ability to combine Islamic principles with existing traditions created lasting civilization.
+**Strategic patience**: Mehmed waited and prepared carefully before attempting conquest. **Technological innovation**: Adoption of new military technology was crucial for success. **Religious tolerance**: Treatment of conquered populations with relative tolerance helped consolidate rule. **Cultural synthesis**: The ability to combine Islamic principles with existing traditions created lasting civilization^4.
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
 >
 > *"And Allah has promised those who have believed among you and done righteous deeds that He will surely grant them succession [to authority] upon the earth."* ﴾55﴿
 > — QS. An-Nur (24): 55
 
-This verse reflects the Ottoman understanding that conquest was the fulfillment of divine promise for righteous believers.^1
+This verse reflects the Ottoman understanding that conquest was the fulfillment of divine promise for righteous believers.^4
 
 ---
 
@@ -92,3 +92,4 @@ This verse reflects the Ottoman understanding that conquest was the fulfillment 
 1. Steven Runciman, *The Fall of Constantinople 1453*, Cambridge: Cambridge University Press, 1965.
 2. Halil İnalcık, *The Ottoman Empire: The Classical Age 1300-1600*, London: Phoenix Press, 2000.
 3. Donald M. Nicol, *The Immortal Emperor: The Life and Legend of Constantine Palaiologos*, Cambridge: Cambridge University Press, 1992.
+4. Al-Qur'an al-Karim. QS. An-Nur (24): 55.^4

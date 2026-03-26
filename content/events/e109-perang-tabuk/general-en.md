@@ -55,7 +55,7 @@ They searched for excuses not to join the expedition. Some requested exemption o
 > *"Unquestionably, into temptation they have already fallen. ﴾49﴿"*
 > — QS. At-Tawbah (9): 49
 
-A group of hypocrites also constructed a mosque — known as **Masjid al-Dirar** — as a base to divide the Muslim community. Allah exposed their scheme and commanded the Prophet ﷺ to demolish it.^1 ^4
+A group of hypocrites also constructed a mosque — known as **Masjid al-Dirar** — as a base to divide the Muslim community. Allah exposed their scheme and commanded the Prophet ﷺ to demolish it. ^4
 
 ### The Story of Ka'b ibn Malik: Honesty That Saved
 

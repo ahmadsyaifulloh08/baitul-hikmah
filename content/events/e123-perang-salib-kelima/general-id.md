@@ -204,7 +204,7 @@ Pelajaran ini relevan untuk **konteks kontemporer**: baik dalam bisnis, diplomas
 > *"Dan tidak ada kemenangan itu melainkan dari Allah Yang Mahaperkasa lagi Mahabijaksana."* ﴾126﴿
 > — QS. Ali Imran (3): 126
 
-Kemenangan al-Kamil dalam mempertahankan Mesir dari invasi Perang Salib V menunjukkan bahwa kemenangan sejati datang melalui kombinasi **iman**, **hikmah strategis**, dan **perlakuan yang adil** terhadap musuh yang telah kalah.^2
+Kemenangan al-Kamil dalam mempertahankan Mesir dari invasi Perang Salib V menunjukkan bahwa kemenangan sejati datang melalui kombinasi **iman**, **hikmah strategis**, dan **perlakuan yang adil** terhadap musuh yang telah kalah.^1
 
 ---
 

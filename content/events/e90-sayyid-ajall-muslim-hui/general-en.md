@@ -85,7 +85,7 @@ The story of Sayyid Ajall and Muslim Hui shows a unique integration model in Isl
 > *"Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allah loves those who act justly."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
-This verse reflects the principle of peaceful coexistence applied by Muslim Hui in adapting to Chinese non-Muslim society, where they did good and acted justly toward their neighbors of different faiths.^4 ^5
+This verse reflects the principle of peaceful coexistence applied by Muslim Hui in adapting to Chinese non-Muslim society, where they did good and acted justly toward their neighbors of different faiths. ^5
 
 ---
 

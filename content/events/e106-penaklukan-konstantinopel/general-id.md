@@ -76,14 +76,14 @@ Penaklukan terjadi pada periode ketika dunia Islam mengalami berbagai tantangan.
 
 Penaklukan Konstantinopel mengajarkan beberapa pelajaran penting:
 
-**Kesabaran strategis**: Mehmed menunggu dan mempersiapkan dengan hati-hati sebelum mencoba penaklukan. **Inovasi teknologi**: Adopsi teknologi militer baru sangat krusial untuk keberhasilan. **Toleransi agama**: Perlakuan terhadap populasi yang ditaklukkan dengan toleransi relatif membantu mengonsolidasikan pemerintahan. **Sintesis budaya**: Kemampuan untuk menggabungkan prinsip-prinsip Islam dengan tradisi yang ada menciptakan peradaban yang berkelanjutan.
+**Kesabaran strategis**: Mehmed menunggu dan mempersiapkan dengan hati-hati sebelum mencoba penaklukan. **Inovasi teknologi**: Adopsi teknologi militer baru sangat krusial untuk keberhasilan. **Toleransi agama**: Perlakuan terhadap populasi yang ditaklukkan dengan toleransi relatif membantu mengonsolidasikan pemerintahan. **Sintesis budaya**: Kemampuan untuk menggabungkan prinsip-prinsip Islam dengan tradisi yang ada menciptakan peradaban yang berkelanjutan^4.
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
 >
 > *"Dan Allah telah berjanji kepada orang-orang yang beriman di antara kamu dan mengerjakan amal-amal saleh bahwa Dia sungguh-sungguh akan menjadikan mereka berkuasa di muka bumi."* ﴾55﴿
 > — QS. An-Nur (24): 55
 
-Ayat ini mencerminkan pemahaman Ottoman bahwa penaklukan adalah pemenuhan janji ilahi untuk orang beriman yang saleh.^1
+Ayat ini mencerminkan pemahaman Ottoman bahwa penaklukan adalah pemenuhan janji ilahi untuk orang beriman yang saleh.^4
 
 ---
 
@@ -92,3 +92,4 @@ Ayat ini mencerminkan pemahaman Ottoman bahwa penaklukan adalah pemenuhan janji 
 1. Steven Runciman, *The Fall of Constantinople 1453*, Cambridge: Cambridge University Press, 1965.
 2. Halil İnalcık, *The Ottoman Empire: The Classical Age 1300-1600*, London: Phoenix Press, 2000.
 3. Donald M. Nicol, *The Immortal Emperor: The Life and Legend of Constantine Palaiologos*, Cambridge: Cambridge University Press, 1992.
+4. Al-Qur'an al-Karim. QS. An-Nur (24): 55.^4

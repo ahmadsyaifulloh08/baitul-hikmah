@@ -40,7 +40,7 @@ The Prophet ﷺ entered Makkah on Friday, 20 Ramadan 8 AH (January 11, 630 CE), 
 > *"Indeed, We have given you a clear conquest."*
 > — QS. Al-Fath (48): 1
 
-The army was divided into four columns entering Makkah from four different directions.^1 **Khalid ibn al-Walid** led the right flank from the south. His column encountered brief resistance from a small group of Quraysh led by Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, but this was quickly suppressed.^1 The other columns met no resistance at all. Makkah was liberated with virtually no bloodshed — an extraordinary military and moral achievement.^4
+The army was divided into four columns entering Makkah from four different directions. **Khalid ibn al-Walid** led the right flank from the south. His column encountered brief resistance from a small group of Quraysh led by Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, but this was quickly suppressed. The other columns met no resistance at all. Makkah was liberated with virtually no bloodshed — an extraordinary military and moral achievement.^4
 
 After entering Makkah, the Prophet ﷺ proceeded to the Ka'bah. He performed *tawaf* seven times on his camel while destroying the 360 idols surrounding the Ka'bah with a staff in his hand, reciting:^1 ^3
 

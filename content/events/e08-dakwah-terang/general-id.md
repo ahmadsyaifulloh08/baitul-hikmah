@@ -9,7 +9,7 @@ Setelah tiga tahun dakwah secara sembunyi-sembunyi, jumlah muslim di Makkah tela
 > *"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat. ﴾214﴿"*
 > — QS. Al-Syu'ara' (26): 214
 
-Ayat ini menandai peralihan dari dakwah *sirriyyah* (sembunyi-sembunyi) ke dakwah *jahriyyah* (terang-terangan). Makkah pada saat itu masih sepenuhnya dikuasai oleh elit Quraisy yang bergantung pada sistem penyembahan berhala. Seruan tauhid secara terbuka berarti menantang seluruh tatanan sosial, ekonomi, dan keagamaan yang telah mapan selama berabad-abad.^2 ^3
+Ayat ini menandai peralihan dari dakwah *sirriyyah* (sembunyi-sembunyi) ke dakwah *jahriyyah* (terang-terangan). Makkah pada saat itu masih sepenuhnya dikuasai oleh elit Quraisy yang bergantung pada sistem penyembahan berhala. Seruan tauhid secara terbuka berarti menantang seluruh tatanan sosial, ekonomi, dan keagamaan yang telah mapan selama berabad-abad. ^3
 
 ## Peristiwa
 

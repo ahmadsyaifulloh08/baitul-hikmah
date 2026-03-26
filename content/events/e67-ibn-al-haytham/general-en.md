@@ -59,7 +59,7 @@ One revolutionary aspect of Ibn al-Haytham's approach was his courage to critici
 > *"And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy." ﴾6﴿*
 > — QS. Saba (34): 6^1
 
-## Influence on Western and Eastern Civilizations^1^10
+## Influence on Western and Eastern Civilizations^10
 
 ### Latin Translation and Influence in Europe
 

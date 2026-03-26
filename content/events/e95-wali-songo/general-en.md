@@ -105,7 +105,7 @@ Wali Songo's mission teaches timeless principles:
 > *"And We made from among them leaders guiding by Our command when they were patient and were certain of Our signs."* ﴾24﴿
 > — QS. As-Sajdah (32): 24
 
-This verse reflects the qualities demonstrated by Wali Songo: patience in mission, certainty in faith, and leadership guided by divine principles.^3 ^5
+This verse reflects the qualities demonstrated by Wali Songo: patience in mission, certainty in faith, and leadership guided by divine principles. ^5
 
 ---
 

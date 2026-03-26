@@ -19,7 +19,7 @@ Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623
 > *"Sungguh, Kami melihat wajahmu sering menengadah ke langit, maka sungguh Kami akan memalingkan engkau ke kiblat yang engkau sukai. Palingkanlah wajahmu ke arah Masjidil Haram. Dan di mana saja kamu berada, palingkanlah wajahmu ke arahnya. ﴾144﴿"*
 > — QS. Al-Baqarah (2): 144
 
-Peristiwa ini terjadi secara langsung di tengah salat. Imam al-Bukhari meriwayatkan dari al-Bara' bin 'Azib:^1 ^3
+Peristiwa ini terjadi secara langsung di tengah salat. Imam al-Bukhari meriwayatkan dari al-Bara' bin 'Azib: ^3
 
 > صَلَّيْنَا مَعَ رَسُولِ اللَّهِ ﷺ نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا أَوْ سَبْعَةَ عَشَرَ شَهْرًا، ثُمَّ صُرِفْنَا نَحْوَ الْكَعْبَةِ
 >

@@ -30,7 +30,7 @@ Imam al-Bukhari narrates that Prophet Muhammad ﷺ walked out past them unseen, 
 > *"And We have placed before them a barrier and behind them a barrier and covered them, so they do not see. ﴾9﴿"*
 > — QS. Yasin (36): 9
 
-He went straight to the home of **Abu Bakr al-Siddiq**, his closest companion, who had prepared two camels for this journey months in advance.^3 ^4
+He went straight to the home of **Abu Bakr al-Siddiq**, his closest companion, who had prepared two camels for this journey months in advance. ^4
 
 ## Three Days in the Cave of Thawr
 
@@ -49,7 +49,7 @@ The Quran immortalised this moment^4:
 > *"If you do not aid him — Allah has already aided him when those who disbelieved drove him out [of Makkah] as one of two, when they were in the cave and he said to his companion, 'Do not grieve; indeed Allah is with us.' ﴾40﴿"*
 > — QS. Al-Tawbah (9): 40
 
-During the three days in the cave, **Abdullah ibn Abi Bakr** — Abu Bakr's young son — served as their spy, spending the night in the cave then returning to Makkah each morning to gather intelligence.^3 **Asma' bint Abi Bakr**, Abu Bakr's daughter, brought food each night, tearing her waist-belt in two to tie the provisions — earning her the title *Dhat al-Nitaqayn* (She of the Two Belts).^2 ^3 **Amir ibn Fuhayrah**, Abu Bakr's freed slave, drove his flock of sheep over their tracks to erase their footprints.^3 ^4
+During the three days in the cave, **Abdullah ibn Abi Bakr** — Abu Bakr's young son — served as their spy, spending the night in the cave then returning to Makkah each morning to gather intelligence. **Asma' bint Abi Bakr**, Abu Bakr's daughter, brought food each night, tearing her waist-belt in two to tie the provisions — earning her the title *Dhat al-Nitaqayn* (She of the Two Belts). **Amir ibn Fuhayrah**, Abu Bakr's freed slave, drove his flock of sheep over their tracks to erase their footprints. ^4
 
 ## The Journey to Madinah: The Story of Suraqah ibn Malik
 

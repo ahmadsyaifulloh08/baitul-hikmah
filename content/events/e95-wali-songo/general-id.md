@@ -105,7 +105,7 @@ Dakwah Wali Songo mengajarkan prinsip-prinsip abadi:
 > *"Dan Kami jadikan di antara mereka itu pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami ketika mereka sabar. Dan adalah mereka meyakini ayat-ayat Kami."* ﴾24﴿
 > — QS. As-Sajdah (32): 24
 
-Ayat ini mencerminkan kualitas yang ditunjukkan oleh Wali Songo: kesabaran dalam dakwah, keyakinan dalam iman, dan kepemimpinan yang dipandu oleh prinsip-prinsip ilahi.^3 ^5
+Ayat ini mencerminkan kualitas yang ditunjukkan oleh Wali Songo: kesabaran dalam dakwah, keyakinan dalam iman, dan kepemimpinan yang dipandu oleh prinsip-prinsip ilahi. ^5
 
 ---
 

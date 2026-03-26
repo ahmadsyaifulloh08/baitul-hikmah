@@ -133,7 +133,7 @@ Ibn Taimiyah mengajarkan beberapa prinsip penting:
 > *"Hai orang-orang yang beriman! Jadilah kamu orang yang benar-benar penegak keadilan, menjadi saksi karena Allah."* ﴾135﴿
 > — QS. An-Nisa' (4): 135
 
-Ibn Taimiyah mencontohkan makna ayat ini dengan konsistensi dalam menegakkan kebenaran meski menghadapi berbagai tekanan.^5^12
+Ibn Taimiyah mencontohkan makna ayat ini dengan konsistensi dalam menegakkan kebenaran meski menghadapi berbagai tekanan.^12
 
 ---
 

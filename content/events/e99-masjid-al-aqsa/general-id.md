@@ -69,7 +69,7 @@ Pembangunan Masjid al-Aqsa memiliki makna spiritual yang sangat mendalam bagi um
 > *"Mahasuci Allah yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidilharam ke Masjidilaqsha yang telah Kami berkahi sekelilingnya."* ﴾1﴿
 > — QS. Al-Isra' (17): 1
 
-Ayat ini menunjukkan bahwa kawasan Baitul Maqdis telah diberkahi Allah sejak zaman dahulu.^8 Pembangunan masjid fisik di lokasi ini merupakan manifestasi konkret dari pengakuan umat Islam terhadap kesucian tempat yang telah ditetapkan Allah dalam al-Quran.^1
+Ayat ini menunjukkan bahwa kawasan Baitul Maqdis telah diberkahi Allah sejak zaman dahulu.^8 Pembangunan masjid fisik di lokasi ini merupakan manifestasi konkret dari pengakuan umat Islam terhadap kesucian tempat yang telah ditetapkan Allah dalam al-Quran.
 
 Para ulama besar seperti **Ibn Kathir** dan **Al-Qurtubi** menekankan bahwa Masjidilaqsha dalam ayat tersebut merujuk kepada seluruh kawasan Haram al-Syarif, bukan hanya bangunan masjid spesifik.^2 Namun, keberadaan struktur fisik masjid memberikan fokus yang jelas bagi umat Islam dalam menjalankan ibadah dan zikir di tempat yang suci ini.^5
 

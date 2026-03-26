@@ -77,7 +77,7 @@ Al-Quran menyebut peristiwa ini sebagai *fath mubin* — kemenangan yang nyata:
 > *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."*
 > — QS. Al-Fath (48): 1
 
-Banyak sahabat awalnya kebingungan: di mana kemenangannya? Mereka pulang tanpa melakukan umrah, menerima klausul yang tampak berat sebelah, dan harus mengembalikan Muslim yang meminta suaka. Namun sejarah membuktikan bahwa Hudaibiyah adalah titik balik strategis yang sesungguhnya.^1 ^2 ^3 ^4
+Banyak sahabat awalnya kebingungan: di mana kemenangannya? Mereka pulang tanpa melakukan umrah, menerima klausul yang tampak berat sebelah, dan harus mengembalikan Muslim yang meminta suaka. Namun sejarah membuktikan bahwa Hudaibiyah adalah titik balik strategis yang sesungguhnya. ^4
 
 **Pertama, pengakuan de facto.** Dengan duduk bernegosiasi setara dengan Muhammad, Quraisy secara tidak langsung mengakui kaum Muslimin sebagai entitas politik yang sah. Selama bertahun-tahun, Quraisy memosisikan Muhammad sebagai pemberontak dan pengacau. Perjanjian Hudaibiyah mengubah narasi itu secara permanen.
 

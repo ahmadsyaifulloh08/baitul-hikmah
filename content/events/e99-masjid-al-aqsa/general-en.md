@@ -69,7 +69,7 @@ The construction of Al-Aqsa Mosque had very deep spiritual meaning for Muslims b
 > *"Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed."* ﴾1﴿
 > — QS. Al-Isra' (17): 1
 
-This verse shows that the Baitul Maqdis region has been blessed by Allah since ancient times.^8 The construction of a physical mosque at this location was a concrete manifestation of Muslim recognition of the sanctity of a place established by Allah in the Quran.^1
+This verse shows that the Baitul Maqdis region has been blessed by Allah since ancient times.^8 The construction of a physical mosque at this location was a concrete manifestation of Muslim recognition of the sanctity of a place established by Allah in the Quran.
 
 Great scholars such as **Ibn Kathir** and **Al-Qurtubi** emphasized that Al-Masjid al-Aqsa in this verse refers to the entire Haram al-Sharif area, not just a specific mosque building.^2 However, the existence of the mosque's physical structure provides clear focus for Muslims in performing worship and remembrance at this holy place.^5
 

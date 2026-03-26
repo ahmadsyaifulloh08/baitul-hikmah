@@ -55,7 +55,7 @@ Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not r
 > *"And We have already written in the Psalms, after the Reminder, that the earth shall be inherited by My righteous servants. ﴾105﴿"*
 > — QS. Al-Anbiya (21): 105
 
-Al-Baladhuri also records Umar's message to Sa'd before his departure:^2 ^4
+Al-Baladhuri also records Umar's message to Sa'd before his departure: ^4
 
 *"O Sa'd, do not be deceived by the fact that you are called the uncle of the Messenger of Allah. Verily, Allah does not erase evil with evil, but erases evil with good. There is no bond between Allah and anyone except through obedience. "*
 

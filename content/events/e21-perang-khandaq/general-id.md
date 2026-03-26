@@ -70,7 +70,7 @@ Tentang ujian berat yang dihadapi kaum Muslim selama pengepungan:^4
 > *"(Yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika penglihatan menjadi kabur dan hati menyesak sampai ke tenggorokan. ﴾10﴿"*
 > — QS. Al-Ahzab (33): 10
 
-Dan setelah kemenangan, Nabi Muhammad ﷺ bersabda:^1 ^4
+Dan setelah kemenangan, Nabi Muhammad ﷺ bersabda: ^4
 
 > الْآنَ نَغْزُوهُمْ وَلَا يَغْزُونَنَا، نَحْنُ نَسِيرُ إِلَيْهِمْ
 >

@@ -175,7 +175,7 @@ The Battle of Talas teaches several timeless lessons in statecraft, diplomacy, a
 > *"And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy."* ﴾60﴿
 > — QS. Al-Anfal (8): 60
 
-This verse reflects the philosophy applied by the Muslim-Turkic coalition at Talas. They prepared not only military strength in the form of troops and weapons, but also "steeds of war" — in Talas context, this included diplomacy with the Karluk and psychological warfare preparation that ultimately determined victory. "Terrifying the enemy" was achieved not only through battle prowess, but through comprehensive strategic thinking.^1^3
+This verse reflects the philosophy applied by the Muslim-Turkic coalition at Talas. They prepared not only military strength in the form of troops and weapons, but also "steeds of war" — in Talas context, this included diplomacy with the Karluk and psychological warfare preparation that ultimately determined victory. "Terrifying the enemy" was achieved not only through battle prowess, but through comprehensive strategic thinking.^3
 
 The Battle of Talas proved that **true victory** in civilizational conflicts comes from a combination of military strength, diplomatic wisdom, cultural inclusivity, and divine guidance. Its legacy transcended immediate military consequences and shaped the course of human civilization for centuries to come.^1
 

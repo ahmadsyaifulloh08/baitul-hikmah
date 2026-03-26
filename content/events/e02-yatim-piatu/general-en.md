@@ -115,7 +115,7 @@ The Prophet Muhammad's experience of orphanhood had a direct impact on Islamic l
 > *"Indeed, those who devour the property of orphans unjustly are only consuming fire into their bellies. "*
 > — QS. An-Nisa (4): 10
 
-The Prophet Muhammad ﷺ himself made care for orphans a marker of faith. Imam al-Bukhari records:^3 ^8
+The Prophet Muhammad ﷺ himself made care for orphans a marker of faith. Imam al-Bukhari records: ^8
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >

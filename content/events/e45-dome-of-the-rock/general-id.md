@@ -9,7 +9,7 @@
 > *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M melalui perjanjian damai yang terkenal dengan sebutan **"Perjanjian Iliya"**.^1 Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium sebagai bentuk penghinaan terhadap warisan Yahudi.^4^5
+Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M melalui perjanjian damai yang terkenal dengan sebutan **"Perjanjian Iliya"**. Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium sebagai bentuk penghinaan terhadap warisan Yahudi.^5
 
 Khalifah Umar secara pribadi membersihkan area tersebut dengan jubahnya sendiri dan mendirikan tempat shalat sederhana (*mihrab*) yang menghadap ke Makkah.^2 Tindakan simbolis ini menunjukkan penghormatan Islam terhadap kontinuitas kenabian dan kesucian tempat yang telah diberkahi Allah sejak zaman Ibrahim.^1
 
@@ -107,7 +107,7 @@ Bagian tengah inskripsi berisi ayat-ayat yang secara khusus menyapa Ahli Kitab (
 > *"Wahai Ahli Kitab, janganlah kamu melampaui batas dalam agamamu, dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. Sesungguhnya Isa putra Maryam itu, adalah utusan Allah dan (yang diciptakan dengan) kalimat-Nya yang disampaikan-Nya kepada Maryam, dan (dengan tiupan) roh dari-Nya. Maka berimanlah kamu kepada Allah dan rasul-rasul-Nya dan janganlah kamu mengatakan: "(Tuhan itu) tiga", berhentilah (dari ucapan itu). (Itu) lebih baik bagimu. ﴾171﴿"*
 > — QS. An-Nisa (4): 171
 
-Ayat ini menyampaikan pesan bahwa Islam menghormati Isa (*Yesus*) sebagai nabi yang mulia, namun menolak konsep ketuhanannya.^1 Penyampaian ini dilakukan dengan nada yang santun namun tegas (*"berhentilah. itu lebih baik bagimu"*).^4^5
+Ayat ini menyampaikan pesan bahwa Islam menghormati Isa (*Yesus*) sebagai nabi yang mulia, namun menolak konsep ketuhanannya. Penyampaian ini dilakukan dengan nada yang santun namun tegas (*"berhentilah. itu lebih baik bagimu"*).^5
 
 ### Teknik Kaligrafi dan Estetika
 
@@ -203,7 +203,7 @@ Kubah emas yang berkilauan hingga kini menjadi simbol Yerusalem yang dikenal sec
 > *"Sesungguhnya pada kisah-kisah mereka itu terdapat pengajaran bagi orang-orang yang mempunyai akal. Al Quran itu bukanlah cerita yang dibuat-buat, akan tetapi membenarkan (kitab-kitab) yang sebelumnya dan menjelaskan segala sesuatu, dan sebagai petunjuk dan rahmat bagi kaum yang beriman. ﴾111﴿"*
 > — QS. Yusuf (12): 111
 
-Ayat ini mengingatkan bahwa sejarah pembangunan Dome of the Rock memberikan pelajaran berharga tentang bagaimana iman, visi, dan dedikasi dapat menciptakan warisan yang abadi bagi peradaban manusia.^4^5
+Ayat ini mengingatkan bahwa sejarah pembangunan Dome of the Rock memberikan pelajaran berharga tentang bagaimana iman, visi, dan dedikasi dapat menciptakan warisan yang abadi bagi peradaban manusia.^5
 
 ---
 

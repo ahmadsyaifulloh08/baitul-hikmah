@@ -9,7 +9,7 @@ After three years of secret da'wah, the number of Muslims in Mecca had reached a
 > *"And warn your closest kindred. ﴾214﴿"*
 > — QS. Al-Shu'ara' (26): 214
 
-This verse marked the transition from *sirriyyah* (secret) da'wah to *jahriyyah* (open) da'wah. Mecca at this time was still entirely dominated by the Quraysh elite whose livelihood depended on the idol-worship system. An open call to monotheism meant challenging the entire social, economic, and religious order that had been established for centuries.^2 ^3
+This verse marked the transition from *sirriyyah* (secret) da'wah to *jahriyyah* (open) da'wah. Mecca at this time was still entirely dominated by the Quraysh elite whose livelihood depended on the idol-worship system. An open call to monotheism meant challenging the entire social, economic, and religious order that had been established for centuries. ^3
 
 ## The Events
 

@@ -204,7 +204,7 @@ This lesson is relevant for **contemporary contexts**: whether in business, dipl
 > *"And victory is not but from Allah, the Exalted in Might, the Wise."* ﴾126﴿
 > — QS. Ali Imran (3): 126
 
-Al-Kamil's victory in defending Egypt from the Fifth Crusade invasion demonstrates that true victory comes through a combination of **faith**, **strategic wisdom**, and **fair treatment** of defeated enemies.^2
+Al-Kamil's victory in defending Egypt from the Fifth Crusade invasion demonstrates that true victory comes through a combination of **faith**, **strategic wisdom**, and **fair treatment** of defeated enemies.^1
 
 ---
 

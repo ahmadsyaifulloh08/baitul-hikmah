@@ -30,7 +30,7 @@ Imam al-Bukhari meriwayatkan bahwa Nabi Muhammad ﷺ keluar melewati mereka tanp
 > *"Dan Kami jadikan di hadapan mereka dinding dan di belakang mereka dinding (pula), lalu Kami tutup mata mereka sehingga mereka tidak dapat melihat. ﴾9﴿"*
 > — QS. Yasin (36): 9
 
-Beliau langsung menuju rumah **Abu Bakr al-Shiddiq**, sahabat terdekatnya, yang telah mempersiapkan dua unta untuk perjalanan ini sejak berbulan-bulan.^3 ^4
+Beliau langsung menuju rumah **Abu Bakr al-Shiddiq**, sahabat terdekatnya, yang telah mempersiapkan dua unta untuk perjalanan ini sejak berbulan-bulan. ^4
 
 ## Tiga Hari di Gua Tsur
 
@@ -49,7 +49,7 @@ Al-Quran mengabadikan momen ini^4:
 > *"Jika kamu tidak menolongnya (Muhammad), maka sesungguhnya Allah telah menolongnya, (yaitu) ketika orang-orang kafir mengusirnya (dari Makkah), sedang dia salah seorang dari dua orang ketika keduanya berada dalam gua, ketika dia berkata kepada sahabatnya: 'Janganlah engkau bersedih, sesungguhnya Allah bersama kita.' ﴾40﴿"*
 > — QS. Al-Tawbah (9): 40
 
-Selama tiga hari di gua, **Abdullah bin Abu Bakr** — putra Abu Bakr yang masih muda — bertugas sebagai mata-mata, menghabiskan malam di gua lalu kembali ke Makkah di pagi hari untuk mengumpulkan berita.^3 **Asma' binti Abu Bakr**, putri Abu Bakr, membawa makanan setiap malam, dan untuk itu ia harus merobek ikat pinggangnya menjadi dua untuk mengikat bekal — karenanya ia dijuluki *Dzat al-Nithaqain* (Pemilik Dua Ikat Pinggang).^2 ^3 **Amir bin Fuhairah**, budak Abu Bakr yang telah dimerdekakan, menggiring kambing melewati jejak mereka untuk menghapus bekas-bekas kaki.^3 ^4
+Selama tiga hari di gua, **Abdullah bin Abu Bakr** — putra Abu Bakr yang masih muda — bertugas sebagai mata-mata, menghabiskan malam di gua lalu kembali ke Makkah di pagi hari untuk mengumpulkan berita. **Asma' binti Abu Bakr**, putri Abu Bakr, membawa makanan setiap malam, dan untuk itu ia harus merobek ikat pinggangnya menjadi dua untuk mengikat bekal — karenanya ia dijuluki *Dzat al-Nithaqain* (Pemilik Dua Ikat Pinggang). **Amir bin Fuhairah**, budak Abu Bakr yang telah dimerdekakan, menggiring kambing melewati jejak mereka untuk menghapus bekas-bekas kaki. ^4
 
 ## Perjalanan ke Madinah: Kisah Suraqah bin Malik
 

@@ -11,7 +11,7 @@ Al-Quran mengabadikan hubungan sakral ini^4:
 > *"Maha Suci Allah yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsha yang telah Kami berkahi sekelilingnya. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Pada tahun 637 M, Yerusalem berada di bawah kekuasaan Bizantium (Romawi Timur). Kota ini telah dikuasai Bizantium selama berabad-abad, meskipun sempat jatuh ke tangan Persia Sasanid pada tahun 614 M sebelum direbut kembali oleh Kaisar Heraklius pada tahun 629 M. Penduduknya mayoritas Kristen, dengan komunitas Yahudi yang sempat diusir oleh Romawi dan hanya diizinkan kembali secara terbatas.^1 ^4
+Pada tahun 637 M, Yerusalem berada di bawah kekuasaan Bizantium (Romawi Timur). Kota ini telah dikuasai Bizantium selama berabad-abad, meskipun sempat jatuh ke tangan Persia Sasanid pada tahun 614 M sebelum direbut kembali oleh Kaisar Heraklius pada tahun 629 M. Penduduknya mayoritas Kristen, dengan komunitas Yahudi yang sempat diusir oleh Romawi dan hanya diizinkan kembali secara terbatas. ^4
 
 Setelah kemenangan muslim di Pertempuran Yarmuk (636 M) yang menghancurkan kekuatan utama Bizantium di Syam, satu per satu kota-kota besar jatuh ke tangan pasukan Islam. **Abu Ubaidah bin al-Jarrah**, panglima tertinggi pasukan muslim di Syam, mengepung Yerusalem. Al-Tabari dan al-Baladhuri mencatat bahwa pengepungan berlangsung selama beberapa bulan tanpa kekerasan besar — pasukan muslim tidak menyerang kota secara langsung, melainkan menunggu dengan sabar.^1 ^2
 

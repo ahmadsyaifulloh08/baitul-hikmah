@@ -24,7 +24,7 @@ Al-Quran menyebut tiga berhala terakhir secara eksplisit^4:
 > *"Maka apakah kalian memperhatikan al-Lata dan al-Uzza, ﴾19﴿ dan Manat yang ketiga, yang lainnya itu? ﴾20﴿"*
 > — QS. An-Najm (53): 19-20
 
-Selain patung, di dalam Ka'bah juga terdapat lukisan-lukisan. Ibn Hisham meriwayatkan bahwa di antara lukisan di dalam Ka'bah terdapat gambar Nabi Ibrahim dan Ismail yang sedang mengundi dengan anak panah — sebuah distorsi sejarah yang menggambarkan dua nabi tauhid seolah-olah terlibat dalam praktik jahiliah.^1 Juga terdapat lukisan Maryam dan Isa *'alaihimas salam*.^4
+Selain patung, di dalam Ka'bah juga terdapat lukisan-lukisan. Ibn Hisham meriwayatkan bahwa di antara lukisan di dalam Ka'bah terdapat gambar Nabi Ibrahim dan Ismail yang sedang mengundi dengan anak panah — sebuah distorsi sejarah yang menggambarkan dua nabi tauhid seolah-olah terlibat dalam praktik jahiliah. Juga terdapat lukisan Maryam dan Isa *'alaihimas salam*.^4
 
 ## Peristiwa: Hari Pemurnian
 
@@ -44,7 +44,7 @@ Seraya menunjuk dan menjatuhkan berhala-berhala itu, beliau membaca dua ayat al-
 > *"Katakanlah: Kebenaran telah datang, dan kebatilan tidak akan mampu memulai sesuatu dan tidak pula mengulanginya. ﴾49﴿"*
 > — QS. Saba (34): 49
 
-Setelah thawaf, Rasulullah ﷺ memerintahkan agar seluruh 360 berhala dikeluarkan dari Ka'bah dan dihancurkan.^1 ^3 Berhala-berhala yang terbuat dari batu dihancurkan, yang terbuat dari kayu dibakar. Hubal — berhala terbesar dan paling diagungkan oleh Quraisy — dipecahkan di depan pintu Ka'bah.^4
+Setelah thawaf, Rasulullah ﷺ memerintahkan agar seluruh 360 berhala dikeluarkan dari Ka'bah dan dihancurkan. Berhala-berhala yang terbuat dari batu dihancurkan, yang terbuat dari kayu dibakar. Hubal — berhala terbesar dan paling diagungkan oleh Quraisy — dipecahkan di depan pintu Ka'bah.^4
 
 Ibn Hisham meriwayatkan bahwa ketika Rasulullah ﷺ masuk ke dalam Ka'bah, beliau menemukan lukisan-lukisan di dindingnya. Beliau memerintahkan agar semua lukisan dihapus, kecuali — menurut satu riwayat dari al-Azraqi dalam *Akhbar Makkah* — beliau melindungi lukisan Ibrahim dan Maryam dengan tangannya sebelum akhirnya memerintahkan penghapusan semua gambar tanpa kecuali.^1 Ini menunjukkan bahwa penghancuran berhala bukan kebencian terhadap seni, melainkan pemurnian dari segala bentuk perantara dalam ibadah kepada Allah.
 

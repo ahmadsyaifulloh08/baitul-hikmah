@@ -55,7 +55,7 @@ Ketika Sa'ad bin Abi Waqqash — yang saat itu sedang sakit bisul sehingga tidak
 > *"Dan sungguh, telah Kami tulis di dalam Zabur sesudah (tertulis dalam) al-Lauh al-Mahfuzh, bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh. ﴾105﴿"*
 > — QS. Al-Anbiya (21): 105
 
-Al-Baladhuri juga mencatat pesan Umar kepada Sa'ad sebelum keberangkatan:^2 ^4
+Al-Baladhuri juga mencatat pesan Umar kepada Sa'ad sebelum keberangkatan: ^4
 
 *"Wahai Sa'ad, janganlah engkau terpedaya oleh kenyataan bahwa engkau disebut paman Rasulullah. Sesungguhnya Allah tidak menghapus kejahatan dengan kejahatan, tetapi menghapus kejahatan dengan kebaikan. Sesungguhnya tidak ada hubungan antara Allah dan siapa pun kecuali melalui ketaatan. "*
 

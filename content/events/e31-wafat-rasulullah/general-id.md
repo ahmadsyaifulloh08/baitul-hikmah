@@ -127,7 +127,7 @@ Lalu Abu Bakr membacakan ayat al-Quran:
 > *"Muhammad itu tidak lain hanyalah seorang rasul; sesungguhnya telah berlalu sebelumnya beberapa orang rasul. Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang?"*
 > — QS. Ali Imran (3): 144
 
-Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya."*^1 ^4
+Al-Bukhari meriwayatkan bahwa ketika Abu Bakr membacakan ayat ini, orang-orang merasa seolah-olah mereka baru pertama kali mendengarnya — padahal mereka sudah menghafalnya bertahun-tahun. Umar jatuh terduduk — kakinya tidak mampu lagi menopangnya. Ia berkata: *"Demi Allah, seolah aku baru mendengar ayat ini ketika Abu Bakr membacakannya."* ^4
 
 ### Duka yang Melanda Madinah
 

@@ -4,7 +4,7 @@
 
 Setelah *'Am al-Huzn* (Tahun Kesedihan) dan penolakan di Tha'if, **Nabi Muhammad SAW** menghadapi kenyataan bahwa dakwah di Makkah telah mencapai titik jenuh. Perlindungan kesukuan telah hilang dengan wafatnya **Abu Thalib**, dan **Abu Lahab** yang menggantikannya sebagai kepala Bani Hasyim justru mencabut perlindungan terhadap Nabi. Situasi di Makkah semakin tidak aman bagi beliau dan para pengikutnya.^2
 
-Dalam kondisi ini, Nabi Muhammad SAW mulai mengubah strategi dakwahnya. Beliau memanfaatkan musim haji — ketika orang-orang dari seluruh Jazirah Arab berdatangan ke Makkah — untuk menawarkan Islam kepada berbagai delegasi suku. Beliau mendatangi kemah-kemah para jamaah haji, memperkenalkan diri, membacakan Al-Qur'an, dan mengajak mereka beriman. Sebagian besar menolak, bahkan mengusir beliau. Namun, beliau tidak pernah berhenti mencoba.^1 ^7
+Dalam kondisi ini, Nabi Muhammad SAW mulai mengubah strategi dakwahnya. Beliau memanfaatkan musim haji — ketika orang-orang dari seluruh Jazirah Arab berdatangan ke Makkah — untuk menawarkan Islam kepada berbagai delegasi suku. Beliau mendatangi kemah-kemah para jamaah haji, memperkenalkan diri, membacakan Al-Qur'an, dan mengajak mereka beriman. Sebagian besar menolak, bahkan mengusir beliau. Namun, beliau tidak pernah berhenti mencoba.^1 ^6
 
 Kota **Yatsrib** (yang kelak menjadi Madinah) memiliki kondisi sosial-politik yang unik. Kota ini dihuni oleh dua suku Arab besar — **Aus** dan **Khazraj** — yang telah bermusuhan selama beberapa generasi. Perang terakhir mereka, Perang Bu'ats (617 M), telah menguras kedua belah pihak dan menciptakan kerinduan akan perdamaian dan kepemimpinan yang bisa menyatukan mereka.^3
 
@@ -85,7 +85,7 @@ Terkait dengan pembukaan jalan dakwah melalui orang-orang baru, Allah SWT berfir
 > *"Kalau sekiranya Allah mengetahui kebaikan ada pada mereka, tentu Allah menjadikan mereka dapat mendengar. Dan kalau Allah menjadikan mereka dapat mendengar, niscaya mereka pasti berpaling, dan mereka memalingkan diri. ﴾23﴿"*
 > — QS. Al-Anfal (8): 23
 
-Ayat ini, meskipun konteks turunnya berkaitan dengan peristiwa Badar, memiliki relevansi dengan dinamika dakwah di Makkah — di mana banyak penduduk Makkah yang mendengar dakwah namun berpaling, sementara orang-orang Yatsrib yang baru mendengar justru menerimanya dengan sepenuh hati.^6 ^7
+Ayat ini, meskipun konteks turunnya berkaitan dengan peristiwa Badar, memiliki relevansi dengan dinamika dakwah di Makkah — di mana banyak penduduk Makkah yang mendengar dakwah namun berpaling, sementara orang-orang Yatsrib yang baru mendengar justru menerimanya dengan sepenuh hati. ^6
 
 ## Analisis dan Hikmah
 
@@ -122,6 +122,4 @@ Bai'at Aqabah Pertama adalah benih yang kelak tumbuh menjadi peristiwa Hijrah (6
 3. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 3 (Beirut: Dar Shadir, 1968).
 5. Al-Bukhari, *Shahih al-Bukhari*.
-6. Al-Thabari, *Tafsir al-Thabari* (Kairo: Dar al-Ma'arif, 1954).
-
-7. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.
+6. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.

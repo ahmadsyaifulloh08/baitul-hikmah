@@ -127,7 +127,7 @@ Then Abu Bakr recited the Quranic verse:
 > *"Muhammad is not but a messenger. Other messengers have passed before him. So if he were to die or be killed, would you turn back on your heels?"*
 > — QS. Ali Imran (3): 144
 
-Al-Bukhari narrates that when Abu Bakr recited this verse, the people felt as though they were hearing it for the first time — even though they had memorized it years ago. Umar collapsed to the ground — his legs could no longer support him. He said: *"By Allah, it was as though I had never heard this verse until Abu Bakr recited it."*^1 ^4
+Al-Bukhari narrates that when Abu Bakr recited this verse, the people felt as though they were hearing it for the first time — even though they had memorized it years ago. Umar collapsed to the ground — his legs could no longer support him. He said: *"By Allah, it was as though I had never heard this verse until Abu Bakr recited it."* ^4
 
 ### Grief Engulfing Madinah
 

@@ -58,23 +58,21 @@ Unfortunately, the truce only lasted until 1244 CE when the **Khwarezmians** rec
 
 This story teaches that **political wisdom is sometimes nobler than military heroism**.^3 Frederick and al-Kamil showed that true leaders are those who prioritize people's welfare over personal prestige.
 
-The Treaty of Jaffa also proved that **mutual respect** can overcome religious and cultural differences.^1 When both sides respect each other's interests, win-win solutions become possible.^6
+The Treaty of Jaffa also proved that **mutual respect** can overcome religious and cultural differences.^1 When both sides respect each other's interests, win-win solutions become possible.^5
 
 > لَّا يَنْهَاكُمُ اللَّهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَارِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوا إِلَيْهِمْ ﴿٨﴾
 >
 > *"Allah does not forbid you from being kind and just to those who have not fought you because of religion and have not driven you from your homes."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
-The Treaty of Jaffa between Frederick II and al-Kamil proved that peaceful diplomacy between civilizations is possible when both sides show mutual respect.^4.^5
+The Treaty of Jaffa between Frederick II and al-Kamil proved that peaceful diplomacy between civilizations is possible when both sides show mutual respect.^4.
 
 ---
 
 ## Bibliography
 
-
 1. Abulafia, David, *Frederick II: A Medieval Emperor*.
 2. Ibn Wasil, Jamal al-Din, *Mufarrij al-Kurub fi Akhbar Bani Ayyub*.
 3. Van Cleve, Thomas Curtis, *The Emperor Frederick II of Hohenstaufen*.
 4. Al-Qur'an al-Karim. QS. Al-Mumtahanah (60): 8.
-5. Abulafia, David, *Frederick II: A Medieval Emperor*, London: Allen Lane, 1988.
-6. Riley-Smith, Jonathan, *The Crusades: A History*, London: Bloomsbury, 2014.
+5. Riley-Smith, Jonathan, *The Crusades: A History*, London: Bloomsbury, 2014.

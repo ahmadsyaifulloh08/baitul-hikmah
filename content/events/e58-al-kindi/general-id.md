@@ -238,7 +238,7 @@ Dalam era modern ketika spesialisasi akademik semakin sempit dan fragmentasi pen
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."* ﴾85﴾
 > — QS. Al-Isra (17): 85
 
-Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^28^39
+Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^39
 
 ---
 

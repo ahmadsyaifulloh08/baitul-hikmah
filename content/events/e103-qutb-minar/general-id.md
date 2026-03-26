@@ -109,7 +109,7 @@ Kebijaksanaan Aibak dalam mempertahankan Tiang Besi sambil membangun masjid di s
 > *"Dan kalau Allah menghendaki, niscaya Dia menjadikan kamu satu umat (saja), tetapi Allah hendak menguji kamu terhadap pemberian-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan. Hanya kepada Allah-lah kembali kamu semuanya, lalu diberitahukan-Nya kepadamu apa yang telah kamu perselisihkan itu."* ﴾48﴿
 > — QS. Al-Maidah (5): 48
 
-Ayat ini menggambarkan hikmah di balik keberagaman budaya dan peradaban: perbedaan bukan untuk dimusnahkan, tetapi untuk mendorong kompetisi dalam kebaikan dan inovasi yang bermanfaat bagi seluruh umat manusia.^2
+Ayat ini menggambarkan hikmah di balik keberagaman budaya dan peradaban: perbedaan bukan untuk dimusnahkan, tetapi untuk mendorong kompetisi dalam kebaikan dan inovasi yang bermanfaat bagi seluruh umat manusia.^1
 
 ---
 

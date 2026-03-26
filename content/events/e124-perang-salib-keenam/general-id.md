@@ -184,7 +184,7 @@ Perjanjian Jaffa membuktikan bahwa **solusi diplomatik** dapat **lebih berkelanj
 > *"Dan jika Tuhanmu menghendaki, tentu Dia menjadikan manusia umat yang satu, tetapi mereka senantiasa berselisih, kecuali orang-orang yang dirahmati Tuhanmu. Dan untuk itulah Allah menciptakan mereka."* ﴾118-119﴿
 > — QS. Hud (11): 118-119
 
-Ayat ini mengingatkan bahwa **perbedaan** di antara manusia adalah **sunnatullah** yang harus diterima dengan **wisdom**, dan bahwa **rahmat** Tuhan dapat mempersatukan mereka yang berbeda melalui **understanding** dan **cooperation** yang mutual.^2
+Ayat ini mengingatkan bahwa **perbedaan** di antara manusia adalah **sunnatullah** yang harus diterima dengan **wisdom**, dan bahwa **rahmat** Tuhan dapat mempersatukan mereka yang berbeda melalui **understanding** dan **cooperation** yang mutual.^1
 
 ---
 

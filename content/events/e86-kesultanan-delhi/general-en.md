@@ -147,7 +147,7 @@ The success of Aibak and his successors also demonstrates the importance of **lo
 > *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you."* ﴾13﴿
 > — QS. Al-Hujurat (49): 13
 
-This verse became the philosophical foundation for the inclusive policies of the Delhi Sultanate that valued ethnic and cultural diversity within the framework of Islamic unity.^6 The Delhi sultans understood that true strength lies in the ability to unite differences, not eliminate them.^1^7
+This verse became the philosophical foundation for the inclusive policies of the Delhi Sultanate that valued ethnic and cultural diversity within the framework of Islamic unity. The Delhi sultans understood that true strength lies in the ability to unite differences, not eliminate them.^7
 
 ---
 

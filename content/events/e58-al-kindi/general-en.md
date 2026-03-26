@@ -238,7 +238,7 @@ In the modern era when academic specialization is increasingly narrow and knowle
 > *"And mankind have not been given of knowledge except a little."* ﴾85﴿
 > — QS. Al-Isra (17): 85
 
-Al-Kindi embodied the humility described in this verse. Despite mastering almost the entire spectrum of knowledge of his time, he always emphasized the limitations of human knowledge and the need to continue learning from all valid sources. This attitude enabled him to become a bridge between different intellectual traditions and create syntheses that enriched human civilization.^28^39
+Al-Kindi embodied the humility described in this verse. Despite mastering almost the entire spectrum of knowledge of his time, he always emphasized the limitations of human knowledge and the need to continue learning from all valid sources. This attitude enabled him to become a bridge between different intellectual traditions and create syntheses that enriched human civilization.^39
 
 ---
 

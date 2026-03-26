@@ -43,7 +43,7 @@ The intellectual vision of Bayt al-Hikmah was rooted in Islamic teachings that m
 > *"And say: 'My Lord, increase me in knowledge.' ﴾114﴿"*
 > — QS. Taha (20): 114
 
-This verse became the unofficial motto of Bayt al-Hikmah and was often quoted in works produced there. Muslim scholars understood the pursuit of knowledge as a form of worship and a way to know the greatness of Allah through the universe.^7 ^8
+This verse became the unofficial motto of Bayt al-Hikmah and was often quoted in works produced there. Muslim scholars understood the pursuit of knowledge as a form of worship and a way to know the greatness of Allah through the universe. ^8
 
 Prophet Muhammad SAW said:
 

@@ -115,7 +115,7 @@ Pengalaman yatim piatu Nabi Muhammad ﷺ memiliki dampak langsung pada syariat I
 > *"Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya. "*
 > — QS. An-Nisa (4): 10)
 
-Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan:^3 ^8
+Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan: ^8
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >

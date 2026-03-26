@@ -17,7 +17,7 @@ Al-Quran sendiri menyebutkan tradisi perjalanan dagang ini^4:
 > *"Karena kebiasaan orang-orang Quraisy, ﴾1﴿ (yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas. ﴾2﴿ Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah), ﴾3﴿ yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa takut. ﴾4﴿"*
 > — QS. Quraisy (106): 1–4
 
-*Rihlat al-syita'* (perjalanan musim dingin) menuju Yaman dan *rihlat al-shaif* (perjalanan musim panas) menuju Syam merupakan dua jalur perdagangan utama yang menjadikan Makkah sebagai pusat perniagaan di Jazirah Arab.^2 ^4
+*Rihlat al-syita'* (perjalanan musim dingin) menuju Yaman dan *rihlat al-shaif* (perjalanan musim panas) menuju Syam merupakan dua jalur perdagangan utama yang menjadikan Makkah sebagai pusat perniagaan di Jazirah Arab. ^4
 
 ## Peristiwa
 

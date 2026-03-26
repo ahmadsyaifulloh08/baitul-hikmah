@@ -57,7 +57,7 @@ Peristiwa pemboikotan memiliki kaitan dengan beberapa dalil penting. Terkait pen
 > *"Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum datang kepadamu (cobaan) seperti (yang dialami) orang-orang terdahulu sebelum kamu? Mereka ditimpa kesengsaraan dan penderitaan serta diguncang (dengan bermacam-macam cobaan). ﴾214﴿"*
 > — QS. Al-Baqarah (2): 214
 
-Terkait dimakan rayapnya piagam pemboikotan, peristiwa ini diriwayatkan oleh Ibn Ishaq melalui jalur sanad yang menunjukkan bahwa Nabi Muhammad SAW menerima kabar tersebut melalui wahyu dan menyampaikannya kepada Abu Thalib sebelum piagam dibuka.^1 Abu Thalib kemudian mendatangi majelis Quraisy dan berkata: "Keponakanku memberitahuku bahwa Allah telah mengirimkan rayap kepada piagam kalian, yang memakan semua isinya kecuali nama Allah. Jika ia benar, hentikanlah apa yang kalian lakukan terhadap kami. Dan jika ia dusta, aku akan menyerahkannya kepada kalian. "^1 ^5
+Terkait dimakan rayapnya piagam pemboikotan, peristiwa ini diriwayatkan oleh Ibn Ishaq melalui jalur sanad yang menunjukkan bahwa Nabi Muhammad SAW menerima kabar tersebut melalui wahyu dan menyampaikannya kepada Abu Thalib sebelum piagam dibuka. Abu Thalib kemudian mendatangi majelis Quraisy dan berkata: "Keponakanku memberitahuku bahwa Allah telah mengirimkan rayap kepada piagam kalian, yang memakan semua isinya kecuali nama Allah. Jika ia benar, hentikanlah apa yang kalian lakukan terhadap kami. Dan jika ia dusta, aku akan menyerahkannya kepada kalian. " ^5
 
 ## Analisis dan Hikmah
 
