@@ -68,7 +68,7 @@ Umrah al-Qada also demonstrated Prophet Muhammad's commitment to agreements. He 
 
 **True honor.** Bilal atop the Ka'bah was a symbol that Islam dismantles hierarchies based on race and social status. The most honored in Allah's sight is the most pious, not the wealthiest or most noble by birth.
 
-**Dawah through example.** Without a single word of direct preaching, the presence of 2,000 strong and disciplined Muslims in Makkah was the most effective dawah. Khalid ibn al-Walid and Amr ibn al-As were moved not by sermons, but by what they saw.
+**Dawah through example.** Without a single word of direct preaching, the presence of 2,000 strong and disciplined Muslims in Makkah was the most effective dawah. Khalid ibn al-Walid and Amr ibn al-As were moved not by sermons, but by what they saw.^3
 
 ---
 
@@ -77,3 +77,4 @@ Umrah al-Qada also demonstrated Prophet Muhammad's commitment to agreements. He 
 1. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah* (The Prophetic Biography). Ed. Mustafa al-Saqqa et al. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955. Vol. 4, Chapter on Umrah al-Qada.
 
 2. **Al-Mubarakfuri, Safi al-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976. Chapter on Umrah al-Qada.
+3. Al-Mubarakfuri, Shafiyyurrahman, *The Sealed Nectar (Al-Rahiq al-Makhtum)*, Riyadh: Dar al-Salam, 1976.

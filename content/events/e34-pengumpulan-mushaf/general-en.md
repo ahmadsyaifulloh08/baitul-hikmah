@@ -105,14 +105,16 @@ Zayd ibn Thabit was only about 22 years old when entrusted with this task. His s
 
 ### The Continuity of Revelation
 
-The compilation of the Quran under Abu Bakr ensured that Allah's revelation would not depend on human lifespans. Memorizers could die, scattered writings could be lost, but by gathering everything into one official *suhuf*, the Quran's continuity was guaranteed. This stands as one of the most crucial moments in the history of human civilization — imagine if this project had never been undertaken, and more memorizers had fallen in subsequent battles.
+The compilation of the Quran under Abu Bakr ensured that Allah's revelation would not depend on human lifespans. Memorizers could die, scattered writings could be lost, but by gathering everything into one official *suhuf*, the Quran's continuity was guaranteed. This stands as one of the most crucial moments in the history of human civilization — imagine if this project had never been undertaken, and more memorizers had fallen in subsequent battles.^3
 
 ### The Greatest Trust
 
-Zayd ibn Thabit was not exaggerating when he said that moving a mountain would have been easier than compiling the Quran. He understood that every letter, every verse, every surah had to be exact — because these were not human words, but the Word of Allah. A single misplaced letter could alter the meaning. This burden of responsibility reveals how seriously the companions took the integrity of divine revelation.
+Zayd ibn Thabit was not exaggerating when he said that moving a mountain would have been easier than compiling the Quran. He understood that every letter, every verse, every surah had to be exact — because these were not human words, but the Word of Allah. A single misplaced letter could alter the meaning. This burden of responsibility reveals how seriously the companions took the integrity of divine revelation.^2
 
 ---
 
 ## Bibliography
 
 1. Al-Qur'an al-Karim. QS. Al-Tawbah (9): 128-129, 128; QS. Al-Hijr (15): 9.
+2. Al-Suyuti, Jalal al-Din, *Al-Itqan fi Ulum al-Quran*, Cairo: Dar al-Turath, 1967.
+3. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 6, Beirut: Dar Ihya' al-Turath, 1988.

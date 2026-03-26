@@ -76,7 +76,7 @@ The conquest occurred during a period when the Islamic world was experiencing va
 
 The conquest of Constantinople teaches several important lessons:
 
-**Strategic patience**: Mehmed waited and prepared carefully before attempting conquest. **Technological innovation**: Adoption of new military technology was crucial for success. **Religious tolerance**: Treatment of conquered populations with relative tolerance helped consolidate rule. **Cultural synthesis**: The ability to combine Islamic principles with existing traditions created lasting civilization^4.
+**Strategic patience**: Mehmed waited and prepared carefully before attempting conquest. **Technological innovation**: Adoption of new military technology was crucial for success. **Religious tolerance**: Treatment of conquered populations with relative tolerance helped consolidate rule. **Cultural synthesis**: The ability to combine Islamic principles with existing traditions created lasting civilization.^4
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
 >

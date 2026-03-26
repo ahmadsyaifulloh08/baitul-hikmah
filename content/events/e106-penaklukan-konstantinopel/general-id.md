@@ -76,7 +76,7 @@ Penaklukan terjadi pada periode ketika dunia Islam mengalami berbagai tantangan.
 
 Penaklukan Konstantinopel mengajarkan beberapa pelajaran penting:
 
-**Kesabaran strategis**: Mehmed menunggu dan mempersiapkan dengan hati-hati sebelum mencoba penaklukan. **Inovasi teknologi**: Adopsi teknologi militer baru sangat krusial untuk keberhasilan. **Toleransi agama**: Perlakuan terhadap populasi yang ditaklukkan dengan toleransi relatif membantu mengonsolidasikan pemerintahan. **Sintesis budaya**: Kemampuan untuk menggabungkan prinsip-prinsip Islam dengan tradisi yang ada menciptakan peradaban yang berkelanjutan^4.
+**Kesabaran strategis**: Mehmed menunggu dan mempersiapkan dengan hati-hati sebelum mencoba penaklukan. **Inovasi teknologi**: Adopsi teknologi militer baru sangat krusial untuk keberhasilan. **Toleransi agama**: Perlakuan terhadap populasi yang ditaklukkan dengan toleransi relatif membantu mengonsolidasikan pemerintahan. **Sintesis budaya**: Kemampuan untuk menggabungkan prinsip-prinsip Islam dengan tradisi yang ada menciptakan peradaban yang berkelanjutan.^4
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
 >

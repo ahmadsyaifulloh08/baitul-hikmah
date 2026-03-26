@@ -146,7 +146,7 @@ Samarra's failure as a permanent capital provides lessons about the importance o
 
 ### Heritage as Civilizational Identity
 
-The Samarra Mosque and Malwiya Tower remain important symbols of Islamic civilization's glory. Preserving this architectural heritage is not only an archaeological responsibility, but also an obligation in maintaining civilizational identity for future generations.^43
+The Samarra Mosque and Malwiya Tower remain important symbols of Islamic civilization's glory. Preserving this architectural heritage is not only an archaeological responsibility, but also an obligation in maintaining civilizational identity for future generations.^43.^44
 
 ---
 
@@ -195,3 +195,4 @@ The Samarra Mosque and Malwiya Tower remain important symbols of Islamic civiliz
 41. Kostof, Spiro, *The City Shaped*, London: Thames & Hudson, 1991.
 42. Benevolo, Leonardo, *The History of the City*, Cambridge: MIT Press, 1980.
 43. Lowenthal, David, *The Heritage Crusade and the Spoils of History*, Cambridge: Cambridge University Press, 1998.
+44. Creswell, K.A.C., *Early Muslim Architecture*, Oxford: Clarendon Press, 1958.

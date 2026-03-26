@@ -146,7 +146,7 @@ Kegagalan Samarra sebagai ibukota permanen memberikan pelajaran tentang pentingn
 
 ### Warisan Sebagai Identitas Peradaban
 
-Masjid Samarra dan Menara Malwiya tetap menjadi simbol penting kejayaan peradaban Islam. Pelestarian warisan arsitektur ini bukan hanya tanggung jawab arkeologis, tetapi juga kewajiban dalam menjaga identitas peradaban untuk generasi mendatang.^1
+Masjid Samarra dan Menara Malwiya tetap menjadi simbol penting kejayaan peradaban Islam. Pelestarian warisan arsitektur ini bukan hanya tanggung jawab arkeologis, tetapi juga kewajiban dalam menjaga identitas peradaban untuk generasi mendatang.^1.^3
 
 ---
 
@@ -154,3 +154,4 @@ Masjid Samarra dan Menara Malwiya tetap menjadi simbol penting kejayaan peradaba
 
 1. Al-Tabari, *Tarikh al-Rusul wa al-Muluk*, 15 vols., Leiden: Brill, 1879-1901.
 2. Finster, Barbara, "Die Mosaiken der Umayyadenmoschee von Damaskus", *Kunst des Orients*, 7/2 (1970-71): 83-141.
+3. Creswell, K.A.C., *Early Muslim Architecture*, Oxford: Clarendon Press, 1958.
