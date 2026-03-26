@@ -260,6 +260,17 @@ CHECKLIST SITASI:
 - Daftar pustaka HANYA dari markdown content (bukan dari JSON `event.sources`)
 - **Setiap paragraf fakta historis HARUS punya minimal 1 sitasi** — paragraf tanpa sitasi = klaim tanpa sumber
 
+### ⚠️ Posisi Sitasi (BLOCKER)
+
+Sitasi HARUS setelah tanda baca akhir kalimat, BUKAN sebelumnya:
+
+- ✅ `kalimat selesai.^1` — titik LALU sitasi
+- ✅ `kalimat selesai.^1 ^2` — multiple citation setelah titik
+- ❌ `kalimat selesai^1.` — sitasi LALU titik = **REJECT**
+- ❌ `kalimat selesai^1` — tanpa titik di akhir kalimat = **perlu diperbaiki**
+
+**Pola regex untuk detect violation:** `[^.\s>]\^\d+\.(\s|$)` — jika match > 0, file REJECT.
+
 ---
 
 ## 4. Children Mode — Slideshow Format
@@ -480,6 +491,67 @@ Format referensi surah HARUS konsisten:
 ---
 
 ## 10. QA Automation
+
+### ⛔ QA Gate — WAJIB Sebelum Push (BLOCKER)
+
+**Setiap push ke develop/main HARUS didahului QA check.** Tidak ada exception.
+
+**Kapan QA WAJIB dijalankan:**
+- Setelah content generation (batch baru)
+- Setelah expand/edit artikel
+- Setelah fix script (V6 fix, renumber, dll)
+- Setelah sub-agent selesai kerja — **SELALU audit hasilnya sebelum push**
+
+**QA gate flow:**
+```
+Sub-agent selesai → Main agent jalankan QA → PASS → push
+                                            → FAIL → fix → re-QA → PASS → push
+```
+
+**Jika skip QA → artikel bermasalah masuk develop → harus revert. JANGAN skip.**
+
+### Sub-Agent Brief — WAJIB Embed V1-V9 (Lesson Learned 2026-03-26)
+
+Setiap brief untuk sub-agent Researcher/Editor **HARUS menyertakan ringkasan V1-V9 rules** dalam brief-nya. Sub-agent tidak baca docs sendiri secara reliable — rules harus di-embed langsung.
+
+**Minimum yang harus ada di brief:**
+```
+RULES WAJIB:
+- V1: Setiap entry pustaka HARUS di-cite di body (tidak boleh ada pustaka hantu)
+- V2: Setiap ^N di body HARUS punya entry di pustaka (tidak boleh orphan)
+- V3: Tidak boleh duplikat pustaka (1 sumber = 1 entry, reuse nomor)
+- V4: Min 3 pustaka consolidated
+- V5: Sitasi mulai dari ^1 (tidak boleh ^0)
+- V6: Jika ada QS. → Al-Quran al-Karim WAJIB di pustaka, format lengkap
+- V7: Paragraf setelah blockquote ayat HARUS cite ke entry Al-Quran
+- V8: Ayat harus Tingkatan 1/2, TIDAK BOLEH Tingkatan 3 (generik)
+- V9: Satu ayat max 3 events
+- FORMAT: .^N (titik LALU sitasi), BUKAN ^N.
+- BAHASA: general-id.md 100% Indonesia, general-en.md 100% English
+```
+
+**Tanpa embed ini → sub-agent PASTI melanggar** (terbukti dari 11 issue hari ini).
+
+### Post-Expand/Edit QA — MANDATORY (Lesson Learned 2026-03-26)
+
+Setelah expand artikel atau edit besar (>50% perubahan), **WAJIB jalankan audit berikut:**
+
+1. **Citation bijection**: V1 (unused bib) + V2 (orphan refs) — via `scripts/fix-v1-v2-citations.py`
+2. **Language purity**: cek English contamination di general-id.md
+3. **Quran citation**: V7 (explanation cite Al-Quran) — via script
+4. **Duplicate pustaka**: V3 — via dedup script
+5. **Card sync**: jalankan `scripts/fix-card-quran-refs.py`
+
+**Urutan fix jika ada masalah:**
+```
+1. Fix V1+V2 (bijection) → renumber
+2. Fix V3 (dedup) → renumber
+3. Fix V7 (Quran citation)
+4. Fix language
+5. Sync card
+6. Rebuild content JSON
+7. Push
+```
 
 ### Script: `scripts/qa-content.py`
 

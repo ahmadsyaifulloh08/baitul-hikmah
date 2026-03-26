@@ -542,8 +542,10 @@ STEP 1: AUTHOR (Researcher/sub-agent)
       ├── general-id.md, general-en.md
       └── children-id.md, children-en.md
   └── Penulis WAJIB self-check sitasi sebelum submit (lihat Section 15.3)
+  └── ⚠️ Sub-agent brief HARUS embed V1-V9 rules langsung (lihat content-style-guide.md Section 10)
 
-STEP 2: QA CONTENT REVIEW (automated + agent) ← NEW
+STEP 2: QA CONTENT REVIEW — MANDATORY GATE (tidak boleh skip)
+  └── ⛔ SETIAP push HARUS didahului QA. Berlaku untuk: content baru, expand, edit, fix script.
   └── Main agent jalankan `python3 scripts/qa-content.py` pada batch yang baru masuk
   └── Script mengecek 5 violation types (V1-V5) per file:
       V1: Pustaka tanpa sitasi (entry #N tanpa ^N di body)
