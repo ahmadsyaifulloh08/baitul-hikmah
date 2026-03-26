@@ -18,7 +18,7 @@ The Prophet ﷺ ordered the Muslims to prepare, but kept the destination of the 
 
 A notable incident occurred when **Hatib ibn Abi Balta'ah**, a companion who had fought at Badr, sent a secret letter to Makkah revealing the Prophet's plans. Hatib did this not out of hypocrisy, but because he had family in Makkah without tribal protection. Allah revealed his action, and the Prophet ﷺ dispatched **Ali ibn Abi Talib** and **al-Zubayr ibn al-Awwam** to intercept the woman courier carrying the letter.^3
 
-Imam al-Bukhari records:
+Imam al-Bukhari records^5:
 
 > يَا رَسُولَ اللَّهِ لَا تَعْجَلْ عَلَيَّ إِنِّي كُنْتُ امْرَأً مُلْصَقًا فِي قُرَيْشٍ وَلَمْ أَكُنْ مِنْ أَنْفُسِهَا
 >
@@ -113,3 +113,4 @@ The Conquest of Makkah permanently transformed the geopolitical map of the Arabi
 3. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 3007 (Hatib's letter), no. 4280-4289 (Conquest of Makkah).
 
 4. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Kitab al-Jihad wa al-Siyar, chapter on Fath Makkah.
+5. Al-Qur'an al-Karim. QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nasr (110): 1-2.^5

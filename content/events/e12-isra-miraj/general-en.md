@@ -75,7 +75,7 @@ The complete narration of these encounters is found in Sahih al-Bukhari:
 
 After passing beyond the seventh heaven, Prophet Muhammad SAW reached *Sidrat al-Muntaha* — the lote tree at the farthest boundary, the frontier between the realm of creation and Divine majesty. Even Jibril AS stopped at this point, saying that he could not proceed further — were he to cross that boundary, his wings would burn.^2 ^1
 
-Allah the Almighty describes Sidrat al-Muntaha in the Qur'an:
+Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^40:
 
 > وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِندَ سِدْرَةِ الْمُنتَهَىٰ ﴿١٤﴾ عِندَهَا جَنَّةُ الْمَأْوَىٰ ﴿١٥﴾ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ ﴿١٦﴾ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ ﴿١٧﴾
 >
@@ -223,3 +223,4 @@ In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to 
 37. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 119.
 38. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 399.
 39. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 137.
+40. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1; QS. al-Najm: 13–17; QS. al-Isra': 1, 1.

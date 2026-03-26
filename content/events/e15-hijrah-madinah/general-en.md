@@ -42,7 +42,7 @@ The most dramatic moment came when the Quraysh trackers reached the mouth of the
 
 *"O Abu Bakr, what do you think of two whose third is Allah? "*^3
 
-The Quran immortalised this moment:
+The Quran immortalised this moment^4:
 
 > إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ﴿٤٠﴾
 >
@@ -102,3 +102,4 @@ The reasoning was profound: the hijrah marked the moment when Islam shifted from
 2. **Al-Mubarakfuri, Safi al-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976.
 
 3. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadiths on the hijrah, the Cave of Thawr, Suraqah ibn Malik, and the arrival in Madinah.
+4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 30; QS. Yasin (36): 9; QS. Al-Tawbah (9): 40.

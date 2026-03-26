@@ -16,7 +16,7 @@ Prophet Muhammad ﷺ dispatched **Dihyah ibn Khalifah al-Kalbi** to deliver a le
 
 *"In the Name of Allah, the Most Gracious, the Most Merciful. From Muhammad, the servant of Allah and His Messenger, to Heraclius, the great one of Rome. Peace be upon those who follow guidance. To proceed: I invite you with the call of Islam. Embrace Islam and you shall be safe, and Allah will give you a double reward. If you turn away, you bear the sin of your subjects... "*
 
-The letter then quoted a Quranic verse:
+The letter then quoted a Quranic verse^4:
 
 > قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ بِهِ شَيْئًا ﴿٦٤﴾
 >
@@ -107,3 +107,4 @@ These letters of invitation contain several important lessons:
 2. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah* (The Prophetic Biography). Ed. Mustafa al-Saqqa et al. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955. Vol. 4, Chapter on the Prophet's Letters to Kings.
 
 3. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Kitab al-Jihad wa al-Siyar, Chapter on the Prophet's Letter to Heraclius.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107.

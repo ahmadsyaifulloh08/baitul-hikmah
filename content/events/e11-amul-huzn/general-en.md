@@ -18,7 +18,7 @@ Abu Talib's relationship with his nephew is one of the most touching narratives 
 
 Ibn Hisham narrated that when Abu Talib fell gravely ill, Prophet Muhammad SAW visited him and earnestly pleaded with his uncle to utter the testimony of faith. At Abu Talib's bedside were also **Abu Jahl** and **Abdullah ibn Abi Umayyah**, who continuously urged Abu Talib to remain upon the religion of his forefathers, Abd al-Muttalib.^6
 
-In Sahih al-Bukhari it is narrated:
+In Sahih al-Bukhari it is narrated^23:
 
 > قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَالِبٍ: قُلْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ. قَالَ: لَوْلاَ أَنْ تُعَيِّرَنِي قُرَيْشٌ يَقُولُونَ إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللَّهُ: إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ
 >
@@ -127,3 +127,4 @@ The Ta'if episode added another layer of suffering atop *'Am al-Huzn*, yet it al
 20. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 131.
 21. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 419–421.
 22. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 135–136.
+23. Al-Qur'an al-Karim. QS. Al-Qasas (28): 56; QS. Al-Duha (93): 6–8.^23

@@ -2,7 +2,7 @@
 
 ## Historical Context: Jerusalem in Islamic Civilization
 
-**Jerusalem** (in Arabic: *al-Quds* or *Bayt al-Maqdis*) holds a special position in Islamic theology as the third holiest city after Makkah and Madinah. It was the destination of Prophet Muhammad's ﷺ night journey (*Isra*) and the point of departure for his ascension (*Mi'raj*) to the heavens, as immortalized in the Quran:
+**Jerusalem** (in Arabic: *al-Quds* or *Bayt al-Maqdis*) holds a special position in Islamic theology as the third holiest city after Makkah and Madinah. It was the destination of Prophet Muhammad's ﷺ night journey (*Isra*) and the point of departure for his ascension (*Mi'raj*) to the heavens, as immortalized in the Quran^4:
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
@@ -68,3 +68,4 @@ The Qubbat al-Sakhrah has stood for over 1,300 years and remains one of the most
 2. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (The History of Prophets and Kings). Beirut: Dar al-Turath, 1387 AH.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (The Beginning and the End). Beirut: Dar al-Fikr, 1986.
+4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1; QS. An-Nisa (4): 171.

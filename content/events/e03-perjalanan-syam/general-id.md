@@ -10,7 +10,7 @@ Ibn Hisham dalam bab mengenai masa kanak-kanak Muhammad meriwayatkan bahwa ketik
 
 Perjalanan dagang ke Syam merupakan tradisi utama bagi suku Quraisy. Makkah, yang terletak di lembah gersang tanpa lahan pertanian, mengandalkan perdagangan sebagai sumber penghidupan utama. Kafilah Quraisy membawa barang-barang dari Yaman dan kawasan selatan — seperti rempah-rempah, kemenyan, dan kulit — untuk diperdagangkan di pasar-pasar Syam. Sebaliknya, mereka membawa pulang barang-barang dari Syam dan Bizantium seperti kain, gandum, dan minyak zaitun.^2
 
-Al-Quran sendiri menyebutkan tradisi perjalanan dagang ini:
+Al-Quran sendiri menyebutkan tradisi perjalanan dagang ini^5^4:
 
 > لِإِيلَافِ قُرَيْشٍ ﴿١﴾ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُمْ مِّن جُوعٍ وَآمَنَهُمْ مِّنْ خَوْفٍ ﴿٤﴾
 >
@@ -101,3 +101,4 @@ Pertemuan antara Muhammad, seorang anak Arab dari Makkah, dengan Bahira, seorang
 3. Al-Tirmidzi, *Sunan al-Tirmidzi*, tahqiq Ahmad Syakir dkk. (Kairo: Musthafa al-Babi al-Halabi, 1975).
 
 4. Al-Quran al-Karim, QS. Quraisy.
+5. Al-Qur'an al-Karim. QS. Quraisy (106): 1–4.

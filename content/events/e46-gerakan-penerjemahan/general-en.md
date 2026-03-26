@@ -4,7 +4,7 @@
 
 As Islam spread across the former territories of the Byzantine and Persian empires, Muslims encountered an extraordinary wealth of knowledge — libraries housing works of Greek philosophy, Roman medicine, Persian astronomy, and Indian mathematics. This heritage had not vanished with the collapse of the old empires; it awaited discovery, translation, and development.^1
 
-The Quran itself urges Muslims to seek knowledge without geographical or ethnic boundaries:
+The Quran itself urges Muslims to seek knowledge without geographical or ethnic boundaries^4:
 
 > اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ﴿١﴾
 >
@@ -77,3 +77,4 @@ The translation movement demonstrates that great civilizations do not grow in is
 2. **Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.** *Uyun al-Anba fi Tabaqat al-Atibba'* (Sources of Information on the Classes of Physicians). Beirut: Dar Maktabat al-Hayah, 1965.
 
 3. **Ibn al-Nadim, Abu al-Faraj Muhammad.** *Al-Fihrist* (The Index). Beirut: Dar al-Ma'rifah, 1978.
+4. Al-Qur'an al-Karim. QS. Al-Alaq (96): 1.

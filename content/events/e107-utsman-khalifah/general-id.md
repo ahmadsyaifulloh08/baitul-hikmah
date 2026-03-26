@@ -14,7 +14,7 @@ Pada hari keempat setelah wafat Umar, **Utsman ibn Affan** dibaiat sebagai khali
 
 Utsman ibn Affan berasal dari Bani Umayyah, salah satu klan paling berpengaruh di Quraisy. Ia termasuk golongan *al-Sabiqun al-Awwalun* — orang-orang yang pertama masuk Islam — dan memeluk Islam melalui ajakan Abu Bakar al-Shiddiq.^2 ^3 Julukan terkenalnya adalah *Dzunnurain* (pemilik dua cahaya), karena ia menikahi dua putri Nabi Muhammad ﷺ: Ruqayyah, lalu setelah Ruqayyah wafat, Ummu Kultsum.^2
 
-Ibn al-Jawzi dalam *Sifat al-Safwa* menggambarkan Utsman sebagai sosok yang lembut, pemalu (*hayaa'*), dermawan luar biasa, dan sangat dekat dengan al-Quran.^3 Nabi Muhammad ﷺ sendiri bersabda tentang sifat malu Utsman:^5
+Ibn al-Jawzi dalam *Sifat al-Safwa* menggambarkan Utsman sebagai sosok yang lembut, pemalu (*hayaa'*), dermawan luar biasa, dan sangat dekat dengan al-Quran.^3 Nabi Muhammad ﷺ sendiri bersabda tentang sifat malu Utsman:^5^8^7
 
 > أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ
 >
@@ -118,3 +118,4 @@ Meskipun akhir hayatnya tragis, warisan Utsman tetap monumental: standardisasi m
 6. **Al-Tirmidzi, Abu Isa Muhammad.** *Al-Jami' al-Kabir* (Sunan al-Tirmidzi). Hadits no. 3701 (sedekah Tabuk). Beirut: Dar al-Gharb al-Islami, 1998.
 
 7. Al-Quran al-Karim, QS. Al-Baqarah.
+8. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 137.

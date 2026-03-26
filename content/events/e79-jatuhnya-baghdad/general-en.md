@@ -88,7 +88,7 @@ With al-Musta'sim's death ended the **Abbasid Caliphate** that had stood for **5
 
 ### Theological Reflection on Decline
 
-Scholars who survived the Baghdad disaster engaged in deep introspection about the theological meaning of this tragedy. They referred to Allah's word:
+Scholars who survived the Baghdad disaster engaged in deep introspection about the theological meaning of this tragedy. They referred to Allah's word^15:
 
 > إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ
 >

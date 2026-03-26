@@ -551,6 +551,7 @@ STEP 2: QA CONTENT REVIEW (automated + agent) ← NEW
       V3: Duplikat pustaka (sumber sama muncul >1x)
       V4: Pustaka >8 atau <3 entries
       V5: Sitasi ^0 (nol)
+      V6: Al-Qur'an tidak di pustaka (ada QS. refs tapi tidak ada entry Al-Qur'an al-Karim di Daftar Pustaka)
   └── Juga cek: section count ID↔EN sync, children slide count match
   └── Output: PASS list + FAIL list per event
 
@@ -568,9 +569,23 @@ STEP 3: SYNC to project
   └── ⚠️ KEDUA direktori harus identik — docs/ = source of truth, project/ = build copy
   └── ⚠️ HANYA file yang PASS QA yang di-sync
 
-STEP 4: SYNC JSON sumber (jika ada perubahan daftar pustaka)
+STEP 4: SYNC JSON sumber / Card Data (WAJIB setiap event baru)
   └── Update events-database.json → event.sources[] harus match markdown Daftar Pustaka
   └── Format JSON: versi ringkas. Format markdown: versi lengkap.
+  └── **Card format** (events-database.json → sources[]):
+      ```json
+      {
+        "id": "ibn-hisham",
+        "title": "Al-Sirah al-Nabawiyyah",
+        "author": "Ibn Hisham",
+        "type": "primary"
+      }
+      ```
+  └── Type values: `primary` (kitab sirah/tarikh), `hadith` (kitab hadits), `quran` (Al-Qur'an al-Karim)
+  └── Al-Qur'an entry format: `{"id": "qs-...", "title": "Al-Quran al-Karim", "author": "QS. [Surah1], [Surah2]", "type": "quran"}`
+  └── **Referensi**: lihat e01 sebagai contoh card data yang lengkap
+  └── Card di-render di halaman event sebagai fallback "📚 Daftar Pustaka" saat markdown content tidak tersedia
+  └── **WAJIB**: setiap event yang punya markdown content JUGA harus punya card data (JSON sources) yang sinkron
 
 STEP 5: BUILD content JSON
   └── cd /workspace/projects/baitul-hikmah

@@ -4,7 +4,7 @@
 
 Yerusalem — yang dalam tradisi Islam disebut *al-Quds* (Yang Suci) atau *Iliya'* (dari nama Romawi *Aelia Capitolina*) — bukanlah kota biasa. Ia adalah kota suci bagi tiga agama besar: Yahudi, Kristen, dan Islam. Bagi umat Islam, Yerusalem memiliki kedudukan istimewa sebagai kiblat pertama sebelum dialihkan ke Ka'bah, dan sebagai tempat Nabi Muhammad ﷺ diangkat ke langit dalam peristiwa *Isra' Mi'raj*.^1 ^2
 
-Al-Quran mengabadikan hubungan sakral ini:
+Al-Quran mengabadikan hubungan sakral ini^5^4:
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
@@ -101,3 +101,4 @@ Al-Tabari mencatat bahwa setelah penaklukan, Umar mengizinkan kaum Yahudi untuk 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Jilid 7. Beirut: Dar al-Fikr, 1986.
 
 4. Al-Quran al-Karim, QS. Al-Isra.
+5. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.

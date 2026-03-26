@@ -4,7 +4,7 @@
 
 The story of **Bilal ibn Rabbah** is one of the most powerful narratives of faith-driven courage and the social revolution brought by Islam. Bilal was a dark-skinned slave of Abyssinian (Ethiopian) descent owned by **Umayyah ibn Khalaf**, one of the Quraysh nobles most fiercely opposed to Islam.^1
 
-In the social structure of pre-Islamic Mecca, slaves occupied the lowest stratum — they were not fully human in any legal sense, but property that could be sold, beaten, or killed without legal consequence. Islam arrived with a message that radically rejected this hierarchy. The earliest Qur'anic verses affirmed that human dignity is determined by piety, not by skin color or social standing.^2
+In the social structure of pre-Islamic Mecca, slaves occupied the lowest stratum — they were not fully human in any legal sense, but property that could be sold, beaten, or killed without legal consequence. Islam arrived with a message that radically rejected this hierarchy. The earliest Qur'anic verses affirmed that human dignity is determined by piety, not by skin color or social standing.^2^6
 
 When Bilal embraced Islam — most likely in the second or third year of prophethood (around 612–613 CE) — he was not merely professing a creed. He was consciously rejecting the entire system that enslaved him, choosing to submit only to Allah. This decision triggered one of the most harrowing episodes of persecution in early Islamic history.^3
 
@@ -96,3 +96,4 @@ The selection of Bilal as the first muezzin was a decision laden with symbolic s
 3. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 3 (Beirut: Dar Sadir, 1968).
 4. Ibn Hajar al-Asqalani, *Al-Isabah fi Tamyiz al-Sahabah*, vol. 1 (Beirut: Dar al-Kutub al-Ilmiyyah, 1995).
 5. Ahmad ibn Hanbal, *Musnad Ahmad*, vol. 5 (Cairo: Mu'assasat Qurtubah, n.d.).
+6. Al-Qur'an al-Karim. QS. Al-Hujurat (49): 13.

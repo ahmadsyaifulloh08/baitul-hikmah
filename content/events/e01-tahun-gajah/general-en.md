@@ -126,8 +126,9 @@ From a trading town in the heart of a barren desert, from an orphan who lost his
 
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
-3. Ibn Kathir, *Tafsir al-Quran al-Azim*, Surah Al-Fil, ed. Sami al-Salamah (Riyadh: Dar Taybah, 1999).
+3. Ibn Kathir, *Tafsir al-Quran al-Azim*, Surah Al-Fil, ed. Sami al-Salamah (Riyadh: Dar Taybah, 1999).^8
 4. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Manaqib (Dar Tawq al-Najah, 2001).
 5. Muslim, *Sahih Muslim*, Kitab al-Siyam.
 6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
 7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraysh (106:1-4).
+8. Al-Qur'an al-Karim. QS. Quraysh (106): 1-4.

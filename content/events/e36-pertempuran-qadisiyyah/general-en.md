@@ -48,7 +48,7 @@ At dawn on the fourth day, a sandstorm blew from the west — striking the Persi
 
 Beyond the words of Rib'i ibn Amir already mentioned, al-Tabari records several important moments:
 
-Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not ride a horse — commanded the battle from a tower, motivating his troops by reciting the words of Allah:^1
+Sa'd ibn Abi Waqqas — who was suffering from boils at the time and could not ride a horse — commanded the battle from a tower, motivating his troops by reciting the words of Allah:^1^4
 
 > وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ ﴿١٠٥﴾
 >
@@ -86,3 +86,4 @@ Qadisiyyah was more than a military victory — it marked the beginning of a civ
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (The Conquest of Lands). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (The Complete History). Vol. 2. Beirut: Dar al-Kitab al-Arabi, 1997.
+4. Al-Qur'an al-Karim. QS. Al-Anbiya (21): 105.^4

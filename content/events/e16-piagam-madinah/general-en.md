@@ -30,7 +30,7 @@ This means *ummah* in the context of the Charter of Madinah operated on two leve
 
 ### The Principle of Religious Freedom
 
-The charter explicitly guaranteed freedom of religion. Each group was entitled to practise its own faith. There was to be no compulsion in matters of belief.^1 ^3 This was a direct implementation of the Quranic principle:
+The charter explicitly guaranteed freedom of religion. Each group was entitled to practise its own faith. There was to be no compulsion in matters of belief.^1 ^3 This was a direct implementation of the Quranic principle^4:
 
 > لَا إِكْرَاهَ فِي الدِّينِ ﴿٢٥٦﴾
 >
@@ -78,3 +78,4 @@ Clause 42 specified that if any dispute arose that could lead to harm, its resol
 2. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Vol. 1. Beirut: Dar Sadir.
 
 3. **Abu Ubayd al-Qasim ibn Sallam.** *Al-Amwal*. Ed. Muhammad Khalil Harras. Cairo: Dar al-Fikr, 1975.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 256.

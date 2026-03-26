@@ -64,7 +64,7 @@ In geography, his work *Kitab Surat al-Ard* ("Book of the Image of the Earth") w
 
 ## Dialogue and Evidence
 
-Al-Khwarizmi's motivation in developing algebra was inseparable from the practical demands of Islamic law, particularly in inheritance distribution problems. The Qur'an provides detailed but complex rules about inheritance distribution:
+Al-Khwarizmi's motivation in developing algebra was inseparable from the practical demands of Islamic law, particularly in inheritance distribution problems. The Qur'an provides detailed but complex rules about inheritance distribution^11:
 
 > يُوصِيكُمُ ٱللَّهُ فِىٓ أَوۡلَٰدِكُمۡ لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِ ﴿١١﴾
 >
@@ -123,3 +123,4 @@ Al-Khwarizmi proved that science knows no geographical, ethnic, or religious bou
 8. Al-Khwarizmi, Muhammad ibn Musa. *Kitab al-Jabr wa al-Muqabalah*, ed. Roshdi Rashed (Paris: Les Belles Lettres, 2007).
 9. Roshdi Rashed. *Al-Khwarizmi: The Beginnings of Algebra* (London: Saqi Books, 2009).
 10. Al-Khwarizmi. *The Algebra of Mohammed Ben Musa*, trans. Frederic Rosen (London, 1831).
+11. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.

@@ -104,7 +104,7 @@ The Negus was a Christian king who protected Muslims from persecution despite th
 
 ### Surah Maryam as a Bridge
 
-Ja'far's choice of Surah Maryam demonstrated great wisdom in da'wah. He selected the part of the Qur'an that had common ground with Christian belief — reverence for Mary and Jesus — enabling the Negus to see a shared source of truth. This was not theological compromise but a communication strategy that built bridges of understanding.^1
+Ja'far's choice of Surah Maryam demonstrated great wisdom in da'wah. He selected the part of the Qur'an that had common ground with Christian belief — reverence for Mary and Jesus — enabling the Negus to see a shared source of truth. This was not theological compromise but a communication strategy that built bridges of understanding.^1^5
 
 ## Bibliography
 
@@ -112,3 +112,4 @@ Ja'far's choice of Surah Maryam demonstrated great wisdom in da'wah. He selected
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum [The Sealed Nectar]* (Riyadh: Dar al-Salam, 1976).
 3. Ahmad ibn Hanbal, *Musnad Ahmad*, vol. 1 (Cairo: Mu'assasat Qurtubah, n.d.).
 4. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
+5. Al-Qur'an al-Karim. QS. Maryam (19): 1–3, 30.

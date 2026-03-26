@@ -18,7 +18,7 @@ Hubungan Abu Thalib dengan keponakannya merupakan salah satu narasi paling menye
 
 Ibn Hisham meriwayatkan bahwa ketika Abu Thalib jatuh sakit keras, Nabi Muhammad SAW mengunjunginya dan memohon dengan sangat agar pamannya mengucapkan kalimat syahadat. Di sisi ranjang Abu Thalib juga hadir **Abu Jahl** dan **Abdullah bin Abi Umayyah** yang terus membujuk Abu Thalib agar tetap pada agama nenek moyangnya, Abdul Muththalib.^1
 
-Dalam Shahih al-Bukhari diriwayatkan:
+Dalam Shahih al-Bukhari diriwayatkan^6:
 
 > قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَالِبٍ: قُلْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ. قَالَ: لَوْلاَ أَنْ تُعَيِّرَنِي قُرَيْشٌ يَقُولُونَ إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللَّهُ: إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ
 >
@@ -111,4 +111,5 @@ Peristiwa Tha'if menambah lapisan penderitaan di atas *'Am al-Huzn*, namun juga 
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, jilid 3 (Beirut: Dar al-Fikr, 1986).
 
-6. Al-Quran al-Karim, QS. Al-Dhuha, QS. Al-Qashash.
+6. Al-Quran al-Karim, QS. Al-Dhuha, QS. Al-Qashash.^7
+7. Al-Qur'an al-Karim. QS. Al-Qashash (28): 56; QS. Al-Dhuha (93): 6–8.

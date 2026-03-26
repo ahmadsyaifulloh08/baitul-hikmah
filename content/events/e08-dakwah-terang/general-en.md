@@ -2,7 +2,7 @@
 
 ## Context
 
-After three years of secret da'wah, the number of Muslims in Mecca had reached approximately forty. The foundation of faith had been laid, the core cadre had been formed, and now the time had come for Allah's command to expand the reach of the mission. The verse descended:^1
+After three years of secret da'wah, the number of Muslims in Mecca had reached approximately forty. The foundation of faith had been laid, the core cadre had been formed, and now the time had come for Allah's command to expand the reach of the mission. The verse descended:^1^4
 
 > وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ ﴿٢١٤﴾
 >
@@ -92,4 +92,5 @@ Abu Lahab's reaction and the revelation of Surah al-Lahab demonstrate that rejec
 
 1. Al-Bukhari, Muhammad ibn Isma'il, *Sahih al-Bukhari* (Damascus: Dar Ibn Kathir, 2002).
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
-3. Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, vol. 4 (Beirut: Dar al-Fikr, 1999).
+3. Ibn Kathir, *Tafsir al-Qur'an al-'Azim*, vol. 4 (Beirut: Dar al-Fikr, 1999).^4
+4. Al-Qur'an al-Karim. QS. Al-Shu'ara' (26): 214; QS. Al-Lahab (111): 1–5.

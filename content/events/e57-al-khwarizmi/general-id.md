@@ -64,7 +64,7 @@ Dalam bidang geografi, karyanya *Kitab Surat al-Ard* ("Buku Peta Bumi") merupaka
 
 ## Dialog dan Dalil
 
-Motivasi al-Khwarizmi dalam mengembangkan aljabar tidak terlepas dari tuntutan praktis hukum Islam, khususnya dalam masalah pembagian warisan. Al-Qur'an memberikan aturan yang detail namun kompleks tentang pembagian harta warisan:
+Motivasi al-Khwarizmi dalam mengembangkan aljabar tidak terlepas dari tuntutan praktis hukum Islam, khususnya dalam masalah pembagian warisan. Al-Qur'an memberikan aturan yang detail namun kompleks tentang pembagian harta warisan^7^6:
 
 > يُوصِيكُمُ ٱللَّهُ فِىٓ أَوۡلَٰدِكُمۡ لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِ ﴿١١﴾
 >
@@ -119,3 +119,4 @@ Al-Khwarizmi membuktikan bahwa ilmu pengetahuan tidak mengenal batas geografis, 
 4. Brahmagupta. *Brahmasphutasiddhanta* — matematika India abad ke-7.
 5. Al-Khwarizmi, Muhammad ibn Musa. *Kitab al-Jabr wa al-Muqabalah*, ed. Roshdi Rashed (Paris: Les Belles Lettres, 2007).
 6. Al-Quran al-Karim, QS. an-Nisa.
+7. Al-Qur'an al-Karim. QS. an-Nisa (4): 11.

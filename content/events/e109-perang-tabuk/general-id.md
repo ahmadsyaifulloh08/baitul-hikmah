@@ -12,7 +12,7 @@ Rasulullah ﷺ mengambil keputusan yang tidak lazim: alih-alih menunggu musuh da
 
 Ekspedisi Tabuk dijuluki *Jaysyul 'Usrah* (Pasukan Kesulitan) karena kondisi yang sangat berat: musim panas yang terik, jarak tempuh yang sangat jauh (sekitar 700 km dari Madinah ke Tabuk), dan masa panen yang baru tiba.^1 ^2 Ini adalah ujian keimanan yang luar biasa — meninggalkan buah-buahan yang baru matang dan mata pencaharian untuk berperang di padang pasir yang membara.
 
-Al-Quran merekam ujian ini:
+Al-Quran merekam ujian ini^6^5:
 
 > انفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنفُسِكُمْ فِي سَبِيلِ اللَّهِ ﴿٤١﴾
 >
@@ -110,3 +110,4 @@ Tabuk menandai akhir dari era ekspedisi militer Nabi Muhammad ﷺ. Setelah Tabuk
 4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kisah Ka'b bin Malik (Kitab al-Taubah).
 
 5. Al-Quran al-Karim, QS. At-Taubah.
+6. Al-Qur'an al-Karim. QS. At-Taubah (9): 41, 79, 92, 49, 118.

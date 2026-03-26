@@ -72,7 +72,7 @@ Para jenderalnya mendengus tidak setuju, namun Najasyi tetap pada pendiriannya. 
 
 ## Dialog dan Dalil
 
-Ayat-ayat Surah Maryam yang dibacakan Ja'far di istana Najasyi:
+Ayat-ayat Surah Maryam yang dibacakan Ja'far di istana Najasyi^5:
 
 > كهيعص ﴿١﴾ ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ ﴿٢﴾ إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا ﴿٣﴾
 >
@@ -102,7 +102,7 @@ Najasyi adalah seorang raja Kristen yang melindungi kaum muslimin dari penganiay
 
 ### Surah Maryam sebagai Jembatan
 
-Pemilihan Surah Maryam oleh Ja'far menunjukkan kecerdasan dakwah yang tinggi. Ia memilih bagian Al-Qur'an yang memiliki titik temu dengan keyakinan Kristen — penghormatan terhadap Maryam dan Isa — sehingga Najasyi bisa melihat kesamaan sumber kebenaran. Ini bukan kompromi teologis, melainkan strategi komunikasi yang membangun jembatan pemahaman.^1
+Pemilihan Surah Maryam oleh Ja'far menunjukkan kecerdasan dakwah yang tinggi. Ia memilih bagian Al-Qur'an yang memiliki titik temu dengan keyakinan Kristen — penghormatan terhadap Maryam dan Isa — sehingga Najasyi bisa melihat kesamaan sumber kebenaran. Ini bukan kompromi teologis, melainkan strategi komunikasi yang membangun jembatan pemahaman.^1^6
 
 ## Daftar Pustaka
 
@@ -112,3 +112,4 @@ Pemilihan Surah Maryam oleh Ja'far menunjukkan kecerdasan dakwah yang tinggi. Ia
 4. Ibn Sa'd, *Al-Thabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 
 5. Al-Quran al-Karim, QS. Maryam.
+6. Al-Qur'an al-Karim. QS. Maryam (19): 1–3, 30.

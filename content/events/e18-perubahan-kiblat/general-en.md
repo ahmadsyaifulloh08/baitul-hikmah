@@ -8,7 +8,7 @@ Imam al-Bukhari narrated from **al-Bara' ibn 'Azib** that the Prophet Muhammad �
 
 For Muslims in Madinah, facing Bayt al-Maqdis also carried a diplomatic dimension. Madinah had a significant Jewish population, and sharing the same direction of prayer demonstrated continuity with the Abrahamic tradition. However, rather than serving as common ground, this shared *qiblah* was used by some Jewish leaders in Madinah to argue that Islam lacked theological independence — that Muhammad was merely a follower of their tradition without independent prophetic authority.^2
 
-Al-Mubarakfuri in *al-Rahiq al-Makhtum* notes that this social pressure added to the Prophet's longing for a divine command to change the *qiblah*.^2 He would frequently turn his face toward the sky, awaiting revelation — a gesture immortalized directly by the Quran.
+Al-Mubarakfuri in *al-Rahiq al-Makhtum* notes that this social pressure added to the Prophet's longing for a divine command to change the *qiblah*.^2 He would frequently turn his face toward the sky, awaiting revelation — a gesture immortalized directly by the Quran.^4
 
 ## The Event: The Revelation of the Qiblah Change
 
@@ -93,3 +93,4 @@ From the perspective of *usul al-fiqh* (Islamic jurisprudence), the change of *q
 2. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith on the change of qiblah from Anas ibn Malik, Kitab al-Masajid wa Mawadi' al-Salah.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Tafsir al-Quran al-'Azim*. Tafsir of Surah Al-Baqarah, verses 142-150. Beirut: Dar al-Kutub al-Ilmiyyah, 1999.
+4. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.

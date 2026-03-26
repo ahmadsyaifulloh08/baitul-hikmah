@@ -840,6 +840,12 @@
           "title": "Tafsir al-Qur'an al-'Azhim",
           "author": "Ibn Kathir",
           "type": "primary"
+        },
+        {
+          "id": "qs-al-syu-ara--al-lahab",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Syu'ara', Al-Lahab",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -2403,6 +2409,12 @@
           "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
+        },
+        {
+          "id": "qs-al-taubah-al-hijr",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Taubah, Al-Hijr",
+          "type": "quran"
         }
       ],
       "characters": []
@@ -5087,7 +5099,32 @@
         "Tafsir Ibn Kathir — Surah At-Taubah"
       ],
       "status": "draft",
-      "sources": []
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Sirah Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "at-tabari",
+          "title": "Tarikh ar-Rusul wa al-Muluk",
+          "author": "At-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sad",
+          "title": "Kitab at-Tabaqat al-Kabir",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs-at-taubah",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Taubah",
+          "type": "quran"
+        }
+      ]
     },
     {
       "id": "e98",
@@ -5112,7 +5149,32 @@
         "Al-Muwatta — Imam Malik"
       ],
       "status": "draft",
-      "sources": []
+      "sources": [
+        {
+          "id": "at-tabari",
+          "title": "Tarikh ar-Rusul wa al-Muluk",
+          "author": "At-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-waqidi",
+          "title": "Kitab al-Maghazi",
+          "author": "Al-Waqidi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-sad",
+          "title": "Kitab at-Tabaqat al-Kabir",
+          "author": "Ibn Sa'd",
+          "type": "primary"
+        },
+        {
+          "id": "qs-thaha",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Thaha",
+          "type": "quran"
+        }
+      ]
     },
     {
       "id": "e99",

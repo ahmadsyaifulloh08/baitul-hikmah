@@ -117,6 +117,27 @@ Lalu dalam teks: "...sebagaimana diriwayatkan Ibn Hisham.¹" dan "...di tempat l
 - Sitasi sequential (1, 2, 3, ...) — nomor sama untuk sumber sama
 - Klik nomor → scroll ke daftar pustaka (anchor link)
 
+### 📖 Al-Qur'an al-Karim sebagai Sumber Pustaka (WAJIB)
+
+Jika artikel mengutip ayat Al-Qur'an (referensi `QS.`), maka **Al-Qur'an al-Karim WAJIB masuk sebagai entry di Daftar Pustaka**.
+
+**Format entry:**
+```
+N. Al-Qur'an al-Karim. QS. [Nama Surah 1] ([Nomor]): [Ayat]; QS. [Nama Surah 2] ([Nomor]): [Ayat].
+```
+
+**Contoh:**
+```
+6. Al-Qur'an al-Karim. QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190.
+```
+
+**Aturan:**
+- Entry ini mencakup SEMUA ayat yang dikutip di artikel — dikumpulkan dalam 1 entry
+- Letakkan sebagai entry TERAKHIR di daftar pustaka
+- Di body text, setiap blockquote ayat Quran HARUS memiliki sitasi `^N` yang merujuk ke entry ini
+- Ayat yang hanya direferensikan inline (tanpa blockquote) tetap harus tercantum di entry ini
+- **WAJIB** — artikel yang punya `QS.` refs tapi TIDAK punya entry Al-Qur'an di pustaka = **REJECT**
+
 ### 🚫 5 Violation Types (Auto-Reject)
 
 | # | Violation | Contoh | Severity |
@@ -216,12 +237,46 @@ Setiap slide children mode **WAJIB** memiliki brief ilustrasi. Lihat `docs/illus
 
 ---
 
-## 6. Data Consistency — JSON ↔ Markdown
+## 6. Data Consistency — JSON Card ↔ Markdown
 
-- `events-database.json` (`event.sources[]`) = versi ringkas
-- Markdown `## Daftar Pustaka` = versi lengkap
-- **Keduanya HARUS sinkron**
-- Ketika rich content tersedia → halaman detail pakai markdown saja (cegah duplikasi)
+### Card Data (`events-database.json → sources[]`)
+
+Setiap event WAJIB memiliki card data di `events-database.json` yang sinkron dengan markdown Daftar Pustaka.
+
+**Format card entry:**
+```json
+{
+  "id": "ibn-hisham",
+  "title": "Al-Sirah al-Nabawiyyah",
+  "author": "Ibn Hisham",
+  "type": "primary"
+}
+```
+
+**Type values:**
+- `primary` — kitab sirah, tarikh, biografi
+- `hadith` — kitab hadits (Bukhari, Muslim, dll)
+- `quran` — Al-Qur'an al-Karim
+
+**Al-Qur'an card entry (WAJIB jika ada ayat dikutip):**
+```json
+{
+  "id": "qs-al-fil-quraisy",
+  "title": "Al-Quran al-Karim",
+  "author": "QS. Al-Fil, Quraisy",
+  "type": "quran"
+}
+```
+
+**Referensi format**: Lihat **e01** (Tahun Gajah) sebagai contoh card data yang lengkap dan benar.
+
+**Aturan sinkronisasi:**
+- `events-database.json` (`event.sources[]`) = versi ringkas (card)
+- Markdown `## Daftar Pustaka` = versi lengkap (artikel)
+- **Keduanya HARUS sinkron** — setiap sumber di markdown harus ada di JSON, dan sebaliknya
+- Ketika rich content tersedia → halaman detail pakai markdown bibliography (bukan card)
+- Card tetap diperlukan sebagai: (1) fallback jika markdown belum ada, (2) data untuk filtering/search, (3) preview di timeline/map popup
+- **Event tanpa card data = REJECT** — sama pentingnya dengan event tanpa markdown content
 
 ---
 
@@ -364,6 +419,7 @@ Researcher output → qa-content.py audit
 - [ ] **V3**: Tidak ada duplikat — setiap entry merujuk karya/kitab BERBEDA
 - [ ] **V4**: Jumlah entry daftar pustaka: **minimal 3**, consolidated (1 entry = 1 karya unik)
 - [ ] **V5**: Tidak ada sitasi ^0 atau ⁰ — nomor mulai dari 1
+- [ ] **V6**: Jika ada referensi `QS.` di body → Al-Qur'an al-Karim WAJIB ada sebagai entry di Daftar Pustaka
 - [ ] Sitasi reuse — sumber sama = nomor SAMA (bukan nomor baru)
 - [ ] Detail bab/halaman di inline text, BUKAN di entry pustaka
 - [ ] Setiap paragraf klaim historis punya minimal 1 sitasi
@@ -391,10 +447,16 @@ Researcher output → qa-content.py audit
 - [ ] Teks Arab: font Amiri, RTL, **tidak italic**
 - [ ] Daftar pustaka: tidak dobel
 
-### D. Data Sync
+### D. Data Sync — Konten + Card
 - [ ] `docs/content/events/` = `projects/baitul-hikmah/content/events/` (identik)
 - [ ] `event-content-map.json` di-rebuild
 - [ ] `events-database.json` — figures + sumber sinkron
+- [ ] **Card data** (`events-database.json → sources[]`):
+  - [ ] Setiap event punya `sources[]` yang tidak kosong (min 3 entries)
+  - [ ] Format: `{id, title, author, type}` — type = `primary` | `hadith` | `quran`
+  - [ ] Jika markdown kutip ayat Quran → card WAJIB punya entry `type: "quran"` dengan `title: "Al-Quran al-Karim"`
+  - [ ] Card sources sinkron dengan markdown Daftar Pustaka (jumlah dan sumber cocok)
+  - [ ] **Referensi**: e01 sebagai contoh card format yang benar
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Konteks Historis: Yerusalem dalam Peradaban Islam
 
-**Yerusalem** (dalam bahasa Arab: *al-Quds* atau *Baitul Maqdis*) menempati posisi istimewa dalam teologi Islam sebagai kota suci ketiga setelah Makkah dan Madinah. Kota ini adalah tujuan perjalanan *Isra* Nabi Muhammad ﷺ dan titik tolak *Mi'raj* beliau ke langit, sebagaimana diabadikan dalam al-Quran:
+**Yerusalem** (dalam bahasa Arab: *al-Quds* atau *Baitul Maqdis*) menempati posisi istimewa dalam teologi Islam sebagai kota suci ketiga setelah Makkah dan Madinah. Kota ini adalah tujuan perjalanan *Isra* Nabi Muhammad ﷺ dan titik tolak *Mi'raj* beliau ke langit, sebagaimana diabadikan dalam al-Quran^5^4:
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
@@ -70,3 +70,4 @@ Qubbat al-Sakhrah telah berdiri selama lebih dari 1.300 tahun dan tetap menjadi 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Beirut: Dar al-Fikr, 1986.
 
 4. Al-Quran al-Karim, QS. Al-Isra, QS. An-Nisa.
+5. Al-Qur'an al-Karim. QS. Al-Isra (17): 1; QS. An-Nisa (4): 171.

@@ -16,7 +16,7 @@ Malik rejected Duraid's counsel — a decision that would prove catastrophic.
 
 The Prophet ﷺ departed from Makkah with approximately 12,000 men — the 10,000 who had participated in Fath Makkah plus 2,000 Makkans who had recently embraced Islam.^1 ^2 This was the largest army the Prophet had ever led. The sheer numbers bred overconfidence among some. Someone even declared: *"We will not be defeated today due to our small numbers."*^2
 
-The Quran recorded this attitude and its consequences:
+The Quran recorded this attitude and its consequences^4:
 
 > لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا وَضَاقَتْ عَلَيْكُمُ الْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ ﴿٢٥﴾
 >
@@ -99,3 +99,4 @@ The decision to withdraw from Ta'if demonstrates mature military wisdom. The Pro
 2. **Al-Mubarakfuri, Safi al-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976.
 
 3. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Kitab al-Jihad wa al-Siyar, chapter on Ghazwah Hunayn.
+4. Al-Qur'an al-Karim. QS. At-Tawbah (9): 25, 26.

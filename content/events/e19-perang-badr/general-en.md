@@ -49,7 +49,7 @@ The battle was brief but decisive. Despite being dramatically outnumbered, the M
 
 ## Dialogue and Evidence: Divine Assistance
 
-The Quran documented Badr as clear evidence of Allah's direct assistance. The Muslim forces received celestial reinforcements:
+The Quran documented Badr as clear evidence of Allah's direct assistance. The Muslim forces received celestial reinforcements^4:
 
 > إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ ﴿٩﴾
 >
@@ -104,3 +104,4 @@ Badr was not merely a military victory — it was the turning point of Islamic h
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Chapter on the Great Battle of Badr. Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Volume 2, Chapter on the Battle of Badr. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
+4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 9, 10, 11, 41.

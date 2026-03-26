@@ -46,7 +46,7 @@ Then Jibril embraced Muhammad with tremendous force — so tightly that Muhammad
 > *"Read in the name of your Lord who created. ﴾1﴿ Created man from a clinging substance. ﴾2﴿ Read, and your Lord is the Most Generous. ﴾3﴿ Who taught by the pen. ﴾4﴿ Taught man that which he knew not. ﴾5﴿"*
 > — QS. Al-'Alaq (96): 1–5
 
-These five verses — the very first revelation of the entire Quran — carry a profoundly deep message. Allah's first command to humanity was not about prayer, charity, or fasting, but *iqra'* — read, seek knowledge, employ the intellect that Allah has bestowed.
+These five verses — the very first revelation of the entire Quran — carry a profoundly deep message. Allah's first command to humanity was not about prayer, charity, or fasting, but *iqra'* — read, seek knowledge, employ the intellect that Allah has bestowed.^6
 
 ### Descent from the Cave of Hira
 
@@ -138,3 +138,4 @@ The five verses that descended at the Cave of Hira on that night launched a move
 3. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
 4. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum [The Sealed Nectar]* (Riyadh: Dar al-Salam, 1976).
 5. Ibn Hajar al-Asqalani, *Fath al-Bari Sharh Sahih al-Bukhari*, vol. 1 (Cairo: Dar al-Ma'rifah, 1959).
+6. Al-Qur'an al-Karim. QS. Al-'Alaq (96): 1–5.

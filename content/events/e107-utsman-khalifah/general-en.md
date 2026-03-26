@@ -14,7 +14,7 @@ On the fourth day after Umar's death, **Uthman ibn Affan** was pledged allegianc
 
 Uthman ibn Affan belonged to the Banu Umayyah, one of the most influential clans in Quraysh. He was among the *al-Sabiqun al-Awwalun* — the earliest converts to Islam — having embraced the faith through the invitation of Abu Bakr al-Siddiq.^2 ^3 His famous title was *Dhunnurayn* (possessor of two lights), as he married two daughters of Prophet Muhammad ﷺ: Ruqayyah, and after her death, Umm Kulthum.^2
 
-Ibn al-Jawzi in *Sifat al-Safwa* describes Uthman as gentle, exceedingly modest (*haya'*), extraordinarily generous, and deeply devoted to the Quran.^3 Prophet Muhammad ﷺ himself said regarding Uthman's modesty:
+Ibn al-Jawzi in *Sifat al-Safwa* describes Uthman as gentle, exceedingly modest (*haya'*), extraordinarily generous, and deeply devoted to the Quran.^3 Prophet Muhammad ﷺ himself said regarding Uthman's modesty^7:
 
 > أَلَا أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلَائِكَةُ
 >
@@ -116,3 +116,4 @@ Despite his tragic end, Uthman's legacy remains monumental: the standardization 
 5. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Hadith no. 2401 (angelic modesty), no. 2403 (glad tidings of Paradise). Riyadh: Dar al-Salam, 2000.
 
 6. **Al-Tirmidhi, Abu Isa Muhammad.** *Al-Jami' al-Kabir* (Sunan al-Tirmidhi). Hadith no. 3701 (Tabuk charity). Beirut: Dar al-Gharb al-Islami, 1998.
+7. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 137.

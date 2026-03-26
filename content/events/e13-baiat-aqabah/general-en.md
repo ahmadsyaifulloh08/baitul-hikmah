@@ -4,7 +4,7 @@
 
 After *'Am al-Huzn* (the Year of Sorrow) and the rejection at Ta'if, **Prophet Muhammad SAW** faced the reality that preaching in Mecca had reached a point of saturation. Tribal protection had been lost with the death of **Abu Talib**, and **Abu Lahab**, who succeeded him as head of Banu Hashim, had withdrawn protection from the Prophet. The situation in Mecca grew increasingly unsafe for him and his followers.^1
 
-Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2
+Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2^23
 
 The city of **Yathrib** (which would later become Medina) had a unique socio-political situation. It was inhabited by two large Arab tribes — **Aws** and **Khazraj** — who had been feuding for several generations. Their last war, the Battle of Bu'ath (617 CE), had exhausted both sides and created a longing for peace and leadership that could unite them.^3
 
@@ -142,3 +142,4 @@ The First Pledge of Aqabah was the seed that would eventually grow into the Hijr
 20. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 434.
 21. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, p. 141.
 22. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 145.
+23. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23; QS. al-Anfal: 23.

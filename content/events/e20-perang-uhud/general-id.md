@@ -52,9 +52,9 @@ Nabi Muhammad ﷺ berhasil ditarik mundur ke lereng Gunung Uhud oleh para sahaba
 
 ## Dialog dan Dalil: Pelajaran dari Kekalahan
 
-Al-Quran mendokumentasikan peristiwa Uhud secara panjang lebar dalam Surah Ali Imran, menjadikannya salah satu analisis militer paling detail dalam kitab suci mana pun.
+Al-Quran mendokumentasikan peristiwa Uhud secara panjang lebar dalam Surah Ali Imran, menjadikannya salah satu analisis militer paling detail dalam kitab suci mana pun.^5
 
-Tentang penyebab kekalahan — ketidaktaatan pemanah:
+Tentang penyebab kekalahan — ketidaktaatan pemanah^4:
 
 > وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ ۖ حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم مِّن بَعْدِ مَا أَرَاكُم مَّا تُحِبُّونَ ﴿١٥٢﴾
 >
@@ -102,3 +102,4 @@ Jika Badr mengajarkan umat Islam bagaimana rasanya menang, Uhud mengajarkan baga
 3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3, Bab Ghazwah Uhud. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
 4. Al-Quran al-Karim, QS. Ali.
+5. Al-Qur'an al-Karim. QS. Ali Imran (3): 152, 165, 139.

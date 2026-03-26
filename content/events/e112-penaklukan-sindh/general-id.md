@@ -40,7 +40,7 @@ Kuil-kuil Hindu dibiarkan berdiri, dan penduduk lokal diizinkan menjalankan ibad
 
 ## Dalil dan Motivasi
 
-Ekspedisi ke Sindh dimotivasi oleh kewajiban melindungi warga Muslim yang tertawan, sejalan dengan perintah al-Quran:
+Ekspedisi ke Sindh dimotivasi oleh kewajiban melindungi warga Muslim yang tertawan, sejalan dengan perintah al-Quran^5^4:
 
 > وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ ﴿٧٥﴾
 >
@@ -74,3 +74,4 @@ Kebijakan Muhammad bin Qasim yang memberikan perlindungan kepada penganut Hindu 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (Sejarah Para Rasul dan Raja-Raja). Beirut: Dar al-Turats, 1387 H.
 
 4. Al-Quran al-Karim, QS. An-Nisa.
+5. Al-Qur'an al-Karim. QS. An-Nisa (4): 75.

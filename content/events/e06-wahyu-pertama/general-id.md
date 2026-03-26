@@ -18,7 +18,7 @@ Gua Hira sendiri bukanlah gua besar — ia hanyalah sebuah ceruk kecil di puncak
 
 ### Ru'ya al-Shadiqah: Mimpi-mimpi Benar
 
-Sebelum wahyu turun dalam bentuk nyata, Muhammad mengalami fase awal yang disebut *ru'ya al-shadiqah* — mimpi-mimpi yang benar. Dalam hadits shahih diriwayatkan:
+Sebelum wahyu turun dalam bentuk nyata, Muhammad mengalami fase awal yang disebut *ru'ya al-shadiqah* — mimpi-mimpi yang benar. Dalam hadits shahih diriwayatkan^6:
 
 > أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لاَ يَرَى رُؤْيَا إِلاَّ جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ
 >
@@ -46,7 +46,7 @@ Maka Jibril memeluk Muhammad dengan sangat erat — begitu erat hingga Muhammad 
 > *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. ﴾1﴿ Dia telah menciptakan manusia dari segumpal darah. ﴾2﴿ Bacalah, dan Tuhanmulah Yang Maha Pemurah. ﴾3﴿ Yang mengajar (manusia) dengan perantaraan pena. ﴾4﴿ Dia mengajarkan kepada manusia apa yang tidak diketahuinya. ﴾5﴿"*
 > — QS. Al-'Alaq (96): 1–5
 
-Lima ayat ini — yang merupakan wahyu pertama yang turun dari seluruh Al-Quran — mengandung pesan yang sangat mendalam. Perintah pertama Allah kepada manusia bukan tentang shalat, zakat, atau puasa, melainkan *iqra'* — bacalah, carilah ilmu, gunakan akal yang telah Allah berikan.
+Lima ayat ini — yang merupakan wahyu pertama yang turun dari seluruh Al-Quran — mengandung pesan yang sangat mendalam. Perintah pertama Allah kepada manusia bukan tentang shalat, zakat, atau puasa, melainkan *iqra'* — bacalah, carilah ilmu, gunakan akal yang telah Allah berikan.^7
 
 ### Turun dari Gua Hira
 
@@ -140,3 +140,4 @@ Lima ayat yang turun di Gua Hira pada malam itu memulai sebuah gerakan yang akan
 5. Ibn Hajar al-Asqalani, *Fath al-Bari Syarh Shahih al-Bukhari*, jilid 1 (Kairo: Dar al-Ma'rifah, 1959).
 
 6. Al-Quran al-Karim, QS. Al-'Alaq.
+7. Al-Qur'an al-Karim. QS. Al-'Alaq (96): 1–5.

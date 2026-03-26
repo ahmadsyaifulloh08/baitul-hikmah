@@ -100,7 +100,7 @@ The Prophet ﷺ closed his sermon with an enduring counsel:
 
 ## The Revelation of the Verse of Completion
 
-On that very Day of Arafah, one of the most momentous verses of the Quran was revealed:
+On that very Day of Arafah, one of the most momentous verses of the Quran was revealed^5:
 
 > الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ﴿٣﴾
 >
@@ -149,3 +149,4 @@ The core message is unmistakable: human dignity is determined not by skin color,
 3. **Ahmad ibn Hanbal.** *Al-Musnad*. Hadith no. 23489 (sermon on human equality), no. 18774 (Hajj is Arafah), and narrations of the *talbiyah*.
 
 4. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Ed. Mustafa al-Saqqa, Ibrahim al-Abyari, and Abd al-Hafiz Shalabi. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
+5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 125; QS. Al-Ma'idah (5): 3.

@@ -6,7 +6,7 @@ Di antara semua pemberontakan yang meledak setelah wafatnya Rasulullah ﷺ, tida
 
 Musailamah bin Habib telah mengklaim kenabian bahkan semasa Rasulullah ﷺ masih hidup. Ia mengirim surat kepada Nabi yang berbunyi: *"Dari Musailamah, utusan Allah, kepada Muhammad, utusan Allah. Sesungguhnya bumi ini milik kita berdua."* Rasulullah ﷺ membalas singkat: *"Dari Muhammad, utusan Allah, kepada Musailamah si pembohong. Sesungguhnya bumi ini milik Allah."*^1 ^2
 
-Setelah Nabi wafat, kekuatan Musailamah membesar secara dramatis. Ibn Kathir dalam *Al-Bidayah wa al-Nihayah* mencatat bahwa ia berhasil mengumpulkan pasukan sebanyak **40.000 prajurit** — jumlah yang sangat besar untuk ukuran kabilah Arab saat itu.^3 Ia menciptakan "wahyu" palsu yang meniru gaya al-Quran, menetapkan "syariat" sendiri yang membolehkan minuman keras dan mengurangi jumlah shalat, serta membangun struktur kekuasaan yang solid di Yamamah.
+Setelah Nabi wafat, kekuatan Musailamah membesar secara dramatis. Ibn Kathir dalam *Al-Bidayah wa al-Nihayah* mencatat bahwa ia berhasil mengumpulkan pasukan sebanyak **40.000 prajurit** — jumlah yang sangat besar untuk ukuran kabilah Arab saat itu.^3 Ia menciptakan "wahyu" palsu yang meniru gaya al-Quran, menetapkan "syariat" sendiri yang membolehkan minuman keras dan mengurangi jumlah shalat, serta membangun struktur kekuasaan yang solid di Yamamah.^5
 
 Al-Tabari meriwayatkan bahwa Musailamah juga menikahi **Sajah binti al-Harits**, seorang perempuan dari Bani Tamim yang juga mengaku sebagai nabiah. Pernikahan politis ini memperkuat posisi Musailamah dan menambah jumlah pengikutnya.^1
 
@@ -101,7 +101,7 @@ Kemenangan di Yamamah, meskipun diraih dengan harga yang sangat mahal, memastika
 
 ### Dalil tentang Kesyahidan
 
-Al-Quran mengajarkan tentang kedudukan para syuhada:
+Al-Quran mengajarkan tentang kedudukan para syuhada^4:
 
 > وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا ۚ بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ ﴿١٦٩﴾
 >
@@ -121,3 +121,4 @@ Bagi ratusan penghafal al-Quran yang gugur di Yamamah, ayat ini adalah janji bah
 3. **Ibn Kathir, Ismail bin Umar.** *Al-Bidayah wa al-Nihayah* (Permulaan dan Akhir). Jilid 6. Tahqiq: Abdullah bin Abdul Muhsin al-Turki. Kairo: Dar Hajr, 1997.
 
 4. Al-Quran al-Karim, QS. Ali.
+5. Al-Qur'an al-Karim. QS. Ali Imran (3): 169.

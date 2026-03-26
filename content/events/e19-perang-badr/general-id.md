@@ -36,7 +36,7 @@ Pada pagi hari **17 Ramadhan 2 Hijriyah** (sekitar 13 Maret 624 M), kedua pasuka
 
 Pertempuran dimulai dengan tradisi Arab: duel satu lawan satu. Tiga prajurit terbaik Quraisy — **Utbah bin Rabi'ah**, **Syaibah bin Rabi'ah**, dan **Al-Walid bin Utbah** — maju menantang. Dari pihak Muslim, tiga orang menjawab tantangan: **Hamzah bin Abdul Muthalib** (paman Nabi), **Ali bin Abi Thalib** (sepupu Nabi), dan **Ubaidah bin al-Harits**. Ketiga pejuang Quraisy tewas, sementara dari pihak Muslim, hanya Ubaidah yang terluka parah dan kemudian syahid.^1 ^2 ^3
 
-Sebelum pertempuran umum dimulai, Nabi Muhammad ﷺ berdoa dengan sangat khusyuk di dalam kemahnya. Imam al-Bukhari meriwayatkan bahwa beliau mengangkat tangan dan berdoa:^1
+Sebelum pertempuran umum dimulai, Nabi Muhammad ﷺ berdoa dengan sangat khusyuk di dalam kemahnya. Imam al-Bukhari meriwayatkan bahwa beliau mengangkat tangan dan berdoa:^1^4
 
 > اللَّهُمَّ أَنْجِزْ لِي مَا وَعَدْتَنِي، اللَّهُمَّ آتِ مَا وَعَدْتَنِي، اللَّهُمَّ إِنْ تُهْلِكْ هَذِهِ الْعِصَابَةَ مِنْ أَهْلِ الْإِسْلَامِ لَا تُعْبَدْ فِي الْأَرْضِ
 >
@@ -49,7 +49,7 @@ Pertempuran berlangsung singkat namun dahsyat. Meskipun kalah jumlah secara dram
 
 ## Dialog dan Dalil: Pertolongan Ilahi
 
-Al-Quran mendokumentasikan peristiwa Badr sebagai bukti nyata pertolongan Allah. Pasukan Muslim menerima bantuan langsung dari langit:
+Al-Quran mendokumentasikan peristiwa Badr sebagai bukti nyata pertolongan Allah. Pasukan Muslim menerima bantuan langsung dari langit^5:
 
 > إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَاسْتَجَابَ لَكُمْ أَنِّي مُمِدُّكُم بِأَلْفٍ مِّنَ الْمَلَائِكَةِ مُرْدِفِينَ ﴿٩﴾
 >
@@ -106,3 +106,4 @@ Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. S
 3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 2, Bab Ghazwah Badr. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
 4. Al-Quran al-Karim, QS. Al-Anfal.
+5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 9, 10, 11, 41.

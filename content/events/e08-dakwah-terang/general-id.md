@@ -54,7 +54,7 @@ Di tengah keheningan yang mencekam setelah seruan Nabi, **Abu Lahab** berdiri da
 
 "Celakalah engkau! Inikah yang engkau kumpulkan kami untuknya?"^1
 
-Abu Lahab — yang nama aslinya Abdul 'Uzza bin Abdul Muththalib — adalah paman Nabi yang paling keras menentang dakwah Islam. Reaksinya di Bukit Shafa ini menjadi sebab turunnya salah satu surah Al-Qur'an:
+Abu Lahab — yang nama aslinya Abdul 'Uzza bin Abdul Muththalib — adalah paman Nabi yang paling keras menentang dakwah Islam. Reaksinya di Bukit Shafa ini menjadi sebab turunnya salah satu surah Al-Qur'an^4:
 
 > تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ ﴿١﴾ مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ ﴿٢﴾ سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ ﴿٣﴾ وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ ﴿٤﴾ فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍ ﴿٥﴾
 >
@@ -97,3 +97,4 @@ Reaksi Abu Lahab dan turunnya Surah al-Lahab menunjukkan bahwa penolakan terhada
 1. Al-Bukhari, Muhammad bin Ismail, *Shahih al-Bukhari* (Damaskus: Dar Ibn Kathir, 2002).
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 3. Ibn Kathir, *Tafsir al-Qur'an al-'Azhim*, jilid 4 (Beirut: Dar al-Fikr, 1999).
+4. Al-Qur'an al-Karim. QS. Al-Syu'ara' (26): 214; QS. Al-Lahab (111): 1–5.

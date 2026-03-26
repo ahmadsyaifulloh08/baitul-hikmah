@@ -12,7 +12,7 @@ Ibn Hisham dan al-Mubarakfuri mencatat bahwa kaum Quraisy menyadari bahaya besar
 
 Ibn Hisham meriwayatkan bahwa para pemimpin Quraisy berkumpul dan membahas tiga opsi: memenjarakan Muhammad, mengusirnya, atau membunuhnya.^1 **Abu Jahal** mengusulkan rencana yang dianggap paling cerdik: memilih satu pemuda tangguh dari setiap klan Quraisy, lalu mereka semua menyerang Muhammad secara bersamaan. Dengan demikian, darah Muhammad tersebar di antara semua klan, dan Bani Hasyim tidak akan mampu memerangi seluruh Quraisy untuk menuntut balas.^1 ^2
 
-Allah memberitahu Nabi Muhammad ﷺ tentang konspirasi ini melalui wahyu:
+Allah memberitahu Nabi Muhammad ﷺ tentang konspirasi ini melalui wahyu^4:
 
 > وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ ﴿٣٠﴾
 >
@@ -42,7 +42,7 @@ Momen paling dramatis terjadi ketika para pelacak Quraisy sampai di mulut gua. A
 
 *"Wahai Abu Bakr, apa persangkaanmu tentang dua orang yang ketiga-Nya adalah Allah? "*^3
 
-Al-Quran mengabadikan momen ini:
+Al-Quran mengabadikan momen ini^5:
 
 > إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا ﴿٤٠﴾
 >
@@ -104,3 +104,4 @@ Alasannya mendalam: hijrah menandai momen ketika Islam bergerak dari fase dakwah
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits tentang hijrah, Gua Tsur, Suraqah bin Malik, dan kedatangan di Madinah.
 
 4. Al-Quran al-Karim, QS. Al-Anfal, QS. Al-Tawbah, QS. Yasin.
+5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 30; QS. Yasin (36): 9; QS. Al-Tawbah (9): 40.

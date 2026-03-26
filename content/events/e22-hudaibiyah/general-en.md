@@ -39,7 +39,7 @@ Finally, the Prophet sent **Uthman ibn Affan** to Makkah, as Uthman had strong k
 
 The report of Uthman's death — which proved to be false — triggered the most dramatic moment of the entire Hudaybiyyah episode. Prophet Muhammad ﷺ sat beneath a tree and called upon his companions to pledge allegiance — to vow not to retreat even in the face of death. One by one, all 1,400 companions extended their hands and made their pledge.^1 ^2
 
-This event was so momentous in the sight of Allah that it was immortalized in the Quran:
+This event was so momentous in the sight of Allah that it was immortalized in the Quran^4:
 
 > لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا ﴿١٨﴾
 >
@@ -110,3 +110,4 @@ Hudaybiyyah teaches several fundamental principles:
 2. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah* (The Prophetic Biography). Ed. Mustafa al-Saqqa et al. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955. Vol. 3, Chapter on the Treaty of Hudaybiyyah.
 
 3. **Al-Mubarakfuri, Safi al-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976. Chapter on the Treaty of Hudaybiyyah.
+4. Al-Qur'an al-Karim. QS. Al-Fath (48): 18, 1.

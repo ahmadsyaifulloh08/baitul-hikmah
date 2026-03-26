@@ -4,7 +4,7 @@
 
 Jerusalem — known in the Islamic tradition as *al-Quds* (The Holy) or *Iliya'* (from the Roman name *Aelia Capitolina*) — was no ordinary city. It was sacred to three great religions: Judaism, Christianity, and Islam. For Muslims, Jerusalem held a special station as the first *qiblah* before the direction of prayer was changed to the Ka'bah, and as the place from which the Prophet Muhammad ﷺ ascended to the heavens during the *Isra' wa al-Mi'raj*.^1 ^2
 
-The Quran immortalizes this sacred bond:
+The Quran immortalizes this sacred bond^4:
 
 > سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ ﴿١﴾
 >
@@ -99,3 +99,4 @@ Al-Tabari records that after the conquest, Umar permitted Jews to return and res
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (The Conquest of Lands). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (The Beginning and the End). Vol. 7. Beirut: Dar al-Fikr, 1986.
+4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.

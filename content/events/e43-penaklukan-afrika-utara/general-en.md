@@ -36,7 +36,7 @@ At its culmination, **Musa ibn Nusayr** was appointed governor of North Africa a
 
 ## Scriptural Motivation
 
-The conquest of North Africa was driven by the spirit of *da'wah* and *jihad* rooted in the Quranic command:
+The conquest of North Africa was driven by the spirit of *da'wah* and *jihad* rooted in the Quranic command^4:
 
 > وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ ﴿٧٥﴾
 >
@@ -70,3 +70,4 @@ Uqba ibn Nafi's martyrdom reminds us that every great achievement requires sacri
 2. **Ibn al-Athir, Izz al-Din.** *Al-Kamil fi al-Tarikh* (The Complete History). Beirut: Dar Sadir, 1979.
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (The History of Prophets and Kings). Beirut: Dar al-Turath, 1387 AH.
+4. Al-Qur'an al-Karim. QS. An-Nisa (4): 75.

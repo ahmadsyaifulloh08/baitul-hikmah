@@ -27,7 +27,7 @@ One by one, the women of Banu Sa'd chose infants from wealthy Qurayshi families.
 
 What followed, as narrated by Halimah herself through Ibn Ishaq's transmission, was a cascade of extraordinary blessings.^1 The moment baby Muhammad was in her arms, Halimah's milk flowed abundantly, their thin camel gave plentiful milk, and their feeble donkey strode ahead of the caravan. The other women marveled: *"O Halimah, what has happened to you?"*
 
-Muhammad ﷺ lived among the Banu Sa'd for approximately four to five years.^2 In these vast desert expanses, he grew — running across sand dunes, herding sheep alongside his foster-siblings, and absorbing the pure Bedouin Arabic that would later become the vessel for Quranic revelation.
+Muhammad ﷺ lived among the Banu Sa'd for approximately four to five years.^2 In these vast desert expanses, he grew — running across sand dunes, herding sheep alongside his foster-siblings, and absorbing the pure Bedouin Arabic that would later become the vessel for Quranic revelation.^8
 
 ### The Opening of the Chest*Shaqq al-Sadr*
 
@@ -157,3 +157,4 @@ In constructing this chronology, several points of scholarly disagreement warran
 5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
 6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
 7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad*, vol. 1 (Beirut: Mu'assasat al-Risalah, 1994).
+8. Al-Qur'an al-Karim. QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10.

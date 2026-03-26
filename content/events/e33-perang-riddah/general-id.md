@@ -79,7 +79,7 @@ Umar bin al-Khattab menuntut agar Khalid dihukum atas tindakannya. Namun Abu Bak
 
 ### Kepemimpinan Abu Bakr: Keteguhan di Tengah Badai
 
-Perang Riddah mengungkap kualitas kepemimpinan Abu Bakr yang luar biasa. Pria yang dikenal lembut dan sering menangis saat membaca al-Quran ini menunjukkan ketegasan baja ketika fondasi Islam terancam. Tidak ada kompromi dalam hal prinsip, meskipun hampir semua orang di sekelilingnya menyarankan jalan tengah.
+Perang Riddah mengungkap kualitas kepemimpinan Abu Bakr yang luar biasa. Pria yang dikenal lembut dan sering menangis saat membaca al-Quran ini menunjukkan ketegasan baja ketika fondasi Islam terancam. Tidak ada kompromi dalam hal prinsip, meskipun hampir semua orang di sekelilingnya menyarankan jalan tengah.^5
 
 Keputusan Abu Bakr untuk memerangi penolak zakat menetapkan preseden penting: bahwa rukun Islam tidak bisa dipisah-pisahkan, dan bahwa negara Islam memiliki kewajiban untuk menegakkan syariat secara utuh. Prinsip ini kemudian menjadi dasar dalam *fiqh siyasah* (hukum tata negara Islam) sepanjang sejarah.
 
@@ -97,7 +97,7 @@ Perang Riddah sering diperdebatkan dalam konteks diskusi tentang kebebasan berag
 
 ### Al-Quran tentang Keteguhan Iman
 
-Peristiwa Riddah sesungguhnya telah diisyaratkan oleh al-Quran:
+Peristiwa Riddah sesungguhnya telah diisyaratkan oleh al-Quran^4:
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ ﴿٥٤﴾
 >
@@ -117,3 +117,4 @@ Para mufasir, termasuk Ibn Kathir, menafsirkan bahwa "kaum yang Allah cintai " d
 3. **Al-Baladhuri, Ahmad bin Yahya.** *Futuh al-Buldan* (Penaklukan Negeri-Negeri). Tahqiq: Ridwan Muhammad Ridwan. Beirut: Dar al-Kutub al-Ilmiyyah, 1983.
 
 4. Al-Quran al-Karim, QS. Al-Ma'idah.
+5. Al-Qur'an al-Karim. QS. Al-Ma'idah (5): 54.

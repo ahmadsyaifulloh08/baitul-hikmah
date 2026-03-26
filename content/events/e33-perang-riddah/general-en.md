@@ -79,7 +79,7 @@ Umar ibn al-Khattab demanded that Khalid be punished. However, Abu Bakr decided 
 
 ### Abu Bakr's Leadership: Resolve Amid the Storm
 
-The Riddah Wars revealed the extraordinary leadership qualities of Abu Bakr. A man known for his gentleness and who often wept while reciting the Quran demonstrated iron resolve when the foundations of Islam were threatened. There was no compromise on principle, even when nearly everyone around him counseled a middle path.
+The Riddah Wars revealed the extraordinary leadership qualities of Abu Bakr. A man known for his gentleness and who often wept while reciting the Quran demonstrated iron resolve when the foundations of Islam were threatened. There was no compromise on principle, even when nearly everyone around him counseled a middle path.^4
 
 Abu Bakr's decision to fight those who refused *zakat* established a vital precedent: that the pillars of Islam cannot be separated, and that the Islamic state bears the obligation to uphold the *shariah* in its entirety. This principle became foundational in *fiqh siyasah* (Islamic constitutional law) throughout history.
 
@@ -115,3 +115,4 @@ Commentators, including Ibn Kathir, interpret "a people whom He loves " in this 
 2. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (The Complete History). Vol. 2. Beirut: Dar Sadir, 1965.
 
 3. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (The Conquests of the Lands). Ed. Ridwan Muhammad Ridwan. Beirut: Dar al-Kutub al-Ilmiyyah, 1983.
+4. Al-Qur'an al-Karim. QS. Al-Ma'idah (5): 54.

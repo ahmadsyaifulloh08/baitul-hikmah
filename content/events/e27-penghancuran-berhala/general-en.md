@@ -17,7 +17,7 @@ Among the chief idols worshipped by the Arabs were:
 - **Al-Uzza** — in the valley of Nakhlah between Makkah and Ta'if, worshipped by Quraysh
 - **Manat** — on the coast between Makkah and Madinah, worshipped by the Aws and Khazraj
 
-The Quran mentions the last three explicitly:
+The Quran mentions the last three explicitly^4:
 
 > أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ ﴿١٩﴾ وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ ﴿٢٠﴾
 >
@@ -105,3 +105,4 @@ The event also inspired expeditions to destroy major idols elsewhere: **Khalid i
 2. **Al-Mubarakfuri, Safi al-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976.
 
 3. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith no. 3521 (Amr ibn Luhay), no. 4280-4289 (Conquest of Makkah and destruction of idols).
+4. Al-Qur'an al-Karim. QS. An-Najm (53): 19-20; QS. Al-Isra (17): 81; QS. Saba (34): 49; QS. As-Saffat (37): 91-93; QS. Al-Hajj (22): 26.

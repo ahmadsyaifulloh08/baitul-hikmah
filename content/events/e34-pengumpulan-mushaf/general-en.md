@@ -2,7 +2,7 @@
 
 ## Context: The Urgency After Yamamah
 
-The Battle of Yamamah in 12 AH (633 CE) left deep wounds in the Muslim community. Among the approximately 700 martyrs who fell fighting Musaylimah al-Kadhdhab, there were hundreds of Quran memorizers — *huffazh* who carried Allah's revelation in their hearts. This loss shook the Muslim leadership in Madinah.^1
+The Battle of Yamamah in 12 AH (633 CE) left deep wounds in the Muslim community. Among the approximately 700 martyrs who fell fighting Musaylimah al-Kadhdhab, there were hundreds of Quran memorizers — *huffazh* who carried Allah's revelation in their hearts. This loss shook the Muslim leadership in Madinah.^1^4
 
 During the Prophet's lifetime, the Quran had been preserved through two means: **memorization** (*hifzh*) and **writing** (*kitabah*). The companions memorized the Quran directly from the Prophet's recitation, while the scribes of revelation — *kuttab al-wahy* — such as Zayd ibn Thabit, Ubayy ibn Ka'b, Abdullah ibn Mas'ud, and others wrote down the revealed verses on various materials: palm stalks (*'usub*), flat stones (*likhaf*), shoulder blades of camels (*aktaf*), and pieces of leather (*riqq*).^1 ^2
 
@@ -120,3 +120,4 @@ Zayd ibn Thabit was not exaggerating when he said that moving a mountain would h
 2. **Al-Suyuti, Jalal al-Din Abd al-Rahman.** *Al-Itqan fi Ulum al-Qur'an* (Mastery in the Sciences of the Quran). Vol. 1. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: al-Hay'ah al-Misriyyah al-'Ammah li al-Kitab, 1974.
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vol. 3. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1967.
+4. Al-Qur'an al-Karim. QS. Al-Tawbah: 128-129, 128; QS. Al-Hijr (15): 9.

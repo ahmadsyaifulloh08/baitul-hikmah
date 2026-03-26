@@ -8,11 +8,11 @@ Imam al-Bukhari meriwayatkan dari **al-Bara' bin 'Azib** bahwa Nabi Muhammad ﷺ
 
 Bagi kaum Muslim di Madinah, menghadap ke Baitul Maqdis memiliki dimensi diplomatik pula. Madinah adalah kota dengan populasi Yahudi yang signifikan, dan kesamaan arah kiblat menunjukkan kesinambungan tradisi Ibrahimiyah. Namun alih-alih menjadi titik temu, kiblat yang sama justru digunakan oleh sebagian kalangan Yahudi Madinah sebagai argumen bahwa Islam tidak memiliki kemandirian teologis — bahwa Muhammad hanyalah pengikut tradisi mereka tanpa otoritas kenabian yang mandiri.^2
 
-Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa tekanan sosial ini menambah kerinduan Nabi Muhammad ﷺ akan perintah ilahi untuk mengubah kiblat.^2 Beliau sering menengadahkan wajahnya ke langit, menanti wahyu — sebuah gestur yang diabadikan langsung oleh al-Quran.
+Al-Mubarakfuri dalam *al-Rahiq al-Makhtum* mencatat bahwa tekanan sosial ini menambah kerinduan Nabi Muhammad ﷺ akan perintah ilahi untuk mengubah kiblat.^2 Beliau sering menengadahkan wajahnya ke langit, menanti wahyu — sebuah gestur yang diabadikan langsung oleh al-Quran.^5
 
 ## Peristiwa: Turunnya Wahyu Perubahan Kiblat
 
-Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623 M), saat Nabi Muhammad ﷺ sedang memimpin salat Zhuhur — ada riwayat yang menyebutkan salat Ashar — di sebuah masjid di Madinah, turunlah wahyu yang mengubah arah ibadah seluruh umat Islam:^1 ^3
+Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623 M), saat Nabi Muhammad ﷺ sedang memimpin salat Zhuhur — ada riwayat yang menyebutkan salat Ashar — di sebuah masjid di Madinah, turunlah wahyu yang mengubah arah ibadah seluruh umat Islam:^1 ^3^4
 
 > قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ ﴿١٤٤﴾
 >
@@ -95,3 +95,4 @@ Dari perspektif ushul fikih, perubahan kiblat adalah salah satu contoh paling je
 3. **Ibn Kathir, Ismail bin Umar.** *Tafsir al-Quran al-'Azhim*. Tafsir Surah Al-Baqarah ayat 142-150. Beirut: Dar al-Kutub al-Ilmiyyah, 1999.
 
 4. Al-Quran al-Karim, QS. Al-Baqarah.
+5. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 144, 142, 143, 143, 143.

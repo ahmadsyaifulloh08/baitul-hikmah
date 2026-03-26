@@ -52,7 +52,7 @@ The Prophet Muhammad ﷺ was eventually pulled back to the slopes of Mount Uhud 
 
 ## Dialogue and Evidence: Lessons from Defeat
 
-The Quran documented the events of Uhud at length in Surah Ali Imran, making it one of the most detailed military analyses in any scripture.
+The Quran documented the events of Uhud at length in Surah Ali Imran, making it one of the most detailed military analyses in any scripture.^4
 
 On the cause of defeat — the archers' disobedience:
 
@@ -100,3 +100,4 @@ If Badr taught the Muslims how it feels to win, Uhud taught them how to respond 
 2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Chapter on the Battle of Uhud. Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Volume 3, Chapter on the Battle of Uhud. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 152, 165, 139.

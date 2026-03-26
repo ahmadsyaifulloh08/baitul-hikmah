@@ -34,7 +34,7 @@ Umar memerintahkan penghapusan jizyah untuk seluruh Muslim tanpa memandang etnis
 
 Umar juga melakukan reformasi administratif yang menyeluruh:^1 ^2 ^3
 
-- **Penghentian cacian terhadap Ali ibn Abi Thalib** — Khalifah-khalifah Umayyah sebelumnya memiliki tradisi buruk mencaci Ali dari mimbar-mimbar masjid. Umar menghapuskan tradisi ini dan menggantinya dengan pembacaan ayat al-Quran:
+- **Penghentian cacian terhadap Ali ibn Abi Thalib** — Khalifah-khalifah Umayyah sebelumnya memiliki tradisi buruk mencaci Ali dari mimbar-mimbar masjid. Umar menghapuskan tradisi ini dan menggantinya dengan pembacaan ayat al-Quran^5^4:
 
 > إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ ﴿٩٠﴾
 >
@@ -102,3 +102,4 @@ Yang unik dari Umar adalah bahwa ia mereformasi sistem dari dalam. Ia bukan pemb
 3. **Ibn al-Jawzi, Abu al-Faraj.** *Sifat al-Safwa* (Sifat-Sifat Orang Pilihan). Beirut: Dar al-Ma'rifah, 1979.
 
 4. Al-Quran al-Karim, QS. An-Nahl.
+5. Al-Qur'an al-Karim. QS. An-Nahl (16): 90.

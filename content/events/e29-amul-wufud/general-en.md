@@ -8,7 +8,7 @@ Ibn Hisham in his *Sirah Nabawiyyah* explains the reasoning that developed among
 
 Al-Mubarakfuri in *al-Rahiq al-Makhtum* notes that the Conquest of Makkah was followed by victory at the Battle of Hunayn and the siege of Ta'if, which further consolidated Islamic authority in the Hijaz region.^2 No significant military force remained capable of challenging Madinah. It was this context that gave rise to the phenomenon of *'Am al-Wufud* — the year in which delegation after delegation traveled to Madinah to declare their acceptance of Islam.
 
-The Quran itself immortalized this phenomenon in Surah An-Nasr:
+The Quran itself immortalized this phenomenon in Surah An-Nasr^4:
 
 > إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ ﴿١﴾ وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا ﴿٢﴾ فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا ﴿٣﴾
 >
@@ -121,3 +121,4 @@ In receiving dozens of delegations from across Arabia, the Prophet ﷺ exemplifi
 2. **Al-Mubarakfuri, Safiur-Rahman.** *Al-Rahiq al-Makhtum* (The Sealed Nectar). Riyadh: Dar al-Salam, 1976.
 
 3. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Vols. 1-2. Beirut: Dar Sadir.
+4. Al-Qur'an al-Karim. QS. An-Nasr (110): 1-3; QS. Al-Hujurat (49): 4; QS. Ali Imran (3): 61; QS. Al-Baqarah (2): 256.

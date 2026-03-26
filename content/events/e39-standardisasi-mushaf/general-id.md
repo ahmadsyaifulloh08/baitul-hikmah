@@ -2,7 +2,7 @@
 
 ## Konteks: Keragaman Bacaan dan Ancaman Perpecahan
 
-Setelah wafatnya Nabi Muhammad ﷺ, al-Quran telah dikodifikasi menjadi satu mushaf atas perintah Abu Bakar al-Shiddiq, dengan **Zaid ibn Tsabit** sebagai ketua panitia penulisan.^1 Mushaf ini disimpan oleh Abu Bakar, kemudian oleh Umar ibn al-Khaththab, dan setelah Umar wafat, mushaf itu berada dalam penjagaan Hafshah binti Umar.^1
+Setelah wafatnya Nabi Muhammad ﷺ, al-Quran telah dikodifikasi menjadi satu mushaf atas perintah Abu Bakar al-Shiddiq, dengan **Zaid ibn Tsabit** sebagai ketua panitia penulisan.^1 Mushaf ini disimpan oleh Abu Bakar, kemudian oleh Umar ibn al-Khaththab, dan setelah Umar wafat, mushaf itu berada dalam penjagaan Hafshah binti Umar.^1^6
 
 Namun seiring perluasan wilayah Islam yang pesat di masa Utsman, para sahabat yang tersebar di berbagai wilayah mengajarkan al-Quran sesuai dengan *qira'at* (variasi bacaan) yang mereka terima langsung dari Nabi ﷺ. Penduduk Syam membaca mengikuti bacaan **Ubay ibn Ka'b**, penduduk Kufah mengikuti bacaan **Abdullah ibn Mas'ud**, penduduk Bashrah mengikuti bacaan **Abu Musa al-Asy'ari**, dan seterusnya.^2
 
@@ -55,7 +55,7 @@ Keputusan ini tidak tanpa kontroversi. Abdullah ibn Mas'ud, sahabat senior yang 
 
 ## Dialog dan Dalil
 
-Al-Quran sendiri menjamin pemeliharaannya oleh Allah:
+Al-Quran sendiri menjamin pemeliharaannya oleh Allah^5:
 
 > إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ ﴿٩﴾
 >
@@ -107,3 +107,4 @@ Lebih dari sekadar proyek teknis, standardisasi ini menjadi simbol persatuan uma
 4. **Muslim, Abu al-Husain Muslim ibn al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Hadits no. 818 (tujuh ahruf). Riyadh: Dar al-Salam, 2000.
 
 5. Al-Quran al-Karim, QS. Al-Hijr.
+6. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.

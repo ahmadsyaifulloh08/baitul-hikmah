@@ -6,7 +6,7 @@ Beberapa bulan sebelum wafatnya, Nabi Muhammad ﷺ telah memberikan isyarat-isya
 
 Imam al-Bukhari meriwayatkan bahwa Abdullah bin Abbas berkata: Umar bin Khattab pernah mengundangku dalam majelis para tokoh Badr — meskipun sebagian mereka keberatan karena usiaku yang masih muda. Umar bertanya tentang makna Surah An-Nashr. Ketika yang lain diam, aku menjawab: *"Itu adalah pemberitahuan tentang dekatnya ajal Rasulullah ﷺ."* Umar berkata: *"Aku tidak mengetahui maknanya kecuali seperti apa yang kauketahui."*^1
 
-Selama bulan Ramadhan tahun 10 Hijriyah, Nabi ﷺ melakukan *i'tikaf* selama dua puluh hari — dua kali lipat dari kebiasaan beliau yang biasanya sepuluh hari. Beliau juga mempelajari al-Quran bersama Jibril sebanyak dua kali dalam tahun terakhirnya — padahal biasanya hanya sekali setiap Ramadhan. Al-Bukhari meriwayatkan bahwa Nabi ﷺ berkata kepada putrinya **Fatimah**: *"Jibril biasa mengulang al-Quran bersamaku sekali setiap tahun, dan tahun ini ia mengulangnya dua kali. Aku tidak melihat itu kecuali sebagai pertanda bahwa ajalku telah dekat."*^1
+Selama bulan Ramadhan tahun 10 Hijriyah, Nabi ﷺ melakukan *i'tikaf* selama dua puluh hari — dua kali lipat dari kebiasaan beliau yang biasanya sepuluh hari. Beliau juga mempelajari al-Quran bersama Jibril sebanyak dua kali dalam tahun terakhirnya — padahal biasanya hanya sekali setiap Ramadhan. Al-Bukhari meriwayatkan bahwa Nabi ﷺ berkata kepada putrinya **Fatimah**: *"Jibril biasa mengulang al-Quran bersamaku sekali setiap tahun, dan tahun ini ia mengulangnya dua kali. Aku tidak melihat itu kecuali sebagai pertanda bahwa ajalku telah dekat."*^1^5
 
 Fatimah menangis mendengar ini. Namun Nabi ﷺ kemudian berbisik lagi kepadanya, dan kali ini ia tersenyum. Ketika ditanya kemudian oleh **Aisyah**, Fatimah menjawab bahwa bisikan kedua itu adalah kabar bahwa ia akan menjadi penghulu wanita penghuni surga dan orang pertama dari keluarga Nabi yang menyusul beliau.^1
 
@@ -14,7 +14,7 @@ Fatimah menangis mendengar ini. Namun Nabi ﷺ kemudian berbisik lagi kepadanya,
 
 Imam al-Bukhari dan Ibn Hisham meriwayatkan bahwa sakit Nabi ﷺ dimulai pada akhir bulan Safar tahun 11 Hijriyah. Suatu malam, Nabi ﷺ membangunkan pelayannya Abu Muwayhib dan berkata: *"Aku diperintahkan untuk memintakan ampunan bagi ahli Baqi'."*^1 ^2
 
-Mereka pergi ke pemakaman Baqi' di tengah kegelapan malam. Di sana, Nabi ﷺ berdiri di antara kubur-kubur para sahabat yang telah mendahuluinya dan berdoa:
+Mereka pergi ke pemakaman Baqi' di tengah kegelapan malam. Di sana, Nabi ﷺ berdiri di antara kubur-kubur para sahabat yang telah mendahuluinya dan berdoa^4:
 
 > السَّلَامُ عَلَيْكُمْ يَا أَهْلَ الْمَقَابِرِ لِيَهْنِ لَكُمْ مَا أَصْبَحْتُمْ فِيهِ مِمَّا أَصْبَحَ فِيهِ النَّاسُ أَقْبَلَتِ الْفِتَنُ كَقِطَعِ اللَّيْلِ الْمُظْلِمِ
 >
@@ -203,3 +203,4 @@ Wafatnya Rasulullah ﷺ mengajarkan umat Islam beberapa pelajaran fundamental:
 3. **Ibn Sa'd, Abu Abdullah Muhammad.** *Al-Tabaqat al-Kubra*. Jilid 2 (bab wafat Rasulullah). Beirut: Dar Shadir.
 
 4. Al-Quran al-Karim, QS. Ali.
+5. Al-Qur'an al-Karim. QS. Ali Imran (3): 144.

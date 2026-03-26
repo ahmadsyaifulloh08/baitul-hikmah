@@ -4,7 +4,7 @@
 
 After Badr and Uhud, the Quraysh realized they could not destroy Madinah alone. In the fifth year of Hijrah (627 CE), they formed the largest military coalition ever assembled in the Arabian Peninsula to attack a single city.^1
 
-This alliance — referred to in the Quran as *al-Ahzab* (the Confederates) — comprised several major forces: the Quraysh of Makkah led by Abu Sufyan with 4,000 warriors; the tribes of Ghatafan and Banu Fazarah from Najd with 6,000 warriors; and several other Arab tribes.^1 ^2 The total coalition force numbered approximately **10,000 warriors** — the largest military force ever directed against the Muslim community up to that point.
+This alliance — referred to in the Quran as *al-Ahzab* (the Confederates) — comprised several major forces: the Quraysh of Makkah led by Abu Sufyan with 4,000 warriors; the tribes of Ghatafan and Banu Fazarah from Najd with 6,000 warriors; and several other Arab tribes.^1 ^2 The total coalition force numbered approximately **10,000 warriors** — the largest military force ever directed against the Muslim community up to that point.^4
 
 The formation of this coalition was driven by leaders of the Banu Nadir, a Jewish tribe that had been expelled from Madinah. Their chief, Huyayy ibn Akhtab, traveled from tribe to tribe, inciting them with promises of Madinah's wealth and the elimination of the Islamic threat.^2 ^3
 
@@ -104,3 +104,4 @@ Khandaq marked a fundamental shift in the power dynamics of the Arabian Peninsul
 2. **Ibn Hisham, Abu Muhammad Abd al-Malik.** *Al-Sirah al-Nabawiyyah*. Volume 3, Chapter on the Battle of the Trench. Cairo: Maktabat Mustafa al-Babi al-Halabi, 1955.
 
 3. **Al-Waqidi, Abu Abdullah Muhammad ibn Umar.** *Kitab al-Maghazi*. Volume 2, Chapter on the Battle of the Trench. Beirut: Dar al-A'lami, 1989.
+4. Al-Qur'an al-Karim. QS. Al-Ahzab (33): 9, 10.

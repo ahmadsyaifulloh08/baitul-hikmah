@@ -4,7 +4,7 @@
 
 Ka'bah dibangun oleh **Nabi Ibrahim** dan putranya **Ismail** *'alaihimas salam* sebagai rumah ibadah kepada Allah Yang Maha Esa.^1 Selama berabad-abad setelahnya, Jazirah Arab mengalami degradasi spiritual yang panjang. Generasi demi generasi, praktik penyembahan berhala merayap masuk ke dalam tradisi masyarakat Arab hingga akhirnya Ka'bah — rumah tauhid — justru dipenuhi oleh 360 berhala.^1 ^2
 
-Ibn Hisham dalam *Sirah Nabawiyyah* meriwayatkan bahwa orang pertama yang memperkenalkan penyembahan berhala ke Makkah adalah **Amr bin Luhay al-Khuza'i**, pemimpin Bani Khuza'ah yang melihat praktik penyembahan berhala dalam perjalanannya ke Syam dan membawa pulang sebuah berhala bernama Hubal.^1 Rasulullah ﷺ pernah bersabda dalam hadits yang diriwayatkan Imam al-Bukhari:^3
+Ibn Hisham dalam *Sirah Nabawiyyah* meriwayatkan bahwa orang pertama yang memperkenalkan penyembahan berhala ke Makkah adalah **Amr bin Luhay al-Khuza'i**, pemimpin Bani Khuza'ah yang melihat praktik penyembahan berhala dalam perjalanannya ke Syam dan membawa pulang sebuah berhala bernama Hubal.^1 Rasulullah ﷺ pernah bersabda dalam hadits yang diriwayatkan Imam al-Bukhari:^3^4
 
 > رَأَيْتُ عَمْرَو بْنَ لُحَيٍّ يَجُرُّ قُصْبَهُ فِي النَّارِ
 >
@@ -17,7 +17,7 @@ Di antara berhala-berhala utama yang disembah bangsa Arab:
 - **Al-Uzza** — di lembah Nakhlah antara Makkah dan Thaif, disembah oleh Quraisy
 - **Manat** — di pantai antara Makkah dan Madinah, disembah oleh Aus dan Khazraj
 
-Al-Quran menyebut tiga berhala terakhir secara eksplisit:
+Al-Quran menyebut tiga berhala terakhir secara eksplisit^5:
 
 > أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ ﴿١٩﴾ وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ ﴿٢٠﴾
 >
@@ -107,3 +107,4 @@ Peristiwa ini juga menginspirasi pengiriman ekspedisi-ekspedisi kecil untuk meng
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 3521 (Amr bin Luhay), no. 4280-4289 (Fath Makkah dan penghancuran berhala).
 
 4. Al-Quran al-Karim, QS. Al-Hajj, QS. Al-Isra, QS. An-Najm, QS. Ash-Shaffat, QS. Saba.
+5. Al-Qur'an al-Karim. QS. An-Najm (53): 19-20; QS. Al-Isra (17): 81; QS. Saba (34): 49; QS. Ash-Shaffat (37): 91-93; QS. Al-Hajj (22): 26.

@@ -126,10 +126,11 @@ Dari kota dagang di tengah gurun yang gersang, dari seorang anak yatim yang kehi
 
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, jilid 1, tahqiq Musthafa al-Saqqa dkk. (Kairo: Musthafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum* (Riyadh: Dar al-Salam, 1976).
-3. Ibn Kathir, Ismail bin Umar, *Tafsir al-Quran al-Azhim*, Surah Al-Fil, tahqiq Sami bin Muhammad al-Salamah (Riyadh: Dar Thaibah, 1999).
+3. Ibn Kathir, Ismail bin Umar, *Tafsir al-Quran al-Azhim*, Surah Al-Fil, tahqiq Sami bin Muhammad al-Salamah (Riyadh: Dar Thaibah, 1999).^9
 4. Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Manaqib (Dar Thauq al-Najah, 2001).
 5. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
 6. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 7. Al-Quran al-Karim, QS. Al-Fil (105:1-5), QS. Quraisy (106:1-4).
 
 8. Al-Quran al-Karim, QS. Al-Fil, QS. Quraisy.
+9. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.

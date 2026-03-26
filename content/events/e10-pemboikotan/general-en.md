@@ -50,7 +50,7 @@ Zuhayr ibn Abi Umayyah initiated the action before the Ka'bah, calling out to th
 
 ## Dialogue and Sacred Texts
 
-The boycott is connected to several important scriptural references. Regarding the suffering and patience endured, Allah the Almighty says:
+The boycott is connected to several important scriptural references. Regarding the suffering and patience endured, Allah the Almighty says^26:
 
 > أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا ﴿٢١٤﴾
 >
@@ -108,3 +108,4 @@ However, three years of physical suffering left serious health consequences for 
 23. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3, pp. 84–85.
 24. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 125–126.
 25. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968), p. 211.
+26. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 214.^26

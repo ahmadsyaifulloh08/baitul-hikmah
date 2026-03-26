@@ -4,7 +4,7 @@
 
 After the Riddah Wars ended and the entire Arabian Peninsula was reunited, Caliph **Abu Bakr al-Siddiq** made a strategic decision that would reshape the map of the world: dispatching Muslim armies to **al-Sham** (the Levant) — the region encompassing modern Palestine, Jordan, Syria, and Lebanon. This territory was under the dominion of the **Eastern Roman Empire** (Byzantium), ruled by Emperor Heraclius.^1
 
-Al-Baladhuri in *Futuh al-Buldan* explains that Abu Bakr's decision to campaign against al-Sham was not expansion without cause. First, the Prophet Muhammad ﷺ himself had directed Muslim attention toward al-Sham — he had dispatched the Mu'tah expedition (8 AH) and the army of Usamah (11 AH) to the region. Second, several Arab tribes along the Syrian frontier who had previously been Byzantine allies had embraced Islam. Third, al-Sham held a special place in Islam — referred to as *al-Ard al-Mubarakah* (the blessed land) in the Quran.^1
+Al-Baladhuri in *Futuh al-Buldan* explains that Abu Bakr's decision to campaign against al-Sham was not expansion without cause. First, the Prophet Muhammad ﷺ himself had directed Muslim attention toward al-Sham — he had dispatched the Mu'tah expedition (8 AH) and the army of Usamah (11 AH) to the region. Second, several Arab tribes along the Syrian frontier who had previously been Byzantine allies had embraced Islam. Third, al-Sham held a special place in Islam — referred to as *al-Ard al-Mubarakah* (the blessed land) in the Quran.^1^4
 
 Abu Bakr divided the expeditionary force to al-Sham into four main corps, each assigned to a different zone:^1 ^3
 
@@ -113,3 +113,4 @@ The Muslim forces at Ajnadayn fought with far fewer numbers against one of the g
 2. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (History of Prophets and Kings). Vol. 3. Ed. Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1967.
 
 3. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (The Complete History). Vol. 2. Beirut: Dar Sadir, 1965.
+4. Al-Qur'an al-Karim. QS. Al-Isra (17): 1.

@@ -40,7 +40,7 @@ Hindu temples were left standing, and the local population was permitted to prac
 
 ## Scriptural Motivation
 
-The expedition to Sindh was motivated by the obligation to protect captive Muslim citizens, in accordance with the Quranic command:
+The expedition to Sindh was motivated by the obligation to protect captive Muslim citizens, in accordance with the Quranic command^4:
 
 > وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ ﴿٧٥﴾
 >
@@ -72,3 +72,4 @@ Muhammad bin Qasim's policy of extending protection to Hindus and Buddhists demo
 2. **Al-Baladhuri, Ahmad ibn Yahya.** *Futuh al-Buldan* (The Conquest of Lands). Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 
 3. **Al-Tabari, Abu Ja'far Muhammad ibn Jarir.** *Tarikh al-Rusul wa al-Muluk* (The History of Prophets and Kings). Beirut: Dar al-Turath, 1387 AH.
+4. Al-Qur'an al-Karim. QS. An-Nisa (4): 75.

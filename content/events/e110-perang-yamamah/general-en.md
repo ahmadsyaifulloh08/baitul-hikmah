@@ -6,7 +6,7 @@ Among all the rebellions that erupted after the death of the Prophet Muhammad �
 
 Musaylimah ibn Habib had claimed prophethood even while the Prophet ﷺ was still alive. He sent a letter to the Prophet that read: *"From Musaylimah, messenger of Allah, to Muhammad, messenger of Allah. Verily the earth belongs to both of us."* The Prophet ﷺ replied succinctly: *"From Muhammad, messenger of Allah, to Musaylimah the liar. Verily the earth belongs to Allah."*^1 ^2
 
-After the Prophet's death, Musaylimah's power grew dramatically. Ibn Kathir in *Al-Bidayah wa al-Nihayah* records that he amassed an army of **40,000 warriors** — an enormous force by Arabian tribal standards.^3 He crafted false "revelations" imitating the Quranic style, established his own "law" that permitted wine and reduced the number of prayers, and built a solid power structure in Yamamah.
+After the Prophet's death, Musaylimah's power grew dramatically. Ibn Kathir in *Al-Bidayah wa al-Nihayah* records that he amassed an army of **40,000 warriors** — an enormous force by Arabian tribal standards.^3 He crafted false "revelations" imitating the Quranic style, established his own "law" that permitted wine and reduced the number of prayers, and built a solid power structure in Yamamah.^4
 
 Al-Tabari records that Musaylimah also married **Sajah bint al-Harith**, a woman of the Banu Tamim who herself claimed prophethood. This political marriage strengthened Musaylimah's position and swelled his following.^1
 
@@ -119,3 +119,4 @@ For the hundreds of Quran memorizers who fell at Yamamah, this verse is a promis
 2. **Ibn al-Athir, Izz al-Din Abu al-Hasan.** *Al-Kamil fi al-Tarikh* (The Complete History). Vol. 2. Beirut: Dar Sadir, 1965.
 
 3. **Ibn Kathir, Ismail ibn Umar.** *Al-Bidayah wa al-Nihayah* (The Beginning and the End). Vol. 6. Ed. Abdullah ibn Abd al-Muhsin al-Turki. Cairo: Dar Hajr, 1997.
+4. Al-Qur'an al-Karim. QS. Ali Imran (3): 169.

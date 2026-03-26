@@ -12,7 +12,7 @@ The Prophet ﷺ made an unusual decision: rather than wait for the enemy to come
 
 The Tabuk expedition was dubbed *Jaysh al-'Usrah* (the Army of Hardship) because of the extreme conditions: scorching summer heat, an enormous distance (approximately 700 km from Madinah to Tabuk), and the harvest season that had just arrived.^1 ^2 This was an extraordinary test of faith — leaving freshly ripened fruits and livelihoods to march through a burning desert.
 
-The Quran recorded this trial:
+The Quran recorded this trial^5:
 
 > انفِرُوا خِفَافًا وَثِقَالًا وَجَاهِدُوا بِأَمْوَالِكُمْ وَأَنفُسِكُمْ فِي سَبِيلِ اللَّهِ ﴿٤١﴾
 >
@@ -108,3 +108,4 @@ Tabuk marked the end of the era of the Prophet's military expeditions. After Tab
 3. **Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.** *Al-Jami' al-Sahih* (Sahih al-Bukhari). Hadith on Abu Bakr's and Uthman's donations (Kitab al-Manaqib), Story of Ka'b ibn Malik (Kitab al-Maghazi, no. 4418).
 
 4. **Muslim, Abu al-Husayn Muslim ibn al-Hajjaj.** *Al-Jami' al-Sahih* (Sahih Muslim). Story of Ka'b ibn Malik (Kitab al-Tawbah).
+5. Al-Qur'an al-Karim. QS. At-Tawbah (9): 41, 79, 92, 49, 118.

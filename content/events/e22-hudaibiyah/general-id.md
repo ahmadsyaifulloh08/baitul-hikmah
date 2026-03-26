@@ -14,7 +14,7 @@ Namun Quraisy tidak melihatnya demikian. Bagi mereka, kedatangan Muhammad dan pe
 
 Ketika berita tentang penghadangan Quraisy sampai, Nabi Muhammad ﷺ mengambil keputusan strategis yang brilian. Alih-alih melanjutkan jalur utama yang dijaga pasukan Khalid, beliau memilih rute alternatif melalui jalur berbatu yang sulit di *Tsaniyyatul Murar*, melewati tebing-tebing terjal yang jarang dilalui orang.^2 Rombongan yang berjumlah 1.400 orang, lengkap dengan hewan kurban, harus merangkak melewati jalan setapak yang sempit dan curam.
 
-Di titik inilah terjadi peristiwa yang menjadi tanda ilahi: unta Nabi yang bernama al-Qashwa' berlutut dan menolak berjalan lebih jauh di sebuah tempat bernama Hudaibiyah, sebuah lembah tandus di perbatasan tanah haram Makkah. Sebagian sahabat berkata: "Al-Qashwa' membandel!" Namun Nabi menjawab:^1
+Di titik inilah terjadi peristiwa yang menjadi tanda ilahi: unta Nabi yang bernama al-Qashwa' berlutut dan menolak berjalan lebih jauh di sebuah tempat bernama Hudaibiyah, sebuah lembah tandus di perbatasan tanah haram Makkah. Sebagian sahabat berkata: "Al-Qashwa' membandel!" Namun Nabi menjawab:^1^4
 
 > مَا خَلَأَتِ الْقَصْوَاءُ، وَمَا ذَاكَ لَهَا بِخُلُقٍ، وَلَكِنْ حَبَسَهَا حَابِسُ الْفِيلِ
 >
@@ -39,7 +39,7 @@ Akhirnya Nabi mengirim **Utsman bin Affan** ke Makkah, karena Utsman memiliki hu
 
 Kabar kematian Utsman — yang ternyata tidak benar — memicu momen paling dramatis dalam seluruh episode Hudaibiyah. Nabi Muhammad ﷺ duduk di bawah sebuah pohon dan menyerukan para sahabat untuk berbai'at — berjanji setia untuk tidak mundur meskipun harus menghadapi kematian. Satu per satu, 1.400 sahabat mengulurkan tangan dan berjanji.^1 ^2
 
-Peristiwa ini begitu agung di sisi Allah sehingga diabadikan dalam al-Quran:
+Peristiwa ini begitu agung di sisi Allah sehingga diabadikan dalam al-Quran^5:
 
 > لَّقَدْ رَضِيَ اللَّهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَةِ فَعَلِمَ مَا فِي قُلُوبِهِمْ فَأَنزَلَ السَّكِينَةَ عَلَيْهِمْ وَأَثَابَهُمْ فَتْحًا قَرِيبًا ﴿١٨﴾
 >
@@ -112,3 +112,4 @@ Hudaibiyah mengajarkan beberapa prinsip fundamental:
 3. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976. Bab Perjanjian Hudaibiyah.
 
 4. Al-Quran al-Karim, QS. Al-Fath.
+5. Al-Qur'an al-Karim. QS. Al-Fath (48): 18, 1.

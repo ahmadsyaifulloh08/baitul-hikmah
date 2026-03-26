@@ -10,7 +10,7 @@ Ibn Hisham narrates in the chapter on Muhammad's childhood that when the caravan
 
 Trade journeys to Syria were a central tradition for the Quraysh tribe. Mecca, situated in a barren valley without agricultural land, relied on trade as its primary livelihood. Quraysh caravans carried goods from Yemen and the southern regions — such as spices, frankincense, and leather — to be traded in the markets of Syria. In return, they brought back goods from Syria and the Byzantine Empire such as cloth, wheat, and olive oil.^2
 
-The Quran itself references this tradition of trade journeys:
+The Quran itself references this tradition of trade journeys^4:
 
 > لِإِيلَافِ قُرَيْشٍ ﴿١﴾ إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ ﴿٢﴾ فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ ﴿٣﴾ الَّذِي أَطْعَمَهُمْ مِّن جُوعٍ وَآمَنَهُمْ مِّنْ خَوْفٍ ﴿٤﴾
 >
@@ -99,3 +99,4 @@ The encounter between Muhammad, an Arab child from Mecca, and Bahira, a Christia
 1. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955).
 2. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum [The Sealed Nectar]* (Riyadh: Dar al-Salam, 1976).
 3. Al-Tirmidhi, *Sunan al-Tirmidhi*, ed. Ahmad Shakir et al. (Cairo: Mustafa al-Babi al-Halabi, 1975).
+4. Al-Qur'an al-Karim. QS. Quraysh (106): 1–4.
