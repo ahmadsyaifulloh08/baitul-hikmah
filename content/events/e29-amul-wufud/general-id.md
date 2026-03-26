@@ -30,7 +30,7 @@ Peristiwa ini diabadikan dalam al-Quran:
 > *"Sesungguhnya orang-orang yang memanggilmu dari luar kamar-kamarmu, kebanyakan mereka tidak mengerti. ﴾4﴿"*
 > — QS. Al-Hujurat (49): 4
 
-Namun setelah dialog dengan Nabi ﷺ dan mendengar al-Quran, mereka menerima Islam dan kembali ke kaumnya sebagai Muslim^4.
+Namun setelah dialog dengan Nabi ﷺ dan mendengar al-Quran, mereka menerima Islam dan kembali ke kaumnya sebagai Muslim.^4
 
 ### Delegasi Bani 'Amir bin Sha'sha'ah
 
@@ -53,7 +53,7 @@ Mereka berdebat dengan Nabi ﷺ mengenai hakikat Isa al-Masih. Ketika tidak terc
 > *"Siapa yang membantahmu tentang hal ini setelah datangnya ilmu kepadamu, katakanlah: 'Marilah kita memanggil anak-anak kami dan anak-anak kamu, istri-istri kami dan istri-istri kamu, diri kami dan diri kamu, kemudian marilah kita bermubahalah, dan kita minta supaya laknat Allah ditimpakan kepada orang-orang yang dusta.' ﴾61﴿"*
 > — QS. Ali Imran (3): 61
 
-Delegasi Najran akhirnya menolak *mubahalah* dan memilih membuat perjanjian damai dengan Nabi ﷺ — mereka tetap pada agama mereka namun membayar *jizyah* dan hidup di bawah perlindungan negara Islam.^1 Peristiwa ini menjadi preseden penting bagi hubungan antaragama dalam Islam^4.
+Delegasi Najran akhirnya menolak *mubahalah* dan memilih membuat perjanjian damai dengan Nabi ﷺ — mereka tetap pada agama mereka namun membayar *jizyah* dan hidup di bawah perlindungan negara Islam.^1 Peristiwa ini menjadi preseden penting bagi hubungan antaragama dalam Islam.^4
 
 ### Delegasi-Delegasi Lainnya
 

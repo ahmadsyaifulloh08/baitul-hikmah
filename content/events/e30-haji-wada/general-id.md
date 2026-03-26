@@ -107,7 +107,7 @@ Di hari Arafah itu pula, turunlah salah satu ayat al-Quran yang paling monumenta
 > *"Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridhai Islam sebagai agamamu. ﴾3﴿"*
 > — QS. Al-Ma'idah (5): 3
 
-Imam al-Bukhari meriwayatkan bahwa ketika ayat ini turun, Umar bin Khattab menangis. Ketika ditanya mengapa, ia menjawab: *"Setelah kesempurnaan, tidak ada lagi kecuali kekurangan."* Umar memahami bahwa ayat ini mengisyaratkan dekatnya akhir misi kenabian — dan dekatnya wafat Rasulullah ﷺ^5.
+Imam al-Bukhari meriwayatkan bahwa ketika ayat ini turun, Umar bin Khattab menangis. Ketika ditanya mengapa, ia menjawab: *"Setelah kesempurnaan, tidak ada lagi kecuali kekurangan."* Umar memahami bahwa ayat ini mengisyaratkan dekatnya akhir misi kenabian — dan dekatnya wafat Rasulullah ﷺ.^5
 
 ## Analisis: Khutbah yang Melampaui Zaman
 

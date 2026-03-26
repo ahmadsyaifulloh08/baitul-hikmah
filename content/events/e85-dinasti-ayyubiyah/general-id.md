@@ -19,7 +19,7 @@ Unifikasi ini strategis dalam menghadapi ancaman Salib. Sebelumnya, kerajaan-ker
 > *"Dan berpegangteguhlah kamu semuanya pada tali (agama) Allah, dan janganlah kamu bercerai-berai."*
 > — QS. Ali Imran (3): 103^4
 
-Salahuddin juga membangun sistem administrasi yang efisien. Ia mempertahankan struktur birokrasi yang sudah ada sambil mengangkat pejabat-pejabat kompeten dari berbagai latar belakang. Sistem *iqta'* (pemberian tanah) digunakan untuk membiayai tentara dan administrasi, namun tetap berada di bawah kontrol ketat pemerintah pusat^9.
+Salahuddin juga membangun sistem administrasi yang efisien. Ia mempertahankan struktur birokrasi yang sudah ada sambil mengangkat pejabat-pejabat kompeten dari berbagai latar belakang. Sistem *iqta'* (pemberian tanah) digunakan untuk membiayai tentara dan administrasi, namun tetap berada di bawah kontrol ketat pemerintah pusat.^9
 
 ## Perang Salib dan Prestasi Militer
 

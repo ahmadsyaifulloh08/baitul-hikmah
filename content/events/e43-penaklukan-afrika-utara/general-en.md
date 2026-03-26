@@ -43,7 +43,7 @@ The conquest of North Africa was driven by the spirit of *da'wah* and *jihad* ro
 > *"And what is the matter with you that you do not fight in the cause of Allah and for the oppressed among men, women, and children. ﴾75﴿"*
 > — QS. An-Nisa (4): 75
 
-The Muslim commanders brought not only military strength but also a message of justice and equality that appealed to many local populations — especially the Berber tribes who had long suffered under Byzantine tax discrimination^4.
+The Muslim commanders brought not only military strength but also a message of justice and equality that appealed to many local populations — especially the Berber tribes who had long suffered under Byzantine tax discrimination.^4
 
 ## Analysis and Lessons
 

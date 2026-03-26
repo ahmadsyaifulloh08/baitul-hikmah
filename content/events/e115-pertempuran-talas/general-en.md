@@ -2,49 +2,49 @@
 
 ## Central Asian Geopolitical Background
 
-In the 8th century CE, Central Asia became an arena of competition among three major powers: the Tang Dynasty from China, the newly established Abbasid Dynasty, and various local Turkish kingdoms vying for influence. The Transoxiana region (between the Amu Darya and Syr Darya rivers) became the meeting point of these three civilizations^1.
+In the 8th century CE, Central Asia became an arena of competition among three major powers: the Tang Dynasty from China, the newly established Abbasid Dynasty, and various local Turkish kingdoms vying for influence. The Transoxiana region (between the Amu Darya and Syr Darya rivers) became the meeting point of these three civilizations.^1
 
-The Tang Dynasty under Emperor Xuanzong (712-756 CE) had expanded its power to reach Central Asia through a series of military expeditions. They controlled strategic areas such as Kashgar, Kucha, and established protectorates in various small kingdoms^2. Meanwhile, the Abbasid Dynasty, having just overthrown the Umayyads, sought to strengthen their position in the eastern territories.
+The Tang Dynasty under Emperor Xuanzong (712-756 CE) had expanded its power to reach Central Asia through a series of military expeditions. They controlled strategic areas such as Kashgar, Kucha, and established protectorates in various small kingdoms.^2 Meanwhile, the Abbasid Dynasty, having just overthrown the Umayyads, sought to strengthen their position in the eastern territories.
 
-**Ziyad ibn Salih**, the Abbasid governor for the Samarkand region, became a key figure in building alliances with local Turkish rulers who were beginning to feel pressured by Tang expansion^3. The situation became increasingly tense when the Tang began intervening in the internal affairs of Sogdian kingdoms.
+**Ziyad ibn Salih**, the Abbasid governor for the Samarkand region, became a key figure in building alliances with local Turkish rulers who were beginning to feel pressured by Tang expansion.^3 The situation became increasingly tense when the Tang began intervening in the internal affairs of Sogdian kingdoms.
 
 ## Towards Open Conflict
 
-The immediate trigger for conflict came when **King Ikhshid** of Ferghana requested military assistance from the Tang to face pressure from Abbasid allies. The Tang responded by sending a large force under the command of **General Gao Xianzhi**, an experienced officer who had led various campaigns in Central Asia^4.
+The immediate trigger for conflict came when **King Ikhshid** of Ferghana requested military assistance from the Tang to face pressure from Abbasid allies. The Tang responded by sending a large force under the command of **General Gao Xianzhi**, an experienced officer who had led various campaigns in Central Asia.^4
 
-At the same time, Arab Muslims and their Turkish allies began preparing a military response. **Abu Muslim al-Khurasani**, who remained the Abbasid governor of the eastern territories, arranged strategies to face the Tang threat. Although Abu Muslim was not directly present in the battle, his influence in preparing this campaign was highly significant^5.
+At the same time, Arab Muslims and their Turkish allies began preparing a military response. **Abu Muslim al-Khurasani**, who remained the Abbasid governor of the eastern territories, arranged strategies to face the Tang threat. Although Abu Muslim was not directly present in the battle, his influence in preparing this campaign was highly significant.^5
 
-The two armies finally met in the Talas River valley (now southern Kazakhstan) in July 751 CE. This location was strategic as it lay on the Silk Road trade route connecting China with the Middle East^6.
+The two armies finally met in the Talas River valley (now southern Kazakhstan) in July 751 CE. This location was strategic as it lay on the Silk Road trade route connecting China with the Middle East.^6
 
 ## The Battle of Talas: Strategy and Dynamics
 
 ### Troop Composition
 
-The Tang forces were led by the experienced General Gao Xianzhi, consisting of approximately 30,000 regular Tang soldiers, auxiliary troops from various local tribes, and a special heavy cavalry contingent. They had advantages in weaponry, especially crossbows and advanced armor^7.
+The Tang forces were led by the experienced General Gao Xianzhi, consisting of approximately 30,000 regular Tang soldiers, auxiliary troops from various local tribes, and a special heavy cavalry contingent. They had advantages in weaponry, especially crossbows and advanced armor.^7
 
-On the other side, the Arab Muslim forces were led by **Ziyad ibn Salih** with support from **Abu Dawud**, an Abbasid military commander. Their total strength reached approximately 25,000 people, including Arab troops, Persian *mawali*, and most importantly, Karluk Turkish cavalry skilled in steppe warfare tactics^8.
+On the other side, the Arab Muslim forces were led by **Ziyad ibn Salih** with support from **Abu Dawud**, an Abbasid military commander. Their total strength reached approximately 25,000 people, including Arab troops, Persian *mawali*, and most importantly, Karluk Turkish cavalry skilled in steppe warfare tactics.^8
 
 ### The Course of Battle
 
-The battle began on the morning of July 10, 751 CE with skirmishes between light cavalry from both sides. Tang forces initially succeeded in pushing back the Muslim front lines with well-organized infantry formations^9.
+The battle began on the morning of July 10, 751 CE with skirmishes between light cavalry from both sides. Tang forces initially succeeded in pushing back the Muslim front lines with well-organized infantry formations.^9
 
-However, the turning point came when the Karluk troops, who had originally sided with the Tang, suddenly turned and attacked. This betrayal, according to al-Tabari, had been planned beforehand through secret negotiations between Karluk leaders and Muslim commanders^10.
+However, the turning point came when the Karluk troops, who had originally sided with the Tang, suddenly turned and attacked. This betrayal, according to al-Tabari, had been planned beforehand through secret negotiations between Karluk leaders and Muslim commanders.^10
 
-This sudden attack from behind created chaos in Tang ranks. General Gao Xianzhi attempted to maintain formation, but the Muslims' numerical and tactical advantages ultimately forced the Tang forces to retreat with heavy losses^8.
+This sudden attack from behind created chaos in Tang ranks. General Gao Xianzhi attempted to maintain formation, but the Muslims' numerical and tactical advantages ultimately forced the Tang forces to retreat with heavy losses.^8
 
 ## Long-term Impact
 
 ### Central Asian Geopolitical Boundaries
 
-The Muslim victory at the Battle of Talas established a de facto boundary between Islamic and Chinese influence in Central Asia for centuries. The Tang Dynasty never again attempted to expand their power west of the Talas River, while Islamic expansion eastward also halted in this region^11.
+The Muslim victory at the Battle of Talas established a de facto boundary between Islamic and Chinese influence in Central Asia for centuries. The Tang Dynasty never again attempted to expand their power west of the Talas River, while Islamic expansion eastward also halted in this region.^11
 
-The battle's outcome allowed Islam to develop peacefully among the Turkish tribes of Central Asia. Within a few generations, the majority of Transoxiana's population embraced Islam, which later became the foundation for the emergence of Turkish Muslim dynasties such as the Ghaznavids and Seljuks^12.
+The battle's outcome allowed Islam to develop peacefully among the Turkish tribes of Central Asia. Within a few generations, the majority of Transoxiana's population embraced Islam, which later became the foundation for the emergence of Turkish Muslim dynasties such as the Ghaznavids and Seljuks.^12
 
 ### Technology Transfer: Paper and Printing
 
-One of the most significant impacts of the Battle of Talas was the transfer of papermaking technology from China to the Islamic world. According to historical records, several Tang prisoners of war who were skilled papermakers taught their techniques to Muslims in Samarkand^13.
+One of the most significant impacts of the Battle of Talas was the transfer of papermaking technology from China to the Islamic world. According to historical records, several Tang prisoners of war who were skilled papermakers taught their techniques to Muslims in Samarkand.^13
 
-Paper technology then spread rapidly throughout the Islamic world, reaching Baghdad, Cairo, and eventually Europe through Spain. This made a major contribution to the development of writing and translation traditions of scientific works in Islamic civilization^14.
+Paper technology then spread rapidly throughout the Islamic world, reaching Baghdad, Cairo, and eventually Europe through Spain. This made a major contribution to the development of writing and translation traditions of scientific works in Islamic civilization.^14
 
 ## Analysis and Lessons
 

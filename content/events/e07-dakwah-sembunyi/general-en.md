@@ -51,14 +51,14 @@ The Qur'anic verses revealed during this period largely focused on three themes:
 > *"By time. ﴾1﴿ Indeed, mankind is in loss, ﴾2﴿ except those who believe and do righteous deeds and advise each other to truth and advise each other to patience. ﴾3﴿"*
 > — QS. Al-'Asr (103): 1–3
 
-This short surah encapsulates the four conditions of success that formed the foundation for nurturing the companions: faith, righteous deeds, mutual counsel toward truth, and mutual counsel toward patience^4.
+This short surah encapsulates the four conditions of success that formed the foundation for nurturing the companions: faith, righteous deeds, mutual counsel toward truth, and mutual counsel toward patience.^4
 
 > ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ ﴿١﴾
 >
 > *"Read in the name of your Lord who created. ﴾1﴿"*
 > — QS. Al-'Alaq (96): 1
 
-The first command in Islam was to read — a revolutionary message in a predominantly illiterate society, affirming that Islam is fundamentally a religion of knowledge^4.
+The first command in Islam was to read — a revolutionary message in a predominantly illiterate society, affirming that Islam is fundamentally a religion of knowledge.^4
 
 ## Analysis and Lessons
 

@@ -59,7 +59,7 @@ Abu Lahab — whose real name was Abd al-'Uzza ibn Abd al-Muttalib — was the P
 > *"May the hands of Abu Lahab perish, and may he perish. ﴾1﴿ His wealth and what he earned will not benefit him. ﴾2﴿ He will burn in a Fire of blazing flame. ﴾3﴿ And his wife — the carrier of firewood (spreader of slander). ﴾4﴿ Around her neck is a rope of palm fiber. ﴾5﴿"*
 > — QS. Al-Lahab (111): 1–5
 
-Ibn Kathir explains in his tafsir that this surah was a direct response to Abu Lahab's rejection and to the role of his wife, **Umm Jamil bint Harb** (Abu Sufyan's sister), who frequently scattered thorns on the Prophet's path and spread malicious rumors about him among the Quraysh^3.
+Ibn Kathir explains in his tafsir that this surah was a direct response to Abu Lahab's rejection and to the role of his wife, **Umm Jamil bint Harb** (Abu Sufyan's sister), who frequently scattered thorns on the Prophet's path and spread malicious rumors about him among the Quraysh.^3
 
 ## Quotations and Evidence
 

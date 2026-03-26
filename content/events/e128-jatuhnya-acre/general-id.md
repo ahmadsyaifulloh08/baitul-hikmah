@@ -85,7 +85,7 @@ Jatuhnya Akka menunjukkan beberapa faktor penting dalam sejarah:
 > *"Apabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia masuk agama Allah dengan berbondong-bondong, maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya."* ﴾1-3﴿
 > — QS. An-Nashr (110): 1-3
 
-Jatuhnya Acre menandai kemenangan final Muslim atas Kerajaan Salib, memenuhi janji Allah tentang pertolongan dan kemenangan bagi hamba-hamba-Nya yang bersabar^5.
+Jatuhnya Acre menandai kemenangan final Muslim atas Kerajaan Salib, memenuhi janji Allah tentang pertolongan dan kemenangan bagi hamba-hamba-Nya yang bersabar.^5
 
 ---
 

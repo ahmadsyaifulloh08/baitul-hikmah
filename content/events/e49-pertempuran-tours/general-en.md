@@ -37,7 +37,7 @@ The Battle of Tours reminds us of the principle that in Islam, warfare is not th
 > *"And if it were not for Allah checking [some] people by means of others, the earth would have been corrupted."* ﴾251﴿
 > — QS. Al-Baqarah (2): 251
 
-Tours became a point of balance of power between Islam and Europe, showing how Allah establishes check-and-balance between civilizations to maintain world equilibrium^8.
+Tours became a point of balance of power between Islam and Europe, showing how Allah establishes check-and-balance between civilizations to maintain world equilibrium.^8
 
 This event also teaches the importance of strong leadership in difficult situations. The death of Abdul Rahman al-Ghafiqi shows how the leadership factor can influence the course of history.
 

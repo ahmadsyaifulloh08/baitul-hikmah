@@ -74,7 +74,7 @@ The sending of these letters was a direct implementation of the universality of 
 > *"And We have not sent you except as a mercy to all the worlds. ﴾107﴿"*
 > — QS. Al-Anbiya (21): 107
 
-By sending letters to Rome, Persia, Egypt, and Abyssinia, Prophet Muhammad ﷺ literally conveyed this message to the four corners of the known world. This confirmed that Islam was not a tribal or racial religion, but a call for all of humanity^4.
+By sending letters to Rome, Persia, Egypt, and Abyssinia, Prophet Muhammad ﷺ literally conveyed this message to the four corners of the known world. This confirmed that Islam was not a tribal or racial religion, but a call for all of humanity.^4
 
 ### Diplomatic Dimension
 

@@ -55,7 +55,7 @@ Pertanyaan lain yang muncul di kalangan sahabat bersifat lebih tulus: bagaimana 
 > *"Dan Allah tidak akan menyia-nyiakan imanmu. Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada manusia. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata. Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima^3.
+Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata. Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima.^3
 
 ## Analisis dan Hikmah
 

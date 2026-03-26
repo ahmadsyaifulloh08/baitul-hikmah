@@ -2,79 +2,79 @@
 
 ## Kehidupan Awal dan Cobaan
 
-**Rabi'ah bint Isma'il al-Adawiyah** lahir sekitar tahun 99 H/717 M di Basrah, Irak, dalam keluarga yang religius namun miskin dari suku Adiyy^1. Ayahnya, Isma'il, adalah seorang yang saleh tetapi meninggal ketika Rabi'ah masih kecil. Setelah kematian ayahnya, keluarganya mengalami kemiskinan yang parah^2.
+**Rabi'ah bint Isma'il al-Adawiyah** lahir sekitar tahun 99 H/717 M di Basrah, Irak, dalam keluarga yang religius namun miskin dari suku Adiyy.^1 Ayahnya, Isma'il, adalah seorang yang saleh tetapi meninggal ketika Rabi'ah masih kecil. Setelah kematian ayahnya, keluarganya mengalami kemiskinan yang parah.^2
 
-Masa kecil Rabi'ah diwarnai dengan penderitaan yang luar biasa. Ketika paceklik melanda Basrah, ia terpisah dari keluarganya dan dijual sebagai budak. **Al-Attar** mencatat bahwa Rabi'ah mengalami berbagai cobaan berat dalam masa perbudakannya, termasuk perlakuan kasar dari majikannya^3.
+Masa kecil Rabi'ah diwarnai dengan penderitaan yang luar biasa. Ketika paceklik melanda Basrah, ia terpisah dari keluarganya dan dijual sebagai budak. **Al-Attar** mencatat bahwa Rabi'ah mengalami berbagai cobaan berat dalam masa perbudakannya, termasuk perlakuan kasar dari majikannya.^3
 
-Meskipun dalam kondisi yang sulit, Rabi'ah tidak pernah kehilangan koneksi spiritualnya dengan Allah. Ia menghabiskan malam-malamnya untuk beribadah dan bermunajat. Suatu malam, majikannya melihat cahaya yang mengelilingi Rabi'ah saat ia sedang shalat, dan ini membuatnya membebaskan Rabi'ah dari perbudakan^4.
+Meskipun dalam kondisi yang sulit, Rabi'ah tidak pernah kehilangan koneksi spiritualnya dengan Allah. Ia menghabiskan malam-malamnya untuk beribadah dan bermunajat. Suatu malam, majikannya melihat cahaya yang mengelilingi Rabi'ah saat ia sedang shalat, dan ini membuatnya membebaskan Rabi'ah dari perbudakan.^4
 
 ## Perjalanan Spiritual dan Zuhud
 
 ### Kehidupan Pertapaan
 
-Setelah dibebaskan, Rabi'ah memilih hidup sebagai zahidah (perempuan sufi) dan mengasingkan diri di padang pasir dekat Basrah. Ia membangun pondok sederhana dan menghabiskan waktunya untuk ibadah, dzikir, dan muhasabah (introspeksi diri)^5.
+Setelah dibebaskan, Rabi'ah memilih hidup sebagai zahidah (perempuan sufi) dan mengasingkan diri di padang pasir dekat Basrah. Ia membangun pondok sederhana dan menghabiskan waktunya untuk ibadah, dzikir, dan muhasabah (introspeksi diri).^5
 
-**Hasan al-Bashri** (w. 110 H), ulama besar Basrah yang dikenal karena kefakiran dan kezuhdannya, sering berinteraksi dengan Rabi'ah. Meskipun Hasan adalah figur yang sangat dihormati, Rabi'ah tidak segan mengoreksi pandangan-pandangannya yang menurutnya masih terfokus pada aspek legal-formal agama^6.
+**Hasan al-Bashri** (w. 110 H), ulama besar Basrah yang dikenal karena kefakiran dan kezuhdannya, sering berinteraksi dengan Rabi'ah. Meskipun Hasan adalah figur yang sangat dihormati, Rabi'ah tidak segan mengoreksi pandangan-pandangannya yang menurutnya masih terfokus pada aspek legal-formal agama.^6
 
 ### Penolakan terhadap Pernikahan
 
-Berbagai tokoh terkemuka, termasuk **Muhammad ibn Sulayman**, gubernur Basrah, pernah melamar Rabi'ah. Namun ia menolak semua lamaran tersebut. Ketika ditanya alasannya, Rabi'ah menjawab: "Pernikahan adalah bagi mereka yang masih memiliki keberadaan (wujud). Aku telah fana dalam Allah dan hanya hidup melalui-Nya"^7.
+Berbagai tokoh terkemuka, termasuk **Muhammad ibn Sulayman**, gubernur Basrah, pernah melamar Rabi'ah. Namun ia menolak semua lamaran tersebut. Ketika ditanya alasannya, Rabi'ah menjawab: "Pernikahan adalah bagi mereka yang masih memiliki keberadaan (wujud). Aku telah fana dalam Allah dan hanya hidup melalui-Nya".^7
 
-Keputusannya untuk tetap membujang bukan karena memandang rendah pernikahan, tetapi karena ia telah mencapai tingkat spiritual di mana seluruh hidupnya dipersembahkan sepenuhnya untuk Allah. Ini menjadi simbol totalitas penyerahan diri dalam tasawuf^8.
+Keputusannya untuk tetap membujang bukan karena memandang rendah pernikahan, tetapi karena ia telah mencapai tingkat spiritual di mana seluruh hidupnya dipersembahkan sepenuhnya untuk Allah. Ini menjadi simbol totalitas penyerahan diri dalam tasawuf.^8
 
 ## Konsep Mahabbah Ilahiyyah
 
 ### Cinta Murni kepada Allah
 
-Rabi'ah dikenal sebagai pelopor konsep **mahabbah ilahiyyah** (cinta kepada Allah) dalam tasawuf Islam. Berbeda dengan kebanyakan sufi sebelumnya yang termotivasi oleh rasa takut kepada neraka atau harapan surga, Rabi'ah mengembangkan konsep cinta yang murni^9.
+Rabi'ah dikenal sebagai pelopor konsep **mahabbah ilahiyyah** (cinta kepada Allah) dalam tasawuf Islam. Berbeda dengan kebanyakan sufi sebelumnya yang termotivasi oleh rasa takut kepada neraka atau harapan surga, Rabi'ah mengembangkan konsep cinta yang murni.^9
 
-Dalam salah satu doa yang terkenal, ia berkata: "Ya Allah, jika aku menyembah-Mu karena takut neraka, bakarlah aku di dalamnya. Jika aku menyembah-Mu karena mengharap surga, jauhkanlah aku darinya. Tetapi jika aku menyembah-Mu karena Engkau, maka janganlah halangi aku dari keindahan wajah-Mu yang kekal"^10.
+Dalam salah satu doa yang terkenal, ia berkata: "Ya Allah, jika aku menyembah-Mu karena takut neraka, bakarlah aku di dalamnya. Jika aku menyembah-Mu karena mengharap surga, jauhkanlah aku darinya. Tetapi jika aku menyembah-Mu karena Engkau, maka janganlah halangi aku dari keindahan wajah-Mu yang kekal".^10
 
 ### Dimensi Baru dalam Spiritualitas Islam
 
-Konsep mahabbah yang dikembangkan Rabi'ah memberikan dimensi baru dalam spiritualitas Islam. Ia tidak menafikan pentingnya takwa dan harapan, tetapi mengangkat cinta sebagai motivasi tertinggi dalam beribadah^11.
+Konsep mahabbah yang dikembangkan Rabi'ah memberikan dimensi baru dalam spiritualitas Islam. Ia tidak menafikan pentingnya takwa dan harapan, tetapi mengangkat cinta sebagai motivasi tertinggi dalam beribadah.^11
 
-**Al-Junayd** kemudian mengakui bahwa Rabi'ah telah membuka jalan bagi perkembangan tasawuf yang lebih tinggi, di mana aspek cinta dan rindu (*syauq*) kepada Allah menjadi central theme dalam perjalanan spiritual^12.
+**Al-Junayd** kemudian mengakui bahwa Rabi'ah telah membuka jalan bagi perkembangan tasawuf yang lebih tinggi, di mana aspek cinta dan rindu (*syauq*) kepada Allah menjadi central theme dalam perjalanan spiritual.^12
 
 ## Ajaran dan Metodologi Spiritual
 
 ### Fana dan Baqa
 
-Rabi'ah mengajarkan konsep **fana** (pelenyapan diri dalam Allah) dan **baqa** (kekal dalam Allah) yang kemudian menjadi fundamental dalam tasawuf. Menurutnya, seorang sufi harus mencapai tingkat di mana ia tidak lagi melihat dirinya sebagai entitas yang terpisah dari Allah^13.
+Rabi'ah mengajarkan konsep **fana** (pelenyapan diri dalam Allah) dan **baqa** (kekal dalam Allah) yang kemudian menjadi fundamental dalam tasawuf. Menurutnya, seorang sufi harus mencapai tingkat di mana ia tidak lagi melihat dirinya sebagai entitas yang terpisah dari Allah.^13
 
-Konsep ini tidak berarti hulul (inkarnasi) atau ittihad (union) dalam pengertian yang salah, melainkan pelenyapan sifat-sifat negatif dan penyerahan total kepada kehendak Allah sehingga segala tindakannya menjadi manifestasi dari kehendak Allah^14.
+Konsep ini tidak berarti hulul (inkarnasi) atau ittihad (union) dalam pengertian yang salah, melainkan pelenyapan sifat-sifat negatif dan penyerahan total kepada kehendak Allah sehingga segala tindakannya menjadi manifestasi dari kehendak Allah.^14
 
 ### Metodologi Dzikir dan Munajat
 
-Rabi'ah mengembangkan metodologi dzikir yang unik, yang menggabungkan antara dzikir dengan lisan (*dzikr al-lisan*) dan dzikir hati (*dzikr al-qalb*). Ia mengajarkan bahwa dzikir yang sesungguhnya adalah ketika hati senantiasa mengingat Allah dalam setiap keadaan^15.
+Rabi'ah mengembangkan metodologi dzikir yang unik, yang menggabungkan antara dzikir dengan lisan (*dzikr al-lisan*) dan dzikir hati (*dzikr al-qalb*). Ia mengajarkan bahwa dzikir yang sesungguhnya adalah ketika hati senantiasa mengingat Allah dalam setiap keadaan.^15
 
-Munajat-munajatnnya yang penuh dengan kelembutan dan kerinduan kepada Allah menjadi model bagi generasi sufi setelahnya. **Attar** mencatat berbagai munajat Rabi'ah yang menunjukkan kedalaman spiritualnya^16.
+Munajat-munajatnnya yang penuh dengan kelembutan dan kerinduan kepada Allah menjadi model bagi generasi sufi setelahnya. **Attar** mencatat berbagai munajat Rabi'ah yang menunjukkan kedalaman spiritualnya.^16
 
 ## Interaksi dengan Ulama Kontemporer
 
 ### Dialog dengan Hasan al-Bashri
 
-Hubungan Rabi'ah dengan **Hasan al-Bashri** menunjukkan dinamika intelektual yang menarik antara pendekatan sufistik dan pendekatan berbasis syariat. Dalam beberapa dialog yang dicatat, Rabi'ah sering mengoreksi Hasan ketika ia terlalu fokus pada aspek hukum tanpa memperhatikan dimensi spiritual yang lebih dalam^17.
+Hubungan Rabi'ah dengan **Hasan al-Bashri** menunjukkan dinamika intelektual yang menarik antara pendekatan sufistik dan pendekatan berbasis syariat. Dalam beberapa dialog yang dicatat, Rabi'ah sering mengoreksi Hasan ketika ia terlalu fokus pada aspek hukum tanpa memperhatikan dimensi spiritual yang lebih dalam.^17
 
-Suatu ketika, ketika Hasan berkata bahwa ia telah mengenal Allah selama 30 tahun, Rabi'ah menjawab: "Aku masih mencari-Nya." Ketika Hasan bertanya mengapa, Rabi'ah menjelaskan bahwa mengenal Allah bukanlah pencapaian yang statis, melainkan perjalanan yang tiada akhir^18.
+Suatu ketika, ketika Hasan berkata bahwa ia telah mengenal Allah selama 30 tahun, Rabi'ah menjawab: "Aku masih mencari-Nya." Ketika Hasan bertanya mengapa, Rabi'ah menjelaskan bahwa mengenal Allah bukanlah pencapaian yang statis, melainkan perjalanan yang tiada akhir.^18
 
 ### Pengaruh terhadap Sufi-Sufi Kemudian
 
-**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep-konsep yang dikembangkan Rabi'ah kemudian dikembangkan lebih lanjut oleh **al-Junayd**, **al-Hallaj**, dan sufi-sufi besar lainnya^19.
+**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep-konsep yang dikembangkan Rabi'ah kemudian dikembangkan lebih lanjut oleh **al-Junayd**, **al-Hallaj**, dan sufi-sufi besar lainnya.^19
 
-**Ibn Arabi** dalam *Futuhat al-Makkiyyah* menyebut Rabi'ah sebagai salah satu figur penting yang membuka jalan bagi perkembangan *ma'rifah* (gnosis) dalam Islam^20.
+**Ibn Arabi** dalam *Futuhat al-Makkiyyah* menyebut Rabi'ah sebagai salah satu figur penting yang membuka jalan bagi perkembangan *ma'rifah* (gnosis) dalam Islam.^20
 
 ## Wafat dan Warisan Spiritual
 
 ### Akhir Hayat
 
-Rabi'ah wafat pada tahun 185 H/801 M dalam usia sekitar 84 tahun. Hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. **Al-Dhahabi** mencatat bahwa Rabi'ah meninggal dalam keadaan bersujud, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat^21.
+Rabi'ah wafat pada tahun 185 H/801 M dalam usia sekitar 84 tahun. Hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. **Al-Dhahabi** mencatat bahwa Rabi'ah meninggal dalam keadaan bersujud, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat.^21
 
 ### Pengaruh Jangka Panjang
 
-Ajaran Rabi'ah tentang mahabbah ilahiyyah memberikan pengaruh yang mendalam terhadap perkembangan tasawuf. Konsepnya diadopsi dan dikembangkan oleh berbagai tarekat, terutama dalam tradisi **Qadiriyyah** dan **Mevlevi**^22.
+Ajaran Rabi'ah tentang mahabbah ilahiyyah memberikan pengaruh yang mendalam terhadap perkembangan tasawuf. Konsepnya diadopsi dan dikembangkan oleh berbagai tarekat, terutama dalam tradisi **Qadiriyyah** dan **Mevlevi**.^22
 
-Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidah al-Nisa' al-Abidah"** (Pemimpin Perempuan yang Ahli Ibadah) dan menjadi prototipe bagi perempuan sufi (*sufiyyah*) di masa-masa selanjutnya^23.
+Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidah al-Nisa' al-Abidah"** (Pemimpin Perempuan yang Ahli Ibadah) dan menjadi prototipe bagi perempuan sufi (*sufiyyah*) di masa-masa selanjutnya.^23
 
 ## Analisis dan Hikmah
 

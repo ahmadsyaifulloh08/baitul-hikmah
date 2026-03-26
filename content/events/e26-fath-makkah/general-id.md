@@ -40,7 +40,7 @@ Rasulullah ﷺ memasuki Makkah pada hari Jumat, 20 Ramadhan tahun 8 Hijriah (11 
 > *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."*
 > — QS. Al-Fath (48): 1
 
-Pasukan dibagi menjadi empat kolom yang memasuki Makkah dari empat arah berbeda.^1 **Khalid ibn al-Walid** memimpin sayap kanan dari arah selatan. Di jalurnya terjadi sedikit perlawanan dari sekelompok kecil Quraisy yang dipimpin Ikrimah bin Abu Jahal dan Shafwan bin Umayyah, tetapi perlawanan ini segera dipatahkan.^1 Di jalur-jalur lain, tidak ada perlawanan sama sekali. Makkah dibuka nyaris tanpa pertumpahan darah — sebuah pencapaian militer dan moral yang luar biasa^5.
+Pasukan dibagi menjadi empat kolom yang memasuki Makkah dari empat arah berbeda.^1 **Khalid ibn al-Walid** memimpin sayap kanan dari arah selatan. Di jalurnya terjadi sedikit perlawanan dari sekelompok kecil Quraisy yang dipimpin Ikrimah bin Abu Jahal dan Shafwan bin Umayyah, tetapi perlawanan ini segera dipatahkan.^1 Di jalur-jalur lain, tidak ada perlawanan sama sekali. Makkah dibuka nyaris tanpa pertumpahan darah — sebuah pencapaian militer dan moral yang luar biasa.^5
 
 Setelah memasuki Makkah, Rasulullah ﷺ menuju Ka'bah. Beliau melakukan thawaf tujuh kali di atas untanya sambil menghancurkan 360 berhala yang mengelilingi Ka'bah dengan tongkat di tangannya, seraya membaca:^1 ^3
 

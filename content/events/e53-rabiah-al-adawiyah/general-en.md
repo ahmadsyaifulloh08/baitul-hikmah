@@ -2,79 +2,79 @@
 
 ## Early Life and Tribulations
 
-**Rabi'ah bint Isma'il al-Adawiyah** was born around 99 AH/717 CE in Basrah, Iraq, into a religious but poor family from the Adiyy tribe^1. Her father, Isma'il, was a pious man who died when Rabi'ah was still young. After her father's death, her family experienced severe poverty^2.
+**Rabi'ah bint Isma'il al-Adawiyah** was born around 99 AH/717 CE in Basrah, Iraq, into a religious but poor family from the Adiyy tribe.^1 Her father, Isma'il, was a pious man who died when Rabi'ah was still young. After her father's death, her family experienced severe poverty.^2
 
-Rabi'ah's childhood was marked by extraordinary suffering. When famine struck Basrah, she was separated from her family and sold into slavery. **Al-Attar** recorded that Rabi'ah experienced various severe trials during her enslavement, including harsh treatment from her master^3.
+Rabi'ah's childhood was marked by extraordinary suffering. When famine struck Basrah, she was separated from her family and sold into slavery. **Al-Attar** recorded that Rabi'ah experienced various severe trials during her enslavement, including harsh treatment from her master.^3
 
-Despite difficult conditions, Rabi'ah never lost her spiritual connection with Allah. She spent her nights in worship and supplication. One night, her master saw light surrounding Rabi'ah while she was praying, which moved him to free her from slavery^4.
+Despite difficult conditions, Rabi'ah never lost her spiritual connection with Allah. She spent her nights in worship and supplication. One night, her master saw light surrounding Rabi'ah while she was praying, which moved him to free her from slavery.^4
 
 ## Spiritual Journey and Asceticism
 
 ### Life of Hermitage
 
-After being freed, Rabi'ah chose to live as a zahidah (female sufi) and secluded herself in the desert near Basrah. She built a simple hut and spent her time in worship, dhikr, and muhasabah (self-examination)^5.
+After being freed, Rabi'ah chose to live as a zahidah (female sufi) and secluded herself in the desert near Basrah. She built a simple hut and spent her time in worship, dhikr, and muhasabah (self-examination).^5
 
-**Hasan al-Bashri** (d. 110 AH), the great scholar of Basrah known for his asceticism, often interacted with Rabi'ah. Although Hasan was a highly respected figure, Rabi'ah did not hesitate to correct his views which she felt were still focused on the legal-formal aspects of religion^6.
+**Hasan al-Bashri** (d. 110 AH), the great scholar of Basrah known for his asceticism, often interacted with Rabi'ah. Although Hasan was a highly respected figure, Rabi'ah did not hesitate to correct his views which she felt were still focused on the legal-formal aspects of religion.^6
 
 ### Rejection of Marriage
 
-Various prominent figures, including **Muhammad ibn Sulayman**, the governor of Basrah, had proposed to Rabi'ah. However, she rejected all proposals. When asked her reason, Rabi'ah replied: "Marriage is for those who still have existence (wujud). I have been annihilated in Allah and live only through Him"^7.
+Various prominent figures, including **Muhammad ibn Sulayman**, the governor of Basrah, had proposed to Rabi'ah. However, she rejected all proposals. When asked her reason, Rabi'ah replied: "Marriage is for those who still have existence (wujud). I have been annihilated in Allah and live only through Him".^7
 
-Her decision to remain unmarried was not because she looked down upon marriage, but because she had reached a spiritual level where her entire life was devoted completely to Allah. This became a symbol of total surrender in Sufism^8.
+Her decision to remain unmarried was not because she looked down upon marriage, but because she had reached a spiritual level where her entire life was devoted completely to Allah. This became a symbol of total surrender in Sufism.^8
 
 ## The Concept of Divine Love
 
 ### Pure Love for Allah
 
-Rabi'ah is known as the pioneer of the concept of **mahabbah ilahiyyah** (love for Allah) in Islamic Sufism. Unlike most Sufis before her who were motivated by fear of hell or hope for paradise, Rabi'ah developed the concept of pure love^9.
+Rabi'ah is known as the pioneer of the concept of **mahabbah ilahiyyah** (love for Allah) in Islamic Sufism. Unlike most Sufis before her who were motivated by fear of hell or hope for paradise, Rabi'ah developed the concept of pure love.^9
 
-In one of her famous prayers, she said: "O Allah, if I worship You from fear of Hell, burn me in it. If I worship You from hope of Paradise, exclude me from it. But if I worship You for Your own sake, do not withhold from me Your eternal beauty"^10.
+In one of her famous prayers, she said: "O Allah, if I worship You from fear of Hell, burn me in it. If I worship You from hope of Paradise, exclude me from it. But if I worship You for Your own sake, do not withhold from me Your eternal beauty".^10
 
 ### New Dimension in Islamic Spirituality
 
-The concept of mahabbah developed by Rabi'ah provided a new dimension in Islamic spirituality. She did not negate the importance of piety and hope, but elevated love as the highest motivation in worship^11.
+The concept of mahabbah developed by Rabi'ah provided a new dimension in Islamic spirituality. She did not negate the importance of piety and hope, but elevated love as the highest motivation in worship.^11
 
-**Al-Junayd** later acknowledged that Rabi'ah had opened the path for higher Sufi development, where aspects of love and longing (*shawq*) for Allah became the central theme in spiritual journey^12.
+**Al-Junayd** later acknowledged that Rabi'ah had opened the path for higher Sufi development, where aspects of love and longing (*shawq*) for Allah became the central theme in spiritual journey.^12
 
 ## Teachings and Spiritual Methodology
 
 ### Fana and Baqa
 
-Rabi'ah taught the concepts of **fana** (annihilation in Allah) and **baqa** (subsistence in Allah) which later became fundamental in Sufism. According to her, a Sufi must reach a level where they no longer see themselves as an entity separate from Allah^13.
+Rabi'ah taught the concepts of **fana** (annihilation in Allah) and **baqa** (subsistence in Allah) which later became fundamental in Sufism. According to her, a Sufi must reach a level where they no longer see themselves as an entity separate from Allah.^13
 
-This concept does not mean hulul (incarnation) or ittihad (union) in the wrong sense, but rather the annihilation of negative qualities and total surrender to Allah's will so that all actions become manifestations of Allah's will^14.
+This concept does not mean hulul (incarnation) or ittihad (union) in the wrong sense, but rather the annihilation of negative qualities and total surrender to Allah's will so that all actions become manifestations of Allah's will.^14
 
 ### Methodology of Dhikr and Munajat
 
-Rabi'ah developed a unique dhikr methodology that combined verbal dhikr (*dhikr al-lisan*) and heart dhikr (*dhikr al-qalb*). She taught that true dhikr is when the heart constantly remembers Allah in every condition^15.
+Rabi'ah developed a unique dhikr methodology that combined verbal dhikr (*dhikr al-lisan*) and heart dhikr (*dhikr al-qalb*). She taught that true dhikr is when the heart constantly remembers Allah in every condition.^15
 
-Her supplications filled with tenderness and longing for Allah became models for subsequent generations of Sufis. **Attar** recorded various supplications of Rabi'ah that showed her spiritual depth^16.
+Her supplications filled with tenderness and longing for Allah became models for subsequent generations of Sufis. **Attar** recorded various supplications of Rabi'ah that showed her spiritual depth.^16
 
 ## Interaction with Contemporary Scholars
 
 ### Dialogue with Hasan al-Bashri
 
-Rabi'ah's relationship with **Hasan al-Bashri** showed interesting intellectual dynamics between Sufi approach and sharia-based approach. In several recorded dialogues, Rabi'ah often corrected Hasan when he focused too much on legal aspects without considering deeper spiritual dimensions^17.
+Rabi'ah's relationship with **Hasan al-Bashri** showed interesting intellectual dynamics between Sufi approach and sharia-based approach. In several recorded dialogues, Rabi'ah often corrected Hasan when he focused too much on legal aspects without considering deeper spiritual dimensions.^17
 
-Once, when Hasan said he had known Allah for 30 years, Rabi'ah replied: "I am still seeking Him." When Hasan asked why, Rabi'ah explained that knowing Allah is not a static achievement but an endless journey^18.
+Once, when Hasan said he had known Allah for 30 years, Rabi'ah replied: "I am still seeking Him." When Hasan asked why, Rabi'ah explained that knowing Allah is not a static achievement but an endless journey.^18
 
 ### Influence on Later Sufis
 
-**Dhu al-Nun al-Mishri** (d. 245 AH) acknowledged that Rabi'ah had inspired his views on love in Sufism. The concepts developed by Rabi'ah were later further developed by **al-Junayd**, **al-Hallaj**, and other great Sufis^19.
+**Dhu al-Nun al-Mishri** (d. 245 AH) acknowledged that Rabi'ah had inspired his views on love in Sufism. The concepts developed by Rabi'ah were later further developed by **al-Junayd**, **al-Hallaj**, and other great Sufis.^19
 
-**Ibn Arabi** in *Futuhat al-Makkiyyah* mentioned Rabi'ah as one of the important figures who opened the path for the development of *ma'rifah* (gnosis) in Islam^20.
+**Ibn Arabi** in *Futuhat al-Makkiyyah* mentioned Rabi'ah as one of the important figures who opened the path for the development of *ma'rifah* (gnosis) in Islam.^20
 
 ## Death and Spiritual Legacy
 
 ### End of Life
 
-Rabi'ah died in 185 AH/801 CE at approximately age 84. Until the end of her life, she remained consistent with the spiritual path she had chosen. **Al-Dhahabi** recorded that Rabi'ah died in prostration, as if her pure soul returned to the Beloved in the closest position^21.
+Rabi'ah died in 185 AH/801 CE at approximately age 84. Until the end of her life, she remained consistent with the spiritual path she had chosen. **Al-Dhahabi** recorded that Rabi'ah died in prostration, as if her pure soul returned to the Beloved in the closest position.^21
 
 ### Long-term Influence
 
-Rabi'ah's teachings on divine love provided profound influence on Sufi development. Her concepts were adopted and developed by various orders, especially in **Qadiriyyah** and **Mevlevi** traditions^22.
+Rabi'ah's teachings on divine love provided profound influence on Sufi development. Her concepts were adopted and developed by various orders, especially in **Qadiriyyah** and **Mevlevi** traditions.^22
 
-In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (Leader of Worshipping Women) and became a prototype for female Sufis (*sufiyyah*) in later times^23.
+In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (Leader of Worshipping Women) and became a prototype for female Sufis (*sufiyyah*) in later times.^23
 
 ## Analysis and Lessons
 

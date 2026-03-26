@@ -65,7 +65,7 @@ Perjanjian Jaffa juga membuktikan bahwa **mutual respect** dapat mengatasi perbe
 > *"Allah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam agama dan tidak mengusirmu dari negerimu."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
-Perjanjian Jaffa antara Frederick II dan al-Kamil membuktikan bahwa diplomasi damai antar-peradaban dimungkinkan ketika kedua pihak saling menghormati^4.
+Perjanjian Jaffa antara Frederick II dan al-Kamil membuktikan bahwa diplomasi damai antar-peradaban dimungkinkan ketika kedua pihak saling menghormati.^4
 
 ---
 

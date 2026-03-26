@@ -63,7 +63,7 @@ Banyak anggota kasta rendah yang kemudian masuk Islam karena melihat dalam agama
 > *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal. Sesungguhnya orang yang paling mulia diantara kamu disisi Allah ialah orang yang paling taqwa diantara kamu." ﴾13﴿*
 > — QS. Al-Hujurat (49): 13^16
 
-Proses Islamisasi India menciptakan identitas kultural yang unik, di mana elemen-elemen Arab, Persia, Turki, dan India berpadu menjadi sesuatu yang baru. Bahasa Urdu, yang berkembang kemudian, menjadi simbol dari sintesis kultural ini—bahasa yang menggunakan kosakata Arab-Persia dengan struktur tata bahasa Hindi^16.
+Proses Islamisasi India menciptakan identitas kultural yang unik, di mana elemen-elemen Arab, Persia, Turki, dan India berpadu menjadi sesuatu yang baru. Bahasa Urdu, yang berkembang kemudian, menjadi simbol dari sintesis kultural ini—bahasa yang menggunakan kosakata Arab-Persia dengan struktur tata bahasa Hindi.^16
 
 ## Warisan dan Kontinuitas
 

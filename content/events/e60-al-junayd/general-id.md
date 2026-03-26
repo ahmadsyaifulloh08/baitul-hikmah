@@ -2,101 +2,101 @@
 
 ## Kehidupan dan Latar Belakang
 
-**Abu al-Qasim ibn Muhammad al-Junayd** lahir sekitar tahun 215 H/830 M di Baghdad dalam keluarga yang terpandang^1. Ayahnya, Muhammad, adalah pedagang kaca (*qawwariri*) yang saleh, sehingga al-Junayd sering disebut **al-Qawwariri**^2. Lingkungan keluarga yang religius memberikan fondasi spiritual yang kuat bagi perkembangan intelektualnya.
+**Abu al-Qasim ibn Muhammad al-Junayd** lahir sekitar tahun 215 H/830 M di Baghdad dalam keluarga yang terpandang.^1 Ayahnya, Muhammad, adalah pedagang kaca (*qawwariri*) yang saleh, sehingga al-Junayd sering disebut **al-Qawwariri**.^2 Lingkungan keluarga yang religius memberikan fondasi spiritual yang kuat bagi perkembangan intelektualnya.
 
-Al-Junayd tumbuh dalam periode keemasan Baghdad sebagai pusat peradaban Islam. Kota ini tidak hanya menjadi pusat politik dan ekonomi, tetapi juga spiritual, tempat berkembangnya berbagai aliran tasawuf^3.
+Al-Junayd tumbuh dalam periode keemasan Baghdad sebagai pusat peradaban Islam. Kota ini tidak hanya menjadi pusat politik dan ekonomi, tetapi juga spiritual, tempat berkembangnya berbagai aliran tasawuf.^3
 
 ## Pendidikan dan Guru-Guru Spiritual
 
 ### Berguru kepada Al-Sari al-Saqati
 
-**Al-Sari al-Saqati** (w. 253 H/867 M), paman dari pihak ibu al-Junayd, menjadi guru spiritual utamanya. Al-Sari adalah murid **Ma'ruf al-Karkhi** dan merupakan mata rantai penting dalam silsilah tasawuf Baghdad^4.
+**Al-Sari al-Saqati** (w. 253 H/867 M), paman dari pihak ibu al-Junayd, menjadi guru spiritual utamanya. Al-Sari adalah murid **Ma'ruf al-Karkhi** dan merupakan mata rantai penting dalam silsilah tasawuf Baghdad.^4
 
-Dari al-Sari, al-Junayd mempelajari dasar-dasar *maqamat* (tingkatan spiritual) dan *ahwal* (keadaan spiritual). Al-Sari mengajarkan konsep **fanafi'l-shaykh** (fana dalam guru) sebagai langkah awal menuju fana yang lebih tinggi^5.
+Dari al-Sari, al-Junayd mempelajari dasar-dasar *maqamat* (tingkatan spiritual) dan *ahwal* (keadaan spiritual). Al-Sari mengajarkan konsep **fanafi'l-shaykh** (fana dalam guru) sebagai langkah awal menuju fana yang lebih tinggi.^5
 
 ### Pengaruh Al-Harith al-Muhasibi
 
-**Al-Harith al-Muhasibi** (w. 243 H/857 M) memberikan pengaruh besar terhadap metodologi spiritual al-Junayd. Dari al-Muhasibi, al-Junayd belajar tentang **muhasabah** (introspeksi diri) dan **muraqabah** (observasi spiritual)^6.
+**Al-Harith al-Muhasibi** (w. 243 H/857 M) memberikan pengaruh besar terhadap metodologi spiritual al-Junayd. Dari al-Muhasibi, al-Junayd belajar tentang **muhasabah** (introspeksi diri) dan **muraqabah** (observasi spiritual).^6
 
-Al-Muhasibi juga memperkenalkan al-Junayd kepada psikologi spiritua Islam dan pentingnya keseimbangan antara syariat dan hakikat dalam perjalanan sufistik^7.
+Al-Muhasibi juga memperkenalkan al-Junayd kepada psikologi spiritua Islam dan pentingnya keseimbangan antara syariat dan hakikat dalam perjalanan sufistik.^7
 
 ## Pengembangan Doktrin Tasawuf
 
 ### Konsep Fana dan Baqa
 
-Al-Junayd mengembangkan doktrin **fana** (peniadaan diri) dan **baqa** (kekal dalam Allah) yang menjadi fondasi teoretis tasawuf Sunni. Menurutnya, fana bukan berarti hilangnya eksistensi manusia, tetapi lenyapnya kesadaran akan diri sendiri dalam kesadaran akan Allah^8.
+Al-Junayd mengembangkan doktrin **fana** (peniadaan diri) dan **baqa** (kekal dalam Allah) yang menjadi fondasi teoretis tasawuf Sunni. Menurutnya, fana bukan berarti hilangnya eksistensi manusia, tetapi lenyapnya kesadaran akan diri sendiri dalam kesadaran akan Allah.^8
 
-Dalam risalahnya **"Kitab al-Fana"**, al-Junayd menjelaskan bahwa fana memiliki tiga tingkatan: (1) fana dari sifat-sifat tercela, (2) fana dari sifat-sifat manusiawi, (3) fana dalam dzat Allah^9.
+Dalam risalahnya **"Kitab al-Fana"**, al-Junayd menjelaskan bahwa fana memiliki tiga tingkatan: (1) fana dari sifat-sifat tercela, (2) fana dari sifat-sifat manusiawi, (3) fana dalam dzat Allah.^9
 
-Konsep **baqa** dijelaskan sebagai kondisi setelah fana, di mana sufi kembali kepada kesadaran duniawi namun dengan perspektif yang telah diilhami oleh pengalaman ketuhanan^10.
+Konsep **baqa** dijelaskan sebagai kondisi setelah fana, di mana sufi kembali kepada kesadaran duniawi namun dengan perspektif yang telah diilhami oleh pengalaman ketuhanan.^10
 
 ### Al-Tawhid al-Khawas
 
-Al-Junayd mengembangkan konsep **tawhid khawas** (tawhid khusus) yang berbeda dari tawhid awam. Tawhid khawas adalah pengenalan akan Allah melalui pengalaman spiritual langsung (*mushahaddah*), bukan hanya melalui dalil rasional^11.
+Al-Junayd mengembangkan konsep **tawhid khawas** (tawhid khusus) yang berbeda dari tawhid awam. Tawhid khawas adalah pengenalan akan Allah melalui pengalaman spiritual langsung (*mushahaddah*), bukan hanya melalui dalil rasional.^11
 
-Ia menjelaskan bahwa dalam tawhid khawas, hamba tidak lagi melihat dirinya sebagai subjek yang terpisah dari Allah, tetapi merasakan kesatuan eksistensial dengan-Nya^12.
+Ia menjelaskan bahwa dalam tawhid khawas, hamba tidak lagi melihat dirinya sebagai subjek yang terpisah dari Allah, tetapi merasakan kesatuan eksistensial dengan-Nya.^12
 
 ## Metodologi Spiritual
 
 ### Sistem Maqamat dan Ahwal
 
-Al-Junayd mengkodifikasi sistem **maqamat** (tingkatan yang dicapai melalui usaha) dan **ahwal** (keadaan yang dianugerahkan Allah). Maqamat meliputi: taubat, wara', zuhud, faqr, sabar, tawakkul, dan rida^13.
+Al-Junayd mengkodifikasi sistem **maqamat** (tingkatan yang dicapai melalui usaha) dan **ahwal** (keadaan yang dianugerahkan Allah). Maqamat meliputi: taubat, wara', zuhud, faqr, sabar, tawakkul, dan rida.^13
 
-Ahwal adalah pengalaman spiritual sementara yang meliputi: muraqabah, qurb (kedekatan), mahabbah (cinta), khauf (takut), raja (harap), dan syauq (kerinduan). Ahwal tidak dapat dicapai melalui usaha tetapi merupakan karunia Allah^14.
+Ahwal adalah pengalaman spiritual sementara yang meliputi: muraqabah, qurb (kedekatan), mahabbah (cinta), khauf (takut), raja (harap), dan syauq (kerinduan). Ahwal tidak dapat dicapai melalui usaha tetapi merupakan karunia Allah.^14
 
 ### Prinsip Al-Ruju' ila al-Kitab wa al-Sunnah
 
-Salah satu kontribusi terpenting al-Junayd adalah menjaga agar tasawuf tetap berada dalam koridor syariat. Ia menekankan bahwa setiap pengalaman spiritual harus divalidasi dengan Al-Quran dan Sunnah^15.
+Salah satu kontribusi terpenting al-Junayd adalah menjaga agar tasawuf tetap berada dalam koridor syariat. Ia menekankan bahwa setiap pengalaman spiritual harus divalidasi dengan Al-Quran dan Sunnah.^15
 
-Prinsip **"kull wajd la yushahidhu al-kitab wa al-sunnah fa huwa batil"** (setiap pengalaman spiritual yang tidak disaksikan oleh Kitab dan Sunnah adalah batil) menjadi pegangan utama dalam tasawuf Sunni^16.
+Prinsip **"kull wajd la yushahidhu al-kitab wa al-sunnah fa huwa batil"** (setiap pengalaman spiritual yang tidak disaksikan oleh Kitab dan Sunnah adalah batil) menjadi pegangan utama dalam tasawuf Sunni.^16
 
 ## Pengaruh dan Murid-Murid
 
 ### Pembentukan Sekolah Tasawuf Baghdad
 
-Al-Junayd mendirikan sekolah tasawuf di Baghdad yang menjadi pusat pembelajaran spiritualitas Islam. **Abu Bakr al-Shibli**, **Abu al-Husayn al-Nuri**, dan **Abu Ya'qub al-Nahrajuri** adalah murid-murid terpentingnya^17.
+Al-Junayd mendirikan sekolah tasawuf di Baghdad yang menjadi pusat pembelajaran spiritualitas Islam. **Abu Bakr al-Shibli**, **Abu al-Husayn al-Nuri**, dan **Abu Ya'qub al-Nahrajuri** adalah murid-murid terpentingnya.^17
 
-Sekolah al-Junayd menekankan metodologi yang sistematis dalam *suluk* (perjalanan spiritual) dengan tetap mempertahankan keseimbangan antara dimensi eksoterik dan esoterik Islam^18.
+Sekolah al-Junayd menekankan metodologi yang sistematis dalam *suluk* (perjalanan spiritual) dengan tetap mempertahankan keseimbangan antara dimensi eksoterik dan esoterik Islam.^18
 
 ### Silsilah Spiritual
 
-Silsilah spiritual al-Junayd menjadi salah satu yang paling berpengaruh dalam tasawuf Sunni. Melalui murid-muridnya, ajaran al-Junayd menyebar ke berbagai wilayah dunia Islam dan menjadi dasar bagi tarekat-tarekat besar seperti Qadiriyyah dan Naqsyabandiyah^19.
+Silsilah spiritual al-Junayd menjadi salah satu yang paling berpengaruh dalam tasawuf Sunni. Melalui murid-muridnya, ajaran al-Junayd menyebar ke berbagai wilayah dunia Islam dan menjadi dasar bagi tarekat-tarekat besar seperti Qadiriyyah dan Naqsyabandiyah.^19
 
 ## Karya-Karya dan Ajaran
 
 ### Rasa'il (Risalah-Risalah)
 
-Al-Junayd menulis berbagai risalah tentang tasawuf, termasuk **"Risalah fi al-Fana"**, **"Risalah fi al-Tawhid"**, dan **"Risalah fi Ma'rifat Allah"**. Karya-karya ini menjadi referensi utama dalam literatur tasawuf^20.
+Al-Junayd menulis berbagai risalah tentang tasawuf, termasuk **"Risalah fi al-Fana"**, **"Risalah fi al-Tawhid"**, dan **"Risalah fi Ma'rifat Allah"**. Karya-karya ini menjadi referensi utama dalam literatur tasawuf.^20
 
-Gaya tulisan al-Junayd sangat simbolis dan metaforis, memerlukan komentar dan penjelasan dari para ulama setelahnya. **Al-Qushayri** dan **al-Ghazali** banyak mengutip dan menjelaskan ajaran-ajarannya^21.
+Gaya tulisan al-Junayd sangat simbolis dan metaforis, memerlukan komentar dan penjelasan dari para ulama setelahnya. **Al-Qushayri** dan **al-Ghazali** banyak mengutip dan menjelaskan ajaran-ajarannya.^21
 
 ### Konsep Al-Sirr
 
-Al-Junayd mengembangkan konsep **al-sirr** (rahasia) sebagai dimensi terdalam dalam diri manusia tempat terjadinya komunikasi langsung dengan Allah. Sirr adalah fakultas spiritual yang memungkinkan manusia melampaui batas-batas rasional^22.
+Al-Junayd mengembangkan konsep **al-sirr** (rahasia) sebagai dimensi terdalam dalam diri manusia tempat terjadinya komunikasi langsung dengan Allah. Sirr adalah fakultas spiritual yang memungkinkan manusia melampaui batas-batas rasional.^22
 
 ## Kontroversi dan Pembelaan
 
 ### Kritik dari Ulama Zahir
 
-Ajaran al-Junayd, terutama konsep fana, mendapat kritik dari sebagian ulama zahir yang menganggapnya berpotensi mengarah kepada **hulul** (inkarnasi) atau **ittihad** (unifikasi). Ahmad ibn Hanbal sempat meragukan beberapa aspek ajaran tasawuf^23.
+Ajaran al-Junayd, terutama konsep fana, mendapat kritik dari sebagian ulama zahir yang menganggapnya berpotensi mengarah kepada **hulul** (inkarnasi) atau **ittihad** (unifikasi). Ahmad ibn Hanbal sempat meragukan beberapa aspek ajaran tasawuf.^23
 
-Al-Junayd merespons kritik ini dengan menjelaskan bahwa fana dalam ajarannya bukanlah hulul, tetapi lenyapnya kesadaran akan diri dalam kesadaran akan Allah, sementara hakikat ontologis manusia tetap berbeda dari Allah^24.
+Al-Junayd merespons kritik ini dengan menjelaskan bahwa fana dalam ajarannya bukanlah hulul, tetapi lenyapnya kesadaran akan diri dalam kesadaran akan Allah, sementara hakikat ontologis manusia tetap berbeda dari Allah.^24
 
 ### Pembelaan terhadap Al-Hallaj
 
-Ketika **al-Hallaj** mengalami kontroversi karena ucapan **"Ana al-Haqq"**, al-Junayd menunjukkan sikap yang kompleks. Di satu sisi ia memahami makna spiritual ucapan tersebut, tetapi di sisi lain ia mengkritik al-Hallaj karena mengungkap rahasia spiritual kepada orang awam^25.
+Ketika **al-Hallaj** mengalami kontroversi karena ucapan **"Ana al-Haqq"**, al-Junayd menunjukkan sikap yang kompleks. Di satu sisi ia memahami makna spiritual ucapan tersebut, tetapi di sisi lain ia mengkritik al-Hallaj karena mengungkap rahasia spiritual kepada orang awam.^25
 
 ## Warisan dan Pengaruh
 
 ### Tasawuf Sunni
 
-Al-Junayd berhasil mengintegrasikan tasawuf dengan orthodox Islam, menciptakan sintesis yang kemudian dikenal sebagai **tasawuf Sunni**. Model ini memungkinkan spiritualitas Islam berkembang tanpa keluar dari mainstream teologi Sunni^26.
+Al-Junayd berhasil mengintegrasikan tasawuf dengan orthodox Islam, menciptakan sintesis yang kemudian dikenal sebagai **tasawuf Sunni**. Model ini memungkinkan spiritualitas Islam berkembang tanpa keluar dari mainstream teologi Sunni.^26
 
-**Al-Ghazali** kemudian mengadopsi dan mengembangkan kerangka teoretis yang dibangun al-Junayd, memberikan legitimasi filosofis dan teologis yang kuat terhadap tasawuf^27.
+**Al-Ghazali** kemudian mengadopsi dan mengembangkan kerangka teoretis yang dibangun al-Junayd, memberikan legitimasi filosofis dan teologis yang kuat terhadap tasawuf.^27
 
 ### Pengaruh terhadap Tarekat
 
-Metodologi spiritual al-Junayd menjadi foundation bagi perkembangan sistem tarekat dalam Islam. Konsep *bai'ah* (baiat), *silsilah* (mata rantai spiritual), dan *adab* (etika spiritual) yang dikembangkannya diadopsi oleh hampir semua tarekat^28.
+Metodologi spiritual al-Junayd menjadi foundation bagi perkembangan sistem tarekat dalam Islam. Konsep *bai'ah* (baiat), *silsilah* (mata rantai spiritual), dan *adab* (etika spiritual) yang dikembangkannya diadopsi oleh hampir semua tarekat.^28
 
 ## Analisis dan Hikmah
 

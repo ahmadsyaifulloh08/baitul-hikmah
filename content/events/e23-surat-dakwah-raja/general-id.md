@@ -74,7 +74,7 @@ Pengiriman surat-surat ini adalah implementasi langsung dari universalitas risal
 > *"Dan tidaklah Kami mengutusmu melainkan sebagai rahmat bagi seluruh alam. ﴾107﴿"*
 > — QS. Al-Anbiya (21): 107
 
-Dengan mengirim surat ke Romawi, Persia, Mesir, dan Habasyah, Nabi Muhammad ﷺ secara harfiah menyampaikan pesan ini ke empat penjuru dunia yang dikenal saat itu. Ini menegaskan bahwa Islam bukan agama suku atau ras tertentu, melainkan seruan untuk seluruh umat manusia^4.
+Dengan mengirim surat ke Romawi, Persia, Mesir, dan Habasyah, Nabi Muhammad ﷺ secara harfiah menyampaikan pesan ini ke empat penjuru dunia yang dikenal saat itu. Ini menegaskan bahwa Islam bukan agama suku atau ras tertentu, melainkan seruan untuk seluruh umat manusia.^4
 
 ### Dimensi Diplomatik
 

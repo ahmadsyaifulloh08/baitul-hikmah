@@ -24,7 +24,7 @@ The Quran mentions the last three explicitly^4:
 > *"Have you then considered al-Lat and al-Uzza, ﴾19﴿ and Manat, the third, the other one? ﴾20﴿"*
 > — QS. An-Najm (53): 19-20
 
-Beyond statues, the Ka'bah also contained paintings. Ibn Hisham records that among the paintings inside the Ka'bah were depictions of Prophet Ibrahim and Ismail casting lots with divination arrows — a historical distortion portraying two prophets of monotheism as though engaged in pre-Islamic practices.^1 There were also images of Maryam and Isa *'alayhimas salam*^4.
+Beyond statues, the Ka'bah also contained paintings. Ibn Hisham records that among the paintings inside the Ka'bah were depictions of Prophet Ibrahim and Ismail casting lots with divination arrows — a historical distortion portraying two prophets of monotheism as though engaged in pre-Islamic practices.^1 There were also images of Maryam and Isa *'alayhimas salam*.^4
 
 ## The Event: The Day of Purification
 
@@ -44,7 +44,7 @@ As he pointed and toppled the idols, he recited two verses of the Quran:
 > *"Say: Truth has come, and falsehood can neither originate anything nor restore it. ﴾49﴿"*
 > — QS. Saba (34): 49
 
-After the *tawaf*, the Prophet ﷺ ordered all 360 idols to be removed from the Ka'bah and destroyed.^1 ^3 Stone idols were smashed; wooden ones were burned. Hubal — the largest and most venerated idol of Quraysh — was broken in front of the Ka'bah's entrance^4.
+After the *tawaf*, the Prophet ﷺ ordered all 360 idols to be removed from the Ka'bah and destroyed.^1 ^3 Stone idols were smashed; wooden ones were burned. Hubal — the largest and most venerated idol of Quraysh — was broken in front of the Ka'bah's entrance.^4
 
 Ibn Hisham records that when the Prophet ﷺ entered the Ka'bah, he found paintings on its walls. He ordered all paintings removed. According to one account by al-Azraqi in *Akhbar Makkah*, he initially shielded the paintings of Ibrahim and Maryam with his hands before ultimately ordering all images erased without exception.^1 This demonstrates that the destruction was not animosity toward art, but purification from all intermediaries in worship.
 
@@ -67,7 +67,7 @@ The destruction of idols at the Ka'bah had precedent in prophetic history. Proph
 > *"Then he turned to their gods and said: 'Will you not eat? ﴾91﴿ What is the matter with you that you do not speak?' ﴾92﴿ Then he turned upon them, striking with his right hand. ﴾93﴿"*
 > — QS. As-Saffat (37): 91-93
 
-What Prophet Muhammad ﷺ did was the continuation and completion of Prophet Ibrahim's mission — restoring the Ka'bah to its original purpose: a house of worship for Allah alone^4.
+What Prophet Muhammad ﷺ did was the continuation and completion of Prophet Ibrahim's mission — restoring the Ka'bah to its original purpose: a house of worship for Allah alone.^4
 
 ## Analysis and Lessons
 

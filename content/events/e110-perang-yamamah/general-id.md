@@ -108,7 +108,7 @@ Al-Quran mengajarkan tentang kedudukan para syuhada:
 > *"Janganlah kamu mengira bahwa orang-orang yang gugur di jalan Allah itu mati; bahkan mereka itu hidup di sisi Tuhan mereka dengan mendapat rezeki. ﴾169﴿"*
 > — QS. Ali Imran (3): 169
 
-Bagi ratusan penghafal al-Quran yang gugur di Yamamah, ayat ini adalah janji bahwa pengorbanan mereka tidak sia-sia — mereka hidup di sisi Allah, dan al-Quran yang mereka hafal tetap terjaga melalui upaya pengumpulan yang mereka inspirasikan dengan darah mereka^4.
+Bagi ratusan penghafal al-Quran yang gugur di Yamamah, ayat ini adalah janji bahwa pengorbanan mereka tidak sia-sia — mereka hidup di sisi Allah, dan al-Quran yang mereka hafal tetap terjaga melalui upaya pengumpulan yang mereka inspirasikan dengan darah mereka.^4
 
 ---
 

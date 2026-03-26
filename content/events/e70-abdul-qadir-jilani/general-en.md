@@ -29,7 +29,7 @@ In one of his sermons, Abdul Qadir explained the importance of balance between k
 > *"O peaceful soul, return to your Lord, well-pleased and pleasing [to Him]. And enter among My [righteous] servants, and enter My Paradise."* ﴾27-30﴿
 > — QS. Al-Fajr (89): 27-30^4
 
-This verse became the core of the Sufi teachings that Abdul Qadir taught — the attainment of the peaceful soul (*nafs al-mutma'innah*) as the highest goal of the spiritual journey^4.
+This verse became the core of the Sufi teachings that Abdul Qadir taught — the attainment of the peaceful soul (*nafs al-mutma'innah*) as the highest goal of the spiritual journey.^4
 
 ## The Qadiriyyah Order and Its Teachings
 

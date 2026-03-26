@@ -83,7 +83,7 @@ Penaklukan Konstantinopel mengajarkan beberapa pelajaran penting:
 > *"Dan Allah telah berjanji kepada orang-orang yang beriman di antara kamu dan mengerjakan amal-amal saleh bahwa Dia sungguh-sungguh akan menjadikan mereka berkuasa di muka bumi."* ﴾55﴿
 > — QS. An-Nur (24): 55
 
-Ayat ini mencerminkan pemahaman Ottoman bahwa penaklukan adalah pemenuhan janji ilahi untuk orang beriman yang saleh^5.
+Ayat ini mencerminkan pemahaman Ottoman bahwa penaklukan adalah pemenuhan janji ilahi untuk orang beriman yang saleh.^5
 
 ---
 

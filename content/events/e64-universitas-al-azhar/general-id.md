@@ -49,7 +49,7 @@ Sistem "ijazah" (sertifikat) yang dikembangkan Al-Azhar menjadi model bagi insti
 > *"Allah akan meninggikan orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu pengetahuan beberapa derajat."* ﴾11﴿
 > — QS. Al-Mujadalah (58): 11^13
 
-Al-Azhar menjadi pelopor dalam integrasi berbagai cabang ilmu Islam, mewujudkan janji Allah tentang peninggian derajat bagi orang-orang berilmu. Para mahasiswa tidak hanya mempelajari satu bidang, tetapi harus menguasai "ilmu alat" (nahw, sharf, mantiq) sebagai dasar untuk memahami ilmu-ilmu yang lebih tinggi seperti tafsir, hadits, dan fiqh^13.
+Al-Azhar menjadi pelopor dalam integrasi berbagai cabang ilmu Islam, mewujudkan janji Allah tentang peninggian derajat bagi orang-orang berilmu. Para mahasiswa tidak hanya mempelajari satu bidang, tetapi harus menguasai "ilmu alat" (nahw, sharf, mantiq) sebagai dasar untuk memahami ilmu-ilmu yang lebih tinggi seperti tafsir, hadits, dan fiqh.^13
 
 ## Pengaruh Global dan Jaringan Ulama
 

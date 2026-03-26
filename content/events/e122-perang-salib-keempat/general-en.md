@@ -55,7 +55,7 @@ This tragedy also teaches the importance of **unity within the same religion**.^
 > *"They will not fight you all except within fortified cities or from behind walls. Their enmity among themselves is severe."* ﴾14﴿
 > — QS. Al-Hasyr (59): 14
 
-The Fourth Crusade proved this verse — the Crusaders who should have been united instead attacked fellow Christians at Constantinople, demonstrating severe internal division^4.
+The Fourth Crusade proved this verse — the Crusaders who should have been united instead attacked fellow Christians at Constantinople, demonstrating severe internal division.^4
 
 ---
 

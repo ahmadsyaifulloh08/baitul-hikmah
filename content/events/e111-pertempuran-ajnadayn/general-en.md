@@ -72,7 +72,7 @@ The conquest of al-Sham carried profound spiritual meaning for the Muslims. The 
 > *"Fight them; Allah will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts of a believing people."* ﴾14﴿
 > — QS. At-Taubah (9): 14
 
-The Battle of Ajnadayn was one of the early futuhat where Muslims experienced direct divine assistance against the vastly larger Byzantine forces^4.
+The Battle of Ajnadayn was one of the early futuhat where Muslims experienced direct divine assistance against the vastly larger Byzantine forces.^4
 
 Al-Masjid al-Aqsa, located in Jerusalem — the heart of al-Sham — was the first *qiblah* of the Muslims and the destination of the Prophet's Night Journey. The conquest of al-Sham was thus not merely military expansion, but the fulfillment of a spiritual bond between the Muslim community and a sacred land blessed by Allah.
 

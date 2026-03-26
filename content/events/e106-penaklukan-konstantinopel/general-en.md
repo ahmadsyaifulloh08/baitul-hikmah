@@ -83,7 +83,7 @@ The conquest of Constantinople teaches several important lessons:
 > *"And Allah has promised those who have believed among you and done righteous deeds that He will surely grant them succession [to authority] upon the earth."* ﴾55﴿
 > — QS. An-Nur (24): 55
 
-This verse reflects the Ottoman understanding that conquest was the fulfillment of divine promise for righteous believers^5.
+This verse reflects the Ottoman understanding that conquest was the fulfillment of divine promise for righteous believers.^5
 
 ---
 

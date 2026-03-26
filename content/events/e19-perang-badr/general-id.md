@@ -95,7 +95,7 @@ Al-Quran menyebut Badr sebagai *Yawm al-Furqan* — Hari Pembeda antara kebenara
 > *"Dan apa yang Kami turunkan kepada hamba Kami pada hari pembeda (Furqan), yaitu pada hari bertemunya dua pasukan. ﴾41﴿"*
 > — QS. Al-Anfal (8): 41
 
-Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. Sebelum Badr, Islam adalah gerakan yang terancam punah. Setelah Badr, Islam menjadi kekuatan yang diperhitungkan di seluruh Jazirah Arab^4.
+Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. Sebelum Badr, Islam adalah gerakan yang terancam punah. Setelah Badr, Islam menjadi kekuatan yang diperhitungkan di seluruh Jazirah Arab.^4
 
 ## Daftar Pustaka
 

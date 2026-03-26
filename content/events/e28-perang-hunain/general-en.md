@@ -23,7 +23,7 @@ The Quran recorded this attitude and its consequences^4:
 > *"Allah has already given you victory in many regions and on the day of Hunayn, when your great numbers pleased you, but they did not avail you at all, and the earth was confining for you despite its vastness; then you turned back, fleeing. ﴾25﴿"*
 > — QS. At-Tawbah (9): 25
 
-Malik ibn Awf had prepared a cunning trap. He positioned his forces in the ravines and slopes of the Hunayn Valley — a narrow valley surrounded by steep hills.^1 When the Muslim forces entered the valley at the still-dark hour of dawn, arrows suddenly rained upon them from every direction, followed by brutal cavalry charges from the flanks^4.
+Malik ibn Awf had prepared a cunning trap. He positioned his forces in the ravines and slopes of the Hunayn Valley — a narrow valley surrounded by steep hills.^1 When the Muslim forces entered the valley at the still-dark hour of dawn, arrows suddenly rained upon them from every direction, followed by brutal cavalry charges from the flanks.^4
 
 The Muslims, unprepared for the ambush, panicked and scattered.^1 ^2 Within minutes, the great army of 12,000 broke apart. Only a handful of companions remained at the Prophet's side — among them **Abu Bakr**, **Umar**, **Ali ibn Abi Talib**, **al-Abbas ibn Abd al-Muttalib**, and **Abu Sufyan ibn al-Harith** (the Prophet's cousin).
 

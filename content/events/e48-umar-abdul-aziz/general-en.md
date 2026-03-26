@@ -41,7 +41,7 @@ Umar also carried out comprehensive administrative reforms:^1 ^2 ^3
 > *"Indeed, Allah commands justice, benevolence, and giving to relatives. ﴾90﴿"*
 > — QS. An-Nahl (16): 90
 
-- **Dismissal of corrupt officials** — Governors known for oppression were removed and replaced^4.
+- **Dismissal of corrupt officials** — Governors known for oppression were removed and replaced.^4
 - **Limiting police powers** — Umar prohibited torture and imprisonment without due legal process.
 - **Infrastructure improvement** — Road construction, well-digging, and hospital building across various provinces.
 - **Peaceful *da'wah*** — Umar sent letters of invitation to non-Muslim rulers, calling them to Islam through diplomacy rather than force.

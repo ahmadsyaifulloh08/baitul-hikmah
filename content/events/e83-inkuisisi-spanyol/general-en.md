@@ -107,7 +107,7 @@ The tragedy of the Spanish Inquisition reminds us of the fragility of multicultu
 > *"And do not kill the soul which Allah has forbidden, except by right."* ﴾151﴿
 > — QS. Al-An'am (6): 151
 
-This verse reminds us that every soul is sacred and should not be oppressed without just cause. The tragedy of the Spanish Inquisition violated this fundamental principle^5.
+This verse reminds us that every soul is sacred and should not be oppressed without just cause. The tragedy of the Spanish Inquisition violated this fundamental principle.^5
 
 ---
 

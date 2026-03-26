@@ -64,7 +64,7 @@ Al-Bukhari meriwayatkan sebuah detail yang menyentuh tentang proses ini. Zaid be
 > *"Sungguh telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaanmu, sangat menginginkan keimanan dan keselamatan bagimu, amat belas kasihan lagi penyayang terhadap orang-orang mukmin. ﴾128﴿"*
 > — QS. Al-Taubah (9): 128
 
-Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan^3.
+Al-Suyuti menjelaskan bahwa maksud "hanya pada Abu Khuzaimah " adalah bahwa hanya dia yang memiliki **catatan tertulis** dari dua ayat terakhir ini, bukan berarti tidak ada yang menghafalnya. Para penghafal lain tetap menghafal ayat tersebut, tetapi Zaid mensyaratkan bukti tertulis sebagai verifikasi tambahan.^3
 
 ### Penyimpanan Mushaf
 
@@ -81,7 +81,7 @@ Proyek pengumpulan al-Quran ini, dalam perspektif teologis Islam, merupakan perw
 > *"Sesungguhnya Kami-lah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah^3.
+Para ulama menafsirkan bahwa "pemeliharaan " Allah terhadap al-Quran bukan berarti Allah secara langsung turun tangan menuliskan kitab suci, melainkan Allah menggerakkan hati dan pikiran hamba-hamba-Nya — Umar yang mendesak, Abu Bakr yang menerima, dan Zaid yang melaksanakan — untuk menjaga al-Quran melalui sebab-sebab alamiah.^3
 
 ### Perbedaan dengan Pengumpulan Utsmani
 

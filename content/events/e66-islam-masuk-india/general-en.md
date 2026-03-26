@@ -63,7 +63,7 @@ Many members of lower castes later converted to Islam because they saw in this r
 > *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you." ﴾13﴿*
 > — QS. Al-Hujurat (49): 13^16
 
-The process of Islamization of India created a unique cultural identity, where Arabic, Persian, Turkish, and Indian elements merged into something new. The Urdu language, which developed later, became a symbol of this cultural synthesis—a language that used Arabic-Persian vocabulary with Hindi grammatical structure^16.
+The process of Islamization of India created a unique cultural identity, where Arabic, Persian, Turkish, and Indian elements merged into something new. The Urdu language, which developed later, became a symbol of this cultural synthesis—a language that used Arabic-Persian vocabulary with Hindi grammatical structure.^16
 
 ## Legacy and Continuity
 

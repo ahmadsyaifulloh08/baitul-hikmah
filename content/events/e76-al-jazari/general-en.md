@@ -59,7 +59,7 @@ Al-Jazari's work also teaches the importance of **documentation and knowledge tr
 > *"O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority."* ﴾33﴿
 > — QS. Ar-Rahman (55): 33
 
-Al-Jazari embodied this Quranic challenge through his work — breaking through the technological barriers of his time with the power of knowledge and innovation^4.
+Al-Jazari embodied this Quranic challenge through his work — breaking through the technological barriers of his time with the power of knowledge and innovation.^4
 
 ---
 

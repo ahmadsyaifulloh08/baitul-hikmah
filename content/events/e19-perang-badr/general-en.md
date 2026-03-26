@@ -95,7 +95,7 @@ The Quran calls Badr *Yawm al-Furqan* — the Day of Distinction between truth a
 > *"And what We revealed to Our Servant on the day of criterion — the day when the two armies met. ﴾41﴿"*
 > — QS. Al-Anfal (8): 41
 
-Badr was not merely a military victory — it was the turning point of Islamic history. Before Badr, Islam was a movement threatened with extinction. After Badr, Islam became a force to be reckoned with across the Arabian Peninsula^4.
+Badr was not merely a military victory — it was the turning point of Islamic history. Before Badr, Islam was a movement threatened with extinction. After Badr, Islam became a force to be reckoned with across the Arabian Peninsula.^4
 
 ## Bibliography
 

@@ -65,7 +65,7 @@ The importance of **spiritual teachers (murshid)** in the sufi journey is also c
 > *"And to Allah belongs the east and the west. So wherever you [might] turn, there is the face of Allah."* ﴾115﴿
 > — QS. Al-Baqarah (2): 115
 
-This verse became the core of Rumi's philosophy about Allah's omnipresence, which he expressed in poems about universal love and union with the Most High^4.
+This verse became the core of Rumi's philosophy about Allah's omnipresence, which he expressed in poems about universal love and union with the Most High.^4
 
 ---
 

@@ -55,7 +55,7 @@ Another question arose among the Companions, one born of genuine concern: what a
 > *"And never would Allah have caused you to lose your faith. Indeed Allah is, to the people, Kind and Merciful. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith. Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted^3.
+Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith. Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted.^3
 
 ## Analysis and Lessons
 

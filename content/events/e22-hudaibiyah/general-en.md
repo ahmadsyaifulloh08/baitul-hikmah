@@ -46,7 +46,7 @@ This event was so momentous in the sight of Allah that it was immortalized in th
 > *"Certainly was Allah pleased with the believers when they pledged allegiance to you under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent victory. ﴾18﴿"*
 > — QS. Al-Fath (48): 18
 
-The resolute determination of the Muslims changed the Quraysh's political calculus. They realized that attacking a group prepared to die was not a wise option. So they sent **Suhayl ibn Amr**, their most skilled negotiator, to deal directly with Prophet Muhammad ﷺ^4.
+The resolute determination of the Muslims changed the Quraysh's political calculus. They realized that attacking a group prepared to die was not a wise option. So they sent **Suhayl ibn Amr**, their most skilled negotiator, to deal directly with Prophet Muhammad ﷺ.^4
 
 ## The Terms of the Treaty and Their Controversy
 

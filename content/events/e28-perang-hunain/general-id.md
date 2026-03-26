@@ -23,7 +23,7 @@ Al-Quran merekam sikap ini dan konsekuensinya^4:
 > *"Sesungguhnya Allah telah menolong kamu dalam banyak medan perang, dan pada Hari Hunain, ketika jumlahmu yang besar itu membanggakanmu, ternyata jumlah itu tidak berguna bagimu sedikit pun, dan bumi yang luas itu terasa sempit bagimu, kemudian kamu berbalik melarikan diri. ﴾25﴿"*
 > — QS. At-Taubah (9): 25
 
-Malik bin Auf telah menyiapkan perangkap yang cerdik. Ia menyusun pasukannya di celah-celah dan lereng-lereng Lembah Hunain — sebuah lembah sempit yang dikelilingi bukit-bukit curam.^1 Ketika pasukan muslim memasuki lembah di waktu fajar yang masih gelap, tiba-tiba hujan anak panah menghujani mereka dari segala arah, disusul serangan kavaleri yang brutal dari samping^4.
+Malik bin Auf telah menyiapkan perangkap yang cerdik. Ia menyusun pasukannya di celah-celah dan lereng-lereng Lembah Hunain — sebuah lembah sempit yang dikelilingi bukit-bukit curam.^1 Ketika pasukan muslim memasuki lembah di waktu fajar yang masih gelap, tiba-tiba hujan anak panah menghujani mereka dari segala arah, disusul serangan kavaleri yang brutal dari samping.^4
 
 Pasukan muslimin yang tidak siap menghadapi penyergapan ini langsung panik dan lari cerai-berai.^1 ^2 Dalam hitungan menit, pasukan besar yang berjumlah 12.000 itu buyar. Hanya segelintir sahabat yang tetap bertahan di sisi Rasulullah ﷺ — di antaranya **Abu Bakr**, **Umar**, **Ali bin Abi Thalib**, **al-Abbas bin Abdul Muthalib**, dan **Abu Sufyan bin al-Harits** (sepupu Nabi).
 

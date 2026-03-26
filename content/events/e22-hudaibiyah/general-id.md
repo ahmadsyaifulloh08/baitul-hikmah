@@ -46,7 +46,7 @@ Peristiwa ini begitu agung di sisi Allah sehingga diabadikan dalam al-Quran^4:
 > *"Sungguh, Allah telah ridha terhadap orang-orang mukmin ketika mereka berjanji setia kepadamu di bawah pohon, Dia mengetahui apa yang ada dalam hati mereka, lalu Dia menurunkan ketenangan atas mereka dan memberi balasan kepada mereka dengan kemenangan yang dekat. ﴾18﴿"*
 > — QS. Al-Fath (48): 18
 
-Tekad bulat kaum Muslimin ini mengubah kalkulasi politik Quraisy. Mereka menyadari bahwa menyerang rombongan yang sudah siap mati bukan pilihan yang bijak. Maka mereka mengirim **Suhail bin Amr**, juru runding ulung mereka, untuk bernegosiasi langsung dengan Nabi Muhammad ﷺ^4.
+Tekad bulat kaum Muslimin ini mengubah kalkulasi politik Quraisy. Mereka menyadari bahwa menyerang rombongan yang sudah siap mati bukan pilihan yang bijak. Maka mereka mengirim **Suhail bin Amr**, juru runding ulung mereka, untuk bernegosiasi langsung dengan Nabi Muhammad ﷺ.^4
 
 ## Isi Perjanjian dan Kontroversinya
 

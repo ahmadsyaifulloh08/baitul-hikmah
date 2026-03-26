@@ -30,7 +30,7 @@ This incident was recorded in the Quran:
 > *"Indeed, those who call you from behind the chambers — most of them do not understand. ﴾4﴿"*
 > — QS. Al-Hujurat (49): 4
 
-Yet after dialogue with the Prophet ﷺ and hearing the Quran, they accepted Islam and returned to their people as Muslims^4.
+Yet after dialogue with the Prophet ﷺ and hearing the Quran, they accepted Islam and returned to their people as Muslims.^4
 
 ### The Delegation of Banu 'Amir ibn Sa'sa'ah
 
@@ -53,7 +53,7 @@ They debated with the Prophet ﷺ regarding the nature of Jesus Christ. When no 
 > *"Then whoever argues with you about it after knowledge has come to you — say, 'Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly and invoke the curse of Allah upon the liars.' ﴾61﴿"*
 > — QS. Ali Imran (3): 61
 
-The Najran delegation ultimately declined the *mubahalah* and chose instead to establish a peace treaty with the Prophet ﷺ — they maintained their faith while paying the *jizyah* and living under the protection of the Islamic state.^1 This event set a crucial precedent for interfaith relations in Islam^4.
+The Najran delegation ultimately declined the *mubahalah* and chose instead to establish a peace treaty with the Prophet ﷺ — they maintained their faith while paying the *jizyah* and living under the protection of the Islamic state.^1 This event set a crucial precedent for interfaith relations in Islam.^4
 
 ### Other Delegations
 

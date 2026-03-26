@@ -65,7 +65,7 @@ This story also shows the danger of **hubris** or excessive arrogance. When smal
 > *"Do not weaken and do not grieve, for you will be superior if you are truly believers."* ﴾139﴿
 > — QS. Ali Imran (3): 139
 
-The Muslims of Egypt successfully defended their land from the Fifth Crusade invasion through steadfast faith and intelligent strategy^4.
+The Muslims of Egypt successfully defended their land from the Fifth Crusade invasion through steadfast faith and intelligent strategy.^4
 
 ---
 

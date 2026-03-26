@@ -13,7 +13,7 @@ Economically, Makkah occupied a position of strategic importance. The city lay o
 > *"For the accustomed security of the Quraysh ﴾1﴿ — their accustomed security in the caravan of winter and summer. ﴾2﴿ Let them worship the Lord of this House, ﴾3﴿ who has fed them against hunger and made them safe from fear. ﴾4﴿"*
 > — QS. Quraysh (106): 1-4
 
-Yet Makkah was far more than a commercial hub — it was the spiritual epicenter of the entire Arabian Peninsula. At its heart stood the Ka'bah, a cube-shaped structure that, according to Islamic tradition, was first built by Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael), peace be upon them. Although by this time the Ka'bah was surrounded by 360 idols (*ashnam*), its sanctity was universally recognized across all Arab tribes.^1 Every year, people from across the peninsula gathered for pilgrimage, and during the sacred months (*al-ashhur al-hurum*), all warfare ceased. This made the Ka'bah — and whoever controlled it — a source of immense political and economic influence^6.
+Yet Makkah was far more than a commercial hub — it was the spiritual epicenter of the entire Arabian Peninsula. At its heart stood the Ka'bah, a cube-shaped structure that, according to Islamic tradition, was first built by Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael), peace be upon them. Although by this time the Ka'bah was surrounded by 360 idols (*ashnam*), its sanctity was universally recognized across all Arab tribes.^1 Every year, people from across the peninsula gathered for pilgrimage, and during the sacred months (*al-ashhur al-hurum*), all warfare ceased. This made the Ka'bah — and whoever controlled it — a source of immense political and economic influence.^6
 
 ## Abraha and the Burning Ambition
 

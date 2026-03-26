@@ -108,7 +108,7 @@ The Quran teaches about the station of the martyrs:
 > *"Do not think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord, receiving provision. ﴾169﴿"*
 > — QS. Ali Imran (3): 169
 
-For the hundreds of Quran memorizers who fell at Yamamah, this verse is a promise that their sacrifice was not in vain — they live on with Allah, and the Quran they memorized endures through the compilation effort their blood inspired^4.
+For the hundreds of Quran memorizers who fell at Yamamah, this verse is a promise that their sacrifice was not in vain — they live on with Allah, and the Quran they memorized endures through the compilation effort their blood inspired.^4
 
 ---
 

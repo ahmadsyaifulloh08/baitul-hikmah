@@ -2,99 +2,99 @@
 
 ## Early Life and Background
 
-**Ahmad ibn Muhammad ibn Hanbal al-Shaybani** was born in Rabi' al-Awwal 164 AH/780 CE in Baghdad^1. His father, Muhammad ibn Hanbal, was a soldier who died when Ahmad was still a baby. His mother, **Safiyyah bint Maymunah**, came from an honorable family of the Shaybani tribe^2.
+**Ahmad ibn Muhammad ibn Hanbal al-Shaybani** was born in Rabi' al-Awwal 164 AH/780 CE in Baghdad.^1 His father, Muhammad ibn Hanbal, was a soldier who died when Ahmad was still a baby. His mother, **Safiyyah bint Maymunah**, came from an honorable family of the Shaybani tribe.^2
 
-Ahmad grew up in modest economic conditions. His mother sold jewelry to finance his education. From childhood, Ahmad showed extraordinary love for hadith and the Sunnah of the Prophet ﷺ^3.
+Ahmad grew up in modest economic conditions. His mother sold jewelry to finance his education. From childhood, Ahmad showed extraordinary love for hadith and the Sunnah of the Prophet ﷺ.^3
 
-At age 16, Ahmad began serious studies in Baghdad. He studied under **Abu Yusuf** (student of Abu Hanifah) and **Qadi Abu Yusuf** in fiqh, but his heart was more drawn to hadith studies^4.
+At age 16, Ahmad began serious studies in Baghdad. He studied under **Abu Yusuf** (student of Abu Hanifah) and **Qadi Abu Yusuf** in fiqh, but his heart was more drawn to hadith studies.^4
 
 ## Journey in Seeking Knowledge
 
 ### Rihlah Fi Talab al-Ilm
 
-Ahmad ibn Hanbal undertook extremely extensive scholarly journeys (*rihlah*) to collect hadith. He visited Kufa, Basra, Mecca, Medina, Yemen, Syria, and various cities in Iraq^5.
+Ahmad ibn Hanbal undertook extremely extensive scholarly journeys (*rihlah*) to collect hadith. He visited Kufa, Basra, Mecca, Medina, Yemen, Syria, and various cities in Iraq.^5
 
-In **Mecca**, Ahmad met **Sufyan ibn Uyaynah** (d. 198 AH), one of the greatest hadith imams of his time. From Sufyan, Ahmad learned thousands of hadith and strict hadith criticism methods^6.
+In **Mecca**, Ahmad met **Sufyan ibn Uyaynah** (d. 198 AH), one of the greatest hadith imams of his time. From Sufyan, Ahmad learned thousands of hadith and strict hadith criticism methods.^6
 
-In **Medina**, Ahmad studied under **Imam Malik ibn Anas** for some time before Malik died in 179 AH. Though brief, this experience greatly influenced Ahmad's legal methodology^7.
+In **Medina**, Ahmad studied under **Imam Malik ibn Anas** for some time before Malik died in 179 AH. Though brief, this experience greatly influenced Ahmad's legal methodology.^7
 
 ### Influence of Imam al-Shafi'i
 
-The most influential meeting in Ahmad's intellectual life was with **Imam al-Shafi'i** in Baghdad. Ahmad became al-Shafi'i's loyal student and greatly respected the *usul al-fiqh* methodology he developed^8.
+The most influential meeting in Ahmad's intellectual life was with **Imam al-Shafi'i** in Baghdad. Ahmad became al-Shafi'i's loyal student and greatly respected the *usul al-fiqh* methodology he developed.^8
 
-**Al-Shafi'i** often said: *"Ahmad is more knowledgeable in hadith than us"*. Conversely, Ahmad always praised al-Shafi'i's intellectual brilliance and adopted many of his methodological principles^9.
+**Al-Shafi'i** often said: *"Ahmad is more knowledgeable in hadith than us"*. Conversely, Ahmad always praised al-Shafi'i's intellectual brilliance and adopted many of his methodological principles.^9
 
 ## Development of Legal Methodology
 
 ### Basic Principles of Hanbali School
 
-Ahmad developed a legal methodology that heavily emphasized the authority of *nass* (Quran and hadith) as primary sources. According to Ahmad's hierarchy of legal sources: (1) Quran, (2) Authentic hadith, (3) Weak hadith if no authentic ones exist, (4) Companions' opinions, (5) Qiyas as last resort^10.
+Ahmad developed a legal methodology that heavily emphasized the authority of *nass* (Quran and hadith) as primary sources. According to Ahmad's hierarchy of legal sources: (1) Quran, (2) Authentic hadith, (3) Weak hadith if no authentic ones exist, (4) Companions' opinions, (5) Qiyas as last resort.^10
 
-The principle **"la ra'ya ma'a al-athar"** (no personal opinion when there is evidence) became characteristic of the Hanbali school. Ahmad was very careful in using *qiyas* and rejected *istihsan* widely used by the Hanafi school^11.
+The principle **"la ra'ya ma'a al-athar"** (no personal opinion when there is evidence) became characteristic of the Hanbali school. Ahmad was very careful in using *qiyas* and rejected *istihsan* widely used by the Hanafi school.^11
 
 ### Attitude toward Weak Hadith
 
-One unique feature of Ahmad's methodology was acceptance of weak hadith under certain conditions. According to him, weak hadith was better than human opinion if no authentic hadith addressed the issue^12.
+One unique feature of Ahmad's methodology was acceptance of weak hadith under certain conditions. According to him, weak hadith was better than human opinion if no authentic hadith addressed the issue.^12
 
-This approach reflected Ahmad's caution in *ijtihad* and his tendency to follow direct traces from the tradition of the Prophet and companions^13.
+This approach reflected Ahmad's caution in *ijtihad* and his tendency to follow direct traces from the tradition of the Prophet and companions.^13
 
 ## Musnad Ahmad: Magnum Opus
 
 ### Largest Hadith Compilation
 
-**Musnad Ahmad ibn Hanbal** is one of the largest hadith collections ever compiled, containing about 28,000 hadith (including repetitions) arranged by the names of companion narrators^14.
+**Musnad Ahmad ibn Hanbal** is one of the largest hadith collections ever compiled, containing about 28,000 hadith (including repetitions) arranged by the names of companion narrators.^14
 
-Ahmad not only collected hadith but also conducted strict selection. From about 750,000 hadith he studied, only about 40,000 were deemed worthy of recording, and from that number, 28,000 were included in the Musnad^15.
+Ahmad not only collected hadith but also conducted strict selection. From about 750,000 hadith he studied, only about 40,000 were deemed worthy of recording, and from that number, 28,000 were included in the Musnad.^15
 
 ### Compilation Methodology
 
-The Musnad was arranged with the *musnad* system (based on companion narrator names), not by topic like other hadith collections. This system facilitated tracking transmission chains and verifying *sanad* quality^16.
+The Musnad was arranged with the *musnad* system (based on companion narrator names), not by topic like other hadith collections. This system facilitated tracking transmission chains and verifying *sanad* quality.^16
 
-Ahmad also included various transmission chains for one hadith, allowing researchers to perform *tarjih* (selecting stronger narrations) based on *sanad* quality^17.
+Ahmad also included various transmission chains for one hadith, allowing researchers to perform *tarjih* (selecting stronger narrations) based on *sanad* quality.^17
 
 ## Mihnat Khalq al-Quran
 
 ### Background of the Controversy
 
-During **Caliph al-Ma'mun's** reign (813-833 CE), a theological controversy arose about whether the Quran was created (*makhluq*) or not. **Mu'tazila** theology supported by al-Ma'mun stated that the Quran was created to maintain consistency of *tawhid* doctrine^18.
+During **Caliph al-Ma'mun's** reign (813-833 CE), a theological controversy arose about whether the Quran was created (*makhluq*) or not. **Mu'tazila** theology supported by al-Ma'mun stated that the Quran was created to maintain consistency of *tawhid* doctrine.^18
 
-Ahmad ibn Hanbal along with other traditional scholars rejected this view. They held the position that the Quran is the speech of Allah that is *qadim* (uncreated)^19.
+Ahmad ibn Hanbal along with other traditional scholars rejected this view. They held the position that the Quran is the speech of Allah that is *qadim* (uncreated).^19
 
 ### Torture and Steadfastness
 
-In 218 AH/833 CE, Ahmad was summoned before al-Ma'mun to defend his opinion. However, al-Ma'mun died before the meeting occurred. **Al-Mu'tasim** and later **al-Wathiq** continued the *mihnat* (testing/inquisition) policy^20.
+In 218 AH/833 CE, Ahmad was summoned before al-Ma'mun to defend his opinion. However, al-Ma'mun died before the meeting occurred. **Al-Mu'tasim** and later **al-Wathiq** continued the *mihnat* (testing/inquisition) policy.^20
 
-Ahmad experienced severe physical torture for refusing to acknowledge that the Quran was created. He was tortured with whips but remained consistent with his position for more than two years^21.
+Ahmad experienced severe physical torture for refusing to acknowledge that the Quran was created. He was tortured with whips but remained consistent with his position for more than two years.^21
 
 ### Victory and Recognition
 
-When **al-Mutawakkil** ascended the throne in 847 CE, the *mihnat* policy was stopped and Ahmad was freed. Al-Mutawakkil even asked Ahmad to teach his sons, but Ahmad politely refused to maintain his scholarly independence^22.
+When **al-Mutawakkil** ascended the throne in 847 CE, the *mihnat* policy was stopped and Ahmad was freed. Al-Mutawakkil even asked Ahmad to teach his sons, but Ahmad politely refused to maintain his scholarly independence.^22
 
 ## Principles of Education and Da'wah
 
 ### Teaching Methods
 
-Ahmad developed teaching methods that heavily emphasized memorization and understanding of hadith. He not only taught material but also educated the character and morals of his students^23.
+Ahmad developed teaching methods that heavily emphasized memorization and understanding of hadith. He not only taught material but also educated the character and morals of his students.^23
 
-**Abu Dawud** (compiler of Sunan Abu Dawud), **Ibn Majah**, and many other great *muhaddithun* were Ahmad's students. They inherited not only knowledge but also integrity and strict methodology^24.
+**Abu Dawud** (compiler of Sunan Abu Dawud), **Ibn Majah**, and many other great *muhaddithun* were Ahmad's students. They inherited not only knowledge but also integrity and strict methodology.^24
 
 ### Attitude toward Power
 
-Ahmad showed extraordinary independence from rulers. He refused to accept gifts from caliphs and declined official positions to maintain his scholarly freedom from political influence^25.
+Ahmad showed extraordinary independence from rulers. He refused to accept gifts from caliphs and declined official positions to maintain his scholarly freedom from political influence.^25
 
-The principle **"al-'ilm la yu'ta, bal yuntakhabu"** (knowledge is not given, but sought) became Ahmad's guide in spreading knowledge only to those who truly sought it sincerely^26.
+The principle **"al-'ilm la yu'ta, bal yuntakhabu"** (knowledge is not given, but sought) became Ahmad's guide in spreading knowledge only to those who truly sought it sincerely.^26
 
 ## Legacy and Influence
 
 ### Spread of Hanbali School
 
-The Hanbali school initially spread limited to Baghdad and surroundings. However, in the 8th century AH/14th CE, **Ibn Taymiyyah** and his student **Ibn Qayyim al-Jawziyyah** revived the spirit of the Hanbali school^27.
+The Hanbali school initially spread limited to Baghdad and surroundings. However, in the 8th century AH/14th CE, **Ibn Taymiyyah** and his student **Ibn Qayyim al-Jawziyyah** revived the spirit of the Hanbali school.^27
 
-In the 18th century, **Muhammad ibn Abd al-Wahhab** adopted Hanbali methodology in the purification movement that later developed in the Arabian Peninsula and influenced many Muslim reformist movements^28.
+In the 18th century, **Muhammad ibn Abd al-Wahhab** adopted Hanbali methodology in the purification movement that later developed in the Arabian Peninsula and influenced many Muslim reformist movements.^28
 
 ### Contribution to Hadith Science
 
-Ahmad's methodology in hadith criticism and Musnad compilation made great contributions to the development of hadith science. The criteria he developed for accepting weak hadith became important references in *'ulum al-hadith*^29.
+Ahmad's methodology in hadith criticism and Musnad compilation made great contributions to the development of hadith science. The criteria he developed for accepting weak hadith became important references in *'ulum al-hadith*.^29
 
 ## Analysis and Wisdom
 

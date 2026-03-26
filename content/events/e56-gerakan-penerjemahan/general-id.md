@@ -2,81 +2,81 @@
 
 ## Latar Belakang Gerakan Penerjemahan
 
-Gerakan penerjemahan (*harakat al-tarjamah*) dalam peradaban Islam mencapai puncaknya pada masa **Khalifah al-Ma'mun** (813-833 M). Gerakan ini bermula dari kebutuhan praktis Dinasti Abbasiyah untuk mengadopsi sistem administrasi yang canggih dari peradaban Persia dan Bizantium^1.
+Gerakan penerjemahan (*harakat al-tarjamah*) dalam peradaban Islam mencapai puncaknya pada masa **Khalifah al-Ma'mun** (813-833 M). Gerakan ini bermula dari kebutuhan praktis Dinasti Abbasiyah untuk mengadopsi sistem administrasi yang canggih dari peradaban Persia dan Bizantium.^1
 
-**Al-Mansur** (754-775 M) telah memulai usaha penerjemahan karya-karya astronomi dan matematika untuk keperluan navigasi dan konstruksi Baghdad. **Harun al-Rashid** (786-809 M) melanjutkan tradisi ini dengan mendatangkan naskah-naskah Yunani dari Konstantinopel melalui perjanjian dengan Kaisar Bizantium^2.
+**Al-Mansur** (754-775 M) telah memulai usaha penerjemahan karya-karya astronomi dan matematika untuk keperluan navigasi dan konstruksi Baghdad. **Harun al-Rashid** (786-809 M) melanjutkan tradisi ini dengan mendatangkan naskah-naskah Yunani dari Konstantinopel melalui perjanjian dengan Kaisar Bizantium.^2
 
-Namun, pada masa al-Ma'mun, gerakan penerjemahan berevolusi dari kebutuhan praktis menjadi proyek intelektual yang sistematis. Al-Ma'mun tidak hanya menerjemahkan untuk keperluan administrasi, tetapi juga untuk membangun fondasi keilmuan yang komprehensif^3.
+Namun, pada masa al-Ma'mun, gerakan penerjemahan berevolusi dari kebutuhan praktis menjadi proyek intelektual yang sistematis. Al-Ma'mun tidak hanya menerjemahkan untuk keperluan administrasi, tetapi juga untuk membangun fondasi keilmuan yang komprehensif.^3
 
 ## Baitul Hikmah sebagai Pusat Penerjemahan
 
 ### Institusionalisasi Gerakan Penerjemahan
 
-**Baitul Hikmah** (*Bayt al-Hikmah*) di Baghdad berkembang menjadi institusi riset dan penerjemahan terbesar pada masanya. Di bawah al-Ma'mun, institusi ini diperluas dari sekadar perpustakaan menjadi kompleks akademik yang mencakup observatorium, laboratorium, dan scriptoriumأق^4.
+**Baitul Hikmah** (*Bayt al-Hikmah*) di Baghdad berkembang menjadi institusi riset dan penerjemahan terbesar pada masanya. Di bawah al-Ma'mun, institusi ini diperluas dari sekadar perpustakaan menjadi kompleks akademik yang mencakup observatorium, laboratorium, dan scriptoriumأق.^4
 
-**Hunayn ibn Ishaq** (809-873 M) diangkat sebagai kepala tim penerjemah dan bertanggung jawab untuk mengkoordinasi proyek penerjemahan karya-karya Yunani, terutama dalam bidang kedokteran dan filsafat. Hunayn mengembangkan metodologi penerjemahan yang sangat rigorous^5.
+**Hunayn ibn Ishaq** (809-873 M) diangkat sebagai kepala tim penerjemah dan bertanggung jawab untuk mengkoordinasi proyek penerjemahan karya-karya Yunani, terutama dalam bidang kedokteran dan filsafat. Hunayn mengembangkan metodologi penerjemahan yang sangat rigorous.^5
 
 ### Metodologi Penerjemahan
 
-Tim Hunayn ibn Ishaq mengembangkan sistem penerjemahan tiga tahap: (1) penerjemahan literal dari bahasa asli ke Syriac, (2) revisi dan penyempurnaan terjemahan Syriac, (3) penerjemahan final dari Syriac ke Arab. Metodologi ini memastikan akurasi dan kelancaran terjemahan^6.
+Tim Hunayn ibn Ishaq mengembangkan sistem penerjemahan tiga tahap: (1) penerjemahan literal dari bahasa asli ke Syriac, (2) revisi dan penyempurnaan terjemahan Syriac, (3) penerjemahan final dari Syriac ke Arab. Metodologi ini memastikan akurasi dan kelancaran terjemahan.^6
 
-**Thabit ibn Qurrah** (836-901 M) mengembangkan terminologi filosofis dan matematika dalam bahasa Arab yang kemudian menjadi standar bagi karya-karya Islam. Ia menciptakan padanan Arab untuk konsep-konsep Yunani yang sebelumnya tidak memiliki ekuivalen^7.
+**Thabit ibn Qurrah** (836-901 M) mengembangkan terminologi filosofis dan matematika dalam bahasa Arab yang kemudian menjadi standar bagi karya-karya Islam. Ia menciptakan padanan Arab untuk konsep-konsep Yunani yang sebelumnya tidak memiliki ekuivalen.^7
 
 ## Karya-Karya Besar yang Diterjemahkan
 
 ### Filsafat dan Logika
 
-**"Organon"** karya Aristoteles diterjemahkan secara lengkap oleh tim Hunayn dan murid-muridnya. Karya ini menjadi dasar bagi perkembangan logika dalam pemikiran Islam. **Al-Farabi** kemudian menggunakan terjemahan ini untuk mengembangkan sistem logika Islamnya^8.
+**"Organon"** karya Aristoteles diterjemahkan secara lengkap oleh tim Hunayn dan murid-muridnya. Karya ini menjadi dasar bagi perkembangan logika dalam pemikiran Islam. **Al-Farabi** kemudian menggunakan terjemahan ini untuk mengembangkan sistem logika Islamnya.^8
 
-**"Republik"** dan **"Hukum-Hukum"** Plato juga diterjemahkan, meskipun hanya sebagian yang bertahan. Konsep-konsep politik Plato memberikan pengaruh terhadap pemikiran politik Muslim seperti **al-Farabi** dan **Ibn Rushd**^9.
+**"Republik"** dan **"Hukum-Hukum"** Plato juga diterjemahkan, meskipun hanya sebagian yang bertahan. Konsep-konsep politik Plato memberikan pengaruh terhadap pemikiran politik Muslim seperti **al-Farabi** dan **Ibn Rushd**.^9
 
 ### Matematika dan Astronomi
 
-**"Almagest"** karya Ptolemy diterjemahkan oleh **Ishaq ibn Hunayn** dan menjadi rujukan utama astronomi Islam. Karya ini mempengaruhi astronomer Muslim seperti **al-Battani** dan **al-Biruni**^10.
+**"Almagest"** karya Ptolemy diterjemahkan oleh **Ishaq ibn Hunayn** dan menjadi rujukan utama astronomi Islam. Karya ini mempengaruhi astronomer Muslim seperti **al-Battani** dan **al-Biruni**.^10
 
-**"Elemen"** Euclid diterjemahkan oleh **Ishaq ibn Hunayn** dan **Thabit ibn Qurrah** dengan kualitas yang sangat tinggi. Terjemahan ini kemudian menjadi basis bagi perkembangan geometri dalam peradaban Islam^11.
+**"Elemen"** Euclid diterjemahkan oleh **Ishaq ibn Hunayn** dan **Thabit ibn Qurrah** dengan kualitas yang sangat tinggi. Terjemahan ini kemudian menjadi basis bagi perkembangan geometri dalam peradaban Islam.^11
 
 ### Kedokteran
 
-Karya-karya **Hippocrates** dan **Galen** diterjemahkan secara sistematis oleh tim Hunayn ibn Ishaq. Hunayn sendiri adalah seorang dokter yang kompeten, sehingga terjemahannya tidak hanya akurat secara linguistik tetapi juga secara medis^12.
+Karya-karya **Hippocrates** dan **Galen** diterjemahkan secara sistematis oleh tim Hunayn ibn Ishaq. Hunayn sendiri adalah seorang dokter yang kompeten, sehingga terjemahannya tidak hanya akurat secara linguistik tetapi juga secara medis.^12
 
-**"De Materia Medica"** karya Dioscorides diterjemahkan dan menjadi dasar bagi perkembangan farmakologi Islam. **Al-Razi** dan **Ibn Sina** menggunakan karya ini sebagai rujutan dalam karya-karya medis mereka^13.
+**"De Materia Medica"** karya Dioscorides diterjemahkan dan menjadi dasar bagi perkembangan farmakologi Islam. **Al-Razi** dan **Ibn Sina** menggunakan karya ini sebagai rujutan dalam karya-karya medis mereka.^13
 
 ## Dampak Intelektual dan Metodologis
 
 ### Pembentukan Tradisi Keilmuan Islam
 
-Gerakan penerjemahan era al-Ma'mun tidak hanya mentransfer pengetahuan, tetapi juga mengadaptasi dan mengintegrasikan tradisi intelektual asing ke dalam framework Islam. **Al-Kindi**, yang hidup pada periode ini, menunjukkan bagaimana filsafat Yunani dapat diharmonisasi dengan ajaran Islam^14.
+Gerakan penerjemahan era al-Ma'mun tidak hanya mentransfer pengetahuan, tetapi juga mengadaptasi dan mengintegrasikan tradisi intelektual asing ke dalam framework Islam. **Al-Kindi**, yang hidup pada periode ini, menunjukkan bagaimana filsafat Yunani dapat diharmonisasi dengan ajaran Islam.^14
 
-**Al-Khwarizmi** menggunakan karya-karya matematika dan astronomi yang diterjemahkan untuk mengembangkan aljabar dan sistem numerik yang kemudian memberikan pengaruh besar terhadap perkembangan matematika dunia^15.
+**Al-Khwarizmi** menggunakan karya-karya matematika dan astronomi yang diterjemahkan untuk mengembangkan aljabar dan sistem numerik yang kemudian memberikan pengaruh besar terhadap perkembangan matematika dunia.^15
 
 ### Pengembangan Bahasa Ilmiah Arab
 
-Proses penerjemahan berkontribusi besar terhadap pengembangan bahasa Arab sebagai bahasa ilmiah internasional. Terminologi-terminologi teknis yang diciptakan para penerjemah kemudian diadopsi oleh ulama dan ilmuwan Muslim dalam karya-karya orisinal mereka^16.
+Proses penerjemahan berkontribusi besar terhadap pengembangan bahasa Arab sebagai bahasa ilmiah internasional. Terminologi-terminologi teknis yang diciptakan para penerjemah kemudian diadopsi oleh ulama dan ilmuwan Muslim dalam karya-karya orisinal mereka.^16
 
 ## Kontroversi dan Tantangan
 
 ### Resistensi dari Kelompok Konservatif
 
-Gerakan penerjemahan mendapat kritik dari sebagian ulama yang khawatir akan pengaruh pemikiran asing terhadap kemurnian ajaran Islam. **Ahmad ibn Hanbal** dan pengikutnya menunjukkan sikap skeptis terhadap filsafat Yunani^17.
+Gerakan penerjemahan mendapat kritik dari sebagian ulama yang khawatir akan pengaruh pemikiran asing terhadap kemurnian ajaran Islam. **Ahmad ibn Hanbal** dan pengikutnya menunjukkan sikap skeptis terhadap filsafat Yunani.^17
 
-Kontroversi **khalq al-Quran** yang dipromosikan al-Ma'mun sebagian dipengaruhi oleh teologi rasional Yunani yang masuk melalui proses penerjemahan. Hal ini menciptakan ketegangan antara pendekatan rasional dan tradisional dalam Islam^18.
+Kontroversi **khalq al-Quran** yang dipromosikan al-Ma'mun sebagian dipengaruhi oleh teologi rasional Yunani yang masuk melalui proses penerjemahan. Hal ini menciptakan ketegangan antara pendekatan rasional dan tradisional dalam Islam.^18
 
 ### Selektifitas dalam Penerjemahan
 
-Tidak semua karya Yunani diterjemahkan. Karya-karya yang berkaitan dengan mitologi, drama, dan sejarah politik Yunani cenderung diabaikan, sementara yang berkaitan dengan ilmu pengetahuan dan filsafat diprioritaskan^19.
+Tidak semua karya Yunani diterjemahkan. Karya-karya yang berkaitan dengan mitologi, drama, dan sejarah politik Yunani cenderung diabaikan, sementara yang berkaitan dengan ilmu pengetahuan dan filsafat diprioritaskan.^19
 
 ## Warisan Jangka Panjang
 
 ### Pengaruh terhadap Renaissance Eropa
 
-Karya-karya yang diterjemahkan ke dalam bahasa Arab kemudian diterjemahkan kembali ke bahasa Latin pada abad ke-12 dan 13 M. Sekolah-sekolah penerjemahan di Toledo dan Palermo memainkan peran penting dalam transfer pengetahuan ini ke Eropa^20.
+Karya-karya yang diterjemahkan ke dalam bahasa Arab kemudian diterjemahkan kembali ke bahasa Latin pada abad ke-12 dan 13 M. Sekolah-sekolah penerjemahan di Toledo dan Palermo memainkan peran penting dalam transfer pengetahuan ini ke Eropa.^20
 
-**Gerard of Cremona** dan **Michael Scot** menerjemahkan karya-karya Aristoteles, Ptolemy, dan Euclid dari bahasa Arab ke Latin, yang kemudian menjadi dasar bagi kebangkitan intelektual Eropa^21.
+**Gerard of Cremona** dan **Michael Scot** menerjemahkan karya-karya Aristoteles, Ptolemy, dan Euclid dari bahasa Arab ke Latin, yang kemudian menjadi dasar bagi kebangkitan intelektual Eropa.^21
 
 ### Metodologi Riset Modern
 
-Metodologi penerjemahan yang dikembangkan Hunayn ibn Ishaq dengan sistem verifikasi, revisi, dan quality control menjadi prototipe bagi metodologi riset akademik modern. Konsep peer review dan standardisasi terminologi dimulai dari periode ini^22.
+Metodologi penerjemahan yang dikembangkan Hunayn ibn Ishaq dengan sistem verifikasi, revisi, dan quality control menjadi prototipe bagi metodologi riset akademik modern. Konsep peer review dan standardisasi terminologi dimulai dari periode ini.^22
 
 ## Analisis dan Hikmah
 

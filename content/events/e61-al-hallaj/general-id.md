@@ -2,119 +2,119 @@
 
 ## Kehidupan Awal dan Latar Belakang
 
-**Abu al-Mughith al-Husayn ibn Mansur al-Hallaj** lahir sekitar tahun 244 H/858 M di al-Tur, dekat kota al-Bayda di Fars (Persia)^1. Ayahnya, Mansur, adalah seorang pengolah kapas (*hallaj*), sehingga al-Husayn dikenal dengan julukan al-Hallaj (pengolah kapas)^2.
+**Abu al-Mughith al-Husayn ibn Mansur al-Hallaj** lahir sekitar tahun 244 H/858 M di al-Tur, dekat kota al-Bayda di Fars (Persia).^1 Ayahnya, Mansur, adalah seorang pengolah kapas (*hallaj*), sehingga al-Husayn dikenal dengan julukan al-Hallaj (pengolah kapas).^2
 
-Keluarga al-Hallaj kemudian pindah ke Wasit di Iraq, tempat ia menghabiskan masa kecil dan remajanya. Wasit adalah kota kosmopolitan yang menjadi pusat perdagangan dan pertemuan berbagai tradisi intelektual^3.
+Keluarga al-Hallaj kemudian pindah ke Wasit di Iraq, tempat ia menghabiskan masa kecil dan remajanya. Wasit adalah kota kosmopolitan yang menjadi pusat perdagangan dan pertemuan berbagai tradisi intelektual.^3
 
-Sejak muda, al-Hallaj menunjukkan kecenderungan spiritual yang kuat. Ia tertarik pada praktik-praktik asketik dan sering melakukan i'tikaf di masjid-masjid untuk beribadah dan kontemplasi^4.
+Sejak muda, al-Hallaj menunjukkan kecenderungan spiritual yang kuat. Ia tertarik pada praktik-praktik asketik dan sering melakukan i'tikaf di masjid-masjid untuk beribadah dan kontemplasi.^4
 
 ## Pendidikan Spiritual dan Guru-Guru
 
 ### Berguru kepada Sahl al-Tustari
 
-**Sahl ibn Abd Allah al-Tustari** (w. 283 H/896 M) menjadi guru spiritual pertama al-Hallaj. Dari al-Tustari, al-Hallaj mempelajari dasar-dasar tasawuf, terutama konsep **fana** dan **tajalli** (penyingkapan divine)^5.
+**Sahl ibn Abd Allah al-Tustari** (w. 283 H/896 M) menjadi guru spiritual pertama al-Hallaj. Dari al-Tustari, al-Hallaj mempelajari dasar-dasar tasawuf, terutama konsep **fana** dan **tajalli** (penyingkapan divine).^5
 
-Al-Tustari mengajarkan metode **dhikr** (zikir) intensif dan **muraqabah** (meditasi spiritual) yang kemudian menjadi fondasi praktik spiritual al-Hallaj^6.
+Al-Tustari mengajarkan metode **dhikr** (zikir) intensif dan **muraqabah** (meditasi spiritual) yang kemudian menjadi fondasi praktik spiritual al-Hallaj.^6
 
 ### Hubungan dengan Junaid al-Baghdadi
 
-Al-Hallaj kemudian berguru kepada **al-Junayd al-Baghdadi**, imam tasawuf terbesar pada masanya. Namun, hubungan antara keduanya menjadi kompleks karena perbedaan temperamen dan pendekatan spiritual^7.
+Al-Hallaj kemudian berguru kepada **al-Junayd al-Baghdadi**, imam tasawuf terbesar pada masanya. Namun, hubungan antara keduanya menjadi kompleks karena perbedaan temperamen dan pendekatan spiritual.^7
 
-Al-Junayd mengajarkan prinsip **kitmān al-sirr** (menyembunyikan rahasia spiritual), sementara al-Hallaj cenderung mengungkapkan pengalaman spiritualnya secara terbuka^8.
+Al-Junayd mengajarkan prinsip **kitmān al-sirr** (menyembunyikan rahasia spiritual), sementara al-Hallaj cenderung mengungkapkan pengalaman spiritualnya secara terbuka.^8
 
 ### Pengaruh Amr al-Makki
 
-**Amr ibn Uthman al-Makki** memberikan pengaruh signifikan terhadap perkembangan spiritual al-Hallaj. Dari Amr, ia mempelajari dimensi esoterik haji dan simbolisme spiritual Ka'bah^9.
+**Amr ibn Uthman al-Makki** memberikan pengaruh signifikan terhadap perkembangan spiritual al-Hallaj. Dari Amr, ia mempelajari dimensi esoterik haji dan simbolisme spiritual Ka'bah.^9
 
 ## Perjalanan dan Dakwah
 
 ### Pengembaraan Spiritual
 
-Al-Hallaj melakukan berbagai perjalanan spiritual yang ekstensif. Ia mengunjungi pusat-pusat tasawuf di Baghdad, Basrah, Kufah, Makkah, dan berbagai wilayah di India^10.
+Al-Hallaj melakukan berbagai perjalanan spiritual yang ekstensif. Ia mengunjungi pusat-pusat tasawuf di Baghdad, Basrah, Kufah, Makkah, dan berbagai wilayah di India.^10
 
-Perjalanan ke **India** memberikan pengaruh besar terhadap perkembangan spiritualitasnya. Di sana, ia berinteraksi dengan tradisi mistis Hindu dan Buddha, yang memperluas perspektif spiritualnya^11.
+Perjalanan ke **India** memberikan pengaruh besar terhadap perkembangan spiritualitasnya. Di sana, ia berinteraksi dengan tradisi mistis Hindu dan Buddha, yang memperluas perspektif spiritualnya.^11
 
 ### Metode Dakwah Revolusioner
 
-Al-Hallaj mengembangkan metode dakwah yang berbeda dari sufi pada umumnya. Ia tidak hanya mengajar di kalangan elite spiritual, tetapi juga berdakwah kepada masyarakat awam dengan bahasa yang mudah dipahami^12.
+Al-Hallaj mengembangkan metode dakwah yang berbeda dari sufi pada umumnya. Ia tidak hanya mengajar di kalangan elite spiritual, tetapi juga berdakwah kepada masyarakat awam dengan bahasa yang mudah dipahami.^12
 
-Ia menggunakan **syair** dan **qawl** (perkataan spiritual) untuk menyampaikan ajaran tasawuf, membuatnya populer di kalangan rakyat biasa^13.
+Ia menggunakan **syair** dan **qawl** (perkataan spiritual) untuk menyampaikan ajaran tasawuf, membuatnya populer di kalangan rakyat biasa.^13
 
 ## Doktrin Spiritual dan Teologi Mistik
 
 ### Konsep Hulul dan Ittihad
 
-Al-Hallaj mengembangkan konsep kontroversial tentang **hulul** (inkarnasi divine) dan **ittihad** (unifikasi spiritual). Menurutnya, dalam pengalaman spiritual tertinggi, batas antara hamba dan Tuhan dapat tereliminasi^14.
+Al-Hallaj mengembangkan konsep kontroversial tentang **hulul** (inkarnasi divine) dan **ittihad** (unifikasi spiritual). Menurutnya, dalam pengalaman spiritual tertinggi, batas antara hamba dan Tuhan dapat tereliminasi.^14
 
-Konsep ini berbeda dari **fana** al-Junayd. Jika al-Junayd menekankan lenyapnya kesadaran akan diri, al-Hallaj berbicara tentang kesatuan eksistensial yang lebih radikal^15.
+Konsep ini berbeda dari **fana** al-Junayd. Jika al-Junayd menekankan lenyapnya kesadaran akan diri, al-Hallaj berbicara tentang kesatuan eksistensial yang lebih radikal.^15
 
 ### Teori Cinta Ilahi (Hubb Ilahi)
 
-Al-Hallaj mengembangkan teori cinta ilahi yang menjadi sentral dalam ajarannya. Cinta dipahami bukan sebagai emosi, tetapi sebagai kekuatan kosmis yang menghubungkan alam dengan Tuhan^16.
+Al-Hallaj mengembangkan teori cinta ilahi yang menjadi sentral dalam ajarannya. Cinta dipahami bukan sebagai emosi, tetapi sebagai kekuatan kosmis yang menghubungkan alam dengan Tuhan.^16
 
-Dalam syair-syairnya, al-Hallaj menggambarkan cinta sebagai api yang membakar segala atribut manusiawi hingga yang tersisa hanya realitas ilahi^17.
+Dalam syair-syairnya, al-Hallaj menggambarkan cinta sebagai api yang membakar segala atribut manusiawi hingga yang tersisa hanya realitas ilahi.^17
 
 ## "Ana al-Haqq" dan Kontroversi
 
 ### Latar Belakang Pernyataan
 
-Pernyataan **"Ana al-Haqq"** (Aku adalah Kebenaran) yang terkenal dari al-Hallaj muncul dalam konteks pengalaman spiritual ekstatis. Al-Haqq adalah salah satu nama Allah, sehingga pernyataan ini dianggap sebagai klaim ketuhanan^18.
+Pernyataan **"Ana al-Haqq"** (Aku adalah Kebenaran) yang terkenal dari al-Hallaj muncul dalam konteks pengalaman spiritual ekstatis. Al-Haqq adalah salah satu nama Allah, sehingga pernyataan ini dianggap sebagai klaim ketuhanan.^18
 
-Menurut para pembela al-Hallaj, pernyataan ini bukan klaim personal, tetapi pengungkapan realitas spiritual di mana ego personal telah lenyap dan yang tersisa adalah realitas divine^19.
+Menurut para pembela al-Hallaj, pernyataan ini bukan klaim personal, tetapi pengungkapan realitas spiritual di mana ego personal telah lenyap dan yang tersisa adalah realitas divine.^19
 
 ### Interpretasi Teologis
 
-Al-Hallaj sendiri memberikan penjelasan bahwa "Ana al-Haqq" bukan berarti ia menjadi Tuhan, tetapi bahwa dalam pengalaman spiritual tertinggi, hanya Allah yang tersisa sebagai subjek pengalaman^20.
+Al-Hallaj sendiri memberikan penjelasan bahwa "Ana al-Haqq" bukan berarti ia menjadi Tuhan, tetapi bahwa dalam pengalaman spiritual tertinggi, hanya Allah yang tersisa sebagai subjek pengalaman.^20
 
-Ia menganalogikan hal ini dengan sepotong besi yang dimasukkan ke dalam api hingga menjadi seperti api, namun besi tetap besi dan api tetap api^21.
+Ia menganalogikan hal ini dengan sepotong besi yang dimasukkan ke dalam api hingga menjadi seperti api, namun besi tetap besi dan api tetap api.^21
 
 ## Karya-Karya dan Tulisan
 
 ### Al-Tawasin
 
-**Kitab al-Tawasin** adalah karya utama al-Hallaj yang membahas dimensi esoterik kisah para nabi. Buku ini ditulis dalam gaya simbolis dan metaforis yang memerlukan interpretasi mendalam^22.
+**Kitab al-Tawasin** adalah karya utama al-Hallaj yang membahas dimensi esoterik kisah para nabi. Buku ini ditulis dalam gaya simbolis dan metaforis yang memerlukan interpretasi mendalam.^22
 
-Dalam al-Tawasin, al-Hallaj mengembangkan teori tentang **nur Muhammad** (cahaya Muhammad) sebagai realitas spiritual yang mendahului semua ciptaan^23.
+Dalam al-Tawasin, al-Hallaj mengembangkan teori tentang **nur Muhammad** (cahaya Muhammad) sebagai realitas spiritual yang mendahului semua ciptaan.^23
 
 ### Diwan al-Hallaj
 
-Koleksi syair al-Hallaj menunjukkan kedalaman pengalaman spiritualnya. Syair-syairnya menggunakan simbolisme cinta, api, dan cahaya untuk menggambarkan perjalanan spiritual^24.
+Koleksi syair al-Hallaj menunjukkan kedalaman pengalaman spiritualnya. Syair-syairnya menggunakan simbolisme cinta, api, dan cahaya untuk menggambarkan perjalanan spiritual.^24
 
-**"Qutiltu bi-hubbi rabbi"** (Aku dibunuh karena cinta kepada Tuhanku) menjadi salah satu syair paling terkenal yang menggambarkan pengorbanan dalam cinta ilahi^25.
+**"Qutiltu bi-hubbi rabbi"** (Aku dibunuh karena cinta kepada Tuhanku) menjadi salah satu syair paling terkenal yang menggambarkan pengorbanan dalam cinta ilahi.^25
 
 ## Pengadilan dan Eksekusi
 
 ### Tuduhan dan Persidangan
 
-Al-Hallaj dituduh melakukan **zindiq** (heresi) dan **kufr** (kekafiran) oleh ulama ortodoks. **Ibn Dawud al-Zahiri** dan kelompok Hanabilah menjadi penentang utamanya^26.
+Al-Hallaj dituduh melakukan **zindiq** (heresi) dan **kufr** (kekafiran) oleh ulama ortodoks. **Ibn Dawud al-Zahiri** dan kelompok Hanabilah menjadi penentang utamanya.^26
 
-Persidangan berlangsung selama delapan tahun (913-922 M) dengan berbagai kontroversi politik dan teologis. **Khalifah al-Muqtadir** awalnya ragu, tetapi akhirnya menyetujui eksekusi^27.
+Persidangan berlangsung selama delapan tahun (913-922 M) dengan berbagai kontroversi politik dan teologis. **Khalifah al-Muqtadir** awalnya ragu, tetapi akhirnya menyetujui eksekusi.^27
 
 ### Dukungan dan Perlawanan
 
-Beberapa ulama besar membela al-Hallaj, termasuk **al-Shibli** (murid al-Junayd) dan **Ibn Ata** (negarawan-sufi). Mereka berargumen bahwa pernyataan al-Hallaj harus dipahami dalam konteks spiritual, bukan literal^28.
+Beberapa ulama besar membela al-Hallaj, termasuk **al-Shibli** (murid al-Junayd) dan **Ibn Ata** (negarawan-sufi). Mereka berargumen bahwa pernyataan al-Hallaj harus dipahami dalam konteks spiritual, bukan literal.^28
 
-**Abu al-Abbas ibn Suraij** (ahli fiqih Shafi'i) memberikan fatwa bahwa pernyataan mistik tidak dapat dihukum dengan hukum zahir tanpa mempertimbangkan konteks spiritualnya^29.
+**Abu al-Abbas ibn Suraij** (ahli fiqih Shafi'i) memberikan fatwa bahwa pernyataan mistik tidak dapat dihukum dengan hukum zahir tanpa mempertimbangkan konteks spiritualnya.^29
 
 ### Eksekusi dan Kematian
 
-Pada 26 Dzulhijjah 309 H/26 Maret 922 M, al-Hallaj dieksekusi di Baghdad dengan cara yang brutal: disalib, dipotong tangan dan kakinya, lalu dipenggal^30.
+Pada 26 Dzulhijjah 309 H/26 Maret 922 M, al-Hallaj dieksekusi di Baghdad dengan cara yang brutal: disalib, dipotong tangan dan kakinya, lalu dipenggal.^30
 
-Menurut saksi mata, al-Hallaj menghadapi kematian dengan tenang sambil terus berzikir. Kata-kata terakhirnya adalah doa untuk pengampunan bagi para algojnya^31.
+Menurut saksi mata, al-Hallaj menghadapi kematian dengan tenang sambil terus berzikir. Kata-kata terakhirnya adalah doa untuk pengampunan bagi para algojnya.^31
 
 ## Warisan dan Pengaruh
 
 ### Pengaruh terhadap Tasawuf
 
-Meskipun kontroversial, ajaran al-Hallaj memberikan pengaruh besar terhadap perkembangan tasawuf. Konsepnya tentang cinta ilahi diadopsi oleh banyak sufi setelahnya^32.
+Meskipun kontroversial, ajaran al-Hallaj memberikan pengaruh besar terhadap perkembangan tasawuf. Konsepnya tentang cinta ilahi diadopsi oleh banyak sufi setelahnya.^32
 
-**Ibn Arabi** mengembangkan lebih lanjut teori-teori al-Hallaj dalam kerangka **wahdat al-wujud**. **Jalaluddin Rumi** juga banyak terinspirasi oleh syair-syair cinta al-Hallaj^33.
+**Ibn Arabi** mengembangkan lebih lanjut teori-teori al-Hallaj dalam kerangka **wahdat al-wujud**. **Jalaluddin Rumi** juga banyak terinspirasi oleh syair-syair cinta al-Hallaj.^33
 
 ### Simbolisme Martyrdom
 
-Kematian al-Hallaj menjadi simbol pengorbanan dalam cinta ilahi dan perjuangan melawan ortodoksi yang rigid. Ia dianggap sebagai **shahid al-ishq** (martir cinta)^34.
+Kematian al-Hallaj menjadi simbol pengorbanan dalam cinta ilahi dan perjuangan melawan ortodoksi yang rigid. Ia dianggap sebagai **shahid al-ishq** (martir cinta).^34
 
-**Farid al-Din Attar** dalam "Tadhkirat al-Awliya" menggambarkan al-Hallaj sebagai model sufi sejati yang rela berkorban demi kebenaran spiritual^35.
+**Farid al-Din Attar** dalam "Tadhkirat al-Awliya" menggambarkan al-Hallaj sebagai model sufi sejati yang rela berkorban demi kebenaran spiritual.^35
 
 ## Analisis dan Hikmah
 

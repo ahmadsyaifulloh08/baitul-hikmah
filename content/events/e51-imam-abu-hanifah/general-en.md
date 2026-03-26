@@ -2,67 +2,67 @@
 
 ## Early Life in Kufa
 
-**Abu Hanifah Nu'man ibn Thabit** was born in 80 AH/699 CE in Kufa, Iraq, into a respected merchant family^1. His grandfather, Zuta, was a Persian who converted to Islam and became a *mawali* (client) of the Taym Allah tribe. Despite being from a *mawali* family, Abu Hanifah grew up in an environment that valued knowledge and commerce^2.
+**Abu Hanifah Nu'man ibn Thabit** was born in 80 AH/699 CE in Kufa, Iraq, into a respected merchant family.^1 His grandfather, Zuta, was a Persian who converted to Islam and became a *mawali* (client) of the Taym Allah tribe. Despite being from a *mawali* family, Abu Hanifah grew up in an environment that valued knowledge and commerce.^2
 
-Kufa at that time was an important center of Islamic learning, where many companions and successors gathered. **Ibrahim al-Nakha'i** (d. 96 AH), one of Kufa's leading scholars, greatly influenced the scholarly tradition of the city. Young Abu Hanifah was exposed to various legal opinions that developed there^3.
+Kufa at that time was an important center of Islamic learning, where many companions and successors gathered. **Ibrahim al-Nakha'i** (d. 96 AH), one of Kufa's leading scholars, greatly influenced the scholarly tradition of the city. Young Abu Hanifah was exposed to various legal opinions that developed there.^3
 
-Initially, Abu Hanifah focused more on his family's silk and textile business. He was known as an honest and fair merchant, a reputation that would later become the foundation of public trust in him. Only around age 20 did he begin seriously studying religious sciences^4.
+Initially, Abu Hanifah focused more on his family's silk and textile business. He was known as an honest and fair merchant, a reputation that would later become the foundation of public trust in him. Only around age 20 did he begin seriously studying religious sciences.^4
 
 ## Intellectual Formation and Methodology
 
 ### Learning with Hammad ibn Abi Sulayman
 
-**Hammad ibn Abi Sulayman** (d. 120 AH) became Abu Hanifah's main teacher in jurisprudence. Hammad was a student of Ibrahim al-Nakha'i and heir to Kufa's rational and practical legal tradition^5. Under his guidance, Abu Hanifah spent nearly 18 years learning the foundations of Islamic law.
+**Hammad ibn Abi Sulayman** (d. 120 AH) became Abu Hanifah's main teacher in jurisprudence. Hammad was a student of Ibrahim al-Nakha'i and heir to Kufa's rational and practical legal tradition.^5 Under his guidance, Abu Hanifah spent nearly 18 years learning the foundations of Islamic law.
 
-Hammad taught a flexible method of *istinbath* (legal derivation), prioritizing wisdom and public interest in establishing laws. This approach greatly influenced Abu Hanifah's view of Islamic law as a system that must be able to answer the challenges of the times^6.
+Hammad taught a flexible method of *istinbath* (legal derivation), prioritizing wisdom and public interest in establishing laws. This approach greatly influenced Abu Hanifah's view of Islamic law as a system that must be able to answer the challenges of the times.^6
 
 ### Methodology of Qiyas and Ra'yu
 
-Abu Hanifah developed a systematic and rational legal methodology. He used *qiyas* (analogy) extensively to solve new legal problems that had no explicit text in the Quran and Hadith^7.
+Abu Hanifah developed a systematic and rational legal methodology. He used *qiyas* (analogy) extensively to solve new legal problems that had no explicit text in the Quran and Hadith.^7
 
-Abu Hanifah's *ra'yu* (reasoning) approach was not arbitrary but based on strict principles. He prioritized: (1) the Quran, (2) authentic Hadith, (3) consensus of companions, (4) analogy based on texts, (5) *istihsan* (choosing the better opinion), and (6) *'urf* (customs not contrary to sharia)^8.
+Abu Hanifah's *ra'yu* (reasoning) approach was not arbitrary but based on strict principles. He prioritized: (1) the Quran, (2) authentic Hadith, (3) consensus of companions, (4) analogy based on texts, (5) *istihsan* (choosing the better opinion), and (6) *'urf* (customs not contrary to sharia).^8
 
 ## Establishment of the School and Systematization of Law
 
 ### Scientific Assembly at Kufa Mosque
 
-Abu Hanifah began his regular teaching at Kufa Mosque around 120 AH. His assembly developed into a dynamic center of legal discussion, involving dozens of brilliant students who contributed to methodology development^9.
+Abu Hanifah began his regular teaching at Kufa Mosque around 120 AH. His assembly developed into a dynamic center of legal discussion, involving dozens of brilliant students who contributed to methodology development.^9
 
-**Abu Yusuf** (d. 182 AH) and **Muhammad al-Shaybani** (d. 189 AH) were two of the most important students who later developed and spread Abu Hanifah's teachings. They not only recorded their teacher's opinions but also participated in discussions and sometimes differed on certain issues^10.
+**Abu Yusuf** (d. 182 AH) and **Muhammad al-Shaybani** (d. 189 AH) were two of the most important students who later developed and spread Abu Hanifah's teachings. They not only recorded their teacher's opinions but also participated in discussions and sometimes differed on certain issues.^10
 
 ### Systematization in Jurisprudence Books
 
-Although Abu Hanifah himself did not systematically write jurisprudence books, his students recorded and codified his opinions. **Al-Fiqh al-Akbar**, attributed to him, contains the foundations of creed, while his legal opinions were compiled in various works by his students^11.
+Although Abu Hanifah himself did not systematically write jurisprudence books, his students recorded and codified his opinions. **Al-Fiqh al-Akbar**, attributed to him, contains the foundations of creed, while his legal opinions were compiled in various works by his students.^11
 
-Abu Yusuf wrote *"Kitab al-Kharaj"*, which became a reference for administrative and state financial law. Muhammad al-Shaybani produced *"Al-Mabsut"* and *"Al-Jami' al-Saghir"*, which became the foundation for teaching the Hanafi school later^12.
+Abu Yusuf wrote *"Kitab al-Kharaj"*, which became a reference for administrative and state financial law. Muhammad al-Shaybani produced *"Al-Mabsut"* and *"Al-Jami' al-Saghir"*, which became the foundation for teaching the Hanafi school later.^12
 
 ## Trial by Time: Prison and Death
 
 ### Conflict with Rulers
 
-Abu Hanifah lived during the transition period from Umayyad to Abbasid, a time full of political upheaval. He refused the offer to become a *qadhi* (judge) from **Khalifah al-Mansur** due to concerns about independence in making legal decisions^13.
+Abu Hanifah lived during the transition period from Umayyad to Abbasid, a time full of political upheaval. He refused the offer to become a *qadhi* (judge) from **Khalifah al-Mansur** due to concerns about independence in making legal decisions.^13
 
-This refusal angered al-Mansur and led to Abu Hanifah's imprisonment. In prison, he continued teaching and giving fatwas to people in need. His principle was that scholars must maintain intellectual freedom from political intervention^14.
+This refusal angered al-Mansur and led to Abu Hanifah's imprisonment. In prison, he continued teaching and giving fatwas to people in need. His principle was that scholars must maintain intellectual freedom from political intervention.^14
 
 ### Death as a Martyr of Knowledge
 
-Abu Hanifah died in prison in 150 AH/767 CE at age 70. **Al-Khatib al-Baghdadi** narrated that his death was caused by harsh treatment in prison, making him a martyr in the struggle to defend scholarly independence^15.
+Abu Hanifah died in prison in 150 AH/767 CE at age 70. **Al-Khatib al-Baghdadi** narrated that his death was caused by harsh treatment in prison, making him a martyr in the struggle to defend scholarly independence.^15
 
-His funeral in Baghdad was attended by thousands from various backgrounds. The community respected him not only as a scholar but also as a figure who consistently fought for justice and intellectual freedom^16.
+His funeral in Baghdad was attended by thousands from various backgrounds. The community respected him not only as a scholar but also as a figure who consistently fought for justice and intellectual freedom.^16
 
 ## Legacy and Long-term Influence
 
 ### Spread of the Hanafi School
 
-The Hanafi school spread widely due to its flexibility in dealing with various social and cultural conditions. **The Abbasid Dynasty** officially adopted this school as the state's legal reference, especially during **Harun al-Rashid's** time, who appointed Abu Yusuf as *Qadhi al-Qudhat* (chief justice)^17.
+The Hanafi school spread widely due to its flexibility in dealing with various social and cultural conditions. **The Abbasid Dynasty** officially adopted this school as the state's legal reference, especially during **Harun al-Rashid's** time, who appointed Abu Yusuf as *Qadhi al-Qudhat* (chief justice).^17
 
-Islamic expansion into Turkish, Central Asian, and Indian regions brought the Hanafi school to these areas. **The Ottoman Dynasty** later made the Hanafi school the official school of the empire, extending its influence to the Balkans and North Africa^18.
+Islamic expansion into Turkish, Central Asian, and Indian regions brought the Hanafi school to these areas. **The Ottoman Dynasty** later made the Hanafi school the official school of the empire, extending its influence to the Balkans and North Africa.^18
 
 ### Contribution to Legal Science
 
-Abu Hanifah is considered a pioneer in the systematization of Islamic law. His rational and flexible methodology allowed Islamic law to adapt to developments of the times without losing its spiritual substance^19.
+Abu Hanifah is considered a pioneer in the systematization of Islamic law. His rational and flexible methodology allowed Islamic law to adapt to developments of the times without losing its spiritual substance.^19
 
-The concept of *istihsan* that he developed provided space for considering public interest in law establishment. This principle was later adopted and developed by other schools with various variations^20.
+The concept of *istihsan* that he developed provided space for considering public interest in law establishment. This principle was later adopted and developed by other schools with various variations.^20
 
 ## Analysis and Lessons
 

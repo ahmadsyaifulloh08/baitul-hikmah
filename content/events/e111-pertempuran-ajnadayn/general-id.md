@@ -72,7 +72,7 @@ Penaklukan Syam memiliki dimensi spiritual yang mendalam bagi kaum Muslim. Al-Qu
 > *"Perangilah mereka, niscaya Allah akan menyiksa mereka melalui tanganmu dan menghinakan mereka, serta menolong kamu atas mereka, dan melegakan dada orang-orang yang beriman."* ﴾14﴿
 > — QS. At-Taubah (9): 14
 
-Pertempuran Ajnadayn merupakan salah satu futuhat awal di mana kaum Muslim merasakan pertolongan langsung Allah dalam menghadapi pasukan Bizantium yang jauh lebih besar^4.
+Pertempuran Ajnadayn merupakan salah satu futuhat awal di mana kaum Muslim merasakan pertolongan langsung Allah dalam menghadapi pasukan Bizantium yang jauh lebih besar.^4
 
 Masjidil Aqsha, yang terletak di Yerusalem — jantung wilayah Syam — adalah kiblat pertama umat Islam dan tempat Isra' Mi'raj Rasulullah ﷺ. Penaklukan Syam dengan demikian bukan sekadar ekspansi militer, melainkan juga pemenuhan hubungan spiritual antara umat Islam dan tanah suci yang telah Allah berkahi.
 
