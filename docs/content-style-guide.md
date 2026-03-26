@@ -5,7 +5,47 @@
 
 ---
 
-## 1. Referensi Al-Quran — Wajib Sertakan Teks Arab
+## 1. Referensi Al-Quran — Hierarki Kutipan + Wajib Teks Arab
+
+### Hierarki Kutipan Al-Quran (CRITICAL)
+
+Tidak semua event perlu kutipan ayat Al-Quran. Gunakan hierarki berikut:
+
+**Tier 1 — Asbabun Nuzul / Korelasi Historis Langsung (PRIORITAS UTAMA)**
+Ayat yang turun berkaitan langsung dengan event, atau secara historis tercatat digunakan oleh tokoh dalam event tersebut.
+- Contoh: e48 (Umar Abdul Aziz) → QS. An-Nahl (16): 90 — ayat yang beliau gunakan menggantikan cacian Ali di mimbar ✅
+- Contoh: e57 (Al-Khwarizmi) → QS. An-Nisa (4): 11 — hukum waris yang memotivasi pengembangan aljabar ✅
+- Contoh: e34 (Pengumpulan Mushaf) → QS. Al-Taubah (9): 128 — ayat terakhir yang ditemukan Zaid ✅
+
+**Tier 2 — Korelasi Tematik Kuat**
+Ayat yang temanya langsung relevan dengan inti event, meskipun bukan asbabun nuzul.
+- Contoh: e34 → QS. Al-Hijr (15): 9 — janji pemeliharaan Quran, event: pengumpulan mushaf ✅
+- Contoh: e75 (Salahuddin) → QS. Al-Isra (17): 1 — isra miraj ke Masjidil Aqsa, event: pembebasan Yerusalem ✅
+- Contoh: e78 (Jatuhnya Cordoba) → QS. Ali Imran (3): 103 — berpegang teguh pada persatuan ✅
+
+**Tier 3 — Korelasi Tematik Lemah (HINDARI)**
+Ayat umum yang bisa ditempelkan ke event apa saja. **Lebih baik tanpa kutipan daripada memaksakan.**
+- ❌ QS. Taha (20): 114 "Rabbi zidni ilma" untuk setiap event pendidikan
+- ❌ QS. Al-Hujurat (49): 13 "keragaman bangsa" untuk setiap event multikultural
+- ❌ QS. Al-Anfal (8): 60 "siapkan kekuatan" untuk setiap event militer
+
+**Aturan kutipan:**
+1. **Tier 1 wajib dikutip** jika ada — ini yang paling berharga
+2. **Tier 2 boleh dikutip** — tapi HARUS jelaskan korelasinya dalam 1-2 kalimat setelah ayat
+3. **Tier 3 JANGAN dikutip** — ganti dengan hadits relevan, atau hikmah tanpa dalil
+4. **Event tanpa Tier 1/2 → boleh tanpa kutipan ayat** — hadits saja cukup, atau penutup hikmah tanpa dalil
+5. **Satu ayat TIDAK BOLEH dipakai di >3 events berbeda** — cari alternatif jika sudah 3x
+6. Setiap kutipan WAJIB disertai penjelasan korelasi historis/tematik (bukan sekadar "ayat ini mengingatkan kita")
+
+**Anti-pattern (REJECT):**
+- ❌ Ayat pernikahan (Ar-Rum 30:21) untuk event politik/peradaban
+- ❌ Ayat tentang ruh (Al-Isra 17:85) untuk event non-tasawuf
+- ❌ Satu ayat "catch-all" ditempel di banyak event tanpa konteks spesifik
+- ❌ Penjelasan korelasi yang dipaksakan: "Ayat ini mencerminkan filosofi X dalam Y" tanpa basis historis
+
+---
+
+### Format Teks Arab
 
 Setiap kutipan Al-Quran **WAJIB** menyertakan teks Arab asli.
 
@@ -578,6 +618,7 @@ node -e "..." content/events/{event}/children-id.md
 - [ ] **Setiap paragraf historis** min 1 sitasi
 - [ ] **Teks Arab** HANYA di Quran/Hadits — bukan istilah/nama/tempat
 - [ ] **Ayat Quran**: Arab + `﴾N﴿` + terjemahan (blockquote only)
+- [ ] **Ayat Quran — Hierarki**: Tier 1 (asbabun nuzul) > Tier 2 (tematik kuat) > Tier 3 (HINDARI). Ayat yang sama tidak boleh muncul di >3 events. Penjelasan korelasi WAJIB ada setelah kutipan.
 - [ ] **Hadits**: nomor hadits + kitab/bab (bukan hanya "HR Muslim")
 - [ ] **`﴾N﴿` bersih**: `grep -rn '﴾[0-9]*﴿' | grep -v '^.*:>'` → 0 results
 

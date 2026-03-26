@@ -41,7 +41,7 @@ Menjadi portal digital terlengkap dan terindah untuk menelusuri sejarah peradaba
   - Konteks historis & geografis
   - Narasi detail peristiwa
   - Analisis signifikansi
-  - Dalil Al-Qur'an & Hadits yang relevan
+  - Dalil Al-Qur'an & Hadits yang relevan (lihat **Hierarki Kutipan Al-Quran** di `content-style-guide.md` — prioritaskan ayat dengan korelasi asbabun nuzul/historis langsung, hindari ayat "tempelan" generik)
   - Daftar pustaka (minimal: sumber primer + kitab rujukan)
 
 ### Segmen B: Anak-Anak (Mode Anak-Anak)
@@ -200,7 +200,7 @@ Tokoh: [Nama1] [Nama2] [Nama3] ...                       ← pills (fontSize 12,
 - **Narasi lengkap**: Konteks → kronologi → analisis → signifikansi
 - **Tokoh terkait**: Card per tokoh (nama, peran, tahun hidup)
 - **Peta mini**: Lokasi event di peta
-- **Dalil terkait**: Ayat Al-Qur'an dan/atau Hadits yang relevan (dengan teks Arab, transliterasi, terjemahan)
+- **Dalil terkait**: Ayat Al-Qur'an dan/atau Hadits yang relevan (dengan teks Arab, transliterasi, terjemahan). **WAJIB** mengikuti Hierarki Kutipan (Tier 1: asbabun nuzul/historis → Tier 2: tematik kuat → Tier 3: HINDARI). Event tanpa Tier 1/2 boleh tanpa ayat. Lihat `content-style-guide.md`.
 - **Daftar Pustaka**: Sumber rujukan dari markdown content (BUKAN dari JSON `event.sources` jika rich content tersedia)
 - **Navigasi**: Previous/Next event secara kronologis
 - **Related events**: Events terkait di era/region yang sama
