@@ -62,14 +62,28 @@ export default function AboutPage() {
             </div>
 
             <div className="bg-[var(--bg-secondary)] rounded-lg" style={{padding:"0.5rem"}}>
-              <h3 className="font-semibold text-[var(--text-primary)] mb-3">3. Verifikasi Al-Quran</h3>
-              <p className="mb-2">Setiap kutipan Al-Quran diverifikasi secara otomatis menggunakan API Al-Quran Cloud:</p>
+              <h3 className="font-semibold text-[var(--text-primary)] mb-3">3. Kutipan Ayat Suci Al-Quran</h3>
+              <p className="mb-2">
+                Ayat Al-Quran yang dikutip dalam setiap artikel dipilih berdasarkan <strong>hierarki relevansi historis</strong>,
+                bukan sekadar &quot;tempelan&quot; tematik:
+              </p>
               <ul className="list-disc pl-5 space-y-1">
-                <li>Teks Arab diambil langsung dari database Mushaf Madinah</li>
-                <li>Setiap referensi wajib menyertakan teks Arab asli beserta terjemahan</li>
-                <li>Pemisah ayat (<em>verse separator</em>) digunakan secara konsisten</li>
-                <li>Automated QA checker memverifikasi keberadaan teks Arab</li>
+                <li><strong>Tier 1 — Asbabun Nuzul:</strong> Ayat yang turun berkaitan langsung dengan peristiwa, atau secara historis tercatat digunakan oleh tokoh dalam peristiwa tersebut. <em>Contoh: QS. An-Nahl (16): 90 pada artikel Umar ibn Abdul Aziz — ayat yang beliau gunakan menggantikan tradisi cacian terhadap Ali ibn Abi Thalib di mimbar.</em></li>
+                <li><strong>Tier 2 — Korelasi Tematik Kuat:</strong> Ayat yang temanya langsung relevan dengan inti peristiwa. <em>Contoh: QS. Al-Hijr (15): 9 tentang janji pemeliharaan Al-Quran pada artikel Pengumpulan Mushaf.</em></li>
+                <li><strong>Tier 3 — Dihindari:</strong> Ayat generik yang bisa diterapkan ke peristiwa apa saja tidak digunakan. Artikel yang tidak memiliki ayat Tier 1 atau Tier 2 yang relevan <strong>lebih baik tanpa kutipan ayat</strong> daripada memaksakan korelasi yang lemah.</li>
               </ul>
+              <p className="mt-3 mb-2">Selain hierarki, setiap kutipan Al-Quran juga memenuhi standar teknis:</p>
+              <ul className="list-disc pl-5 space-y-1">
+                <li>Teks Arab asli wajib disertakan beserta terjemahan</li>
+                <li>Pemisah ayat (<em>verse separator</em>) digunakan secara konsisten</li>
+                <li>Setiap ayat yang dikutip disertai penjelasan korelasi historis/tematiknya</li>
+                <li>Satu ayat spesifik tidak digunakan di lebih dari 3 artikel berbeda</li>
+                <li>Automated QA checker memverifikasi format, relevansi, dan konsistensi</li>
+              </ul>
+              <p className="mt-3 text-sm" style={{color:"var(--text-secondary)"}}>
+                Dari 128 peristiwa, <strong>97 artikel</strong> memuat kutipan ayat Al-Quran (Tier 1/2), 
+                sementara <strong>31 artikel</strong> tidak memuat kutipan ayat karena tidak ditemukan korelasi historis yang memadai.
+              </p>
             </div>
 
             <div className="bg-[var(--bg-secondary)] rounded-lg" style={{padding:"0.5rem"}}>
