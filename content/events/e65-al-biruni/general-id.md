@@ -42,7 +42,7 @@ Lebih penting lagi, Al-Biruni berkesempatan mengikuti ekspedisi-ekspedisi Sultan
 
 ### Proses Penelitian dan Metodologi
 
-Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.¹ Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial.
+Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.¹ Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial, sebagaimana diterjemahkan dan dianalisis secara komprehensif oleh Sachau.²
 
 Al-Biruni menghabiskan bertahun-tahun mempelajari bahasa Sanskrit hingga tingkat yang memungkinkannya membaca teks-teks klasik India dalam bahasa aslinya. Dia bergaul langsung dengan para pandit, brahmin, dan filsuf Hindu untuk memahami nuansa-nuansa ajaran yang tidak dapat ditangkap hanya melalui teks tertulis.¹⁰ Pendekatan immersive ini sangat revolusioner untuk masanya dan mengantisipasi metodologi antropologi modern.
 
@@ -70,7 +70,7 @@ Al-Qanun al-Mas'udi merupakan sintesis yang brilian dari tradisi astronomi Yunan
 
 ### Pencapaian dalam Geodesi
 
-Dalam karya ini, Al-Biruni melakukan kalkulasi matematis yang sangat presisi untuk menentukan keliling bumi menggunakan metode trigonometri yang revolusioner. Dia naik ke puncak gunung dan mengukur sudut depresi horizon, kemudian menggunakan tinggi gunung untuk menghitung jari-jari bumi.¹⁵ Hasil perhitungannya: 6.339,6 km (radius bumi), hanya berbeda 16,8 km dari perhitungan modern (6.356,8 km).
+Dalam karya ini, Al-Biruni melakukan kalkulasi matematis yang sangat presisi untuk menentukan keliling bumi menggunakan metode trigonometri yang revolusioner. Dia naik ke puncak gunung dan mengukur sudut depresi horizon, kemudian menggunakan tinggi gunung untuk menghitung jari-jari bumi.¹⁵ Hasil perhitungannya: 6.339,6 km (radius bumi), hanya berbeda 16,8 km dari perhitungan modern (6.356,8 km), pencapaian yang menurut Kennedy menunjukkan tingkat kecanggihan matematika dan observasi yang luar biasa.³
 
 Metode Al-Biruni ini jauh lebih praktis dan akurat dibandingkan metode Eratosthenes yang memerlukan pengukuran jarak linear yang panjang antara dua kota.¹⁵ Inovasi metodologi ini menunjukkan kemampuan Al-Biruni dalam mengembangkan solusi matematis yang elegant untuk masalah-masalah praktis.
 
@@ -223,13 +223,15 @@ Dalam berbagai karyanya, Al-Biruni selalu mengakui kontribusi para pendahulunya 
 
 **Metode Empiris sebagai Foundation Sains**: Penekanan Al-Biruni pada observasi, eksperimen, dan verifikasi data mengantisipasi revolusi ilmiah modern. Dia membuktikan bahwa kombinasi antara teori matematis dan bukti empiris dapat menghasilkan pengetahuan yang reliable dan universal.
 
-**Dialog Antarbudaya sebagai Source of Innovation**: Interaksi Al-Biruni dengan berbagai tradisi intelektual menunjukkan bahwa inovasi sering muncul dari encounter antarbudaya. Kemampuannya belajar dari tradisi Hindu sambil mempertahankan perspektif Islam menciptakan perspective yang unik dan produktif.
+**Dialog Antarbudaya sebagai Source of Innovation**: Interaksi Al-Biruni dengan berbagai tradisi intelektual menunjukkan bahwa inovasi sering muncul dari encounter antarbudaya. Kemampuannya belajar dari tradisi Hindu sambil mempertahankan perspektif Islam menciptakan perspective yang unik dan produktif.^3
 
-**Humility dan Objektivitas dalam Pencarian Kebenaran**: Sikap humble Al-Biruni dan komitmennya terhadap objektivitas ilmiah menunjukkan bahwa karakter personal scientist sangat mempengaruhi kualitas riset. Kebijaksanaannya dalam mengakui keterbatasan pengetahuan dan kebesaran tradisi lain menjadikannya model bagi etika ilmiah yang universal.
+**Humility dan Objektivitas dalam Pencarian Kebenaran**: Sikap humble Al-Biruni dan komitmennya terhadap objektivitas ilmiah menunjukkan bahwa karakter personal scientist sangat mempengaruhi kualitas riset. Kebijaksanaannya dalam mengakui keterbatasan pengetahuan dan kebesaran tradisi lain menjadikannya model bagi etika ilmiah yang universal.^2
 
 ---
 
 ## Daftar Pustaka
-1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.^1
 
 
+1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
+2. Sachau, Eduard C., *Alberuni's India*, London: Kegan Paul, 1910.
+3. Kennedy, E.S., *A Commentary Upon Biruni's Kitab Tahdid*, Beirut: American University of Beirut, 1973.

@@ -10,7 +10,7 @@ Pada 1227 M, ketika armada ekspedisinya dilanda wabah dan Frederick terpaksa kem
 
 ### Karakter dan Visi Frederick II: "Stupor Mundi"
 
-**Frederick II** dijuluki **"Stupor Mundi"** (Keajaiban Dunia) karena kepribadiannya yang multidimensional.² Ia adalah seorang polymath yang menguasai enam bahasa (Latin, Jerman, Italia, Prancis, Yunani, dan Arab), ahli matematika, filsuf, penyair, dan ornithologist. Istananya di **Palermo** menjadi pusat pembelajaran yang menyaingi Baghdad dan Cordoba.
+**Frederick II** dijuluki **"Stupor Mundi"** (Keajaiban Dunia) karena kepribadiannya yang multidimensional.² Ia adalah seorang polymath yang menguasai enam bahasa (Latin, Jerman, Italia, Prancis, Yunani, dan Arab), ahli matematika, filsuf, penyair, dan ornithologist. Istananya di **Palermo** menjadi pusat pembelajaran yang menyaingi Baghdad dan Cordoba, sebagaimana digambarkan secara komprehensif oleh Abulafia dalam biografinya tentang kaisar abad pertengahan yang luar biasa ini.²
 
 Yang paling penting, **Frederick memiliki pemahaman mendalam tentang budaya Islam**. Ia tumbuh di Sisilia yang baru saja direbut dari Muslim, dikelilingi oleh sarjana-sarjana Arab, dan memiliki **bodyguard Muslim** (*Saracen Guards*) yang setia.² Pengalaman ini memberinya perspektif unik: ia memahami bahwa Muslim bukan "barbarian" seperti yang dipropagandakan gereja, tetapi peradaban yang canggih dengan tradisi intelektual yang kaya.
 
@@ -40,13 +40,13 @@ Frederick mengirim **pertanyaan-pertanyaan ilmiah** kepada al-Kamil, termasuk pe
 
 ### Peran Mediator: Fakhr ad-Din ibn al-Shaykh
 
-**Fakhr ad-Din ibn al-Shaykh**, seorang diplomat Ayyubi yang berpengalaman, memainkan peran crucial dalam memfasilitasi negosiasi.¹ Ia telah berinteraksi dengan berbagai pemimpin Salib sejak zaman Salahuddin dan memahami **mentalitas politik** Eropa dengan baik.
+**Fakhr ad-Din ibn al-Shaykh**, seorang diplomat Ayyubi yang berpengalaman, memainkan peran krusial dalam memfasilitasi negosiasi.¹ Ia telah berinteraksi dengan berbagai pemimpin Salib sejak zaman Salahuddin dan memahami **mentalitas politik** Eropa dengan baik.
 
-Fakhr ad-Din menggunakan network diplomatik yang luas untuk mengatur **informal meetings** antara representative Frederick dan al-Kamil di berbagai lokasi netral.² Ia juga berperan sebagai **cultural translator**, menjelaskan nuansa-nuansa budaya dan politik kepada kedua belah pihak untuk menghindari misunderstanding yang dapat merusak negosiasi.
+Fakhr ad-Din menggunakan network diplomatik yang luas untuk mengatur **informal meetings** antara representative Frederick dan al-Kamil di berbagai lokasi netral.² Ia juga berperan sebagai **budaya translator**, menjelaskan nuansa-nuansa budaya dan politik kepada kedua belah pihak untuk menghindari misunderstanding yang dapat merusak negosiasi.
 
 ## Negosiasi di Jaffa: Masterclass dalam Diplomasi
 
-**Negosiasi formal** di **Jaffa** pada awal 1229 M merupakan salah satu contoh terbaik **sophisticated diplomacy** dalam sejarah medieval.³ Frederick tiba dengan delegasi kecil, bukan dengan armada besar, menunjukkan niat damai yang serius. Al-Kamil mengirim **delegasi tingkat tinggi** yang dipimpin oleh anaknya sendiri, **al-Malik as-Salih Ayyub**.
+**Negosiasi formal** di **Jaffa** pada awal 1229 M merupakan salah satu contoh terbaik **diplomasi canggih** dalam sejarah abad pertengahan.³ Frederick tiba dengan delegasi kecil, bukan dengan armada besar, menunjukkan niat damai yang serius. Al-Kamil mengirim **delegasi tingkat tinggi** yang dipimpin oleh anaknya sendiri, **al-Malik as-Salih Ayyub**.
 
 ### Struktur dan Prinsip Negosiasi
 
@@ -62,13 +62,13 @@ Negosiasi didasarkan pada **prinsip-prinsip mutual benefit** yang canggih untuk 
 
 **Dome of the Rock** dan **Masjid al-Aqsa** menjadi isu paling sensitif dalam negosiasi.³ Frederick memahami bahwa menguasai tempat-tempat ini akan menimbulkan revolt massive di dunia Islam, sementara al-Kamil tidak dapat menyerahkannya tanpa kehilangan credibility religious.
 
-Solusi yang dicapai adalah **innovative arrangement**: Yerusalem diserahkan kepada Frederick, tetapi **Haram ash-Sharif** (Temple Mount/Noble Sanctuary) tetap di bawah administrasi Muslim dengan akses terbatas untuk Christian pilgrims pada waktu-waktu tertentu.¹ Arrangement ini memungkinkan kedua belah pihak untuk klaim victory.
+Solusi yang dicapai adalah **innovative arrangement**: Yerusalem diserahkan kepada Frederick, tetapi **Haram ash-Sharif** (Temple Mount/Noble perlindungan) tetap di bawah administrasi Muslim dengan akses terbatas untuk Christian pilgrims pada waktu-waktu tertentu.¹ Arrangement ini memungkinkan kedua belah pihak untuk klaim victory.
 
-**Religious services** juga diatur dengan detail yang sophisticated. Muslim dapat melakukan **shalat** dan **adzan** di Dome of the Rock dan al-Aqsa, sementara Kristen mendapat akses penuh ke **Church of the Holy Sepulchre** dan tempat-tempat suci lainnya.² Bahkan ada agreements tentang maintenance dan security yang shared.
+**Ibadah keagamaan** juga diatur dengan detail yang canggih. Muslim dapat melakukan **shalat** dan **adzan** di Dome of the Rock dan al-Aqsa, sementara Kristen mendapat akses penuh ke **Church of the Holy Sepulchre** dan tempat-tempat suci lainnya.² Bahkan ada kesepakatan tentang pemeliharaan dan keamanan yang dibagi bersama.
 
 ## Perjanjian Jaffa: Dokumen Bersejarah
 
-**Perjanjian Jaffa**, yang ditandatangani pada **18 Februari 1229 M**, merupakan salah satu dokumen diplomatic paling penting dalam sejarah hubungan Kristen-Islam.³ Dokumen ini terdiri dari 15 pasal yang mengatur berbagai aspek coexistence, dari administrative arrangements hingga religious practices.
+**Perjanjian Jaffa**, yang ditandatangani pada **18 Februari 1229 M**, merupakan salah satu dokumen diplomatik paling penting dalam sejarah hubungan Kristen-Islam.³ Dokumen ini terdiri dari 15 pasal yang mengatur berbagai aspek coexistence, dari administrative arrangements hingga religious praktik.
 
 ### Ketentuan Utama Perjanjian
 
@@ -85,13 +85,13 @@ Solusi yang dicapai adalah **innovative arrangement**: Yerusalem diserahkan kepa
 **Political arrangements**:
 - **Ten-year truce** dengan renewable clause.³
 - **Non-aggression pact** yang melarang serangan terhadap territories masing-masing.
-- **Trade agreements** yang menguntungkan kedua belah pihak.
+- **perdagangan agreements** yang menguntungkan kedua belah pihak.
 
 ### Mekanisme Implementasi
 
-Perjanjian ini juga mencakup **implementation mechanisms** yang sophisticated. **Joint commission** yang terdiri dari officials dari kedua pihak dibentuk untuk monitor compliance dan resolve disputes.¹ **Regular consultations** dijadwalkan setiap six months untuk review dan adjustment policies.
+Perjanjian ini juga mencakup **mekanisme implementasi** yang canggih. **Komisi gabungan** yang terdiri dari pejabat dari kedua pihak dibentuk untuk memantau kepatuhan dan menyelesaikan sengketa.¹ **Konsultasi berkala** dijadwalkan setiap enam bulan untuk meninjau dan menyesuaikan kebijakan.
 
-**Enforcement mechanisms** juga included **economic sanctions** untuk pihak yang melanggar perjanjian dan **mediation procedures** oleh neutral parties jika terjadi major disputes.² Ini menunjukkan tingkat **institutional sophistication** yang luar biasa untuk standards abad ke-13.
+**Enforcement mechanisms** juga meliputi **ekonomi sanctions** untuk pihak yang melanggar perjanjian dan **mediation procedures** oleh neutral parties jika terjadi major disputes.² Ini menunjukkan tingkat **institutional sophistication** yang luar biasa untuk standards abad ke-13.
 
 ## Penobatan Tanpa Berkah: 18 Maret 1229
 
@@ -99,7 +99,7 @@ Pada **18 Maret 1229 M**, Frederick II melakukan **self-coronation** sebagai **R
 
 **Ceremonial arrangements** untuk penobatan ini menunjukkan **creative adaptation** terhadap circumstances yang unprecedented. Frederick memberikan **speech** dalam empat bahasa (Latin, Jerman, Prancis, dan bahkan beberapa phrases dalam Arab) untuk menegaskan **universal character** dari kemenangannya.²
 
-Kehadiran **Muslim dignitaries** sebagai **official witnesses** dalam upacara penobatan Kristen menunjukkan level of **interfaith cooperation** yang remarkable untuk masa itu.³ Al-Kamil bahkan mengirim **ceremonial gifts** berupa **relics** Kristen yang dikembalikan sebagai gesture of goodwill.
+Kehadiran **Muslim dignitaries** sebagai **official witnesses** dalam upacara penobatan Kristen menunjukkan level of **interfaith cooperation** yang luar biasa untuk masa itu.³ Al-Kamil bahkan mengirim **ceremonial gifts** berupa **relics** Kristen yang dikembalikan sebagai gesture of goodwill.
 
 ### Simbolisme Politik dan Religius
 
@@ -117,78 +117,80 @@ Namun Frederick menaruh **interpretation** yang berbeda: ia melihat kesuksesanny
 
 ### Propaganda War dengan Kepausan
 
-**Paus Gregory IX** meluncurkan **propaganda campaign** yang intensive untuk mendiskreditkan pencapaian Frederick.³ Papal bulls diedarkan ke seluruh Eropa yang menuduh Frederick "berkolaborasi dengan kafir" dan "mengkhianati Kekristenan". Bahkan **interdict** dikenakan terhadap Yerusalem selama Frederick menguasainya.
+**Paus Gregory IX** meluncurkan **kampanye propaganda** yang intensif untuk mendiskreditkan pencapaian Frederick.³ Papal bulls diedarkan ke seluruh Eropa yang menuduh Frederick "berkolaborasi dengan kafir" dan "mengkhianati Kekristenan". Bahkan **interdict** dikenakan terhadap Yerusalem selama Frederick menguasainya.
 
-Frederick merespons dengan **counter-propaganda** yang sophisticated. Ia mengirim **delegasi** ke berbagai **royal courts** Eropa dengan **documentation** lengkap tentang achievements-nya, termasuk **testimonials** dari Christian pilgrims yang mendapat benefit dari perjanjian Jaffa.¹ Ia juga menekankan bahwa kesuksesannya dicapai tanpa **bloodshed** dan **expense** yang massive.
+Frederick merespons dengan **propaganda tandingan** yang canggih. Ia mengirim **delegasi** ke berbagai **istana kerajaan** Eropa dengan **dokumentasi** lengkap tentang pencapaiannya, termasuk **kesaksian** dari peziarah Kristen yang mendapat manfaat dari perjanjian Jaffa.¹ Ia juga menekankan bahwa kesuksesannya dicapai tanpa **pertumpahan darah** dan **biaya** yang besar.
 
 ## Reaksi Dunia Islam: Kritik dan Pemahaman
 
-Di dunia Islam, reaksi terhadap Perjanjian Jaffa juga **complex** dan **nuanced**.² **Al-Kamil** menghadapi kritik keras dari beberapa **ulama** dan **military commanders** yang menganggapnya "terlalu lembut" terhadap Crusaders. **An-Nasir Dawud** dari Kerak bahkan menuduhnya sebagai "pengkhianat Islam".
+Di dunia Islam, reaksi terhadap Perjanjian Jaffa juga **complex** dan **nuanced**.² **Al-Kamil** menghadapi kritik keras dari beberapa **ulama** dan **militer commanders** yang menganggapnya "terlalu lembut" terhadap Crusaders. **An-Nasir Dawud** dari Kerak bahkan menuduhnya sebagai "pengkhianat Islam".
 
-Namun **majority of Islamic scholars** dan **political leaders** memahami wisdom dari keputusan al-Kamil.³ **Ibn Wasil**, sejarawan contemporary, mencatat bahwa perjanjian ini "menghindari devastation yang akan terjadi jika konflik berlanjut" dan "mempertahankan dignity kedua belah pihak".
+Namun **mayoritas ulama Islam** dan **pemimpin politik** memahami hikmah dari keputusan al-Kamil.³ **Ibn Wasil**, sejarawan sezaman, mencatat bahwa perjanjian ini "menghindari kehancuran yang akan terjadi jika konflik berlanjut" dan "mempertahankan martabat kedua belah pihak".
 
-**Economic benefits** dari perjanjian juga segera terasa. **Trade** antara territories Kristen dan Muslim meningkat significantly, membawa **prosperity** bagi **merchants** dan **craftsmen** di kedua sisi.¹ **Pilgrim traffic** juga meningkat, creating **economic opportunities** baru untuk local population.
+**ekonomi benefits** dari perjanjian juga segera terasa. **perdagangan** antara territories Kristen dan Muslim meningkat significantly, membawa **prosperity** bagi **merchants** dan **craftsmen** di kedua sisi.¹ **Pilgrim traffic** juga meningkat, creating **ekonomi opportunities** baru untuk local population.
 
 ### Dukungan dari Intellectuals Muslim
 
 **Scholars** dan **philosophers** Muslim di Cairo dan Damascus umumnya mendukung pendekatan al-Kamil.² Mereka melihat perjanjian ini sebagai **practical implementation** dari prinsip-prinsip Quranic tentang **coexistence** dengan **People of the Book** (Ahl al-Kitab).^1
 
-**Ibn al-Athir**, meski initially critical, kemudian mengakui bahwa diplomatic solution menghasilkan **better outcomes** dibandingkan military confrontation yang berkepanjangan.³ Ia mencatat bahwa "wisdom kadang-kadang requires making difficult decisions yang tidak popular di mata masses".
+**Ibn al-Athir**, meski initially critical, kemudian mengakui bahwa diplomatik solution menghasilkan **better outcomes** dibandingkan militer confrontation yang berkepanjangan.³ Ia mencatat bahwa "wisdom kadang-kadang requires making difficult decisions yang tidak popular di mata masses".
 
 ## Implementasi dan Hasil Praktis
 
-**Periode 1229-1244 M** menjadi salah satu era paling **peaceful** dalam sejarah Yerusalem.¹ **Joint administration** berjalan dengan relatively smooth, dengan **disputes** yang muncul diselesaikan melalui established **mediation mechanisms**. **Christian** dan **Muslim pilgrims** dapat beribadah dengan aman dan nyaman.
+**Periode 1229-1244 M** menjadi salah satu era paling **peaceful** dalam sejarah Yerusalem.¹ **Joint administration** berjalan dengan relatively smooth, dengan **disputes** yang muncul diselesaikan melalui yang mapan **mediation mechanisms**. **Christian** dan **Muslim pilgrims** dapat beribadah dengan aman dan nyaman.
 
-**Economic integration** antara territories Kristen dan Muslim mencapai level yang unprecedented. **Silk Road** routes yang melalui Levant mengalami **revival**, membawa prosperity bagi **merchants** dari berbagai backgrounds.² **Cultural exchange** juga flourished, dengan **scholars** dari kedua traditions saling **bertukar ideas** dan knowledge.
+**ekonomi integration** antara territories Kristen dan Muslim mencapai level yang unprecedented. **Silk Road** routes yang melalui Levant mengalami **revival**, membawa prosperity bagi **merchants** dari berbagai backgrounds.² **budaya exchange** juga berkembang pesat, dengan **scholars** dari kedua traditions saling **bertukar ideas** dan knowledge.
 
-### Educational dan Cultural Benefits
+### Educational dan budaya Benefits
 
-**Scholarly exchange** antara **Christian** dan **Muslim institutions** mencapai peak selama periode ini.³ **University of Naples**, yang didirikan Frederick II, menjadi center pembelajaran di mana **Islamic texts** diterjemahkan ke Latin dan **European knowledge** ditransmisikan ke dunia Arab.
+**Scholarly exchange** antara **Christian** dan **Muslim institusi** mencapai peak selama periode ini.³ **University of Naples**, yang didirikan Frederick II, menjadi center pembelajaran di mana **Islamic texts** diterjemahkan ke Latin dan **European knowledge** ditransmisikan ke dunia Arab.
 
 **Artistic collaboration** juga berkembang, dengan **craftsmen** Muslim dan Kristen bekerja sama dalam **restoration projects** di berbagai religious sites.¹ **Architectural styles** yang dihasilkan menunjukkan **synthesis** unik antara tradisi Gothic dan Islamic.
 
 ## Akhir Perjanjian dan Lessons yang Dipetik
 
-Perjanjian Jaffa berakhir pada **1244 M** ketika **Khwarezmian Turks**, yang diminta bantuan oleh **as-Salih Ayyub** (putra al-Kamil), merebut kembali Yerusalem.² Namun **precedent** yang diciptakan oleh Frederick dan al-Kamil tetap **influential** dalam diplomatic history.
+Perjanjian Jaffa berakhir pada **1244 M** ketika **Khwarezmian Turks**, yang diminta bantuan oleh **as-Salih Ayyub** (putra al-Kamil), merebut kembali Yerusalem.² Namun **precedent** yang diciptakan oleh Frederick dan al-Kamil tetap **influential** dalam diplomatik history.
 
-**Model** negotiated settlement yang mereka kembangkan menjadi **template** untuk **peace treaties** di masa depan. Concepts seperti **power-sharing**, **guaranteed religious freedom**, dan **economic cooperation** menjadi **standard features** dalam international agreements.³
+**Model** negotiated settlement yang mereka kembangkan menjadi **template** untuk **peace treaties** di masa depan. Concepts seperti **power-sharing**, **guaranteed religious freedom**, dan **ekonomi cooperation** menjadi **standard features** dalam international agreements, menandai evolusi dalam tradisi perang salib sebagaimana dianalisis dalam karya komprehensif Riley-Smith.³
 
-### Impact pada Diplomatic Theory
+### Impact pada diplomatik Theory
 
 **Perjanjian Jaffa** juga berkontribusi terhadap development of **international law**. Concepts seperti **territorial sovereignty**, **minority rights**, dan **peaceful dispute resolution** yang introduced dalam perjanjian ini kemudian diadopsi dalam **treaties** yang lebih luas.¹
 
-**Influence** terhadap **Renaissance diplomacy** juga significant. **Italian city-states** mengadopsi **Frederick's model** of **pragmatic negotiation** dalam relations mereka dengan **Ottoman Empire** dan **Islamic powers** lainnya.²
+**Influence** terhadap **Renaissance diplomacy** juga signifikan. **Italian city-states** mengadopsi **Frederick's model** of **pragmatic negotiation** dalam relations mereka dengan **Ottoman Empire** dan **Islamic powers** lainnya.²
 
 ## Hikmah Universal dan Relevansi Kontemporer
 
 ### Leadership dan Wisdom Politik
 
-Kisah Frederick II dan al-Kamil mendemonstrasikan bahwa **true leadership** membutuhkan **courage** untuk mengambil **unpopular decisions** yang serve **greater good**.³ Kedua pemimpin facing **significant opposition** dari constituencies mereka sendiri, namun tetap berkomitmen pada **peaceful solution** yang mereka yakini benar.
+Kisah Frederick II dan al-Kamil mendemonstrasikan bahwa **true leadership** membutuhkan **courage** untuk mengambil **unpopular decisions** yang serve **greater good**.³ Kedua pemimpin facing **signifikan opposition** dari constituencies mereka sendiri, namun tetap berkomitmen pada **peaceful solution** yang mereka yakini benar.
 
 **Political wisdom** mereka terlihat dalam **ability** untuk **separate personal beliefs** dari **public responsibilities**. Meskipun kedua-duanya memiliki **strong religious convictions**, mereka tidak membiarkan **theological differences** menghalangi **practical cooperation**.¹
 
-### Diplomacy vs Military Force
+### Diplomacy vs militer Force
 
-Perjanjian Jaffa membuktikan bahwa **diplomatic solutions** dapat **more sustainable** dan **cost-effective** dibandingkan **military victories**.² **Negotiated settlements** yang respect **legitimate interests** semua parties cenderung lebih **durable** daripada imposed solutions melalui force.
+Perjanjian Jaffa membuktikan bahwa **solusi diplomatik** dapat **lebih berkelanjutan** dan **lebih efektif dari segi biaya** dibandingkan **kemenangan militer**.² **Penyelesaian melalui negosiasi** yang menghormati **kepentingan yang sah** semua pihak cenderung lebih **tahan lama** daripada solusi yang dipaksakan melalui kekerasan.
 
-**Mutual respect** dan **willingness to understand** perspektif pihak lain adalah **essential prerequisites** untuk **successful diplomacy**. Frederick dan al-Kamil invested considerable **time** dan **effort** untuk **understand** each other's positions dan constraints.³
+**Mutual respect** dan **willingness to understand** perspektif pihak lain adalah **essential prerequisites** untuk **berhasil diplomacy**. Frederick dan al-Kamil invested considerable **time** dan **effort** untuk **understand** each other's positions dan constraints.³
 
 ### Religious Pluralism dan Coexistence
 
-**Religious arrangements** dalam Perjanjian Jaffa menunjukkan bahwa **different faith communities** dapat **coexist peacefully** ketika **fundamental rights** mereka dihormati.¹ **Shared stewardship** model yang mereka kembangkan remains **relevant** untuk **contemporary conflicts** involving **religious sites** dan **holy places**.
+**Pengaturan keagamaan** dalam Perjanjian Jaffa menunjukkan bahwa **komunitas-komunitas beriman yang berbeda** dapat **hidup berdampingan secara damai** ketika **hak-hak fundamental** mereka dihormati.¹ **Model pengelolaan bersama** yang mereka kembangkan tetap **relevan** untuk **konflik-konflik kontemporer** yang melibatkan **situs-situs keagamaan** dan **tempat-tempat suci**.
 
-**Principle** bahwa **religious freedom** adalah **universal right** yang harus **protected** regardless of **political arrangements** menjadi **important precedent** dalam development of **modern human rights** concepts.²
+**Principle** bahwa **religious freedom** adalah **universal right** yang harus **protected** regardless of **political arrangements** menjadi **important precedent** dalam development of **modern human rights** concepts.².^3
 
 > وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ ﴿١١٨﴾ إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ﴿١١٩﴾
 >
 > *"Dan jika Tuhanmu menghendaki, tentu Dia menjadikan manusia umat yang satu, tetapi mereka senantiasa berselisih, kecuali orang-orang yang dirahmati Tuhanmu. Dan untuk itulah Allah menciptakan mereka."* ﴾118-119﴿
 > — QS. Hud (11): 118-119
 
-Ayat ini mengingatkan bahwa **perbedaan** di antara manusia adalah **sunnatullah** yang harus diterima dengan **wisdom**, dan bahwa **rahmat** Tuhan dapat mempersatukan mereka yang berbeda melalui **understanding** dan **cooperation** yang mutual.⁴
+Ayat ini mengingatkan bahwa **perbedaan** di antara manusia adalah **sunnatullah** yang harus diterima dengan **wisdom**, dan bahwa **rahmat** Tuhan dapat mempersatukan mereka yang berbeda melalui **understanding** dan **cooperation** yang mutual.⁴.^2
 
 ---
 
 ## Daftar Pustaka
+
+
 1. Al-Qur'an al-Karim. QS. Hud (11): 118-119.
-
-
+2. Abulafia, David, *Frederick II: A Medieval Emperor*, London: Allen Lane, 1988.
+3. Riley-Smith, Jonathan, *The Crusades: A History*, London: Bloomsbury, 2014.

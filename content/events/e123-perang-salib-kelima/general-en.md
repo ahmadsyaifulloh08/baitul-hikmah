@@ -197,18 +197,19 @@ This story teaches that **diplomatic solutions** are often more sustainable than
 
 **Success** in a foreign environment requires **deep understanding** of local conditions and willingness to **adapt**.³ Crusader forces failed because they tried to impose **European models** in a **Middle Eastern context**.
 
-This lesson is relevant for **contemporary contexts**: whether in business, diplomacy, or military operations, **cultural intelligence** and **environmental awareness** are prerequisites for success in a **globalized world**.¹^1
+This lesson is relevant for **contemporary contexts**: whether in business, diplomacy, or military operations, **cultural intelligence** and **environmental awareness** are prerequisites for success in a **globalized world**.¹^1.^3
 
 > وَمَا النَّصْرُ إِلَّا مِنْ عِنْدِ اللَّهِ الْعَزِيزِ الْحَكِيمِ ﴿١٢٦﴾
 >
 > *"And victory is not but from Allah, the Exalted in Might, the Wise."* ﴾126﴿
 > — QS. Ali Imran (3): 126
 
-Al-Kamil's victory in defending Egypt from the Fifth Crusade invasion demonstrates that true victory comes through a combination of **faith**, **strategic wisdom**, and **fair treatment** of defeated enemies.⁴
+Al-Kamil's victory in defending Egypt from the Fifth Crusade invasion demonstrates that true victory comes through a combination of **faith**, **strategic wisdom**, and **fair treatment** of defeated enemies.⁴.^2
 
 ---
 
 ## Bibliography
+
 1. Al-Qur'an al-Karim. QS. Ali Imran (3): 126.^1
-
-
+2. Powell, James M., *Anatomy of a Crusade 1213-1221*, Philadelphia: University of Pennsylvania Press, 1986.
+3. Donovan, Joseph P., *Pelagius and the Fifth Crusade*, Philadelphia: University of Pennsylvania Press, 1950.

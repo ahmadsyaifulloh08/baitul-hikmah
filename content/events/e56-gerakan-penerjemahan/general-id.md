@@ -142,7 +142,7 @@ Metodologi penerjemahan yang dikembangkan Hunayn ibn Ishaq dengan sistem verifik
 
 ## Analisis dan Hikmah
 
-**Keterbukaan Intelektual sebagai Kunci Peradaban**: Gerakan penerjemahan menunjukkan bahwa peradaban Islam pada masa kejayaannya memiliki sikap terbuka (*infitah*) terhadap pengetahuan dari manapun asalnya, selama dapat memberikan manfaat (*maslaha*) bagi umat manusia. Sikap ini mencerminkan prinsip Qurani bahwa hikmah adalah "barang hilang orang mukmin" yang harus diambil dari manapun ditemukan.
+**Keterbukaan Intelektual sebagai Kunci Peradaban**: Gerakan penerjemahan menunjukkan bahwa peradaban Islam pada masa kejayaannya memiliki sikap terbuka (*infitah*) terhadap pengetahuan dari manapun asalnya, selama dapat memberikan manfaat (*maslaha*) bagi umat manusia. Sikap ini mencerminkan prinsip Qurani bahwa hikmah adalah "barang hilang orang mukmin" yang harus diambil dari manapun ditemukan, sebagaimana dianalisis oleh Rosenthal dalam studinya tentang bagaimana Islam menyerap dan mentransformasi warisan klasik.²
 
 > وَنَزَّلْنَا عَلَيْكَ الْكِتَابَ تِبْيَانًا لِّكُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ ﴿٨٩﴾
 >
@@ -153,13 +153,15 @@ Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan seg
 
 **Integrasi Tanpa Asimilasi**: Para penerjemah Muslim tidak hanya mengadopsi pengetahuan asing, tetapi mengintegrasikannya dengan worldview Islam, menciptakan sintesis yang unik. Mereka berhasil mempertahankan identitas intelektual Islam sambil mengembangkan tradisi pengetahuan universal.
 
-**Investasi Jangka Panjang dalam Pengetahuan**: Komitmen al-Ma'mun terhadap penerjemahan menunjukkan visi jangka panjang yang mengutamakan pembangunan basis pengetahuan sebagai fondasi kekuatan peradaban. Investasi besar-besaran dalam Baitul Hikmah terbukti memberikan dividend yang berlangsung berabad-abad.
+**Investasi Jangka Panjang dalam Pengetahuan**: Komitmen al-Ma'mun terhadap penerjemahan menunjukkan visi jangka panjang yang mengutamakan pembangunan basis pengetahuan sebagai fondasi kekuatan peradaban. Investasi besar-besaran dalam Baitul Hikmah terbukti memberikan dividend yang berlangsung berabad-abad.^4
 
-**Bahasa sebagai Wahana Peradaban**: Pengembangan bahasa Arab sebagai bahasa ilmiah internasional menunjukkan bahwa kemajuan peradaban memerlukan media komunikasi yang canggih dan standardized. Kekayaan terminologi yang diciptakan pada periode ini menjadi aset intelektual yang bertahan hingga kini.
+**Bahasa sebagai Wahana Peradaban**: Pengembangan bahasa Arab sebagai bahasa ilmiah internasional menunjukkan bahwa kemajuan peradaban memerlukan media komunikasi yang canggih dan standardized. Kekayaan terminologi yang diciptakan pada periode ini menjadi aset intelektual yang bertahan hingga kini.^3
 
 ---
 
 ## Daftar Pustaka
 
-1. Dimitri Gutas, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*, London: Routledge, 1998.
-2. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+1. Gutas, Dimitri, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*, London: Routledge, 1998.
+2. Rosenthal, Franz, *The Classical Heritage in Islam*, trans. E. and J. Marmorstein, London: Routledge, 1975.
+3. Gutas, Dimitri, *Greek Thought, Arabic Culture*, London: Routledge, 1998.
+4. Rosenthal, Franz, *The Classical Heritage of Islam*, London: Routledge, 1975.

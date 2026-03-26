@@ -175,12 +175,15 @@ In his various works, Al-Biruni always acknowledged the contributions of his pre
 
 **Empirical Method as Foundation of Science**: Al-Biruni's emphasis on observation, experimentation, and data verification anticipated modern scientific revolution. He proved that combinations of mathematical theory and empirical evidence can produce reliable and universal knowledge.
 
-**Intercultural Dialogue as Source of Innovation**: Al-Biruni's interaction with various intellectual traditions showed that innovation often emerges from intercultural encounters. His ability to learn from Hindu traditions while maintaining Islamic perspective created unique and productive perspectives.
+**Intercultural Dialogue as Source of Innovation**: Al-Biruni's interaction with various intellectual traditions showed that innovation often emerges from intercultural encounters. His ability to learn from Hindu traditions while maintaining Islamic perspective created unique and productive perspectives.^3
 
-**Humility and Objectivity in Truth-Seeking**: Al-Biruni's humble attitude and commitment to scientific objectivity showed that scientists' personal character greatly influences research quality. His wisdom in acknowledging knowledge limitations and the greatness of other traditions made him a model for universal scientific ethics.
+**Humility and Objectivity in Truth-Seeking**: Al-Biruni's humble attitude and commitment to scientific objectivity showed that scientists' personal character greatly influences research quality. His wisdom in acknowledging knowledge limitations and the greatness of other traditions made him a model for universal scientific ethics.^2
 
 ---
 
 ## Bibliography
 
+
 1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
+2. Sachau, Eduard C., *Alberuni's India*, London: Kegan Paul, 1910.
+3. Kennedy, E.S., *A Commentary Upon Biruni's Kitab Tahdid*, Beirut: American University of Beirut, 1973.

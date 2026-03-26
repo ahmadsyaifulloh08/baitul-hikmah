@@ -153,12 +153,15 @@ This verse inspired Muslim scholars to seek explanations for all things through 
 
 **Integration Without Assimilation**: Muslim translators not only adopted foreign knowledge but integrated it with Islamic worldview, creating unique synthesis. They successfully maintained Islamic intellectual identity while developing universal knowledge traditions.
 
-**Long-term Investment in Knowledge**: Al-Ma'mun's commitment to translation showed long-term vision prioritizing knowledge base construction as the foundation of civilizational strength. The massive investment in Bayt al-Hikmah proved to yield dividends lasting for centuries.
+**Long-term Investment in Knowledge**: Al-Ma'mun's commitment to translation showed long-term vision prioritizing knowledge base construction as the foundation of civilizational strength. The massive investment in Bayt al-Hikmah proved to yield dividends lasting for centuries.^3
 
-**Language as Vehicle of Civilization**: The development of Arabic as international scientific language showed that civilizational progress requires sophisticated and standardized communication media. The terminological richness created during this period became intellectual assets lasting to this day.
+**Language as Vehicle of Civilization**: The development of Arabic as international scientific language showed that civilizational progress requires sophisticated and standardized communication media. The terminological richness created during this period became intellectual assets lasting to this day.^2
 
 ---
 
 ## Bibliography
 
+
 1. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
+2. Gutas, Dimitri, *Greek Thought, Arabic Culture*, London: Routledge, 1998.
+3. Rosenthal, Franz, *The Classical Heritage of Islam*, London: Routledge, 1975.

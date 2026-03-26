@@ -36,7 +36,7 @@ Tingkat pertama dan kedua dibangun oleh Aibak dengan **gaya kaligrafi Kufik** ya
 
 ### Inovasi Arsitektur: Sintesis Hindu-Islam
 
-Penggunaan material bekas kuil menciptakan **sintesis arsitektur** yang revolusioner. Pilar-pilar dengan ukiran **dewa-dewi Hindu** dan **Tirthankara Jain** tetap dipertahankan, namun gambar-gambar figur manusia dan hewan diukir ulang atau ditutup dengan motif geometris Islam.¹ Proses ini menunjukkan pragmatisme arsitektur yang akan menjadi karakteristik peradaban Indo-Islam.
+Penggunaan material bekas kuil menciptakan **sintesis arsitektur** yang revolusioner. Pilar-pilar dengan ukiran **dewa-dewi Hindu** dan **Tirthankara Jain** tetap dipertahankan, namun gambar-gambar figur manusia dan hewan diukir ulang atau ditutup dengan motif geometris Islam.¹ Proses ini menunjukkan pragmatisme arsitektur yang akan menjadi karakteristik peradaban Indo-Islam, menciptakan apa yang oleh Flood disebut sebagai "objek-objek terjemahan" yang mewujudkan pertemuan budaya Hindu-Muslim dalam bentuk material.²
 
 **Lengkung** yang digunakan dalam masjid adalah **corbelled arch** (lengkung palsu) buatan craftsman lokal, bukan **true arch** tradisi Islam. Teknik ini menunjukkan adaptasi teknologi: para arsitek Muslim mengadaptasi kemampuan lokal sambil secara bertahap memperkenalkan teknologi baru dari Timur Tengah.¹
 
@@ -60,7 +60,7 @@ Tiang besi ini memiliki **inskripsi Sanskrit** yang menyebutkan Raja **Chandragu
 
 Kompleks Qutb menjadi **prototipe** dan **laboratorium eksperimental** untuk perkembangan arsitektur Indo-Islam selanjutnya.³ Model **masjid berhalaman** dengan **menara** tinggi akan direplikasi di seluruh India, dari **Masjid Arhai Din Ka Jhonpra di Ajmer** hingga **Masjid Adina di Bengal**.
 
-**Bahasa arsitektur** yang dikembangkan di sini—perpaduan teknologi Islam dengan estetika dan keahlian lokal—akan mencapai puncaknya dalam era Mughal. **Humayun's Tomb**, **Red Fort**, dan puncaknya **Taj Mahal** semua merupakan evolusi dari eksperimen arsitektur yang dimulai di kompleks Qutb.³
+**Bahasa arsitektur** yang dikembangkan di sini—perpaduan teknologi Islam dengan estetika dan keahlian lokal—akan mencapai puncaknya dalam era Mughal. **Humayun's Tomb**, **Red Fort**, dan puncaknya **Taj Mahal** semua merupakan evolusi dari eksperimen arsitektur yang dimulai di kompleks Qutb, sebagaimana dijelaskan oleh Asher dalam analisisnya tentang kontinuitas arsitektur Mughal.³
 
 ### Evolusi Teknologi: Dari Corbelled ke True Arch
 
@@ -102,18 +102,20 @@ Kompleks Qutb mengajarkan tentang **kompleksitas dinamika historis**. Proses pem
 
 **Perpaduan arsitektur** yang terjadi di sini menunjukkan bahwa interaksi budaya, meskipun dimulai dengan konflik, dapat menghasilkan kreativitas dan keindahan yang abadi. Hal ini menjadi pelajaran penting tentang potensi positif dari pertukaran budaya dan kemampuan manusia untuk menciptakan harmoni dari perbedaan.¹
 
-Kebijaksanaan Aibak dalam mempertahankan Tiang Besi sambil membangun masjid di sekelilingnya menunjukkan bahwa **toleransi** dan **pragmatisme** sering kali menghasilkan solusi yang lebih berkelanjutan daripada pendekatan yang ekstrem. Model ini relevan untuk zaman modern dalam mengelola keragaman budaya.²
+Kebijaksanaan Aibak dalam mempertahankan Tiang Besi sambil membangun masjid di sekelilingnya menunjukkan bahwa **toleransi** dan **pragmatisme** sering kali menghasilkan solusi yang lebih berkelanjutan daripada pendekatan yang ekstrem. Model ini relevan untuk zaman modern dalam mengelola keragaman budaya.².^3
 
 > وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ ﴿٤٨﴾
 >
 > *"Dan kalau Allah menghendaki, niscaya Dia menjadikan kamu satu umat (saja), tetapi Allah hendak menguji kamu terhadap pemberian-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan. Hanya kepada Allah-lah kembali kamu semuanya, lalu diberitahukan-Nya kepadamu apa yang telah kamu perselisihkan itu."* ﴾48﴿
 > — QS. Al-Maidah (5): 48
 
-Ayat ini menggambarkan hikmah di balik keberagaman budaya dan peradaban: perbedaan bukan untuk dimusnahkan, tetapi untuk mendorong kompetisi dalam kebaikan dan inovasi yang bermanfaat bagi seluruh umat manusia.⁴
+Ayat ini menggambarkan hikmah di balik keberagaman budaya dan peradaban: perbedaan bukan untuk dimusnahkan, tetapi untuk mendorong kompetisi dalam kebaikan dan inovasi yang bermanfaat bagi seluruh umat manusia.⁴.^2
 
 ---
 
 ## Daftar Pustaka
+
+
 1. Al-Qur'an al-Karim. QS. Al-Maidah (5): 48.
-
-
+2. Flood, Finbarr B., *Objects of Translation: Material Culture and Medieval Hindu-Muslim Encounter*, Princeton: Princeton University Press, 2009.
+3. Asher, Catherine B., *Architecture of Mughal India*, Cambridge: Cambridge University Press, 1992.

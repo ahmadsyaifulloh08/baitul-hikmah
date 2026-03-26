@@ -102,18 +102,19 @@ The Qutb complex teaches about the **complexity of historical dynamics**. The pr
 
 The **architectural fusion** that occurred here shows that cultural interaction, although beginning with conflict, can produce lasting creativity and beauty. This becomes an important lesson about the positive potential of cultural exchange and humanity's ability to create harmony from differences.¹
 
-Aibak's wisdom in preserving the Iron Pillar while building a mosque around it shows that **tolerance** and **pragmatism** often produce more sustainable solutions than extreme approaches. This model is relevant for modern times in managing cultural diversity.²
+Aibak's wisdom in preserving the Iron Pillar while building a mosque around it shows that **tolerance** and **pragmatism** often produce more sustainable solutions than extreme approaches. This model is relevant for modern times in managing cultural diversity.².^3
 
 > وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ ﴿٤٨﴾
 >
 > *"And if Allah had willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ."* ﴾48﴿
 > — QS. Al-Maidah (5): 48
 
-This verse illustrates the wisdom behind cultural and civilizational diversity: differences are not to be annihilated, but to encourage competition in goodness and innovation beneficial to all humanity.⁴
+This verse illustrates the wisdom behind cultural and civilizational diversity: differences are not to be annihilated, but to encourage competition in goodness and innovation beneficial to all humanity.⁴.^2
 
 ---
 
 ## Bibliography
+
 1. Al-Qur'an al-Karim. QS. Al-Maidah (5): 48.
-
-
+2. Flood, Finbarr B., *Objects of Translation: Material Culture and Medieval Hindu-Muslim Encounter*, Princeton: Princeton University Press, 2009.
+3. Asher, Catherine B., *Architecture of Mughal India*, Cambridge: Cambridge University Press, 1992.
