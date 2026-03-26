@@ -19,7 +19,7 @@ Dukungan politik ini memungkinkan Ibn Rushd tidak hanya bekerja sebagai qadi di 
 > وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
 >
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."*
-> — QS. al-Isra' (17): 85^3
+> — QS. al-Isra' (17): 85^13
 
 ## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut^9
 
@@ -27,9 +27,29 @@ Karya paling berpengaruh Ibn Rushd adalah **"Tahafut al-Tahafut"** (Kerancuan Ke
 
 Al-Ghazali dalam "Tahafut al-Falasifah" mengajukan 20 kritik terhadap filsafat Aristotelian yang diadopsi oleh filosof Muslim. Tiga di antaranya dianggap sebagai kufur: keazalian alam (qidam al-alam), pengetahuan Allah hanya terhadap hal-hal universal bukan partikular, dan penyangkalan kebangkitan jasadiyah.
 
-Ibn Rushd dalam "Tahafut al-Tahafut" merespons setiap kritik Al-Ghazali secara sistematis. Ia membedakan antara demonstrasi filosofis (burhan) dengan argumen dialektik dan retorik. Menurutnya, Al-Ghazali seringkali mencampuradukkan tingkatan argumen ini, sehingga kritiknya tidak tepat sasaran.
+## Detail Tahafut al-Tahafut: Metodologi Bantahan
 
-Dalam soal keazalian alam, Ibn Rushd berargumen bahwa penciptaan adalah proses emanasi terus-menerus dari Allah, bukan peristiwa yang terjadi dalam waktu tertentu. Alam adalah manifestasi kehendak Allah yang eternal, sehingga tidak dapat dikatakan memiliki awal temporal.^5
+Ibn Rushd dalam "Tahafut al-Tahafut" merespons setiap kritik Al-Ghazali secara sistematis dengan metodologi yang sangat ketat. Ia membedakan antara demonstrasi filosofis (*burhan*) dengan argumen dialektik (*jadal*) dan retorik (*khitabah*). Menurutnya, Al-Ghazali seringkali mencampuradukkan tingkatan argumen ini, sehingga kritiknya tidak tepat sasaran.^5
+
+**Struktur sistematis** karya ini terdiri dari 20 diskusi (*munāẓara*) yang masing-masing merespons satu kritik Al-Ghazali. Ibn Rushd tidak sekedar membela, tetapi juga menganalisis kekeliruan metodologis dalam argumentasi Al-Ghazali. Ia menunjukkan bahwa banyak kritik Al-Ghazali sebenarnya ditujukan kepada versi yang disederhanakan atau salah pahami dari posisi filosofis yang sebenarnya.^1
+
+**Dalam soal keazalian alam**, Ibn Rushd mengajukan argumen yang sangat canggih. Ia berargumen bahwa penciptaan adalah proses emanasi terus-menerus dari Allah, bukan peristiwa yang terjadi dalam waktu tertentu. Waktu sendiri adalah bagian dari penciptaan, sehingga pertanyaan "kapan alam diciptakan" adalah kategori error yang sama seperti bertanya "di mana Allah berada".^2
+
+**Tentang pengetahuan Allah**, Ibn Rushd menolak kritik Al-Ghazali dengan menunjukkan bahwa Allah mengetahui hal-hal partikular melalui pengetahuan-Nya terhadap universal. Pengetahuan Allah bersifat sempurna dan tidak berubah, berbeda dengan pengetahuan manusia yang temporal dan terbatas. Allah mengetahui *qua* universal seluruh realitas, termasuk hal-hal yang kita sebut partikular.^3
+
+**Mengenai kebangkitan jasadiyah**, Ibn Rushd mengadopsi posisi yang nuansed. Ia membedakan antara kebenaran filosofis dan kebenaran praktis-sosial agama. Secara filosofis, yang kekal adalah jiwa rasional (*al-nafs al-nāṭiqa*), namun secara praktis, doktrin kebangkitan jasadiyah memiliki fungsi penting dalam memberikan motivasi moral kepada massa.^4
+
+## Bidayat al-Mujtahid: Karya Fiqih Komparatif
+
+Selain karya-karya filosofis, Ibn Rushd juga menulis **"Bidayat al-Mujtahid wa Nihayat al-Muqtasid"** (Permulaan Bagi yang Berijtihad dan Akhir Bagi yang Berhemat), sebuah masterpiece dalam bidang fiqih komparatif yang hingga kini tetap menjadi rujukan para ulama.^6
+
+**Metodologi komparatif** yang dikembangkan Ibn Rushd dalam karya ini revolusioner untuk zamannya. Ia tidak hanya menyajikan pendapat madzhab Maliki (madzhabnya sendiri), tetapi juga menganalisis argumentasi madzhab Hanafi, Syafi'i, dan Hanbali. Lebih dari itu, ia berupaya melacak akar perbedaan pendapat hingga ke sumber-sumber metodologis yang fundamental.^7
+
+**Struktur sistematik** Bidayat al-Mujtahid mengikuti urutan kitab-kitab fiqih pada umumnya: ibadah, munakahat, muamalat, jinayat, dan lain-lain. Namun dalam setiap bab, Ibn Rushd memulai dengan mengidentifikasi dalil-dalil yang disepakati, kemudian menganalisis dalil-dalil yang diperselisihkan, dan akhirnya mengevaluasi kekuatan argumentasi masing-masing posisi.^8
+
+**Prinsip *maslaha* (kepentingan umum)** mendapat perhatian khusus dalam karya ini. Ibn Rushd menunjukkan bahwa banyak perbedaan pendapat antar madzhab pada dasarnya adalah perbedaan dalam memahami maqasid al-shari'ah (tujuan-tujuan syariah). Pendekatan ini sangat progresif dan menjadi inspirasi bagi perkembangan ushul fiqh modern.^9
+
+**Dampak jangka panjang** Bidayat al-Mujtahid sangat signifikan. Karya ini tidak hanya dipelajari di dunia Islam Barat (Maghrib-Andalus), tetapi juga di dunia Islam Timur. Banyak ulama dari berbagai madzhab yang mengutip dan merujuk karya ini dalam pengembangan metodologi fiqih komparatif.
 
 ## Metodologi Harmonisasi Agama dan Filsafat
 
@@ -43,9 +63,29 @@ Menurutnya, konflik antara agama dan filsafat muncul ketika batasan-batasan ini 
 
 Ibn Rushd menulis tiga jenis komentar terhadap karya Aristoteles: ringkasan (*talkhis*), komentar menengah (*sharh*), dan komentar besar (*tafsir*). Karya-karya ini diterjemahkan ke bahasa Latin dan menjadi referensi utama bagi para sarjana Eropa abad pertengahan untuk memahami filsafat Aristoteles.^7
 
-Pengaruhnya terhadap pemikiran Barat sangat mendalam, khususnya melalui **Thomas Aquinas** yang secara ekstensif menggunakan argumen-argumen Ibn Rushd dalam *Summa Theologica*. Bahkan ketika Aquinas mengkritik "Averrois" (sebutan Latin untuk Ibn Rushd), ia tetap menganggapnya sebagai "Komentator" par excellence terhadap Aristoteles.
+## Pengaruh Mendalam terhadap Skolastik Eropa
 
-Universitas-universitas Eropa abad ke-13 M seperti Paris dan Oxford mengajarkan karya-karya Ibn Rushd sebagai bagian kurikulum wajib. Gerakan intelektual yang dikenal sebagai "Averroisme Latin" berkembang dan mempengaruhi tokoh-tokoh seperti **Siger dari Brabant** dan **Boethius dari Dacia**.
+Pengaruh Ibn Rushd terhadap pemikiran Barat sangat mendalam, khususnya melalui **Thomas Aquinas** (1225-1274 M) yang secara ekstensif menggunakan argumen-argumen Ibn Rushd dalam *Summa Theologica*. Aquinas merujuk Ibn Rushd lebih dari 500 kali dalam karya-karyanya, sebuah frekuensi yang menunjukkan ketergantungan intelektual yang luar biasa.^10
+
+**Hubungan kompleks Aquinas-Averroes** mencerminkan dinamika transfer pengetahuan antar peradaban. Aquinas mengadopsi metodologi harmonisasi akal dan wahyu dari Ibn Rushd, tetapi menolak beberapa kesimpulan filosofisnya. Misalnya, Aquinas menerima argumen kosmologis Ibn Rushd untuk keberadaan Tuhan, namun menolak teori emanasi dan menggantinya dengan teori penciptaan *ex nihilo*.^11
+
+**Dalam bidang psikologi filosofis**, Aquinas bergantung pada analisis Ibn Rushd tentang jiwa manusia, khususnya teori tentang *intellectus agens* (akal aktif) dan *intellectus possibilis* (akal potensial). Namun ia menolak interpretasi Ibn Rushd yang monopsikis (satu jiwa universal untuk seluruh manusia) dan mengembangkan teori jiwa individual yang personal.^12
+
+**Universitas-universitas Eropa** abad ke-13 M seperti Paris, Oxford, Bologna, dan Padua mengajarkan karya-karya Ibn Rushd sebagai bagian kurikulum wajib. Fakultas seni di Universitas Paris mewajibkan mahasiswa membaca komentar-komentar Ibn Rushd atas Aristoteles sebelum bisa melanjutkan ke fakultas teologi.^13
+
+**Gerakan "Averroisme Latin"** berkembang dan mempengaruhi tokoh-tokoh seperti **Siger dari Brabant**, **Boethius dari Dacia**, dan **Marsilius dari Padua**. Mereka mengadopsi teori "kebenaran ganda" (double truth) yang dikaitkan dengan Ibn Rushd—meskipun Ibn Rushd sendiri tidak pernah mengajarkan doktrin ini secara eksplisit.^1
+
+## Kontroversi dan Dampak Teologis
+
+Ajaran-ajaran Ibn Rushd menimbulkan kontroversi hebat baik di dunia Islam maupun Kristen. **Dalam tradisi Islam**, selain pengasingannya di Andalusia, karya-karya filosofisnya juga mendapat kritik keras dari ulama seperti **Ibn Taymiyah** dan **Al-Dhahabi** yang menganggap pendekatannya terlalu rasionalistik dan berpotensi menggoyahkan iman sederhana masyarakat Muslim.^2
+
+**Di dunia Kristen**, pengaruh Ibn Rushd menimbulkan perdebatan teologis yang sengit. Pada 1270 M, Uskup Paris **Étienne Tempier** mengecam 219 proposisi yang dianggap bertentangan dengan doktrin Kristen, banyak di antaranya terinspirasi dari interpretasi terhadap karya Ibn Rushd.^3
+
+**Kontroversi tentang keabadian alam** menjadi isu paling sensitif. Sementara Ibn Rushd berargumen bahwa alam adalah emanasi eternal dari Allah, para teolog Kristen bersikeras pada doktrin penciptaan temporal. Perdebatan ini berlanjut hingga abad ke-14 dan mempengaruhi perkembangan cosmologi medieval.^4
+
+**Teori "kebenaran ganda"** yang dikaitkan dengan Ibn Rushd—meskipun merupakan interpretasi yang keliru dari murid-muridnya—menjadi target kritik keras dari para teolog. Mereka khawatir bahwa teori ini akan menimbulkan relativisme dan merusak otoritas wahyu.^5
+
+Ironisnya, kritik-kritik ini justru memperkuat posisi Ibn Rushd sebagai figur sentral dalam sejarah pemikiran Eropa. Bahkan para kritiknya harus menguasai argumen-argumennya untuk dapat membantahnya secara efektif.
 
 ## Masa-Masa Sulit dan Pengasingan
 
@@ -78,7 +118,11 @@ Kontribusinya menunjukkan bahwa tradisi Islam memiliki kapasitas untuk berdialog
 3. Ibn Rushd, *Tahafut al-Tahafut*, tahqiq Maurice Bouyges.
 4. Al-Ghazali, *Tahafut al-Falasifah*, tahqiq Sulayman Dunya.
 5. Ibn Rushd, *Kashf 'an Manahij al-Adillah fi 'Aqa'id al-Millah*.
-6. Majid Fakhry, *Averroes: His Life, Works and Influence*.
-7. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
-8. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
-9. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.
+6. Ibn Rushd, *Bidayat al-Mujtahid wa Nihayat al-Muqtasid*.
+7. Majid Fakhry, *Averroes: His Life, Works and Influence*.
+8. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
+9. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
+10. Thomas Aquinas, *Summa Theologica*, trans. Fathers of the English Dominican Province.
+11. Étienne Gilson, *History of Christian Philosophy in the Middle Ages*.
+12. Oliver Leaman, *Averroes and His Philosophy*, Oxford: Clarendon Press, 1988.
+13. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.
