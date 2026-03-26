@@ -4,27 +4,27 @@
 
 After *'Am al-Huzn* (the Year of Sorrow) and the rejection at Ta'if, **Prophet Muhammad SAW** faced the reality that preaching in Mecca had reached a point of saturation. Tribal protection had been lost with the death of **Abu Talib**, and **Abu Lahab**, who succeeded him as head of Banu Hashim, had withdrawn protection from the Prophet. The situation in Mecca grew increasingly unsafe for him and his followers.^1
 
-Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2 ^10
+Under these circumstances, Prophet Muhammad SAW began shifting his preaching strategy. He utilized the pilgrimage season — when people from across the Arabian Peninsula flocked to Mecca — to present Islam to various tribal delegations. He visited the tents of pilgrims, introduced himself, recited the Qur'an, and invited them to believe. Most rejected him, some even drove him away. Yet he never stopped trying.^2 ^5
 
 The city of **Yathrib** (which would later become Medina) had a unique socio-political situation. It was inhabited by two large Arab tribes — **Aws** and **Khazraj** — who had been feuding for several generations. Their last war, the Battle of Bu'ath (617 CE), had exhausted both sides and created a longing for peace and leadership that could unite them.^3
 
-Furthermore, the people of Yathrib were already familiar with the concepts of prophethood and scripture through their interactions with three Jewish tribes living in the city — **Banu Qaynuqa'**, **Banu Nadir**, and **Banu Qurayzah**. The Jews would frequently mention the coming of a final prophet, and this made the Arab inhabitants of Yathrib more receptive to the idea of prophethood than other Arab tribes.^4
+Furthermore, the people of Yathrib were already familiar with the concepts of prophethood and scripture through their interactions with three Jewish tribes living in the city — **Banu Qaynuqa'**, **Banu Nadir**, and **Banu Qurayzah**. The Jews would frequently mention the coming of a final prophet, and this made the Arab inhabitants of Yathrib more receptive to the idea of prophethood than other Arab tribes.^2
 
 ## The Events
 
 ### The Initial Meeting During the Pilgrimage Season (620 CE)
 
-A year before the First Pledge of Aqabah, during the pilgrimage season of the eleventh year of prophethood (620 CE), Prophet Muhammad SAW met a small group from the Khazraj tribe near Aqabah. They numbered six: **As'ad ibn Zurarah**, **Awf ibn al-Harith**, **Rafi' ibn Malik**, **Qutbah ibn Amir**, **Uqbah ibn Amir**, and **Jabir ibn Abdullah ibn Ri'ab**.^5
+A year before the First Pledge of Aqabah, during the pilgrimage season of the eleventh year of prophethood (620 CE), Prophet Muhammad SAW met a small group from the Khazraj tribe near Aqabah. They numbered six: **As'ad ibn Zurarah**, **Awf ibn al-Harith**, **Rafi' ibn Malik**, **Qutbah ibn Amir**, **Uqbah ibn Amir**, and **Jabir ibn Abdullah ibn Ri'ab**.^2
 
-When the Prophet recited the Qur'an and explained Islam to them, they exchanged glances and said: "By Allah, this is the prophet that the Jews have been promising. Let us not let them precede us in believing in him!"^6
+When the Prophet recited the Qur'an and explained Islam to them, they exchanged glances and said: "By Allah, this is the prophet that the Jews have been promising. Let us not let them precede us in believing in him!"^2
 
-These six men embraced Islam and returned to Yathrib with burning zeal. They began spreading Islam in their city, so that scarcely a household in Yathrib was left without discussion of Muhammad.^7
+These six men embraced Islam and returned to Yathrib with burning zeal. They began spreading Islam in their city, so that scarcely a household in Yathrib was left without discussion of Muhammad.^4
 
 ### The First Pledge of Aqabah (621 CE)
 
-During the following pilgrimage season, the twelfth year of prophethood (621 CE), twelve men from Yathrib came to meet Prophet Muhammad SAW at Aqabah — a narrow pass between Mina and Mecca which served as the location for the stoning of the *jamarat*. Of these twelve, ten were from the Khazraj tribe and two from the Aws — marking the initial unification of the two previously feuding tribes.^8
+During the following pilgrimage season, the twelfth year of prophethood (621 CE), twelve men from Yathrib came to meet Prophet Muhammad SAW at Aqabah — a narrow pass between Mina and Mecca which served as the location for the stoning of the *jamarat*. Of these twelve, ten were from the Khazraj tribe and two from the Aws — marking the initial unification of the two previously feuding tribes.^2
 
-The twelve men were:^9
+The twelve men were:^2
 
 **From the Khazraj tribe:**
 1. **As'ad ibn Zurarah** (also present at the previous year's meeting)
@@ -65,7 +65,7 @@ Following the pledge, Prophet Muhammad SAW sent **Mus'ab ibn Umayr** to Yathrib 
 
 Mus'ab proved himself an extraordinarily effective preacher. With his wisdom and gentle approach, he succeeded in converting key figures of Yathrib to Islam, including **Sa'd ibn Mu'adh**, the leader of the Aws tribe, and **Usayd ibn Hudayr**, whose conversion became a turning point for the entire Aws tribe.^1 ^3
 
-The process of Islamization of Yathrib through Mus'ab lasted approximately one year, and its results were remarkable: at the following pilgrimage season (622 CE), seventy-three men and two women from Yathrib came to perform the Second Pledge of Aqabah — a pledge that this time included a military commitment to protect the Prophet — opening the way for the momentous event of the Hijrah.^1 ^4
+The process of Islamization of Yathrib through Mus'ab lasted approximately one year, and its results were remarkable: at the following pilgrimage season (622 CE), seventy-three men and two women from Yathrib came to perform the Second Pledge of Aqabah — a pledge that this time included a military commitment to protect the Prophet — opening the way for the momentous event of the Hijrah.^1 ^2
 
 ## Dialogue and Sacred Texts
 
@@ -85,25 +85,25 @@ Regarding the opening of new paths for the message through new people, Allah the
 > *"Had Allah known any good in them, He would have made them hear. And if He had made them hear, they would still have turned away while they were refusing. ﴾23﴿"*
 > — QS. Al-Anfal (8): 23
 
-This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly.^1 ^5 ^10
+This verse, though its context of revelation relates to the Battle of Badr, holds relevance to the dynamics of preaching in Mecca — where many Meccans heard the call yet turned away, while the people of Yathrib who heard it for the first time embraced it wholeheartedly.^1 ^2 ^5
 
 ## Analysis and Lessons
 
 ### A Shift in Preaching Strategy
 
-The First Pledge of Aqabah marks a fundamental shift in the strategy of Islamic preaching — from a local approach in Mecca to regional expansion. Prophet Muhammad SAW demonstrated remarkable strategic intelligence: when one door closed (Mecca), he opened another (Yathrib). This approach reflects the Qur'anic principle that Allah's help can come from unexpected directions.^1 ^6
+The First Pledge of Aqabah marks a fundamental shift in the strategy of Islamic preaching — from a local approach in Mecca to regional expansion. Prophet Muhammad SAW demonstrated remarkable strategic intelligence: when one door closed (Mecca), he opened another (Yathrib). This approach reflects the Qur'anic principle that Allah's help can come from unexpected directions.^1 ^2
 
 ### Pilgrimage Season Diplomacy
 
-The utilization of the pilgrimage season as an arena for preaching demonstrates the Prophet's understanding of Arabian socio-political dynamics. The pilgrimage season was the only time when tribal norms prohibited violence and allowed for safe cross-tribal communication. The Prophet made maximum use of this "safe zone" — an early example of religious diplomacy leveraging an existing public space.^1 ^7
+The utilization of the pilgrimage season as an arena for preaching demonstrates the Prophet's understanding of Arabian socio-political dynamics. The pilgrimage season was the only time when tribal norms prohibited violence and allowed for safe cross-tribal communication. The Prophet made maximum use of this "safe zone" — an early example of religious diplomacy leveraging an existing public space.^1 ^4
 
 ### The Significance of the Twelve
 
-The number twelve in the First Pledge of Aqabah was no coincidence. They represented various clans in Yathrib and, more importantly, included representatives from both of the great rival tribes — Aws and Khazraj. The presence of two men from Aws alongside ten from Khazraj showed that Islam was beginning to be accepted as a unifying identity that transcended tribal rivalry.^1 ^8
+The number twelve in the First Pledge of Aqabah was no coincidence. They represented various clans in Yathrib and, more importantly, included representatives from both of the great rival tribes — Aws and Khazraj. The presence of two men from Aws alongside ten from Khazraj showed that Islam was beginning to be accepted as a unifying identity that transcended tribal rivalry.^1 ^2
 
 ### A Moral Pledge as Foundation
 
-It is significant that the contents of the First Pledge of Aqabah were moral and spiritual in nature, not military. The prohibitions against polytheism, theft, adultery, infanticide, and falsehood — these are all ethical foundations that must be built before political or military commitments. Prophet Muhammad SAW built society from the ground up: character first, then strength.^1 ^9
+It is significant that the contents of the First Pledge of Aqabah were moral and spiritual in nature, not military. The prohibitions against polytheism, theft, adultery, infanticide, and falsehood — these are all ethical foundations that must be built before political or military commitments. Prophet Muhammad SAW built society from the ground up: character first, then strength.^1 ^2
 
 ### Mus'ab as a Model of Preaching
 
@@ -120,10 +120,5 @@ The First Pledge of Aqabah was the seed that would eventually grow into the Hijr
 1. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum [The Sealed Nectar]* (Riyadh: Dar al-Salam, 1976), pp. 128–129.
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955), pp. 422–423.
 3. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 139.
-4. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 424.
-5. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 428–429.
-6. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 429.
-7. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 139.
-8. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 431.
-9. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 431–432; Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 3 (Beirut: Dar Sadir, 1968), p. 599.
-10. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.
+4. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 139.
+5. Al-Qur'an al-Karim. QS. Al-Anfal (8): 23.

@@ -74,8 +74,8 @@ Umrah Qadha juga menunjukkan komitmen Nabi Muhammad ﷺ terhadap perjanjian. Bel
 
 ## Daftar Pustaka
 
-1. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 4, Bab Umrah al-Qadha.
+1. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 4.
 
-2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976. Bab Umrah al-Qadha.
+2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
-3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi*. Jilid 2, Bab Umrah al-Qadha. Beirut: Dar al-A'lami, 1989.
+3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi*. Jilid 2. Beirut: Dar al-A'lami, 1989.

@@ -86,8 +86,8 @@ Dengan jatuhnya Khaibar, kaum Muslimin mendapat sumber ekonomi besar yang memper
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 4197-4210 (Kitab al-Maghazi), Bab Perang Khaibar.
+1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 4197-4210 (Kitab al-Maghazi).
 
-2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 3, Bab Perang Khaibar.
+2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 3.
 
-3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi* (Buku Peperangan). Tahqiq: Marsden Jones. London: Oxford University Press, 1966. Jilid 2, Bab Perang Khaibar.
+3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi* (Buku Peperangan). Tahqiq: Marsden Jones. London: Oxford University Press, 1966. Jilid 2.

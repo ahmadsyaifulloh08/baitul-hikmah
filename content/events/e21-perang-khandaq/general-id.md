@@ -99,10 +99,10 @@ Khandaq menandai perubahan fundamental dalam dinamika kekuatan di Jazirah Arab. 
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 4109 dan lainnya, Kitab al-Maghazi, Bab Ghazwah al-Khandaq.
+1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 4109 dan lainnya, Kitab al-Maghazi.
 
-2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3, Bab Ghazwah al-Khandaq. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
-3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi*. Jilid 2, Bab Ghazwah al-Khandaq. Beirut: Dar al-A'lami, 1989.
+3. **Al-Waqidi, Abu Abdullah Muhammad bin Umar.** *Kitab al-Maghazi*. Jilid 2. Beirut: Dar al-A'lami, 1989.
 
 4. Al-Qur'an al-Karim. QS. Al-Ahzab (33): 9, 10.

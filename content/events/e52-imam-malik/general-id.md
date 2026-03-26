@@ -56,35 +56,35 @@ Sikap ini mencerminkan pandangan Malik bahwa mengajar hadits bukan sekadar trans
 
 Pada masa **Khalifah al-Ma'mun** (813-833 M), muncul fitnah *khalq al-Quran* (penciptaan Al-Quran) yang dianut madzhab Mu'tazilah. Pemerintah memaksa ulama untuk mengakui bahwa Al-Quran adalah makhluk (diciptakan), bukan sifat Allah yang qadim (tidak diciptakan).^17
 
-Malik bersama **Ahmad ibn Hanbal** dan ulama-ulama lain menolak keras paham ini. Ketika diminta memberikan pernyataan, Malik menjawab dengan tegas: "Al-Quran adalah kalam Allah yang tidak diciptakan".^18
+Malik bersama **Ahmad ibn Hanbal** dan ulama-ulama lain menolak keras paham ini. Ketika diminta memberikan pernyataan, Malik menjawab dengan tegas: "Al-Quran adalah kalam Allah yang tidak diciptakan".^9
 
 ### Penyiksaan dan Keteguhan
 
-Akibat pendiriannya, Malik mengalami penyiksaan fisik. Ia dipukuli hingga bahunya terkilir dan tidak pernah sembuh sepenuhnya. Meskipun demikian, ia tetap teguh pada pendiriannya dan tidak mau berkompromi dengan tekanan politik.^19
+Akibat pendiriannya, Malik mengalami penyiksaan fisik. Ia dipukuli hingga bahunya terkilir dan tidak pernah sembuh sepenuhnya. Meskipun demikian, ia tetap teguh pada pendiriannya dan tidak mau berkompromi dengan tekanan politik.^18
 
-Penderitaan Malik menjadi simbol perlawanan ulama terhadap intervensi negara dalam masalah akidah. Sikapnya menginspirasi generasi ulama setelahnya untuk menjaga kemurnian ajaran Islam dari pengaruh politik.^20
+Penderitaan Malik menjadi simbol perlawanan ulama terhadap intervensi negara dalam masalah akidah. Sikapnya menginspirasi generasi ulama setelahnya untuk menjaga kemurnian ajaran Islam dari pengaruh politik.^1
 
 ## Penyebaran dan Pengaruh Madzhab Maliki
 
 ### Ekspansi ke Maghrib dan Andalus
 
-Madzhab Maliki menyebar pesat ke wilayah Afrika Utara (Maghrib) dan Andalus (Spania Islam) melalui murid-murid Malik yang kembali ke daerah asal mereka. **Sahnun** (w. 240 H) di Tunisia dan **Ibn al-Qasim** (w. 191 H) di Mesir menjadi penyebar utama madzhab ini.^21
+Madzhab Maliki menyebar pesat ke wilayah Afrika Utara (Maghrib) dan Andalus (Spania Islam) melalui murid-murid Malik yang kembali ke daerah asal mereka. **Sahnun** (w. 240 H) di Tunisia dan **Ibn al-Qasim** (w. 191 H) di Mesir menjadi penyebar utama madzhab ini.^19
 
-**Dinasti Almoravid** dan **Almohad** di Maghrib secara resmi mengadopsi madzhab Maliki sebagai madzhab resmi negara. Hal ini memperkuat posisi madzhab Maliki di wilayah tersebut hingga masa kini.^22
+**Dinasti Almoravid** dan **Almohad** di Maghrib secara resmi mengadopsi madzhab Maliki sebagai madzhab resmi negara. Hal ini memperkuat posisi madzhab Maliki di wilayah tersebut hingga masa kini.^20
 
 ### Adaptasi dengan Budaya Lokal
 
-Keberhasilan madzhab Maliki di Afrika dan Andalus tidak lepas dari fleksibilitasnya dalam beradaptasi dengan kondisi lokal. Konsep *'urf* (tradisi lokal) yang dikembangkan Malik memungkinkan penyesuaian hukum dengan kebutuhan masyarakat setempat tanpa kehilangan substansi syariat.^23
+Keberhasilan madzhab Maliki di Afrika dan Andalus tidak lepas dari fleksibilitasnya dalam beradaptasi dengan kondisi lokal. Konsep *'urf* (tradisi lokal) yang dikembangkan Malik memungkinkan penyesuaian hukum dengan kebutuhan masyarakat setempat tanpa kehilangan substansi syariat.^21
 
 ## Warisan Intelektual dan Kontribusi
 
 ### Metodologi Hadits
 
-Malik berkontribusi besar dalam pengembangan ilmu hadits, terutama dalam aspek kritik sanad dan matan. Standar kesahihan yang ditetapkannya dalam Al-Muwatta menjadi rujukan bagi muhaddits setelahnya.^24
+Malik berkontribusi besar dalam pengembangan ilmu hadits, terutama dalam aspek kritik sanad dan matan. Standar kesahihan yang ditetapkannya dalam Al-Muwatta menjadi rujukan bagi muhaddits setelahnya.^22
 
 ### Ushul Fiqih
 
-Meskipun tidak menulis secara khusus tentang ushul fiqih, metodologi Malik memberikan sumbangan penting bagi perkembangan disiplin ini. Konsep *'amal ahl al-Madinah*, *istihsan*, dan *maslahah mursalah* yang dikembangkannya kemudian dirumuskan secara sistematis oleh ulama-ulama setelahnya.^25
+Meskipun tidak menulis secara khusus tentang ushul fiqih, metodologi Malik memberikan sumbangan penting bagi perkembangan disiplin ini. Konsep *'amal ahl al-Madinah*, *istihsan*, dan *maslahah mursalah* yang dikembangkannya kemudian dirumuskan secara sistematis oleh ulama-ulama setelahnya.^23
 
 ## Analisis dan Hikmah
 
@@ -115,11 +115,9 @@ Meskipun tidak menulis secara khusus tentang ushul fiqih, metodologi Malik membe
 15. Al-Qadi Iyad, *Tartib al-Madarik wa Taqrib al-Masalik*, jilid 2.
 16. Hallaq, Wael B., *The Origins and Evolution of Islamic Law*, Cambridge University Press, 2005.
 17. Patton, Walter M., *Ahmed ibn Hanbal and the Mihna*, Leiden: E.J. Brill, 1897.
-18. Al-Tabari, *op. cit.*, entry tentang mihnat khalq al-Quran.
-19. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10.
-20. Al-Dhahabi, *op. cit.*, biografi Malik ibn Anas.
-21. Sahnun, Abd al-Salam ibn Sa'id, *Al-Mudawwanah al-Kubra*.
-22. Ibn Khaldun, Abd al-Rahman, *Al-Muqaddimah*, bab tentang madzhab fiqih.
-23. Al-Wansharisi, Ahmad ibn Yahya, *Al-Mi'yar al-Mu'rib*, jilid 1.
-24. Azami, M.M., *Studies in Hadith Methodology and Literature*, Indianapolis: Islamic Teaching Center, 1977.
-25. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+18. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10.
+19. Sahnun, Abd al-Salam ibn Sa'id, *Al-Mudawwanah al-Kubra*.
+20. Ibn Khaldun, Abd al-Rahman, *Al-Muqaddimah*.
+21. Al-Wansharisi, Ahmad ibn Yahya, *Al-Mi'yar al-Mu'rib*, jilid 1.
+22. Azami, M.M., *Studies in Hadith Methodology and Literature*, Indianapolis: Islamic Teaching Center, 1977.
+23. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

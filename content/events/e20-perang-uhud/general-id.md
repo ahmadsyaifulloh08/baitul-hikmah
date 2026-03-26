@@ -95,10 +95,10 @@ Jika Badr mengajarkan umat Islam bagaimana rasanya menang, Uhud mengajarkan baga
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits-hadits dalam Kitab al-Maghazi, Bab Ghazwah Uhud.
+1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits-hadits dalam Kitab al-Maghazi.
 
-2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Bab Ghazwah Uhud. Riyadh: Dar al-Salam, 1976.
+2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
-3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3, Bab Ghazwah Uhud. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 3. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
 4. Al-Qur'an al-Karim. QS. Ali Imran (3): 152, 165, 139.

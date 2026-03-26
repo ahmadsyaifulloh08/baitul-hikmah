@@ -25,18 +25,18 @@ This opening of the chest was a spiritual preparation so the Prophet could recei
 
 ### The Journey on the Buraq
 
-After this preparation, Jibril AS brought a mount called the *Buraq* — a white creature, between a donkey and a mule in size, whose every stride reached as far as the eye could see.^7
+After this preparation, Jibril AS brought a mount called the *Buraq* — a white creature, between a donkey and a mule in size, whose every stride reached as far as the eye could see.^6
 
 > ثُمَّ أُتِيتُ بِدَابَّةٍ دُونَ الْبَغْلِ وَفَوْقَ الْحِمَارِ أَبْيَضَ يَضَعُ خَطْوَهُ عِنْدَ أَقْصَى طَرْفِهِ
 >
 > *"Then I was brought a riding beast, smaller than a mule and larger than a donkey, white, which placed its step at the farthest extent of its sight."*
 > — Narrated by Muslim, no. 162, Kitab al-Iman
 
-Prophet Muhammad SAW rode the Buraq alongside Jibril AS, traversing the journey from al-Masjid al-Haram in Mecca to al-Masjid al-Aqsa in Bayt al-Maqdis — a distance that under normal conditions would require months of caravan travel.^8
+Prophet Muhammad SAW rode the Buraq alongside Jibril AS, traversing the journey from al-Masjid al-Haram in Mecca to al-Masjid al-Aqsa in Bayt al-Maqdis — a distance that under normal conditions would require months of caravan travel.^3
 
 ### Stops Along the Journey
 
-In several narrations, Prophet Muhammad SAW stopped at several important locations during the Isra', among them:^9
+In several narrations, Prophet Muhammad SAW stopped at several important locations during the Isra', among them:^6
 
 1. **Medina** (*Yathrib*) — the city that would later become the place of his emigration
 2. **Mount Sinai** (*Tur Sina'*) — where Prophet Musa (Moses) AS received revelation
@@ -59,9 +59,9 @@ After the prayer at al-Masjid al-Aqsa, Prophet Muhammad SAW and Jibril AS ascend
 1. **First heaven** — **Prophet Adam AS**, the father of all humankind. He welcomed Muhammad saying: "Welcome, O righteous son and righteous prophet."^1 ^4
 2. **Second heaven** — **Prophet Isa (Jesus) AS** and **Prophet Yahya (John the Baptist) AS**, maternal cousins to one another.^1 ^5
 3. **Third heaven** — **Prophet Yusuf (Joseph) AS**, who was given half of all beauty of creation.^1 ^6
-4. **Fourth heaven** — **Prophet Idris (Enoch) AS**, whom Allah raised to a high station.^1 ^7
-5. **Fifth heaven** — **Prophet Harun (Aaron) AS**, the brother of Prophet Musa.^1 ^8
-6. **Sixth heaven** — **Prophet Musa (Moses) AS**, who wept when Muhammad passed him, knowing that more of Muhammad's followers would enter Paradise than his own.^1 ^9
+4. **Fourth heaven** — **Prophet Idris (Enoch) AS**, whom Allah raised to a high station.^1 ^6
+5. **Fifth heaven** — **Prophet Harun (Aaron) AS**, the brother of Prophet Musa.^1 ^3
+6. **Sixth heaven** — **Prophet Musa (Moses) AS**, who wept when Muhammad passed him, knowing that more of Muhammad's followers would enter Paradise than his own.^1 ^6
 7. **Seventh heaven** — **Prophet Ibrahim (Abraham) AS**, *khalilullah* (the beloved of Allah), who was reclining against al-Bayt al-Ma'mur — the celestial Ka'bah entered by 70,000 angels every day, never to return.^2 
 
 The complete narration of these encounters is found in Sahih al-Bukhari:
@@ -75,14 +75,14 @@ The complete narration of these encounters is found in Sahih al-Bukhari:
 
 After passing beyond the seventh heaven, Prophet Muhammad SAW reached *Sidrat al-Muntaha* — the lote tree at the farthest boundary, the frontier between the realm of creation and Divine majesty. Even Jibril AS stopped at this point, saying that he could not proceed further — were he to cross that boundary, his wings would burn.^2 ^1
 
-Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^10:
+Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^7:
 
 > وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِندَ سِدْرَةِ الْمُنتَهَىٰ ﴿١٤﴾ عِندَهَا جَنَّةُ الْمَأْوَىٰ ﴿١٥﴾ إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ ﴿١٦﴾ مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ ﴿١٧﴾
 >
 > *"And he certainly saw him in another descent, ﴾13﴿ at Sidrat al-Muntaha. ﴾14﴿ Near it is the Garden of Refuge. ﴾15﴿ When there covered the lote tree that which covered it, ﴾16﴿ the sight did not swerve, nor did it transgress its limit. ﴾17﴿"*
 > — QS. Al-Najm (53): 13–17
 
-It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2 ^10
+It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2 ^7
 
 ### The Commandment of the Five Daily Prayers
 
@@ -112,7 +112,7 @@ Thus, the five daily prayers were established with the reward of fifty prayers �
 
 ### Other Visions
 
-During the Mi'raj journey, Prophet Muhammad SAW was also shown various sights, among them:^2 ^7
+During the Mi'raj journey, Prophet Muhammad SAW was also shown various sights, among them:^2 ^6
 
 1. **Rivers of Paradise** — including rivers of milk, honey, wine (non-intoxicating), and clear water
 2. **Al-Bayt al-Ma'mur** — the celestial Ka'bah entered by 70,000 angels daily
@@ -121,7 +121,7 @@ During the Mi'raj journey, Prophet Muhammad SAW was also shown various sights, a
 
 ### Return to Mecca
 
-The entire journey of Isra' Mi'raj took place in a single night. When Prophet Muhammad SAW returned to Mecca, his bed was still warm and the ablution water he had spilled before departing had not yet dried — demonstrating that the journey took place in an extraordinarily brief span of time by worldly measures.^2 ^8
+The entire journey of Isra' Mi'raj took place in a single night. When Prophet Muhammad SAW returned to Mecca, his bed was still warm and the ablution water he had spilled before departing had not yet dried — demonstrating that the journey took place in an extraordinarily brief span of time by worldly measures.^2 ^3
 
 ## Dialogue and Sacred Texts
 
@@ -134,7 +134,7 @@ The event of the Isra' is immortalized in the opening of Surah al-Isra':
 > *"Exalted is He who took His servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the All-Hearing, the All-Seeing. ﴾1﴿"*
 > — QS. Al-Isra' (17): 1
 
-The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^9 ^10
+The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^6 ^7
 
 ### The Reaction of Meccan Society
 
@@ -166,15 +166,15 @@ The negotiation process between Prophet Muhammad SAW and Prophet Musa AS regardi
 
 ### The Connection of Three Sacred Mosques
 
-Isra' Mi'raj connects the three holiest mosques in Islam: al-Masjid al-Haram (Mecca), al-Masjid al-Aqsa (Jerusalem), and al-Bayt al-Ma'mur (the heavens). This connection affirms that Islam is not a religion confined to a single geographic region, but rather a universal message linking earth and heaven, past and future, and the entire prophetic tradition from Adam to Muhammad.^3 ^7
+Isra' Mi'raj connects the three holiest mosques in Islam: al-Masjid al-Haram (Mecca), al-Masjid al-Aqsa (Jerusalem), and al-Bayt al-Ma'mur (the heavens). This connection affirms that Islam is not a religion confined to a single geographic region, but rather a universal message linking earth and heaven, past and future, and the entire prophetic tradition from Adam to Muhammad.^3 ^6
 
 ### A Test of Faith
 
-The reaction of Meccan society to the news of Isra' Mi'raj served as a test of faith that distinguished those who believed sincerely from those who believed half-heartedly. Abu Bakr's response — "If he said it, then he is truthful" — became the model of ideal faith: accepting reports of the unseen not through logic alone, but through complete trust in the truthfulness of the one who bears the news.^3 ^8
+The reaction of Meccan society to the news of Isra' Mi'raj served as a test of faith that distinguished those who believed sincerely from those who believed half-heartedly. Abu Bakr's response — "If he said it, then he is truthful" — became the model of ideal faith: accepting reports of the unseen not through logic alone, but through complete trust in the truthfulness of the one who bears the news.^3 ^3
 
 ### Consolation After Sorrow
 
-In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to earthly suffering. After the loss of Khadijah and Abu Talib, after the humiliation at Ta'if, Allah raised His Prophet beyond all creation — as if to say that the world may reject, but the heavens open their gates wide. This pattern — deep sorrow followed by magnificent grace — becomes an eternal source of comfort for every believer facing trials.^3 ^9
+In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to earthly suffering. After the loss of Khadijah and Abu Talib, after the humiliation at Ta'if, Allah raised His Prophet beyond all creation — as if to say that the world may reject, but the heavens open their gates wide. This pattern — deep sorrow followed by magnificent grace — becomes an eternal source of comfort for every believer facing trials.^3 ^6
 
 ## Bibliography
 
@@ -184,7 +184,4 @@ In the chronological context of the *sirah*, Isra' Mi'raj is heaven's answer to 
 4. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Khalq, no. 3207.
 5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 108.
 6. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162.
-7. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162.
-8. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, p. 132.
-9. Muslim, *Sahih Muslim*, Kitab al-Iman, no. 162; also in other narrations.
-10. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.
+7. Al-Qur'an al-Karim. QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1.

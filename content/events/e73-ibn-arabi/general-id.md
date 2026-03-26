@@ -144,7 +144,7 @@ Kontribusi utama Ibn Arabi terhadap pemikiran Islam adalah **sistematisasi tasaw
 ## Daftar Pustaka
 
 1. Claude Addas, *Ibn 'Arabi: The Voyage of No Return*, Cambridge: Islamic Texts Society, 1993.
-2. Ibn Arabi, *Al-Futuhat al-Makkiyah*, jilid 1, bab "Asrar al-Awliya'".
+2. Ibn Arabi, *Al-Futuhat al-Makkiyah*, jilid 1.
 3. Michel Chodkiewicz, *An Ocean Without Shore: Ibn Arabi, the Book, and the Law*, Albany: SUNY Press, 1993.
 4. William Chittick, *The Sufi Path of Knowledge: Ibn Arabi's Metaphysics of Imagination*, Albany: SUNY Press, 1989.
 5. Al-Sha'rani, *Al-Yawaqit wa al-Jawahir fi Bayan Aqa'id al-Akabir*, Kairo: Maktabah Mustafa al-Babi al-Halabi, 1959.

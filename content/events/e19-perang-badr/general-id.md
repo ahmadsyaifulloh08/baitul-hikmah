@@ -99,10 +99,10 @@ Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. S
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 2915 (doa Nabi sebelum Badr), no. 3952-3986 (Bab Ghazwah Badr), Kitab al-Maghazi.
+1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 2915 (doa Nabi sebelum Badr), no. 3952-3986 (.
 
-2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Bab Ghazwah Badr al-Kubra. Riyadh: Dar al-Salam, 1976.
+2. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
-3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 2, Bab Ghazwah Badr. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
+3. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Jilid 2. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955.
 
 4. Al-Qur'an al-Karim. QS. Al-Anfal (8): 9, 10, 11, 41.

@@ -12,13 +12,13 @@ To understand the weight of this loss, it must be remembered that both events oc
 
 ### The Death of Abu Talib
 
-**Abu Talib** ibn Abd al-Muttalib passed away in the month of Rajab in the tenth year of prophethood (around mid-619 CE).^4 For over forty years, he had been Muhammad's guardian and protector — from the time Muhammad was orphaned at the age of eight until he became a prophet and messenger.
+**Abu Talib** ibn Abd al-Muttalib passed away in the month of Rajab in the tenth year of prophethood (around mid-619 CE).^2 For over forty years, he had been Muhammad's guardian and protector — from the time Muhammad was orphaned at the age of eight until he became a prophet and messenger.
 
-Abu Talib's relationship with his nephew is one of the most touching narratives in Islamic history. Although he never openly pronounced the *shahadah*, his entire life was devoted to protecting Muhammad from the threats of the Quraysh. He sacrificed his social standing, economic comfort, and even his own safety during the three years of boycott.^5
+Abu Talib's relationship with his nephew is one of the most touching narratives in Islamic history. Although he never openly pronounced the *shahadah*, his entire life was devoted to protecting Muhammad from the threats of the Quraysh. He sacrificed his social standing, economic comfort, and even his own safety during the three years of boycott.^4
 
-Ibn Hisham narrated that when Abu Talib fell gravely ill, Prophet Muhammad SAW visited him and earnestly pleaded with his uncle to utter the testimony of faith. At Abu Talib's bedside were also **Abu Jahl** and **Abdullah ibn Abi Umayyah**, who continuously urged Abu Talib to remain upon the religion of his forefathers, Abd al-Muttalib.^6
+Ibn Hisham narrated that when Abu Talib fell gravely ill, Prophet Muhammad SAW visited him and earnestly pleaded with his uncle to utter the testimony of faith. At Abu Talib's bedside were also **Abu Jahl** and **Abdullah ibn Abi Umayyah**, who continuously urged Abu Talib to remain upon the religion of his forefathers, Abd al-Muttalib.^2
 
-In Sahih al-Bukhari it is narrated^10:
+In Sahih al-Bukhari it is narrated^7:
 
 > قَالَ النَّبِيُّ صلى الله عليه وسلم لأَبِي طَالِبٍ: قُلْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ لَكَ بِهَا يَوْمَ الْقِيَامَةِ. قَالَ: لَوْلاَ أَنْ تُعَيِّرَنِي قُرَيْشٌ يَقُولُونَ إِنَّمَا حَمَلَهُ عَلَى ذَلِكَ الْجَزَعُ لأَقْرَرْتُ بِهَا عَيْنَكَ. فَأَنْزَلَ اللَّهُ: إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ
 >
@@ -32,13 +32,13 @@ The verse revealed in connection with this event was:
 > *"Indeed, you (O Muhammad) do not guide whom you love, but Allah guides whom He wills, and He is most knowing of the rightly guided. ﴾56﴿"*
 > — QS. Al-Qasas (28): 56
 
-Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^7 ^10
+Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^5 ^7
 
 ### The Death of Khadijah bint Khuwaylid
 
-**Khadijah bint Khuwaylid** passed away in the month of Ramadan of the tenth year of prophethood, only a short time after the death of Abu Talib.^8 She was the first and only wife of Prophet Muhammad SAW during her lifetime — their marriage lasted approximately twenty-five years.
+**Khadijah bint Khuwaylid** passed away in the month of Ramadan of the tenth year of prophethood, only a short time after the death of Abu Talib.^2 She was the first and only wife of Prophet Muhammad SAW during her lifetime — their marriage lasted approximately twenty-five years.
 
-Khadijah was far more than a wife. She was the first person to believe in Muhammad's message. When the first revelation descended at the Cave of Hira and the Prophet returned home trembling, it was Khadijah who calmed him with soothing words:^9
+Khadijah was far more than a wife. She was the first person to believe in Muhammad's message. When the first revelation descended at the Cave of Hira and the Prophet returned home trembling, it was Khadijah who calmed him with soothing words:^6
 
 Ibn Hisham narrated Khadijah's words:
 
@@ -66,13 +66,13 @@ The loss of Abu Talib and Khadijah within close succession created a dual crisis
 
 **Politically**, the Prophet lost his tribal protection. Abu Talib was succeeded by **Abu Lahab** as head of Banu Hashim, who was Islam's greatest adversary. Abu Lahab openly withdrew tribal protection from the Prophet — an act virtually unprecedented in Arab tradition, whereby a tribal chief refused to protect a member of his own tribe.^1 ^3
 
-**Emotionally**, the Prophet lost the life companion who for twenty-five years had been his confidante, source of strength, and first partner in the mission. Khadijah was his emotional anchor during the most difficult times.^1 ^4
+**Emotionally**, the Prophet lost the life companion who for twenty-five years had been his confidante, source of strength, and first partner in the mission. Khadijah was his emotional anchor during the most difficult times.^1 ^2
 
-**Economically**, Khadijah's death meant the loss of the primary source of funding that had sustained the activities of preaching and the Prophet's family life.^1 ^5
+**Economically**, Khadijah's death meant the loss of the primary source of funding that had sustained the activities of preaching and the Prophet's family life.^1 ^4
 
 ## Dialogue and Sacred Texts
 
-Prophet Muhammad SAW's grief over both losses was profound. Historians record that he named this year *'Am al-Huzn* — a designation reflecting the depth of sorrow he experienced.^1 ^6
+Prophet Muhammad SAW's grief over both losses was profound. Historians record that he named this year *'Am al-Huzn* — a designation reflecting the depth of sorrow he experienced.^1 ^2
 
 It was in this state of anguish that Allah the Almighty sent consolation through His words:
 
@@ -81,17 +81,17 @@ It was in this state of anguish that Allah the Almighty sent consolation through
 > *"Did He not find you an orphan and give you refuge? ﴾6﴿ And He found you lost and guided you. ﴾7﴿ And He found you in need and made you self-sufficient. ﴾8﴿"*
 > — QS. Al-Duha (93): 6–8
 
-These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^7 ^10
+These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^5 ^7
 
 ## Analysis and Lessons
 
 ### The Humanity of a Prophet
 
-*'Am al-Huzn* reveals the deeply human side of Prophet Muhammad SAW. He was not a figure untouched by sadness. He wept, grieved, and felt loss as any human being does. This, in fact, makes him a real and emulable exemplar — a human being who faced suffering with patience and surrender to Allah, not with indifference.^1 ^8
+*'Am al-Huzn* reveals the deeply human side of Prophet Muhammad SAW. He was not a figure untouched by sadness. He wept, grieved, and felt loss as any human being does. This, in fact, makes him a real and emulable exemplar — a human being who faced suffering with patience and surrender to Allah, not with indifference.^1 ^2
 
 ### The Role of Women in Islamic History
 
-Khadijah's death highlights how central the role of women was in Islamic history from its very inception. Khadijah was not a passive figure — she was an entrepreneur, advisor, financial supporter, and the first believer. Without her courage in proposing to Muhammad, without her economic support, and without her emotional strength, the journey of Islamic preaching in its earliest years would have been profoundly different.^1 ^9
+Khadijah's death highlights how central the role of women was in Islamic history from its very inception. Khadijah was not a passive figure — she was an entrepreneur, advisor, financial supporter, and the first believer. Without her courage in proposing to Muhammad, without her economic support, and without her emotional strength, the journey of Islamic preaching in its earliest years would have been profoundly different.^1 ^6
 
 ### Trial Before Bestowal
 
@@ -108,10 +108,7 @@ The Ta'if episode added another layer of suffering atop *'Am al-Huzn*, yet it al
 1. Al-Mubarakfuri, Shafiyyurrahman, *Al-Rahiq al-Makhtum [The Sealed Nectar]* (Riyadh: Dar al-Salam, 1976), p. 127.
 2. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, ed. Mustafa al-Saqqa et al. (Cairo: Mustafa al-Babi al-Halabi, 1955), p. 416.
 3. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968), p. 211.
-4. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 416.
-5. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 127–128.
-6. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, pp. 416–417.
-7. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 122.
-8. Ibn Hisham, *Al-Sirah al-Nabawiyyah*, vol. 1, p. 418.
-9. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Wahy, no. 3.
-10. Al-Qur'an al-Karim. QS. Al-Qasas (28): 56; QS. Al-Duha (93): 6–8.^23
+4. Al-Mubarakfuri, *Al-Rahiq al-Makhtum*, pp. 127–128.
+5. Ibn Kathir, *Al-Bidayah wa al-Nihayah*, vol. 3 (Beirut: Dar al-Fikr, 1986), p. 122.
+6. Al-Bukhari, *Sahih al-Bukhari*, Kitab Bad' al-Wahy, no. 3.
+7. Al-Qur'an al-Karim. QS. Al-Qasas (28): 56; QS. Al-Duha (93): 6–8.^23.

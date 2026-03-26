@@ -104,8 +104,8 @@ Surat-surat dakwah ini mengandung beberapa pelajaran penting:
 
 1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 7, 2941, 4553 (Kitab Bad'ul Wahyi dan Kitab al-Jihad). Riwayat panjang Abu Sufyan tentang pertemuannya dengan Heraklius.
 
-2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 4, Bab Surat-surat Nabi kepada Raja-raja.
+2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 4.
 
-3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, Bab Surat Nabi kepada Heraklius.
+3. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar.
 
 4. Al-Qur'an al-Karim. QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107.

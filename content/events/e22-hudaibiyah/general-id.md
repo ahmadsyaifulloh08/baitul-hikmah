@@ -105,10 +105,10 @@ Hudaibiyah mengajarkan beberapa prinsip fundamental:
 
 ## Daftar Pustaka
 
-1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 2731-2732 (Kitab al-Syuruth), Bab Perjanjian Hudaibiyah. Riwayat panjang dari al-Miswar bin Makhramah dan Marwan bin al-Hakam.
+1. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 2731-2732 (Kitab al-Syuruth). Riwayat panjang dari al-Miswar bin Makhramah dan Marwan bin al-Hakam.
 
-2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 3, Bab Perjanjian Hudaibiyah.
+2. **Ibn Hisham, Abu Muhammad Abdul Malik.** *Al-Sirah al-Nabawiyyah* (Sirah Nabawiyyah). Tahqiq: Musthafa al-Saqqa dkk. Kairo: Maktabah Musthafa al-Babi al-Halabi, 1955. Jilid 3.
 
-3. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976. Bab Perjanjian Hudaibiyah.
+3. **Al-Mubarakfuri, Shafiyyurrahman.** *Al-Rahiq al-Makhtum* (Sirah Nabawiyah). Riyadh: Dar al-Salam, 1976.
 
 4. Al-Qur'an al-Karim. QS. Al-Fath (48): 18, 1.

@@ -40,63 +40,63 @@ Perbedaan metodologis antara madzhab Maliki dan Hanafi memberikan perspektif bar
 
 Al-Shafi'i mengembangkan kritik yang tajam terhadap penggunaan *ra'yu* (opini personal) dan *istihsan* (preferensi hukum) yang ekstensif dalam madzhab Hanafi. Menurutnya, kedua metode ini terlalu subjektif dan dapat menjauhkan hukum dari nash-nash otoritatif.^12
 
-Dalam karyanya **"Ikhtilaf al-Hadith"**, al-Shafi'i menunjukkan bahwa banyak perbedaan pendapat di kalangan fuqaha disebabkan oleh tidak adanya metodologi yang jelas dalam menangani konflik antara berbagai dalil.^13
+Dalam karyanya **"Ikhtilaf al-Hadith"**, al-Shafi'i menunjukkan bahwa banyak perbedaan pendapat di kalangan fuqaha disebabkan oleh tidak adanya metodologi yang jelas dalam menangani konflik antara berbagai dalil.^5
 
 ### Hierarki Sumber Hukum
 
-Al-Shafi'i menetapkan hierarki sumber hukum yang rigid: (1) Al-Quran, (2) Hadits sahih, (3) Ijma' (konsensus), dan (4) Qiyas (analogi). Ia menolak sumber-sumber lain seperti *istihsan*, *maslahah mursalah*, atau tradisi lokal sebagai sumber hukum yang independen.^14
+Al-Shafi'i menetapkan hierarki sumber hukum yang rigid: (1) Al-Quran, (2) Hadits sahih, (3) Ijma' (konsensus), dan (4) Qiyas (analogi). Ia menolak sumber-sumber lain seperti *istihsan*, *maslahah mursalah*, atau tradisi lokal sebagai sumber hukum yang independen.^5
 
-Konsep *nasikh* dan *mansukh* (abrogating dan abrogated) dikembangkannya secara sistematis untuk menyelesaikan konflik antara nash-nash yang tampaknya bertentangan.^15
+Konsep *nasikh* dan *mansukh* (abrogating dan abrogated) dikembangkannya secara sistematis untuk menyelesaikan konflik antara nash-nash yang tampaknya bertentangan.^5
 
 ## Al-Risala: Karya Revolusioner
 
 ### Sistematisasi Ushul Fiqih
 
-**"Al-Risala"** yang ditulis al-Shafi'i sekitar tahun 200 H merupakan karya pertama yang menyajikan sistematisasi komprehensif tentang ushul fiqih (metodologi hukum Islam). Karya ini menjadi foundation bagi perkembangan disiplin ushul fiqih sebagai ilmu yang mandiri.^16
+**"Al-Risala"** yang ditulis al-Shafi'i sekitar tahun 200 H merupakan karya pertama yang menyajikan sistematisasi komprehensif tentang ushul fiqih (metodologi hukum Islam). Karya ini menjadi foundation bagi perkembangan disiplin ushul fiqih sebagai ilmu yang mandiri.^13
 
-Dalam Al-Risala, al-Shafi'i membahas secara detail tentang **hujjiyyah sunnah** (otoritas hadits sebagai sumber hukum), kriteria kesahihan hadits, dan metodologi dalam memahami nash-nash syariat.^17
+Dalam Al-Risala, al-Shafi'i membahas secara detail tentang **hujjiyyah sunnah** (otoritas hadits sebagai sumber hukum), kriteria kesahihan hadits, dan metodologi dalam memahami nash-nash syariat.^5
 
 ### Konsep Ijma dan Qiyas
 
-Al-Shafi'i memberikan definisi yang presisi tentang ijma sebagai konsensus seluruh *mujtahid* pada suatu masa tentang masalah hukum tertentu. Ia menekankan bahwa ijma yang valid harus melibatkan seluruh ulama yang kompeten, bukan hanya mayoritas.^18
+Al-Shafi'i memberikan definisi yang presisi tentang ijma sebagai konsensus seluruh *mujtahid* pada suatu masa tentang masalah hukum tertentu. Ia menekankan bahwa ijma yang valid harus melibatkan seluruh ulama yang kompeten, bukan hanya mayoritas.^5
 
-Konsep qiyas dikembangkannya dengan kriteria yang ketat. Analogi hanya dapat dilakukan jika ada *'illah* (alasan hukum) yang jelas dan dapat diidentifikasi baik dalam asal maupun cabang yang akan dianalogikan.^19
+Konsep qiyas dikembangkannya dengan kriteria yang ketat. Analogi hanya dapat dilakukan jika ada *'illah* (alasan hukum) yang jelas dan dapat diidentifikasi baik dalam asal maupun cabang yang akan dianalogikan.^5
 
 ## Periode Kedua di Baghdad dan Mesir
 
 ### Penyempurnaan Doktrin
 
-Setelah kembali ke Baghdad pada 195 H, al-Shafi'i mulai mengajarkan metodologi barunya. Ia menarik banyak murid, termasuk **Ahmad ibn Hanbal** yang kemudian menjadi pendiri madzhab keempat.^20
+Setelah kembali ke Baghdad pada 195 H, al-Shafi'i mulai mengajarkan metodologi barunya. Ia menarik banyak murid, termasuk **Ahmad ibn Hanbal** yang kemudian menjadi pendiri madzhab keempat.^14
 
-**Abu Thawr** dan **al-Muzani** adalah murid-murid terpenting yang kemudian menyebarkan ajaran al-Shafi'i. Mereka tidak hanya mencatat pendapat guru mereka, tetapi juga mengembangkan elaborasi lebih lanjut terhadap metodologi yang telah ditetapkan.^21
+**Abu Thawr** dan **al-Muzani** adalah murid-murid terpenting yang kemudian menyebarkan ajaran al-Shafi'i. Mereka tidak hanya mencatat pendapat guru mereka, tetapi juga mengembangkan elaborasi lebih lanjut terhadap metodologi yang telah ditetapkan.^15
 
 ### Fase Mesir dan Madzhab Jadid
 
-Pada 199 H, al-Shafi'i pindah ke Mesir dan menghabiskan tahun-tahun terakhir hidupnya di sana. Di Mesir, ia merevisi beberapa pendapat hukumnya berdasarkan kondisi dan tradisi lokal yang berbeda, yang kemudian dikenal sebagai **"al-madzhab al-jadid"** (madzhab baru).^22
+Pada 199 H, al-Shafi'i pindah ke Mesir dan menghabiskan tahun-tahun terakhir hidupnya di sana. Di Mesir, ia merevisi beberapa pendapat hukumnya berdasarkan kondisi dan tradisi lokal yang berbeda, yang kemudian dikenal sebagai **"al-madzhab al-jadid"** (madzhab baru).^16
 
-Perubahan ini menunjukkan fleksibilitas intelektual al-Shafi'i dan pengakuannya bahwa aplikasi hukum harus mempertimbangkan konteks sosial-budaya tanpa mengorbankan prinsip-prinsip dasar metodologi.^23
+Perubahan ini menunjukkan fleksibilitas intelektual al-Shafi'i dan pengakuannya bahwa aplikasi hukum harus mempertimbangkan konteks sosial-budaya tanpa mengorbankan prinsip-prinsip dasar metodologi.^17
 
 ## Kontribusi terhadap Ilmu Hadits
 
 ### Kriteria Kesahihan Hadits
 
-Al-Shafi'i memberikan kontribusi signifikan dalam pengembangan kriteria kesahihan hadits. Ia menekankan pentingnya *ittisal al-sanad* (ketersambungan rantai perawi), *adalah al-ruwah* (kredibilitas perawi), dan *dabt* (ketepatan hafalan).^24
+Al-Shafi'i memberikan kontribusi signifikan dalam pengembangan kriteria kesahihan hadits. Ia menekankan pentingnya *ittisal al-sanad* (ketersambungan rantai perawi), *adalah al-ruwah* (kredibilitas perawi), dan *dabt* (ketepatan hafalan).^5
 
-Konsep **khabar al-ahad** (hadits yang diriwayatkan oleh satu orang) dikembangkannya dengan kriteria yang jelas tentang kapan hadits semacam ini dapat diterima sebagai dasar hukum.^25
+Konsep **khabar al-ahad** (hadits yang diriwayatkan oleh satu orang) dikembangkannya dengan kriteria yang jelas tentang kapan hadits semacam ini dapat diterima sebagai dasar hukum.^5
 
 ### Penolakan terhadap Hadits Mursal
 
-Salah satu kontribusi kontroversial al-Shafi'i adalah penolakannya terhadap **hadits mursal** (hadits yang sanadnya tidak sampai kepada Nabi) sebagai hujjah yang independen. Menurutnya, hadits mursal hanya dapat diterima jika ada dukungan dari hadits lain yang sahih.^26
+Salah satu kontribusi kontroversial al-Shafi'i adalah penolakannya terhadap **hadits mursal** (hadits yang sanadnya tidak sampai kepada Nabi) sebagai hujjah yang independen. Menurutnya, hadits mursal hanya dapat diterima jika ada dukungan dari hadits lain yang sahih.^5
 
 ## Warisan dan Pengaruh
 
 ### Penyebaran Madzhab Shafi'i
 
-Madzhab Shafi'i menyebar luas terutama di wilayah Mesir, Hijaz, Yaman, dan kemudian ke Asia Tenggara melalui pedagang dan ulama yang belajar di Makkah dan Madinah. **Al-Nawawi** dan **al-Rafi'i** di masa kemudian menjadi tokoh penting yang mengkodifikasi dan mengembangkan madzhab ini.^27
+Madzhab Shafi'i menyebar luas terutama di wilayah Mesir, Hijaz, Yaman, dan kemudian ke Asia Tenggara melalui pedagang dan ulama yang belajar di Makkah dan Madinah. **Al-Nawawi** dan **al-Rafi'i** di masa kemudian menjadi tokoh penting yang mengkodifikasi dan mengembangkan madzhab ini.^18
 
 ### Pengaruh terhadap Perkembangan Ushul Fiqih
 
-Metodologi yang dikembangkan al-Shafi'i menjadi foundation bagi seluruh madzhab fiqih. Bahkan madzhab-madzhab yang tidak mengikuti pendapat substantifnya dalam masalah furu', tetap mengadopsi kerangka metodologis yang telah ditetapkannya.^28
+Metodologi yang dikembangkan al-Shafi'i menjadi foundation bagi seluruh madzhab fiqih. Bahkan madzhab-madzhab yang tidak mengikuti pendapat substantifnya dalam masalah furu', tetap mengadopsi kerangka metodologis yang telah ditetapkannya.^19
 
 ## Analisis dan Hikmah
 
@@ -122,19 +122,10 @@ Metodologi yang dikembangkan al-Shafi'i menjadi foundation bagi seluruh madzhab 
 10. Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jilid 2.
 11. Schacht, Joseph, *The Origins of Muhammadan Jurisprudence*, Oxford: Clarendon Press, 1950.
 12. Al-Shafi'i, *Ikhtilaf al-Hadith*, dalam Al-Umm.
-13. Al-Shafi'i, *op. cit.*, pembahasan tentang ta'arud al-adillah.
-14. Al-Shafi'i, *Al-Risala*, bab tentang masadir al-ahkam.
-15. Al-Shafi'i, *op. cit.*, bab al-nasikh wa al-mansukh.
-16. Hallaq, Wael B., *A History of Islamic Legal Theories*, Cambridge University Press, 1997.
-17. Al-Shafi'i, *Al-Risala*, bab hujjiyyah al-sunnah.
-18. Al-Shafi'i, *op. cit.*, bab al-ijma.
-19. Al-Shafi'i, *op. cit.*, bab al-qiyas.
-20. Ibn Hanbal, Ahmad, *Musnad Ahmad*, references to al-Shafi'i.
-21. Al-Muzani, Isma'il, *Mukhtasar al-Muzani*.
-22. Al-Nawawi, Yahya, *Al-Majmu' Sharh al-Muhadhdhab*, jilid 1.
-23. Coulson, Noel J., *A History of Islamic Law*, Edinburgh University Press, 1964.
-24. Al-Shafi'i, *Al-Risala*, bab sharait sahih al-hadith.
-25. Al-Shafi'i, *op. cit.*, bab khabar al-wahid.
-26. Al-Shafi'i, *op. cit.*, bab al-mursal.
-27. Chaumont, E., *"Al-Shafi'i"* dalam Encyclopaedia of Islam, 2nd ed.
-28. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+13. Hallaq, Wael B., *A History of Islamic Legal Theories*, Cambridge University Press, 1997.
+14. Ibn Hanbal, Ahmad, *Musnad Ahmad*, references to al-Shafi'i.
+15. Al-Muzani, Isma'il, *Mukhtasar al-Muzani*.
+16. Al-Nawawi, Yahya, *Al-Majmu' Sharh al-Muhadhdhab*, jilid 1.
+17. Coulson, Noel J., *A History of Islamic Law*, Edinburgh University Press, 1964.
+18. Chaumont, E., *"Al-Shafi'i"* dalam Encyclopaedia of Islam, 2nd ed.
+19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

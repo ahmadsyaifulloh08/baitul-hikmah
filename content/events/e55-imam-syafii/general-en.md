@@ -40,63 +40,63 @@ The methodological differences between the Maliki and Hanafi schools gave al-Sha
 
 Al-Shafi'i developed sharp criticism of the extensive use of *ra'yu* (personal opinion) and *istihsan* (legal preference) in the Hanafi school. According to him, both methods were too subjective and could distance law from authoritative texts.^12
 
-In his work **"Ikhtilaf al-Hadith"**, al-Shafi'i demonstrated that many differences of opinion among jurists were caused by the absence of clear methodology in handling conflicts between various evidences.^13
+In his work **"Ikhtilaf al-Hadith"**, al-Shafi'i demonstrated that many differences of opinion among jurists were caused by the absence of clear methodology in handling conflicts between various evidences.^5
 
 ### Hierarchy of Legal Sources
 
-Al-Shafi'i established a rigid hierarchy of legal sources: (1) the Quran, (2) authentic hadith, (3) Ijma' (consensus), and (4) Qiyas (analogy). He rejected other sources such as *istihsan*, *maslahah mursalah*, or local traditions as independent legal sources.^14
+Al-Shafi'i established a rigid hierarchy of legal sources: (1) the Quran, (2) authentic hadith, (3) Ijma' (consensus), and (4) Qiyas (analogy). He rejected other sources such as *istihsan*, *maslahah mursalah*, or local traditions as independent legal sources.^5
 
-The concept of *nasikh* and *mansukh* (abrogating and abrogated) was systematically developed by him to resolve conflicts between seemingly contradictory texts.^15
+The concept of *nasikh* and *mansukh* (abrogating and abrogated) was systematically developed by him to resolve conflicts between seemingly contradictory texts.^5
 
 ## Al-Risala: Revolutionary Work
 
 ### Systematization of Usul al-Fiqh
 
-**"Al-Risala"** written by al-Shafi'i around 200 AH was the first work to present a comprehensive systematization of usul al-fiqh (Islamic legal methodology). This work became the foundation for the development of usul al-fiqh as an independent discipline.^16
+**"Al-Risala"** written by al-Shafi'i around 200 AH was the first work to present a comprehensive systematization of usul al-fiqh (Islamic legal methodology). This work became the foundation for the development of usul al-fiqh as an independent discipline.^13
 
-In Al-Risala, al-Shafi'i discussed in detail the **hujjiyyah sunnah** (authority of hadith as a legal source), criteria for hadith authenticity, and methodology in understanding legal texts.^17
+In Al-Risala, al-Shafi'i discussed in detail the **hujjiyyah sunnah** (authority of hadith as a legal source), criteria for hadith authenticity, and methodology in understanding legal texts.^5
 
 ### Concepts of Ijma and Qiyas
 
-Al-Shafi'i provided a precise definition of ijma as the consensus of all *mujtahid* of a particular era on a specific legal matter. He emphasized that valid ijma must involve all competent scholars, not just a majority.^18
+Al-Shafi'i provided a precise definition of ijma as the consensus of all *mujtahid* of a particular era on a specific legal matter. He emphasized that valid ijma must involve all competent scholars, not just a majority.^5
 
-The concept of qiyas was developed by him with strict criteria. Analogy could only be made if there was a clear *'illah* (legal reason) that could be identified in both the original case and the branch to be analogized.^19
+The concept of qiyas was developed by him with strict criteria. Analogy could only be made if there was a clear *'illah* (legal reason) that could be identified in both the original case and the branch to be analogized.^5
 
 ## Second Period in Baghdad and Egypt
 
 ### Perfection of Doctrine
 
-After returning to Baghdad in 195 AH, al-Shafi'i began teaching his new methodology. He attracted many students, including **Ahmad ibn Hanbal** who later became the founder of the fourth school.^20
+After returning to Baghdad in 195 AH, al-Shafi'i began teaching his new methodology. He attracted many students, including **Ahmad ibn Hanbal** who later became the founder of the fourth school.^14
 
-**Abu Thawr** and **al-Muzani** were his most important students who later spread al-Shafi'i's teachings. They not only recorded their teacher's opinions but also developed further elaborations of the established methodology.^21
+**Abu Thawr** and **al-Muzani** were his most important students who later spread al-Shafi'i's teachings. They not only recorded their teacher's opinions but also developed further elaborations of the established methodology.^15
 
 ### Egyptian Phase and the New School
 
-In 199 AH, al-Shafi'i moved to Egypt and spent his final years there. In Egypt, he revised some of his legal opinions based on different local conditions and traditions, which became known as **"al-madhhab al-jadid"** (the new school).^22
+In 199 AH, al-Shafi'i moved to Egypt and spent his final years there. In Egypt, he revised some of his legal opinions based on different local conditions and traditions, which became known as **"al-madhhab al-jadid"** (the new school).^16
 
-This change demonstrated al-Shafi'i's intellectual flexibility and his recognition that legal application must consider socio-cultural contexts without sacrificing basic methodological principles.^23
+This change demonstrated al-Shafi'i's intellectual flexibility and his recognition that legal application must consider socio-cultural contexts without sacrificing basic methodological principles.^17
 
 ## Contribution to Hadith Science
 
 ### Criteria for Hadith Authenticity
 
-Al-Shafi'i made significant contributions to developing criteria for hadith authenticity. He emphasized the importance of *ittisal al-sanad* (chain continuity), *adalah al-ruwah* (narrator credibility), and *dabt* (precision of memorization).^24
+Al-Shafi'i made significant contributions to developing criteria for hadith authenticity. He emphasized the importance of *ittisal al-sanad* (chain continuity), *adalah al-ruwah* (narrator credibility), and *dabt* (precision of memorization).^5
 
-The concept of **khabar al-ahad** (hadith narrated by a single person) was developed by him with clear criteria about when such hadith could be accepted as legal basis.^25
+The concept of **khabar al-ahad** (hadith narrated by a single person) was developed by him with clear criteria about when such hadith could be accepted as legal basis.^5
 
 ### Rejection of Mursal Hadith
 
-One of al-Shafi'i's controversial contributions was his rejection of **hadith mursal** (hadith with incomplete chain to the Prophet) as independent evidence. According to him, mursal hadith could only be accepted if supported by other authentic hadith.^26
+One of al-Shafi'i's controversial contributions was his rejection of **hadith mursal** (hadith with incomplete chain to the Prophet) as independent evidence. According to him, mursal hadith could only be accepted if supported by other authentic hadith.^5
 
 ## Legacy and Influence
 
 ### Spread of the Shafi'i School
 
-The Shafi'i school spread widely, especially in Egypt, Hijaz, Yemen, and later to Southeast Asia through merchants and scholars who studied in Mecca and Medina. **Al-Nawawi** and **al-Rafi'i** in later periods became important figures who codified and developed this school.^27
+The Shafi'i school spread widely, especially in Egypt, Hijaz, Yemen, and later to Southeast Asia through merchants and scholars who studied in Mecca and Medina. **Al-Nawawi** and **al-Rafi'i** in later periods became important figures who codified and developed this school.^18
 
 ### Influence on Usul al-Fiqh Development
 
-The methodology developed by al-Shafi'i became the foundation for all schools of fiqh. Even schools that did not follow his substantive opinions in legal matters still adopted the methodological framework he established.^28
+The methodology developed by al-Shafi'i became the foundation for all schools of fiqh. Even schools that did not follow his substantive opinions in legal matters still adopted the methodological framework he established.^19
 
 ## Analysis and Wisdom
 
@@ -122,19 +122,10 @@ The methodology developed by al-Shafi'i became the foundation for all schools of
 10. Al-Khatib al-Baghdadi, *Tarikh Baghdad*, vol. 2.
 11. Schacht, Joseph, *The Origins of Muhammadan Jurisprudence*, Oxford: Clarendon Press, 1950.
 12. Al-Shafi'i, *Ikhtilaf al-Hadith*, in Al-Umm.
-13. Al-Shafi'i, *op. cit.*, discussion on ta'arud al-adillah.
-14. Al-Shafi'i, *Al-Risala*, chapter on masadir al-ahkam.
-15. Al-Shafi'i, *op. cit.*, chapter al-nasikh wa al-mansukh.
-16. Hallaq, Wael B., *A History of Islamic Legal Theories*, Cambridge University Press, 1997.
-17. Al-Shafi'i, *Al-Risala*, chapter hujjiyyah al-sunnah.
-18. Al-Shafi'i, *op. cit.*, chapter al-ijma.
-19. Al-Shafi'i, *op. cit.*, chapter al-qiyas.
-20. Ibn Hanbal, Ahmad, *Musnad Ahmad*, references to al-Shafi'i.
-21. Al-Muzani, Isma'il, *Mukhtasar al-Muzani*.
-22. Al-Nawawi, Yahya, *Al-Majmu' Sharh al-Muhadhdhab*, vol. 1.
-23. Coulson, Noel J., *A History of Islamic Law*, Edinburgh University Press, 1964.
-24. Al-Shafi'i, *Al-Risala*, chapter sharait sahih al-hadith.
-25. Al-Shafi'i, *op. cit.*, chapter khabar al-wahid.
-26. Al-Shafi'i, *op. cit.*, chapter al-mursal.
-27. Chaumont, E., *"Al-Shafi'i"* in Encyclopaedia of Islam, 2nd ed.
-28. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+13. Hallaq, Wael B., *A History of Islamic Legal Theories*, Cambridge University Press, 1997.
+14. Ibn Hanbal, Ahmad, *Musnad Ahmad*, references to al-Shafi'i.
+15. Al-Muzani, Isma'il, *Mukhtasar al-Muzani*.
+16. Al-Nawawi, Yahya, *Al-Majmu' Sharh al-Muhadhdhab*, vol. 1.
+17. Coulson, Noel J., *A History of Islamic Law*, Edinburgh University Press, 1964.
+18. Chaumont, E., *"Al-Shafi'i"* in Encyclopaedia of Islam, 2nd ed.
+19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

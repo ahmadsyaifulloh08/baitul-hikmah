@@ -112,6 +112,6 @@ Fath Makkah mengubah peta geopolitik Jazirah Arab secara permanen. Dengan jatuhn
 
 3. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** *Al-Jami' al-Shahih* (Shahih Bukhari). Hadits no. 3007 (surat Hathib), no. 4280-4289 (Fath Makkah).
 
-4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar, bab Fath Makkah.
+4. **Muslim, Abu al-Husain Muslim bin al-Hajjaj.** *Al-Jami' al-Shahih* (Shahih Muslim). Kitab al-Jihad wa al-Siyar.
 
 5. Al-Qur'an al-Karim. QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nashr (110): 1-2.

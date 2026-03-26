@@ -56,35 +56,35 @@ This attitude reflected Malik's view that teaching hadith was not merely informa
 
 During **Khalifah al-Ma'mun's** time (813-833 CE), the trial of *khalq al-Quran* (creation of the Quran) emerged, adopted by the Mu'tazilah school. The government forced scholars to acknowledge that the Quran was a creature (created), not Allah's eternal attribute.^17
 
-Malik, along with **Ahmad ibn Hanbal** and other scholars, firmly rejected this doctrine. When asked for a statement, Malik answered decisively: "The Quran is Allah's uncreated speech".^18
+Malik, along with **Ahmad ibn Hanbal** and other scholars, firmly rejected this doctrine. When asked for a statement, Malik answered decisively: "The Quran is Allah's uncreated speech".^9
 
 ### Torture and Steadfastness
 
-Due to his stance, Malik experienced physical torture. He was beaten until his shoulder was dislocated and never fully healed. Nevertheless, he remained firm in his position and refused to compromise with political pressure.^19
+Due to his stance, Malik experienced physical torture. He was beaten until his shoulder was dislocated and never fully healed. Nevertheless, he remained firm in his position and refused to compromise with political pressure.^18
 
-Malik's suffering became a symbol of scholars' resistance against state intervention in matters of creed. His attitude inspired generations of scholars afterward to preserve the purity of Islamic teachings from political influence.^20
+Malik's suffering became a symbol of scholars' resistance against state intervention in matters of creed. His attitude inspired generations of scholars afterward to preserve the purity of Islamic teachings from political influence.^1
 
 ## Spread and Influence of the Maliki School
 
 ### Expansion to Maghrib and Andalus
 
-The Maliki school spread rapidly to North Africa (Maghrib) and Andalus (Islamic Spain) through Malik's students who returned to their home regions. **Sahnun** (d. 240 AH) in Tunisia and **Ibn al-Qasim** (d. 191 AH) in Egypt became main propagators of this school.^21
+The Maliki school spread rapidly to North Africa (Maghrib) and Andalus (Islamic Spain) through Malik's students who returned to their home regions. **Sahnun** (d. 240 AH) in Tunisia and **Ibn al-Qasim** (d. 191 AH) in Egypt became main propagators of this school.^19
 
-**The Almoravid and Almohad dynasties** in Maghrib officially adopted the Maliki school as the state's official school. This strengthened the Maliki school's position in the region until today.^22
+**The Almoravid and Almohad dynasties** in Maghrib officially adopted the Maliki school as the state's official school. This strengthened the Maliki school's position in the region until today.^20
 
 ### Adaptation to Local Cultures
 
-The Maliki school's success in Africa and Andalus was inseparable from its flexibility in adapting to local conditions. The concept of *'urf* (local tradition) developed by Malik allowed legal adjustment to local community needs without losing the substance of sharia.^23
+The Maliki school's success in Africa and Andalus was inseparable from its flexibility in adapting to local conditions. The concept of *'urf* (local tradition) developed by Malik allowed legal adjustment to local community needs without losing the substance of sharia.^21
 
 ## Intellectual Legacy and Contributions
 
 ### Hadith Methodology
 
-Malik made great contributions to hadith science development, especially in *sanad* and *matan* criticism aspects. The authenticity standards he established in Al-Muwatta became references for subsequent hadith scholars.^24
+Malik made great contributions to hadith science development, especially in *sanad* and *matan* criticism aspects. The authenticity standards he established in Al-Muwatta became references for subsequent hadith scholars.^22
 
 ### Ushul Fiqih
 
-Although he did not write specifically about *ushul fiqih*, Malik's methodology provided important contributions to this discipline's development. The concepts of *'amal ahl al-Madinah*, *istihsan*, and *maslahah mursalah* that he developed were later systematically formulated by subsequent scholars.^25
+Although he did not write specifically about *ushul fiqih*, Malik's methodology provided important contributions to this discipline's development. The concepts of *'amal ahl al-Madinah*, *istihsan*, and *maslahah mursalah* that he developed were later systematically formulated by subsequent scholars.^23
 
 ## Analysis and Lessons
 
@@ -115,11 +115,9 @@ Although he did not write specifically about *ushul fiqih*, Malik's methodology 
 15. Al-Qadi Iyad, *Tartib al-Madarik wa Taqrib al-Masalik*, vol. 2.
 16. Hallaq, Wael B., *The Origins and Evolution of Islamic Law*, Cambridge University Press, 2005.
 17. Patton, Walter M., *Ahmed ibn Hanbal and the Mihna*, Leiden: E.J. Brill, 1897.
-18. Al-Tabari, *op. cit.*, entry about mihnat khalq al-Quran.
-19. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 10.
-20. Al-Dhahabi, *op. cit.*, biography of Malik ibn Anas.
-21. Sahnun, Abd al-Salam ibn Sa'id, *Al-Mudawwanah al-Kubra*.
-22. Ibn Khaldun, Abd al-Rahman, *Al-Muqaddimah*, chapter on jurisprudential schools.
-23. Al-Wansharisi, Ahmad ibn Yahya, *Al-Mi'yar al-Mu'rib*, vol. 1.
-24. Azami, M.M., *Studies in Hadith Methodology and Literature*, Indianapolis: Islamic Teaching Center, 1977.
-25. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+18. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 10.
+19. Sahnun, Abd al-Salam ibn Sa'id, *Al-Mudawwanah al-Kubra*.
+20. Ibn Khaldun, Abd al-Rahman, *Al-Muqaddimah*, chapter on jurisprudential schools.
+21. Al-Wansharisi, Ahmad ibn Yahya, *Al-Mi'yar al-Mu'rib*, vol. 1.
+22. Azami, M.M., *Studies in Hadith Methodology and Literature*, Indianapolis: Islamic Teaching Center, 1977.
+23. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
