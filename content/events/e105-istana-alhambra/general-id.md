@@ -2,142 +2,142 @@
 
 ## Konteks Historis
 
-**Istana Alhambra** (Al-Hamra, "Yang Merah") di Granada merupakan masterpiece arsitektur Islam di Eropa dan testimony tentang sophisticated civilization yang berkembang di Al-Andalus. Dibangun secara bertahap antara tahun 1238-1358 M selama era **Dinasti Nasrid**, istana ini represents synthesis sempurna antara functionality, aesthetics, dan spirituality dalam Islamic architecture.^1
+**Istana Alhambra** (Al-Hamra, "Yang Merah") di Granada merupakan mahakarya arsitektur Islam di Eropa dan kesaksian tentang peradaban canggih yang berkembang di Al-Andalus. Dibangun secara bertahap antara tahun 1238-1358 M selama era **Dinasti Nasrid**, istana ini mewakili sintesis sempurna antara fungsionalitas, estetika, dan spiritualitas dalam arsitektur Islam.^1
 
-Alhambra tidak hanya palace, tetapi complex city yang mencakup istana kerajaan, benteng pertahanan, masjid, residential quarters, gardens, dan administrative buildings. Lokasinya di Sabika Hill memberikan strategic military position sambil menyediakan breathtaking views Granada dan Sierra Nevada mountains. Construction ini merupakan response terhadap political pressure dari advancing Christian Reconquista.^2
+Alhambra tidak hanya istana, tetapi kompleks kota yang mencakup istana kerajaan, benteng pertahanan, masjid, kompleks hunian, taman, dan bangunan administratif. Lokasinya di Sabika Hill memberikan posisi militer strategis sambil menyediakan pemandangan menakjubkan Granada dan pegunungan Sierra Nevada. Konstruksi ini merupakan respons terhadap tekanan politik dari kemajuan Reconquista Kristen.^2
 
 ## Muhammad I ibn al-Ahmar: Pendiri Visi
 
-### Establishment Dinasti Nasrid
+### Pendirian Dinasti Nasrid
 
-**Muhammad I ibn al-Ahmar** (1238-1273 M) founded Dinasti Nasrid dan initiated construction Alhambra. Sebagai ruler last independent Muslim state di Iberian Peninsula, dia faced enormous challenge: how untuk maintain Islamic sovereignty sambil adapting untuk changing political realities. Decision untuk build Alhambra reflected tanto military necessity quanto cultural assertion.^3
+**Muhammad I ibn al-Ahmar** (1238-1273 M) mendirikan Dinasti Nasrid dan memulai konstruksi Alhambra. Sebagai penguasa negara Muslim independen terakhir di Semenanjung Iberia, dia menghadapi tantangan yang sangat besar: bagaimana mempertahankan kedaulatan Islam sambil beradaptasi dengan realitas politik yang berubah. Keputusan untuk membangun Alhambra mencerminkan baik kebutuhan militer maupun pernyataan budaya.^3
 
-Muhammad I understood bahwa survival required không hanya military strength tetapi juga demonstration Islamic civilization's continued vitality. Alhambra served sebagai symbol bahwa Islam remained culturally vibrant even dalam increasingly hostile environment.
+Muhammad I memahami bahwa kelangsungan hidup tidak hanya memerlukan kekuatan militer tetapi juga demonstrasi vitalitas berkelanjutan peradaban Islam. Alhambra berfungsi sebagai simbol bahwa Islam tetap bersemangat secara budaya bahkan dalam lingkungan yang semakin bermusuhan.
 
-### Strategic Vision
+### Visi Strategis
 
-Construction Alhambra represented strategic multi-layered approach:
+Konstruksi Alhambra mewakili pendekatan strategis berlapis:
 
-**Military defense**: Strong fortifications untuk protect terhadap Christian attacks. **Political legitimacy**: Magnificent architecture untuk assert royal authority. **Cultural preservation**: Space untuk maintain Islamic arts, science, dan literature. **Economic center**: Hub untuk trade dan craftsmanship yang sustaining kingdom.^4
+**Pertahanan militer**: Benteng yang kuat untuk melindungi terhadap serangan Kristen. **Legitimasi politik**: Arsitektur yang megah untuk menegaskan otoritas kerajaan. **Pelestarian budaya**: Ruang untuk mempertahankan seni, sains, dan sastra Islam. **Pusat ekonomi**: Pusat perdagangan dan kerajinan yang menopang kerajaan.^4
 
-## Architectural Masterpiece
+## Mahakarya Arsitektur
 
-### Structural Innovations
+### Inovasi Struktural
 
-Alhambra showcases advanced Islamic architectural techniques yang had evolved selama centuries dalam Al-Andalus:
+Alhambra menampilkan teknik arsitektur Islam yang canggih yang telah berkembang selama berabad-abad di Al-Andalus:
 
-**Muqarnas vaulting**: Complex honeycomb-like decorative vaulting yang creates spectacular visual effects. **Horseshoe arches**: Characteristic Islamic arches yang became signature Andalusi architecture. **Geometric patterns**: Sophisticated mathematical designs yang reflect Islamic understanding infinity. **Calligraphic decoration**: Quranic verses dan poetry integrated sebagai architectural elements.^1
+**Kubah muqarnas**: Kubah dekoratif mirip sarang lebah yang kompleks yang menciptakan efek visual spektakuler. **Lengkung tapal kuda**: Lengkung Islam khas yang menjadi ciri khas arsitektur Andalusi. **Pola geometris**: Desain matematika yang canggih yang mencerminkan pemahaman Islam tentang ketakhinggaan. **Dekorasi kaligrafi**: Ayat Al-Quran dan puisi yang terintegrasi sebagai elemen arsitektur.^1
 
-### Water Engineering
+### Teknik Air
 
-One of most remarkable features Alhambra adalah sophisticated water management system. Engineers designed network channels, fountains, dan pools yang tidak hanya provided practical benefits tetapi juga created sensory experience that enhanced spiritual contemplation. Sound running water throughout complex created atmosphere tranquility dalam busy palace environment.^2
+Salah satu fitur paling luar biasa dari Alhambra adalah sistem manajemen air yang canggih. Para insinyur merancang jaringan saluran, air mancur, dan kolam yang tidak hanya memberikan manfaat praktis tetapi juga menciptakan pengalaman sensorik yang meningkatkan kontemplasi spiritual. Suara air yang mengalir di seluruh kompleks menciptakan suasana ketenangan dalam lingkungan istana yang sibuk.^2
 
-### Key Architectural Spaces
+### Ruang Arsitektur Kunci
 
-**Nasrid Palaces**: Private royal apartments dengan intimate courtyards dan elaborate decoration. **Court of Lions**: Famous courtyard dengan twelve lion fountain, representing earthly paradise. **Hall of Ambassadors**: Throne room dengan spectacular muqarnas dome representing celestial sphere. **Generalife**: Summer palace dengan extensive gardens celebrating Islamic garden tradition.^3
+**Istana Nasrid**: Apartemen kerajaan pribadi dengan halaman intim dan dekorasi yang rumit. **Halaman Singa**: Halaman terkenal dengan air mancur dua belas singa, mewakili surga duniawi. **Aula Duta Besar**: Ruang tahta dengan kubah muqarnas spektakuler yang mewakili lingkup surgawi. **Generalife**: Istana musim panas dengan taman yang luas merayakan tradisi taman Islam.^3
 
-## Cultural dan Intellectual Center
+## Pusat Budaya dan Intelektual
 
-### Patronage Arts dan Sciences
+### Patronase Seni dan Sains
 
-Nasrid rulers, particularly **Yusuf I** (1333-1354 M) dan **Muhammad V** (1354-1391 M), transformed Alhambra dalam major intellectual center. Court attracted scholars, poets, artists, dan scientists from throughout Islamic world.^4
+Para penguasa Nasrid, khususnya **Yusuf I** (1333-1354 M) dan **Muhammad V** (1354-1391 M), mengubah Alhambra menjadi pusat intelektual utama. Istana menarik sarjana, penyair, seniman, dan ilmuwan dari seluruh dunia Islam.^4
 
-Palace library contained thousands manuscripts covering subjects dari theology dan law untuk mathematics dan astronomy. Scholars conducted research, engaged dalam philosophical debates, dan produced works yang contributed untuk Islamic intellectual tradition.
+Perpustakaan istana berisi ribuan manuskrip yang mencakup mata pelajaran dari teologi dan hukum hingga matematika dan astronomi. Para sarjana melakukan penelitian, terlibat dalam perdebatan filosofis, dan menghasilkan karya yang berkontribusi pada tradisi intelektual Islam.
 
-### Literary Flowering
+### Berkembangnya Sastra
 
-Alhambra period witnessed remarkable flowering Arabic literature dalam Al-Andalus. Palace walls themselves became literary canvas, decorated dengan poems dari court poets seperti **Ibn Zamrak**. These inscriptions transformed architecture dalam three-dimensional book, dengan verses celebrating divine beauty, royal power, dan human artistic achievement.^1
+Periode Alhambra menyaksikan perkembangan sastra Arab yang luar biasa di Al-Andalus. Dinding istana sendiri menjadi kanvas sastra, dihiasi dengan puisi dari penyair istana seperti **Ibn Zamrak**. Prasasti ini mengubah arsitektur menjadi buku tiga dimensi, dengan syair-syair yang merayakan keindahan ilahi, kekuasaan kerajaan, dan pencapaian artistik manusia.^1
 
-Poetry integrated dalam Alhambra includes themes:
+Puisi yang terintegrasi dalam Alhambra meliputi tema:
 
-**Divine praise**: Celebration Allah's creative power reflected dalam human artistry. **Royal glorification**: Praise untuk Nasrid rulers dan their achievements. **Philosophical reflection**: Meditations pada nature, beauty, dan human condition. **Historical commemoration**: Records important events dan victories.
+**Pujian ilahi**: Perayaan kekuatan kreatif Allah yang tercermin dalam kesenian manusia. **Glorifikasi kerajaan**: Pujian untuk penguasa Nasrid dan pencapaian mereka. **Refleksi filosofis**: Meditasi tentang alam, keindahan, dan kondisi manusia. **Peringatan sejarah**: Catatan peristiwa penting dan kemenangan.
 
-### Musical dan Performance Arts
+### Seni Musik dan Pertunjukan
 
-Court Alhambra supported sophisticated musical traditions yang blend influences dari Arab, Berber, dan Iberian cultures. **Andalusi music** performed dalam palace halls represents unique synthesis yang continued untuk influence music throughout Mediterranean region.^2
+Istana Alhambra mendukung tradisi musik yang canggih yang memadukan pengaruh dari budaya Arab, Berber, dan Iberia. **Musik Andalusi** yang dilakukan di aula istana mewakili sintesis unik yang terus mempengaruhi musik di seluruh wilayah Mediterania.^2
 
-## Political dan Diplomatic Functions
+## Fungsi Politik dan Diplomatik
 
-### Symbol Islamic Resistance
+### Simbol Perlawanan Islam
 
-During era increasing Christian pressure, Alhambra served sebagai powerful symbol Islamic resistance dan cultural persistence. Complex magnificent architecture sent clear message bahwa Islam remained vital force dalam Iberian Peninsula despite territorial losses elsewhere.^3
+Selama era tekanan Kristen yang meningkat, Alhambra berfungsi sebagai simbol kuat perlawanan Islam dan ketekunan budaya. Arsitektur kompleks yang megah mengirimkan pesan yang jelas bahwa Islam tetap menjadi kekuatan vital di Semenanjung Iberia meskipun kehilangan wilayah di tempat lain.^3
 
-### Diplomatic Reception
+### Penerimaan Diplomatik
 
-Palace designed untuk impress foreign ambassadors dan demonstrate Nasrid power. Elaborate reception ceremonies conducted dalam Hall Ambassadors showcased wealth, sophistication, dan cultural achievement Islamic Granada. These diplomatic functions crucial untuk maintaining alliances dan negotiating favorable terms dengan Christian kingdoms.
+Istana dirancang untuk mengesankan duta besar asing dan menunjukkan kekuasaan Nasrid. Upacara penerimaan yang rumit yang dilakukan di Aula Duta Besar menampilkan kekayaan, kecanggihan, dan pencapaian budaya Granada Islam. Fungsi diplomatik ini krusial untuk mempertahankan aliansi dan merundingkan persyaratan yang menguntungkan dengan kerajaan Kristen.
 
-### Administrative Center
+### Pusat Administratif
 
-Alhambra functioned sebagai government seat untuk Nasrid state. Administrative buildings within complex housed bureaucracy yang managed kingdom affairs, collected taxes, administered justice, dan maintained military forces. Efficient administrative system enabled Granada untuk survive sebagai independent Islamic state untuk nearly two centuries longer than other Iberian Muslim territories.^4
+Alhambra berfungsi sebagai tempat kedudukan pemerintah untuk negara Nasrid. Bangunan administratif dalam kompleks menampung birokrasi yang mengelola urusan kerajaan, mengumpulkan pajak, mengadministrasikan keadilan, dan mempertahankan kekuatan militer. Sistem administratif yang efisien memungkinkan Granada untuk bertahan sebagai negara Islam independen selama hampir dua abad lebih lama dari wilayah Muslim Iberia lainnya.^4
 
-## Artistic dan Symbolic Elements
+## Elemen Artistik dan Simbolik
 
-### Geometric Perfection
+### Kesempurnaan Geometris
 
-Decorative program Alhambra reflects deep Islamic understanding mathematics dan geometry sebagai expressions divine order. Patterns throughout complex demonstrate principles:
+Program dekoratif Alhambra mencerminkan pemahaman Islam yang mendalam tentang matematika dan geometri sebagai ekspresi tatanan ilahi. Pola di seluruh kompleks menunjukkan prinsip:
 
-**Unity within multiplicity**: Single geometric modules combined untuk create infinite variations. **Mathematical harmony**: Proportional relationships yang create visual dan acoustic harmony. **Spiritual symbolism**: Geometric patterns representing divine attributes dan cosmic order.^1
+**Kesatuan dalam kemajemukan**: Modul geometris tunggal yang dikombinasikan untuk menciptakan variasi tak terbatas. **Harmoni matematis**: Hubungan proporsional yang menciptakan harmoni visual dan akustik. **Simbolisme spiritual**: Pola geometris yang mewakili sifat ilahi dan tatanan kosmik.^1
 
-### Calligraphic Program
+### Program Kaligrafi
 
-Quranic inscriptions throughout Alhambra carefully selected untuk enhance spiritual significance architectural spaces. Key verses include:
+Prasasti Al-Quran di seluruh Alhambra dipilih dengan hati-hati untuk meningkatkan signifikansi spiritual ruang arsitektur. Ayat kunci meliputi:
 
-**Light Verse** (An-Nur 24:35): Illuminating nature divine guidance. **Victory Verses** (Al-Fath): Celebrating divine support untuk believers. **Paradise Descriptions**: Creating earthly reflection celestial realm.
+**Ayat Cahaya** (An-Nur 24:35): Menerangi sifat bimbingan ilahi. **Ayat Kemenangan** (Al-Fath): Merayakan dukungan ilahi untuk orang beriman. **Deskripsi Surga**: Menciptakan refleksi duniawi dari alam surgawi.
 
-### Paradise Metaphor
+### Metafora Surga
 
-Entire Alhambra designed sebagai metaphor untuk Islamic paradise. Garden courtyards dengan flowing water, fruit trees, dan fragrant flowers evoke Quranic descriptions paradise. Architectural spaces create progression dari worldly concerns towards spiritual contemplation.^2
+Seluruh Alhambra dirancang sebagai metafora untuk surga Islam. Halaman taman dengan air yang mengalir, pohon buah-buahan, dan bunga harum mengingatkan deskripsi Al-Quran tentang surga. Ruang arsitektur menciptakan perkembangan dari kekhawatiran duniawi menuju kontemplasi spiritual.^2
 
-## Decline dan Preservation
+## Kemunduran dan Pelestarian
 
-### Fall Granada (1492)
+### Jatuhnya Granada (1492)
 
-Alhambra's golden age ended dengan conquest Granada oleh Catholic Monarchs Ferdinand dan Isabella dalam 1492 M. Last Nasrid ruler, **Boabdil**, surrendered keys complex dalam ceremony yang marked end eight centuries Islamic rule dalam Iberian Peninsula.^3
+Masa keemasan Alhambra berakhir dengan penaklukan Granada oleh Raja Katolik Ferdinand dan Isabella pada 1492 M. Penguasa Nasrid terakhir, **Boabdil**, menyerahkan kunci kompleks dalam upacara yang menandai berakhirnya delapan abad pemerintahan Islam di Semenanjung Iberia.^3
 
-### Christian Period Modifications
+### Modifikasi Periode Kristen
 
-Under Christian rule, Alhambra underwent significant modifications. Some Islamic elements removed atau altered, Christian chapel built within mosque, dan Renaissance additions constructed. However, much original Islamic architecture preserved, partly karena recognition artistic value.
+Di bawah pemerintahan Kristen, Alhambra mengalami modifikasi signifikan. Beberapa elemen Islam dihapus atau diubah, kapel Kristen dibangun dalam masjid, dan tambahan Renaissance dikonstruksi. Namun, banyak arsitektur Islam asli dilestarikan, sebagian karena pengakuan nilai artistik.
 
-### Modern Recognition
+### Pengakuan Modern
 
-Dalam 19th century, Romantic writers seperti **Washington Irving** helped revive international appreciation untuk Alhambra beauty. UNESCO designated complex sebagai World Heritage Site dalam 1984, recognizing outstanding universal value sebagai masterpiece human creative genius.^4
+Pada abad ke-19, penulis Romantik seperti **Washington Irving** membantu menghidupkan kembali apresiasi internasional untuk keindahan Alhambra. UNESCO menetapkan kompleks sebagai Situs Warisan Dunia pada 1984, mengakui nilai universal yang luar biasa sebagai mahakarya jenius kreatif manusia.^4
 
-## Legacy dan Influence
+## Warisan dan Pengaruh
 
-### Architectural Inspiration
+### Inspirasi Arsitektur
 
-Alhambra influenced architectural movements worldwide, inspiring:
+Alhambra mempengaruhi gerakan arsitektur di seluruh dunia, menginspirasi:
 
-**Moorish Revival**: 19th-century European dan American buildings incorporating Islamic elements. **Modern Islamic architecture**: Contemporary architects studying Alhambra untuk authentic Islamic design principles. **Decorative arts**: Patterns dan motifs influencing textile, ceramic, dan metalwork traditions.
+**Kebangkitan Moor**: Bangunan Eropa dan Amerika abad ke-19 yang menggabungkan elemen Islam. **Arsitektur Islam modern**: Arsitek kontemporer yang mempelajari Alhambra untuk prinsip desain Islam yang otentik. **Seni dekoratif**: Pola dan motif yang mempengaruhi tradisi tekstil, keramik, dan pengerjaan logam.
 
-### Cultural Symbol
+### Simbol Budaya
 
-Alhambra remains powerful symbol:
+Alhambra tetap menjadi simbol yang kuat:
 
-**Islamic cultural achievement**: Demonstration high level civilization reached oleh medieval Muslims. **Andalusi heritage**: Symbol multicultural period dalam Iberian history. **Artistic inspiration**: Continuing untuk inspire artists, musicians, dan writers worldwide.^1
+**Pencapaian budaya Islam**: Demonstrasi tingkat peradaban tinggi yang dicapai oleh Muslim abad pertengahan. **Warisan Andalusi**: Simbol periode multikultural dalam sejarah Iberia. **Inspirasi artistik**: Terus menginspirasi seniman, musisi, dan penulis di seluruh dunia.^1
 
-## Spiritual dan Philosophical Significance
+## Signifikansi Spiritual dan Filosofis
 
-### Manifestation Divine Beauty
+### Manifestasi Keindahan Ilahi
 
-Alhambra represents Islamic concept bahwa beautiful earthly creation can serve sebagai reflection divine beauty. Architecture designed untuk elevate soul dan inspire contemplation tentang ultimate reality beyond material world.
+Alhambra mewakili konsep Islam bahwa ciptaan duniawi yang indah dapat berfungsi sebagai refleksi keindahan ilahi. Arsitektur dirancang untuk mengangkat jiwa dan menginspirasi kontemplasi tentang realitas akhir di luar dunia material.
 
-### Integration Arts dan Spirituality
+### Integrasi Seni dan Spiritualitas
 
-Complex demonstrates Islamic principle bahwa arts should serve higher spiritual purposes. Every architectural element - dari geometric patterns untuk calligraphic inscriptions - designed untuk enhance spiritual experience dan remind visitors tentang divine presence.^2
+Kompleks menunjukkan prinsip Islam bahwa seni harus melayani tujuan spiritual yang lebih tinggi. Setiap elemen arsitektur - dari pola geometris hingga prasasti kaligrafi - dirancang untuk meningkatkan pengalaman spiritual dan mengingatkan pengunjung tentang kehadiran ilahi.^2
 
 ## Hikmah dan Pelajaran
 
-Alhambra mengajarkan timeless lessons:
+Alhambra mengajarkan pelajaran abadi:
 
-**Cultural resilience**: Great civilizations dapat create lasting beauty bahkan under political pressure. **Artistic integration**: Successful synthesis function dan beauty creates environments yang nourish human spirit. **Spiritual architecture**: Buildings dapat serve sebagai means untuk spiritual elevation dan contemplation. **Cross-cultural appreciation**: Beauty transcends religious dan cultural boundaries.
+**Ketahanan budaya**: Peradaban besar dapat menciptakan keindahan yang berkelanjutan bahkan di bawah tekanan politik. **Integrasi artistik**: Sintesis fungsi dan keindahan yang berhasil menciptakan lingkungan yang memelihara jiwa manusia. **Arsitektur spiritual**: Bangunan dapat berfungsi sebagai sarana untuk elevasi spiritual dan kontemplasi. **Apresiasi lintas budaya**: Keindahan melampaui batas agama dan budaya.
 
 > إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ
 >
 > *"Sesungguhnya Allah itu indah dan mencintai keindahan."*
 > — HR Muslim, no. 91
 
-Hadis ini mencerminkan philosophy yang inspired creation Alhambra - understanding bahwa divine love untuk beauty justifies human artistic endeavor ketika directed towards spiritual goals.
+Hadis ini mencerminkan filosofi yang menginspirasi penciptaan Alhambra - pemahaman bahwa cinta ilahi untuk keindahan membenarkan upaya artistik manusia ketika diarahkan pada tujuan spiritual.
 
 ---
 

@@ -360,6 +360,34 @@ Teks Arab HANYA untuk **Al-Quran dan Hadits**. TIDAK untuk istilah/nama/tempat/k
 4. Tone: Akademis tapi accessible
 5. Reviewer wajib flag kata menyalahi panduan
 
+### ⚠️ Language Purity (BLOCKER)
+
+**`general-id.md` HARUS 100% Bahasa Indonesia.** Tidak boleh ada kata/frasa Inggris yang tercampur.
+
+**❌ DILARANG (English contamination):**
+- `systematically menghancurkan` → ✅ `secara sistematis menghancurkan`
+- `implementing kebijakan` → ✅ `menerapkan kebijakan`
+- `strategic effort untuk eliminate` → ✅ `upaya strategis untuk menghapus`
+- `conquest Granada` → ✅ `penaklukan Granada`
+- `despite persecution` → ✅ `meskipun ada penganiayaan`
+
+**Yang BOLEH tetap English/asing:**
+- Nama tokoh: Cardinal Cisneros, Philip III
+- Nama tempat: Granada, Al-Andalus, Iberia
+- Istilah teknis yang sudah lazim: *Moriscos*, *convivencia*, *Aljamiado*
+- Istilah Arab: *takwa*, *ummah*, *hijrah*
+
+**`general-en.md` HARUS 100% English.** Sama — tidak boleh ada Indonesian contamination.
+
+**File yang gagal language check = REJECT.** Sub-agent harus rewrite.
+
+### Format QS. (Konsisten — BLOCKER)
+
+Format referensi surah HARUS konsisten:
+- ✅ `QS. Al-Fil (105): 1-5` — dengan titik, spasi, nomor surah terpisah dari ayat
+- ❌ `QS Al-Fil (105:1-5)` — tanpa titik, ayat di dalam parentheses
+- ❌ `QS. Al-Fil` — tanpa nomor surah dan ayat
+
 ---
 
 ## 9. Struktur Artikel General

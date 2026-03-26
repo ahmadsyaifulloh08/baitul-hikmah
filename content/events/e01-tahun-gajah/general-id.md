@@ -6,7 +6,7 @@ Pada pertengahan abad keenam Masehi, Jazirah Arab berdiri di persimpangan perada
 
 Secara politik, Jazirah Arab berada di antara dua kekuatan adidaya dunia saat itu: Kekaisaran Romawi Timur (Bizantium) di barat laut dan Kekaisaran Sassanid (Persia) di timur laut. Kedua imperium ini menjadikan kerajaan-kerajaan Arab di perbatasan sebagai negara penyangga — Kerajaan Ghassaniyah sebagai negara bawahan Bizantium, dan Kerajaan Lakhmiyah sebagai negara bawahan Persia.^1 Yaman di selatan, yang dulunya pernah menjadi pusat peradaban maju di bawah Kerajaan Saba' dan Himyar, kini jatuh ke tangan Kerajaan Aksum (Habasyah/Ethiopia) setelah serangkaian perebutan kekuasaan internal.^2
 
-Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS Quraisy (106:1-4):
+Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS. Quraisy (106): 1-4:
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
@@ -50,12 +50,12 @@ Ibn Hisham dan al-Mubarakfuri sama-sama mencatat pernyataan ini sebagai bukti ke
 
 Pada hari penyerangan, peristiwa yang tidak terduga terjadi. Gajah Mahmud — pemimpin pasukan gajah — menolak bergerak maju ketika diarahkan menuju Ka'bah. Setiap kali dihadapkan ke arah Makkah, ia berlutut dan menolak bangkit. Namun ketika diarahkan ke arah lain — ke Yaman, ke Syam, ke timur — ia berdiri dan berjalan.^1 Ibn Kathir dalam tafsirnya menyebutkan bahwa peristiwa ini sudah merupakan tanda ilahi sebelum kehancuran yang lebih besar datang.
 
-Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa tiga batu kecil — *hijarat min sijjil* — satu di paruh dan satu di masing-masing cakar. Batu-batu ini menghujani pasukan Abrahah, menghancurkan mereka seperti "daun-daun yang dimakan ulat" — *ka-'ashfin ma'kul* — sebagaimana difirmankan Allah dalam QS Al-Fil (105:1-5):
+Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa tiga batu kecil — *hijarat min sijjil* — satu di paruh dan satu di masing-masing cakar. Batu-batu ini menghujani pasukan Abrahah, menghancurkan mereka seperti "daun-daun yang dimakan ulat" — *ka-'ashfin ma'kul* — sebagaimana difirmankan Allah dalam QS. Al-Fil (105): 1-5:
 
 > أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ﴿١﴾ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِى تَضۡلِيلٍ ﴿٢﴾ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ﴿٣﴾ تَرۡمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ﴿٤﴾ فَجَعَلَهُمۡ كَعَصۡفٍ مَّأۡكُولٍ ﴿٥﴾
 >
 > *"Tidakkah engkau perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah? ﴾1﴿ Bukankah Dia telah menjadikan tipu daya mereka sia-sia? ﴾2﴿ Dan Dia mengirimkan kepada mereka burung-burung yang berbondong-bondong, ﴾3﴿ yang melempari mereka dengan batu dari tanah liat yang dibakar, ﴾4﴿ sehingga Dia menjadikan mereka seperti daun-daun yang dimakan ulat. ﴾5﴿"*
-> — QS Al-Fil (105:1-5)
+> — QS. Al-Fil (105): 1-5
 
 Abrahah sendiri terkena batu-batu tersebut. Tubuhnya membusuk sedikit demi sedikit sepanjang perjalanan pulang, dan ia meninggal di Sana'a dalam keadaan yang mengenaskan — dagingnya rontok hingga tulang dan jantungnya terlihat. Ibn Hisham mencatat detail ini dengan sangat rinci dalam *Sirah Nabawiyyah*.^1
 
@@ -130,4 +130,4 @@ Dari kota dagang di tengah gurun yang gersang, dari seorang anak yatim yang kehi
 4. Muslim, *Shahih Muslim*, Kitab al-Shiyam.
 5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 
-6. Al-Qur'an al-Karim. QS. Quraisy (106): 1-4.
+6. Al-Qur'an al-Karim. QS. Al-Fil (105): 1-5; QS. Quraisy (106): 1-4.

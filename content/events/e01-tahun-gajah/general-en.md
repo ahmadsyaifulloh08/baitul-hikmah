@@ -55,7 +55,7 @@ Then came flocks of birds — *ababil* — from the direction of the sea, each c
 > أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ ﴿١﴾ أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِى تَضۡلِيلٍ ﴿٢﴾ وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ ﴿٣﴾ تَرۡمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ ﴿٤﴾ فَجَعَلَهُمۡ كَعَصۡفٍ مَّأۡكُولٍ ﴿٥﴾
 >
 > *"Have you not seen how your Lord dealt with the People of the Elephant? ﴾1﴿ Did He not make their plot go astray? ﴾2﴿ And He sent against them birds in flocks, ﴾3﴿ striking them with stones of baked clay, ﴾4﴿ and He made them like eaten straw. ﴾5﴿"*
-> — QS Al-Fil (105:1-5)
+> — QS. Al-Fil (105): 1-5
 
 Abraha himself was struck by these stones. His body decomposed piece by piece on the journey home, and he died in Sana'a in a wretched state — his flesh falling away until his bones and heart were exposed. Ibn Hisham records these details vividly in his *Sirah Nabawiyyah*.^1
 
@@ -129,4 +129,4 @@ From a trading town in the heart of a barren desert, from an orphan who lost his
 3. Al-Bukhari, *Sahih al-Bukhari*, Kitab al-Manaqib (Dar Tawq al-Najah, 2001).
 4. Muslim, *Sahih Muslim*, Kitab al-Siyam.
 5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, vol. 1 (Beirut: Dar Sadir, 1968).
-6. Al-Qur'an al-Karim. QS. Quraysh (106): 1-4.
+6. Al-Qur'an al-Karim. QS. Al-Fil (105): 1-5; QS. Quraysh (106): 1-4.

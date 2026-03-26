@@ -2,105 +2,105 @@
 
 ## Konteks Sejarah
 
-Pada tahun 1478 M, **Inkuisisi Spanyol** resmi didirikan oleh Raja Ferdinand dan Ratu Isabella dengan persetujuan Paus Sixtus IV. Institusi ini menjadi salah satu episode paling kelam dalam sejarah peradaban, khususnya bagi komunitas Muslim di Semenanjung Iberia. Inkuisisi tidak hanya menargetkan individual, tetapi juga systematically menghancurkan khazanah intelektual Islam yang telah dibangun selama hampir delapan abad di Al-Andalus.^1
+Pada tahun 1478 M, **Inkuisisi Spanyol** resmi didirikan oleh Raja Ferdinand dan Ratu Isabella dengan persetujuan Paus Sixtus IV. Institusi ini menjadi salah satu episode paling kelam dalam sejarah peradaban, khususnya bagi komunitas Muslim di Semenanjung Iberia. Inkuisisi tidak hanya menargetkan individu, tetapi juga secara sistematis menghancurkan khazanah intelektual Islam yang telah dibangun selama hampir delapan abad di Al-Andalus.^1
 
-Masa ini menandai akhir dari era keemasan Islam di Eropa. Granada, kerajaan Muslim terakhir di Iberia, jatuh pada tahun 1492 M. Setelah conquest, pihak Kristen Spanyol mulai implementing kebijakan forced conversion dan cultural annihilation terhadap populasi Muslim (Mudéjar) dan Jewish yang tersisa.^2
+Masa ini menandai akhir dari era keemasan Islam di Eropa. Granada, kerajaan Muslim terakhir di Iberia, jatuh pada tahun 1492 M. Setelah penaklukan, pihak Kristen Spanyol mulai menerapkan kebijakan konversi paksa dan pemusnahan budaya terhadap populasi Muslim (Mudéjar) dan Yahudi yang tersisa.^2
 
 ## Cardinal Cisneros dan Pembakaran Buku
 
-### Systematic Destruction
+### Penghancuran Sistematis
 
-**Francisco Jiménez de Cisneros**, Cardinal dan Konfessor Ratu Isabella, memimpin campaign systematic untuk menghancurkan manuscripts dan buku-buku Islam. Pada tahun 1499 M, dia memerintahkan pembakaran massal lebih dari satu juta manuscript Islam di Plaza Bib-Rambla, Granada. Event ini merupakan salah satu acts cultural vandalism terbesar dalam sejarah manusia.^3
+**Francisco Jiménez de Cisneros**, Cardinal dan Konfessor Ratu Isabella, memimpin kampanye sistematis untuk menghancurkan manuskrip dan buku-buku Islam. Pada tahun 1499 M, dia memerintahkan pembakaran massal lebih dari satu juta manuskrip Islam di Plaza Bib-Rambla, Granada. Peristiwa ini merupakan salah satu tindakan vandalisme budaya terbesar dalam sejarah manusia.^3
 
-Pembakaran ini bukan sekadar tindakan religious fanaticism, tetapi strategic effort untuk eliminate Islamic intellectual tradition dari Eropa. Manuscripts yang dibakar termasuk:
+Pembakaran ini bukan sekadar tindakan fanatisme agama, tetapi upaya strategis untuk menghapuskan tradisi intelektual Islam dari Eropa. Manuskrip yang dibakar termasuk:
 
-**Scientific works**: Karya-karya matematika, astronomi, kedokteran, dan filosofi. **Religious texts**: Mushaf Al-Quran, tafsir, hadith collections, dan fiqh. **Literary works**: Poetry, history, dan sastra Arab-Andalusi. **Translation works**: Translations dari Greek classics ke Arab yang kemudian diterjemahkan ke Latin.
+**Karya-karya ilmiah**: Karya-karya matematika, astronomi, kedokteran, dan filosofi. **Teks-teks agama**: Mushaf Al-Quran, tafsir, koleksi hadis, dan fiqh. **Karya sastra**: Puisi, sejarah, dan sastra Arab-Andalusi. **Karya terjemahan**: Terjemahan dari klasik Yunani ke Arab yang kemudian diterjemahkan ke Latin.
 
-### Impact on Knowledge Preservation
+### Dampak terhadap Pelestarian Ilmu
 
-Destruction ini memiliki consequences yang devastating untuk preservation knowledge. Banyak karya ilmiah yang hanya exists dalam manuscript Arab hilang selamanya. Works dari scholars Islamic Andalusi seperti **Ibn Rushd**, **Ibn Arabi**, dan **Ibn Hazm** - yang telah mempengaruhi intellectual development Eropa - mulai disappear dari libraries.^4
+Penghancuran ini memiliki konsekuensi yang dahsyat bagi pelestarian ilmu pengetahuan. Banyak karya ilmiah yang hanya ada dalam manuskrip Arab hilang selamanya. Karya-karya dari cendekiawan Islam Andalusi seperti **Ibn Rushd**, **Ibn Arabi**, dan **Ibn Hazm** - yang telah mempengaruhi perkembangan intelektual Eropa - mulai menghilang dari perpustakaan.^4
 
-Ironically, many of these Islamic manuscripts mengandung translations dan commentaries dari Greek philosophical dan scientific works yang kemudian menjadi foundation Renaissance Eropa. Destruction ini effectively severed crucial link dalam intellectual chain of transmission.
+Ironisnya, banyak dari manuskrip Islam ini mengandung terjemahan dan komentar dari karya-karya filosofis dan ilmiah Yunani yang kemudian menjadi fondasi Renaissance Eropa. Penghancuran ini secara efektif memutus mata rantai penting dalam transmisi intelektual.
 
-## Forced Conversion dan Moriscos
+## Konversi Paksa dan Moriscos
 
-### Policy of Religious Coercion
+### Kebijakan Pemaksaan Agama
 
-Setelah conquest Granada, Muslims diberi ultimatum: convert ke Christianity, exile, atau menghadapi death. Banyak yang memilih convert secara outward untuk survival sambil secretly maintaining Islamic practices. Converted Muslims ini dikenal sebagai **Moriscos** (little Moors).^1
+Setelah penaklukan Granada, Muslim diberi ultimatum: masuk Kristen, pengasingan, atau menghadapi kematian. Banyak yang memilih masuk Kristen secara lahiriah untuk bertahan hidup sambil diam-diam mempertahankan praktik Islam. Muslim yang telah dikonversi ini dikenal sebagai ***Moriscos*** (little Moors).^1
 
-Namun, even setelah conversion, Moriscos terus facing suspicion dan persecution. Inkuisisi systematically investigated mereka untuk signs of "relapse" ke Islam. Practices seperti:
+Namun, bahkan setelah konversi, *Moriscos* terus menghadapi kecurigaan dan penganiayaan. Inkuisisi secara sistematis menyelidiki mereka untuk mencari tanda-tanda "kemurtadan" ke Islam. Praktik seperti:
 
-**Ritual cleanliness**: Frequent bathing atau washing before prayer. **Dietary habits**: Avoiding pork atau wine. **Calendar observance**: Fasting selama Ramadan atau celebrating Islamic holidays. **Language use**: Speaking Arabic atau reading Arabic texts.
+**Kebersihan ritual**: Mandi sering atau mencuci sebelum salat. **Kebiasaan makanan**: Menghindari daging babi atau anggur. **Perayaan kalender**: Berpuasa selama Ramadan atau merayakan hari raya Islam. **Penggunaan bahasa**: Berbicara Arab atau membaca teks-teks Arab.
 
-### Underground Islamic Culture
+### Budaya Islam Bawah Tanah
 
-Despite persecution, significant portion Morisco population berhasil maintaining Islamic identity secara secret. Mereka developed sophisticated networks untuk:
+Meskipun mengalami penganiayaan, sebagian besar populasi *Morisco* berhasil mempertahankan identitas Islam secara rahasia. Mereka mengembangkan jaringan canggih untuk:
 
-**Preserve religious texts**: Hiding Qurans dan Islamic books dalam false walls atau buried locations. **Maintain religious practices**: Conducting secret prayers, fasting, dan Islamic ceremonies. **Transmit knowledge**: Teaching Arabic literacy dan Islamic theology kepada children. **Economic cooperation**: Supporting each other through Islamic commercial networks.^2
+**Melestarikan teks agama**: Menyembunyikan Al-Quran dan buku-buku Islam dalam dinding palsu atau lokasi yang dikubur. **Mempertahankan praktik agama**: Melakukan salat rahasia, puasa, dan upacara Islam. **Mentransmisikan pengetahuan**: Mengajarkan literasi Arab dan teologi Islam kepada anak-anak. **Kerja sama ekonomi**: Saling mendukung melalui jaringan komersial Islam.^2
 
-## The Aljamiado Literature
+## Sastra Aljamiado
 
-### Unique Cultural Response
+### Respons Budaya Unik
 
-Faced dengan prohibition dari Arabic texts, Morisco communities developed unique literary tradition called **Aljamiado** - Islamic texts ditulis dalam Spanish atau Aragonese menggunakan Arabic script. Ini merupakan remarkable example cultural resistance dan adaptation.^3
+Menghadapi larangan terhadap teks-teks Arab, komunitas *Morisco* mengembangkan tradisi sastra unik yang disebut ***Aljamiado*** - teks Islam yang ditulis dalam bahasa Spanyol atau Aragon menggunakan aksara Arab. Ini merupakan contoh luar biasa dari perlawanan dan adaptasi budaya.^3
 
-Aljamiado works included:
+Karya-karya *Aljamiado* meliputi:
 
-**Religious guidance**: Islamic theology dan jurisprudence ditulis untuk communities yang losing access to Arabic texts. **Historical accounts**: Narratives tentang Islamic history dan prophecies. **Literary works**: Poetry dan stories yang maintaining Islamic themes. **Practical manuals**: Instructions untuk Islamic rituals dan practices.
+**Bimbingan agama**: Teologi dan yurisprudensi Islam yang ditulis untuk komunitas yang kehilangan akses ke teks-teks Arab. **Catatan sejarah**: Narasi tentang sejarah dan ramalan Islam. **Karya sastra**: Puisi dan cerita yang mempertahankan tema-tema Islam. **Manual praktis**: Petunjuk untuk ritual dan praktik Islam.
 
-Development Aljamiado literature showed incredible resilience Islamic culture bahkan under extreme oppression. Texts ini often hidden dalam walls, buried underground, atau concealed dalam other books.
+Perkembangan sastra *Aljamiado* menunjukkan ketahanan luar biasa budaya Islam bahkan di bawah penindasan yang ekstrem. Teks-teks ini sering disembunyikan dalam dinding, dikubur di bawah tanah, atau disembunyikan dalam buku lain.
 
-## Economic dan Social Impact
+## Dampak Ekonomi dan Sosial
 
-### Disruption of Islamic Economy
+### Gangguan terhadap Ekonomi Islam
 
-Islamic commercial networks yang had been backbone of Andalusi economy foram systematically dismantled. Muslim merchants, artisans, dan professionals were forced untuk abandon established businesses atau convert. Many chose exile, leading to massive brain drain.^4
+Jaringan komersial Islam yang telah menjadi tulang punggung ekonomi Andalusi dibongkar secara sistematis. Pedagang, pengrajin, dan profesional Muslim dipaksa untuk meninggalkan bisnis yang telah mapan atau masuk Kristen. Banyak yang memilih pengasingan, yang menyebabkan pelarian bakat-bakat terbaik secara massal.^4
 
-Industries yang traditionally dominated by Muslims - seperti silk production, metalwork, leather crafts, dan agriculture - experienced severe decline. Knowledge dan techniques yang had been passed down through generations foram lost or suppressed.
+Industri yang secara tradisional dikuasai oleh Muslim - seperti produksi sutra, pengerjaan logam, kerajinan kulit, dan pertanian - mengalami penurunan yang parah. Pengetahuan dan teknik yang telah diwariskan turun-temurun hilang atau ditekan.
 
-### Demographic Transformation
+### Transformasi Demografi
 
-Forced conversions dan mass emigration drastically changed demographic composition Iberian Peninsula. Communities yang had existed untuk centuries foram dispersed atau destroyed. Social fabric yang had evolved selama period convivencia (coexistence) antara Christians, Muslims, dan Jews foram torn apart.
+Konversi paksa dan emigrasi massal secara drastis mengubah komposisi demografi Semenanjung Iberia. Komunitas yang telah ada selama berabad-abad bubar atau hancur. Tatanan sosial yang telah berkembang selama periode *convivencia* (hidup berdampingan) antara Kristen, Muslim, dan Yahudi robek berantakan.
 
-## International Ramifications
+## Dampak Internasional
 
-### Refugee Crisis
+### Krisis Pengungsi
 
-Persecution di Spain triggered massive refugee movements. Andalusi Muslims fled untuk:
+Penganiayaan di Spanyol memicu pergerakan pengungsi besar-besaran. Muslim Andalusi melarikan diri ke:
 
-**North Africa**: Morocco, Tunisia, dan Algeria received hundreds of thousands refugees. **Ottoman Empire**: Many found sanctuary dalam Ottoman territories di Balkans dan Eastern Mediterranean. **Other European territories**: Some sought refuge dalam more tolerant regions.^1
+**Afrika Utara**: Maroko, Tunisia, dan Aljazair menerima ratusan ribu pengungsi. **Kekaisaran Ottoman**: Banyak yang menemukan perlindungan di wilayah Ottoman di Balkan dan Mediterania Timur. **Wilayah Eropa lainnya**: Beberapa mencari perlindungan di wilayah yang lebih toleran.^1
 
-These refugees brought dengan mereka valuable skills, knowledge, dan cultural traditions yang enriched their new homelands. Paradoxically, Spain's loss became gain untuk other regions.
+Pengungsi ini membawa serta keterampilan berharga, pengetahuan, dan tradisi budaya yang memperkaya tanah air baru mereka. Secara paradoks, kerugian Spanyol menjadi keuntungan bagi wilayah lain.
 
-### Diplomatic Consequences
+### Konsekuensi Diplomatik
 
-Inkuisisi policies created tensions dengan Ottoman Empire, yang saw itself sebagai protector of Muslims worldwide. Sultan Ottoman **Bayezid II** sent ships untuk evacuate Spanish Muslims dan offered them settlements dalam Ottoman territories.^2
+Kebijakan Inkuisisi menciptakan ketegangan dengan Kekaisaran Ottoman, yang melihat dirinya sebagai pelindung Muslim di seluruh dunia. Sultan Ottoman **Bayezid II** mengirim kapal untuk mengevakuasi Muslim Spanyol dan menawarkan mereka pemukiman di wilayah Ottoman.^2
 
-## Resistance dan Revolts
+## Perlawanan dan Pemberontakan
 
-### Alpujarras Rebellion
+### Pemberontakan Alpujarras
 
-Escalating persecution finally triggered open rebellion. **War of the Alpujarras** (1568-1571 M) merupakan last major attempt Moriscos untuk assert their rights dan maintain their cultural identity. Led by figures seperti **Aben Humeya** (Fernando de Córdoba y Valor), rebellion showed desperate courage of oppressed community.^3
+Penganiayaan yang meningkat akhirnya memicu pemberontakan terbuka. **Perang Alpujarras** (1568-1571 M) merupakan upaya besar terakhir *Moriscos* untuk menegaskan hak-hak mereka dan mempertahankan identitas budaya mereka. Dipimpin oleh tokoh seperti **Aben Humeya** (Fernando de Córdoba y Valor), pemberontakan menunjukkan keberanian putus asa dari komunitas yang tertindas.^3
 
-Meskipun ultimately unsuccessful, rebellion demonstrated bahwa Islamic identity remained strong among Morisco populations despite decades of persecution. Savage suppression rebellion led untuk even more severe restrictions dan eventual expulsion.
+Meskipun pada akhirnya tidak berhasil, pemberontakan menunjukkan bahwa identitas Islam tetap kuat di antara populasi *Morisco* meskipun mengalami penganiayaan selama puluhan tahun. Penindasan brutal terhadap pemberontakan menyebabkan pembatasan yang lebih parah dan pengusiran akhir.
 
-### Final Expulsion (1609-1614)
+### Pengusiran Terakhir (1609-1614)
 
-Under **Philip III**, Spain implemented final solution: mass expulsion semua Moriscos dari península. Approximately 300,000-400,000 people were expelled, effectively ending eight centuries Islamic presence di Iberian Peninsula.^4
+Di bawah **Philip III**, Spanyol menerapkan solusi akhir: pengusiran massal semua *Moriscos* dari semenanjung. Sekitar 300.000-400.000 orang diusir, yang secara efektif mengakhiri kehadiran Islam selama delapan abad di Semenanjung Iberia.^4
 
-## Legacy dan Lessons
+## Warisan dan Pelajaran
 
-### Loss untuk Humanity
+### Kehilangan bagi Kemanusiaan
 
-Destruction Islamic civilization di Spain represents one of history's greatest cultural catastrophes. Loss manuscripts, architectural monuments, dan intellectual traditions impoverished not only Islamic world tetapi entire humanity. Many scientific dan philosophical works yang could have advanced human knowledge foram lost forever.
+Penghancuran peradaban Islam di Spanyol merupakan salah satu bencana budaya terbesar dalam sejarah. Hilangnya manuskrip, monumen arsitektur, dan tradisi intelektual tidak hanya memiskinkan dunia Islam tetapi seluruh kemanusiaan. Banyak karya ilmiah dan filosofis yang bisa memajukan pengetahuan manusia hilang selamanya.
 
-### Patterns of Intolerance
+### Pola Intoleransi
 
-Inkuisisi Spanyol established templates untuk religious persecution yang would be repeated throughout history. Methods yang used - systematic discrimination, forced conversion, cultural destruction, dan mass deportation - became models untuk later episodes ethnic cleansing.
+Inkuisisi Spanyol menetapkan template untuk penganiayaan agama yang akan diulang sepanjang sejarah. Metode yang digunakan - diskriminasi sistematis, konversi paksa, penghancuran budaya, dan deportasi massal - menjadi model untuk episode-episode pembersihan etnis kemudian.
 
-### Lessons tentang Coexistence
+### Pelajaran tentang Hidup Berdampingan
 
-Tragedy Spanish Inquisition mengingatkan kita tentang fragility multicultural societies dan importance protecting minority rights. Period convivencia sebelumnya dalam Al-Andalus had shown bahwa different religious communities could coexist dan mutually enrich each other.
+Tragedi Inkuisisi Spanyol mengingatkan kita tentang kerapuhan masyarakat multikultural dan pentingnya melindungi hak-hak minoritas. Periode *convivencia* sebelumnya dalam Al-Andalus telah menunjukkan bahwa komunitas agama yang berbeda dapat hidup berdampingan dan saling memperkaya.
 
 > وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ ﴿١٥١﴾
 >
