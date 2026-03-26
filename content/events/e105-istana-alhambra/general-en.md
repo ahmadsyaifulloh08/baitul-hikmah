@@ -2,9 +2,9 @@
 
 ## Historical Context
 
-**Alhambra Palace** (Al-Hamra, "The Red One") in Granada is a masterpiece of Islamic architecture in Europe and testimony to the sophisticated civilization that developed in Al-Andalus. Built gradually between 1238-1358 CE during the era of the **Nasrid Dynasty**, this palace represents a perfect synthesis of functionality, aesthetics, and spirituality in Islamic architecture.^1
+**Alhambra Palace** (Al-Hamra, "The Red One") in Granada is a masterpiece of Islamic architecture in Europe and testimony to the sophisticated civilization that developed in Al-Andalus. Built gradually between 1238-1358 CE during the era of the **Nasrid Dynasty**, this palace represents a perfect synthesis of functionality, aesthetics, and spirituality in Islamic architecture.^3
 
-Alhambra was not just a palace, but a complex city that included royal palaces, defensive fortifications, mosques, residential quarters, gardens, and administrative buildings. Its location on Sabika Hill provided a strategic military position while offering breathtaking views of Granada and the Sierra Nevada mountains. This construction was a response to political pressure from the advancing Christian Reconquista.^2
+Alhambra was not just a palace, but a complex city that included royal palaces, defensive fortifications, mosques, residential quarters, gardens, and administrative buildings. Its location on Sabika Hill provided a strategic military position while offering breathtaking views of Granada and the Sierra Nevada mountains. This construction was a response to political pressure from the advancing Christian Reconquista.^3
 
 ## Muhammad I ibn al-Ahmar: Founder of the Vision
 
@@ -18,7 +18,7 @@ Muhammad I understood that survival required not only military strength but also
 
 The construction of Alhambra represented a strategic multi-layered approach:
 
-**Military defense**: Strong fortifications to protect against Christian attacks. **Political legitimacy**: Magnificent architecture to assert royal authority. **Cultural preservation**: Space to maintain Islamic arts, sciences, and literature. **Economic center**: Hub for trade and craftsmanship sustaining the kingdom.^4
+**Military defense**: Strong fortifications to protect against Christian attacks. **Political legitimacy**: Magnificent architecture to assert royal authority. **Cultural preservation**: Space to maintain Islamic arts, sciences, and literature. **Economic center**: Hub for trade and craftsmanship sustaining the kingdom.^3
 
 ## Architectural Masterpiece
 
@@ -34,13 +34,13 @@ One of the most remarkable features of Alhambra is its sophisticated water manag
 
 ### Key Architectural Spaces
 
-**Nasrid Palaces**: Private royal apartments with intimate courtyards and elaborate decoration. **Court of Lions**: Famous courtyard with twelve lion fountain, representing earthly paradise. **Hall of Ambassadors**: Throne room with spectacular muqarnas dome representing the celestial sphere. **Generalife**: Summer palace with extensive gardens celebrating Islamic garden tradition.^3
+**Nasrid Palaces**: Private royal apartments with intimate courtyards and elaborate decoration. **Court of Lions**: Famous courtyard with twelve lion fountain, representing earthly paradise. **Hall of Ambassadors**: Throne room with spectacular muqarnas dome representing the celestial sphere. **Generalife**: Summer palace with extensive gardens celebrating Islamic garden tradition.^1
 
 ## Cultural and Intellectual Center
 
 ### Patronage of Arts and Sciences
 
-Nasrid rulers, particularly **Yusuf I** (1333-1354 CE) and **Muhammad V** (1354-1391 CE), transformed Alhambra into a major intellectual center. The court attracted scholars, poets, artists, and scientists from throughout the Islamic world.^4
+Nasrid rulers, particularly **Yusuf I** (1333-1354 CE) and **Muhammad V** (1354-1391 CE), transformed Alhambra into a major intellectual center. The court attracted scholars, poets, artists, and scientists from throughout the Islamic world.^3
 
 The palace library contained thousands of manuscripts covering subjects from theology and law to mathematics and astronomy. Scholars conducted research, engaged in philosophical debates, and produced works that contributed to the Islamic intellectual tradition.
 
@@ -54,7 +54,7 @@ Poetry integrated into Alhambra includes themes:
 
 ### Musical and Performance Arts
 
-The Alhambra court supported sophisticated musical traditions that blended influences from Arab, Berber, and Iberian cultures. **Andalusi music** performed in palace halls represents a unique synthesis that continued to influence music throughout the Mediterranean region.^2
+The Alhambra court supported sophisticated musical traditions that blended influences from Arab, Berber, and Iberian cultures. **Andalusi music** performed in palace halls represents a unique synthesis that continued to influence music throughout the Mediterranean region.^3
 
 ## Political and Diplomatic Functions
 
@@ -68,7 +68,7 @@ The palace was designed to impress foreign ambassadors and demonstrate Nasrid po
 
 ### Administrative Center
 
-Alhambra functioned as the government seat for the Nasrid state. Administrative buildings within the complex housed bureaucracy that managed kingdom affairs, collected taxes, administered justice, and maintained military forces. This efficient administrative system enabled Granada to survive as an independent Islamic state for nearly two centuries longer than other Iberian Muslim territories.^4
+Alhambra functioned as the government seat for the Nasrid state. Administrative buildings within the complex housed bureaucracy that managed kingdom affairs, collected taxes, administered justice, and maintained military forces. This efficient administrative system enabled Granada to survive as an independent Islamic state for nearly two centuries longer than other Iberian Muslim territories.^3
 
 ## Artistic and Symbolic Elements
 
@@ -114,7 +114,7 @@ Alhambra influenced architectural movements worldwide, inspiring:
 
 Alhambra remains a powerful symbol:
 
-**Islamic cultural achievement**: Demonstration of the high level of civilization reached by medieval Muslims. **Andalusi heritage**: Symbol of the multicultural period in Iberian history. **Artistic inspiration**: Continuing to inspire artists, musicians, and writers worldwide.^1
+**Islamic cultural achievement**: Demonstration of the high level of civilization reached by medieval Muslims. **Andalusi heritage**: Symbol of the multicultural period in Iberian history. **Artistic inspiration**: Continuing to inspire artists, musicians, and writers worldwide.^4
 
 ## Spiritual and Philosophical Significance
 
@@ -124,7 +124,7 @@ Alhambra represents the Islamic concept that beautiful earthly creation can serv
 
 ### Integration of Arts and Spirituality
 
-The complex demonstrates the Islamic principle that arts should serve higher spiritual purposes. Every architectural element - from geometric patterns to calligraphic inscriptions - was designed to enhance spiritual experience and remind visitors of divine presence.^2
+The complex demonstrates the Islamic principle that arts should serve higher spiritual purposes. Every architectural element - from geometric patterns to calligraphic inscriptions - was designed to enhance spiritual experience and remind visitors of divine presence.^1
 
 ## Wisdom and Lessons
 

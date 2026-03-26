@@ -2,9 +2,9 @@
 
 ## Konteks Historis
 
-**Istana Alhambra** (Al-Hamra, "Yang Merah") di Granada merupakan mahakarya arsitektur Islam di Eropa dan kesaksian tentang peradaban canggih yang berkembang di Al-Andalus. Dibangun secara bertahap antara tahun 1238-1358 M selama era **Dinasti Nasrid**, istana ini mewakili sintesis sempurna antara fungsionalitas, estetika, dan spiritualitas dalam arsitektur Islam.^1
+**Istana Alhambra** (Al-Hamra, "Yang Merah") di Granada merupakan mahakarya arsitektur Islam di Eropa dan kesaksian tentang peradaban canggih yang berkembang di Al-Andalus. Dibangun secara bertahap antara tahun 1238-1358 M selama era **Dinasti Nasrid**, istana ini mewakili sintesis sempurna antara fungsionalitas, estetika, dan spiritualitas dalam arsitektur Islam.^3
 
-Alhambra tidak hanya istana, tetapi kompleks kota yang mencakup istana kerajaan, benteng pertahanan, masjid, kompleks hunian, taman, dan bangunan administratif. Lokasinya di Sabika Hill memberikan posisi militer strategis sambil menyediakan pemandangan menakjubkan Granada dan pegunungan Sierra Nevada. Konstruksi ini merupakan respons terhadap tekanan politik dari kemajuan Reconquista Kristen.^2
+Alhambra tidak hanya istana, tetapi kompleks kota yang mencakup istana kerajaan, benteng pertahanan, masjid, kompleks hunian, taman, dan bangunan administratif. Lokasinya di Sabika Hill memberikan posisi militer strategis sambil menyediakan pemandangan menakjubkan Granada dan pegunungan Sierra Nevada. Konstruksi ini merupakan respons terhadap tekanan politik dari kemajuan Reconquista Kristen.^3
 
 ## Muhammad I ibn al-Ahmar: Pendiri Visi
 
@@ -18,7 +18,7 @@ Muhammad I memahami bahwa kelangsungan hidup tidak hanya memerlukan kekuatan mil
 
 Konstruksi Alhambra mewakili pendekatan strategis berlapis:
 
-**Pertahanan militer**: Benteng yang kuat untuk melindungi terhadap serangan Kristen. **Legitimasi politik**: Arsitektur yang megah untuk menegaskan otoritas kerajaan. **Pelestarian budaya**: Ruang untuk mempertahankan seni, sains, dan sastra Islam. **Pusat ekonomi**: Pusat perdagangan dan kerajinan yang menopang kerajaan.^4
+**Pertahanan militer**: Benteng yang kuat untuk melindungi terhadap serangan Kristen. **Legitimasi politik**: Arsitektur yang megah untuk menegaskan otoritas kerajaan. **Pelestarian budaya**: Ruang untuk mempertahankan seni, sains, dan sastra Islam. **Pusat ekonomi**: Pusat perdagangan dan kerajinan yang menopang kerajaan.^3
 
 ## Mahakarya Arsitektur
 
@@ -34,13 +34,13 @@ Salah satu fitur paling luar biasa dari Alhambra adalah sistem manajemen air yan
 
 ### Ruang Arsitektur Kunci
 
-**Istana Nasrid**: Apartemen kerajaan pribadi dengan halaman intim dan dekorasi yang rumit. **Halaman Singa**: Halaman terkenal dengan air mancur dua belas singa, mewakili surga duniawi. **Aula Duta Besar**: Ruang tahta dengan kubah muqarnas spektakuler yang mewakili lingkup surgawi. **Generalife**: Istana musim panas dengan taman yang luas merayakan tradisi taman Islam.^3
+**Istana Nasrid**: Apartemen kerajaan pribadi dengan halaman intim dan dekorasi yang rumit. **Halaman Singa**: Halaman terkenal dengan air mancur dua belas singa, mewakili surga duniawi. **Aula Duta Besar**: Ruang tahta dengan kubah muqarnas spektakuler yang mewakili lingkup surgawi. **Generalife**: Istana musim panas dengan taman yang luas merayakan tradisi taman Islam.^1
 
 ## Pusat Budaya dan Intelektual
 
 ### Patronase Seni dan Sains
 
-Para penguasa Nasrid, khususnya **Yusuf I** (1333-1354 M) dan **Muhammad V** (1354-1391 M), mengubah Alhambra menjadi pusat intelektual utama. Istana menarik sarjana, penyair, seniman, dan ilmuwan dari seluruh dunia Islam.^4
+Para penguasa Nasrid, khususnya **Yusuf I** (1333-1354 M) dan **Muhammad V** (1354-1391 M), mengubah Alhambra menjadi pusat intelektual utama. Istana menarik sarjana, penyair, seniman, dan ilmuwan dari seluruh dunia Islam.^3
 
 Perpustakaan istana berisi ribuan manuskrip yang mencakup mata pelajaran dari teologi dan hukum hingga matematika dan astronomi. Para sarjana melakukan penelitian, terlibat dalam perdebatan filosofis, dan menghasilkan karya yang berkontribusi pada tradisi intelektual Islam.
 
@@ -54,7 +54,7 @@ Puisi yang terintegrasi dalam Alhambra meliputi tema:
 
 ### Seni Musik dan Pertunjukan
 
-Istana Alhambra mendukung tradisi musik yang canggih yang memadukan pengaruh dari budaya Arab, Berber, dan Iberia. **Musik Andalusi** yang dilakukan di aula istana mewakili sintesis unik yang terus mempengaruhi musik di seluruh wilayah Mediterania.^2
+Istana Alhambra mendukung tradisi musik yang canggih yang memadukan pengaruh dari budaya Arab, Berber, dan Iberia. **Musik Andalusi** yang dilakukan di aula istana mewakili sintesis unik yang terus mempengaruhi musik di seluruh wilayah Mediterania.^3
 
 ## Fungsi Politik dan Diplomatik
 
@@ -68,7 +68,7 @@ Istana dirancang untuk mengesankan duta besar asing dan menunjukkan kekuasaan Na
 
 ### Pusat Administratif
 
-Alhambra berfungsi sebagai tempat kedudukan pemerintah untuk negara Nasrid. Bangunan administratif dalam kompleks menampung birokrasi yang mengelola urusan kerajaan, mengumpulkan pajak, mengadministrasikan keadilan, dan mempertahankan kekuatan militer. Sistem administratif yang efisien memungkinkan Granada untuk bertahan sebagai negara Islam independen selama hampir dua abad lebih lama dari wilayah Muslim Iberia lainnya.^4
+Alhambra berfungsi sebagai tempat kedudukan pemerintah untuk negara Nasrid. Bangunan administratif dalam kompleks menampung birokrasi yang mengelola urusan kerajaan, mengumpulkan pajak, mengadministrasikan keadilan, dan mempertahankan kekuatan militer. Sistem administratif yang efisien memungkinkan Granada untuk bertahan sebagai negara Islam independen selama hampir dua abad lebih lama dari wilayah Muslim Iberia lainnya.^3
 
 ## Elemen Artistik dan Simbolik
 
@@ -114,7 +114,7 @@ Alhambra mempengaruhi gerakan arsitektur di seluruh dunia, menginspirasi:
 
 Alhambra tetap menjadi simbol yang kuat:
 
-**Pencapaian budaya Islam**: Demonstrasi tingkat peradaban tinggi yang dicapai oleh Muslim abad pertengahan. **Warisan Andalusi**: Simbol periode multikultural dalam sejarah Iberia. **Inspirasi artistik**: Terus menginspirasi seniman, musisi, dan penulis di seluruh dunia.^1
+**Pencapaian budaya Islam**: Demonstrasi tingkat peradaban tinggi yang dicapai oleh Muslim abad pertengahan. **Warisan Andalusi**: Simbol periode multikultural dalam sejarah Iberia. **Inspirasi artistik**: Terus menginspirasi seniman, musisi, dan penulis di seluruh dunia.^4
 
 ## Signifikansi Spiritual dan Filosofis
 
@@ -124,7 +124,7 @@ Alhambra mewakili konsep Islam bahwa ciptaan duniawi yang indah dapat berfungsi 
 
 ### Integrasi Seni dan Spiritualitas
 
-Kompleks menunjukkan prinsip Islam bahwa seni harus melayani tujuan spiritual yang lebih tinggi. Setiap elemen arsitektur - dari pola geometris hingga prasasti kaligrafi - dirancang untuk meningkatkan pengalaman spiritual dan mengingatkan pengunjung tentang kehadiran ilahi.^2
+Kompleks menunjukkan prinsip Islam bahwa seni harus melayani tujuan spiritual yang lebih tinggi. Setiap elemen arsitektur - dari pola geometris hingga prasasti kaligrafi - dirancang untuk meningkatkan pengalaman spiritual dan mengingatkan pengunjung tentang kehadiran ilahi.^1
 
 ## Hikmah dan Pelajaran
 

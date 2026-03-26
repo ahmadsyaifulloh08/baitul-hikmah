@@ -44,81 +44,81 @@ This heterogeneous composition of Byzantine forces became a significant weakness
 
 The battle began on the morning of August 26, 1071 CE on the plains near the city of Manzikert (now Malazgirt, Eastern Turkey).^13 Alp Arslan used classic steppe tactics: attacking with light cavalry, tactically retreating to draw the enemy out of formation, then launching devastating counterattacks.
 
-Byzantine forces initially advanced in traditional formation, with heavy infantry in the center and cavalry on the flanks. However, they struggled to cope with the high mobility of Seljuk forces that continuously attacked and retreated without providing opportunities for close combat.^14
+Byzantine forces initially advanced in traditional formation, with heavy infantry in the center and cavalry on the flanks. However, they struggled to cope with the high mobility of Seljuk forces that continuously attacked and retreated without providing opportunities for close combat.^13
 
 ### Crisis and Collapse of Byzantine Formation
 
-The turning point of the battle occurred when rumors spread that Emperor Romanos had been killed. Although this rumor was false, it created panic in Byzantine ranks.^15 Several units began to retreat, creating gaps in the formation that were immediately exploited by Seljuk forces.
+The turning point of the battle occurred when rumors spread that Emperor Romanos had been killed. Although this rumor was false, it created panic in Byzantine ranks.^13 Several units began to retreat, creating gaps in the formation that were immediately exploited by Seljuk forces.
 
-**Andronikos Doukas**, who commanded the rear guard and had political rivalry with Romanos, allegedly deliberately spread rumors of the emperor's death to weaken his political position.^16 This action, whether intentional or not, significantly contributed to the collapse of Byzantine morale.
+**Andronikos Doukas**, who commanded the rear guard and had political rivalry with Romanos, allegedly deliberately spread rumors of the emperor's death to weaken his political position.^14 This action, whether intentional or not, significantly contributed to the collapse of Byzantine morale.
 
 ### Capture of Emperor Romanos IV
 
-In the ensuing chaos, Emperor Romanos IV became separated from his main force and was wounded in battle. He was eventually captured by Seljuk forces and brought before Alp Arslan.^17 The capture of a Byzantine emperor by his enemies was an extremely rare event in history and had extraordinary psychological impact.
+In the ensuing chaos, Emperor Romanos IV became separated from his main force and was wounded in battle. He was eventually captured by Seljuk forces and brought before Alp Arslan.^15 The capture of a Byzantine emperor by his enemies was an extremely rare event in history and had extraordinary psychological impact.
 
 ## Post-Battle Diplomacy
 
 ### Treatment of the Captured Emperor
 
-Alp Arslan showed remarkable conduct in treating Romanos IV. Rather than killing or humiliating his enemy emperor, Alp Arslan treated him with respect according to Islamic chivalric traditions and steppe customs.^18 They conducted negotiations that resulted in a peace treaty.
+Alp Arslan showed remarkable conduct in treating Romanos IV. Rather than killing or humiliating his enemy emperor, Alp Arslan treated him with respect according to Islamic chivalric traditions and steppe customs.^16 They conducted negotiations that resulted in a peace treaty.
 
-The treaty stipulated that Romanos would be released after paying a ransom of 10 million gold *nomismata*, surrendering several frontier fortresses, and sending Byzantine troops to assist the Seljuks in campaigns against their enemies.^19
+The treaty stipulated that Romanos would be released after paying a ransom of 10 million gold *nomismata*, surrendering several frontier fortresses, and sending Byzantine troops to assist the Seljuks in campaigns against their enemies.^17
 
 The victory at Manzikert teaches that success in warfare is determined not only by the number of troops, but also by unity of command, proper strategy, and the ability to exploit enemy weaknesses. Alp Arslan's chivalrous attitude toward the defeated enemy demonstrates the noble values that should be maintained even in victory.
 
 ### Political Complications in Constantinople
 
-When news of the defeat and capture of Romanos reached Constantinople, tremendous political upheaval occurred. **The Doukas family**, who had been Romanos' political rivals, took advantage of the situation to regain power.^21 They refused to pay the ransom and instead announced Romanos' deposition.
+When news of the defeat and capture of Romanos reached Constantinople, tremendous political upheaval occurred. **The Doukas family**, who had been Romanos' political rivals, took advantage of the situation to regain power.^18 They refused to pay the ransom and instead announced Romanos' deposition.
 
-This situation placed Alp Arslan in a diplomatic dilemma. He had made an agreement with someone who apparently no longer had political authority in his country.^22 However, Alp Arslan kept his promise and freed Romanos unconditionally, demonstrating high personal integrity.
+This situation placed Alp Arslan in a diplomatic dilemma. He had made an agreement with someone who apparently no longer had political authority in his country.^16 However, Alp Arslan kept his promise and freed Romanos unconditionally, demonstrating high personal integrity.
 
 ## Long-term Consequences
 
 ### Transformation of Anatolia
 
-The victory at Manzikert opened the way for massive migration of Turkmen tribes into Anatolia. This process called "*Turkification of Anatolia*" lasted for several centuries and fundamentally changed the demography, culture, and religion of the region.^23
+The victory at Manzikert opened the way for massive migration of Turkmen tribes into Anatolia. This process called "*Turkification of Anatolia*" lasted for several centuries and fundamentally changed the demography, culture, and religion of the region.^19
 
-**Sulayman ibn Qutalmish**, Alp Arslan's cousin, established the Sultanate of Rum with its capital in Nicaea (Iznik) in 1077 CE.^24 This sultanate became the direct successor to the Manzikert victory and the center of Anatolia's Islamization.
+**Sulayman ibn Qutalmish**, Alp Arslan's cousin, established the Sultanate of Rum with its capital in Nicaea (Iznik) in 1077 CE.^20 This sultanate became the direct successor to the Manzikert victory and the center of Anatolia's Islamization.
 
 ### Impact on the Crusades
 
-The loss of Anatolia forced Byzantium to seek military assistance from the West. The request for help from **Emperor Alexios I Komnenos** to **Pope Urban II** in 1095 CE became one of the factors that triggered the First Crusade.^25
+The loss of Anatolia forced Byzantium to seek military assistance from the West. The request for help from **Emperor Alexios I Komnenos** to **Pope Urban II** in 1095 CE became one of the factors that triggered the First Crusade.^21
 
-Ironically, the Crusades originally intended to help Byzantium often conflicted with Constantinople's interests. Relations between Byzantium and the Latin West became increasingly complex due to theological and political differences.^26
+Ironically, the Crusades originally intended to help Byzantium often conflicted with Constantinople's interests. Relations between Byzantium and the Latin West became increasingly complex due to theological and political differences.^22
 
 ### Shift in Balance of Power
 
-Manzikert marked the end of Byzantine dominance in Asia Minor that had lasted for more than 400 years.^27 This victory also confirmed the Seljuk position as the dominant power in the Middle East and opened the way for further expansion westward.
+Manzikert marked the end of Byzantine dominance in Asia Minor that had lasted for more than 400 years.^23 This victory also confirmed the Seljuk position as the dominant power in the Middle East and opened the way for further expansion westward.
 
-This victory had a great psychological impact on the Islamic world. After a relatively defensive period, Muslims once again felt expansive momentum reminiscent of the early golden eras.^28
+This victory had a great psychological impact on the Islamic world. After a relatively defensive period, Muslims once again felt expansive momentum reminiscent of the early golden eras.^24
 
 ## Factors in Seljuk Victory
 
 ### Tactical Superiority and Mobility
 
-Seljuk forces had significant tactical advantages in the form of highly mobile light cavalry. Tactics of "*feigned retreat*" and "*caracole*" (shooting while turning) proved very effective against relatively static Byzantine infantry formations.^29
+Seljuk forces had significant tactical advantages in the form of highly mobile light cavalry. Tactics of "*feigned retreat*" and "*caracole*" (shooting while turning) proved very effective against relatively static Byzantine infantry formations.^25
 
-The survival capabilities of nomadic forces in difficult battlefields also provided logistical advantages. While Byzantine forces depended on long and vulnerable supply lines, Seljuk forces could operate more flexibly.^30
+The survival capabilities of nomadic forces in difficult battlefields also provided logistical advantages. While Byzantine forces depended on long and vulnerable supply lines, Seljuk forces could operate more flexibly.^7
 
 ### Leadership and Cohesion
 
-**Alp Arslan** demonstrated extraordinary leadership, both in strategic preparation and tactical execution of battle. His ability to unite various often-feuding Turkmen tribes was a significant political and military achievement.^31
+**Alp Arslan** demonstrated extraordinary leadership, both in strategic preparation and tactical execution of battle. His ability to unite various often-feuding Turkmen tribes was a significant political and military achievement.^26
 
-Conversely, Byzantine forces suffered from lack of effective leadership and internal cohesion. Political rivalries at court carried over to the battlefield and weakened military effectiveness.^32
+Conversely, Byzantine forces suffered from lack of effective leadership and internal cohesion. Political rivalries at court carried over to the battlefield and weakened military effectiveness.^27
 
 ## Legacy and Historical Lessons
 
 ### Leadership Model in Victory
 
-Alp Arslan's behavior after victory demonstrated a leadership model that combined military strength with political wisdom. His noble treatment of the captured Romanos reflected Islamic chivalric values and steppe traditions emphasizing honor in war.^33
+Alp Arslan's behavior after victory demonstrated a leadership model that combined military strength with political wisdom. His noble treatment of the captured Romanos reflected Islamic chivalric values and steppe traditions emphasizing honor in war.^28
 
 ### Importance of Unity and Cohesion
 
-Manzikert showed that numerical superiority does not always determine battle outcomes. Internal cohesion, effective leadership, and proper strategy can defeat nominally larger forces.^34
+Manzikert showed that numerical superiority does not always determine battle outcomes. Internal cohesion, effective leadership, and proper strategy can defeat nominally larger forces.^29
 
 ### Long-term Impact of Strategic Decisions
 
-Alp Arslan's decision not to exploit the Manzikert victory for a direct attack on Constantinople might have changed the course of history. His focus on consolidation and diplomacy rather than aggressive expansion demonstrated long-term strategic thinking.^35
+Alp Arslan's decision not to exploit the Manzikert victory for a direct attack on Constantinople might have changed the course of history. His focus on consolidation and diplomacy rather than aggressive expansion demonstrated long-term strategic thinking.^30
 
 ---
 
@@ -136,26 +136,21 @@ Alp Arslan's decision not to exploit the Manzikert victory for a direct attack o
 10. Friendly, Alfred, *The Dreadful Day: The Battle of Manzikert*, London: Hutchinson, 1981.
 11. McGeer, Eric, *Sowing the Dragon's Teeth*, Washington: Dumbarton Oaks, 1995.
 12. Shepard, Jonathan, *The Cambridge History of the Byzantine Empire*, Cambridge: Cambridge University Press, 2008.
-13. Grousset, René, *L'Empire du Levant*, Paris: Payot, 1946.
-14. Smail, R. C., *Crusading Warfare*, Cambridge: Cambridge University Press, 1995.
-15. Attaleiates, Michael, *The History*, trans. Anthony Kaldellis, Cambridge: Harvard University Press, 2012.
-16. Choniates, Nicetas, *O City of Byzantium*, trans. Harry Magoulias, Detroit: Wayne State University Press, 1984.
-17. Ibn al-Athir, *Al-Kamil fi al-Tarikh*, 12 vols., Beirut: Dar Sadir, 1979.
-18. Al-Husaini, Sadr al-Din, *Akhbar al-Dawla al-Seljuqiyya*, ed. Muhammad Iqbal, Lahore: University of Punjab, 1933.
-19. Psellus, Michael, *Fourteen Byzantine Rulers*, trans. E. R. A. Sewter, London: Penguin, 1966.
-
-21. Garland, Lynda, *Byzantine Empresses*, London: Routledge, 1999.
-22. Mélikoff, Irène, *La Geste de Melik Danismend*, 2 vols., Paris: Adrien Maisonneuve, 1960.
-23. Turan, Osman, *Selçuklular Zamanında Türkiye*, Istanbul: Boğaziçi Yayınları, 1971.
-24. Rice, Tamara Talbot, *The Seljuks in Asia Minor*, London: Thames and Hudson, 1961.
-25. Runciman, Steven, *A History of the Crusades*, Volume 1, Cambridge: Cambridge University Press, 1951.
-26. Harris, Jonathan, *Byzantium and the Crusades*, London: Hambledon, 2003.
-27. Angold, Michael, *The Byzantine Empire, 1025-1204*, London: Longman, 1984.
-28. Humphreys, R. Stephen, *From Saladin to the Mongols*, Albany: SUNY Press, 1977.
-29. France, John, *Western Warfare in the Age of the Crusades*, Ithaca: Cornell University Press, 1999.
-30. Nicolle, David, *The Age of Charlemagne*, London: Osprey, 1984.
-31. Lambton, A. K. S., *Continuity and Change in Medieval Persia*, Albany: SUNY Press, 1988.
-32. Lilie, Ralph-Johannes, *Byzantium and the Crusader States*, Oxford: Clarendon Press, 1993.
-33. Hillenbrand, Carole, *The Crusades: Islamic Perspectives*, Edinburgh: Edinburgh University Press, 1999.
-34. Oman, Charles, *A History of the Art of War in the Middle Ages*, Volume 1, London: Methuen, 1924.
-35. El-Azhari, Taef, *The Saljuqs of Syria*, Berlin: Klaus Schwarz, 1997.
+13. Attaleiates, Michael, *The History*, trans. Anthony Kaldellis, Cambridge: Harvard University Press, 2012.
+14. Choniates, Nicetas, *O City of Byzantium*, trans. Harry Magoulias, Detroit: Wayne State University Press, 1984.
+15. Ibn al-Athir, *Al-Kamil fi al-Tarikh*, 12 vols., Beirut: Dar Sadir, 1979.
+16. Al-Husaini, Sadr al-Din, *Akhbar al-Dawla al-Seljuqiyya*, ed. Muhammad Iqbal, Lahore: University of Punjab, 1933.
+17. Psellus, Michael, *Fourteen Byzantine Rulers*, trans. E. R. A. Sewter, London: Penguin, 1966.
+18. Garland, Lynda, *Byzantine Empresses*, London: Routledge, 1999.
+19. Turan, Osman, *Selçuklular Zamanında Türkiye*, Istanbul: Boğaziçi Yayınları, 1971.
+20. Rice, Tamara Talbot, *The Seljuks in Asia Minor*, London: Thames and Hudson, 1961.
+21. Runciman, Steven, *A History of the Crusades*, Volume 1, Cambridge: Cambridge University Press, 1951.
+22. Harris, Jonathan, *Byzantium and the Crusades*, London: Hambledon, 2003.
+23. Angold, Michael, *The Byzantine Empire, 1025-1204*, London: Longman, 1984.
+24. Humphreys, R. Stephen, *From Saladin to the Mongols*, Albany: SUNY Press, 1977.
+25. France, John, *Western Warfare in the Age of the Crusades*, Ithaca: Cornell University Press, 1999.
+26. Lambton, A. K. S., *Continuity and Change in Medieval Persia*, Albany: SUNY Press, 1988.
+27. Lilie, Ralph-Johannes, *Byzantium and the Crusader States*, Oxford: Clarendon Press, 1993.
+28. Hillenbrand, Carole, *The Crusades: Islamic Perspectives*, Edinburgh: Edinburgh University Press, 1999.
+29. Oman, Charles, *A History of the Art of War in the Middle Ages*, Volume 1, London: Methuen, 1924.
+30. El-Azhari, Taef, *The Saljuqs of Syria*, Berlin: Klaus Schwarz, 1997.

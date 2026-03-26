@@ -4,13 +4,13 @@
 
 Pada tahun 1478 M, **Inkuisisi Spanyol** resmi didirikan oleh Raja Ferdinand dan Ratu Isabella dengan persetujuan Paus Sixtus IV. Institusi ini menjadi salah satu episode paling kelam dalam sejarah peradaban, khususnya bagi komunitas Muslim di Semenanjung Iberia. Inkuisisi tidak hanya menargetkan individu, tetapi juga secara sistematis menghancurkan khazanah intelektual Islam yang telah dibangun selama hampir delapan abad di Al-Andalus.^1
 
-Masa ini menandai akhir dari era keemasan Islam di Eropa. Granada, kerajaan Muslim terakhir di Iberia, jatuh pada tahun 1492 M. Setelah penaklukan, pihak Kristen Spanyol mulai menerapkan kebijakan konversi paksa dan pemusnahan budaya terhadap populasi Muslim (Mudéjar) dan Yahudi yang tersisa.^2
+Masa ini menandai akhir dari era keemasan Islam di Eropa. Granada, kerajaan Muslim terakhir di Iberia, jatuh pada tahun 1492 M. Setelah penaklukan, pihak Kristen Spanyol mulai menerapkan kebijakan konversi paksa dan pemusnahan budaya terhadap populasi Muslim (Mudéjar) dan Yahudi yang tersisa.^3
 
 ## Cardinal Cisneros dan Pembakaran Buku
 
 ### Penghancuran Sistematis
 
-**Francisco Jiménez de Cisneros**, Cardinal dan Konfessor Ratu Isabella, memimpin kampanye sistematis untuk menghancurkan manuskrip dan buku-buku Islam. Pada tahun 1499 M, dia memerintahkan pembakaran massal lebih dari satu juta manuskrip Islam di Plaza Bib-Rambla, Granada. Peristiwa ini merupakan salah satu tindakan vandalisme budaya terbesar dalam sejarah manusia.^3
+**Francisco Jiménez de Cisneros**, Cardinal dan Konfessor Ratu Isabella, memimpin kampanye sistematis untuk menghancurkan manuskrip dan buku-buku Islam. Pada tahun 1499 M, dia memerintahkan pembakaran massal lebih dari satu juta manuskrip Islam di Plaza Bib-Rambla, Granada. Peristiwa ini merupakan salah satu tindakan vandalisme budaya terbesar dalam sejarah manusia.^1
 
 Pembakaran ini bukan sekadar tindakan fanatisme agama, tetapi upaya strategis untuk menghapuskan tradisi intelektual Islam dari Eropa. Manuskrip yang dibakar termasuk:
 
@@ -18,7 +18,7 @@ Pembakaran ini bukan sekadar tindakan fanatisme agama, tetapi upaya strategis un
 
 ### Dampak terhadap Pelestarian Ilmu
 
-Penghancuran ini memiliki konsekuensi yang dahsyat bagi pelestarian ilmu pengetahuan. Banyak karya ilmiah yang hanya ada dalam manuskrip Arab hilang selamanya. Karya-karya dari cendekiawan Islam Andalusi seperti **Ibn Rushd**, **Ibn Arabi**, dan **Ibn Hazm** - yang telah mempengaruhi perkembangan intelektual Eropa - mulai menghilang dari perpustakaan.^4
+Penghancuran ini memiliki konsekuensi yang dahsyat bagi pelestarian ilmu pengetahuan. Banyak karya ilmiah yang hanya ada dalam manuskrip Arab hilang selamanya. Karya-karya dari cendekiawan Islam Andalusi seperti **Ibn Rushd**, **Ibn Arabi**, dan **Ibn Hazm** - yang telah mempengaruhi perkembangan intelektual Eropa - mulai menghilang dari perpustakaan.^5
 
 Ironisnya, banyak dari manuskrip Islam ini mengandung terjemahan dan komentar dari karya-karya filosofis dan ilmiah Yunani yang kemudian menjadi fondasi Renaissance Eropa. Penghancuran ini secara efektif memutus mata rantai penting dalam transmisi intelektual.
 
@@ -36,13 +36,13 @@ Namun, bahkan setelah konversi, *Moriscos* terus menghadapi kecurigaan dan penga
 
 Meskipun mengalami penganiayaan, sebagian besar populasi *Morisco* berhasil mempertahankan identitas Islam secara rahasia. Mereka mengembangkan jaringan canggih untuk:
 
-**Melestarikan teks agama**: Menyembunyikan Al-Quran dan buku-buku Islam dalam dinding palsu atau lokasi yang dikubur. **Mempertahankan praktik agama**: Melakukan salat rahasia, puasa, dan upacara Islam. **Mentransmisikan pengetahuan**: Mengajarkan literasi Arab dan teologi Islam kepada anak-anak. **Kerja sama ekonomi**: Saling mendukung melalui jaringan komersial Islam.^2
+**Melestarikan teks agama**: Menyembunyikan Al-Quran dan buku-buku Islam dalam dinding palsu atau lokasi yang dikubur. **Mempertahankan praktik agama**: Melakukan salat rahasia, puasa, dan upacara Islam. **Mentransmisikan pengetahuan**: Mengajarkan literasi Arab dan teologi Islam kepada anak-anak. **Kerja sama ekonomi**: Saling mendukung melalui jaringan komersial Islam.^5
 
 ## Sastra Aljamiado
 
 ### Respons Budaya Unik
 
-Menghadapi larangan terhadap teks-teks Arab, komunitas *Morisco* mengembangkan tradisi sastra unik yang disebut ***Aljamiado*** - teks Islam yang ditulis dalam bahasa Spanyol atau Aragon menggunakan aksara Arab. Ini merupakan contoh luar biasa dari perlawanan dan adaptasi budaya.^3
+Menghadapi larangan terhadap teks-teks Arab, komunitas *Morisco* mengembangkan tradisi sastra unik yang disebut ***Aljamiado*** - teks Islam yang ditulis dalam bahasa Spanyol atau Aragon menggunakan aksara Arab. Ini merupakan contoh luar biasa dari perlawanan dan adaptasi budaya.^4
 
 Karya-karya *Aljamiado* meliputi:
 
@@ -54,7 +54,7 @@ Perkembangan sastra *Aljamiado* menunjukkan ketahanan luar biasa budaya Islam ba
 
 ### Gangguan terhadap Ekonomi Islam
 
-Jaringan komersial Islam yang telah menjadi tulang punggung ekonomi Andalusi dibongkar secara sistematis. Pedagang, pengrajin, dan profesional Muslim dipaksa untuk meninggalkan bisnis yang telah mapan atau masuk Kristen. Banyak yang memilih pengasingan, yang menyebabkan pelarian bakat-bakat terbaik secara massal.^4
+Jaringan komersial Islam yang telah menjadi tulang punggung ekonomi Andalusi dibongkar secara sistematis. Pedagang, pengrajin, dan profesional Muslim dipaksa untuk meninggalkan bisnis yang telah mapan atau masuk Kristen. Banyak yang memilih pengasingan, yang menyebabkan pelarian bakat-bakat terbaik secara massal.^5
 
 Industri yang secara tradisional dikuasai oleh Muslim - seperti produksi sutra, pengerjaan logam, kerajinan kulit, dan pertanian - mengalami penurunan yang parah. Pengetahuan dan teknik yang telah diwariskan turun-temurun hilang atau ditekan.
 
@@ -68,25 +68,25 @@ Konversi paksa dan emigrasi massal secara drastis mengubah komposisi demografi S
 
 Penganiayaan di Spanyol memicu pergerakan pengungsi besar-besaran. Muslim Andalusi melarikan diri ke:
 
-**Afrika Utara**: Maroko, Tunisia, dan Aljazair menerima ratusan ribu pengungsi. **Kekaisaran Ottoman**: Banyak yang menemukan perlindungan di wilayah Ottoman di Balkan dan Mediterania Timur. **Wilayah Eropa lainnya**: Beberapa mencari perlindungan di wilayah yang lebih toleran.^1
+**Afrika Utara**: Maroko, Tunisia, dan Aljazair menerima ratusan ribu pengungsi. **Kekaisaran Ottoman**: Banyak yang menemukan perlindungan di wilayah Ottoman di Balkan dan Mediterania Timur. **Wilayah Eropa lainnya**: Beberapa mencari perlindungan di wilayah yang lebih toleran.^2
 
 Pengungsi ini membawa serta keterampilan berharga, pengetahuan, dan tradisi budaya yang memperkaya tanah air baru mereka. Secara paradoks, kerugian Spanyol menjadi keuntungan bagi wilayah lain.
 
 ### Konsekuensi Diplomatik
 
-Kebijakan Inkuisisi menciptakan ketegangan dengan Kekaisaran Ottoman, yang melihat dirinya sebagai pelindung Muslim di seluruh dunia. Sultan Ottoman **Bayezid II** mengirim kapal untuk mengevakuasi Muslim Spanyol dan menawarkan mereka pemukiman di wilayah Ottoman.^2
+Kebijakan Inkuisisi menciptakan ketegangan dengan Kekaisaran Ottoman, yang melihat dirinya sebagai pelindung Muslim di seluruh dunia. Sultan Ottoman **Bayezid II** mengirim kapal untuk mengevakuasi Muslim Spanyol dan menawarkan mereka pemukiman di wilayah Ottoman.^3
 
 ## Perlawanan dan Pemberontakan
 
 ### Pemberontakan Alpujarras
 
-Penganiayaan yang meningkat akhirnya memicu pemberontakan terbuka. **Perang Alpujarras** (1568-1571 M) merupakan upaya besar terakhir *Moriscos* untuk menegaskan hak-hak mereka dan mempertahankan identitas budaya mereka. Dipimpin oleh tokoh seperti **Aben Humeya** (Fernando de Córdoba y Valor), pemberontakan menunjukkan keberanian putus asa dari komunitas yang tertindas.^3
+Penganiayaan yang meningkat akhirnya memicu pemberontakan terbuka. **Perang Alpujarras** (1568-1571 M) merupakan upaya besar terakhir *Moriscos* untuk menegaskan hak-hak mereka dan mempertahankan identitas budaya mereka. Dipimpin oleh tokoh seperti **Aben Humeya** (Fernando de Córdoba y Valor), pemberontakan menunjukkan keberanian putus asa dari komunitas yang tertindas.^4
 
 Meskipun pada akhirnya tidak berhasil, pemberontakan menunjukkan bahwa identitas Islam tetap kuat di antara populasi *Morisco* meskipun mengalami penganiayaan selama puluhan tahun. Penindasan brutal terhadap pemberontakan menyebabkan pembatasan yang lebih parah dan pengusiran akhir.
 
 ### Pengusiran Terakhir (1609-1614)
 
-Di bawah **Philip III**, Spanyol menerapkan solusi akhir: pengusiran massal semua *Moriscos* dari semenanjung. Sekitar 300.000-400.000 orang diusir, yang secara efektif mengakhiri kehadiran Islam selama delapan abad di Semenanjung Iberia.^4
+Di bawah **Philip III**, Spanyol menerapkan solusi akhir: pengusiran massal semua *Moriscos* dari semenanjung. Sekitar 300.000-400.000 orang diusir, yang secara efektif mengakhiri kehadiran Islam selama delapan abad di Semenanjung Iberia.^5
 
 ## Warisan dan Pelajaran
 

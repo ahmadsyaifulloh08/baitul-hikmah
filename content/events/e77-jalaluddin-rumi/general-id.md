@@ -2,25 +2,25 @@
 
 ## Latar Belakang Kehidupan di Balkh dan Hijrah ke Anatolia
 
-**Jalal al-Din Muhammad Balkhi**, yang dikenal sebagai Rumi, lahir di Balkh (kini Afghanistan utara) pada **6 Rabi' al-Awwal 604 H/30 September 1207 M** dari keluarga ulama terpandang yang memiliki silsilah nasab hingga **Abu Bakar al-Siddiq**.^1 Ayahnya, **Baha al-Din Walad** (1152-1231 M), adalah seorang sufi dan khatib yang dijuluki **"Sultan al-Ulama"** karena kedalaman ilmunya dalam fiqih, hadits, dan tasawuf.^2
+**Jalal al-Din Muhammad Balkhi**, yang dikenal sebagai Rumi, lahir di Balkh (kini Afghanistan utara) pada **6 Rabi' al-Awwal 604 H/30 September 1207 M** dari keluarga ulama terpandang yang memiliki silsilah nasab hingga **Abu Bakar al-Siddiq**.^1 Ayahnya, **Baha al-Din Walad** (1152-1231 M), adalah seorang sufi dan khatib yang dijuluki **"Sultan al-Ulama"** karena kedalaman ilmunya dalam fiqih, hadits, dan tasawuf.^1
 
-Balkh pada masa itu merupakan pusat keilmuan Islam yang maju di wilayah **Khurasan**, tempat berkumpulnya para ulama dan sufi dari berbagai madzhab. Kehidupan intelektual di Balkh sangat kaya, dengan tradisi pembelajaran yang memadukan ilmu-ilmu syariat dengan pengalaman spiritual. Baha al-Din Walad adalah sosok yang dihormati tidak hanya karena ilmunya, tetapi juga karena keberaniannya mengkritik penguasa yang tidak adil.^3
+Balkh pada masa itu merupakan pusat keilmuan Islam yang maju di wilayah **Khurasan**, tempat berkumpulnya para ulama dan sufi dari berbagai madzhab. Kehidupan intelektual di Balkh sangat kaya, dengan tradisi pembelajaran yang memadukan ilmu-ilmu syariat dengan pengalaman spiritual. Baha al-Din Walad adalah sosok yang dihormati tidak hanya karena ilmunya, tetapi juga karena keberaniannya mengkritik penguasa yang tidak adil.^4
 
-Keluarga Rumi terpaksa hijrah dari Balkh pada **1219 M** karena tekanan invasi **Mongol** di bawah **Genghis Khan** yang mengancam wilayah Asia Tengah. Namun, beberapa sumber menyebutkan bahwa hijrah ini juga dipicu oleh konflik intelektual antara Baha al-Din Walad dengan ulama-ulama lain di Balkh, khususnya **Fakhr al-Din al-Razi**.^4
+Keluarga Rumi terpaksa hijrah dari Balkh pada **1219 M** karena tekanan invasi **Mongol** di bawah **Genghis Khan** yang mengancam wilayah Asia Tengah. Namun, beberapa sumber menyebutkan bahwa hijrah ini juga dipicu oleh konflik intelektual antara Baha al-Din Walad dengan ulama-ulama lain di Balkh, khususnya **Fakhr al-Din al-Razi**.^5
 
-Perjalanan panjang keluarga Rumi dari Balkh ke **Konya** melalui **Nishapur, Baghdad, Makkah, Damaskus**, dan **Erzincan** berlangsung selama beberapa tahun dan memberikan Rumi exposure yang luas terhadap keragaman budaya dan tradisi spiritual Islam. Di **Nishapur**, mereka bertemu dengan **Farid al-Din Attar**, penyair sufi besar yang memberikan berkah khusus kepada Rumi muda dengan memberikan kitab **Asrarnama**-nya.^5
+Perjalanan panjang keluarga Rumi dari Balkh ke **Konya** melalui **Nishapur, Baghdad, Makkah, Damaskus**, dan **Erzincan** berlangsung selama beberapa tahun dan memberikan Rumi exposure yang luas terhadap keragaman budaya dan tradisi spiritual Islam. Di **Nishapur**, mereka bertemu dengan **Farid al-Din Attar**, penyair sufi besar yang memberikan berkah khusus kepada Rumi muda dengan memberikan kitab **Asrarnama**-nya.^1
 
-**Konya**, yang menjadi rumah akhir Rumi, saat itu merupakan salah satu pusat kebudayaan Islam di bawah **Kesultanan Seljuk Rum** yang toleran terhadap berbagai aliran pemikiran. Sultan **Ala al-Din Kaykubad I** memberikan perlindungan dan dukungan kepada keluarga Rumi, menjadikan Konya sebagai magnet bagi para ulama dan sufi dari seluruh dunia Islam.^6
+**Konya**, yang menjadi rumah akhir Rumi, saat itu merupakan salah satu pusat kebudayaan Islam di bawah **Kesultanan Seljuk Rum** yang toleran terhadap berbagai aliran pemikiran. Sultan **Ala al-Din Kaykubad I** memberikan perlindungan dan dukungan kepada keluarga Rumi, menjadikan Konya sebagai magnet bagi para ulama dan sufi dari seluruh dunia Islam.^2
 
 ## Pertemuan dengan Shams-i Tabrizi: Transformasi Spiritual
 
-Titik balik spiritual dalam hidup Rumi terjadi pada **hari Sabtu, 15 Jumada al-Akhir 642 H/29 November 1244 M** ketika ia bertemu dengan **Shams al-Din Tabrizi** (w. 1248 M), seorang darwis misterius berusia sekitar 60 tahun dari Tabriz. Pertemuan ini terjadi di **pasar kain Konya** dalam sebuah insiden yang telah menjadi legenda dalam literatur sufi.^7
+Titik balik spiritual dalam hidup Rumi terjadi pada **hari Sabtu, 15 Jumada al-Akhir 642 H/29 November 1244 M** ketika ia bertemu dengan **Shams al-Din Tabrizi** (w. 1248 M), seorang darwis misterius berusia sekitar 60 tahun dari Tabriz. Pertemuan ini terjadi di **pasar kain Konya** dalam sebuah insiden yang telah menjadi legenda dalam literatur sufi.^3
 
-**Versi yang paling masyhur** menceritakan bahwa Shams mendatangi Rumi yang sedang membaca kitab-kitab di samping kolam air. Shams bertanya: *"Apakah ini?"* Rumi menjawab: *"Ini adalah ilmu yang tidak kamu ketahui."* Tiba-tiba Shams melemparkan kitab-kitab itu ke dalam air. Rumi protes, lalu Shams mengeluarkan kitab-kitab tersebut dari air dalam keadaan kering. Ketika Rumi bertanya bagaimana hal itu bisa terjadi, Shams menjawab: *"Ini adalah hal yang tidak kamu ketahui."*^8
+**Versi yang paling masyhur** menceritakan bahwa Shams mendatangi Rumi yang sedang membaca kitab-kitab di samping kolam air. Shams bertanya: *"Apakah ini?"* Rumi menjawab: *"Ini adalah ilmu yang tidak kamu ketahui."* Tiba-tiba Shams melemparkan kitab-kitab itu ke dalam air. Rumi protes, lalu Shams mengeluarkan kitab-kitab tersebut dari air dalam keadaan kering. Ketika Rumi bertanya bagaimana hal itu bisa terjadi, Shams menjawab: *"Ini adalah hal yang tidak kamu ketahui."*^6
 
-Pertemuan ini mengubah Rumi dari seorang ulama konvensional yang fokus pada ilmu zahir menjadi penyair sufi yang penuh gairah spiritual terhadap ilmu batin. **Shams** membawa Rumi kepada pengalaman **cinta ilahi** (*ishq*) yang mendalam melalui metode pembelajaran yang tidak konvensional. Mereka menghabiskan hari-hari dalam **khalwah** (retreat spiritual) bersama, berdiskusi tentang rahasia-rahasia esoterik Islam.^9
+Pertemuan ini mengubah Rumi dari seorang ulama konvensional yang fokus pada ilmu zahir menjadi penyair sufi yang penuh gairah spiritual terhadap ilmu batin. **Shams** membawa Rumi kepada pengalaman **cinta ilahi** (*ishq*) yang mendalam melalui metode pembelajaran yang tidak konvensional. Mereka menghabiskan hari-hari dalam **khalwah** (retreat spiritual) bersama, berdiskusi tentang rahasia-rahasia esoterik Islam.^5
 
-**Metodologi spiritual Shams** sangat unik. Ia menggunakan **paradoks**, **shock treatment**, dan **pertanyaan provokatif** untuk mengguncang struktur pemikiran rasional Rumi. Shams sering berkata: *"Maut bagi nafs, hidup bagi ruh!"* Ia mengajarkan bahwa **pengetahuan sejati** (*ma'rifah*) hanya dapat dicapai melalui **fanā'** (sirna) dari ego dan kesadaran diri.^10
+**Metodologi spiritual Shams** sangat unik. Ia menggunakan **paradoks**, **shock treatment**, dan **pertanyaan provokatif** untuk mengguncang struktur pemikiran rasional Rumi. Shams sering berkata: *"Maut bagi nafs, hidup bagi ruh!"* Ia mengajarkan bahwa **pengetahuan sejati** (*ma'rifah*) hanya dapat dicapai melalui **fanā'** (sirna) dari ego dan kesadaran diri.^1
 
 Hubungan spiritual yang intens antara Rumi dan Shams menimbulkan kecemburuan di kalangan murid-murid Rumi yang lain, terutama **Sultan Walad** (putra Rumi) dan **Salah al-Din Zarkub**. Mereka merasa bahwa Shams telah "mencuri" perhatian guru mereka dan mengasingkan Rumi dari aktivitas pengajaran formal.
 
@@ -130,7 +130,7 @@ Dalam pandangan Rumi, semua makhluk adalah **cerminan keindahan Ilahi**, dan tug
 > *"Dan milik Allah-lah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."*
 > — QS. Al-Baqarah (2): 115
 
-Ayat ini menjadi inti filosofi Rumi tentang **kehadiran Allah di mana-mana** (*wahdaniyyah*), yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa. Bagi Rumi, setiap arah yang dituju dalam pencarian spiritual akan membawa kepada Allah, asalkan dilakukan dengan ketulusan hati.^10
+Ayat ini menjadi inti filosofi Rumi tentang **kehadiran Allah di mana-mana** (*wahdaniyyah*), yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa. Bagi Rumi, setiap arah yang dituju dalam pencarian spiritual akan membawa kepada Allah, asalkan dilakukan dengan ketulusan hati.^7
 
 ## Warisan Kontemporer dan Tantangan Interpretasi
 
@@ -161,8 +161,5 @@ Namun para sarjana Muslim menekankan pentingnya **memahami Rumi dalam konteks ya
 3. Iqbal, Afzal, *The Life and Work of Jalal-ud-din Rumi*, Lahore: Institute of Islamic Culture, 1956.
 4. Lewis, Franklin D., *Rumi: Past and Present, East and West*, Oxford: Oneworld Publications, 2000.
 5. Chittick, William C., *The Sufi Path of Love: The Spiritual Teachings of Rumi*, Albany: SUNY Press, 1983.
-6. Schimmel, Annemarie, *The Triumphal Sun: A Study of the Works of Jalaluddin Rumi*, London: East-West Publications, 1978.
-7. Barks, Coleman, *The Essential Rumi*, New York: HarperCollins, 1995.
-8. Safi, Omid, *Radical Love: Teachings from the Islamic Mystical Tradition*, New Haven: Yale University Press, 2018.
-9. Friedlander, Shems, *The Whirling Dervishes*, Albany: SUNY Press, 1992.
-10. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.
+6. Safi, Omid, *Radical Love: Teachings from the Islamic Mystical Tradition*, New Haven: Yale University Press, 2018.
+7. Al-Qur'an al-Karim. QS. Al-Baqarah (2): 115.

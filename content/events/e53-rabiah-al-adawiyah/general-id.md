@@ -2,31 +2,31 @@
 
 ## Kehidupan Awal dan Perbudakan
 
-**Rabi'ah bint Isma'il al-Adawiyah** lahir sekitar tahun **99 H/717 M** di **Basrah**, Irak, dalam keluarga yang religius namun miskin dari suku **Adiyy**. Namanya "Rabi'ah" berarti "yang keempat", menunjukkan bahwa ia adalah anak keempat dalam keluarga. Ayahnya, **Isma'il**, adalah seorang yang saleh tetapi meninggal ketika Rabi'ah masih kecil, meninggalkan keluarga dalam kemiskinan yang mendalam.^1
+**Rabi'ah bint Isma'il al-Adawiyah** lahir sekitar tahun **99 H/717 M** di **Basrah**, Irak, dalam keluarga yang religius namun miskin dari suku **Adiyy**. Namanya "Rabi'ah" berarti "yang keempat", menunjukkan bahwa ia adalah anak keempat dalam keluarga. Ayahnya, **Isma'il**, adalah seorang yang saleh tetapi meninggal ketika Rabi'ah masih kecil, meninggalkan keluarga dalam kemiskinan yang mendalam.^2
 
 Setelah kematian ayahnya, kehidupan keluarga Rabi'ah semakin sulit. **Al-Attar** dalam *Tadhkirat al-Awliya'* mencatat bahwa ibunya juga meninggal tidak lama kemudian, meninggalkan Rabi'ah dan ketiga saudarinya sebagai yatim piatu. Ketika **paceklik besar** melanda Basrah pada tahun 105 H, anak-anak ini tercerai berai karena ketidakmampuan kerabat untuk merawat mereka.^2
 
-Masa kecil Rabi'ah diwarnai dengan penderitaan yang luar biasa. Ketika berusia sekitar tujuh tahun, ia **dijual sebagai budak** oleh seorang kerabat yang tidak mampu merawatnya. Harga jualnya hanya **enam dirham** — jumlah yang sangat kecil bahkan untuk standar masa itu. Ini menunjukkan betapa rendahnya status sosial seorang anak yatim perempuan pada periode tersebut.^3
+Masa kecil Rabi'ah diwarnai dengan penderitaan yang luar biasa. Ketika berusia sekitar tujuh tahun, ia **dijual sebagai budak** oleh seorang kerabat yang tidak mampu merawatnya. Harga jualnya hanya **enam dirham** — jumlah yang sangat kecil bahkan untuk standar masa itu. Ini menunjukkan betapa rendahnya status sosial seorang anak yatim perempuan pada periode tersebut.^2
 
-Majikan pertama Rabi'ah adalah seorang **pedagang kasar** yang memperlakukannya dengan buruk. Ia dipaksa bekerja keras di siang hari sebagai pembantu rumah tangga, dan sering kali tidak diberi makan yang cukup. Namun, meski dalam kondisi yang sangat sulit, **hati Rabi'ah** tetap terpaut kepada Allah. Ia menghabiskan malam-malamnya untuk beribadah dan bermunajat, mencari penghiburan dalam doa dan dzikir.^4
+Majikan pertama Rabi'ah adalah seorang **pedagang kasar** yang memperlakukannya dengan buruk. Ia dipaksa bekerja keras di siang hari sebagai pembantu rumah tangga, dan sering kali tidak diberi makan yang cukup. Namun, meski dalam kondisi yang sangat sulit, **hati Rabi'ah** tetap terpaut kepada Allah. Ia menghabiskan malam-malamnya untuk beribadah dan bermunajat, mencari penghiburan dalam doa dan dzikir.^2
 
-**Momen pembebasan** yang menjadi turning point terjadi ketika majikannya terbangun tengah malam dan melihat **cahaya yang mengelilingi Rabi'ah** saat ia sedang shalat. Cahaya itu begitu terang hingga menerangi seluruh rumah. Terserang rasa takut dan kagum sekaligus, majikan itu menyadari bahwa Rabi'ah bukanlah budak biasa. Keesokan harinya, ia membebaskan Rabi'ah tanpa meminta imbalan, bahkan memberikan bekal untuk perjalanan hidupnya.^5
+**Momen pembebasan** yang menjadi turning point terjadi ketika majikannya terbangun tengah malam dan melihat **cahaya yang mengelilingi Rabi'ah** saat ia sedang shalat. Cahaya itu begitu terang hingga menerangi seluruh rumah. Terserang rasa takut dan kagum sekaligus, majikan itu menyadari bahwa Rabi'ah bukanlah budak biasa. Keesokan harinya, ia membebaskan Rabi'ah tanpa meminta imbalan, bahkan memberikan bekal untuk perjalanan hidupnya.^2
 
 ## Transformasi dari Budak menjadi Wali Allah
 
 ### Hidup Pertapaan di Padang Pasir
 
-Setelah dibebaskan, Rabi'ah tidak mencari kehidupan yang mewah atau kembali kepada kerabatnya. Sebaliknya, ia **memilih hidup sebagai zahidah** (perempuan sufi) dan mengasingkan diri di **padang pasir dekat Basrah**. Ia membangun pondok sederhana dari batu dan lumpur, dan menghabiskan waktunya untuk ibadah, dzikir, dan **muhasabah** (introspeksi diri).^6
+Setelah dibebaskan, Rabi'ah tidak mencari kehidupan yang mewah atau kembali kepada kerabatnya. Sebaliknya, ia **memilih hidup sebagai zahidah** (perempuan sufi) dan mengasingkan diri di **padang pasir dekat Basrah**. Ia membangun pondok sederhana dari batu dan lumpur, dan menghabiskan waktunya untuk ibadah, dzikir, dan **muhasabah** (introspeksi diri).^3
 
-Kehidupan asketik Rabi'ah sangat ekstrem bahkan untuk standar sufi pada masanya. Ia **berpuasa berhari-hari**, tidur hanya beberapa jam dalam seminggu, dan mengenakan jubah yang telah sobek-sobek. Makanannya hanya **roti kering dan air putih**, dan terkadang ia tidak makan sama sekali selama berhari-hari. Namun, semua ini dilakukannya bukan untuk menyiksa diri, melainkan untuk **membebaskan jiwa** dari ikatan duniawi.^7
+Kehidupan asketik Rabi'ah sangat ekstrem bahkan untuk standar sufi pada masanya. Ia **berpuasa berhari-hari**, tidur hanya beberapa jam dalam seminggu, dan mengenakan jubah yang telah sobek-sobek. Makanannya hanya **roti kering dan air putih**, dan terkadang ia tidak makan sama sekali selama berhari-hari. Namun, semua ini dilakukannya bukan untuk menyiksa diri, melainkan untuk **membebaskan jiwa** dari ikatan duniawi.^3
 
-**Hasan al-Bashri** (w. 110 H), ulama besar Basrah yang dikenal karena kezuhdannya, sering berinteraksi dengan Rabi'ah. Meski Hasan adalah figur yang sangat dihormati, Rabi'ah tidak segan **mengoreksi pandangan-pandangannya** yang menurutnya masih terfokus pada aspek legal-formal agama tanpa menyentuh esensi spiritual yang lebih dalam.^8
+**Hasan al-Bashri** (w. 110 H), ulama besar Basrah yang dikenal karena kezuhdannya, sering berinteraksi dengan Rabi'ah. Meski Hasan adalah figur yang sangat dihormati, Rabi'ah tidak segan **mengoreksi pandangan-pandangannya** yang menurutnya masih terfokus pada aspek legal-formal agama tanpa menyentuh esensi spiritual yang lebih dalam.^3
 
-Suatu hari, Hasan berkata kepada Rabi'ah: **"Alangkah indahnya jika kita bertemu di surga nanti."** Rabi'ah menjawab: **"O Hasan, kau masih memikirkan 'nanti'. Orang yang mencintai Allah tidak menundukkan pandangannya dari Yang Dia cintai untuk melihat surga atau neraka."** Dialog ini menunjukkan bahwa Rabi'ah telah mencapai tingkat spiritual yang melampaui reward dan punishment.^9
+Suatu hari, Hasan berkata kepada Rabi'ah: **"Alangkah indahnya jika kita bertemu di surga nanti."** Rabi'ah menjawab: **"O Hasan, kau masih memikirkan 'nanti'. Orang yang mencintai Allah tidak menundukkan pandangannya dari Yang Dia cintai untuk melihat surga atau neraka."** Dialog ini menunjukkan bahwa Rabi'ah telah mencapai tingkat spiritual yang melampaui reward dan punishment.^2
 
 ### Penolakan Duniawi dan Pernikahan
 
-Berbagai tokoh terkemuka, termasuk **Muhammad ibn Sulayman**, gubernur Basrah, dan beberapa ulama terhormat pernah melamar Rabi'ah. Lamaran dari gubernur disertai dengan janji **istana, harta berlimpah, dan ratusan budak**. Namun Rabi'ah menolak semua lamaran tersebut dengan jawaban yang mencerminkan kedalaman spiritualnya.^10
+Berbagai tokoh terkemuka, termasuk **Muhammad ibn Sulayman**, gubernur Basrah, dan beberapa ulama terhormat pernah melamar Rabi'ah. Lamaran dari gubernur disertai dengan janji **istana, harta berlimpah, dan ratusan budak**. Namun Rabi'ah menolak semua lamaran tersebut dengan jawaban yang mencerminkan kedalaman spiritualnya.^2
 
 Kepada gubernur, Rabi'ah menjawab: **"Dunia ini hanyalah tiga hari: kemarin telah pergi dengan segala apa yang ada di dalamnya, besok belum kau ketahui apakah akan kau raih, dan hari ini — jika kau berakal — gunakanlah untuk bertaubat."** Ketika ditanya tentang kehidupan akhirat, ia melanjutkan: **"Kehidupan akhirat juga akan berlalu bagi mereka yang mencapai Yang Kekal. Aku telah menjadi milik-Nya dan ada dalam-Nya. Tanyakanlah tanganmu kepada-Nya."**
 
@@ -59,7 +59,7 @@ Tingkatan tertinggi adalah **hubb li-wajhihi**, di mana seorang hamba mencintai 
 
 ### Syair-Syair Cinta Ilahi
 
-Rabi'ah mengekspresikan pengalaman spiritualnya melalui **puisi-puisi yang penuh api kerinduan**. Syair-syairnya menjadi prototype bagi poetry cinta mistik dalam Islam, mempengaruhi penyair-penyair sufi kemudian seperti **Hafez**, **Rumi**, dan **Ibn Arabi**.
+Rabi'ah mengekspresikan pengalaman spiritualnya melalui **puisi-puisi yang penuh api kerinduan**. Syair-syairnya menjadi prototype bagi poetry cinta mistik dalam Islam, mempengaruhi penyair-penyair sufi kemudian seperti **Hafez**, **Rumi**, dan **Ibn Arabi**.^5
 
 Salah satu **syair terkenalnya**:
 *"Uhibbuka hubbayn: hubba al-hawa / Wa hubban li-annaka ahlon li-dhalika / Fa amma alladhi hubbu al-hawa / Fa shughli bi-dhikrika 'amman siwa-ka / Wa amma alladhi anta ahlon lahu / Fa kashfuka al-hujuba hatta ara-ka"*
@@ -80,15 +80,15 @@ Munajat lainnya yang menunjukkan keintiman spiritual:
 
 ### Murid dan Pengikut
 
-Meski Rabi'ah memilih hidup menyendiri, banyak **pencari spiritual yang berdatangan** untuk belajar darinya. Di antara mereka yang terpengaruh adalah **Sufyan al-Thawri**, **Malik ibn Dinar**, dan **Shaqiq al-Balkhi**. Mereka tidak hanya belajar metodologi spiritual, tetapi juga menyaksikan langsung **living example** dari cinta murni kepada Allah.
+Meski Rabi'ah memilih hidup menyendiri, banyak **pencari spiritual yang berdatangan** untuk belajar darinya. Di antara mereka yang terpengaruh adalah **Sufyan al-Thawri**, **Malik ibn Dinar**, dan **Shaqiq al-Balkhi**. Mereka tidak hanya belajar metodologi spiritual, tetapi juga menyaksikan langsung **living example** dari cinta murni kepada Allah.^3
 
-**Shaqiq al-Balkhi** pernah berkata: **"Semua yang aku ketahui tentang cinta kepada Allah, aku pelajari dari seorang wanita tua di Basrah."** Pengakuan ini dari seorang sufi besar menunjukkan betapa dalamnya pengaruh Rabi'ah terhadap perkembangan tasawuf teoretis.
+**Shaqiq al-Balkhi** pernah berkata: **"Semua yang aku ketahui tentang cinta kepada Allah, aku pelajari dari seorang wanita tua di Basrah."** Pengakuan ini dari seorang sufi besar menunjukkan betapa dalamnya pengaruh Rabi'ah terhadap perkembangan tasawuf teoretis.^3
 
 ### Pengaruh terhadap Sufi Generasi Berikutnya
 
-**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep **mahabbah** yang dikembangkan Rabi'ah kemudian diperdalam oleh **al-Junayd** menjadi teori **fana'** dan **baqa'**, oleh **al-Hallaj** menjadi konsep **ana'l-Haqq**, dan oleh **Ibn Arabi** menjadi **wahdat al-wujud**.
+**Dzun Nun al-Mishri** (w. 245 H) mengakui bahwa Rabi'ah telah menginspirasi pandangannya tentang cinta dalam tasawuf. Konsep **mahabbah** yang dikembangkan Rabi'ah kemudian diperdalam oleh **al-Junayd** menjadi teori **fana'** dan **baqa'**, oleh **al-Hallaj** menjadi konsep **ana'l-Haqq**, dan oleh **Ibn Arabi** menjadi **wahdat al-wujud**.^5
 
-**Al-Ghazali** dalam *Ihya Ulum al-Din* mengutip Rabi'ah berkali-kali ketika membahas **maqam mahabbah**. Ia menganggap Rabi'ah sebagai **"umm al-khair"** (ibu kebaikan) dalam tradisi cinta sufi.
+**Al-Ghazali** dalam *Ihya Ulum al-Din* mengutip Rabi'ah berkali-kali ketika membahas **maqam mahabbah**. Ia menganggap Rabi'ah sebagai **"umm al-khair"** (ibu kebaikan) dalam tradisi cinta sufi.^4
 
 **Jalaluddin Rumi** dalam Masnavi-nya mengacu pada Rabi'ah sebagai contoh **perfected lover** yang telah mencapai tingkat fana' dalam cinta. Konsep **ishq** (cinta yang membakar) dalam poetry Rumi dapat dilacak kembali ke ajaran Rabi'ah tentang mahabbah yang transformatif.
 
@@ -105,7 +105,7 @@ Rabi'ah memberikan **kontribusi fundamental** terhadap perkembangan teologi mist
 
 ### Akhir Hayat yang Mulia
 
-Rabi'ah wafat pada tahun **185 H/801 M** dalam usia sekitar 84 tahun. **Al-Dhahabi** mencatat bahwa hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. Ia meninggal dalam keadaan **bersujud**, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat kepada-Nya.
+Rabi'ah wafat pada tahun **185 H/801 M** dalam usia sekitar 84 tahun. **Al-Dhahabi** mencatat bahwa hingga akhir hayatnya, ia tetap konsisten dengan jalan spiritual yang dipilihnya. Ia meninggal dalam keadaan **bersujud**, seolah-olah jiwa sucinya kembali kepada Sang Kekasih dalam posisi yang paling dekat kepada-Nya.^1
 
 Ketika **Hasan al-Bashri** mendengar berita kematiannya, ia berkata: **"Rabi'ah telah kembali kepada Yang dicintainya. Ia telah mencapai apa yang kita semua rindukan — perjumpaan dengan Allah tanpa hijab."**
 
@@ -121,13 +121,13 @@ Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidat al-Nisa' al-Abi
 
 ## Analisis dan Hikmah
 
-**Spiritualitas yang melampaui gender**: Rabi'ah menunjukkan bahwa **pencapaian spiritual tertinggi** tidak dibatasi oleh gender, status sosial, atau latar belakang. Dalam dimensi spiritual, yang terpenting adalah kualitas cinta dan penyerahan kepada Allah. Transformasinya dari budak menjadi wali Allah membuktikan bahwa **hidayah Allah** tidak mengenal diskriminasi.
+**Spiritualitas yang melampaui gender**: Rabi'ah menunjukkan bahwa **pencapaian spiritual tertinggi** tidak dibatasi oleh gender, status sosial, atau latar belakang. Dalam dimensi spiritual, yang terpenting adalah kualitas cinta dan penyerahan kepada Allah. Transformasinya dari budak menjadi wali Allah membuktikan bahwa **hidayah Allah** tidak mengenal diskriminasi.^6
 
-**Cinta sebagai revolusi spiritual**: Konsep **mahabbah** yang dikembangkan Rabi'ah memberikan dimensi positif dan transformatif dalam spiritualitas, melampaui motivasi yang didasarkan pada rasa takut atau harapan. Ini membawa **paradigm shift** dalam tasawuf dari *via negativa* menuju *via amoris*.
+**Cinta sebagai revolusi spiritual**: Konsep **mahabbah** yang dikembangkan Rabi'ah memberikan dimensi positif dan transformatif dalam spiritualitas, melampaui motivasi yang didasarkan pada rasa takut atau harapan. Ini membawa **paradigm shift** dalam tasawuf dari *via negativa* menuju *via amoris*.^6
 
-**Purifikasi motivasi spiritual**: Rabi'ah mengajarkan pentingnya **ikhlas** dalam bentuk yang paling murni — ibadah yang dilakukan semata-mata karena Allah layak dipuja, bukan karena mengharapkan reward atau menghindari punishment. Ini menjadi **foundation** bagi semua pencapaian spiritual yang autentik.
+**Purifikasi motivasi spiritual**: Rabi'ah mengajarkan pentingnya **ikhlas** dalam bentuk yang paling murni — ibadah yang dilakukan semata-mata karena Allah layak dipuja, bukan karena mengharapkan reward atau menghindari punishment. Ini menjadi **foundation** bagi semua pencapaian spiritual yang autentik.^6
 
-**Keseimbangan syariat dan hakikat**: Meskipun fokus pada dimensi esoterik, Rabi'ah tidak pernah mengabaikan aspek eksoterik agama. Ia menunjukkan bahwa **syariat dan tasawuf** adalah dua aspek yang saling melengkapi dalam perjalanan menuju Allah.
+**Keseimbangan syariat dan hakikat**: Meskipun fokus pada dimensi esoterik, Rabi'ah tidak pernah mengabaikan aspek eksoterik agama. Ia menunjukkan bahwa **syariat dan tasawuf** adalah dua aspek yang saling melengkapi dalam perjalanan menuju Allah.^6
 
 ---
 
@@ -136,10 +136,6 @@ Dalam literatur sufi, Rabi'ah sering disebut sebagai **"Sayyidat al-Nisa' al-Abi
 1. Al-Dhahabi, Shams al-Din, *Siyar A'lam al-Nubala'*, jilid 8, Beirut: Mu'assasat al-Risalah, 1996.
 2. Farid al-Din Attar, *Tadhkirat al-Awliya'*, Baghdad: Maktabat al-Muthanna, 1967.
 3. Al-Sulami, Abu Abd al-Rahman, *Tabaqat al-Sufiyyah*, Cairo: Maktabat al-Khanji, 1969.
-4. Al-Qushayri, Abd al-Karim, *Al-Risalah al-Qushayriyyah*, Damascus: Dar al-Khayr, 1988.
-5. Ibn al-Jawzi, Abd al-Rahman, *Sifat al-Safwah*, jilid 4, Cairo: Dar al-Hadith, 1989.
-6. Al-Hujwiri, Ali ibn Uthman, *Kashf al-Mahjub*, Lahore: Islamic Book Foundation, 1976.
-7. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, jilid 4, Beirut: Dar al-Ma'rifah, 1982.
-8. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, Beirut: Dar Sadir, 1968.
-9. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
-10. Massignon, Louis, *Essay on the Origins of the Technical Language of Islamic Mysticism*, Paris: Vrin, 1954.
+4. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, jilid 4, Beirut: Dar al-Ma'rifah, 1982.
+5. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, Beirut: Dar Sadir, 1968.
+6. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
