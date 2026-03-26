@@ -271,6 +271,17 @@ Sitasi HARUS setelah tanda baca akhir kalimat, BUKAN sebelumnya:
 
 **Pola regex untuk detect violation:** `[^.\s>]\^\d+\.(\s|$)` — jika match > 0, file REJECT.
 
+### ⚠️ Unicode Superscript DILARANG (BLOCKER)
+
+Sitasi HARUS menggunakan caret format `^N`. **DILARANG** menggunakan unicode superscript characters:
+
+- ❌ `teks¹²³` (unicode: ¹²³⁴⁵⁶⁷⁸⁹⁰) — website render gabung jadi angka besar (⁶^1 → terlihat "61")
+- ✅ `teks.^1 ^2 ^3` (caret format)
+
+**Pola detect:** `[⁰¹²³⁴⁵⁶⁷⁸⁹]` — jika ditemukan di body text, file REJECT.
+
+**Root cause:** Sub-agent (terutama Sonnet) kadang generate unicode superscript. Harus di-convert ke `^N`.
+
 ---
 
 ## 4. Children Mode — Slideshow Format

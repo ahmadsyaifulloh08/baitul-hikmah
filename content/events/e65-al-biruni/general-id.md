@@ -202,7 +202,7 @@ Kitab al-Hind Al-Biruni menjadi model bagi studi antropologi objektif. **Max Web
 
 ### Integrasi Sains dan Spiritualitas
 
-Meskipun Al-Biruni adalah seorang empiris yang ketat, dia tidak memisahkan sains dari spiritualitas. Baginya, studi tentang alam semesta adalah bentuk ibadah (*ta'abbud*) yang membawa manusia semakin dekat kepada pemahaman tentang kebesaran Allah. Setiap observasi astronomi, setiap kalkulasi matematis, dan setiap eksperimen fisika adalah cara untuk mengagumi keharmonisan (*nazm*) ciptaan Allah^1.
+Meskipun Al-Biruni adalah seorang empiris yang ketat, dia tidak memisahkan sains dari spiritualitas. Baginya, studi tentang alam semesta adalah bentuk ibadah (*ta'abbud*) yang membawa manusia semakin dekat kepada pemahaman tentang kebesaran Allah. Setiap observasi astronomi, setiap kalkulasi matematis, dan setiap eksperimen fisika adalah cara untuk mengagumi keharmonisan (*nazm*) ciptaan Allah.^1
 
 > سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ﴿٥٣﴾
 >
