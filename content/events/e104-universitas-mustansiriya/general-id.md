@@ -47,7 +47,7 @@ Mustansiriya mengajarkan pentingnya **investasi dalam pendidikan** sebagai fonda
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
----
+---^4
 
 ## Daftar Pustaka
 

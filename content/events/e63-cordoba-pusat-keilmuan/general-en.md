@@ -45,7 +45,7 @@ One of Cordoba's distinguishing features was the model of religious tolerance pr
 > *"O People of the Book, come to a word that is equitable between us and you..." ﴾64﴿*
 > — QS. Ali Imran (3): 64^11
 
-## Eternal Legacy for Europe and the World
+## Eternal Legacy for Europe and the World^11
 
 Cordoba not only became a center of Islamic learning but also the gateway for classical Greek and Islamic knowledge to enter Europe. Through Toledo and European universities such as Oxford and Paris, works translated in Cordoba became the foundation for the European Renaissance.
 

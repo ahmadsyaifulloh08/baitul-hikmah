@@ -61,7 +61,7 @@ Al-Quran mengingatkan kita tentang pentingnya membangun dengan landasan yang kua
 > *"Maka apakah orang yang mendirikan bangunannya atas dasar takwa kepada Allah dan keredhaan-Nya itu lebih baik, ataukah orang yang mendirikan bangunannya di tepi jurang yang runtuh?"* ﴾109﴿
 > — QS. At-Taubah (9): 109
 
-**Nilai-nilai yang dapat dipetik:**
+**Nilai-nilai yang dapat dipetik:**^8
 - **Resiliensi dalam menghadapi tantangan** dapat menghasilkan pencapaian yang luar biasa
 - **Inovasi arsitektural** mencerminkan kemajuan peradaban dan kemampuan adaptasi
 - **Integrasi berbagai tradisi budaya** memperkaya khazanah seni dan intelektual

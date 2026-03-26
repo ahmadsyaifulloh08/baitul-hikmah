@@ -45,7 +45,7 @@ The spiritual motivation behind the conquest of Al-Andalus aligned with the spir
 > *"O you who have believed, if you support Allah, He will support you and plant firmly your feet."* ﴾7﴿
 > — QS. Muhammad (47): 7
 
-## Analysis and Lessons
+## Analysis and Lessons^4
 
 ### The Birth of Andalusian Civilization
 

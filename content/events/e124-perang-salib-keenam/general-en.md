@@ -65,7 +65,7 @@ The Treaty of Jaffa also proved that **mutual respect** can overcome religious a
 > *"Allah does not forbid you from being kind and just to those who have not fought you because of religion and have not driven you from your homes."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
-The Treaty of Jaffa between Frederick II and al-Kamil proved that peaceful diplomacy between civilizations is possible when both sides show mutual respect.
+The Treaty of Jaffa between Frederick II and al-Kamil proved that peaceful diplomacy between civilizations is possible when both sides show mutual respect^4.
 
 ---
 

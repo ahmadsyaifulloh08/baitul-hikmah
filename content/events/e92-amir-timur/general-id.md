@@ -85,7 +85,7 @@ Figur Timur mengajarkan beberapa pelajaran kompleks:
 > *"Dan masa (kejayaan dan kehancuran) itu Kami pergilirkan di antara manusia."* ﴾140﴿
 > — QS. Ali Imran (3): 140
 
-Ayat ini mencerminkan sifat siklus kekuasaan yang dicontohkan oleh kebangkitan dan kejatuhan Kekaisaran Timurid.^3
+Ayat ini mencerminkan sifat siklus kekuasaan yang dicontohkan oleh kebangkitan dan kejatuhan Kekaisaran Timurid.^5
 
 ---
 

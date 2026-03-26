@@ -73,7 +73,7 @@ Perjalanan Ibn Battuta mengajarkan beberapa nilai penting:
 > *"Dan di antara tanda-tanda kekuasaan-Nya ialah menciptakan langit dan bumi dan berlain-lainan bahasamu dan warna kulitmu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-Ayat ini mencerminkan semangat Ibn Battuta dalam mengeksplorasi dan mengapresiasi keragaman ciptaan Allah.^3
+Ayat ini mencerminkan semangat Ibn Battuta dalam mengeksplorasi dan mengapresiasi keragaman ciptaan Allah.^3 ^5
 
 ---
 

@@ -39,7 +39,7 @@ In the preface to his work, al-Ghazali explained the purpose of writing:
 > *"And We have not sent you except as a mercy to all the worlds. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107^1
 
-## Methodology and Approach
+## Methodology and Approach^4
 
 One of the strengths of "Ihya Ulum al-Din" lies in the methodology used by al-Ghazali. He did not merely present jurisprudential laws dryly, but always explained the wisdom and spiritual dimensions behind every Islamic teaching^2.
 

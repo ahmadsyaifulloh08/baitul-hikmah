@@ -61,21 +61,21 @@ On the cause of defeat — the archers' disobedience:
 > *"And Allah had certainly fulfilled His promise to you when you were killing them by His permission, until you lost courage and fell into dispute about the order and disobeyed after He had shown you that which you love. ﴾152﴿"*
 > — QS. Ali Imran (3): 152
 
-On the calamity as a consequence of one's own choices:
+On the calamity as a consequence of one's own choices:^4
 
 > أَوَلَمَّا أَصَابَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ﴿١٦٥﴾
 >
 > *"Why [is it that] when a [single] disaster struck you [at Uhud], although you had struck [the enemy at Badr] with one twice as great, you said: 'From where is this?' Say: 'It is from yourselves.' ﴾165﴿"*
 > — QS. Ali Imran (3): 165
 
-Yet the Quran also emphasized the profound wisdom within this defeat:
+Yet the Quran also emphasized the profound wisdom within this defeat:^4
 
 > وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ ﴿١٣٩﴾
 >
 > *"So do not weaken and do not grieve, and you will be superior if you are [true] believers. ﴾139﴿"*
 > — QS. Ali Imran (3): 139
 
-## Analysis and Lessons
+## Analysis and Lessons^4
 
 ### Discipline Determines Everything
 

@@ -45,7 +45,7 @@ Motivasi spiritual di balik penaklukan Al-Andalus sejalan dengan semangat al-Qur
 > *"Hai orang-orang yang beriman, jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."* ﴾7﴿
 > — QS. Muhammad (47): 7
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^4
 
 ### Lahirnya Peradaban Al-Andalus
 

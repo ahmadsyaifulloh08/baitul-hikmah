@@ -21,7 +21,7 @@ Di Tunis, ia bertemu dengan **Abd al-Aziz al-Mahdawi**, seorang sufi besar yang 
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku."*
 > — QS. al-Dhariyat (51): 56^4
 
-## Karya Magnum Opus dan Doktrin Wahdat al-Wujud
+## Karya Magnum Opus dan Doktrin Wahdat al-Wujud^9
 
 Ibn Arabi adalah penulis yang sangat produktif dengan lebih dari 400 karya yang dikaitkan padanya. Dua karya terpentingnya adalah **"Al-Futuhat al-Makkiyah"** (Penyingkapan-penyingkapan Makkah) dan **"Fusus al-Hikam"** (Permata-permata Hikmah). Karya pertama merupakan ensiklopedia tasawuf yang terdiri dari 560 bab, sementara yang kedua berisi 27 bab tentang hikmah para nabi.^5
 

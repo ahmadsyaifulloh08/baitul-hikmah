@@ -85,7 +85,7 @@ Terkait dengan pembukaan jalan dakwah melalui orang-orang baru, Allah SWT berfir
 > *"Kalau sekiranya Allah mengetahui kebaikan ada pada mereka, tentu Allah menjadikan mereka dapat mendengar. Dan kalau Allah menjadikan mereka dapat mendengar, niscaya mereka pasti berpaling, dan mereka memalingkan diri. ﴾23﴿"*
 > — QS. Al-Anfal (8): 23
 
-Ayat ini, meskipun konteks turunnya berkaitan dengan peristiwa Badar, memiliki relevansi dengan dinamika dakwah di Makkah — di mana banyak penduduk Makkah yang mendengar dakwah namun berpaling, sementara orang-orang Yatsrib yang baru mendengar justru menerimanya dengan sepenuh hati.^6
+Ayat ini, meskipun konteks turunnya berkaitan dengan peristiwa Badar, memiliki relevansi dengan dinamika dakwah di Makkah — di mana banyak penduduk Makkah yang mendengar dakwah namun berpaling, sementara orang-orang Yatsrib yang baru mendengar justru menerimanya dengan sepenuh hati.^6 ^7
 
 ## Analisis dan Hikmah
 

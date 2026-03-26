@@ -41,7 +41,7 @@ Kaligrafi yang menghiasi dinding-dinding masjid menampilkan ayat-ayat pilihan da
 > *"Dan hanya milik Allah nama-nama yang baik (Asmaul Husna), maka bermohonlah kepada-Nya dengan menyebut nama-nama itu."* ﴾180﴿
 > — QS. Al-A'raf (7): 180
 
-## Dampak Sosial dan Budaya
+## Dampak Sosial dan Budaya^8
 
 Penyelesaian Masjid Umayyah pada tahun 715 M menciptakan dampak yang luas dalam masyarakat Damaskus dan seluruh wilayah kekhalifahan.^2 Masjid ini tidak hanya berfungsi sebagai tempat ibadah, tetapi juga sebagai pusat kegiatan sosial, pendidikan, dan politik.^2 Para ulama menggunakan ruang-ruang masjid untuk mengajar, sementara pedagang melakukan transaksi bisnis di area sekitar masjid.^2
 

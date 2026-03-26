@@ -57,7 +57,7 @@ The boycott is connected to several important scriptural references. Regarding t
 > *"Do you think that you will enter Paradise without undergoing such trials as were experienced by the believers before you? They were afflicted with suffering and adversity, and were so shaken. ﴾214﴿"*
 > — QS. Al-Baqarah (2): 214
 
-Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you."^1 ^8
+Regarding the termites consuming the boycott charter, this event was narrated by Ibn Ishaq through a chain of transmission indicating that Prophet Muhammad SAW received the news through revelation and conveyed it to Abu Talib before the charter was opened.^1 ^7 Abu Talib then went to the Quraysh assembly and said: "My nephew has informed me that Allah has sent termites upon your charter, which consumed everything in it except the name of Allah. If he is truthful, cease what you are doing to us. And if he lies, I will hand him over to you."^1 ^8 ^26
 
 ## Analysis and Lessons
 

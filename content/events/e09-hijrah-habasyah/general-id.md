@@ -79,14 +79,14 @@ Ayat-ayat Surah Maryam yang dibacakan Ja'far di istana Najasyi:
 > *"Kaf Ha Ya 'Ain Shad. ﴾1﴿ (Ini adalah) penjelasan tentang rahmat Tuhanmu kepada hamba-Nya, Zakaria, ﴾2﴿ yaitu ketika ia berdoa kepada Tuhannya dengan suara yang lembut. ﴾3﴿"*
 > — QS. Maryam (19): 1–3
 
-Dan tentang Isa AS:
+Dan tentang Isa AS:^5
 
 > قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّا ﴿٣٠﴾
 >
 > *"Dia (Isa) berkata: 'Sesungguhnya aku hamba Allah. Dia memberiku Kitab (Injil) dan menjadikanku seorang nabi.' ﴾30﴿"*
 > — QS. Maryam (19): 30
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^5
 
 ### Diplomasi Lintas Peradaban
 

@@ -82,7 +82,7 @@ Allah the Almighty describes Sidrat al-Muntaha in the Qur'an^40:
 > *"And he certainly saw him in another descent, ﴾13﴿ at Sidrat al-Muntaha. ﴾14﴿ Near it is the Garden of Refuge. ﴾15﴿ When there covered the lote tree that which covered it, ﴾16﴿ the sight did not swerve, nor did it transgress its limit. ﴾17﴿"*
 > — QS. Al-Najm (53): 13–17
 
-It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2
+It was at Sidrat al-Muntaha that Prophet Muhammad SAW received revelation directly from Allah the Almighty — without the intermediary of any angel — an honor not bestowed upon any prophet before him.^2 ^2 ^40
 
 ### The Commandment of the Five Daily Prayers
 
@@ -134,7 +134,7 @@ The event of the Isra' is immortalized in the opening of Surah al-Isra':
 > *"Exalted is He who took His servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the All-Hearing, the All-Seeing. ﴾1﴿"*
 > — QS. Al-Isra' (17): 1
 
-The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^9
+The use of the word *subhana* (Exalted) at the opening of the verse indicates the grandeur and extraordinariness of this event, while simultaneously affirming that it lies within Allah's power alone.^2 ^9 ^40
 
 ### The Reaction of Meccan Society
 

@@ -79,7 +79,7 @@ Pada tanggal 2 Oktober 1187 M (27 Rajab 583 H), Salahuddin memasuki Yerusalem se
 > *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Al Masjidil Haram ke Al Masjidil Aqsha yang telah Kami berkahi sekelilingnya agar Kami perlihatkan kepadanya sebagian dari tanda-tanda (kebesaran) Kami. Sesungguhnya Dia adalah Maha Mendengar lagi Maha Melihat. ﴾1﴿"*
 > — QS. al-Isra' (17): 1
 
-Yang terjadi selanjutnya menjadi salah satu momen paling mulia dalam sejarah peradaban manusia. Berlawanan **180 derajat** dengan pembantaian Tentara Salib pada 1099, Salahuddin menerapkan standar kemanusiaan yang melampaui zamannya.^1
+Yang terjadi selanjutnya menjadi salah satu momen paling mulia dalam sejarah peradaban manusia. Berlawanan **180 derajat** dengan pembantaian Tentara Salib pada 1099, Salahuddin menerapkan standar kemanusiaan yang melampaui zamannya.^1 ^6
 
 ## Model Fath yang Mulia
 

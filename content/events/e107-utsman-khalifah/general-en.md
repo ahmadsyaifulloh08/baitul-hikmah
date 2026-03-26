@@ -67,7 +67,7 @@ On Friday, 18 Dhul Hijjah 35 AH (17 June 656 CE), the rebels broke into Uthman's
 > *"Allah will be sufficient for you against them. And He is the All-Hearing, the All-Knowing. ﴾137﴿"*
 > — QS. Al-Baqarah (2): 137
 
-Uthman died at approximately 82 years of age, after serving as caliph for 12 years. He was buried at al-Baqi' cemetery in Madinah.
+Uthman died at approximately 82 years of age, after serving as caliph for 12 years. He was buried at al-Baqi' cemetery in Madinah^7.
 
 ## Prophetic Testimony and Key Texts
 

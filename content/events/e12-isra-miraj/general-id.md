@@ -82,7 +82,7 @@ Allah SWT menggambarkan Sidratul Muntaha dalam Al-Qur'an^7:
 > *"Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) pada kali yang lain, ﴾13﴿ di Sidratul Muntaha. ﴾14﴿ Di dekatnya ada surga tempat tinggal. ﴾15﴿ (Muhammad melihat Jibril) ketika Sidratul Muntaha diliputi oleh sesuatu yang meliputinya. ﴾16﴿ Penglihatannya tidak berpaling dan tidak (pula) melampaui batas. ﴾17﴿"*
 > — QS. Al-Najm (53): 13–17
 
-Di Sidratul Muntaha inilah Nabi Muhammad SAW menerima wahyu langsung dari Allah SWT — tanpa perantara malaikat — suatu kehormatan yang tidak diberikan kepada nabi manapun sebelumnya.^6
+Di Sidratul Muntaha inilah Nabi Muhammad SAW menerima wahyu langsung dari Allah SWT — tanpa perantara malaikat — suatu kehormatan yang tidak diberikan kepada nabi manapun sebelumnya.^6 ^7
 
 #### Perintah Shalat Lima Waktu
 
@@ -134,7 +134,7 @@ Peristiwa Isra' diabadikan dalam pembukaan Surah Al-Isra':
 > *"Mahasuci (Allah) yang telah memperjalankan hamba-Nya (Muhammad) pada malam hari dari Masjidil Haram ke Masjidil Aqsha yang telah Kami berkahi sekelilingnya, agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar, Maha Melihat. ﴾1﴿"*
 > — QS. Al-Isra' (17): 1
 
-Penggunaan kata *subhana* (Mahasuci) di awal ayat menunjukkan keagungan dan keluarbiasaan peristiwa ini, sekaligus menegaskan bahwa hal tersebut berada dalam kuasa Allah semata.^6
+Penggunaan kata *subhana* (Mahasuci) di awal ayat menunjukkan keagungan dan keluarbiasaan peristiwa ini, sekaligus menegaskan bahwa hal tersebut berada dalam kuasa Allah semata.^6 ^7
 
 ### Reaksi Masyarakat Makkah
 

@@ -25,7 +25,7 @@ The Qur'an emphasizes the importance of preparation in facing enemies:
 > *"And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allah and your enemy. ﴾60﴿"*
 > — QS. Al-Anfal (8): 60^1
 
-## Legacy and Future Preparation
+## Legacy and Future Preparation^4
 
 Although Nur ad-Din died in 1174 CE before completing the mission to liberate Jerusalem, his legacy was fundamental to Saladin al-Ayyubi's success. He had prepared the political, military, and ideological foundation necessary for final victory^2.
 

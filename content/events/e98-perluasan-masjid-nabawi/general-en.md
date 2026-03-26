@@ -58,7 +58,7 @@ Each zone was equipped with simple blackboards (wooden tablets) and shelves for 
 > *"And say: 'My Lord, increase me in knowledge.'"*
 > — QS. Thaha (20): 114
 
-This verse became the motto displayed above the entrance of each learning zone in the Prophet's Mosque expansion^3.
+This verse became the motto displayed above the entrance of each learning zone in the Prophet's Mosque expansion^3^4.
 
 **Ibn Abbas** narrated that **Umar ibn al-Khattab** once said:
 

@@ -21,7 +21,7 @@ Dukungan politik ini memungkinkan Ibn Rushd tidak hanya bekerja sebagai qadi di 
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."*
 > — QS. al-Isra' (17): 85^3
 
-## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut
+## Konfrontasi dengan Al-Ghazali: Tahafut al-Tahafut^9
 
 Karya paling berpengaruh Ibn Rushd adalah **"Tahafut al-Tahafut"** (Kerancuan Kerancuan), ditulis sebagai bantahan terhadap karya **Al-Ghazali** berjudul "Tahafut al-Falasifah" (Kerancuan Para Filosof). Al-Ghazali, yang wafat pada 1111 M—lima belas tahun sebelum Ibn Rushd lahir—telah mengkritik keras para filosof Muslim seperti **Al-Farabi** dan **Ibn Sina** dalam karyanya tersebut.^4
 

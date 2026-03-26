@@ -47,7 +47,7 @@ Ekspedisi ke Sindh dimotivasi oleh kewajiban melindungi warga Muslim yang tertaw
 > *"Dan mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah, baik laki-laki, perempuan-perempuan, maupun anak-anak. ﴾75﴿"*
 > — QS. An-Nisa (4): 75
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^4
 
 ### Awal Islam di Anak Benua India
 

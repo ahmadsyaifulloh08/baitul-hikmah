@@ -56,21 +56,21 @@ Al-Quran mendokumentasikan peristiwa Badr sebagai bukti nyata pertolongan Allah.
 > *"(Ingatlah) ketika kamu memohon pertolongan kepada Tuhanmu, lalu Dia memperkenankan bagimu: 'Sesungguhnya Aku akan mendatangkan bala bantuan kepadamu dengan seribu malaikat yang datang berturut-turut.' ﴾9﴿"*
 > — QS. Al-Anfal (8): 9
 
-Allah juga menegaskan bahwa kemenangan ini adalah sepenuhnya dari-Nya:
+Allah juga menegaskan bahwa kemenangan ini adalah sepenuhnya dari-Nya:^4
 
 > وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ ﴿١٠﴾
 >
 > *"Dan Allah tidak menjadikan pemberian bala bantuan itu melainkan sebagai kabar gembira dan agar hatimu menjadi tenteram karenanya. Dan kemenangan itu hanyalah dari sisi Allah. ﴾10﴿"*
 > — QS. Al-Anfal (8): 10
 
-Surah Al-Anfal juga merekam bahwa Allah menurunkan rasa kantuk kepada pasukan Muslim sebelum pertempuran sebagai bentuk ketenangan:
+Surah Al-Anfal juga merekam bahwa Allah menurunkan rasa kantuk kepada pasukan Muslim sebelum pertempuran sebagai bentuk ketenangan:^4
 
 > إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ ﴿١١﴾
 >
 > *"(Ingatlah) ketika Allah menjadikan kamu mengantuk sebagai rasa aman dari-Nya, dan Dia menurunkan air (hujan) dari langit kepadamu untuk menyucikanmu. ﴾11﴿"*
 > — QS. Al-Anfal (8): 11
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^4
 
 ### Kemenangan Prinsip atas Jumlah
 
@@ -95,7 +95,7 @@ Al-Quran menyebut Badr sebagai *Yawm al-Furqan* — Hari Pembeda antara kebenara
 > *"Dan apa yang Kami turunkan kepada hamba Kami pada hari pembeda (Furqan), yaitu pada hari bertemunya dua pasukan. ﴾41﴿"*
 > — QS. Al-Anfal (8): 41
 
-Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. Sebelum Badr, Islam adalah gerakan yang terancam punah. Setelah Badr, Islam menjadi kekuatan yang diperhitungkan di seluruh Jazirah Arab.
+Badr bukan sekadar kemenangan militer — ia adalah titik balik sejarah Islam. Sebelum Badr, Islam adalah gerakan yang terancam punah. Setelah Badr, Islam menjadi kekuatan yang diperhitungkan di seluruh Jazirah Arab^4.
 
 ## Daftar Pustaka
 

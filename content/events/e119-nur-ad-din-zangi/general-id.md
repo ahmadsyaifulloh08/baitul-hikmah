@@ -45,7 +45,7 @@ Al-Qur'an menekankan pentingnya persiapan dalam menghadapi musuh:
 > *"Dan sungguh telah Kami tulis dalam Zabur sesudah (Kami tulis dalam) Lauh Mahfuzh, bahwasanya bumi ini dipusakai hamba-hamba-Ku yang saleh."* ﴾105﴿
 > — QS. Al-Anbiya (21): 105
 
-## Hubungan dengan Mesir
+## Hubungan dengan Mesir^4
 
 Salah satu visi strategis jangka panjang Nur ad-Din adalah menyatukan Suriah dengan Mesir untuk menciptakan tenaga gabungan yang dapat mengalahkan Tentara Salib secara definitif. Dinasti Fatimiyah di Mesir mengalami kemunduran dan konflik internal yang memberikan peluang untuk intervensi^1.
 

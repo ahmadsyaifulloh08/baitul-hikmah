@@ -19,7 +19,7 @@ This unification was strategic in facing the Crusader threat. Previously, Crusad
 > *"And hold fast, all of you together, to the rope of Allah, and do not be divided."*
 > — QS. Ali Imran (3): 103^4
 
-Salahuddin also built an efficient administrative system. He maintained existing bureaucratic structures while appointing competent officials from various backgrounds. The *iqta'* system (land grants) was used to finance the army and administration, but remained under strict central government control.
+Salahuddin also built an efficient administrative system. He maintained existing bureaucratic structures while appointing competent officials from various backgrounds. The *iqta'* system (land grants) was used to finance the army and administration, but remained under strict central government control^9.
 
 ## Crusades and Military Achievements
 

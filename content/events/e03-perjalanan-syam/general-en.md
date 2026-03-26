@@ -17,7 +17,7 @@ The Quran itself references this tradition of trade journeys^4:
 > *"For the accustomed security of the Quraysh ﴾1﴿ — their accustomed security in the caravan of winter and summer. ﴾2﴿ Let them worship the Lord of this House, ﴾3﴿ who has fed them against hunger and made them safe from fear. ﴾4﴿"*
 > — QS. Quraysh (106): 1–4
 
-The *rihlat al-shita'* (winter journey) to Yemen and the *rihlat al-sayf* (summer journey) to Syria were the two primary trade routes that established Mecca as a commercial hub of the Arabian Peninsula.^2
+The *rihlat al-shita'* (winter journey) to Yemen and the *rihlat al-sayf* (summer journey) to Syria were the two primary trade routes that established Mecca as a commercial hub of the Arabian Peninsula.^2 ^4
 
 ## The Events
 

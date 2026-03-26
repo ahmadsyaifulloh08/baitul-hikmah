@@ -71,7 +71,7 @@ Tragedi ini juga menunjukkan pentingnya **strategic foresight** dalam kepemimpin
 > *"Dan berpeganglah kamu semuanya kepada tali (agama) Allah, dan janganlah kamu bercerai berai, dan ingatlah akan nikmat Allah kepadamu ketika kamu dahulu (masa Jahiliah) bermusuh-musuhan, maka Allah mempersatukan hatimu, lalu menjadilah kamu karena nikmat Allah, orang-orang yang bersaudara."* ﴾103﴿
 > — QS. Ali Imran (3): 103
 
----
+---^4
 
 ## Daftar Pustaka
 

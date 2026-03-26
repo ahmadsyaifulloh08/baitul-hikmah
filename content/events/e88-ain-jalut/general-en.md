@@ -43,7 +43,7 @@ The Battle of Ain Jalut teaches several important lessons:^1 ^2
 > *"And victory is not but from Allah. Indeed, Allah is Exalted in Might and Wise."* ﴾10﴿
 > — QS. Al-Anfal (8): 10
 
-This battle marked a turning point in Islamic world history, saving civilization from total destruction and opening the way for the revival of Islamic power in the Middle East.^1 ^3
+This battle marked a turning point in Islamic world history, saving civilization from total destruction and opening the way for the revival of Islamic power in the Middle East.^1 ^3 ^5
 
 ---
 

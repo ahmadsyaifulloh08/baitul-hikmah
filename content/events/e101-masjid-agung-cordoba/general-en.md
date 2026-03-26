@@ -61,7 +61,7 @@ The Quran reminds us about the importance of building on strong foundations:
 > *"Is one who laid the foundation of his building on righteousness [with fear] from Allah and [seeking] His approval better or one who laid the foundation of his building on the edge of a bank about to collapse?"* ﴾109﴿
 > — QS. At-Taubah (9): 109
 
-**Values that can be learned:**
+**Values that can be learned:**^8
 - **Resilience in facing challenges** can produce extraordinary achievements
 - **Architectural innovation** reflects civilizational progress and adaptability
 - **Integration of various cultural traditions** enriches artistic and intellectual treasury

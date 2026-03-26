@@ -43,7 +43,7 @@ Pertempuran Ain Jalut mengajarkan beberapa pelajaran penting:^1 ^2
 > *"Kemenangan itu hanyalah dari sisi Allah. Sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana."* ﴾10﴿
 > — QS. Al-Anfal (8): 10
 
-Pertempuran ini menandai titik balik dalam sejarah dunia Islam, menyelamatkan peradaban dari kehancuran total dan membuka jalan bagi kebangkitan kembali kekuatan Islam di Timur Tengah.^1 ^3
+Pertempuran ini menandai titik balik dalam sejarah dunia Islam, menyelamatkan peradaban dari kehancuran total dan membuka jalan bagi kebangkitan kembali kekuatan Islam di Timur Tengah.^1 ^3 ^5
 
 ---
 

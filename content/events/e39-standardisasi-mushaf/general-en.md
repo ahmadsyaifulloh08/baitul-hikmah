@@ -62,7 +62,7 @@ The Quran itself guarantees its own preservation by Allah:
 > *"Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:
+Scholars regard Uthman's standardization project as one of the tangible manifestations of this divine promise. Al-Suyuti wrote:^3
 
 *"What Uthman did was unite the ummah upon a single mushaf and a single mode of the seven modes — not eliminate anything from the Quran. This was the consensus (ijma') of the companions. "*
 

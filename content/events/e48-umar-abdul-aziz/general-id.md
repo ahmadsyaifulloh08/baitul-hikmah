@@ -41,7 +41,7 @@ Umar juga melakukan reformasi administratif yang menyeluruh:^1 ^2 ^3
 > *"Sesungguhnya Allah menyuruh (kamu) berlaku adil dan berbuat kebajikan, memberi bantuan kepada kerabat. ﴾90﴿"*
 > — QS. An-Nahl (16): 90
 
-- **Pemecatan pejabat korup** — Gubernur-gubernur yang dikenal zalim dipecat dan diganti.
+- **Pemecatan pejabat korup** — Gubernur-gubernur yang dikenal zalim dipecat dan diganti^4.
 - **Pembatasan kekuasaan polisi** — Umar melarang penyiksaan dan pemenjaraan tanpa proses hukum yang jelas.
 - **Perbaikan infrastruktur** — Pembangunan jalan, penggalian sumur, dan pembangunan rumah sakit di berbagai provinsi.
 - **Dakwah damai** — Umar mengirim surat-surat dakwah kepada para raja non-Muslim, mengajak mereka memeluk Islam melalui diplomasi, bukan kekerasan.

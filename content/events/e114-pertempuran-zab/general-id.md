@@ -59,7 +59,7 @@ Pertempuran Zab Besar mengingatkan kita tentang hukum alam politik: tidak ada ke
 > *"Negeri akhirat itu Kami jadikan untuk orang-orang yang tidak menyombongkan diri dan tidak berbuat kerusakan di bumi."* ﴾83﴿
 > — QS. Al-Qasas (28): 83
 
-Dinasti Umayyah jatuh karena arogansi dan kezaliman yang berkepanjangan — ayat ini mengingatkan bahwa kekuasaan sejati hanya bagi mereka yang tidak mengejar kesombongan.
+Dinasti Umayyah jatuh karena arogansi dan kezaliman yang berkepanjangan — ayat ini mengingatkan bahwa kekuasaan sejati hanya bagi mereka yang tidak mengejar kesombongan^8.
 
 Peristiwa ini juga mengajarkan pentingnya legitimasi dan dukungan rakyat dalam pemerintahan, serta bagaimana ketidakadilan dan diskriminasi dapat menjadi benih kehancuran sebuah dinasti.
 

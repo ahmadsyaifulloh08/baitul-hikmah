@@ -67,7 +67,7 @@ Pada hari Jumat, 18 Dzulhijjah 35 H (17 Juni 656 M), para pemberontak menerobos 
 > *"Maka Allah akan memelihara kamu dari mereka. Dan Dialah Yang Maha Mendengar lagi Maha Mengetahui. ﴾137﴿"*
 > — QS. Al-Baqarah (2): 137
 
-Utsman wafat dalam usia sekitar 82 tahun, setelah menjabat khalifah selama 12 tahun. Ia dimakamkan di pemakaman Baqi', Madinah.
+Utsman wafat dalam usia sekitar 82 tahun, setelah menjabat khalifah selama 12 tahun. Ia dimakamkan di pemakaman Baqi', Madinah^7.
 
 ## Dialog dan Dalil
 

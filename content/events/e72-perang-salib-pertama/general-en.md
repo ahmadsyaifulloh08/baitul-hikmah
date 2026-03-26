@@ -61,7 +61,7 @@ The Qur'an reminds about the limits in warfare:
 > *"And fight in the way of Allah those who fight you but do not transgress. Indeed, Allah does not like transgressors. ﴾190﴿"*
 > — QS. Al-Baqarah (2): 190^3
 
-## Formation of Crusader States
+## Formation of Crusader States^4
 
 After capturing Jerusalem, the Crusader leaders formed four states: the Kingdom of Jerusalem, the Kingdom of Antioch, the County of Edessa, and the County of Tripoli. **Godfrey of Bouillon** was chosen as the first ruler of Jerusalem with the title "Defender of the Holy Sepulchre"^1.
 

@@ -62,7 +62,7 @@ Al-Quran sendiri menjamin pemeliharaannya oleh Allah:
 > *"Sesungguhnya Kamilah yang menurunkan al-Quran, dan sesungguhnya Kami benar-benar memeliharanya. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Para ulama memandang proyek standardisasi Utsman sebagai salah satu wujud nyata dari janji ilahi ini. Al-Suyuti menulis:
+Para ulama memandang proyek standardisasi Utsman sebagai salah satu wujud nyata dari janji ilahi ini. Al-Suyuti menulis:^3
 
 *"Yang dilakukan Utsman adalah mengumpulkan umat pada satu mushaf dan satu huruf dari tujuh huruf, bukan menghilangkan sesuatu dari al-Quran. Ini adalah ijma' (konsensus) sahabat. "*
 

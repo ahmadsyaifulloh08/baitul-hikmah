@@ -61,21 +61,21 @@ Tentang penyebab kekalahan — ketidaktaatan pemanah:
 > *"Dan sungguh Allah telah memenuhi janji-Nya kepadamu, ketika kamu membunuh mereka dengan izin-Nya, sampai pada saat kamu lemah dan berselisih dalam urusan (perintah) itu dan mendurhakai (perintah Rasul) setelah Allah memperlihatkan kepadamu apa yang kamu sukai. ﴾152﴿"*
 > — QS. Ali Imran (3): 152
 
-Tentang musibah sebagai konsekuensi:
+Tentang musibah sebagai konsekuensi:^4
 
 > أَوَلَمَّا أَصَابَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا ۖ قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ ﴿١٦٥﴾
 >
 > *"Dan mengapa ketika kamu ditimpa musibah (kekalahan di Uhud), padahal kamu telah menimpakan musibah dua kali lipat (kepada musuhmu di Badr), kamu berkata: 'Dari mana datangnya ini?' Katakanlah: 'Itu dari dirimu sendiri.' ﴾165﴿"*
 > — QS. Ali Imran (3): 165
 
-Namun al-Quran juga menekankan bahwa kekalahan ini memiliki hikmah mendalam:
+Namun al-Quran juga menekankan bahwa kekalahan ini memiliki hikmah mendalam:^4
 
 > وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ ﴿١٣٩﴾
 >
 > *"Janganlah kamu merasa lemah dan janganlah kamu bersedih hati, padahal kamu adalah orang-orang yang paling tinggi (derajatnya), jika kamu orang-orang yang beriman. ﴾139﴿"*
 > — QS. Ali Imran (3): 139
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^4
 
 ### Disiplin Menentukan Segalanya
 

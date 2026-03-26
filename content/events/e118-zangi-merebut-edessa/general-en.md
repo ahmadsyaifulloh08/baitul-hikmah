@@ -53,7 +53,7 @@ The Qur'an affirms Allah's promise of help for believers:
 > *"And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might. ﴾40﴿"*
 > — QS. Al-Hajj (22): 40^3
 
-## Christian World Response
+## Christian World Response^4
 
 The fall of Edessa caused tremendous shock in Europe. Pope Eugenius III immediately issued bull *Quantum Praedecessores* in 1145 CE, calling for Second Crusade to recapture Edessa^1.
 

@@ -47,7 +47,7 @@ Konflik ini juga membuktikan pentingnya **diplomasi** dalam menyelesaikan sengke
 > *"Allah tidak melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
----
+---^4
 
 ## Daftar Pustaka
 

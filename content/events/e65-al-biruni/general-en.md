@@ -67,7 +67,7 @@ Al-Biruni criticized several Aristotelian physics theories based on his observat
 > *"We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth."* ﴾53﴿
 > — QS. Fussilat (41): 53^18
 
-Al-Biruni spent his life observing God's signs across the horizons — from astronomy to mineralogy — precisely as this verse commands.
+Al-Biruni spent his life observing God's signs across the horizons — from astronomy to mineralogy — precisely as this verse commands^18.
 
 ## Legacy and Influence on Civilization
 

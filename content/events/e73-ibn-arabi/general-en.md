@@ -21,7 +21,7 @@ In Tunis, he met **Abd al-Aziz al-Mahdawi**, a great Sufi who gave him ijazah (t
 > *"And I did not create the jinn and mankind except to worship Me."*
 > — QS. al-Dhariyat (51): 56^4
 
-## Magnum Opus and the Doctrine of Wahdat al-Wujud
+## Magnum Opus and the Doctrine of Wahdat al-Wujud^9
 
 Ibn Arabi was a highly productive writer with more than 400 works attributed to him. His two most important works are **"Al-Futuhat al-Makkiyah"** (The Meccan Revelations) and **"Fusus al-Hikam"** (The Bezels of Wisdom). The first is an encyclopedia of Sufism consisting of 560 chapters, while the second contains 27 chapters on the wisdom of the prophets.^5
 

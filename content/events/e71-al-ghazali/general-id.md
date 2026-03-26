@@ -39,7 +39,7 @@ Dalam mukadimah karyanya, al-Ghazali menjelaskan tujuan penulisan:
 > *"Dan tidaklah Kami mengutus engkau (Muhammad), kecuali sebagai rahmat bagi seluruh alam. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107^1
 
-## Metodologi dan Pendekatan
+## Metodologi dan Pendekatan^4
 
 Salah satu keunggulan "Ihya Ulum al-Din" terletak pada metodologi yang digunakan al-Ghazali. Ia tidak hanya menyajikan hukum-hukum fiqh secara kering, tetapi selalu menjelaskan hikmah dan dimensi spiritual di balik setiap ajaran Islam.^2
 

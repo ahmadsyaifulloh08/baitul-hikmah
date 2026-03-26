@@ -19,7 +19,7 @@ The Quran recorded this trial^5:
 > *"March forth whether light or heavy, and strive with your wealth and your lives in the cause of Allah. ﴾41﴿"*
 > — QS. At-Tawbah (9): 41
 
-In these difficult conditions, the nobility of the companions shone brilliantly:
+In these difficult conditions, the nobility of the companions shone brilliantly:^5
 
 **Abu Bakr al-Siddiq** donated **all of his wealth**. When the Prophet ﷺ asked: *"What have you left for your family?"* Abu Bakr replied: *"I have left them Allah and His Messenger."*^3
 
@@ -37,14 +37,14 @@ Even the poorest companions competed to contribute. One came with only a handful
 > *"Those who criticize the believers who give charity voluntarily and ridicule those who find nothing to give except their own effort — Allah will ridicule them. ﴾79﴿"*
 > — QS. At-Tawbah (9): 79
 
-There were also seven companions who came asking for mounts to join the expedition, but the Prophet ﷺ had no animals for them. They went home **weeping** because they could not participate. The Quran immortalized them:
+There were also seven companions who came asking for mounts to join the expedition, but the Prophet ﷺ had no animals for them. They went home **weeping** because they could not participate. The Quran immortalized them:^5
 
 > وَلَا عَلَى الَّذِينَ إِذَا مَا أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَا أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا وَّأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنفِقُونَ ﴿٩٢﴾
 >
 > *"Nor upon those who, when they came to you that you might provide them with mounts, you said: 'I can find no mounts for you,' and they turned back while their eyes overflowed with tears out of grief that they could find nothing to spend. ﴾92﴿"*
 > — QS. At-Tawbah (9): 92
 
-## Key Dialogues and Evidence: Hypocrites and the Test of Loyalty
+## Key Dialogues and Evidence: Hypocrites and the Test of Loyalty^5
 
 The Tabuk expedition became the test that most clearly separated true believers from hypocrites. Surah At-Tawbah — revealed in connection with Tabuk — thoroughly exposed the masks of the hypocrites.
 
@@ -55,7 +55,7 @@ They searched for excuses not to join the expedition. Some requested exemption o
 > *"Unquestionably, into temptation they have already fallen. ﴾49﴿"*
 > — QS. At-Tawbah (9): 49
 
-A group of hypocrites also constructed a mosque — known as **Masjid al-Dirar** — as a base to divide the Muslim community. Allah exposed their scheme and commanded the Prophet ﷺ to demolish it.^1
+A group of hypocrites also constructed a mosque — known as **Masjid al-Dirar** — as a base to divide the Muslim community. Allah exposed their scheme and commanded the Prophet ﷺ to demolish it.^1 ^5
 
 ### The Story of Ka'b ibn Malik: Honesty That Saved
 
@@ -72,7 +72,7 @@ The Prophet ﷺ said: *"As for this man, he has spoken the truth."* But Ka'b was
 > *"And upon the three who were left behind, until when the earth closed in on them in spite of its vastness, and their own souls confined them, and they were certain that there is no refuge from Allah except in Him — then He turned to them so they could repent. ﴾118﴿"*
 > — QS. At-Tawbah (9): 118
 
-## Analysis and Lessons
+## Analysis and Lessons^5
 
 ### An Expedition Without Battle
 

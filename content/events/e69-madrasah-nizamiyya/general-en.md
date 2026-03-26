@@ -49,7 +49,7 @@ At Nizamiyya, Al-Ghazali not only taught jurisprudence and theology, but also de
 > *"And say: 'My Lord, increase me in knowledge.'" ﴾114﴿*
 > — QS. Taha (20): 114^15
 
-## Innovation in Funding and Administrative Systems
+## Innovation in Funding and Administrative Systems^15
 
 ### Sustainable Waqf System
 

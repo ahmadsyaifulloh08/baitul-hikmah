@@ -45,7 +45,7 @@ Salah satu keistimewaan Cordoba adalah model toleransi beragama yang dipraktikka
 > *"Hai Ahli Kitab, marilah (berpegang) kepada suatu kalimat (ketetapan) yang tidak ada perselisihan antara kami dan kamu..." ﴾64﴿*
 > — QS. Ali Imran (3): 64^11
 
-## Warisan Abadi bagi Eropa dan Dunia
+## Warisan Abadi bagi Eropa dan Dunia^11
 
 Cordoba tidak hanya menjadi pusat keilmuan Islam, tetapi juga gerbang masuknya pengetahuan klasik Yunani dan Islam ke Eropa. Melalui Toledo dan universitas-universitas Eropa seperti Oxford dan Paris, karya-karya yang diterjemahkan di Cordoba menjadi fondasi bagi Renaissance Eropa.
 

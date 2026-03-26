@@ -77,7 +77,7 @@ Kisah ini juga menunjukkan bahwa **integrasi ekonomi** dapat menjadi jembatan un
 > *"Dan di antara tanda-tanda kekuasaan-Nya ialah menciptakan langit dan bumi dan berlain-lainan bahasa dan warnamu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
----
+---^4
 
 ## Daftar Pustaka
 

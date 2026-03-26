@@ -65,7 +65,7 @@ Pentingnya **guru spiritual (murshid)** dalam perjalanan sufi juga terlihat jela
 > *"Dan milik Allah-lah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."* ﴾115﴿
 > — QS. Al-Baqarah (2): 115
 
-Ayat ini menjadi inti filosofi Rumi tentang kehadiran Allah di mana-mana, yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa.
+Ayat ini menjadi inti filosofi Rumi tentang kehadiran Allah di mana-mana, yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa^4.
 
 ---
 

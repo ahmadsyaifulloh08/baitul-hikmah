@@ -30,7 +30,7 @@ Upon arriving in Makkah on the 4th of Dhul-Hijjah, the Prophet ﷺ proceeded dir
 > *"And take the station of Ibrahim as a place of prayer. ﴾125﴿"*
 > — QS. Al-Baqarah (2): 125
 
-### Standing at Arafah — The Pinnacle of Hajj
+### Standing at Arafah — The Pinnacle of Hajj^5
 
 The ninth day of Dhul-Hijjah is the Day of Arafah — the very core of the Hajj pilgrimage. The Prophet ﷺ said:
 
@@ -107,7 +107,7 @@ On that very Day of Arafah, one of the most momentous verses of the Quran was re
 > *"This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. ﴾3﴿"*
 > — QS. Al-Ma'idah (5): 3
 
-Imam al-Bukhari narrates that when this verse was revealed, Umar ibn al-Khattab wept. When asked why, he replied: *"After perfection, there is nothing but decline."* Umar understood that this verse signaled the nearing end of the prophetic mission — and the approaching death of the Messenger of Allah ﷺ.
+Imam al-Bukhari narrates that when this verse was revealed, Umar ibn al-Khattab wept. When asked why, he replied: *"After perfection, there is nothing but decline."* Umar understood that this verse signaled the nearing end of the prophetic mission — and the approaching death of the Messenger of Allah ﷺ^5.
 
 ## Analysis: A Sermon That Transcended Its Era
 

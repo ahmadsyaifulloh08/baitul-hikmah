@@ -91,7 +91,7 @@ Ibn Taimiyah taught several important principles:
 > *"O you who believe! Stand out firmly for justice, as witnesses to Allah."* ﴾135﴿
 > — QS. An-Nisa' (4): 135
 
-Ibn Taimiyah exemplified the meaning of this verse through consistency in upholding truth despite facing various pressures.
+Ibn Taimiyah exemplified the meaning of this verse through consistency in upholding truth despite facing various pressures^5.
 
 ---
 

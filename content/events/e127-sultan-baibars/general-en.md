@@ -55,7 +55,7 @@ Sultan Baibars taught several important principles:
 > *"Indeed, with hardship comes ease."* ﴾6﴿
 > — QS. Al-Insyirah (94): 6
 
-This verse reflects Baibars' spirit of never giving up despite facing seemingly impossible challenges.
+This verse reflects Baibars' spirit of never giving up despite facing seemingly impossible challenges^5.
 
 ---
 

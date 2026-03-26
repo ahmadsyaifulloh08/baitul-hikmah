@@ -9,7 +9,7 @@ Setelah tiga tahun dakwah secara sembunyi-sembunyi, jumlah muslim di Makkah tela
 > *"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat. ﴾214﴿"*
 > — QS. Al-Syu'ara' (26): 214
 
-Ayat ini menandai peralihan dari dakwah *sirriyyah* (sembunyi-sembunyi) ke dakwah *jahriyyah* (terang-terangan). Makkah pada saat itu masih sepenuhnya dikuasai oleh elit Quraisy yang bergantung pada sistem penyembahan berhala. Seruan tauhid secara terbuka berarti menantang seluruh tatanan sosial, ekonomi, dan keagamaan yang telah mapan selama berabad-abad.^2
+Ayat ini menandai peralihan dari dakwah *sirriyyah* (sembunyi-sembunyi) ke dakwah *jahriyyah* (terang-terangan). Makkah pada saat itu masih sepenuhnya dikuasai oleh elit Quraisy yang bergantung pada sistem penyembahan berhala. Seruan tauhid secara terbuka berarti menantang seluruh tatanan sosial, ekonomi, dan keagamaan yang telah mapan selama berabad-abad.^2 ^3
 
 ## Peristiwa
 
@@ -61,7 +61,7 @@ Abu Lahab — yang nama aslinya Abdul 'Uzza bin Abdul Muththalib — adalah pama
 > *"Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia. ﴾1﴿ Tidaklah berguna baginya harta bendanya dan apa yang dia usahakan. ﴾2﴿ Kelak dia akan masuk ke dalam api yang bergejolak (neraka). ﴾3﴿ Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). ﴾4﴿ Di lehernya ada tali dari sabut yang dipintal. ﴾5﴿"*
 > — QS. Al-Lahab (111): 1–5
 
-Ibn Kathir dalam tafsirnya menjelaskan bahwa surah ini merupakan respons langsung terhadap penolakan Abu Lahab dan juga terhadap peran istrinya, **Ummu Jamil binti Harb** (saudari Abu Sufyan), yang kerap menaburkan duri di jalan yang dilalui Nabi Muhammad SAW dan menyebarkan fitnah tentang beliau di kalangan Quraisy.
+Ibn Kathir dalam tafsirnya menjelaskan bahwa surah ini merupakan respons langsung terhadap penolakan Abu Lahab dan juga terhadap peran istrinya, **Ummu Jamil binti Harb** (saudari Abu Sufyan), yang kerap menaburkan duri di jalan yang dilalui Nabi Muhammad SAW dan menyebarkan fitnah tentang beliau di kalangan Quraisy^3.
 
 ## Dialog dan Dalil
 

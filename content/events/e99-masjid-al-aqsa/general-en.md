@@ -35,7 +35,7 @@ The construction of Al-Aqsa Mosque had deep spiritual meaning for Muslims.^4 Thi
 > *"Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed."* ﴾1﴿
 > — QS. Al-Isra' (17): 1
 
-Politically, the construction of this mosque affirmed the legitimacy of the Umayyad dynasty as successors to Islamic leadership and protectors of holy places.^1 The Haram al-Sharif complex became a symbol of the power and magnificence of the Islamic caliphate at its peak.^2
+Politically, the construction of this mosque affirmed the legitimacy of the Umayyad dynasty as successors to Islamic leadership and protectors of holy places.^1 The Haram al-Sharif complex became a symbol of the power and magnificence of the Islamic caliphate at its peak.^2 ^8
 
 ## Legacy and Continuity
 

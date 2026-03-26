@@ -29,7 +29,7 @@ Dalam salah satu khutbahnya, Abdul Qadir menjelaskan pentingnya keseimbangan ant
 > *"Wahai jiwa yang tenang, kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai. Maka masuklah ke dalam golongan hamba-hamba-Ku, dan masuklah ke dalam surga-Ku."* ﴾27-30﴿
 > — QS. Al-Fajr (89): 27-30^4
 
-Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian jiwa yang tenang (nafs al-mutma'innah) sebagai tujuan tertinggi perjalanan spiritual.
+Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian jiwa yang tenang (nafs al-mutma'innah) sebagai tujuan tertinggi perjalanan spiritual^4.
 
 ## Tarekat Qadiriyyah dan Ajarannya
 

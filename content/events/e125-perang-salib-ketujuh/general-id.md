@@ -77,7 +77,7 @@ Kisah ini juga menunjukkan bahwa **ketangguhan dalam kekalahan bisa lebih mulia 
 > *"Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu, dan boleh jadi pula kamu menyukai sesuatu, padahal ia amat buruk bagimu; Allah mengetahui, sedang kamu tidak mengetahui."* ﴾216﴿
 > — QS. Al-Baqarah (2): 216
 
----
+---^4
 
 ## Daftar Pustaka
 

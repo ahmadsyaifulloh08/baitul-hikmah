@@ -19,7 +19,7 @@ Al-Quran merekam ujian ini^5:
 > *"Berangkatlah kalian baik dalam keadaan ringan maupun berat, dan berjihadlah dengan harta dan diri kalian di jalan Allah. ﴾41﴿"*
 > — QS. At-Taubah (9): 41
 
-Dalam kondisi sulit ini, kemuliaan para sahabat bersinar terang:
+Dalam kondisi sulit ini, kemuliaan para sahabat bersinar terang:^5
 
 **Abu Bakr as-Siddiq** menyumbangkan **seluruh hartanya**. Ketika Rasulullah ﷺ bertanya: *"Apa yang kamu sisakan untuk keluargamu?"* Abu Bakr menjawab: *"Aku sisakan Allah dan Rasul-Nya."*^3
 
@@ -37,14 +37,14 @@ Para sahabat yang miskin pun berlomba-lomba menyumbang. Ada yang datang hanya me
 > *"Orang-orang yang mencela kaum mukmin yang bersedekah dengan sukarela dan mencela orang-orang yang tidak memperoleh (sesuatu untuk disedekahkan) selain sekedar kesanggupannya, lalu mereka mengejeknya — Allah akan membalas ejekan mereka. ﴾79﴿"*
 > — QS. At-Taubah (9): 79
 
-Di sisi lain, ada tujuh orang sahabat yang datang meminta tunggangan untuk ikut berperang, namun Rasulullah ﷺ tidak memiliki hewan tunggangan untuk mereka. Mereka pulang dengan **menangis** karena tidak mampu ikut berjihad. Al-Quran mengabadikan mereka:
+Di sisi lain, ada tujuh orang sahabat yang datang meminta tunggangan untuk ikut berperang, namun Rasulullah ﷺ tidak memiliki hewan tunggangan untuk mereka. Mereka pulang dengan **menangis** karena tidak mampu ikut berjihad. Al-Quran mengabadikan mereka:^5
 
 > وَلَا عَلَى الَّذِينَ إِذَا مَا أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَا أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا وَّأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَنًا أَلَّا يَجِدُوا مَا يُنفِقُونَ ﴿٩٢﴾
 >
 > *"Dan tidak pula atas orang-orang yang apabila mereka datang kepadamu agar engkau memberikan kendaraan kepada mereka, lalu engkau berkata: 'Aku tidak memperoleh kendaraan untuk kalian,' mereka kembali sedang mata mereka bercucuran air mata karena sedih, karena tidak memiliki sesuatu untuk diinfakkan. ﴾92﴿"*
 > — QS. At-Taubah (9): 92
 
-## Dialog dan Dalil: Kaum Munafik dan Ujian Kesetiaan
+## Dialog dan Dalil: Kaum Munafik dan Ujian Kesetiaan^5
 
 Ekspedisi Tabuk menjadi ujian yang memisahkan orang beriman sejati dari kaum munafik secara paling gamblang. Surah At-Taubah — yang turun berkaitan dengan peristiwa Tabuk — membongkar habis kedok kaum munafik.
 
@@ -55,7 +55,7 @@ Mereka mencari-cari alasan untuk tidak ikut berperang. Sebagian meminta izin den
 > *"Ketahuilah, sesungguhnya mereka telah jatuh ke dalam fitnah (keburukan). ﴾49﴿"*
 > — QS. At-Taubah (9): 49
 
-Ada pula sekelompok munafik yang membangun masjid — disebut **Masjid al-Dhirar** — sebagai markas untuk memecah belah umat. Allah membongkar rencana mereka dan memerintahkan Rasulullah ﷺ untuk menghancurkan masjid tersebut.^1
+Ada pula sekelompok munafik yang membangun masjid — disebut **Masjid al-Dhirar** — sebagai markas untuk memecah belah umat. Allah membongkar rencana mereka dan memerintahkan Rasulullah ﷺ untuk menghancurkan masjid tersebut.^1 ^5
 
 ### Kisah Ka'b bin Malik: Kejujuran yang Menyelamatkan
 
@@ -72,7 +72,7 @@ Rasulullah ﷺ berkata: *"Adapun orang ini, dia telah berkata jujur. "* Namun Ka
 > *"Dan terhadap tiga orang yang ditangguhkan (penerimaan taubat mereka), hingga apabila bumi terasa sempit bagi mereka meskipun luas, dan jiwa mereka pun terasa sempit, dan mereka yakin bahwa tidak ada tempat lari dari (siksa) Allah kecuali kembali kepada-Nya, kemudian Allah menerima taubat mereka agar mereka tetap bertaubat. ﴾118﴿"*
 > — QS. At-Taubah (9): 118
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^5
 
 ### Ekspedisi Tanpa Pertempuran
 

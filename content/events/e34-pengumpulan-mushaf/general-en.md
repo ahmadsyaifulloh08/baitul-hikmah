@@ -64,7 +64,7 @@ Al-Bukhari records a touching detail about this process. Zayd said:
 > *"There has certainly come to you a messenger from among yourselves. Grievous to him is what you suffer; he is concerned over you, and to the believers he is kind and merciful. ﴾128﴿"*
 > — QS. Al-Tawbah (9): 128
 
-Al-Suyuti explains that "only with Abu Khuzaymah " means that he alone possessed the **written record** of these two final verses, not that no one else had memorized them. Other memorizers did have the verses in memory, but Zayd required written documentation as additional verification.
+Al-Suyuti explains that "only with Abu Khuzaymah " means that he alone possessed the **written record** of these two final verses, not that no one else had memorized them. Other memorizers did have the verses in memory, but Zayd required written documentation as additional verification^3.
 
 ### The Safekeeping of the Manuscript
 
@@ -81,7 +81,7 @@ This compilation project, in the Islamic theological perspective, was the fulfil
 > *"Indeed, it is We who sent down the Reminder, and indeed, We will be its guardian. ﴾9﴿"*
 > — QS. Al-Hijr (15): 9
 
-Scholars interpret Allah's "guardianship " of the Quran not as direct divine inscription, but as Allah guiding the hearts and minds of His servants — Umar who urged, Abu Bakr who accepted, and Zayd who executed — to preserve the Quran through natural means.
+Scholars interpret Allah's "guardianship " of the Quran not as direct divine inscription, but as Allah guiding the hearts and minds of His servants — Umar who urged, Abu Bakr who accepted, and Zayd who executed — to preserve the Quran through natural means^3.
 
 ### Distinction from the Uthmanic Compilation
 

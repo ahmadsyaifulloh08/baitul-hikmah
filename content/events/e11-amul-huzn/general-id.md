@@ -32,7 +32,7 @@ Ayat yang turun terkait peristiwa ini adalah:
 > *"Sesungguhnya engkau (Muhammad) tidak dapat memberi petunjuk kepada orang yang engkau cintai, tetapi Allah memberi petunjuk kepada siapa yang Dia kehendaki, dan Dia lebih mengetahui orang-orang yang mau menerima petunjuk. ﴾56﴿"*
 > — QS. Al-Qashash (28): 56
 
-Wafatnya Abu Thalib meninggalkan kekosongan perlindungan yang sangat besar. Tanpa perlindungan seorang kepala kabilah yang dihormati, Nabi Muhammad SAW kini terbuka terhadap serangan fisik langsung dari Quraisy. Tidak lama setelah Abu Thalib wafat, seseorang melemparkan debu ke kepala Nabi ketika beliau berjalan di pasar — suatu tindakan penghinaan yang tidak pernah berani dilakukan siapa pun selama Abu Thalib masih hidup.^5
+Wafatnya Abu Thalib meninggalkan kekosongan perlindungan yang sangat besar. Tanpa perlindungan seorang kepala kabilah yang dihormati, Nabi Muhammad SAW kini terbuka terhadap serangan fisik langsung dari Quraisy. Tidak lama setelah Abu Thalib wafat, seseorang melemparkan debu ke kepala Nabi ketika beliau berjalan di pasar — suatu tindakan penghinaan yang tidak pernah berani dilakukan siapa pun selama Abu Thalib masih hidup.^5 ^6
 
 ### Wafatnya Khadijah binti Khuwaylid
 
@@ -81,7 +81,7 @@ Dalam kondisi terpuruk inilah Allah SWT mengirimkan penghiburan melalui firman-N
 > *"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿ Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk. ﴾7﴿ Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan. ﴾8﴿"*
 > — QS. Al-Dhuha (93): 6–8
 
-Ayat-ayat ini, meskipun turunnya diperdebatkan apakah tepat pada tahun ini, menjadi penghiburan abadi bahwa Allah tidak pernah meninggalkan Nabi-Nya. Setiap kehilangan akan digantikan dengan pemberian yang lebih besar — dan memang, tidak lama kemudian Allah menganugerahi Nabi peristiwa Isra' Mi'raj sebagai penghiburan langit.^2
+Ayat-ayat ini, meskipun turunnya diperdebatkan apakah tepat pada tahun ini, menjadi penghiburan abadi bahwa Allah tidak pernah meninggalkan Nabi-Nya. Setiap kehilangan akan digantikan dengan pemberian yang lebih besar — dan memang, tidak lama kemudian Allah menganugerahi Nabi peristiwa Isra' Mi'raj sebagai penghiburan langit.^2 ^6
 
 ## Analisis dan Hikmah
 

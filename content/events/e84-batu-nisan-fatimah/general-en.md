@@ -45,7 +45,7 @@ The Qur'an affirms the principle of religious freedom that may have been applied
 > *"There is no compulsion in religion. The right course has become clear from the wrong. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^3
 
-## Implications for Islamic Historiography
+## Implications for Islamic Historiography^4
 
 The discovery of Fatimah binti Maimun's tombstone changed the paradigm of Islamic historiography in Indonesia. Historians now must revise the timeline of Islam's entry into Java that had long been believed to occur in the 13th or 14th centuries^1.
 

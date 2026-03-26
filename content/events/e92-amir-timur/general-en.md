@@ -85,7 +85,7 @@ The figure of Timur teaches several complex lessons:
 > *"And these days [of varying conditions] We alternate among the people."* ﴾140﴿
 > — QS. Ali Imran (3): 140
 
-This verse reflects the cyclical nature of power exemplified by the rise and fall of the Timurid Empire.^3
+This verse reflects the cyclical nature of power exemplified by the rise and fall of the Timurid Empire.^5
 
 ---
 

@@ -85,7 +85,7 @@ Kisah Sayyid Ajall dan Muslim Hui menunjukkan model integrasi yang unik dalam se
 > *"Allah tidak melarang kamu untuk berbuat baik dan berlaku adil terhadap orang-orang yang tiada memerangimu karena agama dan tidak (pula) mengusir kamu dari negerimu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil."* ﴾8﴿
 > — QS. Al-Mumtahanah (60): 8
 
-Ayat ini mencerminkan prinsip koeksistensi damai yang diterapkan oleh Muslim Hui dalam beradaptasi dengan masyarakat China non-Muslim, di mana mereka berbuat baik dan berlaku adil terhadap tetangga mereka yang berbeda keyakinan.^4
+Ayat ini mencerminkan prinsip koeksistensi damai yang diterapkan oleh Muslim Hui dalam beradaptasi dengan masyarakat China non-Muslim, di mana mereka berbuat baik dan berlaku adil terhadap tetangga mereka yang berbeda keyakinan.^4 ^5
 
 ---
 

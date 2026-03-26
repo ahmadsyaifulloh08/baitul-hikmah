@@ -71,7 +71,7 @@ Al-Khwarizmi's motivation in developing algebra was inseparable from the practic
 > *"Allah instructs you concerning your children: for the male, what is equal to the share of two females. ﴾11﴿"*
 > — QS. an-Nisa (4): 11
 
-This verse and subsequent verses in the same chapter regulate extremely complex inheritance proportions, involving various combinations of heirs. Solving these inheritance problems required complex equation systems — this drove al-Khwarizmi to develop systematic algebraic methods.^1
+This verse and subsequent verses in the same chapter regulate extremely complex inheritance proportions, involving various combinations of heirs. Solving these inheritance problems required complex equation systems — this drove al-Khwarizmi to develop systematic algebraic methods.^1 ^11
 
 In the preface to Kitab al-Jabr, al-Khwarizmi explicitly states that one of his main motivations was "what is mandated by Islamic law in matters of inheritance, wills, and distribution." This shows how practical demands of religious life became the driving force for mathematical innovation.^1
 

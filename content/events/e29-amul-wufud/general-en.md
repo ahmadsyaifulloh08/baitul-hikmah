@@ -15,7 +15,7 @@ The Quran itself immortalized this phenomenon in Surah An-Nasr^4:
 > *"When the help of Allah comes and the conquest, ﴾1﴿ and you see the people entering the religion of Allah in multitudes, ﴾2﴿ then glorify the praises of your Lord and seek His forgiveness. Indeed, He is ever Accepting of repentance. ﴾3﴿"*
 > — QS. An-Nasr (110): 1-3
 
-## The Events: Waves of Delegations to Madinah
+## The Events: Waves of Delegations to Madinah^4
 
 The year 9 AH (631 CE) became known as *'Am al-Wufud* (the Year of Delegations). Ibn Sa'd in *Tabaqat al-Kubra* records that the number of delegations arriving in Madinah was immense, involving dozens of tribes from every corner of the Arabian Peninsula.^3 Among the most significant:
 
@@ -30,7 +30,7 @@ This incident was recorded in the Quran:
 > *"Indeed, those who call you from behind the chambers — most of them do not understand. ﴾4﴿"*
 > — QS. Al-Hujurat (49): 4
 
-Yet after dialogue with the Prophet ﷺ and hearing the Quran, they accepted Islam and returned to their people as Muslims.
+Yet after dialogue with the Prophet ﷺ and hearing the Quran, they accepted Islam and returned to their people as Muslims^4.
 
 ### The Delegation of Banu 'Amir ibn Sa'sa'ah
 
@@ -53,7 +53,7 @@ They debated with the Prophet ﷺ regarding the nature of Jesus Christ. When no 
 > *"Then whoever argues with you about it after knowledge has come to you — say, 'Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly and invoke the curse of Allah upon the liars.' ﴾61﴿"*
 > — QS. Ali Imran (3): 61
 
-The Najran delegation ultimately declined the *mubahalah* and chose instead to establish a peace treaty with the Prophet ﷺ — they maintained their faith while paying the *jizyah* and living under the protection of the Islamic state.^1 This event set a crucial precedent for interfaith relations in Islam.
+The Najran delegation ultimately declined the *mubahalah* and chose instead to establish a peace treaty with the Prophet ﷺ — they maintained their faith while paying the *jizyah* and living under the protection of the Islamic state.^1 This event set a crucial precedent for interfaith relations in Islam^4.
 
 ### Other Delegations
 
@@ -95,7 +95,7 @@ Historians identify several factors that drove the mass acceptance of Islam in 9
 > *"There shall be no compulsion in religion. The right course has become clear from the wrong. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256
 
-### Respecting Diversity
+### Respecting Diversity^4
 
 The Prophet's treatment of the Najran delegation demonstrates that Islam acknowledges the reality of religious diversity. Those who declined to accept Islam were not coerced — they were granted protection and civil rights under a clear treaty. This was a remarkably advanced model of coexistence for its era.
 

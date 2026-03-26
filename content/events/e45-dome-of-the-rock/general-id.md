@@ -9,7 +9,7 @@
 > *"Maha Suci Allah, yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M. Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium.^1 Umar membersihkan area itu dan mendirikan tempat shalat sederhana.
+Yerusalem ditaklukkan oleh pasukan Muslim di bawah Khalifah Umar ibn al-Khaththab pada tahun 637 M. Ketika Umar mengunjungi kota itu secara langsung, ia menemukan bahwa area Haram al-Syarif (Temple Mount) — tempat suci yang pernah menjadi lokasi masjid para nabi terdahulu — telah diabaikan dan dijadikan tempat pembuangan sampah oleh penguasa Bizantium.^1 Umar membersihkan area itu dan mendirikan tempat shalat sederhana^4.
 
 ## Peristiwa: Pembangunan Qubbat al-Sakhrah
 
@@ -43,7 +43,7 @@ Inskripsi-inskripsi ini memuat ayat-ayat yang menegaskan keesaan Allah dan kedud
 > *"Wahai Ahli Kitab, janganlah kamu melampaui batas dalam agamamu, dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. ﴾171﴿"*
 > — QS. An-Nisa (4): 171
 
-## Analisis dan Hikmah
+## Analisis dan Hikmah^4
 
 ### Pernyataan Peradaban
 

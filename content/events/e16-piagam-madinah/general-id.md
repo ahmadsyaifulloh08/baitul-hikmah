@@ -37,7 +37,7 @@ Piagam ini secara eksplisit menjamin kebebasan beragama. Setiap kelompok berhak 
 > *"Tidak ada paksaan dalam agama."*
 > — QS. Al-Baqarah (2): 256
 
-### Pertahanan Bersama
+### Pertahanan Bersama^4
 
 Piagam menetapkan bahwa semua pihak yang menandatangani berkewajiban membela Madinah dari serangan luar. Jika Madinah diserang, semua kelompok — muslim dan non-muslim — harus berpartisipasi dalam pertahanan. Tidak boleh ada pihak yang berdamai secara sepihak dengan musuh Madinah tanpa persetujuan bersama.^1 ^2
 

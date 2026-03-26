@@ -47,7 +47,7 @@ This conflict also proved the importance of **diplomacy** in resolving disputes.
 > *"And if they incline to peace, then incline to it and trust in Allah."* ﴾61﴿
 > — QS. Al-Anfal (8): 61
 
----
+---^4
 
 ## Bibliography
 

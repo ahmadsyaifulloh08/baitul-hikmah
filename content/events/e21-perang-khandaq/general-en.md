@@ -63,14 +63,14 @@ The Quran recorded the events of Khandaq in Surah Al-Ahzab:
 > *"O you who have believed, remember the favor of Allah upon you when armies came to [attack] you and We sent upon them a wind and armies [of angels] you did not see. ﴾9﴿"*
 > — QS. Al-Ahzab (33): 9
 
-On the severe trial the Muslims endured during the siege:
+On the severe trial the Muslims endured during the siege:^4
 
 > إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ ﴿١٠﴾
 >
 > *"[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats. ﴾10﴿"*
 > — QS. Al-Ahzab (33): 10
 
-After the victory, the Prophet Muhammad ﷺ declared:^1
+After the victory, the Prophet Muhammad ﷺ declared:^1 ^4
 
 > الْآنَ نَغْزُوهُمْ وَلَا يَغْزُونَنَا، نَحْنُ نَسِيرُ إِلَيْهِمْ
 >

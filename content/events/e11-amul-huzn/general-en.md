@@ -32,7 +32,7 @@ The verse revealed in connection with this event was:
 > *"Indeed, you (O Muhammad) do not guide whom you love, but Allah guides whom He wills, and He is most knowing of the rightly guided. ﴾56﴿"*
 > — QS. Al-Qasas (28): 56
 
-Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^7
+Abu Talib's death left an enormous vacuum of protection. Without the protection of a respected clan chief, Prophet Muhammad SAW was now exposed to direct physical attacks from the Quraysh. Not long after Abu Talib's death, someone threw dust on the Prophet's head as he walked through the marketplace — an act of humiliation that no one would have dared commit while Abu Talib was alive.^7 ^23
 
 ### The Death of Khadijah bint Khuwaylid
 
@@ -81,7 +81,7 @@ It was in this state of anguish that Allah the Almighty sent consolation through
 > *"Did He not find you an orphan and give you refuge? ﴾6﴿ And He found you lost and guided you. ﴾7﴿ And He found you in need and made you self-sufficient. ﴾8﴿"*
 > — QS. Al-Duha (93): 6–8
 
-These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^7
+These verses, though the precise timing of their revelation is debated, serve as an eternal consolation that Allah never abandons His Prophet. Every loss would be replaced with something greater — and indeed, not long afterward, Allah bestowed upon the Prophet the event of Isra' Mi'raj as heavenly consolation.^1 ^7 ^23
 
 ## Analysis and Lessons
 

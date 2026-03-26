@@ -49,7 +49,7 @@ Di Nizamiyya, Al-Ghazali tidak hanya mengajar fiqh dan teologi, tetapi juga meng
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'" ﴾114﴿*
 > — QS. Taha (20): 114^15
 
-## Inovasi dalam Sistem Pendanaan dan Administrasi
+## Inovasi dalam Sistem Pendanaan dan Administrasi^15
 
 ### Sistem Waqf yang Berkelanjutan
 

@@ -62,7 +62,7 @@ Kisah Bilal menjadi perwujudan nyata ayat Al-Qur'an:
 > *"Wahai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa."*
 > — QS. Al-Hujurat (49): 13
 
-Nabi Muhammad SAW juga bersabda dalam Khutbah Wada':
+Nabi Muhammad SAW juga bersabda dalam Khutbah Wada':^6
 
 > لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ، وَلَا لِعَجَمِيٍّ عَلَى عَرَبِيٍّ، وَلَا لِأَحْمَرَ عَلَى أَسْوَدَ، وَلَا أَسْوَدَ عَلَى أَحْمَرَ إِلَّا بِالتَّقْوَى
 >

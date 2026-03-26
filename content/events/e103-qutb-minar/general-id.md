@@ -65,7 +65,7 @@ Kompleks Qutb mengajarkan tentang **kompleksitas dari proses historis**.^3 Di sa
 > *"Dan tiadalah Kami mengutus kamu, melainkan untuk (menjadi) rahmat bagi semesta alam."* ﴾107﴿
 > — QS. Al-Anbiya (21): 107
 
----
+---^4
 
 ## Daftar Pustaka
 

@@ -40,7 +40,7 @@ The Prophet ﷺ entered Makkah on Friday, 20 Ramadan 8 AH (January 11, 630 CE), 
 > *"Indeed, We have given you a clear conquest."*
 > — QS. Al-Fath (48): 1
 
-The army was divided into four columns entering Makkah from four different directions.^1 **Khalid ibn al-Walid** led the right flank from the south. His column encountered brief resistance from a small group of Quraysh led by Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, but this was quickly suppressed.^1 The other columns met no resistance at all. Makkah was liberated with virtually no bloodshed — an extraordinary military and moral achievement.
+The army was divided into four columns entering Makkah from four different directions.^1 **Khalid ibn al-Walid** led the right flank from the south. His column encountered brief resistance from a small group of Quraysh led by Ikrimah ibn Abi Jahl and Safwan ibn Umayyah, but this was quickly suppressed.^1 The other columns met no resistance at all. Makkah was liberated with virtually no bloodshed — an extraordinary military and moral achievement^5.
 
 After entering Makkah, the Prophet ﷺ proceeded to the Ka'bah. He performed *tawaf* seven times on his camel while destroying the 360 idols surrounding the Ka'bah with a staff in his hand, reciting:^1 ^3
 
@@ -49,7 +49,7 @@ After entering Makkah, the Prophet ﷺ proceeded to the Ka'bah. He performed *ta
 > *"Truth has come and falsehood has vanished. Indeed, falsehood is ever bound to vanish. ﴾81﴿"*
 > — QS. Al-Isra (17): 81
 
-Then came the most historic moment. The Prophet ﷺ stood at the door of the Ka'bah facing the people of Makkah — people who had for twenty years tortured, expelled, boycotted, and attempted to kill him. They stood with bowed heads, awaiting their fate. The Prophet ﷺ asked:
+Then came the most historic moment. The Prophet ﷺ stood at the door of the Ka'bah facing the people of Makkah — people who had for twenty years tortured, expelled, boycotted, and attempted to kill him. They stood with bowed heads, awaiting their fate. The Prophet ﷺ asked:^5
 
 *"O people of Quraysh, what do you think I am going to do with you? "*
 
@@ -93,7 +93,7 @@ Allah named this event *al-fath al-mubin* (the clear conquest) in Surah al-Fath.
 > *"Certainly has Allah shown to His Messenger the vision in truth: you will surely enter al-Masjid al-Haram, if Allah wills, in safety. ﴾27﴿"*
 > — QS. Al-Fath (48): 27
 
-### Long-Term Impact
+### Long-Term Impact^5
 
 The Conquest of Makkah permanently transformed the geopolitical map of the Arabian Peninsula. With the fall of Makkah — the spiritual and political center of the Arab tribes — to Islam, there remained no compelling reason for other tribes to resist the call. The following year was called *'Am al-Wufud* (the Year of Delegations), when tribes from every corner of Arabia came in droves to embrace Islam.^2 This was the realization of Allah's words:
 
@@ -102,7 +102,7 @@ The Conquest of Makkah permanently transformed the geopolitical map of the Arabi
 > *"When the help of Allah and the conquest come, and you see the people entering the religion of Allah in multitudes. ﴾2﴿"*
 > — QS. An-Nasr (110): 1-2
 
----
+---^5
 
 ## Bibliography
 

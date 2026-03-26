@@ -77,7 +77,7 @@ This story also shows that **resilience in defeat can be nobler than victory**.^
 > *"But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not."* ﴾216﴿
 > — QS. Al-Baqarah (2): 216
 
----
+---^4
 
 ## Bibliography
 

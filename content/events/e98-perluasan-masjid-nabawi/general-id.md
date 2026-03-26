@@ -58,7 +58,7 @@ Visi **Umar ibn al-Khattab** tentang masjid sebagai pusat ilmu sejalan dengan aj
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"*
 > — QS. Thaha (20): 114
 
-Ayat ini menjadi motto yang dipasang di atas pintu masuk setiap zona pembelajaran di Masjid Nabawi hasil perluasan^3.
+Ayat ini menjadi motto yang dipasang di atas pintu masuk setiap zona pembelajaran di Masjid Nabawi hasil perluasan^3^4.
 
 **Ibn Abbas** meriwayatkan bahwa **Umar ibn al-Khattab** pernah berkata:
 

@@ -23,7 +23,7 @@ The letter then quoted a Quranic verse^4:
 > *"Say, 'O People of the Book, come to a word that is equitable between us and you — that we will not worship except Allah and not associate anything with Him.' ﴾64﴿"*
 > — QS. Ali Imran (3): 64
 
-Heraclius's reaction was remarkable and documented in detail in Sahih al-Bukhari through an extended narration from Abu Sufyan. At that time, Abu Sufyan — still a polytheist — happened to be in al-Sham on a trading mission. Heraclius summoned him and posed a series of questions about Muhammad: his lineage, his followers, his teachings, whether he had ever lied, whether his followers were increasing or decreasing.^1
+Heraclius's reaction was remarkable and documented in detail in Sahih al-Bukhari through an extended narration from Abu Sufyan. At that time, Abu Sufyan — still a polytheist — happened to be in al-Sham on a trading mission. Heraclius summoned him and posed a series of questions about Muhammad: his lineage, his followers, his teachings, whether he had ever lied, whether his followers were increasing or decreasing.^1 ^4
 
 After hearing all of Abu Sufyan's answers, Heraclius concluded: *"If what you say is true, he will come to rule the ground beneath my feet."* Abu Sufyan later said: *"I left there convinced that the affair of Ibn Abi Kabshah [a derogatory name for Muhammad] would become great."*^1
 
@@ -74,7 +74,7 @@ The sending of these letters was a direct implementation of the universality of 
 > *"And We have not sent you except as a mercy to all the worlds. ﴾107﴿"*
 > — QS. Al-Anbiya (21): 107
 
-By sending letters to Rome, Persia, Egypt, and Abyssinia, Prophet Muhammad ﷺ literally conveyed this message to the four corners of the known world. This confirmed that Islam was not a tribal or racial religion, but a call for all of humanity.
+By sending letters to Rome, Persia, Egypt, and Abyssinia, Prophet Muhammad ﷺ literally conveyed this message to the four corners of the known world. This confirmed that Islam was not a tribal or racial religion, but a call for all of humanity^4.
 
 ### Diplomatic Dimension
 

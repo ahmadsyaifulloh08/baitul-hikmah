@@ -61,7 +61,7 @@ Bilal's story is a living embodiment of the Qur'anic verse:
 >
 > — QS. Al-Hujurat (49): 13
 
-The Prophet SAW also declared in his Farewell Sermon:
+The Prophet SAW also declared in his Farewell Sermon:^6
 
 > *"There is no superiority of an Arab over a non-Arab, nor of a non-Arab over an Arab; no superiority of a red-skinned person over a dark-skinned person, nor of a dark-skinned person over a red-skinned one — except through piety."*
 > — Musnad Ahmad, no. 23489

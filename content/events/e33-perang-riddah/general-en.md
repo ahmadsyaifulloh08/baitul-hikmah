@@ -104,7 +104,7 @@ The events of the Riddah had in fact been foreshadowed by the Quran:
 > *"O you who believe, whoever among you turns back from his religion, Allah will bring forth a people whom He loves and who love Him — humble toward the believers, stern toward the disbelievers. ﴾54﴿"*
 > — QS. Al-Ma'idah (5): 54
 
-Commentators, including Ibn Kathir, interpret "a people whom He loves " in this verse as referring to Abu Bakr and the companions who fought against the apostasy.^2
+Commentators, including Ibn Kathir, interpret "a people whom He loves " in this verse as referring to Abu Bakr and the companions who fought against the apostasy.^2 ^4
 
 ---
 

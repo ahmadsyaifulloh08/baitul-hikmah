@@ -19,7 +19,7 @@ In the middle of Rajab or Sha'ban in the second year of Hijrah (approximately Fe
 > *"We have certainly seen the turning of your face toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face toward al-Masjid al-Haram. And wherever you are, turn your faces toward it. ﴾144﴿"*
 > — QS. Al-Baqarah (2): 144
 
-This occurred in the middle of prayer. Imam al-Bukhari narrated from al-Bara' ibn 'Azib:^1
+This occurred in the middle of prayer. Imam al-Bukhari narrated from al-Bara' ibn 'Azib:^1 ^3
 
 > صَلَّيْنَا مَعَ رَسُولِ اللَّهِ ﷺ نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا أَوْ سَبْعَةَ عَشَرَ شَهْرًا، ثُمَّ صُرِفْنَا نَحْوَ الْكَعْبَةِ
 >
@@ -41,21 +41,21 @@ The Quran responded directly:
 > *"The foolish among the people will say: 'What has turned them away from the qiblah they used to face?' Say: 'To Allah belongs the east and the west. He guides whom He wills to a straight path.'"*
 > — QS. Al-Baqarah (2): 142
 
-The Quran also clarified that the change of *qiblah* was a test of faith:
+The Quran also clarified that the change of *qiblah* was a test of faith:^3
 
 > وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ الرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ﴿١٤٣﴾
 >
 > *"And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Another question arose among the Companions, one born of genuine concern: what about the prayers they had already performed facing Bayt al-Maqdis? Were their sixteen months of worship rendered void? The Quran answered gently:
+Another question arose among the Companions, one born of genuine concern: what about the prayers they had already performed facing Bayt al-Maqdis? Were their sixteen months of worship rendered void? The Quran answered gently:^3
 
 > وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ ﴿١٤٣﴾
 >
 > *"And never would Allah have caused you to lose your faith. Indeed Allah is, to the people, Kind and Merciful. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith. Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted.
+Ibn Kathir explains in his *tafsir* that the word *iman* (faith) in this verse refers to prayer, as prayer is the most tangible manifestation of faith. Thus Allah affirmed that every prayer performed facing Bayt al-Maqdis — before the command to change — remained valid and accepted^3.
 
 ## Analysis and Lessons
 
@@ -76,7 +76,7 @@ In this context, the Quran designated the Muslim community as an *ummatan wasata
 > *"And thus We have made you a moderate nation that you will be witnesses over the people and the Messenger will be a witness over you. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-### The Ka'bah as a Universal Unifier
+### The Ka'bah as a Universal Unifier^3
 
 The change of *qiblah* to the Ka'bah carried a universal dimension that Bayt al-Maqdis did not possess. The Ka'bah stands in Makkah — a city not tied to any particular ethnicity or nation. It was built by Ibrahim, who was neither Arab nor Jewish, but a *hanif* — one devoted purely to monotheism.
 

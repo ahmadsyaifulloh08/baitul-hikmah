@@ -23,7 +23,7 @@ Yang menarik, komposisi pasukan Salib mencerminkan hampir seluruh kekuatan milit
 > *"Dan sungguh, Allah telah menolong kamu dalam Perang Badr, padahal kamu dalam keadaan lemah. Maka bertakwalah kepada Allah agar kamu bersyukur."*
 > — QS. Ali Imran (3): 123^3
 
-## Pergerakan Menuju Hattin
+## Pergerakan Menuju Hattin^9
 
 Kampanye dimulai pada bulan Juni 1187 M ketika Salahuddin menyeberangi Sungai Yordan dan mengepung benteng **Tiberias**. Benteng ini diperintah oleh **Raymond III dari Tripoli**, salah satu panglima Salib paling berpengalaman. Istri Raymond, **Eschiva**, terkepung di dalam benteng bersama garnisun kecil.
 

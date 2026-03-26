@@ -23,7 +23,7 @@ Interestingly, the composition of Crusader forces reflected almost their entire 
 > *"And indeed Allah had given you victory at Badr when you were few in number. So fear Allah that you may be grateful."*
 > — QS. Ali Imran (3): 123^3
 
-## Movement Toward Hattin
+## Movement Toward Hattin^9
 
 The campaign began in June 1187 CE when Salahuddin crossed the Jordan River and besieged the fortress of **Tiberias**. This fortress was commanded by **Raymond III of Tripoli**, one of the most experienced Crusader commanders. Raymond's wife, **Eschiva**, was trapped inside the fortress with a small garrison.
 

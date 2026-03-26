@@ -65,7 +65,7 @@ Kisah ini juga menunjukkan bahaya **hybris** atau kesombongan berlebihan. Ketika
 > *"Janganlah kamu merasa lemah dan janganlah pula bersedih, padahal kamu adalah orang-orang yang paling tinggi (derajatnya), jika kamu benar-benar beriman."* ﴾139﴿
 > — QS. Ali Imran (3): 139
 
-Kaum Muslim di Mesir berhasil mempertahankan tanah mereka dari invasi Perang Salib V dengan keteguhan iman dan strategi yang cerdas.
+Kaum Muslim di Mesir berhasil mempertahankan tanah mereka dari invasi Perang Salib V dengan keteguhan iman dan strategi yang cerdas^4.
 
 ---
 

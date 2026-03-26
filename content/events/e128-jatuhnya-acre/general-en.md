@@ -85,7 +85,7 @@ The fall of Acre demonstrates several important factors in history:
 > *"When the victory of Allah has come and the conquest, And you see the people entering into the religion of Allah in multitudes, then exalt [Him] with praise of your Lord and ask forgiveness of Him."* ﴾1-3﴿
 > — QS. An-Nashr (110): 1-3
 
-The fall of Acre marked the final victory of Muslims over the Crusader States, fulfilling Allah's promise of help and victory for His patient servants.
+The fall of Acre marked the final victory of Muslims over the Crusader States, fulfilling Allah's promise of help and victory for His patient servants^5.
 
 ---
 

@@ -56,21 +56,21 @@ The Quran documented Badr as clear evidence of Allah's direct assistance. The Mu
 > *"[Remember] when you asked help of your Lord, and He answered you: 'Indeed, I will reinforce you with a thousand angels, following one another.' ﴾9﴿"*
 > — QS. Al-Anfal (8): 9
 
-Allah also affirmed that the victory belonged entirely to Him:
+Allah also affirmed that the victory belonged entirely to Him:^4
 
 > وَمَا جَعَلَهُ اللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِ قُلُوبُكُمْ ۚ وَمَا النَّصْرُ إِلَّا مِنْ عِندِ اللَّهِ ﴿١٠﴾
 >
 > *"And Allah made it not except as good tidings and so that your hearts would be assured thereby. And victory is not except from Allah. ﴾10﴿"*
 > — QS. Al-Anfal (8): 10
 
-Surah al-Anfal also recorded that Allah sent drowsiness upon the Muslim forces before battle as a form of divine calm:
+Surah al-Anfal also recorded that Allah sent drowsiness upon the Muslim forces before battle as a form of divine calm:^4
 
 > إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ ﴿١١﴾
 >
 > *"[Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky rain by which to purify you. ﴾11﴿"*
 > — QS. Al-Anfal (8): 11
 
-## Analysis and Lessons
+## Analysis and Lessons^4
 
 ### The Victory of Principle over Numbers
 
@@ -95,7 +95,7 @@ The Quran calls Badr *Yawm al-Furqan* — the Day of Distinction between truth a
 > *"And what We revealed to Our Servant on the day of criterion — the day when the two armies met. ﴾41﴿"*
 > — QS. Al-Anfal (8): 41
 
-Badr was not merely a military victory — it was the turning point of Islamic history. Before Badr, Islam was a movement threatened with extinction. After Badr, Islam became a force to be reckoned with across the Arabian Peninsula.
+Badr was not merely a military victory — it was the turning point of Islamic history. Before Badr, Islam was a movement threatened with extinction. After Badr, Islam became a force to be reckoned with across the Arabian Peninsula^4.
 
 ## Bibliography
 

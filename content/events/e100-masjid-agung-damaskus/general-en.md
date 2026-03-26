@@ -41,7 +41,7 @@ The calligraphy adorning the mosque walls displays selected verses from the Qura
 > *"And to Allah belong the best names, so invoke Him by them."* ﴾180﴿
 > — QS. Al-A'raf (7): 180
 
-## Social and Cultural Impact
+## Social and Cultural Impact^8
 
 The completion of the Umayyad Mosque in 715 CE created widespread impact in Damascus society and throughout the caliphate territories.^2 This mosque functioned not only as a place of worship, but also as a center for social, educational, and political activities.^2 Scholars used the mosque spaces for teaching, while merchants conducted business transactions in the area around the mosque.^2
 

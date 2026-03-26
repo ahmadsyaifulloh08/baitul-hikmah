@@ -29,7 +29,7 @@ Al-Qarawiyyin became a pioneer of Islamic educational models that combined relig
 > *"And say: 'My Lord, increase me in knowledge.'" ﴾114﴿*
 > — QS. Thaha (20): 114^8
 
-## An Eternal Legacy
+## An Eternal Legacy^8
 
 Al-Qarawiyyin not only became the oldest continuously operating university to this day, but also became a center for the dissemination of knowledge throughout the Islamic world. Many of the world's great scholars once studied there, including **Ibn Rushd (Averroes)**, **Al-Idrisi** the renowned geographer, and **Maimonides** the prominent Jewish philosopher.^9
 

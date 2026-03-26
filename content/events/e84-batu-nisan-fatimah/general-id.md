@@ -45,7 +45,7 @@ Al-Qur'an menegaskan prinsip kebebasan beragama yang mungkin diterapkan dalam pr
 > *"Tidak ada paksaan dalam agama. Sesungguhnya telah jelas perbedaan antara jalan yang benar dengan jalan yang sesat. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^3
 
-## Implikasi Terhadap Historiografi Islam
+## Implikasi Terhadap Historiografi Islam^4
 
 Temuan batu nisan Fatimah binti Maimun mengubah paradigma historiografi Islam di Indonesia. Para sejarawan kini harus merevisi timeline masuknya Islam ke Jawa yang selama ini diyakini terjadi pada abad ke-13 atau ke-14^1.
 

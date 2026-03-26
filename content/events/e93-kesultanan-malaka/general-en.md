@@ -99,7 +99,7 @@ The Sultanate of Malacca teaches:
 > *"For the accustomed security of the Quraysh - their accustomed security in the winter and summer caravan. Let them worship the Lord of this House, who has fed them, saving them from hunger and made them safe, saving them from fear."* ﴾1-4﴿
 > — QS. Quraisy (106): 1-4
 
-This verse is highly relevant to Malacca's character as a maritime trading center that relied on seasonal commercial voyages like the Quraysh with their trading caravans, where Allah provided prosperity and security for the merchants.^4
+This verse is highly relevant to Malacca's character as a maritime trading center that relied on seasonal commercial voyages like the Quraysh with their trading caravans, where Allah provided prosperity and security for the merchants.^4 ^5
 
 ---
 

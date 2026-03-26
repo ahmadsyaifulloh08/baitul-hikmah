@@ -47,7 +47,7 @@ The expedition to Sindh was motivated by the obligation to protect captive Musli
 > *"And what is the matter with you that you do not fight in the cause of Allah and for the oppressed among men, women, and children. ﴾75﴿"*
 > — QS. An-Nisa (4): 75
 
-## Analysis and Lessons
+## Analysis and Lessons^4
 
 ### The Beginning of Islam in the Indian Subcontinent
 

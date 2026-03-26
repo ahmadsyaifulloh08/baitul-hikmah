@@ -73,7 +73,7 @@ Ibn Battuta's journeys teach several important values:
 > *"And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
-This verse reflects Ibn Battuta's spirit in exploring and appreciating the diversity of Allah's creation.^3
+This verse reflects Ibn Battuta's spirit in exploring and appreciating the diversity of Allah's creation.^3 ^5
 
 ---
 

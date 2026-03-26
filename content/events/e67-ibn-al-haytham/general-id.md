@@ -59,7 +59,7 @@ Salah satu aspek revolusioner dari pendekatan Ibn al-Haytham adalah keberanianny
 > *"Dan orang-orang yang diberi ilmu meyakini bahwa Al Quran yang diturunkan kepadamu dari Tuhanmu itulah yang benar dan menunjuki kepada jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji." ﴾6﴿*
 > — QS. Saba (34): 6^16
 
-## Pengaruh pada Peradaban Barat dan Timur
+## Pengaruh pada Peradaban Barat dan Timur^16
 
 ### Terjemahan Latin dan Pengaruh di Eropa
 

@@ -85,7 +85,7 @@ Islam in Nusantara shows a unique model of religious spread in world history: **
 > *"And We have not sent you, [O Muhammad], except as a mercy to the worlds."* ﴾107﴿
 > — QS. Al-Anbiya' (21): 107
 
-This verse reflects the character of Islam in Nusantara that is rahmatan lil alamiin - bringing goodness and peace to all.^3
+This verse reflects the character of Islam in Nusantara that is rahmatan lil alamiin - bringing goodness and peace to all.^3 ^5
 
 ---
 

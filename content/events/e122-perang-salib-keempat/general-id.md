@@ -55,7 +55,7 @@ Tragedi ini juga mengajarkan pentingnya **persatuan di dalam agama** yang sama.^
 > *"Mereka tidak akan memerangi kamu secara bersama-sama kecuali di desa-desa yang berbenteng atau di balik tembok. Permusuhan antara sesama mereka sangat hebat."* ﴾14﴿
 > — QS. Al-Hasyr (59): 14
 
-Perang Salib Keempat membuktikan ayat ini — Tentara Salib yang seharusnya bersatu justru menyerang sesama Kristen di Konstantinopel, menunjukkan perpecahan internal yang parah.
+Perang Salib Keempat membuktikan ayat ini — Tentara Salib yang seharusnya bersatu justru menyerang sesama Kristen di Konstantinopel, menunjukkan perpecahan internal yang parah^4.
 
 ---
 

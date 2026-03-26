@@ -49,7 +49,7 @@ The "ijazah" (certificate) system developed by Al-Azhar became a model for other
 > *"Allah will raise those who have believed among you and those who were given knowledge, by degrees."* ﴾11﴿
 > — QS. Al-Mujadalah (58): 11^13
 
-Al-Azhar became a pioneer in integrating various branches of Islamic knowledge, embodying Allah's promise to elevate the status of those endowed with knowledge. Students not only studied one field but had to master the "instrumental sciences" (nahw, sarf, mantiq) as a foundation for understanding higher sciences like tafsir, hadith, and fiqh.
+Al-Azhar became a pioneer in integrating various branches of Islamic knowledge, embodying Allah's promise to elevate the status of those endowed with knowledge. Students not only studied one field but had to master the "instrumental sciences" (nahw, sarf, mantiq) as a foundation for understanding higher sciences like tafsir, hadith, and fiqh^13.
 
 ## Global Influence and Scholarly Networks
 

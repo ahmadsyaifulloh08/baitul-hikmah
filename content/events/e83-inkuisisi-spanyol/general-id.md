@@ -107,7 +107,7 @@ Tragedi Inkuisisi Spanyol mengingatkan kita tentang kerapuhan masyarakat multiku
 > *"Dan janganlah kamu membunuh jiwa yang diharamkan Allah (membunuhnya), kecuali dengan sesuatu (sebab) yang benar."* ﴾151﴿
 > — QS. Al-An'am (6): 151
 
-Ayat ini mengingatkan kita bahwa setiap jiwa adalah sacred dan tidak boleh dianiaya tanpa sebab yang haq. Tragedi Inkuisisi Spanyol melanggar prinsip fundamental ini.
+Ayat ini mengingatkan kita bahwa setiap jiwa adalah sacred dan tidak boleh dianiaya tanpa sebab yang haq. Tragedi Inkuisisi Spanyol melanggar prinsip fundamental ini^5.
 
 ---
 

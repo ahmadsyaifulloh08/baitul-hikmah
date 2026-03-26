@@ -113,7 +113,7 @@ Kesultanan Demak mengajarkan pelajaran penting:
 > *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang lebih baik."* ﴾125﴿
 > — QS. An-Nahl (16): 125
 
-Ayat ini mencerminkan pendekatan dakwah Wali Songo dan Kesultanan Demak yang mengutamakan hikmah dan kelembutan dalam menyebarkan Islam di Jawa — menghormati tradisi lokal sambil menanamkan nilai-nilai tauhid secara bertahap.^3
+Ayat ini mencerminkan pendekatan dakwah Wali Songo dan Kesultanan Demak yang mengutamakan hikmah dan kelembutan dalam menyebarkan Islam di Jawa — menghormati tradisi lokal sambil menanamkan nilai-nilai tauhid secara bertahap.^3 ^5
 
 ---
 

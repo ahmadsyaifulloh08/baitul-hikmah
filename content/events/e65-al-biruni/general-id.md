@@ -67,7 +67,7 @@ Al-Biruni mengkritik beberapa teori fisika Aristoteles berdasarkan observasi dan
 > *"Kami akan memperlihatkan kepada mereka tanda-tanda (kebesaran) Kami di segenap penjuru dan pada diri mereka sendiri, sehingga jelaslah bagi mereka bahwa Al-Quran itu benar."* ﴾53﴿
 > — QS. Fussilat (41): 53^18
 
-Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala — dari astronomi hingga mineralogi — persis seperti yang diperintahkan ayat ini.
+Al-Biruni menghabiskan hidupnya mengamati tanda-tanda Allah di cakrawala — dari astronomi hingga mineralogi — persis seperti yang diperintahkan ayat ini^18.
 
 ## Warisan dan Pengaruh pada Peradaban
 

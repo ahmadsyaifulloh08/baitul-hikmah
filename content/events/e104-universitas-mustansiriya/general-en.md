@@ -47,7 +47,7 @@ Mustansiriya teaches the importance of **investment in education** as the founda
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
----
+---^4
 
 ## Daftar Pustaka
 

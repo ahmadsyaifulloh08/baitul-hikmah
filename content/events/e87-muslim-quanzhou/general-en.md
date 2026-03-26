@@ -53,7 +53,7 @@ This story also shows that **economic integration** can become a bridge for acce
 > *"And among His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge."* ﴾22﴿
 > — QS. Ar-Rum (30): 22
 
----
+---^4
 
 ## Bibliography
 

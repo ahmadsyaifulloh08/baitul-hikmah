@@ -40,7 +40,7 @@ Rasulullah ﷺ memasuki Makkah pada hari Jumat, 20 Ramadhan tahun 8 Hijriah (11 
 > *"Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata."*
 > — QS. Al-Fath (48): 1
 
-Pasukan dibagi menjadi empat kolom yang memasuki Makkah dari empat arah berbeda.^1 **Khalid ibn al-Walid** memimpin sayap kanan dari arah selatan. Di jalurnya terjadi sedikit perlawanan dari sekelompok kecil Quraisy yang dipimpin Ikrimah bin Abu Jahal dan Shafwan bin Umayyah, tetapi perlawanan ini segera dipatahkan.^1 Di jalur-jalur lain, tidak ada perlawanan sama sekali. Makkah dibuka nyaris tanpa pertumpahan darah — sebuah pencapaian militer dan moral yang luar biasa.
+Pasukan dibagi menjadi empat kolom yang memasuki Makkah dari empat arah berbeda.^1 **Khalid ibn al-Walid** memimpin sayap kanan dari arah selatan. Di jalurnya terjadi sedikit perlawanan dari sekelompok kecil Quraisy yang dipimpin Ikrimah bin Abu Jahal dan Shafwan bin Umayyah, tetapi perlawanan ini segera dipatahkan.^1 Di jalur-jalur lain, tidak ada perlawanan sama sekali. Makkah dibuka nyaris tanpa pertumpahan darah — sebuah pencapaian militer dan moral yang luar biasa^5.
 
 Setelah memasuki Makkah, Rasulullah ﷺ menuju Ka'bah. Beliau melakukan thawaf tujuh kali di atas untanya sambil menghancurkan 360 berhala yang mengelilingi Ka'bah dengan tongkat di tangannya, seraya membaca:^1 ^3
 
@@ -49,7 +49,7 @@ Setelah memasuki Makkah, Rasulullah ﷺ menuju Ka'bah. Beliau melakukan thawaf t
 > *"Kebenaran telah datang dan kebatilan telah lenyap. Sesungguhnya kebatilan itu pasti lenyap. ﴾81﴿"*
 > — QS. Al-Isra (17): 81
 
-Lalu datanglah momen paling bersejarah. Rasulullah ﷺ berdiri di pintu Ka'bah menghadap penduduk Makkah — orang-orang yang selama dua puluh tahun menyiksa, mengusir, memboikot, dan berusaha membunuh beliau. Mereka berdiri menunduk, menanti nasib mereka. Rasulullah ﷺ bertanya:
+Lalu datanglah momen paling bersejarah. Rasulullah ﷺ berdiri di pintu Ka'bah menghadap penduduk Makkah — orang-orang yang selama dua puluh tahun menyiksa, mengusir, memboikot, dan berusaha membunuh beliau. Mereka berdiri menunduk, menanti nasib mereka. Rasulullah ﷺ bertanya:^5
 
 *"Wahai kaum Quraisy, menurut kalian apa yang akan aku lakukan terhadap kalian? "*
 
@@ -93,7 +93,7 @@ Allah menamakan peristiwa ini *al-fath al-mubin* (kemenangan yang nyata) dalam S
 > *"Sesungguhnya Allah akan membuktikan kepada Rasul-Nya tentang mimpinya yang benar; kamu pasti akan memasuki Masjidil Haram, jika Allah menghendaki, dalam keadaan aman. ﴾27﴿"*
 > — QS. Al-Fath (48): 27
 
-### Dampak Jangka Panjang
+### Dampak Jangka Panjang^5
 
 Fath Makkah mengubah peta geopolitik Jazirah Arab secara permanen. Dengan jatuhnya Makkah — pusat spiritual dan politik suku-suku Arab — ke tangan Islam, tidak ada lagi alasan bagi kabilah-kabilah lain untuk menolak dakwah. Tahun berikutnya disebut *'Am al-Wufud* (Tahun Delegasi), ketika suku-suku dari seluruh penjuru Jazirah Arab datang berbondong-bondong memeluk Islam.^2 Inilah realisasi dari firman Allah:
 
@@ -102,7 +102,7 @@ Fath Makkah mengubah peta geopolitik Jazirah Arab secara permanen. Dengan jatuhn
 > *"Apabila telah datang pertolongan Allah dan kemenangan, dan engkau melihat manusia berbondong-bondong masuk agama Allah. ﴾2﴿"*
 > — QS. An-Nashr (110): 1-2
 
----
+---^5
 
 ## Daftar Pustaka
 

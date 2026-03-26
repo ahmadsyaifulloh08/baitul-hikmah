@@ -27,7 +27,7 @@ In July 1148 CE, the combined Crusader forces led by Louis VII, Conrad III, and 
 > *"And indeed, We have written in the Zabur after the Reminder that the righteous among My servants shall inherit the earth."*
 > — QS. al-Anbiya' (21): 105^7
 
-The siege lasted only four days.^4 The Crusaders initially succeeded in breaching the outer defenses and occupying the gardens around Damascus.^4 However, their decision to change their attack position from the west side (which was more open) to the east side (which was more heavily fortified) proved fatal.^4 Muslim forces managed to cut their supply lines while reinforcements from Aleppo drew closer.^6
+The siege lasted only four days.^4 The Crusaders initially succeeded in breaching the outer defenses and occupying the gardens around Damascus.^4 However, their decision to change their attack position from the west side (which was more open) to the east side (which was more heavily fortified) proved fatal.^4 Muslim forces managed to cut their supply lines while reinforcements from Aleppo drew closer.^6 ^7
 
 Facing an increasingly disadvantageous situation, the Crusader leaders decided to retreat.^4 In the hasty withdrawal, they lost much equipment and supplies.^4 This failure at Damascus was a severe blow to Crusader prestige while simultaneously strengthening the Muslim position in the region.^6
 

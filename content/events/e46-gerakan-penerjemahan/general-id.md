@@ -11,7 +11,7 @@ Al-Quran sendiri mendorong umat Islam untuk menuntut ilmu tanpa batas geografis 
 > *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. ﴾1﴿"*
 > — QS. Al-Alaq (96): 1
 
-Perintah pertama dalam wahyu Islam adalah perintah untuk membaca dan menuntut ilmu — dan semangat inilah yang menjadi motor penggerak gerakan penerjemahan.
+Perintah pertama dalam wahyu Islam adalah perintah untuk membaca dan menuntut ilmu — dan semangat inilah yang menjadi motor penggerak gerakan penerjemahan^4.
 
 ## Peristiwa: Khalid ibn Yazid — Pelopor Penerjemahan
 

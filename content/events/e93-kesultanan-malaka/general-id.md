@@ -99,7 +99,7 @@ Kesultanan Malaka mengajarkan:
 > *"Karena kebiasaan orang-orang Quraisy, yaitu kebiasaan mereka bepergian pada musim dingin dan musim panas. Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah), yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."* ﴾1-4﴿
 > — QS. Quraisy (106): 1-4
 
-Ayat ini sangat relevan dengan karakter Malaka sebagai pusat perdagangan maritim yang mengandalkan perjalanan dagang musiman seperti halnya Quraisy dengan kafilah perdagangannya, di mana Allah memberikan kemakmuran dan keamanan bagi para pedagang.^4
+Ayat ini sangat relevan dengan karakter Malaka sebagai pusat perdagangan maritim yang mengandalkan perjalanan dagang musiman seperti halnya Quraisy dengan kafilah perdagangannya, di mana Allah memberikan kemakmuran dan keamanan bagi para pedagang.^4 ^5
 
 ---
 

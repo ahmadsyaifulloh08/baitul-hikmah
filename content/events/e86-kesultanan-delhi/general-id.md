@@ -59,7 +59,7 @@ Keberhasilan Aibak juga menunjukkan pentingnya **adaptasi lokal dalam implementa
 > *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa."* ﴾13﴿
 > — QS. Al-Hujurat (49): 13
 
----
+---^4
 
 ## Daftar Pustaka
 

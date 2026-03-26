@@ -55,7 +55,7 @@ Sultan Baibars mengajarkan beberapa prinsip penting:
 > *"Sesungguhnya bersama kesulitan ada kemudahan."* ﴾6﴿
 > — QS. Al-Insyirah (94): 6
 
-Ayat ini mencerminkan semangat Baibars yang tidak pernah menyerah meski menghadapi tantangan yang tampak mustahil.
+Ayat ini mencerminkan semangat Baibars yang tidak pernah menyerah meski menghadapi tantangan yang tampak mustahil^5.
 
 ---
 

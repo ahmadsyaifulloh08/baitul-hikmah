@@ -15,7 +15,7 @@ Al-Quran sendiri mengabadikan fenomena ini dalam Surah An-Nashr^4:
 > *"Apabila telah datang pertolongan Allah dan kemenangan, ﴾1﴿ dan engkau melihat manusia masuk ke dalam agama Allah secara berbondong-bondong, ﴾2﴿ maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat. ﴾3﴿"*
 > — QS. An-Nashr (110): 1-3
 
-## Peristiwa: Gelombang Delegasi ke Madinah
+## Peristiwa: Gelombang Delegasi ke Madinah^4
 
 Tahun 9 Hijriyah (631 M) dikenal sebagai *'Am al-Wufud* (Tahun Delegasi). Ibn Sa'd dalam *Tabaqat al-Kubra* mencatat bahwa jumlah delegasi yang datang ke Madinah sangat banyak, melibatkan puluhan suku dari seluruh penjuru Jazirah Arab.^3 Beberapa delegasi yang paling penting di antaranya:
 
@@ -30,7 +30,7 @@ Peristiwa ini diabadikan dalam al-Quran:
 > *"Sesungguhnya orang-orang yang memanggilmu dari luar kamar-kamarmu, kebanyakan mereka tidak mengerti. ﴾4﴿"*
 > — QS. Al-Hujurat (49): 4
 
-Namun setelah dialog dengan Nabi ﷺ dan mendengar al-Quran, mereka menerima Islam dan kembali ke kaumnya sebagai Muslim.
+Namun setelah dialog dengan Nabi ﷺ dan mendengar al-Quran, mereka menerima Islam dan kembali ke kaumnya sebagai Muslim^4.
 
 ### Delegasi Bani 'Amir bin Sha'sha'ah
 
@@ -53,7 +53,7 @@ Mereka berdebat dengan Nabi ﷺ mengenai hakikat Isa al-Masih. Ketika tidak terc
 > *"Siapa yang membantahmu tentang hal ini setelah datangnya ilmu kepadamu, katakanlah: 'Marilah kita memanggil anak-anak kami dan anak-anak kamu, istri-istri kami dan istri-istri kamu, diri kami dan diri kamu, kemudian marilah kita bermubahalah, dan kita minta supaya laknat Allah ditimpakan kepada orang-orang yang dusta.' ﴾61﴿"*
 > — QS. Ali Imran (3): 61
 
-Delegasi Najran akhirnya menolak *mubahalah* dan memilih membuat perjanjian damai dengan Nabi ﷺ — mereka tetap pada agama mereka namun membayar *jizyah* dan hidup di bawah perlindungan negara Islam.^1 Peristiwa ini menjadi preseden penting bagi hubungan antaragama dalam Islam.
+Delegasi Najran akhirnya menolak *mubahalah* dan memilih membuat perjanjian damai dengan Nabi ﷺ — mereka tetap pada agama mereka namun membayar *jizyah* dan hidup di bawah perlindungan negara Islam.^1 Peristiwa ini menjadi preseden penting bagi hubungan antaragama dalam Islam^4.
 
 ### Delegasi-Delegasi Lainnya
 
@@ -95,7 +95,7 @@ Para sejarawan mengidentifikasi beberapa faktor yang mendorong gelombang masuk I
 > *"Tidak ada paksaan dalam beragama. Sungguh, telah jelas jalan yang benar dari jalan yang sesat. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256
 
-### Menghormati Keragaman
+### Menghormati Keragaman^4
 
 Perlakuan Nabi ﷺ terhadap delegasi Najran menunjukkan bahwa Islam mengakui realitas keragaman agama. Mereka yang tidak mau masuk Islam tidak dipaksa — mereka diberikan perlindungan dan hak-hak sipil di bawah perjanjian yang jelas. Ini adalah model koeksistensi yang sangat maju untuk zamannya.
 

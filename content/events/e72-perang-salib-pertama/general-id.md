@@ -61,7 +61,7 @@ Al-Qur'an mengingatkan tentang batasan-batasan dalam peperangan:
 > *"Dan perangilah di jalan Allah orang-orang yang memerangi kamu, tetapi jangan melampaui batas. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas. ﴾190﴿"*
 > — QS. Al-Baqarah (2): 190^3
 
-## Pembentukan Negara-Negara Tentara Salib
+## Pembentukan Negara-Negara Tentara Salib^4
 
 Setelah merebut Yerusalem, para pemimpin Tentara Salib membentuk empat negara: Kerajaan Yerusalem, Kerajaan Antiokhia, County Edessa, dan County Tripoli. **Godfrey dari Bouillon** dipilih sebagai penguasa pertama Yerusalem dengan gelar "Defender of the Holy Sepulchre"^1.
 

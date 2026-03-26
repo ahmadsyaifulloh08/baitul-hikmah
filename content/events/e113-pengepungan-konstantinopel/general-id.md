@@ -49,7 +49,7 @@ Kegagalan pengepungan ini memberikan pelajaran penting bagi peradaban Islam tent
 > *"Dialah yang mengeluarkan orang-orang kafir dari ahli Kitab dari kampung-kampung mereka pada saat pengusiran yang pertama. Kamu tidak menyangka bahwa mereka akan keluar dan mereka yakin bahwa benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan kepada mereka (hukuman) dari arah yang tidak mereka sangka-sangka. Dan Allah melemparkan ketakutan ke dalam hati mereka; mereka memusnahkan rumah-rumah mereka dengan tangan mereka sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, hai orang-orang yang mempunyai wawasan."* ﴾2﴿
 > — QS. Al-Hasyr (59): 2
 
-Pengepungan ini juga menunjukkan bahwa kekuatan militer saja tidak cukup tanpa disertai dengan strategi diplomatik, logistik yang memadai, dan pemahaman mendalam tentang kondisi geografis dan iklim.^7
+Pengepungan ini juga menunjukkan bahwa kekuatan militer saja tidak cukup tanpa disertai dengan strategi diplomatik, logistik yang memadai, dan pemahaman mendalam tentang kondisi geografis dan iklim.^7 ^8
 
 ## Dampak Jangka Panjang
 

@@ -27,7 +27,7 @@ Pada Juli 1148 M, gabungan pasukan Salib yang dipimpin Louis VII, Conrad III, da
 > *"Dan sungguh, telah Kami tulis di dalam Zabur setelah (Kami tulis dalam) Lauh Mahfuzh, bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh."*
 > — QS. al-Anbiya' (21): 105^7
 
-Pengepungan berlangsung hanya empat hari.^4 Para Salib pada awalnya berhasil menembus pertahanan luar kota dan menduduki kebun-kebun di sekitar Damaskus.^4 Namun, keputusan mereka untuk mengubah posisi serangan dari sisi barat (yang lebih terbuka) ke sisi timur (yang lebih kuat pertahananya) terbukti fatal.^4 Pasukan Muslim berhasil memotong jalur pasokan mereka, sementara bala bantuan dari Aleppo semakin mendekat.^6
+Pengepungan berlangsung hanya empat hari.^4 Para Salib pada awalnya berhasil menembus pertahanan luar kota dan menduduki kebun-kebun di sekitar Damaskus.^4 Namun, keputusan mereka untuk mengubah posisi serangan dari sisi barat (yang lebih terbuka) ke sisi timur (yang lebih kuat pertahananya) terbukti fatal.^4 Pasukan Muslim berhasil memotong jalur pasokan mereka, sementara bala bantuan dari Aleppo semakin mendekat.^6 ^7
 
 Menghadapi situasi yang semakin tidak menguntungkan, para pemimpin Salib memutuskan untuk mundur.^4 Dalam penarikan yang terburu-buru, mereka kehilangan banyak peralatan dan persediaan.^4 Kegagalan di Damaskus ini menjadi pukulan telak bagi prestise para Salib dan sekaligus memperkuat posisi Muslim di wilayah tersebut.^6
 

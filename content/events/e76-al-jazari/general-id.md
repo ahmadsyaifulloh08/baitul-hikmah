@@ -59,7 +59,7 @@ Karya Al-Jazari juga mengajarkan pentingnya **dokumentasi dan transfer pengetahu
 > *"Wahai golongan jin dan manusia, jika kamu sanggup menembus penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (ilmu)."* ﴾33﴿
 > — QS. Ar-Rahman (55): 33
 
-Al-Jazari mewujudkan tantangan Quran ini melalui karyanya — menembus batasan teknologi zamannya dengan kekuatan ilmu dan inovasi.
+Al-Jazari mewujudkan tantangan Quran ini melalui karyanya — menembus batasan teknologi zamannya dengan kekuatan ilmu dan inovasi^4.
 
 ---
 

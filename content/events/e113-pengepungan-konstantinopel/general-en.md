@@ -49,7 +49,7 @@ The failure of this siege provided important lessons for Islamic civilization ab
 > *"It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allah; but [the decree of] Allah came upon them from where they had not expected, and He cast terror into their hearts so they destroyed their houses by their own hands and the hands of the believers. So take warning, O people of vision."* ﴾2﴿
 > — QS. Al-Hasyr (59): 2
 
-This siege also showed that military strength alone is not enough without being accompanied by diplomatic strategy, adequate logistics, and deep understanding of geographical and climatic conditions.^7
+This siege also showed that military strength alone is not enough without being accompanied by diplomatic strategy, adequate logistics, and deep understanding of geographical and climatic conditions.^7 ^8
 
 ## Long-Term Impact
 

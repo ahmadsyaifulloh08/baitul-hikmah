@@ -17,7 +17,7 @@ Dari sudut pandang teologis, keyatiman sejak sebelum lahir merupakan bagian dari
 > *"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿"*
 > — QS. Ad-Dhuha (93): 6
 
-## Di Padang Pasir Bani Sa'd: Masa Penyusuan
+## Di Padang Pasir Bani Sa'd: Masa Penyusuan^8
 
 Tradisi masyarakat Arab, khususnya kaum bangsawan Quraisy, mengharuskan bayi-bayi mereka diasuh oleh ibu susu*murdhi'ah* dari kabilah Badui di pedalaman. Tujuannya ganda: agar anak tumbuh dengan fisik yang kuat di udara padang pasir yang segar, dan agar ia menguasai bahasa Arab yang fasih dan murni*fashahah*, jauh dari pengaruh dialek kota yang telah tercampur logat asing para pedagang.^1
 
@@ -86,7 +86,7 @@ Keyatiman Nabi Muhammad ﷺ bukan sekadar fakta biografis — ia adalah fondasi 
 > *"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿ Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk. ﴾7﴿ Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan. ﴾8﴿"*
 > — QS. Ad-Dhuha (93): 6-8)
 
-Para ulama menafsirkan hikmah di balik keyatiman ini dalam beberapa dimensi:
+Para ulama menafsirkan hikmah di balik keyatiman ini dalam beberapa dimensi:^8
 
 **Pertama, kemandirian dari pengaruh manusia.** Dengan tidak memiliki ayah yang membentuk pemikirannya, Muhammad tumbuh bebas dari bias ideologis keluarga. Ia tidak mewarisi tradisi penyembahan berhala dari garis otoritas patriarkal. Pendidikannya langsung dari pengalaman hidup dan, kemudian, dari wahyu ilahi.
 
@@ -115,7 +115,7 @@ Pengalaman yatim piatu Nabi Muhammad ﷺ memiliki dampak langsung pada syariat I
 > *"Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya. "*
 > — QS. An-Nisa (4): 10)
 
-Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan:^3
+Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan:^3 ^8
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >

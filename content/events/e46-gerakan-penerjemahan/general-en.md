@@ -11,7 +11,7 @@ The Quran itself urges Muslims to seek knowledge without geographical or ethnic 
 > *"Read in the name of your Lord who created. ﴾1﴿"*
 > — QS. Al-Alaq (96): 1
 
-The very first command in Islamic revelation was the command to read and seek knowledge — and it was this spirit that drove the translation movement.
+The very first command in Islamic revelation was the command to read and seek knowledge — and it was this spirit that drove the translation movement^4.
 
 ## The Event: Khalid ibn Yazid — Pioneer of Translation
 

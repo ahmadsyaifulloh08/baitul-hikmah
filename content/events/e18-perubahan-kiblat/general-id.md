@@ -19,7 +19,7 @@ Pada pertengahan bulan Rajab atau Sya'ban tahun 2 Hijriyah (sekitar Februari 623
 > *"Sungguh, Kami melihat wajahmu sering menengadah ke langit, maka sungguh Kami akan memalingkan engkau ke kiblat yang engkau sukai. Palingkanlah wajahmu ke arah Masjidil Haram. Dan di mana saja kamu berada, palingkanlah wajahmu ke arahnya. ﴾144﴿"*
 > — QS. Al-Baqarah (2): 144
 
-Peristiwa ini terjadi secara langsung di tengah salat. Imam al-Bukhari meriwayatkan dari al-Bara' bin 'Azib:^1
+Peristiwa ini terjadi secara langsung di tengah salat. Imam al-Bukhari meriwayatkan dari al-Bara' bin 'Azib:^1 ^3
 
 > صَلَّيْنَا مَعَ رَسُولِ اللَّهِ ﷺ نَحْوَ بَيْتِ الْمَقْدِسِ سِتَّةَ عَشَرَ شَهْرًا أَوْ سَبْعَةَ عَشَرَ شَهْرًا، ثُمَّ صُرِفْنَا نَحْوَ الْكَعْبَةِ
 >
@@ -41,21 +41,21 @@ Al-Quran menjawab langsung:
 > *"Orang-orang yang bodoh di antara manusia akan berkata: 'Apakah yang memalingkan mereka dari kiblat yang selama ini mereka hadapi?' Katakanlah: 'Milik Allah-lah timur dan barat. Dia memberi petunjuk kepada siapa yang Dia kehendaki ke jalan yang lurus.'"*
 > — QS. Al-Baqarah (2): 142
 
-Al-Quran juga menjelaskan bahwa perubahan kiblat adalah ujian keimanan:
+Al-Quran juga menjelaskan bahwa perubahan kiblat adalah ujian keimanan:^3
 
 > وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ الرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ﴿١٤٣﴾
 >
 > *"Dan Kami tidak menjadikan kiblat yang engkau hadapi sekarang melainkan agar Kami mengetahui siapa yang mengikuti Rasul dan siapa yang berbalik ke belakang. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Pertanyaan lain yang muncul di kalangan sahabat bersifat lebih tulus: bagaimana nasib salat-salat yang telah mereka laksanakan menghadap Baitul Maqdis? Apakah ibadah mereka selama enam belas bulan sia-sia? Al-Quran menjawab dengan lembut:
+Pertanyaan lain yang muncul di kalangan sahabat bersifat lebih tulus: bagaimana nasib salat-salat yang telah mereka laksanakan menghadap Baitul Maqdis? Apakah ibadah mereka selama enam belas bulan sia-sia? Al-Quran menjawab dengan lembut:^3
 
 > وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ ﴿١٤٣﴾
 >
 > *"Dan Allah tidak akan menyia-nyiakan imanmu. Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada manusia. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata. Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima.
+Ibn Kathir dalam tafsirnya menjelaskan bahwa kata *iman* dalam ayat ini merujuk pada salat, karena salat adalah manifestasi iman yang paling nyata. Dengan demikian, Allah menegaskan bahwa setiap salat yang dilaksanakan dengan menghadap Baitul Maqdis — sebelum turunnya perintah perubahan — tetap sah dan diterima^3.
 
 ## Analisis dan Hikmah
 
@@ -76,7 +76,7 @@ Dalam konteks ini, al-Quran menyebut umat Islam sebagai *ummatan wasathan* — u
 > *"Dan demikianlah Kami menjadikan kamu umat pertengahan, agar kamu menjadi saksi atas manusia dan agar Rasul menjadi saksi atas kamu. ﴾143﴿"*
 > — QS. Al-Baqarah (2): 143
 
-### Ka'bah sebagai Pemersatu Universal
+### Ka'bah sebagai Pemersatu Universal^3
 
 Perubahan kiblat ke Ka'bah memiliki dimensi universal yang tidak dimiliki oleh Baitul Maqdis. Ka'bah berdiri di Makkah — kota yang tidak terikat dengan satu etnis atau bangsa tertentu. Ia dibangun oleh Ibrahim yang bukan orang Arab dan bukan orang Yahudi, melainkan *hanif* — seorang yang lurus dalam ketauhidan.
 

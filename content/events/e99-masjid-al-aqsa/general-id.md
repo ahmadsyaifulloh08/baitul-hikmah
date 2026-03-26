@@ -35,7 +35,7 @@ Pembangunan Masjid al-Aqsa memiliki makna spiritual yang mendalam bagi umat Isla
 > *"Mahasuci Allah yang telah memperjalankan hamba-Nya pada suatu malam dari Masjidilharam ke Masjidilaqsha yang telah Kami berkahi sekelilingnya."* ﴾1﴿
 > — QS. Al-Isra' (17): 1
 
-Secara politik, pembangunan masjid ini menegaskan legitimasi dinasti Umayyah sebagai penerus kepemimpinan Islam dan pelindung tempat-tempat suci.^1 Kompleks Haram al-Syarif menjadi simbol kekuatan dan kemegahan kekhalifahan Islam pada puncak kejayaannya.^2
+Secara politik, pembangunan masjid ini menegaskan legitimasi dinasti Umayyah sebagai penerus kepemimpinan Islam dan pelindung tempat-tempat suci.^1 Kompleks Haram al-Syarif menjadi simbol kekuatan dan kemegahan kekhalifahan Islam pada puncak kejayaannya.^2 ^8
 
 ## Warisan dan Keberlanjutan
 

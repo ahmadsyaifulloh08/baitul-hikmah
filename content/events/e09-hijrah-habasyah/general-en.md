@@ -80,7 +80,7 @@ The verses from Surah Maryam that Ja'far recited at the Negus's court:
 >
 > — QS. Maryam (19): 1–3
 
-And regarding Jesus (peace be upon him):
+And regarding Jesus (peace be upon him):^5
 
 > *"He [Jesus] said: 'Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.'"*
 
@@ -88,7 +88,7 @@ And regarding Jesus (peace be upon him):
 >
 > — QS. Maryam (19): 30
 
-## Analysis and Lessons
+## Analysis and Lessons^5
 
 ### Cross-Civilizational Diplomacy
 

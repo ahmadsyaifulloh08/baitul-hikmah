@@ -9,7 +9,7 @@
 > *"Glory be to the One Who took His servant by night from the Sacred Mosque to the Farthest Mosque, whose surroundings We have blessed. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Jerusalem was conquered by Muslim forces under Caliph Umar ibn al-Khattab in 637 CE. When Umar personally visited the city, he found that the area of the Haram al-Sharif (Temple Mount) — a sacred site that had once been the location of earlier prophets' places of worship — had been neglected and used as a rubbish dump by the Byzantine rulers.^1 Umar cleared the area and established a simple prayer space.
+Jerusalem was conquered by Muslim forces under Caliph Umar ibn al-Khattab in 637 CE. When Umar personally visited the city, he found that the area of the Haram al-Sharif (Temple Mount) — a sacred site that had once been the location of earlier prophets' places of worship — had been neglected and used as a rubbish dump by the Byzantine rulers.^1 Umar cleared the area and established a simple prayer space^4.
 
 ## The Event: Construction of Qubbat al-Sakhrah
 
@@ -43,7 +43,7 @@ These inscriptions include verses affirming the oneness of God and the status of
 > *"O People of the Book, do not exceed the bounds in your religion, and do not say about Allah except the truth. ﴾171﴿"*
 > — QS. An-Nisa (4): 171
 
-## Analysis and Lessons
+## Analysis and Lessons^4
 
 ### A Statement of Civilization
 

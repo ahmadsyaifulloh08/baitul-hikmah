@@ -53,7 +53,7 @@ Al-Qur'an menegaskan janji pertolongan Allah bagi orang-orang yang beriman:
 > *"Dan pasti Allah menolong orang yang menolong (agama)-Nya. Sesungguhnya Allah Mahakuat lagi Mahaperkasa. ﴾40﴿"*
 > — QS. Al-Hajj (22): 40^3
 
-## Respons Dunia Kristen
+## Respons Dunia Kristen^4
 
 Jatuhnya Edessa menimbulkan guncangan hebat di Eropa. Paus Eugenius III segera mengeluarkan bulla *Quantum Praedecessores* pada tahun 1145 M, menyerukan Perang Salib Kedua untuk merebut kembali Edessa^1.
 

@@ -65,7 +65,7 @@ The **architectural fusion** that occurred here shows that cultural interaction,
 > *"And We have not sent you, [O Muhammad], except as a mercy to the worlds."* ﴾107﴿
 > — QS. Al-Anbiya (21): 107
 
----
+---^4
 
 ## Daftar Pustaka
 

@@ -71,7 +71,7 @@ This tragedy also shows the importance of **strategic foresight** in leadership.
 > *"And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers."* ﴾103﴿
 > — QS. Ali Imran (3): 103
 
----
+---^4
 
 ## Bibliography
 

@@ -43,7 +43,7 @@ Penaklukan Afrika Utara digerakkan oleh semangat dakwah dan jihad yang berakar p
 > *"Dan mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah, baik laki-laki, perempuan-perempuan, maupun anak-anak. ﴾75﴿"*
 > — QS. An-Nisa (4): 75
 
-Para panglima Muslim tidak hanya membawa kekuatan militer, tetapi juga pesan keadilan dan kesetaraan yang menarik bagi banyak penduduk lokal — terutama suku-suku Berber yang telah lama menderita di bawah diskriminasi pajak Bizantium.
+Para panglima Muslim tidak hanya membawa kekuatan militer, tetapi juga pesan keadilan dan kesetaraan yang menarik bagi banyak penduduk lokal — terutama suku-suku Berber yang telah lama menderita di bawah diskriminasi pajak Bizantium^4.
 
 ## Analisis dan Hikmah
 

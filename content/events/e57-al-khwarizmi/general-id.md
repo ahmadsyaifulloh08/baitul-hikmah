@@ -71,7 +71,7 @@ Motivasi al-Khwarizmi dalam mengembangkan aljabar tidak terlepas dari tuntutan p
 > *"Allah mewasiatkan kepadamu tentang (pembagian pusaka untuk) anak-anakmu. Yaitu: bahagian seorang anak lelaki sama dengan bahagian dua orang anak perempuan. ﴾11﴿"*
 > — QS. an-Nisa (4): 11
 
-Ayat ini dan ayat-ayat selanjutnya dalam surat yang sama mengatur proporsi warisan yang sangat kompleks, melibatkan berbagai kombinasi ahli waris. Penyelesaian masalah-masalah warisan ini memerlukan sistem persamaan yang rumit — inilah yang mendorong al-Khwarizmi mengembangkan metode aljabar yang sistematis.^1
+Ayat ini dan ayat-ayat selanjutnya dalam surat yang sama mengatur proporsi warisan yang sangat kompleks, melibatkan berbagai kombinasi ahli waris. Penyelesaian masalah-masalah warisan ini memerlukan sistem persamaan yang rumit — inilah yang mendorong al-Khwarizmi mengembangkan metode aljabar yang sistematis.^1 ^6
 
 Dalam pendahuluan kitab al-Jabr, al-Khwarizmi secara eksplisit menyebutkan bahwa salah satu motivasi utamanya adalah "apa yang diwajibkan oleh hukum Islam dalam masalah warisan, wasiat, dan pembagian." Ini menunjukkan bagaimana tuntutan praktis kehidupan religius menjadi driving force bagi inovasi matematis.^1
 

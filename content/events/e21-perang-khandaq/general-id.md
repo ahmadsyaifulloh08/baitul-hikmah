@@ -63,14 +63,14 @@ Al-Quran merekam peristiwa Khandaq dalam Surah Al-Ahzab:
 > *"Wahai orang-orang yang beriman, ingatlah nikmat Allah kepadamu ketika datang kepadamu pasukan-pasukan (musuh), lalu Kami kirimkan kepada mereka angin dan pasukan (malaikat) yang tidak kamu lihat. ﴾9﴿"*
 > — QS. Al-Ahzab (33): 9
 
-Tentang ujian berat yang dihadapi kaum Muslim selama pengepungan:
+Tentang ujian berat yang dihadapi kaum Muslim selama pengepungan:^4
 
 > إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ ﴿١٠﴾
 >
 > *"(Yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika penglihatan menjadi kabur dan hati menyesak sampai ke tenggorokan. ﴾10﴿"*
 > — QS. Al-Ahzab (33): 10
 
-Dan setelah kemenangan, Nabi Muhammad ﷺ bersabda:^1
+Dan setelah kemenangan, Nabi Muhammad ﷺ bersabda:^1 ^4
 
 > الْآنَ نَغْزُوهُمْ وَلَا يَغْزُونَنَا، نَحْنُ نَسِيرُ إِلَيْهِمْ
 >

@@ -37,7 +37,7 @@ Pertempuran Tours mengingatkan kita pada prinsip bahwa dalam Islam, peperangan b
 > *"Seandainya Allah tidak menolak (keganasan) sebagian manusia dengan sebagian yang lain, niscaya rusaklah bumi ini."* ﴾251﴿
 > — QS. Al-Baqarah (2): 251
 
-Tours menjadi titik keseimbangan kekuatan antara Islam dan Eropa, menunjukkan bagaimana Allah menetapkan check-and-balance antara peradaban untuk menjaga keseimbangan dunia.
+Tours menjadi titik keseimbangan kekuatan antara Islam dan Eropa, menunjukkan bagaimana Allah menetapkan check-and-balance antara peradaban untuk menjaga keseimbangan dunia^8.
 
 Peristiwa ini juga mengajarkan pentingnya kepemimpinan yang kuat dalam situasi sulit. Kematian Abdul Rahman al-Ghafiqi menunjukkan bagaimana faktor kepemimpinan dapat mempengaruhi jalannya sejarah.
 

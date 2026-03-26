@@ -29,7 +29,7 @@ Al-Qarawiyyin menjadi pelopor model pendidikan Islam yang menggabungkan ilmu-ilm
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'" ﴾114﴿*
 > — QS. Thaha (20): 114^8
 
-## Warisan yang Abadi
+## Warisan yang Abadi^8
 
 Al-Qarawiyyin tidak hanya menjadi universitas tertua yang masih beroperasi hingga kini, tetapi juga menjadi pusat penyebaran ilmu pengetahuan ke seluruh dunia Islam. Banyak ulama besar dunia pernah menuntut ilmu di sana, termasuk **Ibn Rushd (Averroes)**, **Al-Idrisi** sang ahli geografi, dan **Maimonides** filosof Yahudi terkemuka.^9
 

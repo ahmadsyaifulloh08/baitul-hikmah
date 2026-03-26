@@ -51,14 +51,14 @@ Ayat-ayat Al-Qur'an yang turun pada periode ini sebagian besar berfokus pada tig
 > *"Demi masa. ﴾1﴿ Sesungguhnya manusia berada dalam kerugian, ﴾2﴿ kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran. ﴾3﴿"*
 > — QS. Al-'Ashr (103): 1–3
 
-Surah pendek ini merangkum empat syarat keberuntungan yang menjadi fondasi pembinaan para sahabat: iman, amal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran.
+Surah pendek ini merangkum empat syarat keberuntungan yang menjadi fondasi pembinaan para sahabat: iman, amal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran^4.
 
 > ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ ﴿١﴾
 >
 > *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. ﴾1﴿"*
 > — QS. Al-'Alaq (96): 1
 
-Perintah pertama dalam Islam adalah membaca — sebuah pesan revolusioner di tengah masyarakat yang mayoritas buta huruf, sekaligus menegaskan bahwa Islam adalah agama ilmu pengetahuan.
+Perintah pertama dalam Islam adalah membaca — sebuah pesan revolusioner di tengah masyarakat yang mayoritas buta huruf, sekaligus menegaskan bahwa Islam adalah agama ilmu pengetahuan^4.
 
 ## Analisis dan Hikmah
 

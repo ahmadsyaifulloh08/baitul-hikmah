@@ -113,7 +113,7 @@ The Sultanate of Demak teaches important lessons:
 > *"And among His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy."* ﴾21﴿
 > — QS. Ar-Rum (30): 21
 
-This verse reflects Demak's philosophy in creating harmony between Islamic values and local culture, establishing a marriage of traditions that produced lasting civilization.^3
+This verse reflects Demak's philosophy in creating harmony between Islamic values and local culture, establishing a marriage of traditions that produced lasting civilization.^3 ^5
 
 ---
 

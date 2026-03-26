@@ -59,7 +59,7 @@ Aibak's success also demonstrates the importance of **local adaptation in implem
 > *"O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you."* ﴾13﴿
 > — QS. Al-Hujurat (49): 13
 
----
+---^4
 
 ## Bibliography
 

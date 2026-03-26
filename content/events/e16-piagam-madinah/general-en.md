@@ -37,7 +37,7 @@ The charter explicitly guaranteed freedom of religion. Each group was entitled t
 > *"There is no compulsion in religion."*
 > — QS. Al-Baqarah (2): 256
 
-### Collective Defence
+### Collective Defence^4
 
 The charter stipulated that all signatories were obligated to defend Madinah from external attack. If Madinah was attacked, all groups — Muslim and non-Muslim alike — were required to participate in its defence. No party was permitted to make a separate peace with Madinah's enemies without collective consent.^1 ^2
 
