@@ -25,7 +25,7 @@ This unification was strategic in facing the Crusader threat. Previously, Crusad
 > *"And hold fast, all of you together, to the rope of Allah, and do not be divided."*
 > — QS. Ali Imran (3): 103^12
 
-## Ayyubid Government System
+## Ayyubid Government System^12
 
 Salahuddin built a government system that combined Arab-Islamic administrative traditions with practical experience from various regions under his control. **The *dīwān* system** (government departments) was efficiently organized, consisting of *dīwān al-jaysh* (military department), *dīwān al-kharāj* (finance department), *dīwān al-rasā'il* (correspondence department), and *dīwān al-qadā'* (judiciary department).^6
 

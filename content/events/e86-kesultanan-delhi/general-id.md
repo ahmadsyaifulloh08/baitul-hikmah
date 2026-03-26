@@ -147,7 +147,7 @@ Keberhasilan Aibak dan penerusnya juga menunjukkan pentingnya **adaptasi lokal d
 > *"Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal mengenal. Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa."* ﴾13﴿
 > — QS. Al-Hujurat (49): 13
 
-Ayat ini menjadi fondasi filosofis bagi kebijakan inklusif Kesultanan Delhi yang menghargai keragaman etnis dan budaya dalam bingkai persatuan Islam.^6 Para sultan Delhi memahami bahwa kekuatan sejati terletak pada kemampuan menyatukan perbedaan, bukan menghilangkannya.^1
+Ayat ini menjadi fondasi filosofis bagi kebijakan inklusif Kesultanan Delhi yang menghargai keragaman etnis dan budaya dalam bingkai persatuan Islam.^6 Para sultan Delhi memahami bahwa kekuatan sejati terletak pada kemampuan menyatukan perbedaan, bukan menghilangkannya.^1^7
 
 ---
 

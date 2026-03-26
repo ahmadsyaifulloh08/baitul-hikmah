@@ -34,23 +34,23 @@ Pada musim semi 732 M, **Abd al-Rahman al-Ghafiqi** meluncurkan what would becom
 
 Total force diperkirakan antara **60.000-80.000 warriors**, angka yang massive untuk standards abad ke-8 M. Yang membuat force ini formidable bukan hanya size, tetapi juga quality dan diversity tactics. Arab contingents brought experience dari campaigns di Syria dan Egypt, Berbers contributed mountain warfare expertise, sementara local allies provided detailed geographical knowledge.^4
 
-**Strategic objective** al-Ghafiqi sangat clear: capture **Tours**, yang tidak hanya important secara strategic sebagai river crossing point, tetapi juga sebagai major religious center dengan **Abbey of Saint Martin** yang sangat wealthy. Control atas Tours akan memberikan Muslim solid base untuk further expansion menuju **Paris** dan eventually **Rhine frontier**.^10
+**Tujuan strategis** al-Ghafiqi sangat jelas: capture **Tours**, yang tidak hanya important secara strategis sebagai titik penyeberangan sungai, tetapi juga sebagai major pusat keagamaan dengan **Abbey of Saint Martin** yang sangat wealthy. Control atas Tours akan memberikan Muslim basis yang kuat untuk ekspansi lebih lanjut menuju **Paris** dan eventually **Rhine frontier**.^10
 
-Muslim advance melalui **Roncevaux Pass** dan **western Pyrenees** berlangsung dengan remarkable efficiency. Kota-kota seperti **Bordeaux, Poitiers, dan Saint-Jean-d'Angély** jatuh dengan little resistance. Population yang sebagian besar masih pagan atau recently Christianized tidak menunjukkan fierce resistance terhadap Muslim rule yang generally tolerant.^5
+Muslim advance melalui **Roncevaux Pass** dan **western Pyrenees** berlangsung dengan remarkable efficiency. Kota-kota seperti **Bordeaux, Poitiers, dan Saint-Jean-d'Angély** jatuh dengan sedikit perlawanan. Population yang sebagian besar masih pagan atau recently Christianized tidak menunjukkan fierce resistance terhadap Muslim rule yang generally tolerant.^5
 
 ## Charles Martel: Unifying Christian Resistance
 
-Menghadapi ancaman Muslim yang unprecedented, **Charles Martel** mengambil decisive action yang akan define legacy-nya. Ia berhasil melakukan something yang tidak achieved oleh Frankish leaders sebelumnya: **unifying Christian Gaul** under single command structure untuk menghadapi external threat.^6
+Menghadapi ancaman Muslim yang unprecedented, **Charles Martel** mengambil decisive action yang akan define legacy-nya. Ia berhasil melakukan something yang tidak achieved oleh Frankish leaders sebelumnya: **unifying Christian Gaul** under struktur komando tunggal untuk menghadapi ancaman eksternal.^6
 
-Mobilization efforts Charles mencakup diplomatic outreach kepada various dukes dan counts yang sebelumnya antagonistic terhadapnya. **Duke Odo dari Aquitaine**, meski previously allied dengan Muslim, akhirnya bergabung dengan Frankish coalition setelah menyadari bahwa Muslim expansion threatens his own autonomy. Alliance ini crucial karena Aquitainian forces familiar dengan Muslim tactics dari previous encounters.^7
+Mobilization efforts Charles mencakup upaya diplomasi kepada various dukes dan counts yang sebelumnya antagonistic terhadapnya. **Duke Odo dari Aquitaine**, meski previously allied dengan Muslim, akhirnya bergabung dengan Frankish coalition setelah menyadari bahwa Muslim ekspansi mengancam otonominya sendiri. Aliansi ini krusial karena Aquitainian forces familiar dengan Muslim tactics dari pertemuan sebelumnya.^7
 
-**Army composition** yang berhasil dikumpulkan Charles merepresentasikan fusion dari different Frankish military traditions. Core strength adalah **heavy infantry** armed dengan **battle-axes, spears, dan shields**, trained untuk fight dalam tight formations yang could withstand cavalry charges. **Saxon auxiliaries** contributed expertise dalam defensive warfare, sementara **Burgundian cavalry** provided mobile element untuk flanking operations.^8
+**Komposisi pasukan** yang berhasil dikumpulkan Charles merepresentasikan fusion dari berbagai tradisi militer Franka. Core strength adalah **heavy infantry** armed dengan **battle-axes, spears, dan shields**, trained untuk fight dalam formasi yang ketat yang could menahan serangan kavaleri. **Saxon auxiliaries** contributed expertise dalam perang defensif, sementara **Burgundian cavalry** provided elemen bergerak untuk operasi penyamping.^8
 
-Tactical innovation Charles yang paling significant adalah adoption dari **"phalanx formation"** yang inspired oleh accounts dari Roman military manuals yang masih preserved di monasteries. Formation ini designed specifically untuk counter Arab cavalry tactics yang relied pada mobility dan successive charges untuk break enemy lines.^11
+Inovasi taktik Charles yang paling significant adalah adoption dari **"phalanx formation"** yang terinspirasi oleh catatan dari manual militer Romawi yang masih preserved di monasteries. Formation ini designed specifically untuk melawan taktik kavaleri Arab yang relied pada mobility dan serangan beruntun untuk memecah barisan musuh.^11
 
 ## Build-up to Battle: Psychological Warfare
 
-Periode September-Oktober 732 M menyaksikan intense **psychological warfare** antara kedua forces. Muslim army, yang telah melakukan successful raids hingga **banks of Loire River**, seemed unstoppable. News tentang sack of **Poitiers** dan approach terhadap Tours menciptakan panic di Christian population yang flee northward dengan belongings mereka.^12
+Periode September-Oktober 732 M menyaksikan intense **perang psikologi** antara kedua forces. Muslim army, yang telah melakukan serangan berhasil hingga **banks of Loire River**, seemed unstoppable. News tentang sack of **Poitiers** dan approach terhadap Tours menciptakan panic di Christian population yang flee northward dengan belongings mereka.^12
 
 **Abd al-Rahman al-Ghafiqi** menggunakan terror tactics yang proven effective dalam previous campaigns. Selective destruction dari Christian symbols, combined dengan generous treatment bagi population yang submitted, created atmosphere di mana resistance seemed futile. Many local lords melakukan accommodation dengan Muslim forces daripada resist.^4
 

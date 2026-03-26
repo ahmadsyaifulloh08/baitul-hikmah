@@ -3047,9 +3047,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra-an-nisa",
+          "id": "qs-al-isra-an-nisa-al-ikhlas-yusuf",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra (17): 1; QS. An-Nisa (4): 171",
+          "author": "QS. Al-Isra (17): 1; QS. An-Nisa (4): 171; QS. Al-Ikhlas (112): 1-4; QS. Yusuf (12): 111",
           "type": "quran"
         }
       ],
@@ -3099,9 +3099,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-alaq",
+          "id": "qs-al-alaq-al-baqarah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Alaq (96): 1",
+          "author": "QS. Al-Alaq (96): 1-5; QS. Al-Baqarah (2): 251",
           "type": "quran"
         }
       ],
@@ -5521,9 +5521,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-thaha--20---114",
+          "id": "qs-taha",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Thaha (20): 114",
+          "author": "QS. Taha (20): 114",
           "type": "quran"
         },
         {
@@ -5732,9 +5732,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-mujadalah",
+          "id": "qs-al-mujadalah-taha",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Mujadalah (58): 11",
+          "author": "QS. Al-Mujadalah (58): 11; QS. Taha (20): 114",
           "type": "quran"
         },
         {
@@ -6141,9 +6141,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-saba--34---6",
+          "id": "qs-saba-fatir",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Saba (34): 6",
+          "author": "QS. Saba (34): 6; QS. Fatir (35): 28",
           "type": "quran"
         },
         {
@@ -7153,9 +7153,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya---21---105",
+          "id": "qs-al-ra-d",
           "title": "Al-Quran al-Karim",
-          "author": "QS. al-Anbiya' (21): 105",
+          "author": "QS. al-Ra'd (13): 11",
           "type": "quran"
         }
       ]
@@ -7692,9 +7692,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-ar-rahman",
+          "id": "qs-ar-rahman-al-jatsiyah",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Ar-Rahman (55): 33",
+          "author": "QS. Ar-Rahman (55): 33; QS. Al-Jatsiyah (45): 13",
           "type": "quran"
         }
       ]
@@ -8226,9 +8226,9 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-insyirah--94---6",
+          "id": "qs-hud",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Insyirah (94): 6",
+          "author": "QS. Hud (11): 49",
           "type": "quran"
         }
       ]

@@ -24,7 +24,7 @@ Menurut beberapa riwayat, setelah kematian Al-Hakim pada tahun 1021 M, Ibn al-Ha
 
 Karya masterpiece Ibn al-Haytham, "*Kitab al-Manazir*" (Buku tentang Optik), ditulis antara tahun 1011-1021 M dan terdiri dari tujuh jilid yang komprehensif.^4 Setiap jilid membahas aspek berbeda dari ilmu optik dengan metodologi yang sistematis dan revolusioner untuk zamannya.^6
 
-**Struktur Tujuh Jilid Kitab al-Manazir:**^10
+**Struktur Tujuh Jilid Kitab al-Manazir:**^3
 
 **Jilid I: Dasar-Dasar Penglihatan**
 Membahas teori fundamental tentang bagaimana proses penglihatan terjadi, menolak teori emisi Yunani kuno, dan memperkenalkan teori intromisi yang menyatakan bahwa cahaya dari objek masuk ke mata.^1
@@ -66,7 +66,7 @@ Berdasarkan observasi dan eksperimen, Ibn al-Haytham mengembangkan "teori introm
 
 ### Camera Obscura: Alat Revolusioner untuk Membuktikan Teori
 
-Ibn al-Haytham adalah orang pertama yang menggunakan **camera obscura** secara sistematis sebagai alat eksperimen ilmiah.^10 Dia tidak hanya menggunakan fenomena ini untuk observasi astronomi (seperti eclipse matahari), tetapi juga sebagai "laboratorium" untuk membuktikan teori-teorinya tentang cahaya dan penglihatan.^1
+Ibn al-Haytham adalah orang pertama yang menggunakan **camera obscura** secara sistematis sebagai alat eksperimen ilmiah.^3 Dia tidak hanya menggunakan fenomena ini untuk observasi astronomi (seperti eclipse matahari), tetapi juga sebagai "laboratorium" untuk membuktikan teori-teorinya tentang cahaya dan penglihatan.^1
 
 **Desain dan Fungsi Camera Obscura Ibn al-Haytham**
 
@@ -86,7 +86,7 @@ Camera obscura yang dirancang Ibn al-Haytham terdiri dari ruang gelap dengan lub
 
 Sebelum Ibn al-Haytham, metodologi ilmiah didominasi oleh pendekatan **deduksi Aristotelian** yang mengandalkan logika dan penalaran untuk mencapai kebenaran.^5 Para filosof Yunani percaya bahwa kebenaran dapat dicapai melalui kontemplasi dan deduksi logis tanpa perlu verifikasi empiris.^9
 
-Ibn al-Haytham secara revolusioner menantang paradigma ini dengan mengembangkan metodologi yang menggabungkan observasi, hipotesis, eksperimen, dan verifikasi.^1 Dalam pendahuluannya untuk Kitab al-Manazir, ia menulis:^10
+Ibn al-Haytham secara revolusioner menantang paradigma ini dengan mengembangkan metodologi yang menggabungkan observasi, hipotesis, eksperimen, dan verifikasi.^1 Dalam pendahuluannya untuk Kitab al-Manazir, ia menulis:^3
 
 *"Pencari kebenaran bukanlah orang yang mempelajari tulisan-tulisan para pendahulu dan mengikuti sifat alamiah mereka dengan memercayainya, tetapi orang yang mencurigai keyakinannya terhadap mereka dan mempertanyakan apa yang ia ambil dari mereka... Tugasnya adalah menempatkan dirinya dalam posisi antagonis terhadap semua yang ia baca, dan... menyerangnya dari segala sisi."*^4
 
@@ -106,7 +106,7 @@ Ibn al-Haytham secara revolusioner menantang paradigma ini dengan mengembangkan 
 
 Ibn al-Haytham menerapkan metodologi empirisnya tidak hanya dalam optik, tetapi juga dalam astronomi, matematika, dan fisika.^9 Dalam setiap bidang, ia menunjukkan keberanian untuk menantang otoritas yang mapan jika bukti empiris menunjukkan sebaliknya.^1
 
-**Contoh dalam Astronomi**: Dalam karyanya "*Al-Shukuk ala Batlamyus*" (Keraguan tentang Ptolemy), Ibn al-Haytham mengkritik model geosentrik Ptolemy berdasarkan observasi yang tidak konsisten dengan teori.^10 Ia menunjukkan bahwa planet-planet seharusnya tampak berubah ukuran secara dramatis jika mereka benar-benar bergerak dalam epicycle seperti yang diklaim Ptolemy.^4
+**Contoh dalam Astronomi**: Dalam karyanya "*Al-Shukuk ala Batlamyus*" (Keraguan tentang Ptolemy), Ibn al-Haytham mengkritik model geosentrik Ptolemy berdasarkan observasi yang tidak konsisten dengan teori.^3 Ia menunjukkan bahwa planet-planet seharusnya tampak berubah ukuran secara dramatis jika mereka benar-benar bergerak dalam epicycle seperti yang diklaim Ptolemy.^4
 
 **Contoh dalam Fisika**: Ibn al-Haytham melakukan eksperimen dengan benda-benda jatuh untuk mempelajari gerak dan gravitasi, mengantisipasi kerja Galileo berabad-abad kemudian.^6
 
@@ -126,7 +126,7 @@ Ibn al-Haytham adalah orang pertama yang memberikan deskripsi akurat tentang bag
 
 **Vitreous Humor (*al-rathubah al-zajajiyyah*)**: Cairan jernih yang mengisi bagian belakang mata dan mempertahankan bentuk mata.^1
 
-**Retina (*al-shabakiyyah*)**: Lapisan sensitif cahaya di bagian belakang mata di mana gambar terbentuk. Ibn al-Haytham menjelaskan bahwa retina adalah tempat di mana sinyal visual pertama kali dibentuk sebelum dikirim ke otak.^10
+**Retina (*al-shabakiyyah*)**: Lapisan sensitif cahaya di bagian belakang mata di mana gambar terbentuk. Ibn al-Haytham menjelaskan bahwa retina adalah tempat di mana sinyal visual pertama kali dibentuk sebelum dikirim ke otak.^3
 
 ### Teori Penglihatan Binocular
 
@@ -138,7 +138,7 @@ Teori ini sangat canggih untuk zamannya dan mengantisipasi pemahaman modern tent
 
 ### Al-Shukuk ala Batlamyus: Skeptisisme Ilmiah
 
-Dalam bidang astronomi, Ibn al-Haytham menulis "*Al-Shukuk ala Batlamyus*" (Keraguan tentang Ptolemy), sebuah kritik mendalam terhadap sistem astronomi Ptolemy yang telah diterima selama berabad-abad.^10 Karya ini menunjukkan aplikasi metode skeptisisme ilmiah yang menjadi ciri khas pendekatan Ibn al-Haytham.^8
+Dalam bidang astronomi, Ibn al-Haytham menulis "*Al-Shukuk ala Batlamyus*" (Keraguan tentang Ptolemy), sebuah kritik mendalam terhadap sistem astronomi Ptolemy yang telah diterima selama berabad-abad.^3 Karya ini menunjukkan aplikasi metode skeptisisme ilmiah yang menjadi ciri khas pendekatan Ibn al-Haytham.^8
 
 **Kritik terhadap Model Epicycle**
 
@@ -158,7 +158,7 @@ Karya ini kemudian memengaruhi para astronom Muslim seperti **Nasir al-Din al-Tu
 
 ### Observasi Astronomi dengan Camera Obscura
 
-Ibn al-Haytham menggunakan camera obscura untuk observasi astronomi yang aman dan akurat.^8 Dengan alat ini, ia dapat:^10
+Ibn al-Haytham menggunakan camera obscura untuk observasi astronomi yang aman dan akurat.^8 Dengan alat ini, ia dapat:^3
 
 - **Mengamati Eclipse Matahari**: Tanpa merusak mata, mengukur durasi dan karakteristik eclipse.^3
 - **Mengukur Diameter Matahari**: Menghitung ukuran angular matahari berdasarkan gambar yang diproyeksikan.^7
@@ -169,7 +169,7 @@ Ibn al-Haytham menggunakan camera obscura untuk observasi astronomi yang aman da
 
 ### Masalah Alhazen dan Geometri Analitik
 
-Ibn al-Haytham memberikan kontribusi penting dalam matematika, terutama dalam geometri analitik dan kalkulus integral.^11 Salah satu karyanya yang terkenal adalah solusi untuk "**Masalah Alhazen**" - menentukan titik pada permukaan cermin cekung atau cembung di mana cahaya dari suatu titik akan dipantulkan ke titik lain tertentu.^12
+Ibn al-Haytham memberikan kontribusi penting dalam matematika, terutama dalam geometri analitik dan kalkulus integral.^3 Salah satu karyanya yang terkenal adalah solusi untuk "**Masalah Alhazen**" - menentukan titik pada permukaan cermin cekung atau cembung di mana cahaya dari suatu titik akan dipantulkan ke titik lain tertentu.^1
 
 **Formulasi Matematika Masalah**
 
@@ -193,7 +193,7 @@ Ibn al-Haytham juga memberikan kontribusi dalam teori bilangan dan analisis mate
 **Formula Jumlah Kuadrat**: Ibn al-Haytham menemukan formula untuk menghitung jumlah kuadrat n bilangan bulat pertama:
 1² + 2² + 3² + ... + n² = n(n+1)(2n+1)/6^9
 
-Formula ini kemudian menjadi salah satu hasil fundamental dalam kalkulus dan analisis matematis.^10
+Formula ini kemudian menjadi salah satu hasil fundamental dalam kalkulus dan analisis matematis.^3
 
 ## Pengaruh terhadap Roger Bacon dan Sains Eropa
 
@@ -215,7 +215,7 @@ Proses terjemahan ini tidak selalu sempurna, dan beberapa konsep fundamental ter
 
 ### Pengaruh pada Perkembangan Sains Eropa
 
-Melalui Roger Bacon dan penerjemah-penerjemah lain, metodologi Ibn al-Haytham menyebar ke seluruh Eropa dan memengaruhi perkembangan sains selama berabad-abad:^10
+Melalui Roger Bacon dan penerjemah-penerjemah lain, metodologi Ibn al-Haytham menyebar ke seluruh Eropa dan memengaruhi perkembangan sains selama berabad-abad:^3
 
 **Johannes Kepler** (1571-1630) mengembangkan teori penglihatan modern berdasarkan fondasi yang diletakkan Ibn al-Haytham, khususnya dalam memahami bagaimana mata memfokuskan cahaya pada retina.^4
 
@@ -248,7 +248,7 @@ Selain "*Kitab al-Manazir*", Ibn al-Haytham menulis lebih dari 200 karya dalam b
 
 ### Metodologi Kritik Teks dan Verifikasi
 
-Ibn al-Haytham juga mengembangkan metodologi untuk kritik teks ilmiah dan verifikasi klaim-klaim para pendahulu.^10 Ia tidak hanya mengkritik karya Ptolemy, tetapi juga karya Euclides, Aristoteles, dan bahkan astronom Muslim seperti Al-Battani.^4
+Ibn al-Haytham juga mengembangkan metodologi untuk kritik teks ilmiah dan verifikasi klaim-klaim para pendahulu.^3 Ia tidak hanya mengkritik karya Ptolemy, tetapi juga karya Euclides, Aristoteles, dan bahkan astronom Muslim seperti Al-Battani.^4
 
 Pendekatan kritisnya meliputi:^6
 - **Analisis Internal**: Mencari kontradiksi dalam argumen penulis
@@ -276,7 +276,7 @@ Metodologi observasi yang dikembangkan Ibn al-Haytham menjadi standar di observa
 
 - **Observatorium Maragheh** (1259) di Iran
 - **Observatorium Samarkand** (1420) di Uzbekistan  
-- **Observatorium Istanbul** (1577) di Turki^10
+- **Observatorium Istanbul** (1577) di Turki^3
 
 Di observatorium-observatorium ini, astronom Muslim menggunakan instrumen-instrumen optik dan metode observasi yang dikembangkan berdasarkan prinsip-prinsip Ibn al-Haytham.^4
 
@@ -294,14 +294,14 @@ Kehidupan dan karya Ibn al-Haytham mengajarkan beberapa pelajaran penting yang m
 
 ### Kontribusi pada Dialog Sains dan Agama
 
-Ibn al-Haytham menunjukkan bahwa pencarian kebenaran ilmiah tidak bertentangan dengan keimanan, tetapi justru merupakan bentuk ibadah kepada Allah.^9 Ia sering mengutip ayat-ayat al-Quran yang mendorong manusia untuk mengamati dan merenungkan ciptaan Allah:^10
+Ibn al-Haytham menunjukkan bahwa pencarian kebenaran ilmiah tidak bertentangan dengan keimanan, tetapi justru merupakan bentuk ibadah kepada Allah.^9 Ia sering mengutip ayat-ayat al-Quran yang mendorong manusia untuk mengamati dan merenungkan ciptaan Allah:^3
 
 > وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقُّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ ﴿٦﴾
 >
 > *"Dan orang-orang yang diberi ilmu meyakini bahwa Al Quran yang diturunkan kepadamu dari Tuhanmu itulah yang benar dan menunjuki kepada jalan Tuhan Yang Maha Perkasa lagi Maha Terpuji."* ﴾6﴿
-> — QS. Saba (34): 6^16
+> — QS. Saba (34): 6^3
 
-Bagi Ibn al-Haytham, mempelajari hukum-hukum alam adalah cara untuk mengenal keagungan Sang Pencipta.^1 Pendekatan ini menunjukkan bahwa sains dan spiritualitas dapat berjalan seiring, bukan saling bertentangan.^4
+Bagi Ibn al-Haytham, mempelajari hukum-hukum alam adalah cara untuk mengenal keagungan Sang Pencipta.^1 Pendekatan ini menunjukkan bahwa sains dan spiritualitas dapat berjalan seiring, bukan saling bertentangan.^4^13
 
 ### Warisan untuk Peradaban Global
 
@@ -316,9 +316,9 @@ Ibn al-Haytham meninggalkan warisan yang melampaui batas-batas peradaban dan aga
 > إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ ﴿٢٨﴾
 >
 > *"Sesungguhnya yang takut kepada Allah di antara hamba-hamba-Nya, hanyalah ulama. Sesungguhnya Allah Maha Perkasa lagi Maha Pengampun."* ﴾28﴿
-> — QS. Fatir (35): 28^16
+> — QS. Fatir (35): 28^3
 
-Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang memahami alam semesta melalui sains, semakin besar pula rasa takjubnya kepada Allah Yang Maha Pencipta.^8 Warisan spiritual ini sama pentingnya dengan warisan ilmiahnya dalam membentuk peradaban manusia.^5
+Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang memahami alam semesta melalui sains, semakin besar pula rasa takjubnya kepada Allah Yang Maha Pencipta.^8 Warisan spiritual ini sama pentingnya dengan warisan ilmiahnya dalam membentuk peradaban manusia.^5^13
 
 ---
 
@@ -333,10 +333,7 @@ Ayat ini mencerminkan pandangan Ibn al-Haytham bahwa semakin dalam seseorang mem
 7. Saliba, George, *Islamic Science and the Making of the European Renaissance*, Cambridge: MIT Press, 2007.
 8. Polyak, Stephen, *The Retina*, Chicago: University of Chicago Press, 1941.
 9. Omar, Saleh Beshara, *Ibn al-Haytham's Optics*, Minneapolis: Bibliotheca Islamica, 1977.
-10. Al-Haytham, Ibn, *Al-Shukuk ala Batlamyus*, ed. A. Sabra and N. Shehaby, Cairo: Dar al-Kutub, 1971.
-11. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
-12. Rashed, Roshdi, *Geometry and Dioptrics in Classical Islam*, London: al-Furqan Islamic Heritage Foundation, 2005.
-13. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
-14. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
-15. Lindberg, David C., *Roger Bacon and the Origins of Perspectiva*, Oxford: Oxford University Press, 1996.
-16. Al-Qur'an al-Karim. QS. Saba (34): 6; QS. Fatir (35): 28.
+10. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
+11. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
+12. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
+13. Al-Qur'an al-Karim. QS. Saba (34): 6; QS. Fatir (35): 28.

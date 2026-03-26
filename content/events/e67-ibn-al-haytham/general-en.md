@@ -32,44 +32,44 @@ He explained that vision occurs when light enters through the cornea, is focused
 
 ### Astronomy and Critique of Ptolemy
 
-In astronomy, Ibn al-Haytham wrote "*Al-Shukuk ala Batlamyus*" (Doubts on Ptolemy), a deep critique of Ptolemy's astronomical system that had been accepted for centuries.^10 He identified various inconsistencies in Ptolemy's geocentric model and proposed improvements based on observation.
+In astronomy, Ibn al-Haytham wrote "*Al-Shukuk ala Batlamyus*" (Doubts on Ptolemy), a deep critique of Ptolemy's astronomical system that had been accepted for centuries.^3 He identified various inconsistencies in Ptolemy's geocentric model and proposed improvements based on observation.
 
 This work later influenced Muslim astronomers like Al-Tusi and Al-Shirazi, who developed alternative models that eventually inspired the Copernican revolution in Europe.
 
 ### Mathematics and Geometry
 
-Ibn al-Haytham made important contributions to mathematics, especially in analytic geometry and integral calculus.^11 He solved complex problems about area and volume using methods that anticipated the development of calculus several centuries later.
+Ibn al-Haytham made important contributions to mathematics, especially in analytic geometry and integral calculus.^3 He solved complex problems about area and volume using methods that anticipated the development of calculus several centuries later.
 
-One of his famous works was the solution to "Alhazen's problem" - determining the point on the surface of a concave mirror where light from one point would be reflected to another point.^12 This problem required solving a fourth-degree equation, demonstrating extraordinary mathematical sophistication.
+One of his famous works was the solution to "Alhazen's problem" - determining the point on the surface of a concave mirror where light from one point would be reflected to another point.^1 This problem required solving a fourth-degree equation, demonstrating extraordinary mathematical sophistication.
 
 ## Modern Scientific Methodology
 
 ### Observation, Hypothesis, and Experiment
 
-Ibn al-Haytham developed methodology that we now know as the modern scientific method.^13 He emphasized the importance of systematic observation, hypothesis formulation, and testing through controlled experiments. This approach was very different from the Greek philosophical tradition that relied more on logical deduction.
+Ibn al-Haytham developed methodology that we now know as the modern scientific method.^3 He emphasized the importance of systematic observation, hypothesis formulation, and testing through controlled experiments. This approach was very different from the Greek philosophical tradition that relied more on logical deduction.
 
-In Ibn al-Haytham's own words: "Truth is sought for its own sake... Finding truth is a hard task, and the path to truth is rough."^14 This statement shows his commitment to scientific objectivity and impartial pursuit of truth.
+In Ibn al-Haytham's own words: "Truth is sought for its own sake... Finding truth is a hard task, and the path to truth is rough."^1 This statement shows his commitment to scientific objectivity and impartial pursuit of truth.
 
 ### Critique of Authority and Tradition
 
-One revolutionary aspect of Ibn al-Haytham's approach was his courage to criticize established scientific authority.^15 He did not hesitate to oppose theories of Aristotle, Euclid, and Ptolemy when his observations and experiments showed otherwise.
+One revolutionary aspect of Ibn al-Haytham's approach was his courage to criticize established scientific authority.^3 He did not hesitate to oppose theories of Aristotle, Euclid, and Ptolemy when his observations and experiments showed otherwise.
 
 > وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنزِلَ إِلَيْكَ مِن رَّبِّكَ هُوَ الْحَقَّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ ﴿٦﴾
 >
 > *"And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy." ﴾6﴿*
-> — QS. Saba (34): 6^16
+> — QS. Saba (34): 6^1
 
-## Influence on Western and Eastern Civilizations^16
+## Influence on Western and Eastern Civilizations^1^14
 
 ### Latin Translation and Influence in Europe
 
-Ibn al-Haytham's works were translated into Latin in the 12th and 13th centuries by translators in Toledo and other translation schools.^17 "*Kitab al-Manazir*" was translated as "*Perspectiva*" and became the main reference for medieval European scientists.
+Ibn al-Haytham's works were translated into Latin in the 12th and 13th centuries by translators in Toledo and other translation schools.^3 "*Kitab al-Manazir*" was translated as "*Perspectiva*" and became the main reference for medieval European scientists.
 
-Roger Bacon, often called the "father of experimental method" in Europe, was actually heavily influenced by Ibn al-Haytham's work.^18 Similarly with Johannes Kepler, who developed vision theory based on foundations laid by Ibn al-Haytham.
+Roger Bacon, often called the "father of experimental method" in Europe, was actually heavily influenced by Ibn al-Haytham's work.^4 Similarly with Johannes Kepler, who developed vision theory based on foundations laid by Ibn al-Haytham.
 
 ### Legacy in Islamic Science
 
-In the Islamic world, Ibn al-Haytham's work inspired the next generation of scientists to adopt experimental approaches. Scientists like **Al-Shirazi** in astronomy and **Ibn al-Nafis** in medicine developed similar methods in their respective fields.^19
+In the Islamic world, Ibn al-Haytham's work inspired the next generation of scientists to adopt experimental approaches. Scientists like **Al-Shirazi** in astronomy and **Ibn al-Nafis** in medicine developed similar methods in their respective fields.^1
 
 ## Wisdom and Modern Lessons
 
@@ -94,13 +94,10 @@ The life and work of Ibn al-Haytham teach several important lessons:
 7. Saliba, George, *Islamic Science and the Making of the European Renaissance*, Cambridge: MIT Press, 2007.
 8. Polyak, Stephen, *The Retina*, Chicago: University of Chicago Press, 1941.
 9. Omar, Saleh Beshara, *Ibn al-Haytham's Optics*, Minneapolis: Bibliotheca Islamica, 1977.
-10. Al-Haytham, Ibn, *Al-Shukuk ala Batlamyus*, ed. A. Sabra and N. Shehaby, Cairo: Dar al-Kutub, 1971.
-11. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
-12. Rashed, Roshdi, *Geometry and Dioptrics in Classical Islam*, London: al-Furqan Islamic Heritage Foundation, 2005.
-13. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
-14. Ibn al-Haytham, *Kitab al-Manazir*, Book I, Chapter 6.
-15. Hogendijk, Jan P., *Ibn al-Haytham's Completion of the Conics*, New York: Springer-Verlag, 1985.
-16. Al-Qur'an al-Karim. QS. Saba (34): 6.
-17. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
-18. Lindberg, David C., *Roger Bacon and the Origins of Perspectiva*, Oxford: Oxford University Press, 1996.
-19. Nasr, Seyyed Hossein, *Islamic Life and Thought*, Albany: SUNY Press, 1981.
+10. Berggren, J. L., *Episodes in the Mathematics of Medieval Islam*, New York: Springer-Verlag, 1986.
+11. Huff, Toby E., *The Rise of Early Modern Science*, Cambridge: Cambridge University Press, 2003.
+12. Ibn al-Haytham, *Kitab al-Manazir*, Book I, Chapter 6.
+13. Hogendijk, Jan P., *Ibn al-Haytham's Completion of the Conics*, New York: Springer-Verlag, 1985.
+14. Al-Qur'an al-Karim. QS. Saba (34): 6.
+15. Burnett, Charles, *The Introduction of Arabic Learning into England*, London: British Library, 1997.
+16. Nasr, Seyyed Hossein, *Islamic Life and Thought*, Albany: SUNY Press, 1981.

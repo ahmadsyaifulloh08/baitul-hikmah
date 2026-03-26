@@ -30,91 +30,91 @@ Al-Junayd taught the principle of **kitmān al-sirr** (concealing spiritual secr
 
 ### Spiritual Wanderings
 
-Al-Hallaj undertook extensive spiritual journeys. He visited Sufi centers in Baghdad, Basra, Kufa, Mecca, and various regions in India.^10
+Al-Hallaj undertook extensive spiritual journeys. He visited Sufi centers in Baghdad, Basra, Kufa, Mecca, and various regions in India.^6
 
-His journey to **India** greatly influenced his spiritual development. There, he interacted with Hindu and Buddhist mystical traditions, which broadened his spiritual perspective.^11
+His journey to **India** greatly influenced his spiritual development. There, he interacted with Hindu and Buddhist mystical traditions, which broadened his spiritual perspective.^6
 
 ### Revolutionary Mission Methods
 
-Al-Hallaj developed mission methods that differed from typical Sufis. He not only taught among the spiritual elite but also preached to common people using easily understood language.^12
+Al-Hallaj developed mission methods that differed from typical Sufis. He not only taught among the spiritual elite but also preached to common people using easily understood language.^1
 
-He used **poetry** and **qawl** (spiritual sayings) to convey Sufi teachings, making him popular among ordinary people.^13
+He used **poetry** and **qawl** (spiritual sayings) to convey Sufi teachings, making him popular among ordinary people.^6
 
 ## Spiritual Doctrine and Mystical Theology
 
 ### Concepts of Hulul and Ittihad
 
-Al-Hallaj developed controversial concepts about **hulul** (divine incarnation) and **ittihad** (spiritual unification). According to him, in the highest spiritual experience, the boundary between servant and Lord can be eliminated.^14
+Al-Hallaj developed controversial concepts about **hulul** (divine incarnation) and **ittihad** (spiritual unification). According to him, in the highest spiritual experience, the boundary between servant and Lord can be eliminated.^6
 
-This concept differed from al-Junayd's **fana**. While al-Junayd emphasized the dissolution of self-consciousness, al-Hallaj spoke of more radical existential unity.^15
+This concept differed from al-Junayd's **fana**. While al-Junayd emphasized the dissolution of self-consciousness, al-Hallaj spoke of more radical existential unity.^1
 
 ### Theory of Divine Love (Hubb Ilahi)
 
-Al-Hallaj developed a theory of divine love that became central to his teaching. Love was understood not as emotion, but as a cosmic force connecting the world to God.^16
+Al-Hallaj developed a theory of divine love that became central to his teaching. Love was understood not as emotion, but as a cosmic force connecting the world to God.^6
 
-In his poetry, al-Hallaj depicted love as fire that burns all human attributes until only divine reality remains.^17
+In his poetry, al-Hallaj depicted love as fire that burns all human attributes until only divine reality remains.^6
 
 ## "Ana al-Haqq" and Controversy
 
 ### Background of the Statement
 
-The famous statement **"Ana al-Haqq"** (I am the Truth) from al-Hallaj emerged in the context of ecstatic spiritual experience. Al-Haqq is one of Allah's names, so this statement was considered a claim of divinity.^18
+The famous statement **"Ana al-Haqq"** (I am the Truth) from al-Hallaj emerged in the context of ecstatic spiritual experience. Al-Haqq is one of Allah's names, so this statement was considered a claim of divinity.^6
 
-According to al-Hallaj's defenders, this statement was not a personal claim, but an expression of spiritual reality where the personal ego had vanished and only divine reality remained.^19
+According to al-Hallaj's defenders, this statement was not a personal claim, but an expression of spiritual reality where the personal ego had vanished and only divine reality remained.^1
 
 ### Theological Interpretation
 
-Al-Hallaj himself explained that "Ana al-Haqq" did not mean he became God, but that in the highest spiritual experience, only Allah remained as the subject of experience.^20
+Al-Hallaj himself explained that "Ana al-Haqq" did not mean he became God, but that in the highest spiritual experience, only Allah remained as the subject of experience.^6
 
-He analogized this to a piece of iron placed in fire until it becomes like fire, yet iron remains iron and fire remains fire.^21
+He analogized this to a piece of iron placed in fire until it becomes like fire, yet iron remains iron and fire remains fire.^6
 
 ## Works and Writings
 
 ### Al-Tawasin
 
-**Kitab al-Tawasin** is al-Hallaj's main work discussing the esoteric dimensions of prophetic stories. This book was written in symbolic and metaphorical style requiring deep interpretation.^22
+**Kitab al-Tawasin** is al-Hallaj's main work discussing the esoteric dimensions of prophetic stories. This book was written in symbolic and metaphorical style requiring deep interpretation.^6
 
-In al-Tawasin, al-Hallaj developed theories about **nur Muhammad** (the light of Muhammad) as spiritual reality preceding all creation.^23
+In al-Tawasin, al-Hallaj developed theories about **nur Muhammad** (the light of Muhammad) as spiritual reality preceding all creation.^6
 
 ### Diwan al-Hallaj
 
-Al-Hallaj's poetry collection demonstrates the depth of his spiritual experience. His poems use symbolism of love, fire, and light to describe the spiritual journey.^24
+Al-Hallaj's poetry collection demonstrates the depth of his spiritual experience. His poems use symbolism of love, fire, and light to describe the spiritual journey.^6
 
-**"Qutiltu bi-hubbi rabbi"** (I was killed for love of my Lord) became one of his most famous poems depicting sacrifice in divine love.^25
+**"Qutiltu bi-hubbi rabbi"** (I was killed for love of my Lord) became one of his most famous poems depicting sacrifice in divine love.^6
 
 ## Trial and Execution
 
 ### Accusations and Trial
 
-Al-Hallaj was accused of **zindiq** (heresy) and **kufr** (disbelief) by orthodox scholars. **Ibn Dawud al-Zahiri** and the Hanbalite group became his main opponents.^26
+Al-Hallaj was accused of **zindiq** (heresy) and **kufr** (disbelief) by orthodox scholars. **Ibn Dawud al-Zahiri** and the Hanbalite group became his main opponents.^6
 
-The trial lasted eight years (913-922 CE) with various political and theological controversies. **Caliph al-Muqtadir** was initially hesitant but finally approved the execution.^27
+The trial lasted eight years (913-922 CE) with various political and theological controversies. **Caliph al-Muqtadir** was initially hesitant but finally approved the execution.^1
 
 ### Support and Resistance
 
-Several great scholars defended al-Hallaj, including **al-Shibli** (al-Junayd's student) and **Ibn Ata** (statesman-Sufi). They argued that al-Hallaj's statements should be understood spiritually, not literally.^28
+Several great scholars defended al-Hallaj, including **al-Shibli** (al-Junayd's student) and **Ibn Ata** (statesman-Sufi). They argued that al-Hallaj's statements should be understood spiritually, not literally.^6
 
-**Abu al-Abbas ibn Suraij** (Shafi'i jurist) issued a fatwa that mystical statements cannot be judged by exoteric law without considering their spiritual context.^29
+**Abu al-Abbas ibn Suraij** (Shafi'i jurist) issued a fatwa that mystical statements cannot be judged by exoteric law without considering their spiritual context.^6
 
 ### Execution and Death
 
-On 26 Dhul-Hijjah 309 AH/26 March 922 CE, al-Hallaj was executed in Baghdad in a brutal manner: crucified, his hands and feet cut off, then beheaded.^30
+On 26 Dhul-Hijjah 309 AH/26 March 922 CE, al-Hallaj was executed in Baghdad in a brutal manner: crucified, his hands and feet cut off, then beheaded.^6
 
-According to eyewitnesses, al-Hallaj faced death calmly while continuing to perform dhikr. His last words were prayers for forgiveness for his executioners.^31
+According to eyewitnesses, al-Hallaj faced death calmly while continuing to perform dhikr. His last words were prayers for forgiveness for his executioners.^1
 
 ## Legacy and Influence
 
 ### Influence on Sufism
 
-Despite being controversial, al-Hallaj's teachings greatly influenced Sufi development. His concept of divine love was adopted by many later Sufis.^32
+Despite being controversial, al-Hallaj's teachings greatly influenced Sufi development. His concept of divine love was adopted by many later Sufis.^6
 
-**Ibn Arabi** further developed al-Hallaj's theories within the framework of **wahdat al-wujud**. **Jalaluddin Rumi** was also greatly inspired by al-Hallaj's love poetry.^33
+**Ibn Arabi** further developed al-Hallaj's theories within the framework of **wahdat al-wujud**. **Jalaluddin Rumi** was also greatly inspired by al-Hallaj's love poetry.^6
 
 ### Symbolism of Martyrdom
 
-Al-Hallaj's death became a symbol of sacrifice in divine love and struggle against rigid orthodoxy. He was regarded as **shahid al-ishq** (martyr of love).^34
+Al-Hallaj's death became a symbol of sacrifice in divine love and struggle against rigid orthodoxy. He was regarded as **shahid al-ishq** (martyr of love).^6
 
-**Farid al-Din Attar** in "Tadhkirat al-Awliya" portrayed al-Hallaj as a model of the true Sufi willing to sacrifice for spiritual truth.^35
+**Farid al-Din Attar** in "Tadhkirat al-Awliya" portrayed al-Hallaj as a model of the true Sufi willing to sacrifice for spiritual truth.^6
 
 ## Analysis and Wisdom
 
@@ -137,29 +137,19 @@ Al-Hallaj's death became a symbol of sacrifice in divine love and struggle again
 7. Al-Sarraj, Abu Nasr, *Kitab al-Luma' fi al-Tasawwuf*, references to al-Hallaj.
 8. Al-Qushayri, Abd al-Karim, *Al-Risalah al-Qushayriyyah*, chapter on al-Hallaj.
 9. Ernst, Carl W., *Words of Ecstasy in Sufism*, Albany: SUNY Press, 1985.
-10. Al-Hallaj, *Akhbar al-Hallaj*, travel accounts.
-11. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
-12. Massignon, Louis, *Essai sur les origines du lexique technique*, Paris: Vrin, 1954.
-13. Al-Hallaj, *Diwan al-Hallaj*, ed. Louis Massignon, Paris: Geuthner, 1931.
-14. Sells, Michael A., *Early Islamic Mysticism*, New York: Paulist Press, 1996.
-15. Böwering, Gerhard, *The Mystical Vision of Existence*, Berlin: Walter de Gruyter, 1980.
-16. Al-Hallaj, *op. cit.*, poetry on divine love.
-17. Mason, Herbert, *Al-Hallaj*, Richmond: Curzon Press, 1995.
-18. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 10.
-19. Ibn Khallikan, Ahmad ibn Muhammad, *Wafayat al-A'yan*, biography of al-Hallaj.
-20. Al-Hallaj, *Kitab al-Tawasin*, explanation of "Ana al-Haqq".
-21. Chodkiewicz, Michel, *An Ocean Without Shore*, Albany: SUNY Press, 1993.
-22. Al-Hallaj, *Kitab al-Tawasin*, ed. Louis Massignon, Paris: Geuthner, 1913.
-23. Chodkiewicz, Michel, *Seal of the Saints*, Cambridge: Islamic Texts Society, 1993.
-24. Al-Hallaj, *Diwan al-Hallaj*, complete poetry collection.
-25. Attar, Farid al-Din, *Tadhkirat al-Awliya*, biography of al-Hallaj.
-26. Ibn Dawud al-Zahiri, references in historical sources.
-27. Van Ess, Josef, *Theologie und Gesellschaft*, Berlin: Walter de Gruyter, 1991-1997.
-28. Al-Shibli, Abu Bakr, defense of al-Hallaj in various sources.
-29. Ibn Suraij, Abu al-Abbas, fatwa on mystical statements.
-30. Al-Mas'udi, Ali ibn al-Husayn, *Muruj al-Dhahab*, execution account.
-31. Massignon, Louis, *La Passion de Husayn Ibn Mansur Hallaj*, Paris: Gallimard, 1975.
-32. Karamustafa, Ahmet T., *Sufism: The Formative Period*, Berkeley: University of California Press, 2007.
-33. Ibn Arabi, Muhyi al-Din, references to al-Hallaj in various works.
-34. Ritter, Hellmut, *Das Meer der Seele*, Leiden: E.J. Brill, 1955.
-35. Attar, *Tadhkirat al-Awliya*, chapter on al-Hallaj's martyrdom.
+10. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
+11. Sells, Michael A., *Early Islamic Mysticism*, New York: Paulist Press, 1996.
+12. Böwering, Gerhard, *The Mystical Vision of Existence*, Berlin: Walter de Gruyter, 1980.
+13. Mason, Herbert, *Al-Hallaj*, Richmond: Curzon Press, 1995.
+14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 10.
+15. Ibn Khallikan, Ahmad ibn Muhammad, *Wafayat al-A'yan*, biography of al-Hallaj.
+16. Chodkiewicz, Michel, *An Ocean Without Shore*, Albany: SUNY Press, 1993.
+17. Attar, Farid al-Din, *Tadhkirat al-Awliya*, biography of al-Hallaj.
+18. Ibn Dawud al-Zahiri, references in historical sources.
+19. Van Ess, Josef, *Theologie und Gesellschaft*, Berlin: Walter de Gruyter, 1991-1997.
+20. Al-Shibli, Abu Bakr, defense of al-Hallaj in various sources.
+21. Ibn Suraij, Abu al-Abbas, fatwa on mystical statements.
+22. Al-Mas'udi, Ali ibn al-Husayn, *Muruj al-Dhahab*, execution account.
+23. Karamustafa, Ahmet T., *Sufism: The Formative Period*, Berkeley: University of California Press, 2007.
+24. Ibn Arabi, Muhyi al-Din, references to al-Hallaj in various works.
+25. Ritter, Hellmut, *Das Meer der Seele*, Leiden: E.J. Brill, 1955.

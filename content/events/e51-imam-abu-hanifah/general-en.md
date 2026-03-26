@@ -38,19 +38,19 @@ Abu Hanifah's *ra'yu* (reasoning) approach was not arbitrary but based on strict
 
 ### Scientific Assembly at Kufa Mosque
 
-Abu Hanifah began his regular teaching at Kufa Mosque around 120 AH. His assembly developed into a dynamic center of legal discussion, involving dozens of brilliant students who contributed to methodology development. His teaching method was unique: he did not just convey opinions but discussed problems together with his students in open discussion forums.^15
+Abu Hanifah began his regular teaching at Kufa Mosque around 120 AH. His assembly developed into a dynamic center of legal discussion, involving dozens of brilliant students who contributed to methodology development. His teaching method was unique: he did not just convey opinions but discussed problems together with his students in open discussion forums.^1
 
-**Abu Yusuf** narrated: *"When Abu Hanifah faced a problem, he would gather us and say: 'What are your opinions on this matter?' Then we would discuss. Sometimes discussions lasted a full month for one problem, until we agreed on one opinion."* This method created deep intellectual involvement and ensured every legal decision had undergone comprehensive study.^16
+**Abu Yusuf** narrated: *"When Abu Hanifah faced a problem, he would gather us and say: 'What are your opinions on this matter?' Then we would discuss. Sometimes discussions lasted a full month for one problem, until we agreed on one opinion."* This method created deep intellectual involvement and ensured every legal decision had undergone comprehensive study.^1
 
-Abu Hanifah's assembly attracted scholars from various regions. **Zufar ibn al-Hudhayl** from Basrah, **Hasan ibn Ziyad al-Lu'lu'i** from Baghdad, and many others came to join the legal discussions. This diversity of intellectual backgrounds enriched perspectives and made Hanafi school opinions more comprehensive.^17
+Abu Hanifah's assembly attracted scholars from various regions. **Zufar ibn al-Hudhayl** from Basrah, **Hasan ibn Ziyad al-Lu'lu'i** from Baghdad, and many others came to join the legal discussions. This diversity of intellectual backgrounds enriched perspectives and made Hanafi school opinions more comprehensive.^1
 
 ### Abu Yusuf and Muhammad al-Shaybani: The Most Important Students
 
-**Abu Yusuf Ya'qub ibn Ibrahim al-Anshari** (113-182 AH) was the most senior student and closest to Abu Hanifah. Born into a poor family, he once worked as an oil seller before being able to fully pursue knowledge. Abu Hanifah even provided financial support so Abu Yusuf could focus on studying.^18
+**Abu Yusuf Ya'qub ibn Ibrahim al-Anshari** (113-182 AH) was the most senior student and closest to Abu Hanifah. Born into a poor family, he once worked as an oil seller before being able to fully pursue knowledge. Abu Hanifah even provided financial support so Abu Yusuf could focus on studying.^1
 
-Abu Yusuf was known for his ability to master hadith well, complementing his teacher's rational approach with strong textual foundation. He became the first *Qadhi al-Qudhat* (chief justice) in Islamic history during **Harun al-Rashid's** time, making the Hanafi school the official school of the Abbasid state.^19
+Abu Yusuf was known for his ability to master hadith well, complementing his teacher's rational approach with strong textual foundation. He became the first *Qadhi al-Qudhat* (chief justice) in Islamic history during **Harun al-Rashid's** time, making the Hanafi school the official school of the Abbasid state.^1
 
-**Muhammad ibn al-Hasan al-Shaybani** (132-189 AH) joined Abu Hanifah's assembly at a young age. After Abu Hanifah's death, he continued studying with **Malik ibn Anas** in Medina for two years, then returned to Baghdad to join Abu Yusuf. The combination of Hanafi methodology and learning experience with Malik made al-Shaybani the first systematic writer of the Hanafi school.^20
+**Muhammad ibn al-Hasan al-Shaybani** (132-189 AH) joined Abu Hanifah's assembly at a young age. After Abu Hanifah's death, he continued studying with **Malik ibn Anas** in Medina for two years, then returned to Baghdad to join Abu Yusuf. The combination of Hanafi methodology and learning experience with Malik made al-Shaybani the first systematic writer of the Hanafi school.^1
 
 Al-Shaybani wrote six fundamental works of the Hanafi school known as *"Zahir al-Riwayah"* (famous narrations): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, and *Al-Ziyadat*. These works became the main reference for the Hanafi school to this day.^21
 
@@ -120,9 +120,8 @@ The concept of *istihsan* that he developed provided space for considering publi
 12. Muhammad al-Shaybani, *Al-Mabsut*, 30 volumes.
 13. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, vol. 5.
 14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, vol. 8.
-15. Al-Khatib al-Baghdadi, *op. cit.*, narration about Abu Hanifah's death.
-16. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 10.
-17. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
-18. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
-19. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
-20. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+15. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, vol. 10.
+16. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
+17. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
+18. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
+19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

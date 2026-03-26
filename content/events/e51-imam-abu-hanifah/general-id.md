@@ -38,19 +38,19 @@ Pendekatan *ra'yu* (logika) Abu Hanifah tidak sembarangan, melainkan berdasarkan
 
 ### Majelis Ilmiah di Masjid Kufah
 
-Abu Hanifah memulai pengajaran regularnya di Masjid Kufah sekitar tahun 120 H. Majelisnya berkembang menjadi pusat diskusi hukum yang dinamis, melibatkan puluhan murid cerdas yang turut berkontribusi dalam pengembangan metodologi. Metode pengajarannya unik: ia tidak hanya menyampaikan pendapat, tetapi membahas masalah bersama murid-muridnya dalam forum diskusi terbuka.^15
+Abu Hanifah memulai pengajaran regularnya di Masjid Kufah sekitar tahun 120 H. Majelisnya berkembang menjadi pusat diskusi hukum yang dinamis, melibatkan puluhan murid cerdas yang turut berkontribusi dalam pengembangan metodologi. Metode pengajarannya unik: ia tidak hanya menyampaikan pendapat, tetapi membahas masalah bersama murid-muridnya dalam forum diskusi terbuka.^1
 
-**Abu Yusuf** menuturkan: *"Abu Hanifah jika menghadapi suatu masalah, ia akan mengumpulkan kami dan mengatakan: 'Bagaimana pendapat kalian tentang masalah ini?' Lalu kami berdiskusi. Terkadang diskusi berlangsung sebulan penuh untuk satu masalah, sampai kami sepakat pada satu pendapat."* Metode ini menciptakan keterlibatan intelektual yang mendalam dan memastikan setiap keputusan hukum telah melalui kajian menyeluruh.^16
+**Abu Yusuf** menuturkan: *"Abu Hanifah jika menghadapi suatu masalah, ia akan mengumpulkan kami dan mengatakan: 'Bagaimana pendapat kalian tentang masalah ini?' Lalu kami berdiskusi. Terkadang diskusi berlangsung sebulan penuh untuk satu masalah, sampai kami sepakat pada satu pendapat."* Metode ini menciptakan keterlibatan intelektual yang mendalam dan memastikan setiap keputusan hukum telah melalui kajian menyeluruh.^1
 
-Majelis Abu Hanifah menarik ulama dari berbagai daerah. **Zufar bin al-Hudzayl** dari Bashrah, **Hasan bin Ziyad al-Lu'lu'i** dari Baghdad, dan banyak lainnya datang untuk bergabung dalam diskusi hukum. Keberagaman latar belakang intelektual ini memperkaya perspektif dan menjadikan pendapat madzhab Hanafi lebih komprehensif.^17
+Majelis Abu Hanifah menarik ulama dari berbagai daerah. **Zufar bin al-Hudzayl** dari Bashrah, **Hasan bin Ziyad al-Lu'lu'i** dari Baghdad, dan banyak lainnya datang untuk bergabung dalam diskusi hukum. Keberagaman latar belakang intelektual ini memperkaya perspektif dan menjadikan pendapat madzhab Hanafi lebih komprehensif.^1
 
 ### Abu Yusuf dan Muhammad al-Syaybani: Murid Terpenting
 
-**Abu Yusuf Ya'qub bin Ibrahim al-Anshari** (113-182 H) adalah murid paling senior dan dekat dengan Abu Hanifah. Lahir dalam keluarga miskin, ia sempat bekerja sebagai penjual minyak sebelum dapat sepenuhnya mendalami ilmu. Abu Hanifah bahkan memberikan bantuan finansial agar Abu Yusuf dapat fokus belajar.^18
+**Abu Yusuf Ya'qub bin Ibrahim al-Anshari** (113-182 H) adalah murid paling senior dan dekat dengan Abu Hanifah. Lahir dalam keluarga miskin, ia sempat bekerja sebagai penjual minyak sebelum dapat sepenuhnya mendalami ilmu. Abu Hanifah bahkan memberikan bantuan finansial agar Abu Yusuf dapat fokus belajar.^1
 
-Abu Yusuf dikenal karena kemampuannya menguasai hadits dengan baik, melengkapi pendekatan rasional gurunya dengan basis tekstual yang kuat. Ia menjadi *Qadhi al-Qudhat* (ketua mahkamah agung) pertama dalam sejarah Islam pada masa **Harun al-Rasyid**, menjadikan madzhab Hanafi sebagai madzhab resmi negara Abbasiyah.^19
+Abu Yusuf dikenal karena kemampuannya menguasai hadits dengan baik, melengkapi pendekatan rasional gurunya dengan basis tekstual yang kuat. Ia menjadi *Qadhi al-Qudhat* (ketua mahkamah agung) pertama dalam sejarah Islam pada masa **Harun al-Rasyid**, menjadikan madzhab Hanafi sebagai madzhab resmi negara Abbasiyah.^1
 
-**Muhammad bin al-Hasan al-Syaybani** (132-189 H) bergabung dengan majelis Abu Hanifah pada usia muda. Setelah Abu Hanifah wafat, ia melanjutkan studi dengan **Malik bin Anas** di Madinah selama dua tahun, kemudian kembali ke Baghdad untuk bergabung dengan Abu Yusuf. Perpaduan antara metodologi Hanafi dan pengalaman belajar dengan Malik menjadikan al-Syaybani sebagai penulis sistematik pertama madzhab Hanafi.^20
+**Muhammad bin al-Hasan al-Syaybani** (132-189 H) bergabung dengan majelis Abu Hanifah pada usia muda. Setelah Abu Hanifah wafat, ia melanjutkan studi dengan **Malik bin Anas** di Madinah selama dua tahun, kemudian kembali ke Baghdad untuk bergabung dengan Abu Yusuf. Perpaduan antara metodologi Hanafi dan pengalaman belajar dengan Malik menjadikan al-Syaybani sebagai penulis sistematik pertama madzhab Hanafi.^1
 
 Al-Syaybani menulis enam karya fundamental madzhab Hanafi yang dikenal sebagai *"Zhahir al-Riwayah"* (riwayat yang masyhur): *Al-Mabsut*, *Al-Jami' al-Saghir*, *Al-Jami' al-Kabir*, *Al-Siyar al-Saghir*, *Al-Siyar al-Kabir*, dan *Al-Ziyadat*. Karya-karya ini menjadi rujukan utama madzhab Hanafi hingga hari ini.^21
 
@@ -120,9 +120,8 @@ Konsep *istihsan* yang dikembangkannya memberikan ruang bagi pertimbangan kemasl
 12. Muhammad al-Syaybani, *Al-Mabsut*, 30 jilid.
 13. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, jilid 5.
 14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, jilid 8.
-15. Al-Khatib al-Baghdadi, *op. cit.*, riwayat tentang kematian Abu Hanifah.
-16. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10.
-17. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
-18. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
-19. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
-20. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.
+15. Ibn Kathir, Isma'il, *Al-Bidayah wa al-Nihayah*, jilid 10.
+16. Bulliet, Richard W., *The Patricians of Nishapur*, Harvard University Press, 1972.
+17. Inalcik, Halil, *The Ottoman Empire: The Classical Age 1300-1600*, London: Weidenfeld & Nicolson, 1973.
+18. Coulson, Noel J., *A History of Islamic Law*, Edinburgh: Edinburgh University Press, 1964.
+19. Kamali, Mohammad Hashim, *Principles of Islamic Jurisprudence*, Cambridge: Islamic Texts Society, 1991.

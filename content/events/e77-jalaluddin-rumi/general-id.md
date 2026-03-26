@@ -130,7 +130,7 @@ Dalam pandangan Rumi, semua makhluk adalah **cerminan keindahan Ilahi**, dan tug
 > *"Dan milik Allah-lah timur dan barat. Ke mana pun kamu menghadap, di sanalah wajah Allah."*
 > — QS. Al-Baqarah (2): 115^36
 
-Ayat ini menjadi inti filosofi Rumi tentang **kehadiran Allah di mana-mana** (*wahdaniyyah*), yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa. Bagi Rumi, setiap arah yang dituju dalam pencarian spiritual akan membawa kepada Allah, asalkan dilakukan dengan ketulusan hati.^36
+Ayat ini menjadi inti filosofi Rumi tentang **kehadiran Allah di mana-mana** (*wahdaniyyah*), yang ia ekspresikan dalam puisi-puisi tentang cinta universal dan penyatuan dengan Yang Maha Esa. Bagi Rumi, setiap arah yang dituju dalam pencarian spiritual akan membawa kepada Allah, asalkan dilakukan dengan ketulusan hati.^36^10
 
 ## Warisan Kontemporer dan Tantangan Interpretasi
 

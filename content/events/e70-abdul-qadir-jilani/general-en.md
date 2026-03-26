@@ -77,7 +77,7 @@ In one of his famous sermons, Abdul Qadir explained about the peaceful soul by q
 > *"O peaceful soul! ﴾27﴿ Return to your Lord, well-pleased and pleasing [to Him]. ﴾28﴿ And enter among My [righteous] servants, ﴾29﴿ and enter My Paradise. ﴾30﴿"*
 > — QS. Al-Fajr (89): 27-30
 
-This verse became the core of the Sufi teachings that Abdul Qadir taught — the attainment of **nafs al-mutma'innah** (the peaceful soul) as the highest goal of the spiritual journey. According to Abdul Qadir, the peaceful soul is one that has achieved perfect peace with Allah, with oneself, and with the universe.⁴
+This verse became the core of the Sufi teachings that Abdul Qadir taught — the attainment of **nafs al-mutma'innah** (the peaceful soul) as the highest goal of the spiritual journey. According to Abdul Qadir, the peaceful soul is one that has achieved perfect peace with Allah, with oneself, and with the universe.⁴^5
 
 ## Spread of the Qadiriyyah Order Worldwide
 

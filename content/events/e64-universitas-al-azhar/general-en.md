@@ -124,7 +124,7 @@ In recent decades, Al-Azhar launched a massive digitization program to convert a
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
 > — QS. Taha (20): 114^13
 
-This prayer taught by the Quran continues to be the spirit that keeps Al-Azhar alive for over a thousand years. The institution that began as a simple mosque has developed into a beacon of Islamic civilization that continues to shine, inspiring millions of Muslims worldwide to continue seeking knowledge and contributing to humanity.^5
+This prayer taught by the Quran continues to be the spirit that keeps Al-Azhar alive for over a thousand years. The institution that began as a simple mosque has developed into a beacon of Islamic civilization that continues to shine, inspiring millions of Muslims worldwide to continue seeking knowledge and contributing to humanity.^5^13
 
 ---
 

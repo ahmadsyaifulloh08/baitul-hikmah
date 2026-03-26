@@ -25,7 +25,7 @@ Unifikasi ini strategis dalam menghadapi ancaman Salib. Sebelumnya, kerajaan-ker
 > *"Dan berpegangteguhlah kamu semuanya pada tali (agama) Allah, dan janganlah kamu bercerai-berai."*
 > — QS. Ali Imran (3): 103^12
 
-## Sistem Pemerintahan Ayyubiyah
+## Sistem Pemerintahan Ayyubiyah^12
 
 Salahuddin membangun sistem pemerintahan yang menggabungkan tradisi administratif Arab-Islam dengan pengalaman praktis dari berbagai wilayah yang dikuasainya. **Sistem *dīwān*** (departemen pemerintahan) diorganisir dengan efisien, terdiri dari *dīwān al-jaysh* (departemen militer), *dīwān al-kharāj* (departemen keuangan), *dīwān al-rasā'il* (departemen korespondensi), dan *dīwān al-qadā'* (departemen kehakiman).^6
 

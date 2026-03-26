@@ -16,7 +16,7 @@ Al-Qur'an sendiri memberikan landasan teologis untuk mengejar ilmu pengetahuan t
 > *"Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan, ﴾1﴿ Dia telah menciptakan manusia dari segumpal darah. ﴾2﴿ Bacalah, dan Tuhanmu lah Yang Maha Mulia, ﴾3﴿ Yang mengajar (manusia) dengan pena, ﴾4﴿ Dia mengajarkan manusia apa yang tidak diketahuinya. ﴾5﴿"*
 > — QS. Al-Alaq (96): 1-5
 
-Ayat-ayat pembuka wahyu ini menekankan pentingnya pembelajaran dan pengetahuan sebagai esensi misi manusia di bumi. Prinsip ini menjadi landasan ideologis bagi gerakan penerjemahan yang akan mengubah wajah peradaban dunia.^4
+Ayat-ayat pembuka wahyu ini menekankan pentingnya pembelajaran dan pengetahuan sebagai esensi misi manusia di bumi. Prinsip ini menjadi landasan ideologis bagi gerakan penerjemahan yang akan mengubah wajah peradaban dunia.^4^12
 
 ## Era Pionir: Khalid ibn Yazid dan Fondasi Awal (685-704 M)
 
@@ -153,7 +153,7 @@ Gerakan penerjemahan membuktikan bahwa **peradaban terbaik lahir dari dialog, bu
 > *"Dan kalau Allah tiada menolak (keganasan) sebagian manusia dengan sebagian yang lain, pastilah rusak binasa bumi ini. Tetapi Allah mempunyai karunia (yang dicurahkan) atas semesta alam."* ﴾251﴿
 > — QS. Al-Baqarah (2): 251
 
-Ayat ini mencerminkan visi Islam tentang diversity dan pluralitas sebagai rahmat, bukan ancaman. Gerakan penerjemahan adalah manifestasi konkret dari prinsip ini — di mana keberagaman tradisi intelektual justru memperkaya dan memajukan peradaban.^33
+Ayat ini mencerminkan visi Islam tentang diversity dan pluralitas sebagai rahmat, bukan ancaman. Gerakan penerjemahan adalah manifestasi konkret dari prinsip ini — di mana keberagaman tradisi intelektual justru memperkaya dan memajukan peradaban.^33^12
 
 ---
 

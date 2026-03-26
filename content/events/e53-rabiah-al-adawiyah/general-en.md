@@ -28,53 +28,53 @@ Her decision to remain unmarried was not because she looked down upon marriage, 
 
 Rabi'ah is known as the pioneer of the concept of **mahabbah ilahiyyah** (love for Allah) in Islamic Sufism. Unlike most Sufis before her who were motivated by fear of hell or hope for paradise, Rabi'ah developed the concept of pure love.^9
 
-In one of her famous prayers, she said: "O Allah, if I worship You from fear of Hell, burn me in it. If I worship You from hope of Paradise, exclude me from it. But if I worship You for Your own sake, do not withhold from me Your eternal beauty".^10
+In one of her famous prayers, she said: "O Allah, if I worship You from fear of Hell, burn me in it. If I worship You from hope of Paradise, exclude me from it. But if I worship You for Your own sake, do not withhold from me Your eternal beauty".^3
 
 ### New Dimension in Islamic Spirituality
 
-The concept of mahabbah developed by Rabi'ah provided a new dimension in Islamic spirituality. She did not negate the importance of piety and hope, but elevated love as the highest motivation in worship.^11
+The concept of mahabbah developed by Rabi'ah provided a new dimension in Islamic spirituality. She did not negate the importance of piety and hope, but elevated love as the highest motivation in worship.^3
 
-**Al-Junayd** later acknowledged that Rabi'ah had opened the path for higher Sufi development, where aspects of love and longing (*shawq*) for Allah became the central theme in spiritual journey.^12
+**Al-Junayd** later acknowledged that Rabi'ah had opened the path for higher Sufi development, where aspects of love and longing (*shawq*) for Allah became the central theme in spiritual journey.^3
 
 ## Teachings and Spiritual Methodology
 
 ### Fana and Baqa
 
-Rabi'ah taught the concepts of **fana** (annihilation in Allah) and **baqa** (subsistence in Allah) which later became fundamental in Sufism. According to her, a Sufi must reach a level where they no longer see themselves as an entity separate from Allah.^13
+Rabi'ah taught the concepts of **fana** (annihilation in Allah) and **baqa** (subsistence in Allah) which later became fundamental in Sufism. According to her, a Sufi must reach a level where they no longer see themselves as an entity separate from Allah.^3
 
-This concept does not mean hulul (incarnation) or ittihad (union) in the wrong sense, but rather the annihilation of negative qualities and total surrender to Allah's will so that all actions become manifestations of Allah's will.^14
+This concept does not mean hulul (incarnation) or ittihad (union) in the wrong sense, but rather the annihilation of negative qualities and total surrender to Allah's will so that all actions become manifestations of Allah's will.^3
 
 ### Methodology of Dhikr and Munajat
 
-Rabi'ah developed a unique dhikr methodology that combined verbal dhikr (*dhikr al-lisan*) and heart dhikr (*dhikr al-qalb*). She taught that true dhikr is when the heart constantly remembers Allah in every condition.^15
+Rabi'ah developed a unique dhikr methodology that combined verbal dhikr (*dhikr al-lisan*) and heart dhikr (*dhikr al-qalb*). She taught that true dhikr is when the heart constantly remembers Allah in every condition.^3
 
-Her supplications filled with tenderness and longing for Allah became models for subsequent generations of Sufis. **Attar** recorded various supplications of Rabi'ah that showed her spiritual depth.^16
+Her supplications filled with tenderness and longing for Allah became models for subsequent generations of Sufis. **Attar** recorded various supplications of Rabi'ah that showed her spiritual depth.^3
 
 ## Interaction with Contemporary Scholars
 
 ### Dialogue with Hasan al-Bashri
 
-Rabi'ah's relationship with **Hasan al-Bashri** showed interesting intellectual dynamics between Sufi approach and sharia-based approach. In several recorded dialogues, Rabi'ah often corrected Hasan when he focused too much on legal aspects without considering deeper spiritual dimensions.^17
+Rabi'ah's relationship with **Hasan al-Bashri** showed interesting intellectual dynamics between Sufi approach and sharia-based approach. In several recorded dialogues, Rabi'ah often corrected Hasan when he focused too much on legal aspects without considering deeper spiritual dimensions.^3
 
-Once, when Hasan said he had known Allah for 30 years, Rabi'ah replied: "I am still seeking Him." When Hasan asked why, Rabi'ah explained that knowing Allah is not a static achievement but an endless journey.^18
+Once, when Hasan said he had known Allah for 30 years, Rabi'ah replied: "I am still seeking Him." When Hasan asked why, Rabi'ah explained that knowing Allah is not a static achievement but an endless journey.^3
 
 ### Influence on Later Sufis
 
-**Dhu al-Nun al-Mishri** (d. 245 AH) acknowledged that Rabi'ah had inspired his views on love in Sufism. The concepts developed by Rabi'ah were later further developed by **al-Junayd**, **al-Hallaj**, and other great Sufis.^19
+**Dhu al-Nun al-Mishri** (d. 245 AH) acknowledged that Rabi'ah had inspired his views on love in Sufism. The concepts developed by Rabi'ah were later further developed by **al-Junayd**, **al-Hallaj**, and other great Sufis.^3
 
-**Ibn Arabi** in *Futuhat al-Makkiyyah* mentioned Rabi'ah as one of the important figures who opened the path for the development of *ma'rifah* (gnosis) in Islam.^20
+**Ibn Arabi** in *Futuhat al-Makkiyyah* mentioned Rabi'ah as one of the important figures who opened the path for the development of *ma'rifah* (gnosis) in Islam.^3
 
 ## Death and Spiritual Legacy
 
 ### End of Life
 
-Rabi'ah died in 185 AH/801 CE at approximately age 84. Until the end of her life, she remained consistent with the spiritual path she had chosen. **Al-Dhahabi** recorded that Rabi'ah died in prostration, as if her pure soul returned to the Beloved in the closest position.^21
+Rabi'ah died in 185 AH/801 CE at approximately age 84. Until the end of her life, she remained consistent with the spiritual path she had chosen. **Al-Dhahabi** recorded that Rabi'ah died in prostration, as if her pure soul returned to the Beloved in the closest position.^1
 
 ### Long-term Influence
 
-Rabi'ah's teachings on divine love provided profound influence on Sufi development. Her concepts were adopted and developed by various orders, especially in **Qadiriyyah** and **Mevlevi** traditions.^22
+Rabi'ah's teachings on divine love provided profound influence on Sufi development. Her concepts were adopted and developed by various orders, especially in **Qadiriyyah** and **Mevlevi** traditions.^3
 
-In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (Leader of Worshipping Women) and became a prototype for female Sufis (*sufiyyah*) in later times.^23
+In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (Leader of Worshipping Women) and became a prototype for female Sufis (*sufiyyah*) in later times.^3
 
 ## Analysis and Lessons
 
@@ -97,17 +97,14 @@ In Sufi literature, Rabi'ah is often called **"Sayyidah al-Nisa' al-Abidah"** (L
 7. Ibn al-Jawzi, Abd al-Rahman, *Sifat al-Safwah*, vol. 4.
 8. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
 9. Massignon, Louis, *Essay on the Origins of the Technical Language of Islamic Mysticism*, Paris: Vrin, 1954.
-10. Al-Attar, *op. cit.*, Rabi'ah's supplications.
-11. Arberry, A.J., *Muslim Saints and Mystics*, Chicago: University of Chicago Press, 1966.
-12. Al-Junayd, Abu al-Qasim, *Rasa'il al-Junayd*, editor Ali Hasan Abdel-Kader.
-13. Al-Hujwiri, Ali ibn Uthman, *Kashf al-Mahjub*, Lahore: Islamic Book Foundation, 1976.
-14. Nicholson, Reynold A., *The Mystics of Islam*, London: G. Bell & Sons, 1914.
-15. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, vol. 4.
-16. Attar, *op. cit.*, compilation of Rabi'ah's prayers.
-17. Al-Baghdadi, Al-Khatib, *Tarikh Baghdad*, references to Hasan-Rabi'ah dialogues.
-18. Al-Makki, Abu Talib, *Qut al-Qulub*, Cairo: Dar al-Kutub al-Hadithah, 1961.
-19. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, Beirut: Dar Sadir, 1968.
-20. Ibn Arabi, *op. cit.*, chapter on female saints.
-21. Al-Dhahabi, *op. cit.*, account of Rabi'ah's death.
-22. Ernst, Carl W., *The Shambhala Guide to Sufism*, Boston: Shambhala, 1997.
-23. Cornell, Vincent J., *Realm of the Saint*, Austin: University of Texas Press, 1998.
+10. Arberry, A.J., *Muslim Saints and Mystics*, Chicago: University of Chicago Press, 1966.
+11. Al-Junayd, Abu al-Qasim, *Rasa'il al-Junayd*, editor Ali Hasan Abdel-Kader.
+12. Al-Hujwiri, Ali ibn Uthman, *Kashf al-Mahjub*, Lahore: Islamic Book Foundation, 1976.
+13. Nicholson, Reynold A., *The Mystics of Islam*, London: G. Bell & Sons, 1914.
+14. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, vol. 4.
+15. Attar, *op. cit.*, compilation of Rabi'ah's prayers.
+16. Al-Baghdadi, Al-Khatib, *Tarikh Baghdad*, references to Hasan-Rabi'ah dialogues.
+17. Al-Makki, Abu Talib, *Qut al-Qulub*, Cairo: Dar al-Kutub al-Hadithah, 1961.
+18. Ibn Arabi, Muhyi al-Din, *Futuhat al-Makkiyyah*, Beirut: Dar Sadir, 1968.
+19. Ernst, Carl W., *The Shambhala Guide to Sufism*, Boston: Shambhala, 1997.
+20. Cornell, Vincent J., *Realm of the Saint*, Austin: University of Texas Press, 1998.

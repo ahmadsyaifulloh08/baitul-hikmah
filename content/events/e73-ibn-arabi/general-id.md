@@ -14,17 +14,17 @@ Andalusia pada masa Ibn Arabi adalah era keemasan intelektual. Dalam periode yan
 
 ## Perjalanan Spiritual: Dari Kashf Menuju Syuhud
 
-Pada usia 20-an, Ibn Arabi mulai mengalami berbagai **kashf** (penyingkapan spiritual) dan **ru'ya** (mimpi yang bermakna). Pengalaman-pengalaman mistik ini menjadi dasar bagi pengembangan sistem pemikiran tasawufnya yang unik. Ia mencatat dalam *al-Futuhat* bahwa selama masa ini ia sering mengalami **fanā'** (sirna dari kesadaran diri) dan **baqā'** (kebangkitan dalam kesadaran ilahiah).^6
+Pada usia 20-an, Ibn Arabi mulai mengalami berbagai **kashf** (penyingkapan spiritual) dan **ru'ya** (mimpi yang bermakna). Pengalaman-pengalaman mistik ini menjadi dasar bagi pengembangan sistem pemikiran tasawufnya yang unik. Ia mencatat dalam *al-Futuhat* bahwa selama masa ini ia sering mengalami **fanā'** (sirna dari kesadaran diri) dan **baqā'** (kebangkitan dalam kesadaran ilahiah).^2
 
-**Pengalaman spiritual paling menentukan** terjadi ketika ia berada di pemakaman Sevilla pada suatu malam. Di sana, ia mengalami **syuhūd** (penyaksian langsung) terhadap realitas spiritual yang membuatnya memahami bahwa seluruh alam semesta adalah manifestasi nama-nama dan sifat-sifat Allah. Pengalaman ini menjadi benih awal konsep wahdat al-wujud-nya.^7
+**Pengalaman spiritual paling menentukan** terjadi ketika ia berada di pemakaman Sevilla pada suatu malam. Di sana, ia mengalami **syuhūd** (penyaksian langsung) terhadap realitas spiritual yang membuatnya memahami bahwa seluruh alam semesta adalah manifestasi nama-nama dan sifat-sifat Allah. Pengalaman ini menjadi benih awal konsep wahdat al-wujud-nya.^2
 
-Dalam periode ini, Ibn Arabi juga mulai menerima apa yang ia sebut sebagai **"dictées spirituelles"** — inspirasi langsung yang diterimanya tanpa melalui proses berpikir rasional. Metode penerimaan ilmu ini, yang ia sebut **"'ilm laduni"** (pengetahuan langsung dari Allah), menjadi karakteristik utama karya-karyanya yang sering kali ditulis dalam kondisi spiritual khusus.^8
+Dalam periode ini, Ibn Arabi juga mulai menerima apa yang ia sebut sebagai **"dictées spirituelles"** — inspirasi langsung yang diterimanya tanpa melalui proses berpikir rasional. Metode penerimaan ilmu ini, yang ia sebut **"'ilm laduni"** (pengetahuan langsung dari Allah), menjadi karakteristik utama karya-karyanya yang sering kali ditulis dalam kondisi spiritual khusus.^2
 
-Tahun 1194 M menjadi titik balik dalam hidupnya ketika ia menerima perintah spiritual untuk melakukan perjalanan haji ke Makkah. Dalam visinya, **Nabi Muhammad SAW** secara langsung memerintahkannya untuk meninggalkan Andalusia dan mencari ilmu di Timur. Perjalanan ini bukan sekadar ibadah ritual, melainkan sebuah pengembaraan spiritual yang akan berlangsung selama puluhan tahun.^9
+Tahun 1194 M menjadi titik balik dalam hidupnya ketika ia menerima perintah spiritual untuk melakukan perjalanan haji ke Makkah. Dalam visinya, **Nabi Muhammad SAW** secara langsung memerintahkannya untuk meninggalkan Andalusia dan mencari ilmu di Timur. Perjalanan ini bukan sekadar ibadah ritual, melainkan sebuah pengembaraan spiritual yang akan berlangsung selama puluhan tahun.^2
 
 ## Perjalanan ke Timur: Pemantapan Doktrin
 
-Ibn Arabi memulai perjalanannya dengan mengunjungi berbagai pusat pembelajaran Islam di Maghrib. Di **Tunis**, ia bertemu dengan **Abd al-Aziz al-Mahdawi**, seorang sufi besar yang memberikannya ijazah (izin mengajar) dalam berbagai ilmu dan memperkenalkannya kepada tradisi tasawuf Maghrib yang kaya.^10
+Ibn Arabi memulai perjalanannya dengan mengunjungi berbagai pusat pembelajaran Islam di Maghrib. Di **Tunis**, ia bertemu dengan **Abd al-Aziz al-Mahdawi**, seorang sufi besar yang memberikannya ijazah (izin mengajar) dalam berbagai ilmu dan memperkenalkannya kepada tradisi tasawuf Maghrib yang kaya.^2
 
 Di **Fez**, ia berguru kepada para ulama **Universitas al-Qarawiyyin** dan memperdalam pemahaman tentang fiqih Maliki. Namun yang lebih penting, di Fez ia bertemu dengan **Abu Yusuf Harun**, seorang sufi yang mengajarkannya tentang **martabat tujuh** (tingkatan wujud) yang kemudian menjadi bagian penting dari kosmologinya.^11
 
@@ -37,7 +37,7 @@ Di **Makkah**, selama menunaikan haji pada 1201 M, Ibn Arabi mengalami **syuhud*
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku."*
 > — QS. al-Dhariyat (51): 56^14
 
-Ibn Arabi memahami ayat ini sebagai kunci untuk memahami tujuan penciptaan. Baginya, **"li ya'budun"** (agar mereka beribadah) tidak hanya berarti ritual formal, tetapi **"li ya'rifun"** (agar mereka mengenal-Ku), sebuah pemaknaan yang ia terima melalui kashf. Pemahaman ini menjadi dasar bagi konsep wahdat al-wujud — bahwa seluruh penciptaan adalah sarana bagi Allah untuk dikenal.^14
+Ibn Arabi memahami ayat ini sebagai kunci untuk memahami tujuan penciptaan. Baginya, **"li ya'budun"** (agar mereka beribadah) tidak hanya berarti ritual formal, tetapi **"li ya'rifun"** (agar mereka mengenal-Ku), sebuah pemaknaan yang ia terima melalui kashf. Pemahaman ini menjadi dasar bagi konsep wahdat al-wujud — bahwa seluruh penciptaan adalah sarana bagi Allah untuk dikenal.^14^9
 
 ## Al-Futuhat al-Makkiyah: Ensiklopedia Spiritual
 
@@ -148,8 +148,7 @@ Kontribusi utama Ibn Arabi terhadap pemikiran Islam adalah **sistematisasi tasaw
 3. Michel Chodkiewicz, *An Ocean Without Shore: Ibn Arabi, the Book, and the Law*, Albany: SUNY Press, 1993.
 4. William Chittick, *The Sufi Path of Knowledge: Ibn Arabi's Metaphysics of Imagination*, Albany: SUNY Press, 1989.
 5. Al-Sha'rani, *Al-Yawaqit wa al-Jawahir fi Bayan Aqa'id al-Akabir*, Kairo: Maktabah Mustafa al-Babi al-Halabi, 1959.
-6. Ibn Arabi, *Fusus al-Hikam*, fas "Hikmah Ilahiyyah fi Kalimat Adamiyyah".
-7. Al-Safadi, *A'yan al-'Asr wa A'wan al-Nasr*, Damaskus: Dar al-Fikr, 1998.
-8. Ibn Taymiyyah, *Majmu' al-Fatawa*, jilid 2, bab "fi al-Sufiyyah".
-9. Stephen Hirtenstein, *The Unlimited Mercifier: The Spiritual Life and Thought of Ibn Arabi*, Oxford: Anqa Publishing, 1999.
-10. Al-Qur'an al-Karim. QS. al-Dhariyat (51): 56.
+6. Al-Safadi, *A'yan al-'Asr wa A'wan al-Nasr*, Damaskus: Dar al-Fikr, 1998.
+7. Ibn Taymiyyah, *Majmu' al-Fatawa*, jilid 2, bab "fi al-Sufiyyah".
+8. Stephen Hirtenstein, *The Unlimited Mercifier: The Spiritual Life and Thought of Ibn Arabi*, Oxford: Anqa Publishing, 1999.
+9. Al-Qur'an al-Karim. QS. al-Dhariyat (51): 56.

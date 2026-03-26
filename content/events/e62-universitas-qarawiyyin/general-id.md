@@ -44,13 +44,13 @@ Ritual spiritual ini bukan hanya menunjukkan kesalehan pribadi, tetapi juga menc
 
 ### Fase Awal: Transformasi dari Halaqah ke Institusi
 
-Pada fase awal (860-900 M), kegiatan pendidikan di Al-Qarawiyyin masih mengikuti model tradisional *halaqah*—lingkaran pembelajaran informal di mana seorang syaikh mengajar sekelompok murid di sekitar pilar-pilar masjid. Namun secara bertahap, sistem ini berkembang menjadi lebih terstruktur dengan jadwal tetap, kurikulum standar, dan metode evaluasi yang jelas.^9
+Pada fase awal (860-900 M), kegiatan pendidikan di Al-Qarawiyyin masih mengikuti model tradisional *halaqah*—lingkaran pembelajaran informal di mana seorang syaikh mengajar sekelompok murid di sekitar pilar-pilar masjid. Namun secara bertahap, sistem ini berkembang menjadi lebih terstruktur dengan jadwal tetap, kurikulum standar, dan metode evaluasi yang jelas.^1
 
 **Qurra' al-Sab'ah** (Tujuh Pembaca Al-Qur'an) menjadi mata pelajaran inti pertama, di mana mahasiswa mempelajari berbagai qira'at (cara pembacaan) Al-Qur'an sesuai dengan tradisi tujuh imam qira'at yang masyhur. **Fiqh Maliki** menjadi landasan pembelajaran hukum Islam, mengingat Maghreb secara tradisional mengikuti mazhab Imam Malik. **Nahwu dan Sarf** (gramatika dan morfologi Arab) diajarkan berdasarkan karya-karya Sibawayh dan al-Khalil ibn Ahmad.^6
 
 ### Ekspansi ke Ilmu-Ilmu Rasional (900-1000 M)
 
-Pada abad ke-10, di bawah kepemimpinan beberapa ulama visioner, kurikulum Al-Qarawiyyin diperluas untuk mencakup ilmu-ilmu rasional. **Matematika** diajarkan berdasarkan karya al-Khwarizmi dan al-Battani, **astronomi** menggunakan *zij* (tabel astronomi) dari tradisi Ptolemy dan India, **kedokteran** merujuk pada karya Galen yang telah diterjemahkan ke bahasa Arab, dan **filsafat** Aristoteles dalam versi Arab mulai diperkenalkan.^10
+Pada abad ke-10, di bawah kepemimpinan beberapa ulama visioner, kurikulum Al-Qarawiyyin diperluas untuk mencakup ilmu-ilmu rasional. **Matematika** diajarkan berdasarkan karya al-Khwarizmi dan al-Battani, **astronomi** menggunakan *zij* (tabel astronomi) dari tradisi Ptolemy dan India, **kedokteran** merujuk pada karya Galen yang telah diterjemahkan ke bahasa Arab, dan **filsafat** Aristoteles dalam versi Arab mulai diperkenalkan.^1
 
 Perluasan kurikulum ini menimbulkan perdebatan teologis yang sengit. Kelompok konservatif, yang dipengaruhi oleh gerakan **Ahl al-Hadits**, menganggap ilmu-ilmu rasional sebagai bid'ah yang membahayakan kemurnian akidah. Sebaliknya, kelompok progresif, yang terinspirasi oleh tradisi **Mu'tazilah** dan kemudian **Asy'ariyyah**, berargumen bahwa akal dan ilmu pengetahuan adalah alat untuk memahami keagungan Allah.
 
@@ -60,7 +60,7 @@ Kontroversi ini diselesaikan melalui sintesis yang cemerlang oleh **Abu Hamid al
 
 Al-Qarawiyyin mengembangkan beberapa metodologi pembelajaran yang kemudian menjadi standar di universitas-universitas Islam:
 
-**Sistem Ijazah**: Setiap mahasiswa yang menyelesaikan pembelajaran pada seorang syaikh akan mendapat **ijazah** (sertifikat) yang menyatakan kompetensinya dalam bidang tertentu. Sistem ini menciptakan standar kualitas dan akuntabilitas yang jelas dalam pendidikan.^11
+**Sistem Ijazah**: Setiap mahasiswa yang menyelesaikan pembelajaran pada seorang syaikh akan mendapat **ijazah** (sertifikat) yang menyatakan kompetensinya dalam bidang tertentu. Sistem ini menciptakan standar kualitas dan akuntabilitas yang jelas dalam pendidikan.^1
 
 **Munazarah dan Jadal**: Debat ilmiah menjadi bagian integral dari metodologi pembelajaran. Setiap Jumat, diadakan **munazarah kubra** (debat besar) tentang topik-topik kontroversial, di mana mahasiswa senior dan professor berargumentasi berdasarkan dalil-dalil yang kuat.
 
@@ -76,7 +76,7 @@ Al-Qarawiyyin menarik mahasiswa dari seluruh dunia Islam dan bahkan dari Eropa. 
 
 **Ibn Khaldun** (1332-1406 M), bapak sosiologi modern, menghabiskan periode penting hidupnya di Fez dan mengajar di Al-Qarawiyyin. Masterpiece-nya, *Muqaddimah*, ditulis berdasarkan pengamatan dan refleksinya tentang dinamika peradaban yang ia saksikan di Maghreb.^4
 
-**Al-Idrisi** (1100-1165 M), ahli geografi muslim terbesar, belajar matematika dan astronomi di Al-Qarawiyyin sebelum pindah ke Sisilia untuk melayani Raja Roger II. Peta dunianya, *Tabula Rogeriana*, tetap menjadi yang paling akurat hingga abad ke-16.^12
+**Al-Idrisi** (1100-1165 M), ahli geografi muslim terbesar, belajar matematika dan astronomi di Al-Qarawiyyin sebelum pindah ke Sisilia untuk melayani Raja Roger II. Peta dunianya, *Tabula Rogeriana*, tetap menjadi yang paling akurat hingga abad ke-16.^1
 
 ### Mahasiswa Non-Muslim
 
@@ -104,19 +104,19 @@ Program **tashih** (koreksi) manuskrip dilakukan secara sistematis, di mana tim 
 
 Pengaruh Al-Qarawiyyin terhadap perkembangan universitas di Eropa sangat signifikan, meskipun sering tidak diakui dalam narasi sejarah konvensional. **Sistem fakultas** yang kemudian diadopsi oleh Oxford, Cambridge, dan Sorbonne pertama kali dikembangkan di Al-Qarawiyyin dengan pembagian yang jelas antara fakultas agama, hukum, medicine, dan filsafat.
 
-**Sistem gelar bertingkat** (baccalaureus, magister, doctor) yang menjadi standar universitas Eropa juga berasal dari sistem ijazah Al-Qarawiyyin yang membedakan antara **ijazah amma** (ijazah umum), **ijazah khassa** (ijazah khusus), dan **ijazah iftitah** (ijazah untuk mengajar).^13
+**Sistem gelar bertingkat** (baccalaureus, magister, doctor) yang menjadi standar universitas Eropa juga berasal dari sistem ijazah Al-Qarawiyyin yang membedakan antara **ijazah amma** (ijazah umum), **ijazah khassa** (ijazah khusus), dan **ijazah iftitah** (ijazah untuk mengajar).^1
 
 ### Transfer Ilmu Pengetahuan
 
 Mahasiswa Eropa yang belajar di Al-Qarawiyyin menjadi agen transfer ilmu pengetahuan yang sangat penting. Mereka tidak hanya membawa teks-teks dalam bahasa Arab, tetapi juga metodologi pembelajaran, sistem organisasi akademik, dan mindset ilmiah yang mereka pelajari di Fez.
 
-**Daniel of Morley** (fl. 1170-1190), sarjana Inggris yang belajar di Al-Qarawiyyin, kemudian menjadi salah satu penerjemah karya-karya Aristoteles dari bahasa Arab ke Latin. **Michael Scot** (1175-1232), yang juga pernah di Al-Qarawiyyin, menerjemahkan karya-karya Ibn Rushd dan Ibn Sina yang kemudian mempengaruhi Thomas Aquinas dan scholasticisme Eropa.^9
+**Daniel of Morley** (fl. 1170-1190), sarjana Inggris yang belajar di Al-Qarawiyyin, kemudian menjadi salah satu penerjemah karya-karya Aristoteles dari bahasa Arab ke Latin. **Michael Scot** (1175-1232), yang juga pernah di Al-Qarawiyyin, menerjemahkan karya-karya Ibn Rushd dan Ibn Sina yang kemudian mempengaruhi Thomas Aquinas dan scholasticisme Eropa.^1
 
 ## Masa Keemasan dan Kemunduran
 
 ### Puncak Kejayaan (1100-1350 M)
 
-Periode antara abad ke-12 hingga ke-14 menjadi masa keemasan Al-Qarawiyyin. Dinasti **Almoravid** (1040-1147 M) dan kemudian **Almohad** (1121-1269 M) memberikan dukungan keuangan dan politik yang besar terhadap universitas. Renovasi dan ekspansi besar-besaran dilakukan, termasuk penambahan asrama, perpustakaan baru, dan observatorium astronomi.^10
+Periode antara abad ke-12 hingga ke-14 menjadi masa keemasan Al-Qarawiyyin. Dinasti **Almoravid** (1040-1147 M) dan kemudian **Almohad** (1121-1269 M) memberikan dukungan keuangan dan politik yang besar terhadap universitas. Renovasi dan ekspansi besar-besaran dilakukan, termasuk penambahan asrama, perpustakaan baru, dan observatorium astronomi.^1
 
 Pada masa ini, Al-Qarawiyyin memiliki lebih dari 8.000 mahasiswa reguler dan sekitar 1.200 professor serta staf akademik. Mahasiswa datang dari seluruh dunia Islam: Andalusia, Maghreb, Mesir, Hejaz, Iraq, Persia, dan bahkan dari Asia Tengah dan India. Reputasinya sebagai pusat keilmuan internasional mencapai puncaknya.^2
 
@@ -124,7 +124,7 @@ Pada masa ini, Al-Qarawiyyin memiliki lebih dari 8.000 mahasiswa reguler dan sek
 
 Abad ke-14 dan ke-15 membawa tantangan-tantangan besar. **Black Death** (1347-1351) mengurangi populasi mahasiswa dan professor secara drastis. **Reconquista** di Andalusia menyebabkan gelombang pengungsi muslim yang merestrukturisasi demografi Maghreb. **Kemunduran ekonomi** akibat pergeseran jalur perdagangan dunia mengurangi dukungan finansial.
 
-Namun Al-Qarawiyyin menunjukkan resiliensi yang luar biasa. **Reformasi kurikulum** dilakukan untuk lebih fokus pada kebutuhan praktis masyarakat. **Program pengabdian masyarakat** diperluas, termasuk klinik gratis, konsultasi hukum, dan program literasi. **Diversifikasi sumber pendanaan** melalui kemitraan dengan guild-guild pedagang membantu menjaga keberlanjutan operasional.^11
+Namun Al-Qarawiyyin menunjukkan resiliensi yang luar biasa. **Reformasi kurikulum** dilakukan untuk lebih fokus pada kebutuhan praktis masyarakat. **Program pengabdian masyarakat** diperluas, termasuk klinik gratis, konsultasi hukum, dan program literasi. **Diversifikasi sumber pendanaan** melalui kemitraan dengan guild-guild pedagang membantu menjaga keberlanjutan operasional.^1
 
 ## Kontribusi terhadap Preservasi dan Transmisi Ilmu
 
@@ -142,7 +142,7 @@ Abad ke-19 dan ke-20 membawa tantangan modernisasi. Penetrasi kolonial Perancis 
 
 ## Pengakuan Internasional dan Warisan Modern
 
-Pada tahun 1963, **Guinness World Records** secara resmi mengakui Al-Qarawiyyin sebagai "universitas tertua di dunia yang masih beroperasi." **UNESCO** juga memberikan pengakuan serupa dan memasukkan perpustakaan Al-Qarawiyyin dalam program **Memory of the World** sebagai warisan dokumenter umat manusia.^12
+Pada tahun 1963, **Guinness World Records** secara resmi mengakui Al-Qarawiyyin sebagai "universitas tertua di dunia yang masih beroperasi." **UNESCO** juga memberikan pengakuan serupa dan memasukkan perpustakaan Al-Qarawiyyin dalam program **Memory of the World** sebagai warisan dokumenter umat manusia.^1
 
 Saat ini, Al-Qarawiyyin tetap beroperasi dengan sekitar 8.000 mahasiswa dari 40 negara. Kurikulumnya menggabungkan studi Islam tradisional dengan program-program modern dalam sains, teknologi, dan humaniora. Perpustakaan yang kini berisi lebih dari 400.000 volume tetap menjadi pusat penelitian penting untuk studi Islam dan sejarah Maghreb.
 
@@ -169,7 +169,7 @@ Tradisi Al-Qarawiyyin dalam menerima mahasiswa dari berbagai latar belakang agam
 > *"Dan katakanlah: 'Ya Tuhanku, tambahkanlah kepadaku ilmu pengetahuan.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^6
+Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiyyin ini merangkum filosofi yang telah memandu institusi ini selama lebih dari seribu tahun: bahwa pencarian ilmu adalah ibadah yang tidak mengenal batas waktu, tempat, atau identitas.^6^12
 
 ## Daftar Pustaka
 
@@ -181,8 +181,7 @@ Ayat yang sering dikutip dalam pidato-pidato pembukaan tahun akademik Al-Qarawiy
 6. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
 7. Nakosteen, Mehdi. *History of Islamic Origins of Western Education A.D. 800-1350*. Boulder: University of Colorado Press, 1964.
 8. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
-9. Al-Kattani, Abd al-Kabir. *Tarikh Jami' al-Qarawiyyin: al-Hayat al-Fikriyya wa al-Diniyya*. Fez: Matba'ah al-Risalah, 1982.
-10. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
-11. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
-12. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
-13. Al-Qur'an al-Karim. QS. Taha (20): 114.
+9. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
+10. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
+11. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
+12. Al-Qur'an al-Karim. QS. Taha (20): 114.

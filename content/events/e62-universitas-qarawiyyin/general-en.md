@@ -44,13 +44,13 @@ This spiritual ritual demonstrated not only personal piety but also deep underst
 
 ### Initial Phase: Transformation from Halaqah to Institution
 
-In the initial phase (860-900 CE), educational activities at Al-Qarawiyyin still followed the traditional *halaqah* model—informal learning circles where a sheikh taught a group of students around mosque pillars. However, gradually this system developed into something more structured with regular schedules, standard curricula, and clear evaluation methods.^9
+In the initial phase (860-900 CE), educational activities at Al-Qarawiyyin still followed the traditional *halaqah* model—informal learning circles where a sheikh taught a group of students around mosque pillars. However, gradually this system developed into something more structured with regular schedules, standard curricula, and clear evaluation methods.^1
 
 **Qurra' al-Sab'ah** (Seven Quranic Readers) became the first core subject, where students learned various qira'at (recitation styles) of the Quran according to the tradition of seven famous qira'at imams. **Maliki Fiqh** became the foundation of Islamic law learning, considering that the Maghreb traditionally followed the Maliki school. **Nahwu and Sarf** (Arabic grammar and morphology) were taught based on the works of Sibawayh and al-Khalil ibn Ahmad.^6
 
 ### Expansion to Rational Sciences (900-1000 CE)
 
-In the 10th century, under the leadership of several visionary scholars, Al-Qarawiyyin's curriculum was expanded to include rational sciences. **Mathematics** was taught based on the works of al-Khwarizmi and al-Battani, **astronomy** used *zij* (astronomical tables) from Ptolemaic and Indian traditions, **medicine** referred to Galen's works translated into Arabic, and **philosophy** of Aristotle in Arabic versions began to be introduced.^10
+In the 10th century, under the leadership of several visionary scholars, Al-Qarawiyyin's curriculum was expanded to include rational sciences. **Mathematics** was taught based on the works of al-Khwarizmi and al-Battani, **astronomy** used *zij* (astronomical tables) from Ptolemaic and Indian traditions, **medicine** referred to Galen's works translated into Arabic, and **philosophy** of Aristotle in Arabic versions began to be introduced.^1
 
 This curriculum expansion sparked heated theological debate. Conservative groups, influenced by the **Ahl al-Hadith** movement, considered rational sciences as bid'ah (innovation) that endangered doctrinal purity. Conversely, progressive groups, inspired by **Mu'tazilah** and later **Ash'ariyyah** traditions, argued that reason and knowledge were tools for understanding Allah's magnificence.
 
@@ -60,7 +60,7 @@ This controversy was resolved through brilliant synthesis by **Abu Hamid al-Ghaz
 
 Al-Qarawiyyin developed several learning methodologies that later became standard in Islamic universities:
 
-**Ijazah System**: Every student who completed learning under a sheikh received an **ijazah** (certificate) stating their competence in a particular field. This system created clear quality standards and accountability in education.^11
+**Ijazah System**: Every student who completed learning under a sheikh received an **ijazah** (certificate) stating their competence in a particular field. This system created clear quality standards and accountability in education.^1
 
 **Munazarah and Jadal**: Scholarly debate became an integral part of learning methodology. Every Friday, **munazarah kubra** (great debates) were held on controversial topics, where senior students and professors argued based on strong evidence.
 
@@ -76,7 +76,7 @@ Al-Qarawiyyin attracted students from throughout the Islamic world and even from
 
 **Ibn Khaldun** (1332-1406 CE), the father of modern sociology, spent an important period of his life in Fez and taught at Al-Qarawiyyin. His masterpiece, *Muqaddimah*, was written based on his observations and reflections on civilizational dynamics he witnessed in the Maghreb.^4
 
-**Al-Idrisi** (1100-1165 CE), the greatest Muslim geographer, studied mathematics and astronomy at Al-Qarawiyyin before moving to Sicily to serve King Roger II. His world map, *Tabula Rogeriana*, remained the most accurate until the 16th century.^12
+**Al-Idrisi** (1100-1165 CE), the greatest Muslim geographer, studied mathematics and astronomy at Al-Qarawiyyin before moving to Sicily to serve King Roger II. His world map, *Tabula Rogeriana*, remained the most accurate until the 16th century.^1
 
 ### Non-Muslim Students
 
@@ -104,19 +104,19 @@ The **tashih** (correction) manuscript program was conducted systematically, whe
 
 Al-Qarawiyyin's influence on European university development was significant, although often unrecognized in conventional historical narratives. The **faculty system** later adopted by Oxford, Cambridge, and the Sorbonne was first developed at Al-Qarawiyyin with clear divisions between faculties of religion, law, medicine, and philosophy.
 
-The **tiered degree system** (baccalaureus, magister, doctor) that became the European university standard also originated from Al-Qarawiyyin's ijazah system that distinguished between **ijazah amma** (general ijazah), **ijazah khassa** (special ijazah), and **ijazah iftitah** (teaching license).^13
+The **tiered degree system** (baccalaureus, magister, doctor) that became the European university standard also originated from Al-Qarawiyyin's ijazah system that distinguished between **ijazah amma** (general ijazah), **ijazah khassa** (special ijazah), and **ijazah iftitah** (teaching license).^1
 
 ### Knowledge Transfer
 
 European students who studied at Al-Qarawiyyin became very important agents of knowledge transfer. They brought not only texts in Arabic but also learning methodologies, academic organizational systems, and scientific mindsets they learned in Fez.
 
-**Daniel of Morley** (fl. 1170-1190), an English scholar who studied at Al-Qarawiyyin, later became one of the translators of Aristotelian works from Arabic to Latin. **Michael Scot** (1175-1232), who was also at Al-Qarawiyyin, translated works by Ibn Rushd and Ibn Sina that later influenced Thomas Aquinas and European scholasticism.^9
+**Daniel of Morley** (fl. 1170-1190), an English scholar who studied at Al-Qarawiyyin, later became one of the translators of Aristotelian works from Arabic to Latin. **Michael Scot** (1175-1232), who was also at Al-Qarawiyyin, translated works by Ibn Rushd and Ibn Sina that later influenced Thomas Aquinas and European scholasticism.^1
 
 ## Golden Age and Decline
 
 ### Peak Glory (1100-1350 CE)
 
-The period between the 12th and 14th centuries became Al-Qarawiyyin's golden age. The **Almoravid** (1040-1147 CE) and later **Almohad** (1121-1269 CE) dynasties provided great financial and political support to the university. Major renovations and expansions were undertaken, including additions of dormitories, new libraries, and astronomical observatories.^10
+The period between the 12th and 14th centuries became Al-Qarawiyyin's golden age. The **Almoravid** (1040-1147 CE) and later **Almohad** (1121-1269 CE) dynasties provided great financial and political support to the university. Major renovations and expansions were undertaken, including additions of dormitories, new libraries, and astronomical observatories.^1
 
 During this period, Al-Qarawiyyin had more than 8,000 regular students and about 1,200 professors and academic staff. Students came from throughout the Islamic world: Andalusia, Maghreb, Egypt, Hejaz, Iraq, Persia, and even from Central Asia and India. Its reputation as an international center of learning reached its peak.^2
 
@@ -124,7 +124,7 @@ During this period, Al-Qarawiyyin had more than 8,000 regular students and about
 
 The 14th and 15th centuries brought major challenges. The **Black Death** (1347-1351) drastically reduced student and professor populations. The **Reconquista** in Andalusia caused waves of Muslim refugees that restructured Maghreb demographics. **Economic decline** due to shifts in world trade routes reduced financial support.
 
-However, Al-Qarawiyyin showed extraordinary resilience. **Curriculum reforms** were implemented to focus more on society's practical needs. **Community service programs** were expanded, including free clinics, legal consultation, and literacy programs. **Funding source diversification** through partnerships with merchant guilds helped maintain operational sustainability.^11
+However, Al-Qarawiyyin showed extraordinary resilience. **Curriculum reforms** were implemented to focus more on society's practical needs. **Community service programs** were expanded, including free clinics, legal consultation, and literacy programs. **Funding source diversification** through partnerships with merchant guilds helped maintain operational sustainability.^1
 
 ## Contributions to Knowledge Preservation and Transmission
 
@@ -142,7 +142,7 @@ The 19th and 20th centuries brought modernization challenges. French colonial pe
 
 ## International Recognition and Modern Legacy
 
-In 1963, **Guinness World Records** officially recognized Al-Qarawiyyin as the "world's oldest continuously operating university." **UNESCO** also provided similar recognition and included Al-Qarawiyyin's library in the **Memory of the World** program as humanity's documentary heritage.^12
+In 1963, **Guinness World Records** officially recognized Al-Qarawiyyin as the "world's oldest continuously operating university." **UNESCO** also provided similar recognition and included Al-Qarawiyyin's library in the **Memory of the World** program as humanity's documentary heritage.^1
 
 Today, Al-Qarawiyyin continues to operate with about 8,000 students from 40 countries. Its curriculum combines traditional Islamic studies with modern programs in sciences, technology, and humanities. The library, now containing more than 400,000 volumes, remains an important research center for Islamic studies and Maghreb history.
 
@@ -169,7 +169,7 @@ Al-Qarawiyyin's tradition of accepting students from various religious and cultu
 > *"And say: 'My Lord, increase me in knowledge.'"* ﴾114﴿
 > — QS. Taha (20): 114
 
-This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^6
+This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, encapsulates the philosophy that has guided this institution for more than a thousand years: that the pursuit of knowledge is worship that knows no boundaries of time, place, or identity.^6^12
 
 ## Bibliography
 
@@ -181,8 +181,7 @@ This verse, often quoted in Al-Qarawiyyin's academic year opening speeches, enca
 6. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
 7. Nakosteen, Mehdi. *History of Islamic Origins of Western Education A.D. 800-1350*. Boulder: University of Colorado Press, 1964.
 8. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
-9. Al-Kattani, Abd al-Kabir. *Tarikh Jami' al-Qarawiyyin: al-Hayat al-Fikriyya wa al-Diniyya*. Fez: Matba'ah al-Risalah, 1982.
-10. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
-11. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
-12. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
-13. Al-Qur'an al-Karim. QS. Taha (20): 114.
+9. Haskins, Charles Homer. *The Rise of Universities*. Ithaca: Cornell University Press, 1957.
+10. Pedersen, Johannes. *The Arabic Book*. Translated by Geoffrey French. Princeton: Princeton University Press, 1984.
+11. Talbani, Aziz. *"Pedagogy, Power, and Discourse: Transformation of Islamic Education"*, dalam Comparative Education Review, Vol. 40, No. 1 (Feb., 1996), pp. 66-82.
+12. Al-Qur'an al-Karim. QS. Taha (20): 114.

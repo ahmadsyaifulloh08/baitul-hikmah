@@ -19,21 +19,21 @@ This political support enabled Ibn Rushd not only to work as a qadi in Seville a
 > وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
 >
 > *"And you have not been given of knowledge except a little."*
-> — QS. al-Isra' (17): 85^3
+> — QS. al-Isra' (17): 85^2
 
-## Confrontation with Al-Ghazali: Tahafut al-Tahafut^9
+## Confrontation with Al-Ghazali: Tahafut al-Tahafut^2^7
 
-Ibn Rushd's most influential work is **"Tahafut al-Tahafut"** (The Incoherence of the Incoherence), written as a refutation of **Al-Ghazali's** work titled "Tahafut al-Falasifah" (The Incoherence of the Philosophers). Al-Ghazali, who died in 1111 CE—fifteen years before Ibn Rushd was born—had harshly criticized Muslim philosophers like **Al-Farabi** and **Ibn Sina** in his work.^4
+Ibn Rushd's most influential work is **"Tahafut al-Tahafut"** (The Incoherence of the Incoherence), written as a refutation of **Al-Ghazali's** work titled "Tahafut al-Falasifah" (The Incoherence of the Philosophers). Al-Ghazali, who died in 1111 CE—fifteen years before Ibn Rushd was born—had harshly criticized Muslim philosophers like **Al-Farabi** and **Ibn Sina** in his work.^2
 
 Al-Ghazali in "Tahafut al-Falasifah" raised 20 criticisms against Aristotelian philosophy adopted by Muslim philosophers. Three of them were considered as kufr (infidelity): the eternity of the world (qidam al-alam), Allah's knowledge only of universals not particulars, and denial of bodily resurrection.
 
 Ibn Rushd in "Tahafut al-Tahafut" systematically responded to each of Al-Ghazali's criticisms. He distinguished between philosophical demonstration (burhan) and dialectical and rhetorical arguments. According to him, Al-Ghazali often confused these levels of argument, making his criticisms miss the mark.
 
-Regarding the eternity of the world, Ibn Rushd argued that creation is a continuous process of emanation from Allah, not an event occurring at a specific time. The world is a manifestation of Allah's eternal will, so it cannot be said to have a temporal beginning.^5
+Regarding the eternity of the world, Ibn Rushd argued that creation is a continuous process of emanation from Allah, not an event occurring at a specific time. The world is a manifestation of Allah's eternal will, so it cannot be said to have a temporal beginning.^2
 
 ## Methodology of Harmonizing Religion and Philosophy
 
-Ibn Rushd's most important contribution lies in his methodology of harmonizing revelation and reason. In his work **"Fasl al-Maqal"** (The Decisive Treatise), he argued that the Sharia actually commands the use of reason to understand truth. Philosophy is not a threat to religion, but a tool for achieving deeper understanding.^6
+Ibn Rushd's most important contribution lies in his methodology of harmonizing revelation and reason. In his work **"Fasl al-Maqal"** (The Decisive Treatise), he argued that the Sharia actually commands the use of reason to understand truth. Philosophy is not a threat to religion, but a tool for achieving deeper understanding.^2
 
 Ibn Rushd developed a theory of three levels of religious understanding. First, the rhetorical level (*khitabah*) for common masses who understand religion literally. Second, the dialectical level (*jadal*) for the middle class capable of argumentation. Third, the demonstrative level (*burhan*) for intellectual elites capable of philosophical thinking.
 
@@ -41,7 +41,7 @@ According to him, conflict between religion and philosophy arises when these bou
 
 ## Aristotelian Commentaries and Influence in Europe
 
-Ibn Rushd wrote three types of commentaries on Aristotle's works: summaries (*talkhis*), middle commentaries (*sharh*), and great commentaries (*tafsir*). These works were translated into Latin and became the main references for medieval European scholars to understand Aristotelian philosophy.^7
+Ibn Rushd wrote three types of commentaries on Aristotle's works: summaries (*talkhis*), middle commentaries (*sharh*), and great commentaries (*tafsir*). These works were translated into Latin and became the main references for medieval European scholars to understand Aristotelian philosophy.^2
 
 His influence on Western thought was profound, particularly through **Thomas Aquinas** who extensively used Ibn Rushd's arguments in *Summa Theologica*. Even when Aquinas criticized "Averrois" (the Latin name for Ibn Rushd), he still regarded him as the "Commentator" par excellence on Aristotle.
 
@@ -49,7 +49,7 @@ European universities of the 13th century CE such as Paris and Oxford taught Ibn
 
 ## Difficult Times and Exile
 
-Despite strong political support, Ibn Rushd faced difficult periods toward the end of his life. After Caliph Abu Ya'qub Yusuf's death in 1184 CE, his son **Ya'qub al-Mansur** initially continued support for Ibn Rushd. However, political and religious pressure from fuqaha and conservative groups grew stronger.^8
+Despite strong political support, Ibn Rushd faced difficult periods toward the end of his life. After Caliph Abu Ya'qub Yusuf's death in 1184 CE, his son **Ya'qub al-Mansur** initially continued support for Ibn Rushd. However, political and religious pressure from fuqaha and conservative groups grew stronger.^2
 
 In 1195 CE, Ibn Rushd was accused of teaching doctrines contrary to Islam. His philosophical works were publicly burned in Córdoba, and he was exiled to Lucena, a small town with a majority Jewish population. This exile was more political than theological—the caliph needed to appease conservative groups opposing his intellectual policies.
 
@@ -57,7 +57,7 @@ Ironically, at the same time, Ibn Rushd's works were being massively translated 
 
 ## Legacy and Long-term Influence
 
-Ibn Rushd died in Marrakech in 1198 CE, one year after returning from exile. His body was brought back to Córdoba to be buried in his birthplace. His death marked the end of the golden age of Aristotelian philosophy in the Western Islamic world.^9
+Ibn Rushd died in Marrakech in 1198 CE, one year after returning from exile. His body was brought back to Córdoba to be buried in his birthplace. His death marked the end of the golden age of Aristotelian philosophy in the Western Islamic world.^2
 
 However, his influence on global intellectual tradition was profound and lasting. In the Islamic world, although his philosophical works became less popular after the 13th century CE, his contribution to Islamic law through his work **"Bidayat al-Mujtahid"** continues to be studied today.
 
@@ -75,10 +75,8 @@ His contribution shows that Islamic tradition has the capacity to dialogue with 
 
 1. Ibn Abi Usaybi'ah, *Uyun al-Anba' fi Tabaqat al-Atibba'*.
 2. Ibn Rushd, *Fasl al-Maqal fi ma bayn al-Hikmah wa al-Shari'ah min Ittisal*.
-3. Ibn Rushd, *Tahafut al-Tahafut*, ed. Maurice Bouyges.
-4. Al-Ghazali, *Tahafut al-Falasifah*, ed. Sulayman Dunya.
-5. Ibn Rushd, *Kashf 'an Manahij al-Adillah fi 'Aqa'id al-Millah*.
-6. Majid Fakhry, *Averroes: His Life, Works and Influence*.
-7. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
-8. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
-9. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.
+3. Al-Ghazali, *Tahafut al-Falasifah*, ed. Sulayman Dunya.
+4. Majid Fakhry, *Averroes: His Life, Works and Influence*.
+5. Ernest Renan, *Averroès et l'averroïsme: essai historique*.
+6. Al-Marrakushi, *Al-Mu'jib fi Talkhis Akhbar al-Maghrib*.
+7. Al-Qur'an al-Karim. QS. al-Isra' (17): 85.

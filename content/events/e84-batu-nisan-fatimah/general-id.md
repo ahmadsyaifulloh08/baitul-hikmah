@@ -69,7 +69,7 @@ Al-Qur'an menegaskan prinsip kebebasan beragama yang mungkin diterapkan dalam pr
 > *"Tidak ada paksaan dalam agama. Sesungguhnya telah jelas perbedaan antara jalan yang benar dengan jalan yang sesat. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^7
 
-## Teori-Teori Kedatangan Islam ke Nusantara
+## Teori-Teori Kedatangan Islam ke Nusantara^7
 
 Penemuan batu nisan Fatimah binti Maimun memberikan dukungan empiris terhadap berbagai teori kedatangan Islam ke Nusantara. Terdapat beberapa teori utama yang dikembangkan para ahli mengenai bagaimana dan kapan Islam pertama kali masuk ke wilayah Indonesia.^6
 

@@ -59,7 +59,7 @@ In the preface to his work, al-Ghazali explained the purpose of writing by quoti
 > *"And We have not sent you except as a mercy to all the worlds. ﴾107﴿"*
 > — QS. Al-Anbiya' (21): 107
 
-This verse inspired al-Ghazali to make his work a mercy for the Muslim community by reviving the true religious sciences, namely knowledge that not only fills the mind but also purifies the heart.²
+This verse inspired al-Ghazali to make his work a mercy for the Muslim community by reviving the true religious sciences, namely knowledge that not only fills the mind but also purifies the heart.²^5
 
 ## Innovative Methodology and Approach
 

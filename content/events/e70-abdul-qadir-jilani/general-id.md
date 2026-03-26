@@ -77,7 +77,7 @@ Dalam salah satu ceramahnya yang terkenal, Abdul Qadir menjelaskan tentang jiwa 
 > *"Wahai jiwa yang tenang! ﴾27﴿ Kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai. ﴾28﴿ Maka masuklah ke dalam golongan hamba-hamba-Ku, ﴾29﴿ dan masuklah ke dalam surga-Ku. ﴾30﴿"*
 > — QS. Al-Fajr (89): 27-30
 
-Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian **nafs al-mutma'innah** (jiwa yang tenang) sebagai tujuan tertinggi perjalanan spiritual. Menurut Abdul Qadir, jiwa yang tenang adalah jiwa yang telah mencapai kedamaian sempurna dengan Allah, dengan diri sendiri, dan dengan alam semesta.⁴
+Ayat ini menjadi inti ajaran tasawuf yang diajarkan Abdul Qadir — pencapaian **nafs al-mutma'innah** (jiwa yang tenang) sebagai tujuan tertinggi perjalanan spiritual. Menurut Abdul Qadir, jiwa yang tenang adalah jiwa yang telah mencapai kedamaian sempurna dengan Allah, dengan diri sendiri, dan dengan alam semesta.⁴^5
 
 ## Penyebaran Tarekat Qadiriyyah ke Seluruh Dunia
 

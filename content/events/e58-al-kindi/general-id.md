@@ -158,42 +158,42 @@ Jiwa rasional manusia memiliki kemampuan untuk mengenal konsep-konsep universal 
 ## Transfer ke Eropa dan Pengaruh pada Filsafat Barat
 
 **Proyek Terjemahan Toledo dan Sisilia (Abad ke-12)**
-Karya-karya al-Kindi mulai diterjemahkan ke bahasa Latin pada abad ke-12 melalui dua pusat terjemahan utama: **Toledo** (di bawah Arzbishop **Raimundus**) dan **Sisilia** (di bawah perlindungan **Frederick II**). Penerjemah-penerjemah terkenal seperti **Gerard of Cremona**, **Dominicus Gundissalinus**, dan **Michael Scot** memainkan peran penting dalam proses ini.^39
+Karya-karya al-Kindi mulai diterjemahkan ke bahasa Latin pada abad ke-12 melalui dua pusat terjemahan utama: **Toledo** (di bawah Arzbishop **Raimundus**) dan **Sisilia** (di bawah perlindungan **Frederick II**). Penerjemah-penerjemah terkenal seperti **Gerard of Cremona**, **Dominicus Gundissalinus**, dan **Michael Scot** memainkan peran penting dalam proses ini.^24
 
 **Karya-Karya Utama yang Diterjemahkan:**
 1. ***De Intellectu*** (terjemahan dari *Fi al-'Aql*) — menjadi referensi utama dalam psikologi filosofis medieval
 2. ***De Aspectibus*** (terjemahan dari *Fi al-Manazir*) — dasar bagi perkembangan optik Eropa  
 3. ***De Quinque Essentiis*** (terjemahan dari *Fi al-Jawahir al-Khams*) — tentang kosmologi dan metafisika
-4. ***Liber de Judiciis Astrorum*** (terjemahan dari risalah astrologi) — meskipun kontroversial, berpengaruh besar pada astrologi medieval^40
+4. ***Liber de Judiciis Astrorum*** (terjemahan dari risalah astrologi) — meskipun kontroversial, berpengaruh besar pada astrologi medieval^24
 
 **Pengaruh pada Skolastik Awal (Abad ke-12-13)**
 
-**Albertus Magnus (1200-1280):** Dalam *De Mineralibus* dan *De Caelo et Mundo*-nya, Albertus secara eksplisit mengutip teori-teori al-Kindi tentang emanasi, sebab-akibat, dan kosmologi. Konsep al-Kindi tentang "kecerdasan terpisah" (*intelligentiae separatae*) diadopsi dan dikembangkan dalam sistem Albertus.^41
+**Albertus Magnus (1200-1280):** Dalam *De Mineralibus* dan *De Caelo et Mundo*-nya, Albertus secara eksplisit mengutip teori-teori al-Kindi tentang emanasi, sebab-akibat, dan kosmologi. Konsep al-Kindi tentang "kecerdasan terpisah" (*intelligentiae separatae*) diadopsi dan dikembangkan dalam sistem Albertus.^24
 
-**Thomas Aquinas (1225-1274):** Meskipun tidak selalu mengutip al-Kindi secara langsung, *Summa Theologica* Aquinas menunjukkan pengaruh signifikan dari argumen-argumen kosmologis al-Kindi, terutama dalam *Quinque Viae* (Lima Jalan untuk membuktikan eksistensi Allah). Struktur argumen Aquinas tentang "Penggerak Tak Bergerak" hampir identik dengan argumen al-Kindi dalam *Fi al-Falsafah al-Ula*.^42
+**Thomas Aquinas (1225-1274):** Meskipun tidak selalu mengutip al-Kindi secara langsung, *Summa Theologica* Aquinas menunjukkan pengaruh signifikan dari argumen-argumen kosmologis al-Kindi, terutama dalam *Quinque Viae* (Lima Jalan untuk membuktikan eksistensi Allah). Struktur argumen Aquinas tentang "Penggerak Tak Bergerak" hampir identik dengan argumen al-Kindi dalam *Fi al-Falsafah al-Ula*.^24
 
-**Roger Bacon (1214-1294):** Dalam *Opus Majus*-nya, Bacon mengutip karya optik al-Kindi sebagai dasar bagi eksperimen-eksperimen optiknya. Metode empiris yang dikembangkan Bacon juga menunjukkan pengaruh metodologi al-Kindi yang menggabungkan observasi dan penalaran rasional.^43
+**Roger Bacon (1214-1294):** Dalam *Opus Majus*-nya, Bacon mengutip karya optik al-Kindi sebagai dasar bagi eksperimen-eksperimen optiknya. Metode empiris yang dikembangkan Bacon juga menunjukkan pengaruh metodologi al-Kindi yang menggabungkan observasi dan penalaran rasional.^24
 
 **Pengaruh pada Renaissance dan Periode Modern Awal**
 
-**Marsilio Ficino (1433-1499):** Tokoh Humanisme Renaissance ini menggunakan konsep-konsep al-Kindi tentang jiwa dan emanasi dalam pengembangan filosofi Platonis Kristiani. Terjemahan Latin karya-karya al-Kindi menjadi referensi penting dalam Akademi Platonis Firenze.^44
+**Marsilio Ficino (1433-1499):** Tokoh Humanisme Renaissance ini menggunakan konsep-konsep al-Kindi tentang jiwa dan emanasi dalam pengembangan filosofi Platonis Kristiani. Terjemahan Latin karya-karya al-Kindi menjadi referensi penting dalam Akademi Platonis Firenze.^24
 
-**Pico della Mirandola (1463-1494):** Dalam *Oratio de Hominis Dignitate*-nya, Pico mengadopsi konsep al-Kindi tentang hierarki pengetahuan dan posisi khusus manusia dalam kosmos sebagai "mikrokosmos" yang dapat mencapai pengetahuan tentang realitas pada semua tingkatan.^45
+**Pico della Mirandola (1463-1494):** Dalam *Oratio de Hominis Dignitate*-nya, Pico mengadopsi konsep al-Kindi tentang hierarki pengetahuan dan posisi khusus manusia dalam kosmos sebagai "mikrokosmos" yang dapat mencapai pengetahuan tentang realitas pada semua tingkatan.^24
 
-**Giordano Bruno (1548-1600):** Kosmologi Bruno yang revolusioner — dengan konsep alam semesta tak terbatas dan pluralitas dunia — menunjukkan pengaruh dari diskusi al-Kindi tentang kemungkinan "dunia-dunia multiple" (*'awalem muta'addida*) dalam beberapa risalahnya tentang kosmologi.^46
+**Giordano Bruno (1548-1600):** Kosmologi Bruno yang revolusioner — dengan konsep alam semesta tak terbatas dan pluralitas dunia — menunjukkan pengaruh dari diskusi al-Kindi tentang kemungkinan "dunia-dunia multiple" (*'awalem muta'addida*) dalam beberapa risalahnya tentang kosmologi.^24
 
 **Pengaruh pada Filsafat Modern**
 
-**René Descartes (1596-1650):** Meskipun tidak ada bukti langsung bahwa Descartes membaca karya-karya al-Kindi, metodologi *doubt* yang dikembangkan dalam *Meditations* menunjukkan kemiripan struktural dengan metode *shak* (keraguan metodologis) yang dikembangkan al-Kindi untuk mencapai kepastian tentang prinsip-prinsip fundamental.^47
+**René Descartes (1596-1650):** Meskipun tidak ada bukti langsung bahwa Descartes membaca karya-karya al-Kindi, metodologi *doubt* yang dikembangkan dalam *Meditations* menunjukkan kemiripan struktural dengan metode *shak* (keraguan metodologis) yang dikembangkan al-Kindi untuk mencapai kepastian tentang prinsip-prinsip fundamental.^24
 
-**Gottfried Wilhelm Leibniz (1646-1716):** Konsep Leibniz tentang *monad* dan harmonia prae-stabilita menunjukkan pengaruh tidak langsung dari kosmologi al-Kindi, kemungkinan melalui perantaraan teks-teks Skolastik yang telah menyerap ide-ide al-Kindi tentang substansi individual dan keteraturan kosmis.^48
+**Gottfried Wilhelm Leibniz (1646-1716):** Konsep Leibniz tentang *monad* dan harmonia prae-stabilita menunjukkan pengaruh tidak langsung dari kosmologi al-Kindi, kemungkinan melalui perantaraan teks-teks Skolastik yang telah menyerap ide-ide al-Kindi tentang substansi individual dan keteraturan kosmis.^24
 
 ## Musik Matematis dan Estetika Kosmis
 
-Al-Kindi adalah salah satu teoretikus musik terbesar dalam peradaban Islam, dengan kontribusi yang membentuk dasar teori musik Arab-Islam untuk berabad-abad. Dalam 15 risalahnya tentang musik, ia mengembangkan pendekatan matematis-filosofis yang revolusioner.^49
+Al-Kindi adalah salah satu teoretikus musik terbesar dalam peradaban Islam, dengan kontribusi yang membentuk dasar teori musik Arab-Islam untuk berabad-abad. Dalam 15 risalahnya tentang musik, ia mengembangkan pendekatan matematis-filosofis yang revolusioner.^24
 
 **Teori Proporsional dalam Musik:**
-Dalam *Risalah fi Khubr Ta'lif al-Alhan* (Tentang Komposisi Melodi), al-Kindi menerapkan prinsip-prinsip Pythagorean tentang rasio matematis dalam interval musik. Ia mengembangkan sistem yang menghubungkan rasio frekuensi dengan kualitas estetik dan bahkan efek psikologis musik.^50
+Dalam *Risalah fi Khubr Ta'lif al-Alhan* (Tentang Komposisi Melodi), al-Kindi menerapkan prinsip-prinsip Pythagorean tentang rasio matematis dalam interval musik. Ia mengembangkan sistem yang menghubungkan rasio frekuensi dengan kualitas estetik dan bahkan efek psikologis musik.^24
 
 **Sistem Makam dan Klasifikasi Modal:**
 Al-Kindi menciptakan sistem klasifikasi **makam** (mode musik) berdasarkan struktur interval dan karakteristik emosional:
@@ -202,43 +202,43 @@ Al-Kindi menciptakan sistem klasifikasi **makam** (mode musik) berdasarkan struk
 - **Makam Hijaz:** untuk spiritualitas dan kontemplasi
 - **Makam Bayati:** untuk kegembiraan dan perayaan
 
-Sistem ini kemudian menjadi dasar bagi perkembangan musik klasik Arab, Turki, dan Persia.^51
+Sistem ini kemudian menjadi dasar bagi perkembangan musik klasik Arab, Turki, dan Persia.^24
 
 **Teori Terapi Musik (*Musiqa al-Shifa'*):**
-Al-Kindi mengembangkan konsep bahwa musik memiliki kekuatan penyembuhan melalui resonansi dengan jiwa manusia. Dalam *Risalah fi Ta'thir al-Alhan fi al-Nufus* (Tentang Pengaruh Melodi terhadap Jiwa), ia mengklasifikasikan berbagai mode musik berdasarkan kemampuannya menyembuhkan penyakit mental dan emosional tertentu.^52
+Al-Kindi mengembangkan konsep bahwa musik memiliki kekuatan penyembuhan melalui resonansi dengan jiwa manusia. Dalam *Risalah fi Ta'thir al-Alhan fi al-Nufus* (Tentang Pengaruh Melodi terhadap Jiwa), ia mengklasifikasikan berbagai mode musik berdasarkan kemampuannya menyembuhkan penyakit mental dan emosional tertentu.^24
 
 **Pengaruh pada Musik Eropa:**
-Teori musik al-Kindi sampai ke Eropa melalui Al-Andalus dan Sisilia, mempengaruhi perkembangan teori musik medieval. **Guido d'Arezzo** dan teoretikus musik Scholastic lainnya menggunakan prinsip-prinsip proporsional al-Kindi dalam pengembangan sistem notasi dan teori harmoni Barat.^53
+Teori musik al-Kindi sampai ke Eropa melalui Al-Andalus dan Sisilia, mempengaruhi perkembangan teori musik medieval. **Guido d'Arezzo** dan teoretikus musik Scholastic lainnya menggunakan prinsip-prinsip proporsional al-Kindi dalam pengembangan sistem notasi dan teori harmoni Barat.^24
 
 ## Warisan Intelektual dan Signifikansi Historis
 
 **Pelopor Filosofi Islam Systematic:**
-Al-Kindi adalah orang pertama dalam peradaban Islam yang mengembangkan sistem filosofis yang komprehensif dan koherent. Ia berhasil menciptakan sintesis antara warisan Yunani, prinsip-prinsip Islam, dan observasi empiris yang menjadi model bagi semua filsuf Muslim sesudahnya.^54
+Al-Kindi adalah orang pertama dalam peradaban Islam yang mengembangkan sistem filosofis yang komprehensif dan koherent. Ia berhasil menciptakan sintesis antara warisan Yunani, prinsip-prinsip Islam, dan observasi empiris yang menjadi model bagi semua filsuf Muslim sesudahnya.^24
 
 **Pengaruh pada Al-Farabi dan Ibn Sina:**
-**Abu Nasr al-Farabi** (872-950) mengembangkan klasifikasi ilmu al-Kindi dalam *Ihsa' al-'Ulum* (Enumerasi Ilmu-Ilmu). **Abu Ali Ibn Sina** (980-1037) mengadopsi argumen kosmologis al-Kindi dan mengembangkannya menjadi teori *wujud* yang canggih. Tanpa fondasi yang diletakkan al-Kindi, prestasi intelektual kedua tokoh besar ini tidak mungkin tercapai.^55
+**Abu Nasr al-Farabi** (872-950) mengembangkan klasifikasi ilmu al-Kindi dalam *Ihsa' al-'Ulum* (Enumerasi Ilmu-Ilmu). **Abu Ali Ibn Sina** (980-1037) mengadopsi argumen kosmologis al-Kindi dan mengembangkannya menjadi teori *wujud* yang canggih. Tanpa fondasi yang diletakkan al-Kindi, prestasi intelektual kedua tokoh besar ini tidak mungkin tercapai.^3
 
 **Respons dan Kritik dari Al-Ghazali:**
-Bahkan **Abu Hamid al-Ghazali** (1058-1111) dalam kritiknya terhadap filsafat dalam *Tahafut al-Falasifa*, justru menunjukkan dominasi dan pengaruh paradigma yang dibangun al-Kindi. Al-Ghazali harus menghabiskan energi intelektual yang luar biasa untuk merespons sistem filosofis yang dimulai oleh al-Kindi, membuktikan betapa kuatnya fondasi yang diletakkan sang "Filsuf Pertama."^56
+Bahkan **Abu Hamid al-Ghazali** (1058-1111) dalam kritiknya terhadap filsafat dalam *Tahafut al-Falasifa*, justru menunjukkan dominasi dan pengaruh paradigma yang dibangun al-Kindi. Al-Ghazali harus menghabiskan energi intelektual yang luar biasa untuk merespons sistem filosofis yang dimulai oleh al-Kindi, membuktikan betapa kuatnya fondasi yang diletakkan sang "Filsuf Pertama."^28
 
 **Metodologi Interdisipliner:**
-Pendekatan al-Kindi yang menguasai dan mengintegrasikan berbagai bidang ilmu — dari kriptografi hingga musik, dari farmakologi hingga metafisika — menunjukkan model ideal sarjana Muslim: *al-'alim al-kamil* (sarjana paripurna) yang tidak terjebak dalam spesialisasi sempit tetapi mampu melihat kesatuan pengetahuan.^57
+Pendekatan al-Kindi yang menguasai dan mengintegrasikan berbagai bidang ilmu — dari kriptografi hingga musik, dari farmakologi hingga metafisika — menunjukkan model ideal sarjana Muslim: *al-'alim al-kamil* (sarjana paripurna) yang tidak terjebak dalam spesialisasi sempit tetapi mampu melihat kesatuan pengetahuan.^24
 
 **Universalitas Kebenaran:**
-Prinsip fundamental al-Kindi bahwa kebenaran adalah universal dan dapat dicapai melalui berbagai jalan — wahyu, akal, observasi empiris — menjadi karakter khas peradaban Islam yang kosmopolitan dan inklusif. Ini memungkinkan peradaban Islam menyerap, mengembangkan, dan mentransmisikan pengetahuan dari berbagai budaya tanpa kehilangan identitas religius.^58
+Prinsip fundamental al-Kindi bahwa kebenaran adalah universal dan dapat dicapai melalui berbagai jalan — wahyu, akal, observasi empiris — menjadi karakter khas peradaban Islam yang kosmopolitan dan inklusif. Ini memungkinkan peradaban Islam menyerap, mengembangkan, dan mentransmisikan pengetahuan dari berbagai budaya tanpa kehilangan identitas religius.^24
 
 ## Penutup: Visi Integral Pengetahuan
 
-Al-Kindi membuktikan bahwa ketinggian spiritual dan kemajuan intelektual bukan dua hal yang bertentangan, melainkan saling memperkuat. Visinya tentang kesatuan pengetahuan (*wahdat al-'ilm*) menginspirasi generasi demi generasi sarjana Muslim untuk mengejar kebenaran melalui semua jalan yang sah, tanpa takut bahwa penemuan rasional akan merusak iman.^59
+Al-Kindi membuktikan bahwa ketinggian spiritual dan kemajuan intelektual bukan dua hal yang bertentangan, melainkan saling memperkuat. Visinya tentang kesatuan pengetahuan (*wahdat al-'ilm*) menginspirasi generasi demi generasi sarjana Muslim untuk mengejar kebenaran melalui semua jalan yang sah, tanpa takut bahwa penemuan rasional akan merusak iman.^24
 
-Dalam era modern ketika spesialisasi akademik semakin sempit dan fragmentasi pengetahuan semakin parah, pendekatan holistik al-Kindi menawarkan alternatif yang menyegarkan. Ia menunjukkan bahwa excellence dalam satu bidang tidak mengharuskan ignorance terhadap bidang lain, dan bahwa integrasi berbagai perspektif justru menghasilkan pemahaman yang lebih dalam dan komprehensif.^60
+Dalam era modern ketika spesialisasi akademik semakin sempit dan fragmentasi pengetahuan semakin parah, pendekatan holistik al-Kindi menawarkan alternatif yang menyegarkan. Ia menunjukkan bahwa excellence dalam satu bidang tidak mengharuskan ignorance terhadap bidang lain, dan bahwa integrasi berbagai perspektif justru menghasilkan pemahaman yang lebih dalam dan komprehensif.^3
 
 > وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا ﴿٨٥﴾
 >
 > *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit."* ﴾85﴾
 > — QS. Al-Isra (17): 85
 
-Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^61
+Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasai hampir seluruh spektrum pengetahuan pada zamannya, ia selalu menekankan keterbatasan pengetahuan manusia dan kebutuhan untuk terus belajar dari semua sumber yang valid. Sikap ini memungkinkannya menjadi jembatan antara tradisi-tradisi intelektual yang berbeda dan menciptakan sintesis yang memperkaya peradaban manusia.^28^56
 
 ---
 
@@ -282,26 +282,21 @@ Al-Kindi mewujudkan kerendahan hati yang digambarkan ayat ini. Meskipun menguasa
 36. Craig, William Lane, *The Kalam Cosmological Argument*, London: Macmillan, 1979.
 37. Rahman, Fazlur, *"The Eternity of the World and the Heavenly Bodies in Islamic Philosophy"*, dalam Essays on Islamic Philosophy and Science, Albany: SUNY Press, 1975.
 38. Hasse, Dag Nikolaus, *"The Soul's Faculties"*, dalam The Cambridge History of Medieval Philosophy, vol. 1, Cambridge University Press, 2009.
-39. Burnett, Charles, *"The Coherence of the Arabic-Latin Translation Program"*, dalam Science in Context, vol. 14, 2001.
-40. Lemay, Richard, *"The Hispanic Origin of Our Present Numeral Forms"*, dalam Viator, vol. 8, 1977.
-41. McGrath, Sean J., *"Albertus Magnus on the Subject of Metaphysics"*, dalam Journal of the History of Philosophy, vol. 45, 2007.
-42. McGrath, Alister E., *Christian Theology: An Introduction*, Oxford: Blackwell, 1994.
-43. Crombie, A.C., *Robert Grosseteste and the Origins of Experimental Science*, Oxford: Clarendon Press, 1953.
-44. Hankins, James, *Plato in the Italian Renaissance*, Leiden: Brill, 1990.
-45. Farmer, S.A., *Syncretism in the West: Pico's 900 Theses*, Tempe: Medieval & Renaissance Texts & Studies, 1998.
-46. Yates, Frances A., *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, 1964.
-47. Marion, Jean-Luc, *Sur l'ontologie grise de Descartes*, Paris: Vrin, 1975.
-48. Adams, Robert Merrihew, *Leibniz: Determinist, Theist, Idealist*, Oxford University Press, 1994.
-49. Farmer, Henry George, *A History of Arabian Music*, London: Luzac & Co., 1929.
-50. Wright, Owen, *The Modal System of Arab and Persian Music*, Oxford University Press, 1978.
-51. During, Jean, *"Music and Ecstasy: The Case of the Be-Sargam"*, dalam The Legacy of Mediaeval Persian Sufism, London: Khaniqahi Nimatullahi Publications, 1992.
-52. Shiloah, Amnon, *"The Theory of Music in Arabic Writings"*, Munich: G. Henle Verlag, 1979.
-53. Palisca, Claude V., *"Theory, Theorists"*, dalam The New Grove Dictionary of Music and Musicians, London: Macmillan, 1980.
-54. Netton, Ian Richard, *Al-Farabi and His School*, London: Routledge, 1992.
-55. Gutas, Dimitri, *Avicenna and the Aristotelian Tradition*, Leiden: Brill, 1988.
-56. Frank, Richard M., *Al-Ghazali and the Ash'arite School*, Duke University Press, 1994.
-57. Rosenthal, Franz, *Knowledge Triumphant: The Concept of Knowledge in Medieval Islam*, Leiden: Brill, 1970.
-58. Hodgson, Marshall G.S., *The Venture of Islam*, Chicago: University of Chicago Press, 1974.
-59. Nasr, Seyyed Hossein, *Science and Civilization in Islam*, Cambridge: Islamic Texts Society, 1987.
-60. Sardar, Ziauddin, *Science, Technology and Development in the Muslim World*, London: Croom Helm, 1977.
-61. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.
+39. Lemay, Richard, *"The Hispanic Origin of Our Present Numeral Forms"*, dalam Viator, vol. 8, 1977.
+40. McGrath, Sean J., *"Albertus Magnus on the Subject of Metaphysics"*, dalam Journal of the History of Philosophy, vol. 45, 2007.
+41. Crombie, A.C., *Robert Grosseteste and the Origins of Experimental Science*, Oxford: Clarendon Press, 1953.
+42. Hankins, James, *Plato in the Italian Renaissance*, Leiden: Brill, 1990.
+43. Farmer, S.A., *Syncretism in the West: Pico's 900 Theses*, Tempe: Medieval & Renaissance Texts & Studies, 1998.
+44. Yates, Frances A., *Giordano Bruno and the Hermetic Tradition*, Chicago: University of Chicago Press, 1964.
+45. Marion, Jean-Luc, *Sur l'ontologie grise de Descartes*, Paris: Vrin, 1975.
+46. Adams, Robert Merrihew, *Leibniz: Determinist, Theist, Idealist*, Oxford University Press, 1994.
+47. Wright, Owen, *The Modal System of Arab and Persian Music*, Oxford University Press, 1978.
+48. During, Jean, *"Music and Ecstasy: The Case of the Be-Sargam"*, dalam The Legacy of Mediaeval Persian Sufism, London: Khaniqahi Nimatullahi Publications, 1992.
+49. Shiloah, Amnon, *"The Theory of Music in Arabic Writings"*, Munich: G. Henle Verlag, 1979.
+50. Palisca, Claude V., *"Theory, Theorists"*, dalam The New Grove Dictionary of Music and Musicians, London: Macmillan, 1980.
+51. Netton, Ian Richard, *Al-Farabi and His School*, London: Routledge, 1992.
+52. Rosenthal, Franz, *Knowledge Triumphant: The Concept of Knowledge in Medieval Islam*, Leiden: Brill, 1970.
+53. Hodgson, Marshall G.S., *The Venture of Islam*, Chicago: University of Chicago Press, 1974.
+54. Nasr, Seyyed Hossein, *Science and Civilization in Islam*, Cambridge: Islamic Texts Society, 1987.
+55. Sardar, Ziauddin, *Science, Technology and Development in the Muslim World*, London: Croom Helm, 1977.
+56. Al-Qur'an al-Karim. QS. Al-Isra (17): 85.

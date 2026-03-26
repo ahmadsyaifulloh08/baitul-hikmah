@@ -113,7 +113,7 @@ Tragedi ini juga mengajarkan pentingnya **persatuan di dalam agama yang sama**.�
 > *"Mereka tidak akan memerangi kamu secara bersama-sama kecuali di desa-desa yang berbenteng atau di balik tembok. Permusuhan antara sesama mereka sangat hebat."* ﴾14﴿
 > — QS. Al-Hasyr (59): 14
 
-Ayat ini mencerminkan kondisi Tentara Salib yang seharusnya bersatu melawan musuh bersama, namun justru menyerang sesama Kristen di Konstantinopel. Perpecahan internal ini membuktikan kebenaran firman Allah tentang permusuhan yang hebat di antara mereka sendiri, yang akhirnya melemahkan posisi mereka secara keseluruhan.⁶
+Ayat ini mencerminkan kondisi Tentara Salib yang seharusnya bersatu melawan musuh bersama, namun justru menyerang sesama Kristen di Konstantinopel. Perpecahan internal ini membuktikan kebenaran firman Allah tentang permusuhan yang hebat di antara mereka sendiri, yang akhirnya melemahkan posisi mereka secara keseluruhan.⁶^6
 
 Perang Salib Keempat juga menunjukkan bagaimana **ambisi individu dan kelompok** dapat mengalahkan misi kolektif. **Enrico Dandolo** dan Venesia memanfaatkan ketergantungan finansial para tentara salib untuk mencapai tujuan geopolitik mereka sendiri. Hal ini mengingatkan pada pentingnya integritas dalam kepemimpinan dan bahaya dari ketergantungan yang berlebihan pada satu pihak.
 

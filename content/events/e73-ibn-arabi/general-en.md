@@ -14,17 +14,17 @@ Andalusia during Ibn Arabi's era was an age of intellectual golden period. In th
 
 ## Spiritual Journey: From Kashf to Shuhud
 
-In his twenties, Ibn Arabi began experiencing various **kashf** (spiritual unveiling) and **ru'ya** (meaningful dreams). These mystical experiences became the foundation for developing his unique Sufi thought system. He recorded in *al-Futuhat* that during this period he often experienced **fanā'** (extinction from self-consciousness) and **baqā'** (awakening in divine consciousness).^6
+In his twenties, Ibn Arabi began experiencing various **kashf** (spiritual unveiling) and **ru'ya** (meaningful dreams). These mystical experiences became the foundation for developing his unique Sufi thought system. He recorded in *al-Futuhat* that during this period he often experienced **fanā'** (extinction from self-consciousness) and **baqā'** (awakening in divine consciousness).^2
 
-**The most decisive spiritual experience** occurred when he was at Seville's cemetery one night. There, he experienced **shuhūd** (direct witnessing) of spiritual reality that made him understand that the entire universe is a manifestation of Allah's names and attributes. This experience became the initial seed of his wahdat al-wujud concept.^7
+**The most decisive spiritual experience** occurred when he was at Seville's cemetery one night. There, he experienced **shuhūd** (direct witnessing) of spiritual reality that made him understand that the entire universe is a manifestation of Allah's names and attributes. This experience became the initial seed of his wahdat al-wujud concept.^2
 
-During this period, Ibn Arabi also began receiving what he called **"dictées spirituelles"** — direct inspiration received without rational thought processes. This method of receiving knowledge, which he called **"'ilm laduni"** (knowledge directly from Allah), became a main characteristic of his works that were often written in special spiritual conditions.^8
+During this period, Ibn Arabi also began receiving what he called **"dictées spirituelles"** — direct inspiration received without rational thought processes. This method of receiving knowledge, which he called **"'ilm laduni"** (knowledge directly from Allah), became a main characteristic of his works that were often written in special spiritual conditions.^2
 
-The year 1194 CE became a turning point in his life when he received a spiritual command to undertake the pilgrimage to Mecca. In his vision, **Prophet Muhammad SAW** directly commanded him to leave Andalusia and seek knowledge in the East. This journey was not merely ritual worship, but a spiritual wandering that would last for decades.^9
+The year 1194 CE became a turning point in his life when he received a spiritual command to undertake the pilgrimage to Mecca. In his vision, **Prophet Muhammad SAW** directly commanded him to leave Andalusia and seek knowledge in the East. This journey was not merely ritual worship, but a spiritual wandering that would last for decades.^2
 
 ## Journey to the East: Consolidation of Doctrine
 
-Ibn Arabi began his journey by visiting various Islamic learning centers in Maghreb. In **Tunis**, he met **Abd al-Aziz al-Mahdawi**, a great Sufi who gave him ijazah (teaching license) in various sciences and introduced him to the rich Maghreb Sufi tradition.^10
+Ibn Arabi began his journey by visiting various Islamic learning centers in Maghreb. In **Tunis**, he met **Abd al-Aziz al-Mahdawi**, a great Sufi who gave him ijazah (teaching license) in various sciences and introduced him to the rich Maghreb Sufi tradition.^2
 
 In **Fez**, he studied under scholars of **Al-Qarawiyyin University** and deepened his understanding of Maliki jurisprudence. More importantly, in Fez he met **Abu Yusuf Harun**, a Sufi who taught him about **martabat tujuh** (seven levels of being) which later became an important part of his cosmology.^11
 
@@ -37,7 +37,7 @@ In **Mecca**, while performing pilgrimage in 1201 CE, Ibn Arabi experienced the 
 > *"And I did not create the jinn and mankind except to worship Me."*
 > — QS. al-Dhariyat (51): 56^14
 
-Ibn Arabi understood this verse as the key to understanding the purpose of creation. For him, **"li ya'budun"** (so they worship) means not only formal ritual, but **"li ya'rifun"** (so they know Me), an interpretation he received through kashf. This understanding became the basis for the wahdat al-wujud concept — that all creation is a means for Allah to be known.^14
+Ibn Arabi understood this verse as the key to understanding the purpose of creation. For him, **"li ya'budun"** (so they worship) means not only formal ritual, but **"li ya'rifun"** (so they know Me), an interpretation he received through kashf. This understanding became the basis for the wahdat al-wujud concept — that all creation is a means for Allah to be known.^14^9
 
 ## Al-Futuhat al-Makkiyah: The Spiritual Encyclopedia
 
@@ -148,8 +148,7 @@ Ibn Arabi's main contribution to Islamic thought is the **systematization of the
 3. Michel Chodkiewicz, *An Ocean Without Shore: Ibn Arabi, the Book, and the Law*, Albany: SUNY Press, 1993.
 4. William Chittick, *The Sufi Path of Knowledge: Ibn Arabi's Metaphysics of Imagination*, Albany: SUNY Press, 1989.
 5. Al-Sha'rani, *Al-Yawaqit wa al-Jawahir fi Bayan Aqa'id al-Akabir*, Cairo: Maktabah Mustafa al-Babi al-Halabi, 1959.
-6. Ibn Arabi, *Fusus al-Hikam*, fas "Hikmah Ilahiyyah fi Kalimat Adamiyyah".
-7. Al-Safadi, *A'yan al-'Asr wa A'wan al-Nasr*, Damascus: Dar al-Fikr, 1998.
-8. Ibn Taymiyyah, *Majmu' al-Fatawa*, vol. 2, chapter "fi al-Sufiyyah".
-9. Stephen Hirtenstein, *The Unlimited Mercifier: The Spiritual Life and Thought of Ibn Arabi*, Oxford: Anqa Publishing, 1999.
-10. Al-Qur'an al-Karim. QS. al-Dhariyat (51): 56.
+6. Al-Safadi, *A'yan al-'Asr wa A'wan al-Nasr*, Damascus: Dar al-Fikr, 1998.
+7. Ibn Taymiyyah, *Majmu' al-Fatawa*, vol. 2, chapter "fi al-Sufiyyah".
+8. Stephen Hirtenstein, *The Unlimited Mercifier: The Spiritual Life and Thought of Ibn Arabi*, Oxford: Anqa Publishing, 1999.
+9. Al-Qur'an al-Karim. QS. al-Dhariyat (51): 56.

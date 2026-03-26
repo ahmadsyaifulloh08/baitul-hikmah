@@ -130,7 +130,7 @@ In Rumi's view, all creatures are **reflections of Divine beauty**, and humanity
 > *"And to Allah belongs the east and the west. So wherever you [might] turn, there is the face of Allah."*
 > — QS. Al-Baqarah (2): 115^36
 
-This verse became the core of Rumi's philosophy about **Allah's presence everywhere** (*wahdaniyyah*), which he expressed in poems about universal love and unity with the Most High. For Rumi, every direction taken in spiritual search will lead to Allah, as long as it is done with sincerity of heart.^36
+This verse became the core of Rumi's philosophy about **Allah's presence everywhere** (*wahdaniyyah*), which he expressed in poems about universal love and unity with the Most High. For Rumi, every direction taken in spiritual search will lead to Allah, as long as it is done with sincerity of heart.^36^10
 
 ## Contemporary Legacy and Interpretation Challenges
 

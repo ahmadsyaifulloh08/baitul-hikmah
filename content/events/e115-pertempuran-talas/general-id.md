@@ -18,9 +18,9 @@ Krisis yang menuju Pertempuran Talas dimulai dengan perebutan **Lembah Ferghana*
 
 Permintaan bantuan ini memberikan justifikasi yang sempurna bagi Tang untuk intervensi militer besar-besaran. **Kaisar Xuanzong** melihat ini sebagai kesempatan untuk mengkonsolidasikan kekuasaan Tang atas seluruh Asia Tengah dan menghentikan ekspansi Islam yang semakin mengancam sphere of influence Tiongkok.^2
 
-**Jenderal Gao Xianzhi**, veteran kampanye Asia Tengah yang telah memimpin ekspedisi sukses ke Kashmir dan Gilgit, ditunjuk untuk memimpin pasukan ekspedisi. Gao Xianzhi adalah seorang perwira yang sangat berpengalaman dalam perang gunung dan stepa, dengan track record kemenangan yang impresif melawan berbagai koalisi suku-suku lokal.^7
+**Jenderal Gao Xianzhi**, veteran kampanye Asia Tengah yang telah memimpin ekspedisi sukses ke Kashmir dan Gilgit, ditunjuk untuk memimpin pasukan ekspedisi. Gao Xianzhi adalah seorang perwira yang sangat berpengalaman dalam perang gunung dan stepa, dengan rekam jejak kemenangan yang impresif melawan berbagai koalisi suku-suku lokal.^7
 
-Respons Abbasiyah tidak kalah cepat. **Abu Muslim al-Khurasani**, meski sedang mengkonsolidasikan kekuasaan Abbasiyah di Persia, mengirim **Ziyad ibn Salih** dengan mandat penuh untuk mengorganisasi koalisi anti-Tang. Yang sangat strategis, Ziyad berhasil meyakinkan **Bilge Khagan dari Karluk** bahwa Tang merupakan ancaman existential bagi independensi suku-suku Turki.^8
+Respons Abbasiyah tidak kalah cepat. **Abu Muslim al-Khurasani**, meski sedang mengkonsolidasikan kekuasaan Abbasiyah di Persia, mengirim **Ziyad ibn Salih** dengan mandat penuh untuk mengorganisasi koalisi anti-Tang. Yang sangat strategis, Ziyad berhasil meyakinkan **Bilge Khagan dari Karluk** bahwa Tang merupakan ancaman eksistensial bagi independensi suku-suku Turki.^8
 
 Negosiasi rahasia antara Ziyad dan pemimpin Karluk berlangsung berbulan-bulan. Al-Tabari mencatat bahwa Ziyad menjanjikan status otonomi luas bagi Karluk dalam struktur kekuasaan Abbasiyah, ditambah dengan akses preferential terhadap jalur perdagangan yang akan dikuasai. Kontras dengan Tang yang cenderung impose sistem administrasi terpusat, penawaran Abbasiyah memberikan fleksibilitas yang lebih menarik bagi mentalitas nomaden Turki.^3
 
@@ -96,31 +96,31 @@ Pada **sore hari**, yang tersisa dari pasukan Tang hanya fragmented units yang b
 
 Berita kekalahan Talas mencapai **Chang'an (Kaisar Xuanzong)** pada akhir Agustus 751 M melalui jaringan pos cepat Tang yang efficient. Reaction di istana Tang sangat shock — ini adalah kekalahan militer terbesar sejak pendirian dinasti, dan merepresentasikan collapse total dari ekspansi westward Tang.^2
 
-Kaisar Xuanzong, yang sebelumnya sangat percaya diri dengan kemampuan militer Tang, terpaksa melakukan **strategic reassessment fundamental**. Proyeksi kekuatan Tang ke Asia Tengah yang telah berlangsung hampir satu abad harus dihentikan, dan resources dialihkan untuk defending inti territories di Tiongkok.^10
+Kaisar Xuanzong, yang sebelumnya sangat percaya diri dengan kemampuan militer Tang, terpaksa melakukan **penilaian ulang strategis yang mendasar**. Proyeksi kekuatan Tang ke Asia Tengah yang telah berlangsung hampir satu abad harus dihentikan, dan sumber daya dialihkan untuk mempertahankan wilayah inti di Tiongkok.^10
 
-Yang memperparah situasi adalah **timing yang sangat buruk**. Hanya empat tahun kemudian (755 M), **Rebellionnya An Lushan** akan menggoyang dynasty Tang dari dalam. Kekalahan di Talas telah menguras resources militer yang seharusnya bisa digunakan untuk menghadapi crisis internal ini.^15
+Yang memperparah situasi adalah **waktu yang sangat buruk**. Hanya empat tahun kemudian (755 M), **Pemberontakan An Lushan** akan menggoyang dinasti Tang dari dalam. Kekalahan di Talas telah menguras sumber daya militer yang seharusnya bisa digunakan untuk menghadapi krisis internal ini.^15
 
 ### Konsolidasi Abbasiyah
 
-Bagi **Kekhalifahan Abbasiyah**, victory di Talas memberikan legitimasi yang sangat dibutuhkan oleh dynasty yang baru berkuasa. **Abu al-Abbas as-Saffah** menggunakan kemenangan ini untuk mengkonsolidasikan power base di wilayah timur dan membuktikan bahwa Abbasiyah adalah successor yang legitimate dari era penaklukan Islam.^5
+Bagi **Kekhalifahan Abbasiyah**, kemenangan di Talas memberikan legitimasi yang sangat dibutuhkan oleh dinasti yang baru berkuasa. **Abu al-Abbas as-Saffah** menggunakan kemenangan ini untuk mengkonsolidasikan basis kekuasaan di wilayah timur dan membuktikan bahwa Abbasiyah adalah penerus yang sah dari era penaklukan Islam.^5
 
-**Ziyad ibn Salih** dipromosikan dan diberi mandate untuk mengorganisir administrasi Islam di Asia Tengah. Yang remarkable adalah approach yang inclusif terhadap suku-suku Turki yang telah berpihak. Alih-alih treating mereka sebagai conquered peoples, Abbasiyah memberikan status autonomous yang memungkinkan preservation tradisi dan struktur leadership tribal.^8
+**Ziyad ibn Salih** dipromosikan dan diberi mandat untuk mengorganisir administrasi Islam di Asia Tengah. Yang luar biasa adalah pendekatan yang inklusif terhadap suku-suku Turki yang telah berpihak. Alih-alih memperlakukan mereka sebagai bangsa yang ditaklukkan, Abbasiyah memberikan status otonomi yang memungkinkan pelestarian tradisi dan struktur kepemimpinan suku.^8
 
-Victory ini juga membuka **flood gates untuk islamization** Asia Tengah. Tanpa tekanan militer dari Tang, proses peaceful conversion berlangsung dengan cepat di antara suku-suku nomaden yang melihat advantage practical dari bergabung dengan winning side.^16
+Kemenangan ini juga membuka **pintu air bagi islamisasi** Asia Tengah. Tanpa tekanan militer dari Tang, proses konversi damai berlangsung dengan cepat di antara suku-suku nomaden yang melihat keuntungan praktis dari bergabung dengan pihak yang menang.^16
 
 ## Transfer Teknologi: Revolusi Kertas
 
-### Prisoner of War Technology Transfer
+### Transfer Teknologi Tawanan Perang
 
 Salah satu consequence paling berjangka panjang dari Pertempuran Talas adalah **transfer teknologi pembuatan kertas** dari Tiongkok ke dunia Islam. Di antara **ribuan tawanan Tang** terdapat beberapa artisan specialized dalam paper-making yang telah menjadi state secret Tiongkok selama berabad-abad.^17
 
-**Jonathan Bloom** dalam penelitiannya tentang sejarah kertas mencatat bahwa teknologi paper-making tidak hanya sekadar technical process, tetapi melibatkan complex supply chain dan quality control yang membutuhkan skilled craftsmanship. Tawanan Tang ini membawa pengetahuan complete tentang seluruh process, dari selection raw materials hingga finishing techniques.^18
+**Jonathan Bloom** dalam penelitiannya tentang sejarah kertas mencatat bahwa teknologi paper-making tidak hanya sekadar proses teknis, tetapi melibatkan rantai pasokan yang kompleks dan kontrol kualitas yang membutuhkan keahlian tukang yang terampil. Tawanan Tang ini membawa pengetahuan lengkap tentang seluruh process, dari selection raw materials hingga teknik penyelesaian.^18
 
-Pabrik kertas pertama di **Samarkand** didirikan sekitar **751-755 M** dengan supervision langsung dari craftsmen Tang yang tertawan. Quality kertas Samarkand dengan cepat menandingi production Tiongkok, bahkan dalam beberapa aspek melebihi karena innovation dalam using cotton dan linen sebagai alternative raw materials.^17
+Pabrik kertas pertama di **Samarkand** didirikan sekitar **751-755 M** dengan supervision langsung dari craftsmen Tang yang tertawan. Quality kertas Samarkand dengan cepat menandingi produksi Tiongkok, bahkan dalam beberapa aspek melebihi karena inovasi dalam menggunakan cotton dan linen sebagai bahan baku alternatif.^17
 
-### Revolusi Information Technology Dunia Islam
+### Revolusi Teknologi Informasi Dunia Islam
 
-Impact dari paper technology terhadap peradaban Islam tidak bisa diunderestimate. Sebelum Talas, **manuscript production** di dunia Islam masih bergantung pada **papyrus** (mahal dan fragile) atau **parchment** (sangat mahal dan limited supply). Paper memberikan alternative yang cheap, durable, dan mass-producible.^18
+Impact dari paper technology terhadap peradaban Islam tidak bisa diunderestimate. Sebelum Talas, **produksi naskah** di dunia Islam masih bergantung pada **papyrus** (mahal dan fragile) atau **parchment** (sangat mahal dan pasokan terbatas). Paper memberikan alternatif yang murah, tahan lama, dan dapat diproduksi massal.^18
 
 Dalam **satu abad setelah Talas**, paper mills telah menyebar ke seluruh dunia Islam: Baghdad (793 M), Cairo (900 M), Fez (1100 M), dan Valencia (1150 M). Setiap wave ekspansi ini accompanied oleh intellectual renaissance lokal karena knowledge menjadi lebih accessible.^19
 

@@ -69,7 +69,7 @@ The Qur'an affirms the principle of religious freedom that may have been applied
 > *"There is no compulsion in religion. The right course has become clear from the wrong. ﴾256﴿"*
 > — QS. Al-Baqarah (2): 256^7
 
-## Theories of Islam's Arrival in the Archipelago
+## Theories of Islam's Arrival in the Archipelago^7
 
 The discovery of Fatimah binti Maimun's tombstone provides empirical support for various theories about Islam's arrival in the Archipelago. There are several main theories developed by scholars regarding how and when Islam first entered Indonesian territory.^6
 

@@ -9,7 +9,7 @@
 > *"Glory be to the One Who took His servant by night from the Sacred Mosque to the Farthest Mosque, whose surroundings We have blessed. ﴾1﴿"*
 > — QS. Al-Isra (17): 1
 
-Jerusalem was conquered by Muslim forces under Caliph Umar ibn al-Khattab in 637 CE through the famous peaceful treaty known as the **"Pact of Iliya"**.^1 When Umar personally visited the city, he found that the area of the Haram al-Sharif (Temple Mount) — a sacred site that had once been the location of earlier prophets' places of worship — had been neglected and used as a rubbish dump by the Byzantine rulers as a form of humiliation toward the Jewish heritage.^4
+Jerusalem was conquered by Muslim forces under Caliph Umar ibn al-Khattab in 637 CE through the famous peaceful treaty known as the **"Pact of Iliya"**.^1 When Umar personally visited the city, he found that the area of the Haram al-Sharif (Temple Mount) — a sacred site that had once been the location of earlier prophets' places of worship — had been neglected and used as a rubbish dump by the Byzantine rulers as a form of humiliation toward the Jewish heritage.^4^6
 
 Caliph Umar personally cleared the area with his own robe and established a simple prayer space (*mihrab*) facing Makkah.^2 This symbolic act demonstrated Islam's respect for the continuity of prophecy and the sanctity of a place blessed by Allah since the time of Ibrahim.^1
 
@@ -98,7 +98,7 @@ The inscriptions begin with verses affirming Allah's oneness and rejecting the c
 > *"Say: He is Allah, the One! ﴾1﴿ Allah, the Eternal, Absolute; ﴾2﴿ He begets not, nor is He begotten; ﴾3﴿ And there is none like unto Him. ﴾4﴿"*
 > — QS. Al-Ikhlas (112): 1-4
 
-**Dialogue with People of the Book**
+**Dialogue with People of the Book**^6
 
 The middle section of the inscriptions contains verses specifically addressing the People of the Book (Christians and Jews):^3
 
@@ -107,7 +107,7 @@ The middle section of the inscriptions contains verses specifically addressing t
 > *"O People of the Book! Commit no excesses in your religion: nor say of Allah aught but the truth. Christ Jesus the son of Mary was (no more than) a messenger of Allah, and His Word, which He bestowed on Mary, and a spirit proceeding from Him: so believe in Allah and His messengers. Say not 'Trinity': desist: it will be better for you. ﴾171﴿"*
 > — QS. An-Nisa (4): 171
 
-This verse conveyed the message that Islam honors Isa (*Jesus*) as a noble prophet, while rejecting his divinity.^1 This message was delivered in a gentle yet firm tone (*"desist... it will be better for you"*).^4
+This verse conveyed the message that Islam honors Isa (*Jesus*) as a noble prophet, while rejecting his divinity.^1 This message was delivered in a gentle yet firm tone (*"desist... it will be better for you"*).^4^6
 
 ### Calligraphic Technique and Aesthetics
 
@@ -203,7 +203,7 @@ The golden dome that gleams today remains a universally recognized symbol of Jer
 > *"Indeed in their stories, there is a lesson for men of understanding. It is not a narrated tale, but a confirmation of what went before it — a detailed exposition of all things, and a guide and a mercy to any such as believe. ﴾111﴿"*
 > — QS. Yusuf (12): 111
 
-This verse reminds us that the history of the Dome of the Rock's construction provides valuable lessons about how faith, vision, and dedication can create lasting heritage for human civilization.^4
+This verse reminds us that the history of the Dome of the Rock's construction provides valuable lessons about how faith, vision, and dedication can create lasting heritage for human civilization.^4^6
 
 ---
 
