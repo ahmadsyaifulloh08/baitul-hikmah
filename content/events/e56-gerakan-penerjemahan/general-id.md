@@ -153,7 +153,7 @@ Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan seg
 
 **Integrasi Tanpa Asimilasi**: Para penerjemah Muslim tidak hanya mengadopsi pengetahuan asing, tetapi mengintegrasikannya dengan worldview Islam, menciptakan sintesis yang unik. Mereka berhasil mempertahankan identitas intelektual Islam sambil mengembangkan tradisi pengetahuan universal.
 
-**Investasi Jangka Panjang dalam Pengetahuan**: Komitmen al-Ma'mun terhadap penerjemahan menunjukkan visi jangka panjang yang mengutamakan pembangunan basis pengetahuan sebagai fondasi kekuatan peradaban. Investasi besar-besaran dalam Baitul Hikmah terbukti memberikan dividend yang berlangsung berabad-abad.^4
+**Investasi Jangka Panjang dalam Pengetahuan**: Komitmen al-Ma'mun terhadap penerjemahan menunjukkan visi jangka panjang yang mengutamakan pembangunan basis pengetahuan sebagai fondasi kekuatan peradaban. Investasi besar-besaran dalam Baitul Hikmah terbukti memberikan dividend yang berlangsung berabad-abad.
 
 **Bahasa sebagai Wahana Peradaban**: Pengembangan bahasa Arab sebagai bahasa ilmiah internasional menunjukkan bahwa kemajuan peradaban memerlukan media komunikasi yang canggih dan standardized. Kekayaan terminologi yang diciptakan pada periode ini menjadi aset intelektual yang bertahan hingga kini.^3
 
@@ -163,5 +163,4 @@ Ayat ini menjadi inspirasi bagi para sarjana Muslim untuk mencari penjelasan seg
 
 1. Gutas, Dimitri, *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society*, London: Routledge, 1998.
 2. Rosenthal, Franz, *The Classical Heritage in Islam*, trans. E. and J. Marmorstein, London: Routledge, 1975.
-3. Gutas, Dimitri, *Greek Thought, Arabic Culture*, London: Routledge, 1998.
-4. Rosenthal, Franz, *The Classical Heritage of Islam*, London: Routledge, 1975.
+3. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.

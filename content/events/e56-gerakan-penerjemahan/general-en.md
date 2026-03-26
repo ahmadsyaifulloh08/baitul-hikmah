@@ -161,7 +161,6 @@ This verse inspired Muslim scholars to seek explanations for all things through 
 
 ## Bibliography
 
-
 1. Al-Qur'an al-Karim. QS. An-Nahl (16): 89.
 2. Gutas, Dimitri, *Greek Thought, Arabic Culture*, London: Routledge, 1998.
 3. Rosenthal, Franz, *The Classical Heritage of Islam*, London: Routledge, 1975.
