@@ -59,7 +59,7 @@ The Battle of the Great Zab reminds us of the natural law of politics: no power 
 > *"That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption."* ﴾83﴿
 > — QS. Al-Qasas (28): 83
 
-The Umayyad dynasty fell due to prolonged arrogance and oppression — this verse reminds that true authority belongs to those who do not seek exaltedness.^7
+This verse provides perspective that the Umayyad dynasty fell due to prolonged arrogance and oppression — reminding that true authority belongs only to those who do not seek exaltedness and corruption on earth.^7
 
 This event also teaches the importance of legitimacy and popular support in government, as well as how injustice and discrimination can become seeds of destruction for a dynasty.
 

@@ -2,9 +2,9 @@
 
 ## Context: Egypt Under the Byzantine Shadow
 
-Seventh-century Egypt was one of the Byzantine Empire's most vital provinces. The fertile Nile Valley made it the *breadbasket* of Constantinople — the capital's food supply depended heavily on Egyptian agriculture. Alexandria, its great port city, was the largest trading hub in the Mediterranean after Constantinople itself, as well as an intellectual center renowned for its library and scholarly traditions.^1 ^3
+Seventh-century Egypt was one of the Byzantine Empire's most vital provinces. The fertile Nile Valley made it the *breadbasket* of Constantinople — the capital's food supply depended heavily on Egyptian agriculture. Alexandria, its great port city, was the largest trading hub in the Mediterranean after Constantinople itself, as well as an intellectual center renowned for its library and scholarly traditions.^1 ^2
 
-Yet beneath the economic prosperity, Egypt's native population — overwhelmingly Coptic Christian — lived under oppression. Al-Baladhuri records in *Futuh al-Buldan* that the Byzantine government imposed harsh religious policies on the Copts, who followed the Monophysite doctrine — at odds with Constantinople's official Orthodoxy.^1 Patriarch Benjamin I, head of the Coptic Church, was forced into hiding for years to escape persecution. Heavy taxation compounded the people's suffering.
+Yet beneath the economic prosperity, Egypt's native population — overwhelmingly Coptic Christian — lived under oppression. Al-Baladhuri records in *Futuh al-Buldan* that the Byzantine government imposed harsh religious policies on the Copts, who followed the Monophysite doctrine — at odds with Constantinople's official Orthodoxy.^1 Al-Tabari also mentions that this unstable political and religious situation created opportunities for Islamic expansion into the region.^3 Patriarch Benjamin I, head of the Coptic Church, was forced into hiding for years to escape persecution. Heavy taxation compounded the people's suffering.
 
 Ibn Abd al-Hakam in *Futuh Misr wa Akhbaruha* — the most detailed primary source on the conquest of Egypt — describes widespread discontent among the population.^2 Many Copts viewed the Byzantine rulers not as protectors but as foreign oppressors.
 
@@ -14,7 +14,7 @@ It was here that **Amr ibn al-As** entered the stage of history. Amr was a compa
 
 ### Amr ibn al-As Takes the Initiative (639 CE)
 
-Al-Tabari and al-Baladhuri record that Amr ibn al-As proposed the conquest of Egypt to Caliph **Umar ibn al-Khattab** after the great victories in Syria.^1 ^3 Umar was initially hesitant — Egypt was a large province garrisoned by Byzantine forces, and Muslim resources were already stretched across multiple fronts.
+Al-Baladhuri and Ibn Abd al-Hakam record that Amr ibn al-As proposed the conquest of Egypt to Caliph **Umar ibn al-Khattab** after the great victories in Syria.^1 ^2 Umar was initially hesitant — Egypt was a large province garrisoned by Byzantine forces, and Muslim resources were already stretched across multiple fronts.
 
 Ibn Abd al-Hakam records a fascinating account of how Amr finally departed: Umar gave him a letter instructing that if he had already entered Egypt when the letter reached him, he could proceed; but if he had not yet crossed the border, he must turn back. Amr, suspecting the letter's contents, **deliberately opened it only after crossing into Egypt** at al-Arish.^2 He read the letter before his troops, then asked: "Brothers, are we in Egypt?" They replied: "Yes." Amr said: "Then we continue as the Commander of the Faithful has ordered."
 
@@ -26,15 +26,15 @@ Amr entered Egypt with a remarkably small force — roughly **4,000 men**.^1 ^2 
 
 The first battle took place at **Pelusium** (*al-Farama*), the border fortress in northeast Egypt. Al-Baladhuri records that the city fell after a siege of about one month.^1 Amr then advanced south to **Heliopolis** (*'Ayn Shams*), where a major engagement occurred in July 640 CE. Ibn Abd al-Hakam records that the Muslim victory at Heliopolis opened the road to the heart of Egypt.^2
 
-Umar, now convinced of the campaign's viability, dispatched reinforcements of **4,000 additional troops** under the command of al-Zubayr ibn al-Awwam — a renowned companion and legendary warrior.^1 ^3
+Umar, now convinced of the campaign's viability, dispatched reinforcements of **4,000 additional troops** under the command of al-Zubayr ibn al-Awwam — a renowned companion and legendary warrior.^1 ^2
 
 ### The Siege of the Fortress of Babylon (640-641 CE)
 
-The most decisive moment in the conquest was the **siege of the Fortress of Babylon** (*Qasr al-Sham'*) — a great Roman fortress located at what is now part of Old Cairo. Al-Tabari records that the siege lasted approximately seven months and was the most difficult military operation of the entire Egyptian campaign.^3
+The most decisive moment in the conquest was the **siege of the Fortress of Babylon** (*Qasr al-Sham'*) — a great Roman fortress located at what is now part of Old Cairo. Ibn Abd al-Hakam records that the siege lasted approximately seven months and was the most difficult military operation of the entire Egyptian campaign.^2
 
 Al-Baladhuri relates that **al-Muqawqis** (Cyrus of Alexandria), the Byzantine governor and Melkite patriarch, attempted to negotiate with Amr.^1 The negotiations were protracted — al-Muqawqis was willing to surrender, but Emperor Heraclius in Constantinople refused and ordered resistance.
 
-The Fortress of Babylon finally fell in April 641 CE after a final assault led by al-Zubayr ibn al-Awwam, who, according to Ibn Abd al-Hakam, scaled the fortress walls with a ladder and opened the gates from within.^2 ^3
+The Fortress of Babylon finally fell in April 641 CE after a final assault led by al-Zubayr ibn al-Awwam, who, according to Ibn Abd al-Hakam, scaled the fortress walls with a ladder and opened the gates from within.^2
 
 ### The Fall of Alexandria (641 CE)
 
@@ -82,7 +82,7 @@ The founding of Fustat marked the beginning of a new era for Egypt. Within a few
 
 ### A Lesson in Leadership
 
-The dynamic between Amr and Umar during the Egyptian campaign illustrates a fascinating tension between field initiative and central authority. Amr demonstrated the courage to take initiative, while Umar showed the magnanimity to support that initiative once convinced of its merit — despite his initial reservations. This is a model of leadership that recognizes the importance of delegation without relinquishing oversight.^1 ^3
+The dynamic between Amr and Umar during the Egyptian campaign illustrates a fascinating tension between field initiative and central authority. Amr demonstrated the courage to take initiative, while Umar showed the magnanimity to support that initiative once convinced of its merit — despite his initial reservations. This is a model of leadership that recognizes the importance of delegation without relinquishing oversight.^1 ^2
 
 ## Bibliography
 

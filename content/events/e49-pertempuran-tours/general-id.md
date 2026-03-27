@@ -137,11 +137,11 @@ Pertempuran Tours memberikan pelajaran abadi tentang kepemimpinan, strategy, dan
 > *"Seandainya Allah tidak menolak sebagian manusia dengan sebagian yang lain, niscaya rusaklah bumi ini. Tetapi Allah mempunyai karunia terhadap seluruh alam."* ﴾251﴿
 > — QS. Al-Baqarah (2): 251
 
-Ayat ini memberikan perspektif teologis tentang competitive dynamics antara civilizations. Tours represents example dari divine balance — neither complete Islamic domination nor total Christian isolation, tetapi **dynamic equilibrium** yang memungkinkan both civilizations untuk develop their unique contributions kepada human knowledge dan culture. Allah's wisdom dalam allowing different peoples untuk **test each other** (bada'nahum bi ba'd) pada akhirnya serves greater purpose dari civilizational advancement.^19
+Ayat ini memberikan perspektif teologis tentang dinamika kompetitif antara peradaban. Pertempuran Tours mewakili contoh dari keseimbangan ilahi — bukan dominasi Islam yang menyeluruh maupun isolasi Kristen total, tetapi **keseimbangan dinamis** yang memungkinkan kedua peradaban untuk mengembangkan kontribusi unik mereka terhadap pengetahuan dan budaya manusia. Kebijaksanaan Allah dalam mengizinkan berbagai bangsa untuk **saling menguji** (*yuballi ba'dhahum bi ba'dh*) pada akhirnya melayani tujuan yang lebih besar dari kemajuan peradaban.^19
 
-Pertempuran Tours menunjukkan bahwa dalam grand sweep of history, apparent "defeats" bisa serve larger purposes. Muslim expansion dalam Europe might have halted militarily, tetapi budaya dan intelektual influence continued untuk centuries, enriching European civilization immeasurably. Meanwhile, Christian Europe's berhasil defense enabled development dari unique contributions yang would eventually benefit entire world.^19
+Pertempuran Tours menunjukkan bahwa dalam perjalanan sejarah yang besar, "kekalahan" yang tampak bisa melayani tujuan yang lebih besar. Ekspansi Muslim di Eropa mungkin terhenti secara militer, tetapi pengaruh budaya dan intelektual berlanjut selama berabad-abad, memperkaya peradaban Eropa secara luar biasa. Sementara itu, pertahanan Eropa Kristen yang berhasil memungkinkan pengembangan kontribusi unik yang pada akhirnya menguntungkan seluruh dunia.^19
 
-This reflects divine wisdom bahwa true human progress comes not dari domination of one civilization atas others, tetapi dari **creative tension dan exchange** yang emerges ketika different peoples interact while mempertahankan their distinct identities dan capabilities.^19
+Ini mencerminkan kebijaksanaan ilahi bahwa kemajuan manusia yang sesungguhnya bukan berasal dari dominasi satu peradaban atas yang lain, tetapi dari **ketegangan kreatif dan pertukaran** yang muncul ketika berbagai bangsa berinteraksi sambil mempertahankan identitas dan kemampuan khusus mereka.^19
 
 ---
 

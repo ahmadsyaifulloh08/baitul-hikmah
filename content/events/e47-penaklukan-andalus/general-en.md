@@ -45,13 +45,13 @@ The spiritual motivation behind the conquest of Al-Andalus aligned with the spir
 > *"O you who have believed, if you support Allah, He will support you and plant firmly your feet."* ﴾7﴿
 > — QS. Muhammad (47): 7
 
-## Analysis and Lessons^4
+## Analysis and Lessons
 
 ### The Birth of Andalusian Civilization
 
-The conquest of 711 CE was not the end of a story — it was the beginning of one of the most brilliant chapters in human civilization. For nearly eight centuries (711–1492 CE), Al-Andalus became a beacon of civilization that produced extraordinary advances in science, art, architecture, and interfaith harmony.
+The conquest of 711 CE was not the end of a story — it was the beginning of one of the most brilliant chapters in human civilization. For nearly eight centuries (711–1492 CE), Al-Andalus became a beacon of civilization that produced extraordinary advances in science, art, architecture, and interfaith harmony.^2
 
-Cities like **Cordoba**, **Granada**, and **Toledo** became world centers of learning while much of Europe was still in the Dark Ages. The library of Cordoba held hundreds of thousands of manuscripts — a number exceeding all the Christian libraries of Europe combined at the time.
+Cities like **Cordoba**, **Granada**, and **Toledo** became world centers of learning while much of Europe was still in the Dark Ages. Al-Maqqari records that the library of Cordoba held hundreds of thousands of manuscripts — a number exceeding all the Christian libraries of Europe combined at the time.^2
 
 ### Courage and Preparation
 
@@ -59,7 +59,7 @@ Tariq's crossing demonstrates a combination of courage and strategic preparation
 
 ### Multicultural Integration
 
-One of the keys to the conquest's success was multicultural integration. Tariq's army consisted of Arabs and Berbers; they received support from the oppressed Jewish population and some Visigothic nobles. This shows that the Islamic conquest succeeded not solely through military might, but because it offered a fairer alternative for an oppressed society.
+One of the keys to the conquest's success was multicultural integration. Tariq's army consisted of Arabs and Berbers; they received support from the oppressed Jewish population and some Visigothic nobles. Al-Baladhuri records that the Islamic conquest succeeded not solely through military might, but because it offered a fairer alternative for an oppressed society.^1
 
 ### An Enduring Name
 

@@ -34,15 +34,17 @@ Umar ordered the abolition of the jizyah for all Muslims regardless of ethnicity
 
 Umar also carried out comprehensive administrative reforms:^1 ^2 ^3
 
-- **Ending the cursing of Ali ibn Abi Talib** — Previous Umayyad caliphs had maintained the reprehensible tradition of cursing Ali from mosque pulpits. Umar abolished this practice and replaced it with the recitation of a Quranic verse^4:
+- **Ending the cursing of Ali ibn Abi Talib** — Previous Umayyad caliphs had maintained the reprehensible tradition of cursing Ali from mosque pulpits. Umar abolished this practice and replaced it with the recitation of a Quranic verse:
 
 > إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ ﴿٩٠﴾
 >
 > *"Indeed, Allah commands justice, benevolence, and giving to relatives. ﴾90﴿"*
 > — QS. An-Nahl (16): 90
 
-- **Dismissal of corrupt officials** — Governors known for oppression were removed and replaced.^4
-- **Limiting police powers** — Umar prohibited torture and imprisonment without due legal process.
+Umar chose this verse because it emphasizes the principle of justice that formed the foundation of his reforms — in stark contrast to the hate-filled tradition of cursing.^4
+
+- **Dismissal of corrupt officials** — Governors known for oppression were removed and replaced.^1
+- **Limiting police powers** — Umar prohibited torture and imprisonment without due legal process.^2
 - **Infrastructure improvement** — Road construction, well-digging, and hospital building across various provinces.
 - **Peaceful *da'wah*** — Umar sent letters of invitation to non-Muslim rulers, calling them to Islam through diplomacy rather than force.
 

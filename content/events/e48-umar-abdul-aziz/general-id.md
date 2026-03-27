@@ -34,15 +34,17 @@ Umar memerintahkan penghapusan jizyah untuk seluruh Muslim tanpa memandang etnis
 
 Umar juga melakukan reformasi administratif yang menyeluruh:^1 ^2 ^3
 
-- **Penghentian cacian terhadap Ali ibn Abi Thalib** — Khalifah-khalifah Umayyah sebelumnya memiliki tradisi buruk mencaci Ali dari mimbar-mimbar masjid. Umar menghapuskan tradisi ini dan menggantinya dengan pembacaan ayat al-Quran^4:
+- **Penghentian cacian terhadap Ali ibn Abi Thalib** — Khalifah-khalifah Umayyah sebelumnya memiliki tradisi buruk mencaci Ali dari mimbar-mimbar masjid. Umar menghapuskan tradisi ini dan menggantinya dengan pembacaan ayat al-Quran:
 
 > إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ ﴿٩٠﴾
 >
 > *"Sesungguhnya Allah menyuruh (kamu) berlaku adil dan berbuat kebajikan, memberi bantuan kepada kerabat. ﴾90﴿"*
 > — QS. An-Nahl (16): 90
 
-- **Pemecatan pejabat korup** — Gubernur-gubernur yang dikenal zalim dipecat dan diganti.^4
-- **Pembatasan kekuasaan polisi** — Umar melarang penyiksaan dan pemenjaraan tanpa proses hukum yang jelas.
+Ayat ini dipilih Umar karena menekankan prinsip keadilan yang menjadi fondasi reformasinya — sangat kontras dengan tradisi mencaci yang penuh kebencian.^4
+
+- **Pemecatan pejabat korup** — Gubernur-gubernur yang dikenal zalim dipecat dan diganti.^1
+- **Pembatasan kekuasaan polisi** — Umar melarang penyiksaan dan pemenjaraan tanpa proses hukum yang jelas.^2
 - **Perbaikan infrastruktur** — Pembangunan jalan, penggalian sumur, dan pembangunan rumah sakit di berbagai provinsi.
 - **Dakwah damai** — Umar mengirim surat-surat dakwah kepada para raja non-Muslim, mengajak mereka memeluk Islam melalui diplomasi, bukan kekerasan.
 

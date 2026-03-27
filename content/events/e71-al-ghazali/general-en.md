@@ -125,12 +125,12 @@ In the context of modern psychology, al-Ghazali's approach in analyzing various 
 
 Al-Ghazali's death in 1111 CE in Tus marked the end of one of the most brilliant periods in Islamic intellectual history. However, his intellectual and spiritual legacy continues to live through "Ihya Ulum al-Din" and his other works. The title "Hujjat al-Islam" (Proof of Islam) given to him reflects the Muslim community's recognition of his extraordinary contribution to purifying and reviving Islamic teachings.^3
 
-Al-Ghazali succeeded in showing that Islam is a balanced religion that accommodates the needs of reason and heart, this world and the hereafter, shari'ah and *tarekat*. This legacy became the foundation for the development of moderate and inclusive Islam in various parts of the world to this day.^2.^3
+Al-Ghazali succeeded in showing that Islam is a balanced religion that accommodates the needs of reason and heart, this world and the hereafter, shari'ah and *tarekat*. This legacy became the foundation for the development of moderate and inclusive Islam in various parts of the world to this day.^2 ^3
 
 ---
 
 ## Bibliography
 
-1. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.
+1. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Cairo: Dar al-Ma'arif, 1957.
 2. Watt, W. Montgomery, *Muslim Intellectual: A Study of Al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
-3. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Kairo: Dar al-Ma'arif, 1957.
+3. Al-Ghazali, Abu Hamid, *Al-Munqidz min al-Dalal*, Beirut: Dar al-Kutub al-Ilmiyyah, 1988.

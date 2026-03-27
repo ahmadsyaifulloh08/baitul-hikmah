@@ -22,19 +22,19 @@ Ketika naik tahta, Al-Hakam II segera merealisasikan visinya untuk menjadikan Co
 
 ### Perpustakaan Al-Hakam II: Keajaiban Dunia Abad Pertengahan
 
-Proyek paling ambisius Al-Hakam II adalah pembangunan **perpustakaan istana** yang tidak hanya menjadi koleksi pribadi, tetapi juga pusat riset dan pembelajaran terbuka. Perpustakaan ini, yang terletak di kompleks istana Cordoba, berkembang menjadi salah satu perpustakaan terbesar di dunia dengan koleksi yang mencapai **400.000 jilid**—jumlah yang fantastis jika dibandingkan dengan perpustakaan-perpustakaan Eropa pada masa yang sama yang biasanya hanya memiliki ratusan buku.^6
+Proyek paling ambisius Al-Hakam II adalah pembangunan **perpustakaan istana** yang tidak hanya menjadi koleksi pribadi, tetapi juga pusat riset dan pembelajaran terbuka. Perpustakaan ini, yang terletak di kompleks istana Cordoba, berkembang menjadi salah satu perpustakaan terbesar di dunia dengan koleksi yang mencapai **400.000 jilid**—jumlah yang fantastis menurut catatan Levi-Provencal jika dibandingkan dengan perpustakaan-perpustakaan Eropa pada masa yang sama yang biasanya hanya memiliki ratusan buku.^3
 
 Untuk membangun koleksi ini, Al-Hakam II menjalankan program akuisisi yang sistematis dan agresif. Ia mengirim **agen-agen buku** (*wakil al-kutub*) ke Baghdad, Kairo, Damascus, Tunis, dan bahkan ke Konstantinopel untuk membeli atau menyalin manuskrip-manuskrip langka. Para agen ini dilengkapi dengan dana yang hampir tidak terbatas dan memiliki instruksi khusus untuk mencari karya-karya yang belum ada di Cordoba.
 
-**Sistem katalogisasi** perpustakaan menggunakan metode yang dikembangkan dari **Baitul Hikmah** Baghdad, namun dengan inovasi-inovasi lokal. Setiap manuskrip dilengkapi dengan kartu katalog yang berisi informasi bibliografis lengkap: judul, pengarang, penyalin, tahun penyalinan, jumlah halaman, dan ringkasan isi. Sistem ini memungkinkan pencarian yang efisien dalam koleksi yang sangat besar.^1
+**Sistem katalogisasi** perpustakaan menggunakan metode yang dikembangkan dari **Baitul Hikmah** Baghdad, namun dengan inovasi-inovasi lokal yang dicatat oleh Chejne. Setiap manuskrip dilengkapi dengan kartu katalog yang berisi informasi bibliografis lengkap: judul, pengarang, penyalin, tahun penyalinan, jumlah halaman, dan ringkasan isi. Sistem ini memungkinkan pencarian yang efisien dalam koleksi yang sangat besar.^1
 
-**Scriptorium Cordoba** mempekerjakan lebih dari 170 penyalin wanita (*katibat*) yang bekerja secara khusus untuk menyalin karya-karya dalam bahasa Arab. Ini merupakan fenomena yang luar biasa, mengingat tradisi penyalinan naskah biasanya didominasi oleh laki-laki. Penyalin-penyalin wanita Cordoba terkenal karena kualitas kaligrafi mereka yang sangat tinggi, khususnya dalam gaya *naskhi* dan *thuluth* yang dikembangkan secara khusus di Al-Andalus.^7
+**Scriptorium Cordoba** mempekerjakan lebih dari 170 penyalin wanita (*katibat*) yang bekerja secara khusus untuk menyalin karya-karya dalam bahasa Arab. Al-Maqqari mencatat bahwa ini merupakan fenomena yang luar biasa, mengingat tradisi penyalinan naskah biasanya didominasi oleh laki-laki. Penyalin-penyalin wanita Cordoba terkenal karena kualitas kaligrafi mereka yang sangat tinggi, khususnya dalam gaya *naskhi* dan *thuluth* yang dikembangkan secara khusus di Al-Andalus.^4
 
 ### Program Penerjemahan: Jembatan Antar Peradaban
 
 Al-Hakam II tidak hanya mengumpulkan karya-karya yang sudah ada, tetapi juga menginisiasi **program penerjemahan besar-besaran** yang menjadikan Cordoba sebagai pusat transfer pengetahuan antar-peradaban. Program ini melibatkan sarjana-sarjana dari berbagai latar belakang agama dan budaya yang bekerja sama dalam proyek-proyek intelektual.
 
-**Tim penerjemah** terdiri dari Muslim, Kristen Mozarab (Kristen yang hidup di wilayah Muslim dan mengadopsi budaya Arab), dan Yahudi Sephardim yang semuanya fasih dalam bahasa Arab, Latin, Ibrani, dan kadang-kadang Yunani. Kolaborasi lintas-agama ini menciptakan dinamika intelektual yang unik: setiap teks tidak hanya diterjemahkan, tetapi juga didiskusikan, dikomentari, dan dikritisi dari berbagai perspektif.^8
+**Tim penerjemah** terdiri dari Muslim, Kristen Mozarab (Kristen yang hidup di wilayah Muslim dan mengadopsi budaya Arab), dan Yahudi Sephardim yang semuanya fasih dalam bahasa Arab, Latin, Ibrani, dan kadang-kadang Yunani. Kolaborasi lintas-agama ini menciptakan dinamika intelektual yang unik: setiap teks tidak hanya diterjemahkan, tetapi juga didiskusikan, dikomentari, dan dikritisi dari berbagai perspektif.^7
 
 **Karya-karya Yunani klasik**—Aristoteles, Plato, Galen, Ptolemy, Euclid—diterjemahkan dari bahasa Yunani dan Syriac ke bahasa Arab, kemudian dari bahasa Arab ke bahasa Latin. Proses ganda ini seringkali menghasilkan versi Latin yang lebih akurat daripada terjemahan langsung dari bahasa Yunani, karena telah melalui proses "penyaringan" dan komentari oleh sarjana-sarjana Muslim.
 
@@ -42,7 +42,7 @@ Al-Hakam II tidak hanya mengumpulkan karya-karya yang sudah ada, tetapi juga men
 
 ### Para Sarjana Timur di Cordoba
 
-Reputasi Cordoba sebagai pusat keilmuan menarik migrasi sarjana-sarjana terbaik dari Timur. **Abu Ali al-Qali** (901-967 M), ahli bahasa Arab terkemuka dari Baghdad, menghabiskan paruh kedua hidupnya di Cordoba dan menulis *Kitab al-Amali*, karya monumental tentang sastra dan linguistik Arab yang menjadi rujukan standar selama berabad-abad.^9
+Reputasi Cordoba sebagai pusat keilmuan menarik migrasi sarjana-sarjana terbaik dari Timur. **Abu Ali al-Qali** (901-967 M), ahli bahasa Arab terkemuka dari Baghdad, menghabiskan paruh kedua hidupnya di Cordoba dan menulis *Kitab al-Amali*, karya monumental tentang sastra dan linguistik Arab yang menjadi rujukan standar selama berabad-abad.^8
 
 **Ibn Abd Rabbih** (860-940 M), meskipun lahir di Cordoba, belajar dari tradisi sastra Baghdad dan Basra untuk kemudian mengembangkan gaya sastra Andalusia yang khas. Karyanya *al-Iqd al-Farid* (Kalung yang Unik) menjadi ensiklopedia sastra Arab yang komprehensif.
 
@@ -50,7 +50,7 @@ Reputasi Cordoba sebagai pusat keilmuan menarik migrasi sarjana-sarjana terbaik 
 
 Cordoba juga melahirkan tokoh-tokoh intelektual lokal yang mencapai reputasi internasional:
 
-**Abbas ibn Firnas** (810-887 M) adalah polimat sejati yang menggabungkan riset teoretis dengan eksperimen praktis. Selain percobaan terbang yang legendaris pada 875 M—yang mendahului Leonardo da Vinci hampir 600 tahun—Ibn Firnas juga menciptakan **jam air presisi tinggi**, mengembangkan **teknik pembuatan kaca kristal** yang pertama di Iberia, dan merancang **planetarium mekanis** yang menampilkan gerakan benda-benda langit.^10
+**Abbas ibn Firnas** (810-887 M) adalah polimat sejati yang menggabungkan riset teoretis dengan eksperimen praktis. Selain percobaan terbang yang legendaris pada 875 M—yang mendahului Leonardo da Vinci hampir 600 tahun—Ibn Firnas juga menciptakan **jam air presisi tinggi**, mengembangkan **teknik pembuatan kaca kristal** yang pertama di Iberia, dan merancang **planetarium mekanis** yang menampilkan gerakan benda-benda langit.^9
 
 **Al-Zarqali** (1029-1087 M) adalah astronom yang karyanya **Tabulae Toletanae** (Tabel-tabel Toledo) menjadi rujukan astronomi standar di Eropa hingga masa Copernicus. Ia juga menciptakan **astrolabe Saphea**, instrumen astronomi revolusioner yang bisa digunakan di semua lintang geografis.
 
@@ -60,7 +60,7 @@ Cordoba juga melahirkan tokoh-tokoh intelektual lokal yang mencapai reputasi int
 
 ### Harmoni dalam Keragaman
 
-Salah satu keunikan Cordoba adalah model **convivencia** (hidup berdampingan) yang memungkinkan komunitas Muslim, Kristen, dan Yahudi tidak hanya coexist tetapi berkolaborasi secara intelektual. Model ini bukan sekadar toleransi pasif, tetapi **pluralisme aktif** yang menciptakan lingkungan intelektual yang sangat subur.^11
+Salah satu keunikan Cordoba adalah model **convivencia** (hidup berdampingan) yang memungkinkan komunitas Muslim, Kristen, dan Yahudi tidak hanya coexist tetapi berkolaborasi secara intelektual. Model ini bukan sekadar toleransi pasif, tetapi **pluralisme aktif** yang menciptakan lingkungan intelektual yang sangat subur.^10
 
 **Kristen Mozarab** mengembangkan tradisi teologi yang menggabungkan unsur-unsur dari pemikiran Islam tanpa meninggalkan identitas Kristiani mereka. **Yahudi Sephardim** mengalami kebangkitan intelektual yang luar biasa, menghasilkan filosof, penyair, dan dokter yang berkaliber internasional. **Muslim Andalusi** mengembangkan sintesis unik antara tradisi Arab, pengaruh lokal Iberia, dan dialog dengan tradisi-tradisi lain.
 
@@ -94,7 +94,7 @@ Sarjana-sarjana Cordoba mengembangkan **kimia terapan**, **optik**, dan **mekani
 
 ### Sekolah Penerjemahan Toledo
 
-Setelah Toledo ditaklukkan oleh Alfonso VI pada 1085 M, kota ini menjadi **pusat penerjemahan** utama dari bahasa Arab ke Latin. Namun, fondasi intelektual Toledo dibangun selama masa-masa ketika kota ini menjadi bagian dari orbit Cordoba. **Gerard dari Cremona** (1114-1187 M) menerjemahkan lebih dari 80 karya dari bahasa Arab ke Latin, termasuk karya-karya yang berasal dari perpustakaan Cordoba.^12
+Setelah Toledo ditaklukkan oleh Alfonso VI pada 1085 M, kota ini menjadi **pusat penerjemahan** utama dari bahasa Arab ke Latin. Namun, fondasi intelektual Toledo dibangun selama masa-masa ketika kota ini menjadi bagian dari orbit Cordoba. **Gerard dari Cremona** (1114-1187 M) menerjemahkan lebih dari 80 karya dari bahasa Arab ke Latin, termasuk karya-karya yang berasal dari perpustakaan Cordoba.^11
 
 ### Pengaruh pada Universitas-Universitas Eropa
 
@@ -145,7 +145,7 @@ Program penerjemahan Cordoba membuktikan bahwa **terjemahan** adalah salah satu 
 > *"Katakanlah: 'Hai Ahli Kitab, marilah (berpegang) kepada suatu kalimat (ketetapan) yang tidak ada perselisihan antara kami dan kamu, bahwa tidak kita sembah kecuali Allah dan tidak kita persekutukan Dia dengan sesuatu pun dan tidak (pula) sebagian kita menjadikan sebagian yang lain sebagai Tuhan selain Allah.'"* ﴾64﴿
 > — QS. Ali Imran (3): 64
 
-Ayat ini sering dikutip oleh sarjana-sarjana Cordoba sebagai landasan filosofis bagi dialog antarperadaban. Spirit *convivencia* yang dikembangkan di Cordoba mencerminkan pemahaman bahwa kemanusiaan bersatu dalam pencarian kebenaran, meskipun melalui jalan-jalan yang berbeda.^13
+Ayat ini sering dikutip oleh sarjana-sarjana Cordoba sebagai landasan filosofis bagi dialog antarperadaban. Spirit *convivencia* yang dikembangkan di Cordoba mencerminkan pemahaman bahwa kemanusiaan bersatu dalam pencarian kebenaran, meskipun melalui jalan-jalan yang berbeda.^12
 
 ## Daftar Pustaka
 
@@ -155,10 +155,9 @@ Ayat ini sering dikutip oleh sarjana-sarjana Cordoba sebagai landasan filosofis 
 4. Al-Maqqari, Ahmad ibn Muhammad. *Nafh al-Tib min Ghusn al-Andalus al-Ratib*. 8 volumes. Beirut: Dar Sadir, 1968.
 5. Burnett, Charles. *The Introduction of Arabic Learning into England*. London: British Library, 1997.
 6. Lindberg, David C. *The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context, 600 B.C. to A.D. 1450*. Chicago: University of Chicago Press, 2007.
-7. Menocal, Maria Rosa. *The Ornament of the World: How Muslims, Jews, and Christians Created a Culture of Tolerance in Medieval Spain*. Boston: Little, Brown and Company, 2002.
-8. Urvoy, Dominique. *Averroes: Les Ambitions d'un Intellectuel Musulman*. Paris: Flammarion, 1998.
-9. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
-10. Lynn White Jr. *Medieval Religion and Technology: Collected Essays*. Berkeley: University of California Press, 1978.
-11. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
-12. Haskins, Charles Homer. *The Renaissance of the Twelfth Century*. Cambridge, MA: Harvard University Press, 1927.
-13. Al-Qur'an al-Karim. QS. Ali Imran (3): 64.
+7. Urvoy, Dominique. *Averroes: Les Ambitions d'un Intellectuel Musulman*. Paris: Flammarion, 1998.
+8. Makdisi, George. *The Rise of Colleges: Institutions of Learning in Islam and the West*. Edinburgh: Edinburgh University Press, 1981.
+9. Lynn White Jr. *Medieval Religion and Technology: Collected Essays*. Berkeley: University of California Press, 1978.
+10. Bulliet, Richard W. *Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History*. New York: Columbia University Press, 2009.
+11. Haskins, Charles Homer. *The Renaissance of the Twelfth Century*. Cambridge, MA: Harvard University Press, 1927.
+12. Al-Qur'an al-Karim. QS. Ali Imran (3): 64.

@@ -83,15 +83,15 @@ Pembakaran manuskrip Granada, ditambah dengan penghancuran warisan intelektual s
 
 ### 3. Ironi Sejarah
 
-Pada tahun yang sama dengan jatuhnya Granada — 1492 — Columbus (yang didanai oleh Ferdinand dan Isabella) berlayar ke Amerika. Kekayaan dari Dunia Baru kemudian mendanai hegemoni Spanyol di Eropa. Ada ironi mendalam: kekayaan intelektual Islam yang diserap Eropa selama berabad-abad (melalui penerjemahan di Toledo dan Cordoba) turut memungkinkan kemajuan navigasi dan sains yang membawa Columbus ke Amerika.
+Pada tahun yang sama dengan jatuhnya Granada — 1492 — Columbus (yang didanai oleh Ferdinand dan Isabella) berlayar ke Amerika. Kekayaan dari Dunia Baru kemudian mendanai hegemoni Spanyol di Eropa. Ada ironi mendalam: kekayaan intelektual Islam yang diserap Eropa selama berabad-abad (melalui penerjemahan di Toledo dan Cordoba) turut memungkinkan kemajuan navigasi dan sains yang membawa Columbus ke Amerika.^3
 
 ### 4. Diaspora dan Transmisi Ilmu
 
-Pengusiran Muslim (dan Yahudi, melalui Dekret Alhambra 1492) dari Spanyol menyebarkan ilmu dan kebudayaan Al-Andalus ke Afrika Utara, Kekaisaran Utsmaniyah, dan wilayah-wilayah lainnya — menciptakan diaspora intelektual yang memperkaya peradaban Islam di tempat lain.
+Pengusiran Muslim (dan Yahudi, melalui Dekret Alhambra 1492) dari Spanyol menyebarkan ilmu dan kebudayaan Al-Andalus ke Afrika Utara, Kekaisaran Utsmaniyah, dan wilayah-wilayah lainnya — menciptakan diaspora intelektual yang memperkaya peradaban Islam di tempat lain.^2
 
 ## Warisan Al-Andalus yang Bertahan
 
-Meskipun kehadiran politik Islam di Iberia berakhir, warisannya tetap hidup:
+Meskipun kehadiran politik Islam di Iberia berakhir, warisannya tetap hidup:.^1
 - **Istana Alhambra** — salah satu karya arsitektur paling indah di dunia
 - **Ribuan kata** dalam bahasa Spanyol berasal dari bahasa Arab (almohada, aceite, azulejo, algebra, algoritmo.)
 - **Tradisi musik flamenco** — yang memiliki akar kuat dalam musik Arab-Andalusia
@@ -99,4 +99,6 @@ Meskipun kehadiran politik Islam di Iberia berakhir, warisannya tetap hidup:
 
 ## Daftar Pustaka
 
-
+1. Harvey, L.P., *Islamic Spain, 1250 to 1500*, Chicago: University of Chicago Press, 1990.
+2. Watt, W. Montgomery, *A History of Islamic Spain*, Edinburgh: Edinburgh University Press, 1965.
+3. Fernandez-Armesto, Felipe, *Granada: The Fall of Muslim Spain*, London: Profile Books, 2004.

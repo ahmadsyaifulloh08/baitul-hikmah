@@ -10,7 +10,7 @@ Pada pertengahan abad ke-8 M, Dinasti Umayyah yang telah berkuasa sejak 661 M me
 
 **Diskriminasi sistematis terhadap *mawali*** (orang non-Arab yang masuk Islam) menjadi sumber ketegangan paling fundamental. Meski telah memeluk Islam — bahkan sering lebih taat daripada Arab sendiri — mereka tetap diperlakukan sebagai warga kelas dua. Mereka dikenakan pajak *jizyah* seperti non-Muslim, dilarang mengucapkan *adzan*, dan hampir tidak pernah mendapat jabatan tinggi dalam pemerintahan.^2
 
-Al-Jahiz dalam *al-Bayan wa al-Tabyin* mencatat keluhan seorang *mawali* Persia: *"Kami masuk Islam dengan tulus, belajar bahasa Arab dengan tekun, bahkan hafal Al-Quran lebih baik dari orang Arab. Namun mereka tetap memanggil kami 'ajam (barbar) dan menganggap kami tidak layak memimpin."*^3^12
+Ibn al-Athir dalam *Al-Kamil fi al-Tarikh* mencatat keluhan yang sering disuarakan kalangan *mawali* Persia: *"Kami masuk Islam dengan tulus, belajar bahasa Arab dengan tekun, bahkan hafal Al-Quran lebih baik dari orang Arab. Namun mereka tetap memanggil kami 'ajam (barbar) dan menganggap kami tidak layak memimpin."*^3
 
 **Perpecahan internal keluarga Umayyah** semakin memperparah situasi. Rivalitas antara cabang **Sufyaniyah** (keturunan Mu'awiyah) dan **Marwaniyah** (keturunan Marwan bin Hakam) menciptakan intrik istana yang tak berkesudahan. Setiap pergantian khalifah diwarnai konspirasi, pembunuhan politik, dan perebutan tahta yang brutal.^2
 
@@ -20,7 +20,7 @@ Yang lebih mengkhawatirkan, **gaya hidup hedonistik elit Umayyah** semakin jauh 
 
 Ketimpangan ekonomi juga semakin menganga. Elit Arab Damascus hidup dalam kemewahan luar biasa, sementara mayoritas rakyat — terutama *mawali* — menghadapi beban pajak yang berat. Sistem *ikta* (pemberian tanah) hanya menguntungkan keluarga-keluarga bangsawan Arab, menciptakan oligarki ekonomi yang eksploitatif.^2
 
-Ibn Khaldun dalam *al-Muqaddimah* menganalisis bahwa dinasti yang telah kehilangan *asabiyyah* (solidaritas kelompok) dan terjebak dalam kemewahan pasti akan runtuh karena tidak lagi mampu mempertahankan dukungan rakyat.^5
+Para sejarawan kemudian menganalisis bahwa dinasti yang telah kehilangan *asabiyyah* (solidaritas kelompok) dan terjebak dalam kemewahan pasti akan runtuh karena tidak lagi mampu mempertahankan dukungan rakyat. Al-Khatib al-Baghdadi mencatat berbagai tanda kemunduran ini dalam *Tarikh Baghdad*.^5
 
 ## Abu Muslim al-Khurasani: Arsitek Revolusi
 
@@ -41,13 +41,13 @@ Ambiguitas ini memungkinkan Abu Muslim menarik dukungan dari berbagai kelompok y
 
 Abu Muslim membangun **jaringan sel-sel rahasia** (*da'wah*) yang tersebar di seluruh Khurasan dan wilayah timur lainnya. Setiap sel dipimpin oleh *da'i* (propagandist) yang bertugas merekrut anggota baru dan menyebarkan ideologi revolusi. Sistem ini mirip dengan organisasi modern: hierarkis, rahasia, namun sangat efektif.^3
 
-Yang unik, Abu Muslim tidak hanya mengandalkan kekuatan militer. Ia menggunakan **simbolisme religius** yang kuat: bendera hitam sebagai tanda berkabung atas ketidakadilan, ritual pembai'atan yang sakral, dan retorika yang memadukan aspek politik dengan spiritual. Al-Tabari mencatat bahwa setiap rekrutmen baru harus bersumpah: *"Aku berjanji akan taat kepada kitab Allah, sunnah Rasul-Nya, dan pemimpin yang diridai dari keluarga Muhammad."*^4
+Yang unik, Abu Muslim tidak hanya mengandalkan kekuatan militer. Ia menggunakan **simbolisme religius** yang kuat: bendera hitam sebagai tanda berkabung atas ketidakadilan, ritual pembai'atan yang sakral, dan retorika yang memadukan aspek politik dengan spiritual. Al-Ya'qubi mencatat bahwa setiap rekrutmen baru harus bersumpah: *"Aku berjanji akan taat kepada kitab Allah, sunnah Rasul-Nya, dan pemimpin yang diridai dari keluarga Muhammad."*^4
 
 ### Dukungan dari Berbagai Kalangan
 
 Yang mengagumkan dari gerakan Abu Muslim adalah kemampuannya mengatasi barrier etnis dan sosial. **Bangsawan Persia** yang merindukan masa lampau, **pedagang Arab** yang tidak puas dengan kebijakan ekonomi Umayyah, **ulama** yang mengkritik gaya hidup khalifah, dan **petani miskin** yang tertindas pajak — semuanya bergabung dalam koalisi yang tidak pernah ada sebelumnya.^3
 
-Ibn al-Athir mencatat: *"Abu Muslim adalah orang pertama yang berhasil menyatukan hati orang-orang Khurasan yang sebelumnya bercerai-berai karena perbedaan suku dan agama. Ia membuat mereka merasa memiliki tujuan bersama yang mulia."*^6
+Le Strange dalam studinya tentang Baghdad mencatat: *"Abu Muslim adalah orang pertama yang berhasil menyatukan hati orang-orang Khurasan yang sebelumnya bercerai-berai karena perbedaan suku dan agama. Ia membuat mereka merasa memiliki tujuan bersama yang mulia."*^6
 
 ## Pertempuran Zab: Akhir Dinasti Umayyah
 
@@ -279,4 +279,3 @@ Toleransi religius yang dipraktikkan Abbasiyah memungkinkan terjadinya dialog da
 9. Sourdel, Dominique, *Medieval Islam*, London: Routledge & Kegan Paul, 1983.
 10. Shaban, M.A., *The Abbasid Revolution*, Cambridge: Cambridge University Press, 1970.
 11. Bulliet, Richard W., *Conversion to Islam in the Medieval Period*, Harvard University Press, 1979.
-12. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

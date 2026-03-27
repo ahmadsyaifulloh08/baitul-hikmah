@@ -14,7 +14,7 @@ Di tengah kondisi tersebut, muncul seorang tokoh besar yang mampu menjembatani b
 
 Al-Ghazali memulai pendidikannya di kampung halamannya, kemudian melanjutkan ke Jurjan untuk belajar fiqh. Di Jurjan, ia belajar dari Abu Nasr al-Ismaili dan mulai menunjukkan kecemerlangan intelektualnya yang luar biasa. Kemampuannya menghafal dan memahami pelajaran dengan cepat membuat para gurunya takjub.^1
 
-Pencapaian akademis yang paling signifikan diperolehnya ketika belajar di bawah bimbingan **Imam al-Haramain al-Juwayni** di Madrasah Nizamiyyah Nishapur. Al-Juwayni, yang dijuluki "Imam al-Haramain" karena pernah mengajar di Makkah dan Madinah, adalah ulama besar ahli teologi Ash'ari dan fiqh Shafi'i. Di bawah bimbingannya, al-Ghazali menguasai tidak hanya fiqh dan ushul fiqh, tetapi juga kalam, mantiq (logika), dan filsafat.^2
+Pencapaian akademis yang paling signifikan diperolehnya ketika belajar di bawah bimbingan **Imam al-Haramain al-Juwayni** di Madrasah Nizamiyyah Nishapur. Al-Subki mencatat bahwa al-Juwayni, yang dijuluki "Imam al-Haramain" karena pernah mengajar di Makkah dan Madinah, adalah ulama besar ahli teologi Ash'ari dan fiqh Shafi'i. Di bawah bimbingannya, al-Ghazali menguasai tidak hanya fiqh dan ushul fiqh, tetapi juga kalam, mantiq (logika), dan filsafat.^4
 
 Kecemerlangan intelektual al-Ghazali segera dikenali. Pada usia yang masih muda, ia telah menguasai berbagai disiplin ilmu secara mendalam. Al-Juwayni bahkan menyebutnya sebagai "bahrun mughriqun" (lautan yang menenggelamkan), menandakan kedalaman ilmunya. Kemampuannya dalam berdebat dan menyajikan argumen yang kuat membuatnya dikenal sebagai salah satu ulama paling brilian pada masanya.^3
 
@@ -22,7 +22,7 @@ Pada tahun 1091 M, setelah wafatnya al-Juwayni, al-Ghazali diangkat oleh Wazir N
 
 ## Krisis Spiritual di Nizamiyyah Baghdad
 
-Meskipun mencapai puncak kesuksesan akademis dan menikmati status sosial yang tinggi, al-Ghazali mulai mengalami krisis spiritual yang mendalam. Dalam autobiografinya "al-Munqidz min al-Dalal" (Penyelamat dari Kesesatan), ia menggambarkan bagaimana keraguan mulai merasuk dalam dirinya tentang hakikat kebenaran dan makna hidup yang sesungguhnya.^1
+Meskipun mencapai puncak kesuksesan akademis dan menikmati status sosial yang tinggi, al-Ghazali mulai mengalami krisis spiritual yang mendalam. Dalam autobiografinya "al-Munqidz min al-Dalal" (Penyelamat dari Kesesatan), ia menggambarkan bagaimana keraguan mulai merasuk dalam dirinya tentang hakikat kebenaran dan makna hidup yang sesungguhnya.^3
 
 Al-Ghazali mulai mempertanyakan berbagai sistem pengetahuan yang telah dikuasainya. Ia mempelajari dan mengkritik empat kelompok pencari kebenaran: para mutakallimin (teolog), para filosof, para pengikut ta'lim (kelompok Isma'iliyah), dan para sufi. Melalui penelitian mendalam, ia menemukan kelemahan dalam setiap metode pencarian kebenaran tersebut.^2
 
@@ -67,7 +67,7 @@ Salah satu keunggulan "Ihya Ulum al-Din" terletak pada metodologi inovatif yang 
 
 Al-Ghazali memulai setiap pembahasan dengan dalil-dalil dari Al-Qur'an dan hadits sahih, kemudian menjelaskan pendapat para ulama dari berbagai mazhab, dan diakhiri dengan dimensi spiritual dan psikologis. Metode ini mencerminkan penguasaannya terhadap berbagai disiplin ilmu serta kemampuannya menyintesis pemikiran yang berbeda-beda.
 
-Dalam kitab tentang shalat misalnya, al-Ghazali tidak hanya menjelaskan tata cara shalat menurut mazhab Shafi'i, tetapi juga makna spiritual dari setiap gerakan dan bacaan. Ia menjelaskan bagaimana takbiratul ihram melambangkan pemutusan hubungan dengan dunia fana, bagaimana ruku' dan sujud merupakan manifestasi kehinaan di hadapan Allah, dan bagaimana khusyuk dapat dicapai melalui kehadiran hati yang sempurna.^1
+Dalam kitab tentang shalat misalnya, al-Ghazali tidak hanya menjelaskan tata cara shalat menurut mazhab Shafi'i, tetapi juga makna spiritual dari setiap gerakan dan bacaan. Nakamura menganalisis bagaimana ia menjelaskan takbiratul ihram melambangkan pemutusan hubungan dengan dunia fana, bagaimana ruku' dan sujud merupakan manifestasi kehinaan di hadapan Allah, dan bagaimana khusyuk dapat dicapai melalui kehadiran hati yang sempurna.^5
 
 Contoh lain adalah pembahasannya tentang zakat. Al-Ghazali tidak hanya menjelaskan nisab dan kadar zakat menurut fiqh, tetapi juga menggali makna spiritual zakat sebagai pembersihan jiwa dari sifat bakhil dan cinta dunia. Ia menjelaskan bagaimana zakat dapat menjadi sarana pendakian spiritual jika disertai niat yang tulus dan kesadaran akan nikmat Allah.^2
 
@@ -125,12 +125,14 @@ Dalam konteks psikologi modern, pendekatan al-Ghazali dalam menganalisis berbaga
 
 Wafatnya al-Ghazali pada tahun 1111 M di Thus menandai berakhirnya salah satu periode paling cemerlang dalam sejarah pemikiran Islam. Namun, warisan intelektual dan spiritualnya terus hidup melalui "Ihya Ulum al-Din" dan karya-karyanya yang lain. Gelar "Hujjat al-Islam" (Dalil Islam) yang diberikan kepadanya mencerminkan pengakuan umat Islam terhadap kontribusinya yang luar biasa dalam memurnikan dan menghidupkan kembali ajaran Islam.^3
 
-Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang mengakomodasi kebutuhan akal dan hati, dunia dan akhirat, syariah dan tarekat. Warisan ini menjadi fondasi bagi perkembangan Islam yang moderat dan inklusif di berbagai belahan dunia hingga hari ini.^2.^3
+Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang mengakomodasi kebutuhan akal dan hati, dunia dan akhirat, syariah dan tarekat. Warisan ini menjadi fondasi bagi perkembangan Islam yang moderat dan inklusif di berbagai belahan dunia hingga hari ini.^2 ^3
 
 ---
 
 ## Daftar Pustaka
 
-1. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.
+1. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Kairo: Dar al-Ma'arif, 1957.
 2. Watt, W. Montgomery, *Muslim Intellectual: A Study of Al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
-3. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Kairo: Dar al-Ma'arif, 1957.
+3. Al-Ghazali, Abu Hamid, *Al-Munqidz min al-Dalal*, Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
+4. Al-Subki, Taj al-Din, *Tabaqat al-Shafi'iyyah al-Kubra*, Kairo: Maktabah Isa al-Babi al-Halabi, 1964.
+5. Nakamura, Kojiro, *Ghazali and Prayer in the Ihya*, Kuala Lumpur: Islamic Book Trust, 2008.

@@ -76,15 +76,15 @@ The burning of Granada's manuscripts, combined with earlier destruction of intel
 
 ### 3. Historical Irony
 
-In the same year as Granada's fall — 1492 — Columbus (funded by Ferdinand and Isabella) sailed to America. New World wealth then funded Spanish hegemony in Europe. There is profound irony: the Islamic intellectual wealth absorbed by Europe over centuries (through translations in Toledo and Cordoba) helped enable the advances in navigation and science that brought Columbus to the Americas.
+In the same year as Granada's fall — 1492 — Columbus (funded by Ferdinand and Isabella) sailed to America. New World wealth then funded Spanish hegemony in Europe. There is profound irony: the Islamic intellectual wealth absorbed by Europe over centuries (through translations in Toledo and Cordoba) helped enable the advances in navigation and science that brought Columbus to the Americas.^3
 
 ### 4. Diaspora and Knowledge Transmission
 
-The expulsion of Muslims (and Jews, through the 1492 Alhambra Decree) from Spain spread Al-Andalusian knowledge and culture to North Africa, the Ottoman Empire, and other regions — creating an intellectual diaspora that enriched Islamic civilization elsewhere.
+The expulsion of Muslims (and Jews, through the 1492 Alhambra Decree) from Spain spread Al-Andalusian knowledge and culture to North Africa, the Ottoman Empire, and other regions — creating an intellectual diaspora that enriched Islamic civilization elsewhere.^2
 
 ## The Enduring Legacy of Al-Andalus
 
-Though Islam's political presence in Iberia ended, its legacy lives on:
+Though Islam's political presence in Iberia ended, its legacy lives on:.^1
 - **The Alhambra Palace** — one of the world's most beautiful architectural works
 - **Thousands of Spanish words** derived from Arabic (almohada, aceite, azulejo, algebra, algoritmo...)
 - **Flamenco music tradition** — with strong roots in Arab-Andalusian music
@@ -92,12 +92,6 @@ Though Islam's political presence in Iberia ended, its legacy lives on:
 
 ## Bibliography
 
-- Ibn al-Khatib, *al-Ihata fi Akhbar Gharnata* (history of Granada)
-- Al-Maqqari, *Nafh al-Tib min Ghusn al-Andalus al-Ratib* (comprehensive history of Al-Andalus)
-- Hernando del Pulgar, *Crónica de los Reyes Católicos* (Christian chronicle)
-
-- Maria Rosa Menocal, *The Ornament of the World* (Little, Brown & Co., 2002)
-- L.P. Harvey, *Islamic Spain, 1250-1500* (University of Chicago Press, 1990)
-- Richard Fletcher, *Moorish Spain* (University of California Press, 2006)
-
-> **Methodological Note**: Arabic and European sources cross-referenced. The legend of "Boabdil's tears" noted as historically unverifiable tradition. Figures (population, manuscripts) are estimates based on ranges in academic literature. Wallahu a'lam.
+1. Harvey, L.P., *Islamic Spain, 1250 to 1500*, Chicago: University of Chicago Press, 1990.
+2. Watt, W. Montgomery, *A History of Islamic Spain*, Edinburgh: Edinburgh University Press, 1965.
+3. Fernandez-Armesto, Felipe, *Granada: The Fall of Muslim Spain*, London: Profile Books, 2004.

@@ -6,14 +6,14 @@ In the mid-sixth century CE, the Arabian Peninsula stood at the crossroads of ci
 
 Politically, Arabia existed in the shadow of two superpowers: the Eastern Roman Empire (Byzantium) to the northwest and the Sassanid Empire (Persia) to the northeast. Both empires maintained Arab buffer states along their borders — the Ghassanid Kingdom as a vassal of Byzantium, and the Lakhmid Kingdom as a tributary state of Persia.^1 Yemen in the south, once home to the advanced civilizations of Saba' (Sheba) and Himyar, had fallen under the control of the Aksumite Kingdom (Abyssinia/Ethiopia) following a series of internal power struggles.^2
 
-Economically, Makkah occupied a position of strategic importance. The city lay on the major trade route connecting Yemen in the south — gateway to spices from India and East Africa — with al-Sham (Syria and Palestine) in the north. The Quraysh tribe, masters of Makkah, were accomplished merchants who organized two great trade caravans each year: the *rihlat al-shita'* to Yemen and the *rihlat al-sayf* to al-Sham, as immortalized in Surah Quraysh (106:1-4):
+Economically, Makkah occupied a position of strategic importance. The city lay on the major trade route connecting Yemen in the south — gateway to spices from India and East Africa — with al-Sham (Syria and Palestine) in the north. The Quraysh tribe, masters of Makkah, were accomplished merchants who organized two great trade caravans each year: the *rihlat al-shita'* to Yemen and the *rihlat al-sayf* to al-Sham, as immortalized in Surah Quraysh (106:1-4):^6
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
 > *"For the accustomed security of the Quraysh ﴾1﴿ — their accustomed security in the caravan of winter and summer. ﴾2﴿ Let them worship the Lord of this House, ﴾3﴿ who has fed them against hunger and made them safe from fear. ﴾4﴿"*
 > — QS. Quraysh (106): 1-4
 
-Yet Makkah was far more than a commercial hub — it was the spiritual epicenter of the entire Arabian Peninsula. At its heart stood the Ka'bah, a cube-shaped structure that, according to Islamic tradition, was first built by Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael), peace be upon them. Although by this time the Ka'bah was surrounded by 360 idols (*ashnam*), its sanctity was universally recognized across all Arab tribes. Every year, people from across the peninsula gathered for pilgrimage, and during the sacred months (*al-ashhur al-hurum*), all warfare ceased. This made the Ka'bah — and whoever controlled it — a source of immense political and economic influence.^6
+Yet Makkah was far more than a commercial hub — it was the spiritual epicenter of the entire Arabian Peninsula. At its heart stood the Ka'bah, a cube-shaped structure that, according to Islamic tradition, was first built by Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael), peace be upon them. Although by this time the Ka'bah was surrounded by 360 idols (*ashnam*), its sanctity was universally recognized across all Arab tribes. Every year, people from across the peninsula gathered for pilgrimage, and during the sacred months (*al-ashhur al-hurum*), all warfare ceased. This made the Ka'bah — and whoever controlled it — a source of immense political and economic influence.^1
 
 ## Abraha and the Burning Ambition
 
@@ -57,7 +57,7 @@ Then came flocks of birds — *ababil* — from the direction of the sea, each c
 > *"Have you not seen how your Lord dealt with the People of the Elephant? ﴾1﴿ Did He not make their plot go astray? ﴾2﴿ And He sent against them birds in flocks, ﴾3﴿ striking them with stones of baked clay, ﴾4﴿ and He made them like eaten straw. ﴾5﴿"*
 > — QS. Al-Fil (105): 1-5
 
-Abraha himself was struck by these stones. His body decomposed piece by piece on the journey home, and he died in Sana'a in a wretched state — his flesh falling away until his bones and heart were exposed. Ibn Hisham records these details vividly in his *Sirah Nabawiyyah*. ^6
+Abraha himself was struck by these stones. His body decomposed piece by piece on the journey home, and he died in Sana'a in a wretched state — his flesh falling away until his bones and heart were exposed. Ibn Hisham records these details vividly in his *Sirah Nabawiyyah*.^1
 
 ## The Historiographical Debate: When Exactly?
 
@@ -71,7 +71,7 @@ What remains undisputed, however, is its **significance**: the incident of the e
 
 In the same year as the destruction of the elephant army — or according to some accounts, fifty days later — a child was born in Makkah who would transform the course of human civilization.^2
 
-**Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim ibn Abd Manaf** was born on a Monday, on the 12th of Rabi' al-Awwal according to the most widely accepted opinion, although some scholars cite the 8th, 9th, or 10th of Rabi' al-Awwal.^2 ^5 Ibn Sa'd in his *Tabaqat al-Kubra* and al-Mubarakfuri in *al-Rahiq al-Makhtum* affirm the Monday birth based on an authentic hadith in *Sahih Muslim*, where the Prophet ﷺ was asked about fasting on Mondays and replied:^4
+**Muhammad ibn Abdullah ibn Abd al-Muttalib ibn Hashim ibn Abd Manaf** was born on a Monday, on the 12th of Rabi' al-Awwal according to the most widely accepted opinion, although some scholars cite the 8th, 9th, or 10th of Rabi' al-Awwal.^2 ^5 Ibn Sa'd in his *Tabaqat al-Kubra* and al-Mubarakfuri in *al-Rahiq al-Makhtum* affirm the Monday birth based on an authentic hadith in *Sahih Muslim*, where the Prophet ﷺ was asked about fasting on Mondays and replied:^4 ^5
 
 > *"That is the day on which I was born, and the day on which I was commissioned (as a Prophet)."*
 > — Sahih Muslim, no. 1162, Kitab al-Siyam^4

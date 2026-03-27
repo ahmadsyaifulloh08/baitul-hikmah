@@ -2,17 +2,17 @@
 
 ## Latar Belakang: Masa Kecil di Khwarazm dan Pembentukan Intelektual
 
-**Abu Rayhan Muhammad ibn Ahmad al-Biruni** lahir pada tanggal 5 Dzulhijjah 362 H/4 September 973 M di sebuah pinggiran kota (*birun*) Kath, ibukota Khwarazm (kini Uzbekistan).^1 Nama "Al-Biruni" sendiri berasal dari kata Persia "birun" yang berarti "luar" atau "pinggiran," menunjukkan tempat kelahirannya yang berada di luar pusat kota. Namun, posisi geografis yang "pinggiran" ini justru memberikan keuntungan unik bagi pembentukan intelektualnya.
+**Abu Rayhan Muhammad ibn Ahmad al-Biruni** lahir sekitar tahun 973 M di sebuah pinggiran kota (*birun*) Kath, ibukota Khwarazm (kini Uzbekistan).^6 Nama "Al-Biruni" sendiri berasal dari kata Persia "birun" yang berarti "luar" atau "pinggiran," menunjukkan tempat kelahirannya yang berada di luar pusat kota. Namun, posisi geografis yang "pinggiran" ini justru memberikan keuntungan unik bagi pembentukan intelektualnya.
 
-Khwarazm pada masa itu merupakan pusat peradaban dan pembelajaran yang berkembang pesat di bawah Dinasti Ma'muniyah.^2 Wilayah ini menjadi persimpangan budaya antara dunia Islam, Persia, Asia Tengah, dan India, menciptakan lingkungan intelektual yang kaya dan beragam. **Khwarazm Shah Ma'mun II** (967-997 M) adalah seorang patron besar ilmu pengetahuan yang menarik sarjana-sarjana terbaik dari berbagai penjuru dunia Islam ke istananya.
+Khwarazm pada masa itu merupakan pusat peradaban dan pembelajaran yang berkembang pesat di bawah Dinasti Ma'muniyah.^5 ^7 Wilayah ini menjadi persimpangan budaya antara dunia Islam, Persia, Asia Tengah, dan India, menciptakan lingkungan intelektual yang kaya dan beragam. **Khwarazm Shah Ma'mun II** (967-997 M) adalah seorang patron besar ilmu pengetahuan yang menarik sarjana-sarjana terbaik dari berbagai penjuru dunia Islam ke istananya.
 
-Dalam atmosfer kosmopolitan inilah Al-Biruni tumbuh dan mengembangkan rasa ingin tahunya yang tak terbatas. Ayahnya, **Ahmad ibn al-Biruni**, adalah seorang pedagang yang sering melakukan perjalanan ke berbagai wilayah, memberikan Al-Biruni muda paparan awal terhadap keberagaman budaya dan tradisi keilmuan.^2 Ibu Al-Biruni berasal dari keluarga terpelajar yang memiliki perpustakaan pribadi yang cukup luas untuk ukuran masa itu.
+Dalam atmosfer kosmopolitan inilah Al-Biruni tumbuh dan mengembangkan rasa ingin tahunya yang tak terbatas. Ayahnya, **Ahmad ibn al-Biruni**, adalah seorang pedagang yang sering melakukan perjalanan ke berbagai wilayah, memberikan Al-Biruni muda paparan awal terhadap keberagaman budaya dan tradisi keilmuan.^6 Ibu Al-Biruni berasal dari keluarga terpelajar yang memiliki perpustakaan pribadi yang cukup luas untuk ukuran masa itu.
 
-Sejak kecil, Al-Biruni menunjukkan kemampuan intelektual yang luar biasa dan minat mendalam terhadap ilmu pengetahuan.^3 Dia belajar bahasa Arab, Persia, Khwarezmian (bahasa lokal), Sanskrit, Yunani, Hebrew, dan Suryani, menguasai berbagai tradisi keilmuan yang berbeda. Kemampuan linguistiknya yang menakjubkan ini kemudian menjadi kunci kesuksesannya sebagai seorang polymath yang mampu mengakses dan membandingkan berbagai sumber pengetahuan.
+Sejak kecil, Al-Biruni menunjukkan kemampuan intelektual yang luar biasa dan minat mendalam terhadap ilmu pengetahuan.^6 Dia belajar bahasa Arab, Persia, Khwarezmian (bahasa lokal), Sanskrit, Yunani, Hebrew, dan Suryani, menguasai berbagai tradisi keilmuan yang berbeda. Kemampuan linguistiknya yang menakjubkan ini kemudian menjadi kunci kesuksesannya sebagai seorang polymath yang mampu mengakses dan membandingkan berbagai sumber pengetahuan.
 
 ### Guru-Guru dan Pengaruh Intelektual Awal
 
-Guru pertama Al-Biruni adalah **Abu Nasr Mansur ibn Iraq** (960-1036 M), seorang matematikawan dan astronomer terkemuka dari dinasti Banu Iraq yang memerintah sebagian Khwarazm.^3 Mansur ibn Iraq tidak hanya mengajarkan matematika dan astronomi kepada Al-Biruni, tetapi juga menanamkan pendekatan ilmiah yang rigorous dan apresiasi terhadap ketepatan dalam pengukuran.
+Guru pertama Al-Biruni adalah **Abu Nasr Mansur ibn Iraq** (960-1036 M), seorang matematikawan dan astronomer terkemuka dari dinasti Banu Iraq yang memerintah sebagian Khwarazm.^4 ^8 Mansur ibn Iraq tidak hanya mengajarkan matematika dan astronomi kepada Al-Biruni, tetapi juga menanamkan pendekatan ilmiah yang rigorous dan apresiasi terhadap ketepatan dalam pengukuran.
 
 Al-Biruni juga belajar dari **Abu al-Wafa al-Buzjani** (940-998 M), matematikawan besar Baghdad yang kebetulan berkunjung ke Khwarazm. Dari al-Buzjani, Al-Biruni mempelajari trigonometri spherical dan aplikasinya dalam astronomi. Interaksi dengan guru-guru berkaliber internasional ini membentuk standar keilmuan Al-Biruni yang sangat tinggi sejak usia muda.
 
@@ -42,7 +42,7 @@ Lebih penting lagi, Al-Biruni berkesempatan mengikuti ekspedisi-ekspedisi Sultan
 
 ### Proses Penelitian dan Metodologi
 
-Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.^1 Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial, sebagaimana diterjemahkan dan dianalisis secara komprehensif oleh Sachau.^2
+Salah satu karya terbesar Al-Biruni adalah "*Tahqiq ma li'l-Hind*" (Penelitian tentang India), yang lebih dikenal sebagai "Kitab al-Hind," diselesaikan sekitar tahun 1030 M setelah 13 tahun penelitian intensif.^1 ^3 Karya monumental ini terdiri dari 80 bab yang mencakup hampir setiap aspek peradaban India: agama, filsafat, ilmu pengetahuan, literatur, hukum, adat istiadat, dan sistem sosial, sebagaimana diterjemahkan dan dianalisis secara komprehensif oleh Sachau.^2
 
 Al-Biruni menghabiskan bertahun-tahun mempelajari bahasa Sanskrit hingga tingkat yang memungkinkannya membaca teks-teks klasik India dalam bahasa aslinya. Dia bergaul langsung dengan para pandit, brahmin, dan filsuf Hindu untuk memahami nuansa-nuansa ajaran yang tidak dapat ditangkap hanya melalui teks tertulis. Pendekatan immersive ini sangat revolusioner untuk masanya dan mengantisipasi metodologi antropologi modern.
 
@@ -231,6 +231,11 @@ Dalam berbagai karyanya, Al-Biruni selalu mengakui kontribusi para pendahulunya 
 
 ## Daftar Pustaka
 
-1. Al-Qur'an al-Karim. QS. Fussilat (41): 53.
-2. Sachau, Eduard C., *Alberuni's India*, London: Kegan Paul, 1910.
-3. Kennedy, E.S., *A Commentary Upon Biruni's Kitab Tahdid*, Beirut: American University of Beirut, 1973.
+1. Al-Biruni, Abu Rayhan Muhammad ibn Ahmad. *Kitab al-Hind* (Tahqiq ma li'l-Hind min maqulah maqbulah fi al-aql aw mardhulah), ed. Eduard Sachau. Leipzig: Otto Harrassowitz, 1887.
+2. Al-Biruni, Abu Rayhan Muhammad ibn Ahmad. *Al-Qanun al-Mas'udi fi'l-Hay'ah wa'l-Nujum*, ed. Ghada al-Hijjawi al-Qaddumi. Kuwait: Center for Research on Islamic History, 2009.
+3. Sachau, Eduard C., *Alberuni's India: An Account of the Religion, Philosophy, Literature, Geography, Chronology, Astronomy, Customs, Laws and Astrology of India*, London: Kegan Paul, 1910.
+4. Nasr, Seyyed Hossein, *An Introduction to Islamic Cosmological Doctrines*, Albany: SUNY Press, 1993.
+5. Bulliet, Richard W., *Cotton, Climate, and Camels in Early Islamic Iran*, New York: Columbia University Press, 2009.
+6. Al-Dhahabi, Shams al-Din Muhammad ibn Ahmad, *Siyar A'lam al-Nubala'*, ed. Shu'ayb al-Arna'ut. Beirut: Mu'assasat al-Risalah, 1996.
+7. Bosworth, C.E., *The Ghaznavids: Their Empire in Afghanistan and Eastern Iran 994-1040*, Edinburgh: Edinburgh University Press, 1963.
+8. Samso, Julio, *Islamic Astronomy and Medieval Spain*, Aldershot: Variorum, 1994.

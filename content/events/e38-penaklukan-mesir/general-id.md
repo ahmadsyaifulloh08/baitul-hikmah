@@ -2,9 +2,9 @@
 
 ## Konteks: Mesir di Bawah Bayang-Bayang Bizantium
 
-Mesir pada abad ke-7 Masehi adalah salah satu provinsi terpenting Kekaisaran Bizantium. Lembah Nil yang subur menjadikannya *lumbung gandum* bagi Konstantinopel — pasokan makanan pokok bagi ibu kota kekaisaran bergantung berat pada produksi pertanian Mesir. Alexandria, kota pelabuhannya, merupakan pusat perdagangan terbesar di Mediterania setelah Konstantinopel sendiri, sekaligus pusat intelektual yang terkenal dengan perpustakaannya dan tradisi keilmuannya.^1 ^3
+Mesir pada abad ke-7 Masehi adalah salah satu provinsi terpenting Kekaisaran Bizantium. Lembah Nil yang subur menjadikannya *lumbung gandum* bagi Konstantinopel — pasokan makanan pokok bagi ibu kota kekaisaran bergantung berat pada produksi pertanian Mesir. Alexandria, kota pelabuhannya, merupakan pusat perdagangan terbesar di Mediterania setelah Konstantinopel sendiri, sekaligus pusat intelektual yang terkenal dengan perpustakaannya dan tradisi keilmuannya.^1 ^2
 
-Namun di balik kemakmuran ekonomi, penduduk asli Mesir — yang mayoritas beragama Kristen Koptik — hidup dalam penindasan. Al-Baladhuri dalam *Futuh al-Buldan* mencatat bahwa pemerintah Bizantium menerapkan kebijakan keagamaan yang keras terhadap kaum Koptik, yang menganut aliran Monofisit — berbeda dari Ortodoksi resmi Konstantinopel.^1 Patriark Benjamin I, pemimpin Gereja Koptik, terpaksa bersembunyi selama bertahun-tahun untuk menghindari penganiayaan. Pajak yang berat semakin menambah penderitaan rakyat.
+Namun di balik kemakmuran ekonomi, penduduk asli Mesir — yang mayoritas beragama Kristen Koptik — hidup dalam penindasan. Al-Baladhuri dalam *Futuh al-Buldan* mencatat bahwa pemerintah Bizantium menerapkan kebijakan keagamaan yang keras terhadap kaum Koptik, yang menganut aliran Monofisit — berbeda dari Ortodoksi resmi Konstantinopel.^1 Al-Tabari juga menyebutkan bahwa situasi politik dan keagamaan yang tidak stabil ini menciptakan kesempatan bagi ekspansi Islam ke wilayah tersebut.^3 Patriark Benjamin I, pemimpin Gereja Koptik, terpaksa bersembunyi selama bertahun-tahun untuk menghindari penganiayaan. Pajak yang berat semakin menambah penderitaan rakyat.
 
 Ibn Abd al-Hakam dalam *Futuh Misr wa Akhbaruha* — sumber primer paling detail tentang penaklukan Mesir — menggambarkan suasana ketidakpuasan yang meluas di kalangan penduduk.^2 Banyak orang Koptik yang memandang penguasa Bizantium bukan sebagai pelindung, melainkan sebagai penindas asing.
 
@@ -14,7 +14,7 @@ Di sinilah **Amr bin al-Ash** muncul dalam panggung sejarah. Amr adalah salah sa
 
 ### Inisiatif Amr bin al-Ash (639 M)
 
-Al-Tabari dan al-Baladhuri meriwayatkan bahwa Amr bin al-Ash mengajukan usulan penaklukan Mesir kepada Khalifah **Umar ibn al-Khattab** setelah kemenangan-kemenangan besar di Syam.^1 ^3 Umar awalnya ragu — Mesir adalah provinsi besar yang dijaga oleh garnisun Bizantium, dan sumber daya pasukan muslim sudah terpakai di beberapa front.
+Al-Baladhuri dan Ibn Abd al-Hakam meriwayatkan bahwa Amr bin al-Ash mengajukan usulan penaklukan Mesir kepada Khalifah **Umar ibn al-Khattab** setelah kemenangan-kemenangan besar di Syam.^1 ^2 Umar awalnya ragu — Mesir adalah provinsi besar yang dijaga oleh garnisun Bizantium, dan sumber daya pasukan muslim sudah terpakai di beberapa front.
 
 Ibn Abd al-Hakam mencatat versi yang menarik tentang bagaimana akhirnya Amr berangkat: Umar memberikan surat kepadanya dengan pesan bahwa jika ia sudah memasuki wilayah Mesir saat surat tiba, ia boleh melanjutkan; tetapi jika belum, ia harus kembali. Amr, yang sudah menduga isi surat tersebut, **sengaja membukanya setelah melintasi perbatasan** Mesir di al-Arish.^2 Ia membaca surat di hadapan pasukannya, kemudian bertanya: "Wahai saudara-saudara, apakah kita sudah berada di Mesir?" Mereka menjawab: "Ya." Amr berkata: "Kalau begitu, kita lanjutkan sebagaimana diperintahkan Amirul Mukminin."
 
@@ -26,15 +26,15 @@ Amr memasuki Mesir dengan pasukan yang sangat kecil — sekitar **4.000 orang** 
 
 Pertempuran pertama terjadi di **Pelusium** (*al-Farama*), benteng perbatasan di timur laut Mesir. Al-Baladhuri mencatat bahwa kota ini jatuh setelah pengepungan sekitar satu bulan.^1 Amr kemudian bergerak ke selatan menuju **Heliopolis** (*'Ain Syams*), di mana pertempuran besar terjadi pada bulan Juli 640 M. Ibn Abd al-Hakam meriwayatkan bahwa kemenangan muslim di Heliopolis membuka jalan ke jantung Mesir.^2
 
-Umar, yang akhirnya yakin akan keseriusan kampanye ini, mengirim bala bantuan sebanyak **4.000 pasukan** tambahan di bawah komando al-Zubair bin al-Awwam — salah satu sahabat terkemuka dan pejuang legendaris.^1 ^3
+Umar, yang akhirnya yakin akan keseriusan kampanye ini, mengirim bala bantuan sebanyak **4.000 pasukan** tambahan di bawah komando al-Zubair bin al-Awwam — salah satu sahabat terkemuka dan pejuang legendaris.^1 ^2
 
 ### Pengepungan Benteng Babilon (640-641 M)
 
-Titik paling menentukan dalam penaklukan Mesir adalah **pengepungan Benteng Babilon** (*Qasr al-Sham'*) — sebuah benteng Romawi besar yang terletak di lokasi yang kini menjadi bagian dari Kairo Tua. Al-Tabari mencatat bahwa pengepungan ini berlangsung selama sekitar tujuh bulan dan merupakan operasi militer terberat dalam seluruh kampanye Mesir.^3
+Titik paling menentukan dalam penaklukan Mesir adalah **pengepungan Benteng Babilon** (*Qasr al-Sham'*) — sebuah benteng Romawi besar yang terletak di lokasi yang kini menjadi bagian dari Kairo Tua. Ibn Abd al-Hakam mencatat bahwa pengepungan ini berlangsung selama sekitar tujuh bulan dan merupakan operasi militer terberat dalam seluruh kampanye Mesir.^2
 
 Al-Baladhuri meriwayatkan bahwa **al-Muqauqis** (Cyrus dari Alexandria), gubernur Bizantium sekaligus patriark Melkite, berusaha bernegosiasi dengan Amr.^1 Negosiasi ini berjalan alot — al-Muqauqis bersedia menyerah, namun Kaisar Heraklius di Konstantinopel menolak dan memerintahkan perlawanan.
 
-Benteng Babilon akhirnya jatuh pada bulan April 641 M setelah serangan terakhir yang dipimpin oleh al-Zubair bin al-Awwam, yang menurut riwayat Ibn Abd al-Hakam, memanjat tembok benteng dengan tangga dan membuka gerbang dari dalam.^2 ^3
+Benteng Babilon akhirnya jatuh pada bulan April 641 M setelah serangan terakhir yang dipimpin oleh al-Zubair bin al-Awwam, yang menurut riwayat Ibn Abd al-Hakam, memanjat tembok benteng dengan tangga dan membuka gerbang dari dalam.^2
 
 ### Jatuhnya Alexandria (641 M)
 
@@ -82,7 +82,7 @@ Pendirian Fustat menandai awal dari era baru bagi Mesir. Dalam beberapa generasi
 
 ### Pelajaran tentang Kepemimpinan
 
-Hubungan antara Amr dan Umar dalam kampanye Mesir menunjukkan dinamika menarik antara inisiatif lapangan dan otoritas pusat. Amr menunjukkan keberanian mengambil inisiatif, sementara Umar menunjukkan kebesaran hati untuk mendukung inisiatif tersebut setelah yakin akan kelayakannya — meskipun awalnya ragu. Ini adalah model kepemimpinan yang mengakui pentingnya delegasi tanpa melepaskan pengawasan.^1 ^3
+Hubungan antara Amr dan Umar dalam kampanye Mesir menunjukkan dinamika menarik antara inisiatif lapangan dan otoritas pusat. Amr menunjukkan keberanian mengambil inisiatif, sementara Umar menunjukkan kebesaran hati untuk mendukung inisiatif tersebut setelah yakin akan kelayakannya — meskipun awalnya ragu. Ini adalah model kepemimpinan yang mengakui pentingnya delegasi tanpa melepaskan pengawasan.^1 ^2
 
 ## Daftar Pustaka
 

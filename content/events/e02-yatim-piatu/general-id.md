@@ -27,7 +27,7 @@ Satu per satu, para perempuan Bani Sa'd memilih bayi dari keluarga-keluarga kaya
 
 Apa yang terjadi setelahnya digambarkan oleh Halimah sendiri — sebagaimana diriwayatkan oleh Ibn Ishaq — sebagai rangkaian keberkahan yang luar biasa.^1 Begitu bayi Muhammad berada dalam gendongannya, air susu Halimah melimpah, unta mereka yang kurus memberikan susu berlimpah, dan keledai mereka yang tadinya lemah berjalan paling depan dalam rombongan. Para perempuan lain bertanya-tanya: *"Wahai Halimah, apa yang terjadi padamu?"*
 
-Muhammad ﷺ tinggal di tengah Bani Sa'd selama kurang lebih empat hingga lima tahun.^2 Di padang pasir yang luas inilah beliau tumbuh — berlari di antara bukit-bukit pasir, menggembala kambing bersama saudara-saudara sesusuannya, dan menyerap kemurnian bahasa Arab Badui yang kelak menjadi wadah bagi wahyu al-Quran.^8
+Muhammad ﷺ tinggal di tengah Bani Sa'd selama kurang lebih empat hingga lima tahun.^2 Di padang pasir yang luas inilah beliau tumbuh — berlari di antara bukit-bukit pasir, menggembala kambing bersama saudara-saudara sesusuannya, dan menyerap kemurnian bahasa Arab Badui yang kelak menjadi wadah bagi wahyu al-Quran.^1 ^2
 
 ### Peristiwa Pembelahan Dada — *Syaqq al-Shadr*
 
@@ -86,7 +86,7 @@ Keyatiman Nabi Muhammad ﷺ bukan sekadar fakta biografis — ia adalah fondasi 
 > *"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿ Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk. ﴾7﴿ Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan. ﴾8﴿"*
 > — QS. Ad-Dhuha (93): 6-8)
 
-Para ulama menafsirkan hikmah di balik keyatiman ini dalam beberapa dimensi:^8
+Para ulama menafsirkan hikmah di balik keyatiman ini dalam beberapa dimensi:^2 ^7
 
 **Pertama, kemandirian dari pengaruh manusia.** Dengan tidak memiliki ayah yang membentuk pemikirannya, Muhammad tumbuh bebas dari bias ideologis keluarga. Ia tidak mewarisi tradisi penyembahan berhala dari garis otoritas patriarkal. Pendidikannya langsung dari pengalaman hidup dan, kemudian, dari wahyu ilahi.
 
@@ -115,7 +115,7 @@ Pengalaman yatim piatu Nabi Muhammad ﷺ memiliki dampak langsung pada syariat I
 > *"Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api dalam perutnya. "*
 > — QS. An-Nisa (4): 10)
 
-Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan: ^8
+Nabi Muhammad ﷺ sendiri menjadikan perhatian terhadap yatim sebagai salah satu indikator keimanan. Imam al-Bukhari meriwayatkan:^3
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >

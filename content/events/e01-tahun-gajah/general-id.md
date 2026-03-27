@@ -6,14 +6,14 @@ Pada pertengahan abad keenam Masehi, Jazirah Arab berdiri di persimpangan perada
 
 Secara politik, Jazirah Arab berada di antara dua kekuatan adidaya dunia saat itu: Kekaisaran Romawi Timur (Bizantium) di barat laut dan Kekaisaran Sassanid (Persia) di timur laut. Kedua imperium ini menjadikan kerajaan-kerajaan Arab di perbatasan sebagai negara penyangga — Kerajaan Ghassaniyah sebagai negara bawahan Bizantium, dan Kerajaan Lakhmiyah sebagai negara bawahan Persia.^1 Yaman di selatan, yang dulunya pernah menjadi pusat peradaban maju di bawah Kerajaan Saba' dan Himyar, kini jatuh ke tangan Kerajaan Aksum (Habasyah/Ethiopia) setelah serangkaian perebutan kekuasaan internal.^2
 
-Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS. Quraisy (106): 1-4:
+Secara ekonomi, Makkah menempati posisi strategis. Kota ini terletak di jalur perdagangan utama yang menghubungkan Yaman di selatan — pintu gerbang rempah-rempah dari India dan Afrika Timur — dengan Syam (Suriah dan Palestina) di utara. Suku Quraisy, penguasa Makkah, adalah para pedagang ulung yang menyelenggarakan dua perjalanan dagang besar setiap tahun: *rihlat al-syita'* ke Yaman dan *rihlat al-shaif* ke Syam, sebagaimana diabadikan dalam QS. Quraisy (106): 1-4:^6
 
 > لِإِيلَٰفِ قُرَيۡشٍ ﴿١﴾ إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ ﴿٢﴾ فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ ﴿٣﴾ ٱلَّذِىٓ أَطۡعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنۡ خَوۡفِ ﴿٤﴾
 >
 > *"Karena kebiasaan orang-orang Quraisy, ﴾1﴿ (yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas. ﴾2﴿ Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah), ﴾3﴿ yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa takut. ﴾4﴿"*
 > — QS. Quraisy (106): 1-4
 
-Namun lebih dari sekadar pusat perdagangan, Makkah adalah pusat spiritual seluruh Jazirah Arab. Di jantung kota berdiri Ka'bah — bangunan kubus yang menurut tradisi Islam dibangun pertama kali oleh Nabi Ibrahim dan putranya Ismail 'alaihimas-salam. Meski pada masa ini Ka'bah telah dikelilingi oleh 360 berhala (*ashnam*), statusnya sebagai tempat suci tetap diakui seluruh kabilah Arab. Setiap tahun, orang-orang dari penjuru semenanjung berdatangan untuk berhaji, dan selama bulan-bulan haram (*al-asyhur al-hurum*), segala bentuk peperangan dihentikan. Inilah yang membuat Ka'bah — dan siapa pun yang menguasainya — memiliki pengaruh politik dan ekonomi yang luar biasa besar.^6
+Namun lebih dari sekadar pusat perdagangan, Makkah adalah pusat spiritual seluruh Jazirah Arab. Di jantung kota berdiri Ka'bah — bangunan kubus yang menurut tradisi Islam dibangun pertama kali oleh Nabi Ibrahim dan putranya Ismail 'alaihimas-salam. Meski pada masa ini Ka'bah telah dikelilingi oleh 360 berhala (*ashnam*), statusnya sebagai tempat suci tetap diakui seluruh kabilah Arab. Setiap tahun, orang-orang dari penjuru semenanjung berdatangan untuk berhaji, dan selama bulan-bulan haram (*al-asyhur al-hurum*), segala bentuk peperangan dihentikan. Inilah yang membuat Ka'bah — dan siapa pun yang menguasainya — memiliki pengaruh politik dan ekonomi yang luar biasa besar.^1
 
 ## Abrahah dan Ambisi yang Membakar
 
@@ -57,7 +57,7 @@ Kemudian datanglah pasukan burung *ababil* dari arah laut, setiap burung membawa
 > *"Tidakkah engkau perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah? ﴾1﴿ Bukankah Dia telah menjadikan tipu daya mereka sia-sia? ﴾2﴿ Dan Dia mengirimkan kepada mereka burung-burung yang berbondong-bondong, ﴾3﴿ yang melempari mereka dengan batu dari tanah liat yang dibakar, ﴾4﴿ sehingga Dia menjadikan mereka seperti daun-daun yang dimakan ulat. ﴾5﴿"*
 > — QS. Al-Fil (105): 1-5
 
-Abrahah sendiri terkena batu-batu tersebut. Tubuhnya membusuk sedikit demi sedikit sepanjang perjalanan pulang, dan ia meninggal di Sana'a dalam keadaan yang mengenaskan — dagingnya rontok hingga tulang dan jantungnya terlihat. Ibn Hisham mencatat detail ini dengan sangat rinci dalam *Sirah Nabawiyyah*. ^6
+Abrahah sendiri terkena batu-batu tersebut. Tubuhnya membusuk sedikit demi sedikit sepanjang perjalanan pulang, dan ia meninggal di Sana'a dalam keadaan yang mengenaskan — dagingnya rontok hingga tulang dan jantungnya terlihat. Ibn Hisham mencatat detail ini dengan sangat rinci dalam *Sirah Nabawiyyah*.^1
 
 ## Debat Historiografis: Kapan Tepatnya?
 
@@ -71,7 +71,7 @@ Meski demikian, yang tidak diperdebatkan adalah **signifikansinya**: peristiwa p
 
 Dalam tahun yang sama dengan kehancuran pasukan gajah — atau menurut sebagian riwayat, lima puluh hari setelahnya — lahirlah di Makkah seorang bayi yang akan mengubah wajah peradaban manusia.^2
 
-**Muhammad bin Abdullah bin Abdul Muthalib bin Hasyim bin Abdi Manaf** lahir pada hari Senin, tanggal 12 Rabi'ul-Awwal menurut pendapat yang paling masyhur, meskipun sebagian ulama menyebutkan tanggal 8, 9, atau 10 Rabi'ul-Awwal.^2 ^5 Ibn Sa'd dalam *Tabaqat al-Kubra* dan al-Mubarakfuri dalam *al-Rahiq al-Makhtum* menguatkan kelahiran pada hari Senin berdasarkan hadits shahih dalam *Shahih Muslim*, di mana Nabi Muhammad ﷺ ditanya tentang puasa hari Senin dan beliau menjawab:^4
+**Muhammad bin Abdullah bin Abdul Muthalib bin Hasyim bin Abdi Manaf** lahir pada hari Senin, tanggal 12 Rabi'ul-Awwal menurut pendapat yang paling masyhur, meskipun sebagian ulama menyebutkan tanggal 8, 9, atau 10 Rabi'ul-Awwal.^2 ^5 Ibn Sa'd dalam *Tabaqat al-Kubra* dan al-Mubarakfuri dalam *al-Rahiq al-Makhtum* menguatkan kelahiran pada hari Senin berdasarkan hadits shahih dalam *Shahih Muslim*, di mana Nabi Muhammad ﷺ ditanya tentang puasa hari Senin dan beliau menjawab:^4 ^5
 
 > *"Itulah hari aku dilahirkan, dan hari aku diutus (sebagai Nabi)."*
 > — HR Muslim, no. 1162, Kitab al-Shiyam^4

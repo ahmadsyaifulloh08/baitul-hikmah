@@ -6,7 +6,7 @@ Abad ke-11 dan ke-12 Masehi merupakan periode penting dalam perkembangan tasawuf
 
 Baghdad, sebagai pusat peradaban Islam saat itu, menjadi tempat berkembangnya berbagai aliran pemikiran keagamaan. Kondisi masyarakat yang mengalami tekanan sosial-politik dan membutuhkan bimbingan spiritual mendorong munculnya para ulama yang tidak hanya menguasai ilmu syariah, tetapi juga memiliki kedalaman spiritual yang luar biasa. Dalam atmosfer intelektual yang dinamis ini, tasawuf berkembang sebagai dimensi penting dari kehidupan keagamaan Muslim.^2
 
-**Abu Muhammad Muhyi al-Din Abdul Qadir ibn Abi Salih Musa ibn Abdullah al-Jilani** lahir pada tahun 470 H/1077 M di Jilan (Gilan), sebuah wilayah di selatan Laut Kaspia yang kini menjadi bagian dari Iran. Jilan pada masa itu merupakan daerah yang dikenal dengan kesuburannya dan menjadi tempat lahir banyak ulama besar. Abdul Qadir berasal dari keluarga yang mulia dan memiliki nasab hingga ke **Imam Hasan ibn Ali ibn Abi Thalib**, cucu Rasulullah ﷺ dari pihak ibunya, Fatimah bint Abdullah al-Sawma'i.^3
+**Abu Muhammad Muhyi al-Din Abdul Qadir ibn Abi Salih Musa ibn Abdullah al-Jilani** lahir pada tahun 470 H/1077 M di Jilan (Gilan), sebuah wilayah di selatan Laut Kaspia yang kini menjadi bagian dari Iran. Al-Dhahabi mencatat bahwa Jilan pada masa itu merupakan daerah yang dikenal dengan kesuburannya dan menjadi tempat lahir banyak ulama besar. Abdul Qadir berasal dari keluarga yang mulia dan memiliki nasab hingga ke **Imam Hasan ibn Ali ibn Abi Thalib**, cucu Rasulullah ﷺ dari pihak ibunya, Fatimah bint Abdullah al-Sawma'i.^3
 
 Ayah Abdul Qadir, Abu Salih Musa, adalah seorang yang saleh dan terpandang di komunitasnya. Ibunya, Umm al-Khayr Fatimah, dikenal sebagai perempuan yang sangat salehah dan memiliki karamah (kemampuan spiritual). Lingkungan keluarga yang religius ini memberikan fondasi spiritual yang kuat bagi Abdul Qadir sejak kecil. Ia tumbuh dalam suasana yang penuh dengan ajaran Islam dan praktik spiritual yang mendalam.
 
@@ -50,13 +50,13 @@ Tarekat Qadiriyyah yang didirikan oleh Abdul Qadir al-Jilani menjadi salah satu 
 
 Ajaran pokok Tarekat Qadiriyyah meliputi tiga aspek utama yang saling berkaitan: **thariqah** (jalan spiritual), **haqiqah** (hakikat spiritual), dan **ma'rifah** (pengetahuan langsung tentang Allah). Abdul Qadir mengajarkan bahwa seorang salik (penempuh jalan spiritual) harus terlebih dahulu menguasai syariah dengan baik sebelum memasuki dimensi spiritual yang lebih tinggi. Tanpa fundasi syariah yang kuat, perjalanan spiritual akan menjadi menyesatkan.^3
 
-Dalam ajarannya, Abdul Qadir menekankan pentingnya **fanafi'llah** (fana dalam Allah) sebagai tujuan tertinggi perjalanan spiritual, namun ia juga mengajarkan tentang **baqa billah** (kekal dengan Allah), di mana seorang sufi kembali ke dunia dengan kesadaran spiritual yang baru untuk melayani umat. Konsep ini menunjukkan bahwa tasawuf bukan pelarian dari dunia, melainkan cara untuk hidup di dunia dengan kesadaran spiritual yang tinggi.
+Dalam ajarannya, Abdul Qadir menekankan pentingnya **fanafi'llah** (fana dalam Allah) sebagai tujuan tertinggi perjalanan spiritual, namun ia juga mengajarkan tentang **baqa billah** (kekal dengan Allah), di mana seorang sufi kembali ke dunia dengan kesadaran spiritual yang baru untuk melayani umat. Schimmel mencatat bahwa konsep ini menunjukkan bahwa tasawuf bukan pelarian dari dunia, melainkan cara untuk hidup di dunia dengan kesadaran spiritual yang tinggi.^4
 
 Wirid dan dzikir yang diajarkan dalam Tarekat Qadiriyyah mencerminkan pemahaman mendalam tentang dimensi esoterik Islam. Salah satu dzikir yang terkenal adalah **"La hawla wa la quwwata illa billah"** yang diamalkan dengan cara khusus dan dalam jumlah tertentu. Dzikir ini tidak hanya diucapkan dengan lisan, tetapi juga diresapi dengan hati hingga mencapai tingkat dzikir qalbi (dzikir hati) dan dzikir sirri (dzikir rahasia).^1
 
 ## Karya-karya Intelektual dan Spiritual
 
-Abdul Qadir al-Jilani meninggalkan warisan intelektual yang sangat berharga dan berpengaruh luas. Karyanya yang paling terkenal dan komprehensif adalah **"Al-Ghunya li Thalib Tariq al-Haqq"** (Kecukupan bagi Pencari Jalan Kebenaran), sebuah ensiklopedia tasawuf yang mencakup hampir semua aspek kehidupan spiritual Muslim. Karya ini terdiri dari dua bagian besar: bagian pertama membahas tentang ushul (dasar-dasar) agama dan bagian kedua membahas tentang furu' (cabang-cabang) dan adab.^2
+Abdul Qadir al-Jilani meninggalkan warisan intelektual yang sangat berharga dan berpengaruh luas. Karyanya yang paling terkenal dan komprehensif adalah **"Al-Ghunya li Thalib Tariq al-Haqq"** (Kecukupan bagi Pencari Jalan Kebenaran), sebuah ensiklopedia tasawuf yang mencakup hampir semua aspek kehidupan spiritual Muslim. Karya ini terdiri dari dua bagian besar: bagian pertama membahas tentang ushul (dasar-dasar) agama dan bagian kedua membahas tentang furu' (cabang-cabang) dan adab.^5
 
 Dalam **"Al-Ghunya"**, Abdul Qadir membahas berbagai aspek kehidupan spiritual secara sistematis, mulai dari adab bergaul sehari-hari, tata cara beribadah yang benar, hingga maqamat tertinggi dalam tasawuf. Pendekatan yang digunakan sangat akademis namun tetap praktis, memadukan dalil-dalil dari Al-Qur'an dan hadits dengan pengalaman spiritual para sufi terdahulu dan insight pribadi yang diperoleh melalui pengalaman spiritual yang mendalam.^3
 
@@ -123,12 +123,14 @@ Dalam konteks modern, ajaran Abdul Qadir tentang keseimbangan antara kehidupan s
 
 Prinsip-prinsip etika spiritual yang diajarkan Abdul Qadir, seperti kejujuran, keadilan, kasih sayang, dan pelayanan kepada sesama, tetap relevan sebagai landasan untuk membangun masyarakat yang lebih baik. Dalam konteks globalisasi dan pluralisme, ajaran Abdul Qadir tentang toleransi dan dialog antar-agama juga memberikan kontribusi positif.^1
 
-Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan jutaan pengikut yang tersebar dari Afrika Barat hingga Asia Tenggara. Kelangsungan tarekat ini selama lebih dari 800 tahun menunjukkan vitalitas dan relevansi ajaran Abdul Qadir al-Jilani yang terus memberikan makna spiritual bagi umat Islam di berbagai zaman dan tempat.^2.^2.^3
+Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan jutaan pengikut yang tersebar dari Afrika Barat hingga Asia Tenggara. Kelangsungan tarekat ini selama lebih dari 800 tahun menunjukkan vitalitas dan relevansi ajaran Abdul Qadir al-Jilani yang terus memberikan makna spiritual bagi umat Islam di berbagai zaman dan tempat.^2 ^3
 
 ---
 
 ## Daftar Pustaka
 
-1. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.
+1. Al-Jilani, Abdul Qadir, *Futuh al-Ghaib*, Kairo: Dar al-Kutub al-Ilmiyyah, 1986.
 2. Trimingham, J.S., *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1971.
-3. Al-Jilani, Abdul Qadir, *Futuh al-Ghaib*, Kairo: Dar al-Kutub al-Ilmiyyah, 1986.
+3. Al-Dhahabi, Syams al-Din, *Siyar A'lam al-Nubala*, Beirut: Muassasah al-Risalah, 1985.
+4. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
+5. Al-Jilani, Abdul Qadir, *Al-Ghunya li Thalib Tariq al-Haqq*, Beirut: Dar al-Jinan, 1990.

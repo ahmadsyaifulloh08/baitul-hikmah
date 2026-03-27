@@ -24,15 +24,15 @@ Hubungan guru-murid mereka berlangsung sangat intensif. Abu Hanifah sering tidur
 
 ### Metodologi Qiyas dan Istihsan: Fondasi Pemikiran Hukum
 
-Abu Hanifah mengembangkan metodologi hukum yang sistematis dan rasional, dengan *qiyas* dan *istihsan* sebagai pilar utamanya. Ia menggunakan *qiyas* (analogi) secara ekstensif untuk menyelesaikan masalah-masalah hukum baru yang tidak ada nash eksplisitnya dalam Al-Quran dan Hadits.^10
+Abu Hanifah mengembangkan metodologi hukum yang sistematis dan rasional, dengan *qiyas* dan *istihsan* sebagai pilar utamanya. Ia menggunakan *qiyas* (analogi) secara ekstensif untuk menyelesaikan masalah-masalah hukum baru yang tidak ada nash eksplisitnya dalam Al-Quran dan Hadits.^6 ^7
 
-**Metode Qiyas Abu Hanifah** memiliki empat unsur: (1) *al-asl* (kasus dasar yang ada nashnya), (2) *al-far'* (kasus baru yang akan ditetapkan hukumnya), (3) *al-'illah* (sebab hukum yang menjadi penghubung), dan (4) *al-hukm* (hukum yang akan diterapkan). Contoh penerapannya adalah pengharaman *nabidz* (minuman fermentasi dari kurma) berdasarkan qiyas terhadap khamr dari anggur, dengan 'illah yang sama: memabukkan.^11
+**Metode Qiyas Abu Hanifah** memiliki empat unsur: (1) *al-asl* (kasus dasar yang ada nashnya), (2) *al-far'* (kasus baru yang akan ditetapkan hukumnya), (3) *al-'illah* (sebab hukum yang menjadi penghubung), dan (4) *al-hukm* (hukum yang akan diterapkan). Contoh penerapannya adalah pengharaman *nabidz* (minuman fermentasi dari kurma) berdasarkan qiyas terhadap khamr dari anggur, dengan 'illah yang sama: memabukkan.^6 ^7
 
-**Istihsan**, konsep yang menjadi ciri khas madzhab Hanafi, adalah "meninggalkan qiyas yang jelas (zahir) menuju qiyas yang tersembunyi (khafi) karena ada dalil yang lebih kuat." Abu Hanifah mendefinisikannya sebagai *"al-'udul 'an maqtada al-qiyas ila ma huwa aslab minhu"* (berpaling dari tuntutan qiyas kepada yang lebih sesuai). Istihsan bukan berarti mengikuti hawa nafsu, melainkan memilih solusi hukum yang lebih dekat dengan maqashid syari'ah (tujuan hukum).^12
+**Istihsan**, konsep yang menjadi ciri khas madzhab Hanafi, adalah "meninggalkan qiyas yang jelas (zahir) menuju qiyas yang tersembunyi (khafi) karena ada dalil yang lebih kuat." Abu Hanifah mendefinisikannya sebagai *"al-'udul 'an maqtada al-qiyas ila ma huwa aslab minhu"* (berpaling dari tuntutan qiyas kepada yang lebih sesuai). Istihsan bukan berarti mengikuti hawa nafsu, melainkan memilih solusi hukum yang lebih dekat dengan maqashid syari'ah (tujuan hukum).^10
 
-Contoh penerapan istihsan adalah hukum **istishna'** (kontrak pesanan barang yang belum ada). Menurut qiyas, kontrak ini haram karena termasuk jual beli barang yang tidak ada (*bay' ma'dum*). Namun Abu Hanifah menerapkan istihsan dengan membolehkannya berdasarkan kebutuhan masyarakat (*hajah*) dan praktik yang sudah berlangsung lama (*'urf*).^13
+Contoh penerapan istihsan adalah hukum **istishna'** (kontrak pesanan barang yang belum ada). Menurut qiyas, kontrak ini haram karena termasuk jual beli barang yang tidak ada (*bay' ma'dum*). Namun Abu Hanifah menerapkan istihsan dengan membolehkannya berdasarkan kebutuhan masyarakat (*hajah*) dan praktik yang sudah berlangsung lama (*'urf*).^6 ^10
 
-Pendekatan *ra'yu* (logika) Abu Hanifah tidak sembarangan, melainkan berdasarkan prinsip-prinsip yang ketat. Ia memprioritaskan: (1) Al-Quran, (2) Hadits shahih, (3) Ijma' sahabat, (4) Qiyas berdasarkan nash, (5) Istihsan (memilih pendapat yang lebih baik), dan (6) 'Urf (tradisi yang tidak bertentangan dengan syariat).^14
+Pendekatan *ra'yu* (logika) Abu Hanifah tidak sembarangan, melainkan berdasarkan prinsip-prinsip yang ketat. Ia memprioritaskan: (1) Al-Quran, (2) Hadits shahih, (3) Ijma' sahabat, (4) Qiyas berdasarkan nash, (5) Istihsan (memilih pendapat yang lebih baik), dan (6) 'Urf (tradisi yang tidak bertentangan dengan syariat).^6 ^7
 
 ## Pendirian Madzhab dan Sistematisasi Hukum
 
@@ -115,8 +115,4 @@ Konsep *istihsan* yang dikembangkannya memberikan ruang bagi pertimbangan kemasl
 7. Al-Sarakhsi, Shams al-Din, *Usul al-Sarakhsi*, jilid 2.
 8. Schacht, Joseph, *The Origins of Muhammadan Jurisprudence*, Oxford: Clarendon Press, 1950.
 9. Al-Qurashi, Muhyi al-Din, *Al-Jawahir al-Mudiyyah fi Tabaqat al-Hanafiyyah*, jilid 1.
-10. Abu Yusuf, Ya'qub ibn Ibrahim, *Kitab al-Kharaj*.
-11. Wensink, A.J., *The Muslim Creed*, Cambridge: Cambridge University Press, 1932.
-12. Muhammad al-Syaybani, *Al-Mabsut*, 30 jilid.
-13. Ibn al-Athir, Izz al-Din, *Al-Kamil fi al-Tarikh*, jilid 5.
-14. Al-Tabari, Muhammad ibn Jarir, *Tarikh al-Rusul wa al-Muluk*, jilid 8.
+10. Muhammad al-Syaybani, *Al-Mabsut*, 30 jilid.

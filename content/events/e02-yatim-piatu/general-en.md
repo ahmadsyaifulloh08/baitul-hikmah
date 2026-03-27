@@ -27,7 +27,7 @@ One by one, the women of Banu Sa'd chose infants from wealthy Qurayshi families.
 
 What followed, as narrated by Halimah herself through Ibn Ishaq's transmission, was a cascade of extraordinary blessings.^1 The moment baby Muhammad was in her arms, Halimah's milk flowed abundantly, their thin camel gave plentiful milk, and their feeble donkey strode ahead of the caravan. The other women marveled: *"O Halimah, what has happened to you?"*
 
-Muhammad ﷺ lived among the Banu Sa'd for approximately four to five years.^2 In these vast desert expanses, he grew — running across sand dunes, herding sheep alongside his foster-siblings, and absorbing the pure Bedouin Arabic that would later become the vessel for Quranic revelation.^8
+Muhammad ﷺ lived among the Banu Sa'd for approximately four to five years.^2 In these vast desert expanses, he grew — running across sand dunes, herding sheep alongside his foster-siblings, and absorbing the pure Bedouin Arabic that would later become the vessel for Quranic revelation.^1 ^2
 
 ### The Opening of the Chest*Shaqq al-Sadr*
 
@@ -86,7 +86,7 @@ The orphanhood of Prophet Muhammad ﷺ was not merely a biographical fact — it
 > *"Did He not find you an orphan and give you refuge? ﴾6﴿ And He found you lost and guided you. ﴾7﴿ And He found you in need and made you self-sufficient. ﴾8﴿"*
 > — QS. Ad-Dhuha (93): 6-8
 
-Scholars have identified several dimensions of wisdom in this divine arrangement:^8
+Scholars have identified several dimensions of wisdom in this divine arrangement:^2 ^7
 
 **First, independence from human influence.** Without a father shaping his worldview, Muhammad grew free from the ideological biases of patriarchal authority. He did not inherit the tradition of idol worship through a paternal chain of command. His education came directly from lived experience and, ultimately, from divine revelation.
 
@@ -115,7 +115,7 @@ The Prophet Muhammad's experience of orphanhood had a direct impact on Islamic l
 > *"Indeed, those who devour the property of orphans unjustly are only consuming fire into their bellies. "*
 > — QS. An-Nisa (4): 10
 
-The Prophet Muhammad ﷺ himself made care for orphans a marker of faith. Imam al-Bukhari records: ^8
+The Prophet Muhammad ﷺ himself made care for orphans a marker of faith. Imam al-Bukhari records:^3
 
 > أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا
 >

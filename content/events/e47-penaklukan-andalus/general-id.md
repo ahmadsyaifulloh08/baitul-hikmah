@@ -45,13 +45,13 @@ Motivasi spiritual di balik penaklukan Al-Andalus sejalan dengan semangat al-Qur
 > *"Hai orang-orang yang beriman, jika kamu menolong (agama) Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu."* ﴾7﴿
 > — QS. Muhammad (47): 7
 
-## Analisis dan Hikmah^4
+## Analisis dan Hikmah
 
 ### Lahirnya Peradaban Al-Andalus
 
-Penaklukan 711 M bukan akhir dari sebuah cerita — ia adalah awal dari salah satu bab paling gemilang dalam sejarah peradaban manusia. Selama hampir delapan abad (711-1492 M), Al-Andalus menjadi mercusuar peradaban yang menghasilkan kemajuan luar biasa dalam ilmu pengetahuan, seni, arsitektur, dan keharmonisan antar-agama.
+Penaklukan 711 M bukan akhir dari sebuah cerita — ia adalah awal dari salah satu bab paling gemilang dalam sejarah peradaban manusia. Selama hampir delapan abad (711-1492 M), Al-Andalus menjadi mercusuar peradaban yang menghasilkan kemajuan luar biasa dalam ilmu pengetahuan, seni, arsitektur, dan keharmonisan antar-agama.^2
 
-Kota-kota seperti **Kordoba**, **Granada**, dan **Toledo** menjadi pusat-pusat ilmu dunia ketika sebagian besar Eropa masih dalam kegelapan. Perpustakaan Kordoba menyimpan ratusan ribu manuskrip — jumlah yang melampaui seluruh perpustakaan Eropa Kristen digabungkan pada masa itu.
+Kota-kota seperti **Kordoba**, **Granada**, dan **Toledo** menjadi pusat-pusat ilmu dunia ketika sebagian besar Eropa masih dalam kegelapan. Al-Maqqari mencatat bahwa perpustakaan Kordoba menyimpan ratusan ribu manuskrip — jumlah yang melampaui seluruh perpustakaan Eropa Kristen digabungkan pada masa itu.^2
 
 ### Keberanian dan Persiapan
 
@@ -59,7 +59,7 @@ Penyeberangan Tariq menunjukkan kombinasi keberanian dan persiapan strategis. Ia
 
 ### Integrasi Multikultural
 
-Salah satu kunci keberhasilan penaklukan adalah integrasi multikultural. Pasukan Tariq terdiri dari Arab dan Berber; mereka mendapat dukungan dari penduduk Yahudi yang tertekan dan sebagian bangsawan Visigoth. Ini menunjukkan bahwa penaklukan Islam berhasil bukan semata karena kekuatan militer, tetapi karena mampu menawarkan alternatif yang lebih adil bagi masyarakat yang tertindas.
+Salah satu kunci keberhasilan penaklukan adalah integrasi multikultural. Pasukan Tariq terdiri dari Arab dan Berber; mereka mendapat dukungan dari penduduk Yahudi yang tertekan dan sebagian bangsawan Visigoth. Al-Baladhuri mencatat bahwa penaklukan Islam berhasil bukan semata karena kekuatan militer, tetapi karena mampu menawarkan alternatif yang lebih adil bagi masyarakat yang tertindas.^1
 
 ### Nama yang Abadi
 
