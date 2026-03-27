@@ -4,7 +4,7 @@
 
 ## The Youngest Commander in History
 
-Have you ever imagined leading thousands of soldiers at the age of **17**? That is exactly what **Muhammad bin Qasim** did! He was a young commander from the al-Thaqafi family, sent by Governor **al-Hajjaj ibn Yusuf** to lead an army to **Sindh** — a faraway land along the Indus River (now southern Pakistan).
+At the age of **17**, **Muhammad bin Qasim** led thousands of soldiers! He was a young commander from the al-Thaqafi family, sent by Governor **al-Hajjaj ibn Yusuf** to lead an army to **Sindh** — a faraway land along the Indus River (now southern Pakistan).
 
 Why was he sent there? Because a group of Muslim women and children had been captured by pirates in Sindh's territory. The king of that land, **Raja Dahir**, would not or could not free them. So al-Hajjaj decided to send a rescue force.
 
@@ -12,6 +12,8 @@ Why was he sent there? Because a group of Muslim women and children had been cap
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## The Long Journey to the Land of Sindh
 
 Muhammad bin Qasim set out with about **6,000 cavalry soldiers**, plus heavy weapons like the *manjaniq* (giant catapults). The journey to Sindh was incredibly long — across deserts and mountain ranges.
@@ -24,6 +26,8 @@ After capturing Debal, Muhammad bin Qasim continued moving north along the Indus
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Battle Against War Elephants!
 
 The biggest battle was against **Raja Dahir** himself. Raja Dahir brought weapons the Arab army had never faced before — **war elephants**! 🐘 These enormous elephants wore armor and were terrifying.
@@ -36,6 +40,8 @@ Raja Dahir fell in battle. After that, Muhammad bin Qasim continued north, captu
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Islam Comes to the Indian Subcontinent
 
 Muhammad bin Qasim was not only a great commander — he was also a **wise and fair** leader. He let Hindu temples remain standing and allowed the local people to continue practicing their religion. He also included local leaders in his government.
@@ -49,3 +55,6 @@ Lessons from this story:
 - **Protecting the vulnerable** — This whole expedition began from the desire to rescue helpless captives
 
 🎨 *Illustration: Muhammad bin Qasim speaking with local leaders in a newly conquered city. People from various backgrounds listening. Behind them, a Hindu temple and a new mosque standing side by side. Dominant colors of green, white, and earth brown. Peaceful and hopeful mood. Group composition with buildings in the background.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

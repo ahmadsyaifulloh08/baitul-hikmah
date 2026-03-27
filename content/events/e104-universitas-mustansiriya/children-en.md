@@ -4,7 +4,7 @@
 
 In Baghdad during the 13th century, a caliph named **Al-Mustansir Billah** built a very special university. **Mustansiriya University** was the first university in the world to teach all four Islamic schools of law simultaneously on one campus!
 
-Imagine a university with four different faculties: **Hanafi, Maliki, Shafi'i, and Hanbali**. Each faculty had its own professors and library, but all students could learn together and share knowledge.
+This university had four different faculties: **Hanafi, Maliki, Shafi'i, and Hanbali**. Each faculty had its own professors and library, but all students could learn together and share knowledge.
 
 🎨 *Illustration: Magnificent campus with four different faculty buildings around a large courtyard. Background: Baghdad city with Tigris River. Characters: Caliph Al-Mustansir in golden robe examining campus plans, architect pointing to building model. Key objects: four faculty buildings, architectural plans, books, campus mosque minaret. Dominant colors: gold, white marble, garden green, sky blue. Mood: grandeur and great vision. Composition: central courtyard with four faculties surrounding, figures in foreground.*
 
@@ -14,6 +14,8 @@ Most interesting of all, students from throughout the Islamic world could study 
 
 🎨 *Illustration: Students from various countries gathering in the great library with 80,000 manuscripts. Background: tall shelves full of scrolls and books. Characters: students of various ethnicities reading, writing, and discussing; librarian cataloging manuscripts. Key objects: beautiful manuscripts, ink and quills, globe, astronomical instruments. Dominant colors: wood brown, gold manuscripts, white paper, green book bindings. Mood: learning enthusiasm and diversity. Composition: vast library with learning activities in various corners.*
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🔬 Explanation
 
 **Mustansiriya** was built because Caliph Al-Mustansir wanted to unite Muslims through knowledge. At that time, the caliph's political power was already weak, but he chose to build a university rather than an army.
@@ -28,6 +30,8 @@ The Mustansiriya library had **80,000 manuscripts** - the largest collection in 
 
 🎨 *Illustration: Classroom with Ibn al-Nafis teaching heart anatomy using models and diagrams. Background: amphitheater with students sitting in tiers. Characters: professor in green robe pointing to heart diagram, enthusiastic students taking notes. Key objects: heart model, anatomy diagrams, quills and ink, note scrolls. Dominant colors: professor's green, white diagrams, red heart model, wood brown. Mood: lively and enthusiastic learning. Composition: central professor, students circling in tiers, prominent visual aids.*
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌍 Modern Impact
 
 The **Mustansiriya** university model inspired other great universities like **Al-Azhar** in Egypt. The concept of integrating various schools within one institution demonstrated tolerance and intellectual pluralism.
@@ -42,6 +46,8 @@ The most important **legacy** of Mustansiriya is proving that investment in educ
 
 🎨 *Illustration: Modern university with international students, reminiscent of Mustansiriya. Background: campus with various faculties, students from different countries. Characters: diverse ethnic students discussing, professor teaching, graduates receiving diplomas. Key objects: laptops, modern books, diplomas, various country flags. Dominant colors: academic blue, white, colorful flags, campus green. Mood: diversity and progress. Composition: modern campus activities echoing the spirit of ancient Mustansiriya.*
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 Islam & Knowledge
 
 Islam strongly encourages seeking knowledge. **Mustansiriya** shows how Muslims in the past greatly valued knowledge and education for everyone, regardless of regional origin or social status.
@@ -54,3 +60,6 @@ Islam strongly encourages seeking knowledge. **Mustansiriya** shows how Muslims 
 **Prayer**: "O Allah, like the Mustansiriya students who thirsted for knowledge, grant us the enthusiasm to continue learning and use knowledge for the good of humanity."
 
 🎨 *Illustration: Modern Muslim children learning in a library inspired by Mustansiriya. Background: modern library with computers and books. Characters: children of various ages reading Quran and science books, teacher guiding them. Key objects: Quran, science books, computer, globe, small telescope. Dominant colors: Islamic green, knowledge blue, white, wood brown. Mood: learning enthusiasm and spirituality. Composition: learning activities in foreground, modern library architecture in background with Islamic touches.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

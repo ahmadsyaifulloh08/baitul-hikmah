@@ -42,7 +42,7 @@ Muhammad bergegas pulang ke rumah. Setibanya di rumah, beliau berkata kepada Kha
 
 Ketika sudah tenang, Muhammad menceritakan semua yang terjadi di Gua Hira. Beliau berkata: "Aku takut terjadi sesuatu pada diriku."
 
-Dan tahu apa yang dikatakan Khadijah? Dengan penuh keyakinan, Khadijah berkata: "Jangan takut! Demi Allah, Allah tidak akan pernah menghinakanmu. Engkau selalu menyambung silaturahmi, menolong orang yang susah, memuliakan tamu, dan memberi makan orang yang lapar. Allah tidak mungkin menyia-nyiakan orang sebaik dirimu!"
+Dengan penuh keyakinan, Khadijah berkata: "Jangan takut! Demi Allah, Allah tidak akan pernah menghinakanmu. Engkau selalu menyambung silaturahmi, menolong orang yang susah, memuliakan tamu, dan memberi makan orang yang lapar. Allah tidak mungkin menyia-nyiakan orang sebaik dirimu!"
 
 Kata-kata Khadijah membuat Muhammad merasa tenang. Khadijah kemudian menjadi **orang pertama di seluruh dunia** yang percaya bahwa Muhammad adalah utusan Allah.
 
@@ -57,7 +57,7 @@ Malam itu di Gua Hira adalah awal dari sesuatu yang sangat besar! Lima ayat yang
 
 Setelah malam itu, Muhammad resmi menjadi **Nabi dan Rasul Allah**. Tugas beliau adalah menyampaikan pesan Allah kepada seluruh manusia — pesan tentang kebaikan, keadilan, kasih sayang, dan menyembah hanya kepada Allah yang Satu.
 
-Tahukah ? Kata pertama yang diwahyukan Allah adalah "Bacalah!" Ini menunjukkan betapa pentingnya belajar dan mencari ilmu dalam Islam. Allah ingin kita semua rajin membaca, rajin belajar, dan rajin berpikir!
+Kata pertama yang diwahyukan Allah adalah "Bacalah!" Ini menunjukkan betapa pentingnya belajar dan mencari ilmu dalam Islam. Allah ingin kita semua rajin membaca, rajin belajar, dan rajin berpikir!
 
 Khadijah menjadi orang pertama yang beriman. Lalu sedikit demi sedikit, orang-orang lain pun mulai beriman. Dari gua kecil di puncak gunung yang sunyi, lahirlah sebuah agama yang hari ini dipeluk oleh hampir dua miliar manusia di seluruh dunia!
 

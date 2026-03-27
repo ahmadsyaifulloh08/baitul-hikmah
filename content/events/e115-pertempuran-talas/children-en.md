@@ -10,6 +10,8 @@ The battle was triggered when the King of Ferghana requested Tang assistance to 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The Story
 
 The battle began on July 10, 751 CE. Tang forces had about 30,000 soldiers with advanced weaponry such as crossbows and strong armor. The Arab Muslim forces numbered around 25,000, including Karluk Turkish cavalry skilled in steppe warfare.
@@ -22,6 +24,8 @@ The Karluk Turkish tribe, which had originally assisted the Tang, suddenly turne
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 The Lessons
 
 The Muslim victory at Talas established the boundary between the Islamic world and China for centuries. After this battle, the Tang never again attempted to expand territory west of the Talas River.
@@ -34,6 +38,8 @@ Thanks to this paper technology, the tradition of writing and translating scient
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Verse
 
 Allah SWT reminds us of the wisdom behind every event:
@@ -48,3 +54,6 @@ The Battle of Talas shows that from conflict can emerge unexpected good. The tra
 Let us pray: "O Allah, make every trial and test a path to greater good. Grant us wisdom to see the lessons behind every event."
 
 🎨 *Illustration: House of Wisdom library in Baghdad with thousands of paper scrolls and books neatly arranged. Scholars and translators from various nations working together to translate scientific works. Islamic architecture with beautiful calligraphy on walls. Warm afternoon setting with golden light. Peaceful and productive atmosphere. Dominant colors: gold, wooden shelf brown, paper white, plant green. Wide shot composition showing the magnificent scale of the library.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

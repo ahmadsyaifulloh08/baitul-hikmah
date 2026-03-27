@@ -12,6 +12,8 @@ The Byzantine army was much larger in number, reaching 100,000-150,000 people. H
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The story
 
 The battle began in the morning with Seljuk forces using typical steppe horseman tactics. They attacked with arrows from a distance, then retreated to draw the enemy out of formation. When Byzantine forces pursued, Seljuk cavalry returned to attack from the sides.
@@ -26,6 +28,8 @@ Alp Arslan agreed to free Romanos after the emperor promised to pay ransom and b
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 The lessons
 
 The Battle of Manzikert taught that large numbers of troops do not always guarantee victory. More important are unity, proper strategy, and good leadership. The Seljuk forces won because they were more united and had superior tactics.
@@ -40,6 +44,8 @@ The Manzikert victory also had great long-term impact. The Byzantine Empire beca
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Evidence
 
 Islam teaches that in war, Muslims should always seek peace if the enemy desires it. The Quran states:
@@ -56,3 +62,6 @@ The victory at Manzikert also showed that Allah SWT helps people who are united 
 Seljuk warriors were also known as religious people. They prayed in congregation before battle and always remembered Allah in every action they took.
 
 🎨 *Illustration: Sultan Alp Arslan and Seljuk warriors performing congregational prayer on the battlefield before battle begins. They line up neatly facing the qibla with golden dawn background. Their horses are behind them in calm state. Setting: open plain with dawn light. Dominant colors: white prayer mats, golden dawn light, brown earth, blue robes. Mood: devout and spiritual. Composition: wide shot with prayer line as focal point.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

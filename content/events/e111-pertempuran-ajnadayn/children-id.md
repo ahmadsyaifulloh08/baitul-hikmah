@@ -14,6 +14,8 @@ Abu Bakr mengirim **empat pasukan** ke empat arah berbeda. Di antaranya adalah *
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Khalid Melintasi Gurun yang Mustahil
 
 Ketika para komandan Muslim di Syam melaporkan bahwa pasukan Romawi sangat besar, Abu Bakr memanggil panglima terhebatnya: **Khalid bin al-Walid**! Tapi Khalid sedang jauh di **Irak**, berperang di front lain.
@@ -28,6 +30,8 @@ Ketika Khalid tiba di Syam, ia langsung ditunjuk sebagai **panglima tertinggi** 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Pertempuran Besar di Ajnadayn
 
 Pasukan Muslim dan pasukan Romawi akhirnya bertemu di lembah **Ajnadayn**, di wilayah Palestina. Ini adalah pertempuran besar pertama antara kaum Muslim dan Kekaisaran Romawi!
@@ -42,6 +46,8 @@ Pertempuran berlangsung sengit sepanjang hari. Dan akhirnya.. **pasukan Muslim m
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Wasiat Abu Bakr: Perang yang Beretika
 
 Sebelum mengirim pasukan, Abu Bakr memberikan pesan penting yang sangat indah:
@@ -56,6 +62,8 @@ Prinsip-prinsip ini sangat maju — bahkan lebih maju dari aturan perang modern 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Pintu Gerbang ke Dunia Baru
 
 Kemenangan di Ajnadayn membuka **pintu gerbang** bagi penaklukan-penaklukan besar setelahnya:
@@ -70,6 +78,8 @@ Semua ini dimulai dari satu pertempuran di lembah kecil bernama Ajnadayn. Siapa 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Pelajaran dari Ajnadayn
 
 Pertempuran Ajnadayn mengajarkan kita:
@@ -82,3 +92,6 @@ Pertempuran Ajnadayn mengajarkan kita:
 Allah berfirman tentang tanah Syam: **"..Masjidil Aqsha yang telah Kami berkahi sekelilingnya."** (QS Al-Isra: 1)
 
 🎨 *Ilustrasi: Khalid dan Amr berdiri berdampingan di atas bukit, memandang ke arah Syam yang hijau membentang di depan mereka. Angin bertiup lembut, jubah mereka berkibar. Warna dominan: hijau Syam, biru langit, dan emas matahari. Mood: penuh kemenangan dan refleksi. Komposisi: dua figur di bukit dari belakang, memandang panorama Syam yang luas.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

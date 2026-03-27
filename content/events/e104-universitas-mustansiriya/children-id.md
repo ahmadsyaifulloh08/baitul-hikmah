@@ -14,6 +14,8 @@ Yang paling menarik, semua mahasiswa dari seluruh dunia Islam bisa kuliah **grat
 
 🎨 *Ilustrasi: Mahasiswa dari berbagai negara berkumpul di perpustakaan besar dengan 80.000 naskah. Background: rak-rak tinggi penuh gulungan dan kitab. Karakter: mahasiswa berbagai etnisitas sedang membaca, menulis, dan berdiskusi; pustakawan sedang mengkatalog naskah. Objek kunci: naskah-naskah indah, tinta dan pena, globe, alat astronomi. Warna dominan: coklat kayu, emas naskah, putih kertas, hijau jilid buku. Mood: semangat belajar dan keragaman. Komposisi: perpustakaan luas dengan aktivitas belajar di berbagai sudut.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🔬 Penjelasan
 
 **Mustansiriya** dibangun karena Khalifah Al-Mustansir ingin menyatukan umat Islam melalui ilmu pengetahuan. Pada masa itu, kekuasaan politik khalifah sudah lemah, tetapi beliau memilih membangun universitas daripada tentara.
@@ -28,6 +30,8 @@ Perpustakaan Mustansiriya memiliki **80.000 naskah** - koleksi terbesar di dunia
 
 🎨 *Ilustrasi: Ruang kelas dengan Ibn al-Nafis sedang mengajar anatomi jantung menggunakan model dan diagram. Background: amphiteater dengan mahasiswa duduk bertingkat. Karakter: professor dengan jubah hijau menunjuk diagram jantung, mahasiswa antusias mencatat. Objek kunci: model jantung, diagram anatomi, pena dan tinta, gulungan catatan. Warna dominan: hijau profesor, putih diagram, merah model jantung, coklat kayu. Mood: pembelajaran yang hidup dan antusias. Komposisi: professor sentral, mahasiswa melingkar bertingkat, visual aids menonjol.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌍 Dampak Modern
 
 Model universitas **Mustansiriya** menginspirasi universitas-universitas besar lainnya seperti **Al-Azhar** di Mesir. Konsep mengintegrasikan berbagai mazhab dalam satu institusi menunjukkan toleransi dan pluralisme intelektual.
@@ -42,6 +46,8 @@ Hingga kini, konsep **universitas riset** dengan berbagai fakultas terintegrasi 
 
 🎨 *Ilustrasi: Universitas modern dengan mahasiswa internasional, mengingatkan pada Mustansiriya. Background: kampus dengan berbagai fakultas, mahasiswa dari berbagai negara. Karakter: mahasiswa beragam etnisitas berdiskusi, professor mengajar, wisudawan menerima diploma. Objek kunci: laptop, buku modern, diploma, bendera berbagai negara. Warna dominan: biru akademis, putih, warna-warni bendera, hijau taman kampus. Mood: keberagaman dan kemajuan. Komposisi: aktivitas kampus modern yang menggema semangat Mustansiriya kuno.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Islam & Ilmu
 
 Islam sangat menganjurkan menuntut ilmu. **Mustansiriya** menunjukkan bagaimana umat Islam pada masa lalu sangat menghargai ilmu pengetahuan dan pendidikan untuk semua orang, tanpa memandang asal daerah atau status sosial.
@@ -54,3 +60,6 @@ Islam sangat menganjurkan menuntut ilmu. **Mustansiriya** menunjukkan bagaimana 
 **Doa**: "Ya Allah, seperti para mahasiswa Mustansiriya yang haus akan ilmu, berikanlah kami semangat untuk terus belajar dan menggunakan ilmu untuk kebaikan umat manusia."
 
 🎨 *Ilustrasi: Anak-anak Muslim masa kini sedang belajar di perpustakaan dengan inspirasi dari Mustansiriya. Background: perpustakaan modern dengan komputer dan buku-buku. Karakter: anak-anak berbagai usia sedang membaca Quran dan buku sains, guru sedang membimbing. Objek kunci: Quran, buku sains, komputer, globe, teleskop kecil. Warna dominan: hijau Islamic, biru pengetahuan, putih, coklat kayu. Mood: semangat belajar dan spiritualitas. Komposisi: aktivitas belajar di foreground, arsitektur perpustakaan modern di background dengan sentuhan Islamic.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

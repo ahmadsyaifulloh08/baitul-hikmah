@@ -10,6 +10,8 @@ Di tengah kota ada bangunan yang sangat indah bernama Hagia Sophia. Bangunan ini
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## ⚔️ Sultan Muda yang Berani
 
 Sultan Mehmed II menjadi pemimpin Kerajaan Turki Ottoman saat usianya baru 21 tahun. Meskipun masih muda, dia memiliki cita-cita yang besar: menaklukkan Konstantinopel. Banyak sultan sebelumnya sudah pernah mencoba, tetapi selalu gagal karena tembok kota terlalu kuat.
@@ -20,6 +22,8 @@ Mehmed II berbeda dengan yang lain. Dia sangat pintar dan suka belajar teknologi
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🔥 Meriam Raksasa dan Peperangan
 
 Meriam yang dibuat untuk Sultan Mehmed sangat besar dan menakutkan. Panjangnya seperti dua ekor gajah yang berjajar! Suara meriam ini sangat keras sampai bisa didengar dari jarak 16 kilometer. Bola meriam yang ditembakkan seberat enam ratus kilogram - lebih berat dari lima ekor sapi!
@@ -30,6 +34,8 @@ Peperangan berlangsung selama 53 hari. Setiap hari, meriam raksasa menembak temb
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🕌 Hagia Sophia Menjadi Masjid
 
 Setelah berhasil menguasai kota, hal pertama yang dilakukan Sultan Mehmed adalah pergi ke Hagia Sophia. Dia sangat kagum melihat keindahan bangunan ini. Kubahnya sangat tinggi dan luas, seperti langit yang menutupi bumi.
@@ -40,6 +46,8 @@ Sultan Mehmed memutuskan untuk mengubah Hagia Sophia menjadi masjid. Dia tidak m
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Pelajaran dan Hikmah
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
@@ -51,3 +59,6 @@ Penaklukan Konstantinopel mengajarkan kita bahwa dengan tekad yang kuat, persiap
 Cara Sultan Mehmed memperlakukan penduduk kota yang kalah juga patut diteladani. Dia tidak menghancurkan keindahan yang sudah ada, tetapi menambahkan sentuhan Islam. Ini menunjukkan bahwa Islam mengajarkan toleransi dan menghargai keindahan.
 
 🎨 *Ilustrasi: Sultan Mehmed berdoa di dalam masjid Hagia Sophia yang sudah berubah, cahaya lembut dari kubah, ornamen Islam yang indah, suasana tenang dan khusyuk, warna hangat dan damai, komposisi menampilkan momen spiritual*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

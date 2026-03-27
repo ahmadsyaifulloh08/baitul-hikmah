@@ -12,6 +12,8 @@ Zengi chose Edessa as his first target because this city was weakest and difficu
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The Story
 
 In December 1144 CE, Zengi led massive attacks against Edessa. His army consisted of various tribes: Turkish, Arab, and Kurdish united for jihad. They brought sophisticated siege equipment and high spirits.
@@ -26,6 +28,8 @@ Unlike brutal Crusader methods in Jerusalem, Zengi treated inhabitants well. He 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 The Lesson
 
 Zengi's victory at Edessa taught that unity is key to strength. Previously, Muslim rulers fought each other and were weak. When they united under Zengi's leadership, they could defeat the Crusaders.
@@ -40,6 +44,8 @@ This victory became inspiration for other Muslim leaders that Crusaders could be
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Scripture
 
 The Qur'an promises that Allah will help those who help His religion:
@@ -54,3 +60,6 @@ Zengi and his troops fought not for personal power, but to liberate holy lands f
 Zengi's story teaches that when Muslims unite, prepare well, and struggle in the right path, Allah will give victory. We must always remember that true strength comes from Allah.
 
 🎨 *Illustration: Nighttime at Muslim army camp after victory. Soldiers performing night prayers together under stars. Tents fluttering in wind, and soft dhikr sounds heard. Dominant colors: night blue, star white, tent green, lantern light gold. Gratitude and peace atmosphere. Composition: prayer lines in center, tents in background, starry sky vast above.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

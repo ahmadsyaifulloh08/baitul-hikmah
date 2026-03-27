@@ -10,6 +10,8 @@ Alhambra was not just an ordinary palace, but like a complete small city. Inside
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## ⭐ Extraordinary Architectural Art
 
 What makes Alhambra so special is its incredibly beautiful decorative art. The palace walls are filled with intricate carvings in geometric patterns. There is also Arabic calligraphy containing Quranic verses and beautiful poems.
@@ -20,6 +22,8 @@ The palace ceilings were made with a technique called muqarnas, like giant honey
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 💧 Water and Garden Wonders
 
 One of Alhambra's wonders is its very sophisticated water system. Water flows through small channels throughout the palace, creating soothing trickling sounds. The palace gardens are filled with fountains, small pools, and fragrant plants.
@@ -30,6 +34,8 @@ The most famous courtyard is the Court of Lions with its lion fountain. Twelve m
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 Center of Knowledge
 
 Alhambra was not only a beautiful palace, but also a center of science and culture. The Nasrid kings invited scholars, poets, artists, and scientists from throughout the Islamic world to live in the palace. The palace library stored thousands of manuscripts on various sciences.
@@ -40,6 +46,8 @@ Beautiful Arabic-Andalusian literary works were born in this palace. Poems were 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 Eternal Beauty
 
 > إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ
@@ -51,3 +59,6 @@ Alhambra teaches us that Islam greatly values beauty. Muslim architects built th
 Although Spain is no longer ruled by Muslims, Alhambra still stands as proof of the greatness of Islamic civilization. Millions of people from around the world come to admire its beauty. UNESCO made Alhambra a World Heritage Site because of its extraordinary artistic and historical value.
 
 🎨 *Illustration: Visitors from various countries and religions admiring Alhambra's beauty, children reading books about Islamic history, photographers capturing architecture, guide explaining, UNESCO flag flying, appreciative and peaceful atmosphere, symbol of world cultural heritage*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

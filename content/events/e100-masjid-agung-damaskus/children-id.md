@@ -10,6 +10,8 @@ Khalifah al-Walid tidak mengambil gereja secara paksa, tetapi melakukan negosias
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🔧 Proses Pembangunan
 
 Pembangunan Masjid Umayyah membutuhkan arsitek dan seniman terbaik dari berbagai negara. Ada ahli dari Bizantium (Turki sekarang), Persia (Iran sekarang), dan Arab yang bekerja sama menciptakan desain yang unik. Mereka memadukan gaya arsitektur yang berbeda-beda menjadi satu kesatuan yang indah.
@@ -22,6 +24,8 @@ Tim arsitek juga menciptakan inovasi penting seperti sistem ventilasi yang membu
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌍 Keindahan dan Dampak
 
 Mosaik Masjid Umayyah dianggap sebagai salah satu karya seni Islam terbaik sepanjang masa. Menggunakan jutaan potongan kaca berwarna dan emas, mosaik ini menggambarkan pemandangan surga dengan taman-taman, sungai-sungai, dan istana-istana yang indah. Tidak ada gambar manusia atau hewan, sesuai dengan prinsip seni Islam.
@@ -34,6 +38,8 @@ Masjid Umayyah menjadi model untuk pembangunan masjid-masjid besar di seluruh du
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Makna dan Pelajaran
 
 Masjid Umayyah mengajarkan banyak pelajaran berharga. Pertama, pentingnya dialog dan toleransi antar agama. Khalifah al-Walid menunjukkan bahwa perbedaan agama tidak harus menghasilkan konflik, tetapi bisa diselesaikan dengan negosiasi yang adil dan saling menghormati.
@@ -47,3 +53,6 @@ Kedua, Islam menghargai keindahan dan seni. Mosaik yang indah dan kaligrafi yang
 Ketiga, pentingnya kerjasama internasional. Para arsitek dari berbagai bangsa bekerja sama menciptakan masjid yang luar biasa indah. Ini menunjukkan bahwa keragaman budaya dapat memperkaya khazanah seni dan arsitektur Islam.
 
 🎨 *Ilustrasi: Pemandangan malam Damaskus dengan Masjid Umayyah yang diterangi cahaya lembut. Ada anak-anak Muslim dan Kristen bermain bersama di taman kota, sementara orang dewasa dari berbagai agama berdagang dengan damai di pasar malam. Setting: kota multikultural dengan arsitektur Islam dan Kristen berdampingan, warna hangat cahaya malam dan bintang. Suasana harmonis dan toleransi.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

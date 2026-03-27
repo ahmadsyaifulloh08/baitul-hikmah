@@ -2,9 +2,7 @@
 
 ## 🌙 Bagaimana Semuanya Dimulai
 
-Pernahkah kalian menyimpan rahasia yang sangat penting? Rahasia yang begitu besar, kalian hanya bisa menceritakannya kepada orang-orang yang paling kalian percaya?
-
-**Nabi Muhammad SAW** pernah menyimpan rahasia seperti itu. Setelah menerima wahyu pertama dari Allah melalui Malaikat Jibril di Gua Hira, beliau mulai mengajak orang-orang untuk menyembah Allah saja — tapi secara sembunyi-sembunyi! Kenapa sembunyi-sembunyi? Karena orang-orang Quraisy di Makkah menyembah berhala, dan mereka pasti akan marah besar kalau tahu ada yang mengajak meninggalkan berhala-berhala mereka.
+**Nabi Muhammad SAW** menyimpan sebuah rahasia yang sangat penting — rahasia yang begitu besar, beliau hanya bisa menceritakannya kepada orang-orang yang paling beliau percaya. Setelah menerima wahyu pertama dari Allah melalui Malaikat Jibril di Gua Hira, beliau mulai mengajak orang-orang untuk menyembah Allah saja — tapi secara sembunyi-sembunyi! Kenapa sembunyi-sembunyi? Karena orang-orang Quraisy di Makkah menyembah berhala, dan mereka pasti akan marah besar kalau tahu ada yang mengajak meninggalkan berhala-berhala mereka.
 
 Jadi selama tiga tahun, Nabi Muhammad SAW mengajak orang satu per satu, pelan-pelan, hanya kepada orang yang beliau percaya.
 
@@ -23,7 +21,7 @@ Siapa saja orang pertama yang percaya kepada Nabi Muhammad SAW? Mereka sangat is
 
 **Zaid bin Haritsah** — anak angkat Nabi yang dulu pernah menjadi budak. Nabi membebaskannya dan menyayanginya seperti anak sendiri. Zaid langsung percaya kepada Nabi.
 
-**Abu Bakr** — sahabat terbaik Nabi. Abu Bakr adalah seorang pedagang yang sangat dihormati di Makkah. Ketika Nabi bercerita tentang wahyu, Abu Bakr langsung beriman tanpa bertanya macam-macam. Luar biasa, kan?
+**Abu Bakr** — sahabat terbaik Nabi. Abu Bakr adalah seorang pedagang yang sangat dihormati di Makkah. Ketika Nabi bercerita tentang wahyu, Abu Bakr langsung beriman tanpa bertanya macam-macam. Abu Bakr dikenal sebagai "As-Siddiq" — yang membenarkan.
 
 > **🎨 Brief Ilustrasi:**
 > *Empat figur berdiri berdampingan: Khadijah (wanita dewasa dengan pakaian anggun), Ali (anak laki-laki kecil tersenyum ceria), Zaid (pemuda dengan wajah ramah), dan Abu Bakr (pria dewasa dengan wajah bijaksana). Di belakang mereka, matahari terbit berwarna keemasan. Warna cerah dan hangat. Mood penuh semangat dan persahabatan. Komposisi grup — empat figur sejajar, masing-masing dengan ekspresi khas.*

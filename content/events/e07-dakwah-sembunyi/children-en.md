@@ -2,9 +2,7 @@
 
 ## 🌙 How It All Began
 
-Have you ever kept a really important secret? A secret so big that you could only share it with the people you trust the most?
-
-**Prophet Muhammad SAW** once kept a secret like that. After receiving the first revelation from Allah through the Angel Jibril in the Cave of Hira, he began inviting people to worship Allah alone — but secretly! Why secretly? Because the Quraysh people in Mecca worshipped idols, and they would be furious if they found out someone was calling people to abandon their idols.
+**Prophet Muhammad SAW** kept a very important secret — a secret so big that he could only share it with the people he trusted the most. After receiving the first revelation from Allah through the Angel Jibril in the Cave of Hira, he began inviting people to worship Allah alone — but secretly! Why secretly? Because the Quraysh people in Mecca worshipped idols, and they would be furious if they found out someone was calling people to abandon their idols.
 
 So for three whole years, Prophet Muhammad SAW invited people one by one, slowly and carefully, only those he trusted.
 
@@ -23,7 +21,7 @@ Who were the first people to believe in Prophet Muhammad SAW? They were very spe
 
 **Zaid ibn Harithah** — the Prophet's adopted son who was once a slave. The Prophet freed him and loved him like his own child. Zaid believed in the Prophet right away.
 
-**Abu Bakr** — the Prophet's best friend. Abu Bakr was a merchant highly respected in Mecca. When the Prophet told him about the revelation, Abu Bakr believed instantly without asking for proof.
+**Abu Bakr** — the Prophet's best friend. Abu Bakr was a merchant highly respected in Mecca. When the Prophet told him about the revelation, Abu Bakr believed instantly without asking for proof. He became known as "As-Siddiq" — the Truthful.
 
 > **🎨 Illustration Brief:**
 > *Four figures standing side by side: Khadijah (adult woman in elegant clothing), Ali (small boy smiling cheerfully), Zaid (young man with a kind face), and Abu Bakr (adult man with a wise expression). Behind them, a golden sunrise. Bright and warm colors. Mood full of energy and hip. Group composition — four figures in a row, each with a distinctive expression.*
@@ -36,7 +34,7 @@ As more people embraced Islam, they needed a place to gather and learn together.
 
 They chose the house of a young man named **Al-Arqam**. His house was near Mount Safa in Mecca. There, Prophet Muhammad SAW taught Qur'anic verses to the companions. They studied together, prayed together, and encouraged one another.
 
-It like a secret club — but not for playing — for learning about goodness and truth! There, there was no difference between rich and poor, between masters and former slaves. Everyone was equal before Allah.
+It was like a secret club — but not for playing — for learning about goodness and truth! There, there was no difference between rich and poor, between masters and former slaves. Everyone was equal before Allah.
 
 In three years, about 40 people had embraced Islam. Not many, perhaps, but they were all extraordinary people who would one day change the world!
 

@@ -14,6 +14,8 @@ Setelah Rasulullah ﷺ wafat, Musailamah semakin berani. Ia mengumpulkan **40.00
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Khalid bin al-Walid Dikirim
 
 Khalifah **Abu Bakr** tahu bahwa Musailamah sangat berbahaya. Maka ia mengirim panglima terbaik umat Islam: **Khalid bin al-Walid**, yang dijuluki *Pedang Allah*.
@@ -26,6 +28,8 @@ Ketika tiba di Yamamah, pasukan Muslim menghadapi pertempuran yang sangat berat.
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Seruan Para Sahabat
 
 Di saat pasukan Muslim hampir kalah, para sahabat saling menyemangati. Mereka berteriak satu sama lain:
@@ -43,6 +47,8 @@ Para sahabat ini menunjukkan bahwa al-Quran bukan hanya untuk dibaca dan dihafal
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Taman Kematian
 
 Pasukan Musailamah akhirnya mundur dan bersembunyi di balik tembok sebuah **taman besar**. Mereka pikir tembok tinggi itu bisa melindungi mereka.
@@ -57,6 +63,8 @@ Taman itu kemudian dikenal sebagai **Hadiqat al-Maut** — Taman Kematian.
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Harga Sebuah Kemenangan
 
 Kaum Muslim menang, tapi dengan harga yang sangat mahal. Sekitar **700 sahabat** gugur dalam pertempuran ini, dan di antara mereka terdapat ratusan **penghafal al-Quran**.
@@ -69,6 +77,8 @@ Inilah yang kemudian menjadi awal dari **pengumpulan mushaf al-Quran** — agar 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Pelajaran dari Yamamah
 
 Perang Yamamah mengajarkan kita:
@@ -81,3 +91,6 @@ Perang Yamamah mengajarkan kita:
 Allah berfirman: **"Janganlah kamu mengira bahwa orang-orang yang gugur di jalan Allah itu mati; bahkan mereka itu hidup di sisi Tuhan mereka."** (QS Ali Imran: 169)
 
 🎨 *Ilustrasi: Mushaf al-Quran terbuka di atas dudukan kayu, dengan cahaya emas lembut memancar dari halaman-halamannya. Di latar belakang, siluet masjid Madinah dan langit berbintang. Warna dominan: emas dan biru gelap. Mood: sakral dan damai. Komposisi: mushaf di tengah bawah, masjid di latar atas, bintang-bintang bertebaran.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

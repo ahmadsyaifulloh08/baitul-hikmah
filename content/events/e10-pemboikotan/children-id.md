@@ -28,7 +28,7 @@ Anak-anak kecil menangis karena lapar. Suara tangisan mereka terdengar sampai ke
 
 ## 🌙 Pertolongan Diam-Diam
 
-Tapi tahukah kalian? Tidak semua orang Quraisy setuju dengan kekejaman ini. Ada orang-orang baik yang diam-diam membantu!
+Tidak semua orang Quraisy setuju dengan kekejaman ini. Ada orang-orang baik yang diam-diam membantu!
 
 **Hisyam bin Amr**, seorang lelaki pemberani, setiap malam memuat untanya dengan makanan. Lalu ia melepaskan unta itu menuju mulut lembah agar keluarga Bani Hasyim bisa mengambil makanannya. Ia melakukan ini berulang kali, meskipun sangat berbahaya baginya jika ketahuan.
 

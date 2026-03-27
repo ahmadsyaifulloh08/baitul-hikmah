@@ -14,6 +14,8 @@ After the Prophet ﷺ passed away, Musaylimah became even bolder. He gathered **
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Khalid ibn al-Walid Is Sent
 
 Caliph **Abu Bakr** knew that Musaylimah was extremely dangerous. So he sent the greatest commander in Islam: **Khalid ibn al-Walid**, known as the *Sword of Allah*.
@@ -26,6 +28,8 @@ When they reached Yamamah, the Muslim army faced a very tough battle. Musaylimah
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## The Companions' Battle Cry
 
 Just when the Muslim army was close to defeat, the companions rallied each other. They shouted to one another:
@@ -43,6 +47,8 @@ These companions showed that the Quran is not just for reading and memorizing �
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## The Garden of Death
 
 Musaylimah's forces finally retreated and hid behind the walls of a **large walled garden**. They thought the tall walls would protect them.
@@ -57,6 +63,8 @@ The garden became known as **Hadiqat al-Mawt** — the Garden of Death.
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## The Price of Victory
 
 The Muslims won, but at a very heavy price. About **700 companions** fell in this battle, and among them were hundreds of **Quran memorizers**.
@@ -69,6 +77,8 @@ This became the beginning of the **compilation of the Quran** — so that Allah'
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Lessons from Yamamah
 
 The Battle of Yamamah teaches us:
@@ -81,3 +91,6 @@ The Battle of Yamamah teaches us:
 Allah says: **"Do not think of those who have been killed in the cause of Allah as dead. Rather, they are alive with their Lord. ﴾169﴿"** (QS. Ali Imran: 169)
 
 🎨 *Illustration: An open Quran manuscript on a wooden stand, with gentle golden light radiating from its pages. In the background, the silhouette of the Madinah mosque and a starry sky. Dominant colors: gold and dark blue. Mood: sacred and peaceful. Composition: manuscript centered at bottom, mosque in the upper background, stars scattered above.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

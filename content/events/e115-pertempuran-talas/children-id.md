@@ -10,6 +10,8 @@ Pertempuran dipicu ketika Raja Ferghana meminta bantuan Tang untuk melawan tekan
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Ceritanya
 
 Pertempuran dimulai pada 10 Juli 751 M. Pasukan Tang memiliki sekitar 30.000 tentara dengan persenjataan canggih seperti panah silang dan armor kuat. Pasukan Muslim Arab sekitar 25.000 orang, termasuk kavaleri Turki Karluk yang ahli berperang di stepa.
@@ -22,6 +24,8 @@ Suku Turki Karluk yang semula membantu Tang tiba-tiba berbalik menyerang pasukan
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajarannya
 
 Kemenangan Muslim di Talas menetapkan batas antara dunia Islam dan Tiongkok untuk berabad-abad. Setelah pertempuran ini, Tang tidak pernah lagi mencoba memperluas wilayah ke barat Sungai Talas.
@@ -34,6 +38,8 @@ Berkat teknologi kertas ini, tradisi penulisan dan penerjemahan karya ilmiah dal
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Dalil
 
 Allah SWT mengingatkan tentang hikmah di balik setiap peristiwa:
@@ -48,3 +54,6 @@ Pertempuran Talas menunjukkan bahwa dari konflik bisa muncul kebaikan yang tidak
 Mari berdoa: "Ya Allah, jadikanlah setiap cobaan dan ujian sebagai jalan untuk kebaikan yang lebih besar. Berikanlah kami hikmah untuk melihat pelajaran di balik setiap peristiwa."
 
 🎨 *Ilustrasi: Perpustakaan Baitul Hikmah di Baghdad dengan ribuan gulungan kertas dan buku tersusun rapi. Ulama dan penerjemah dari berbagai bangsa bekerja sama menerjemahkan karya ilmiah. Arsitektur Islam dengan kaligrafi indah di dinding. Setting sore yang hangat dengan cahaya emas. Suasana damai dan produktif. Warna dominan: emas, coklat kayu rak, putih kertas, hijau tanaman. Komposisi wide shot menampilkan skala kemegahan perpustakaan.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

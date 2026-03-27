@@ -14,6 +14,8 @@ Abu Bakr dispatched **four armies** in four different directions. Among them was
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Khalid Crosses the Impossible Desert
 
 When the Muslim commanders in al-Sham reported that the Roman army was enormous, Abu Bakr summoned his greatest general: **Khalid ibn al-Walid**! But Khalid was far away in **Iraq**, fighting on another front.
@@ -28,6 +30,8 @@ When Khalid arrived in al-Sham, he was immediately appointed **supreme commander
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## The Great Battle at Ajnadayn
 
 The Muslim and Roman armies finally met in the valley of **Ajnadayn**, in the land of Palestine. This was the first great battle between the Muslims and the Roman Empire!
@@ -42,6 +46,8 @@ The battle raged fiercely throughout the day. And in the end... **the Muslims wo
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Abu Bakr's Testament: War with Ethics
 
 Before sending his armies, Abu Bakr gave them a beautiful and important message:
@@ -56,6 +62,8 @@ These principles were incredibly advanced — even more advanced than modern law
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Gateway to a New World
 
 The victory at Ajnadayn opened the **gateway** to great conquests that followed:
@@ -70,6 +78,8 @@ It all began with one battle in a small valley called Ajnadayn. Who would have t
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Lessons from Ajnadayn
 
 The Battle of Ajnadayn teaches us:
@@ -82,3 +92,6 @@ The Battle of Ajnadayn teaches us:
 Allah says about the land of al-Sham: **"...al-Masjid al-Aqsa, whose surroundings We have blessed. ﴾1﴿"** (QS. Al-Isra: 1)
 
 🎨 *Illustration: Khalid and Amr standing side by side on a hilltop, gazing toward the green expanse of al-Sham stretching before them. A gentle wind blows, their robes billowing. Dominant colors: al-Sham green, blue sky, and golden sunlight. Mood: triumphant and reflective. Composition: two figures on a hill from behind, looking out over the vast panorama of al-Sham.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

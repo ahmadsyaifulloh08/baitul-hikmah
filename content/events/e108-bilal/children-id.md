@@ -19,7 +19,7 @@ Bilal pun memeluk Islam. Dia tahu risikonya sangat besar — tuannya pasti akan 
 
 Ketika Umayyah tahu bahwa Bilal masuk Islam, dia marah besar! Setiap hari, saat matahari tepat di atas kepala dan pasir gurun panas sekali, Umayyah menyuruh orang-orangnya membaringkan Bilal telentang di atas pasir yang membara. Lalu mereka meletakkan **batu besar** di atas dadanya!
 
-Betapa sakitnya! Punggung terbakar pasir panas, dada ditekan batu berat, matahari menyengat tanpa henti.
+Punggung terbakar pasir panas, dada ditekan batu berat, matahari menyengat tanpa henti. Sangat menyiksa!
 
 Umayyah berteriak: "Tinggalkan Islam! Sembah berhala kami! Baru aku lepaskan kamu!"
 

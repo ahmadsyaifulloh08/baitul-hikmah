@@ -10,6 +10,8 @@ Constantinople was a very important city because its location connected Europe a
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The Siege Story
 
 The expedition command was led by Maslama ibn Abd al-Malik, the caliph's brother who was an experienced general. The strategy was a double siege: naval fleet blockading the harbor, while land forces besieged from the mainland. This was to cut off all food supply routes and assistance to Constantinople.
@@ -22,6 +24,8 @@ The siege lasted through a very harsh winter (717-718 CE). Muslim forces faced g
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 Lessons from Failure
 
 The siege ultimately failed due to several factors. First, Byzantine military technology was more advanced, especially Greek fire which destroyed many Muslim ships. Second, Emperor Leo III's diplomacy successfully gained assistance from the Bulgarian Kingdom which attacked Muslim forces from behind.
@@ -30,10 +34,12 @@ Third, complicated logistical problems. The distance between Constantinople and 
 
 This failure taught that military strength alone is not enough. Mature planning, adequate technology, good diplomacy, and understanding of geographical and climatic conditions are needed. This became a valuable lesson for Islamic civilization.
 
-🎨 *Illustration: Muslim forces retreating from Constantinople with remaining ships. There are sick and cold soldiers being helped by their friends. In the distance, Constantinople's walls still stand firm. Sad but wise atmosphere. Setting: winter beach with damaged ships, light snow, cloudy sky. Atmosphere of dignified retreat and learning.*
+🎨 *Illustration: Muslim forces retreating from Constantinople with remaining ships. There are sick and cold soldiers being helped by their companions. In the distance, Constantinople's walls still stand firm. Sad but wise atmosphere. Setting: winter beach with damaged ships, light snow, cloudy sky. Atmosphere of dignified retreat and learning.*
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Wisdom
 
 Despite failing, this siege provided important lessons. Allah SWT reminds us of the importance of mature preparation in the Quran:
@@ -45,3 +51,6 @@ Despite failing, this siege provided important lessons. Allah SWT reminds us of 
 This failure changed Umayyad focus from military expansion to civilizational development. The results were extraordinary! They built beautiful mosques like the Umayyad Mosque in Damascus and developed very advanced science, arts, and architecture. Sometimes failure actually leads us to a better path.
 
 🎨 *Illustration: Peaceful scene showing positive results from this failure - the beautiful Umayyad Mosque in Damascus, library with scholars learning, artists creating Islamic art works. Contrasts with previous war scenes. Setting: advanced Islamic city with beautiful architecture, gardens, and learning centers. Warm and peaceful colors. Atmosphere of civilizational progress and wisdom.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

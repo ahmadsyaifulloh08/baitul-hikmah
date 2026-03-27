@@ -1,48 +1,65 @@
-# Dome of the Rock — Kubah Emas di Yerusalem ✨
-
+---
+title: "Pembangunan Dome of the Rock"
+date: "691 M"
+era: "Bani Umayyah"
+audience: "children"
+ageRange: "6-12"
+language: "id"
+sections: 4
 ---
 
-## Kota Suci Yerusalem
+# Pembangunan Dome of the Rock
 
-**Yerusalem** (dalam bahasa Arab disebut *al-Quds*) adalah kota yang sangat istimewa bagi umat Islam. Dari kota inilah Nabi Muhammad ﷺ melakukan perjalanan malam yang ajaib — **Isra Mi'raj** — naik ke langit untuk menerima perintah shalat lima waktu.
+## 🌍 Apa yang terjadi?
 
-Di Yerusalem ada sebuah bukit suci yang disebut **Haram al-Syarif**. Di atas bukit itu terdapat sebuah batu besar yang sangat bersejarah — batu inilah yang menjadi titik tolak Nabi Muhammad ﷺ naik ke langit. Batu ini juga penting dalam kisah Nabi Ibrahim dan nabi-nabi sebelumnya.
+Di **Yerusalem**, ada tempat yang sangat suci bernama **Haram ash-Sharif** atau **Noble Sanctuary**. Di tempat inilah dulu berdiri **Baitul Maqdis** (Solomon's Temple) dan tempat **Nabi Muhammad ﷺ melakukan Isra Mi'raj**.
 
-🎨 *Ilustrasi: Pemandangan kota Yerusalem dari kejauhan, dengan bukit Haram al-Syarif yang menonjol. Langit biru cerah dengan awan tipis. Warna dominan emas, biru, dan putih batu. Mood agung dan sakral. Komposisi panoramik dengan bukit di tengah.*
+Setelah umat Islam menaklukkan Yerusalem pada masa **Khalifah Umar bin Khattab**, tempat suci ini dijaga dengan baik. Tapi belum ada bangunan megah yang menandai kesakralannya.
 
----
+Pada tahun 691 M, **Khalifah Abdul Malik bin Marwan** dari Dinasti Umayyah memutuskan untuk membangun sebuah **masjid yang sangat indah** di tempat tersebut. Ia ingin menunjukkan bahwa Islam menghormati tempat-tempat suci dan mampu menciptakan arsitektur yang luar biasa.
 
-## Khalifah Abdul Malik Punya Rencana Besar
+Proyek ini memakan waktu bertahun-tahun dan melibatkan **seniman terbaik dari berbagai negara**: Bizantium (Romawi Timur), Persia, dan Arab.
 
-Sekitar tahun 685 M, Khalifah **Abdul Malik ibn Marwan** memutuskan untuk membangun sebuah bangunan yang sangat megah di atas batu suci itu. Ia ingin membuat sesuatu yang belum pernah dilihat dunia sebelumnya!
+🎨 **Brief Ilustrasi**: Yerusalem di abad ke-7 dengan Haram ash-Sharif yang masih kosong. Di kejauhan terlihat tembok kota tua dan bukit-bukit. Sinar matahari menyinari tanah kosong yang akan menjadi lokasi Dome of the Rock. Komposisi: establishing shot lokasi suci. Warna: coklat Jerusalem stone, emas sinar matahari, biru langit. Genre: Historical site setting. Mood: sacred anticipation. Style: Atmospheric landscape, holy ground feeling.
 
-Abdul Malik mengirim dua orang ahli bangunan terbaik: **Raja' ibn Haywah** dan **Yazid ibn Salam**. Untuk membiayai proyek raksasa ini, ia menggunakan seluruh pajak dari Mesir selama **tujuh tahun**! betapa besarnya proyek ini.
+## 📖 Ceritanya...
 
-Para pekerja dan seniman datang dari seluruh penjuru dunia Islam. Mereka membawa bahan-bahan terbaik — emas, mosaik berwarna-warni, marmer, dan batu-batu indah.
+**Dome of the Rock** (Qubbat ash-Sakhrah dalam bahasa Arab) dinamai demikian karena dibangun di atas **batu besar yang sangat suci**. Batu ini dipercaya sebagai tempat **Nabi Ibrahim hendak mengorbankan putranya**, dan juga tempat **Nabi Muhammad ﷺ naik ke langit** dalam perjalanan Mi'raj.
 
-🎨 *Ilustrasi: Para pekerja dan seniman membangun kubah besar. Ada yang memasang mosaik warna-warni, ada yang mengangkat batu. Di tengah, terlihat kerangka kubah yang sedang dibangun. Warna dominan emas, biru, dan hijau. Mood sibuk dan penuh semangat. Komposisi dari bawah ke atas menunjukkan kemegahan bangunan.*
+Desain bangunannya luar biasa unik! Bentuknya **octagonal** (segi delapan) dengan **kubah emas** yang berkilau. Dinding-dindingnya dihiasi **kaligrafi Arab** yang indah dengan ayat-ayat Al-Quran, terutama tentang **Isa (Yesus) sebagai nabi**, bukan Tuhan.
 
----
+Yang menarik, **tidak ada gambar manusia atau hewan** sama sekali dalam hiasan Dome of the Rock. Semuanya **geometric patterns** (pola-pola geometris) dan kaligrafi yang sangat rumit dan indah. Ini sesuai dengan aturan Islam tentang seni.
 
-## Bangunan Paling Indah di Dunia
+Para **master craftsmen** (pengrajin ahli) bekerja dengan teliti. Mereka menggunakan **marmer berwarna-warni**, **mosaik emas**, dan **perunggu** terbaik. Hasilnya adalah bangunan yang bisa dilihat berkilau dari jarak jauh!
 
-Setelah bertahun-tahun bekerja keras, akhirnya pada tahun **691 M**, Qubbat al-Sakhrah (*Dome of the Rock*) selesai dibangun! Dan hasilnya? Luar biasa indah!
+🎨 **Brief Ilustrasi**: Para pengrajin dari berbagai bangsa bekerja membangun Dome of the Rock. Ada yang membuat mozaik, ada yang mengukir kaligrafi, ada yang memasang marmer. Suasana workshop yang penuh semangat dan collaboration. Komposisi: busy construction scene dengan detailed craftsmanship. Warna: emas mozaik, warna-warni marmer, coklat kayu scaffolding. Genre: Historical construction scene. Mood: collaborative creativity. Style: Detailed artisan work, multicultural cooperation.
 
-Bangunan ini berbentuk **segi delapan** dengan kubah emas besar di atasnya yang berkilau di bawah sinar matahari. Dinding-dindingnya dihiasi **mosaik** berwarna emas, biru, dan hijau yang membentuk pola tumbuhan yang sangat indah. Di sekeliling dinding bagian dalam, terdapat tulisan **ayat-ayat al-Quran** sepanjang 240 meter!
+## 🌟 Dampaknya...
 
-Yang paling menakjubkan — bangunan ini masih berdiri sampai sekarang, lebih dari **1.300 tahun** kemudian! Kubah emasnya masih berkilau dan menjadi simbol kota Yerusalem yang dikenal seluruh dunia.
+**Dome of the Rock menjadi landmark yang paling terkenal di Yerusalem** hingga hari ini! Kubah emasnya yang berkilau bisa dilihat dari seluruh penjuru kota. Setiap foto Yerusalem pasti menampilkan bangunan ini.
 
-🎨 *Ilustrasi: Dome of the Rock yang megah dengan kubah emas berkilau di bawah langit biru. Detail mosaik biru dan hijau di dinding. Seorang anak berdiri di halaman, mendongak kagum. Warna dominan emas berkilau, biru langit, dan hijau zamrud. Mood takjub dan indah. Komposisi dari sudut bawah ke atas.*
+**Secara arsitektural**, Dome of the Rock mempengaruhi desain masjid-masjid di seluruh dunia Islam. **Kubah** menjadi elemen wajib dalam arsitektur Islam setelah bangunan ini dibuat.
 
----
+**Secara politik**, pembangunan ini menunjukkan bahwa **Dinasti Umayyah** adalah kekuatan yang kuat dan mampu menciptakan karya seni tingkat dunia. Hal ini meningkatkan prestise Islam di mata imperium-imperium besar lainnya.
 
-## Pelajaran dari Dome of the Rock
+Yang paling penting, **Dome of the Rock menjadi simbol bahwa Islam menghormati tempat-tempat suci** yang juga sakral bagi agama-agama lain. Ini menunjukkan sikap toleransi Islam terhadap warisan spiritual sebelumnya.
 
-Kisah pembangunan Dome of the Rock mengajarkan kita:
+Hingga sekarang, **jutaan wisatawan dan peziarah** dari seluruh dunia datang melihat keindahan Dome of the Rock!
 
-- **Seni bisa menjadi ibadah** — Para seniman Muslim menggunakan keindahan untuk menghormati tempat suci dan menyampaikan pesan al-Quran.
-- **Kesabaran membuahkan hasil** — Butuh bertahun-tahun untuk menyelesaikan bangunan ini, tapi hasilnya bertahan lebih dari seribu tahun!
-- **Islam menghargai semua nabi** — Bangunan ini dibangun di tempat yang terkait dengan Nabi Ibrahim, Nabi Sulaiman, dan Nabi Muhammad ﷺ, menunjukkan bahwa Islam menghormati semua nabi.
-- **Keindahan menyatukan** — Dome of the Rock dikagumi oleh orang-orang dari seluruh dunia, membuktikan bahwa keindahan bisa menjadi jembatan antar manusia.
+🎨 **Brief Ilustrasi**: Dome of the Rock yang sudah selesai dengan kubah emas berkilau di bawah sinar matahari. Peziarah dari berbagai bangsa berdatangan untuk melihat. Burung-burung terbang di sekitar kubah. Komposisi: majestic completed building dengan visitor activity. Warna: emas kubah dominant, putih marmer, colorful clothing pengunjung. Genre: Architectural triumph dengan multicultural appreciation. Mood: awe dan achievement. Style: Grand architectural photography feel, golden hour.
 
-🎨 *Ilustrasi: Detail close-up mosaik Dome of the Rock — pola daun dan bunga dalam warna emas, biru, dan hijau di atas latar gelap. Di antaranya, huruf-huruf Arab kaligrafi. Warna dominan emas, biru tua, dan hijau. Mood indah dan khusyuk. Komposisi detail close-up.*
+## 🤲 Pelajaran & hikmah
+
+**Seni adalah ibadah** — Para pengrajin Dome of the Rock bekerja dengan niat ibadah. Mereka menciptakan keindahan untuk memuliakan Allah.
+
+**Toleransi beragama** — Islam menghormati tempat-tempat yang juga suci bagi agama lain. Dome of the Rock dibangun di tempat yang juga dihormati Yahudi dan Kristen.
+
+**Kerja sama lintas budaya** — Pengrajin Arab, Persia, dan Bizantium bekerja sama menciptakan masterpiece. Perbedaan budaya justru memperkaya hasil karya.
+
+**Keindahan tanpa melanggar aturan** — Seni Islam menciptakan keindahan luar biasa tanpa menggambar makhluk hidup. Geometric patterns dan kaligrafi ternyata bisa sangat indah!
+
+**Warisan untuk generasi** — Dome of the Rock sudah berdiri lebih dari 1.300 tahun dan masih kokoh. Ini menunjukkan pentingnya membangun sesuatu yang berkualitas tinggi.
+
+Dome of the Rock mengajarkan bahwa **keindahan dan spiritualitas bisa bersatu** — dan hasilnya adalah karya yang menginspirasi jutaan orang selama berabad-abad!
+
+🎨 **Brief Ilustrasi**: Anak-anak dari berbagai agama belajar bersama tentang arsitektur di ruang kelas. Ada model mini Dome of the Rock di meja. Guru menjelaskan tentang keberagaman dalam seni. Komposisi: inclusive educational scene. Warna: bright classroom colors, mini golden dome, rainbow diversity. Genre: Contemporary interfaith education. Mood: learning dan mutual respect. Style: Modern classroom setting, educational tools, happy children.

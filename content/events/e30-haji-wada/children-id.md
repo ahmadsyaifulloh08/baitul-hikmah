@@ -1,61 +1,68 @@
-# Haji Perpisahan 🕋
-
+---
+title: "Haji Perpisahan"
+date: "632 M"
+era: "Kenabian"
+audience: "children"
+ageRange: "6-12"
+language: "id"
+sections: 4
 ---
 
-## Perjalanan Besar ke Makkah
+# Haji Perpisahan (Haji Wada')
 
-Nabi Muhammad ﷺ mengumumkan bahwa beliau akan pergi haji ke Makkah. Ini adalah haji pertama dan terakhir beliau — meskipun saat itu belum ada yang tahu.
+## 🌍 Apa yang terjadi?
 
-Kabar ini menyebar ke seluruh Jazirah Arab. Orang-orang berdatangan dari mana-mana — dari gurun, pegunungan, dan pesisir. **Lebih dari seratus ribu orang** bergabung dengan Nabi ﷺ! — lautan manusia sejauh mata memandang, semuanya mengucapkan: *"Labbaik Allahumma labbaik!"* — "Aku penuhi panggilan-Mu, ya Allah!"
+Pada tahun 10 Hijriyah (632 M), Nabi Muhammad ﷺ mengumumkan bahwa beliau akan pergi haji ke Makkah. Ini adalah haji pertama dan terakhir beliau — meskipun saat itu belum ada yang tahu bahwa ini adalah perpisahan.
 
-Mereka semua berjalan bersama menuju Makkah, kota suci tempat Ka'bah berada. Perjalanan ini penuh kegembiraan dan rasa syukur.
+Kabar ini menyebar ke seluruh Jazirah Arab seperti api. Orang-orang berdatangan dari mana-mana — dari gurun, pegunungan, dan pesisir. **Lebih dari seratus ribu orang** bergabung dengan Nabi ﷺ untuk perjalanan suci ini.
 
-🎨 *Ilustrasi: Lautan manusia berpakaian ihram putih berjalan menuju Makkah dari kejauhan. Gunung-gunung padang pasir di latar belakang. Warna dominan putih dan emas kecokelatan. Suasana agung dan khusyuk. Komposisi panorama lebar dengan Ka'bah kecil di cakrawala.*
+Mereka semua berjalan bersama menuju Makkah, kota suci tempat Ka'bah berada. Sepanjang perjalanan, mereka mengucapkan talbiyah: "Labbaik Allahumma labbaik!" (Aku penuhi panggilan-Mu, ya Allah!)
 
----
+🎨 **Brief Ilustrasi**: Lautan manusia berpakaian ihram putih berjalan menuju Makkah dari kejauhan. Gunung-gunung padang pasir di latar belakang dengan Ka'bah terlihat kecil di cakrawala. Komposisi: panoramic wide shot with depth of field. Warna: putih jubah ihram, coklat gunung, emas cahaya senja. Genre: Epic pilgrimage scene dengan spiritual atmosphere. Mood: agung dan khusyuk. Style: Cinematic scale, detailed crowd, atmospheric perspective.
 
-## Berdiri di Padang Arafah
+## 📖 Khutbah di Padang Arafah
 
-Puncak haji adalah **wukuf di Arafah** — berdiri di padang yang luas sambil berdoa kepada Allah. Nabi ﷺ bersabda: **"Haji adalah Arafah."**
+Puncak haji adalah **wukuf di Arafah** — berdiri di padang yang luas sambil berdoa kepada Allah. Di sinilah Nabi ﷺ menyampaikan **khutbah yang paling penting** dalam sejarah Islam.
 
-Di padang Arafah yang sangat luas ini, di atas unta beliau yang bernama al-Qashwa', Nabi Muhammad ﷺ menyampaikan **khutbah terakhir** — pidato yang sangat penting untuk seluruh umat manusia.
+Di atas unta beliau yang bernama al-Qashwa', Nabi Muhammad ﷺ berbicara kepada lebih dari seratus ribu orang. Mereka semua mendengarkan dengan seksama, hati mereka penuh perhatian.
 
-Lebih dari seratus ribu orang mendengarkan. Mereka diam, hati mereka penuh perhatian. Apa yang Nabi ﷺ sampaikan hari itu masih diingat hingga sekarang — lebih dari 1.400 tahun kemudian!
+Di hari itu juga, Allah menurunkan ayat yang sangat istimewa:
 
-Di hari itu juga, Allah menurunkan ayat yang sangat istimewa: **"Pada hari ini telah Aku sempurnakan agamamu untukmu."** (QS Al-Ma'idah: 3)
+> الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ﴿٣﴾
+>
+> "Pada hari ini telah Aku sempurnakan agamamu untukmu, Aku cukupkan nikmat-Ku kepadamu, dan Aku ridhai Islam sebagai agamamu." ﴾3﴾
+> — QS. Al-Ma'idah (5): 3
 
-🎨 *Ilustrasi: Padang Arafah yang luas dipenuhi manusia berpakaian putih. Nabi Muhammad ﷺ (digambarkan dengan cahaya, tanpa wajah) di atas unta di tengah kerumunan. Langit sore keemasan. Warna dominan putih, emas, dan biru langit. Suasana khusyuk dan penuh makna. Komposisi bird's eye view menunjukkan luasnya lautan manusia.*
+Ayat ini menandai bahwa ajaran Islam sudah lengkap dan sempurna.
 
----
+🎨 **Brief Ilustrasi**: Padang Arafah yang luas dipenuhi jemaah haji berpakaian putih. Nabi Muhammad ﷺ (digambarkan dengan cahaya tanpa wajah) di atas unta di tengah kerumunan. Langit sore yang keemasan. Komposisi: bird's eye view menunjukkan scale massive gathering. Warna: putih dominan, emas langit senja, coklat tanah. Genre: Historical epic dengan divine moment. Mood: sacred dan monumental. Style: Aerial perspective, warm golden hour, spiritual lighting.
 
-## Pesan-Pesan Penting dalam Khutbah
+## 🌟 Pesan-pesan untuk seluruh dunia
 
-Nabi Muhammad ﷺ menyampaikan banyak pesan penting. Inilah beberapa di antaranya:
+Khutbah Nabi Muhammad ﷺ di Arafah berisi pesan-pesan yang sangat penting untuk seluruh umat manusia:
 
-🩸 **Jangan sakiti orang lain** — "Darah kalian, harta kalian, dan kehormatan kalian suci — haram untuk diganggu!" Artinya: kita tidak boleh menyakiti siapa pun, tidak boleh mencuri, dan tidak boleh menghina orang lain.
+**Jangan sakiti siapa pun** — "Darah kalian, harta kalian, dan kehormatan kalian suci — haram untuk diganggu!" Artinya: kita tidak boleh menyakiti orang lain, mencuri, atau menghina.
 
-👩 **Perlakukan perempuan dengan baik** — "Berbuat baiklah terhadap perempuan!" Nabi ﷺ mengingatkan bahwa perempuan punya hak untuk diperlakukan dengan hormat dan kasih sayang.
+**Semua manusia sama** — "Tidak ada kelebihan orang Arab atas non-Arab, tidak ada kelebihan orang berkulit putih atas orang berkulit hitam — kecuali dengan takwa." Yang membuat seseorang mulia bukan warna kulitnya, tapi kebaikan hatinya.
 
-🌈 **Semua manusia sama** — "Tidak ada kelebihan orang Arab atas non-Arab, tidak ada kelebihan orang berkulit putih atas orang berkulit hitam — kecuali dengan takwa." Artinya: yang membuat seseorang mulia bukan warna kulitnya atau sukunya, tapi kebaikan hatinya!
+**Perlakukan perempuan dengan baik** — "Berbuat baiklah terhadap perempuan!" Islam mengajarkan bahwa perempuan harus diperlakukan dengan hormat dan kasih sayang.
 
-📖 **Pegang teguh Al-Quran** — "Aku tinggalkan untuk kalian Kitab Allah. Jika kalian berpegang padanya, kalian tidak akan tersesat."
+**Pegang teguh Al-Quran** — "Aku tinggalkan untuk kalian Kitab Allah. Jika kalian berpegang padanya, kalian tidak akan tersesat."
 
-🎨 *Ilustrasi: Sebuah gulungan perkamen terbuka dengan tulisan Arab yang indah, dikelilingi simbol-simbol pesan khutbah — tangan berjabat (persaudaraan), timbangan (keadilan), hati (kasih sayang). Warna dominan krem dan emas. Suasana penuh hikmah. Komposisi dekoratif bergaya anak-anak.*
+🎨 **Brief Ilustrasi**: Gulungan perkamen terbuka dengan tulisan Arab yang indah, dikelilingi simbol-simbol pesan khutbah — tangan berjabat (persaudaraan), timbangan (keadilan), hati (kasih sayang). Komposisi: centered manuscript dengan decorative elements. Warna: krem perkamen, emas tulisan, biru dan merah aksen. Genre: Illuminated manuscript style dengan Islamic calligraphy. Mood: wisdom dan timeless. Style: Detailed ornamental, traditional Islamic art.
 
----
+## 🤲 Doa & pelajaran
 
-## Pelajaran dari Haji Wada'
+Khutbah Wada' mengajarkan nilai-nilai yang masih sangat relevan hingga hari ini:
 
-Khutbah terakhir Nabi Muhammad ﷺ mengajarkan hal-hal yang sangat penting bagi kita semua:
+**Keadilan untuk semua** — Setiap orang punya hak yang sama, tidak peduli dari mana asalnya atau seperti apa penampilannya.
 
-⚖️ **Keadilan untuk semua** — Setiap orang punya hak yang sama, tidak peduli dari mana asalnya.
+**Hormat dan sayang sesama** — Jangan pernah menyakiti orang lain, baik dengan perbuatan maupun perkataan.
 
-🤝 **Hormat dan sayangi sesama** — Jangan pernah menyakiti orang lain, baik dengan perbuatan maupun perkataan.
+**Muliakan perempuan** — Islam mengajarkan bahwa perempuan harus diperlakukan dengan baik dan hormat, sama seperti laki-laki.
 
-👧 **Muliakan perempuan** — Islam mengajarkan bahwa perempuan harus diperlakukan dengan baik dan hormat.
+**Semua manusia bersaudara** — Warna kulit, bahasa, atau suku tidak menentukan nilai seseorang. Yang penting adalah kebaikan hatinya.
 
-🌍 **Semua manusia bersaudara** — Warna kulit, bahasa, atau suku tidak menentukan nilai seseorang. Yang penting adalah kebaikan hatinya.
+Pesan-pesan ini disampaikan lebih dari **1.400 tahun yang lalu**, tapi masih sangat dibutuhkan dunia hari ini. Itulah kehebatan ajaran Nabi Muhammad ﷺ — selalu relevan untuk setiap zaman!
 
-— pesan-pesan ini disampaikan lebih dari **1.400 tahun yang lalu**, tapi masih sangat penting dan dibutuhkan dunia hari ini. Itulah kehebatan ajaran Nabi Muhammad ﷺ!
-
-🎨 *Ilustrasi: Anak-anak dari berbagai latar belakang (berkulit berbeda-beda, berpakaian berbeda-beda) berdiri bersama sambil bergandengan tangan di depan Ka'bah. Senyum di wajah mereka. Warna dominan hijau, putih, dan emas. Suasana hangat dan penuh persaudaraan. Komposisi simetris dengan Ka'bah di latar belakang.*
+🎨 **Brief Ilustrasi**: Anak-anak dari berbagai latar belakang (berkulit berbeda, berpakaian berbeda) berdiri bersama sambil bergandengan tangan. Di belakang mereka, siluet Ka'bah dengan cahaya lembut. Komposisi: group shot dengan Ka'bah sebagai background. Warna: hijau, putih, emas dengan earth tones. Genre: Unity in diversity dengan Islamic spiritual elements. Mood: hangat dan brotherhood. Style: Inclusive illustration, peaceful atmosphere, hopeful future.

@@ -42,9 +42,9 @@ Muhammad rushed home. When he arrived, he said to Khadijah: "Cover me! Cover me!
 
 When he had calmed down, Muhammad told Khadijah everything that happened at the Cave of Hira. He said: "I am afraid something has happened to me."
 
-Khadijah said? With complete conviction, Khadijah said: "Do not be afraid! By Allah, Allah will never humiliate you. You always maintain family ties, help those in trouble, honor your guests, and feed the hungry. Allah would never forsake someone as good as you!"
+With complete conviction, Khadijah said: "Do not be afraid! By Allah, Allah will never humiliate you. You always maintain family ties, help those in trouble, honor your guests, and feed the hungry. Allah would never forsake someone as good as you!"
 
-Khadijah's words made Muhammad feel at peace. Khadijah then became **the very first person in the entire world** to believe that Muhammad was Allah's messenger. Incredible!
+Khadijah's words made Muhammad feel at peace. Khadijah then became **the very first person in the entire world** to believe that Muhammad was Allah's messenger.
 
 > **🎨 Illustration Brief:**
 > *A warm room in Muhammad and Khadijah's home in Mecca, nighttime. Muhammad sits wrapped in a thick cloth, still slightly trembling. Khadijah sits beside him, holding her husband's hand gently, her face full of love and strength. A small oil lamp illuminates the room with warm yellow-orange light. Warm colors — orange, brown, cream. Mood full of warmth and safety. Intimate composition — two figures close together under soft light.*
@@ -57,7 +57,7 @@ That night at the Cave of Hira was the beginning of something incredibly great! 
 
 After that night, Muhammad officially became **a Prophet and Messenger of Allah**. His mission was to deliver Allah's message to all of humanity — a message about goodness, justice, compassion, and worshipping only Allah, the One and Only.
 
-Did you know, ? The very first word that Allah revealed was "Read!" This shows how important learning and seeking knowledge is in Islam. Allah wants all of us to be eager readers, eager learners, and eager thinkers!
+The very first word that Allah revealed was "Read!" This shows how important learning and seeking knowledge is in Islam. Allah wants all of us to be eager readers, eager learners, and eager thinkers!
 
 Khadijah became the first person to believe. Then little by little, others began to believe too. From a tiny cave at the top of a quiet mountain, a religion was born that is today embraced by nearly two billion people around the entire world!
 

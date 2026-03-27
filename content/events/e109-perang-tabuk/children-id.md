@@ -14,6 +14,8 @@ Masalahnya? Saat itu sedang **musim panas yang sangat terik** dan buah-buahan di
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🛡 Ceritanya
 
 Inilah salah satu momen paling menginspirasi dalam sejarah Islam!
@@ -32,6 +34,8 @@ Akhirnya, Nabi berangkat dengan sekitar **30.000 pasukan** — perjalanan terpan
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🕊 Setelahnya
 
 Ketika pasukan muslimin tiba di Tabuk... **musuh sudah pergi!** Pasukan Romawi mundur karena takut melihat kekuatan besar Islam. Tidak ada pertempuran sama sekali!
@@ -42,12 +46,14 @@ Tapi kisah paling menarik terjadi **setelah pulang** ke Madinah. Ada seorang sah
 
 Ketika Nabi bertanya kenapa dia tidak ikut, Ka'b punya pilihan: **berbohong atau jujur**. Orang-orang munafik memilih bohong dan mencari-cari alasan palsu. Tapi Ka'b memilih **jujur**: *"Ya Rasulullah, aku tidak punya alasan. Aku salah."*
 
-Sebagai hukuman, **tidak ada yang boleh bicara dengan Ka'b selama 50 hari**. betapa kesepiannya! Tapi setelah 50 hari yang berat itu, Allah menurunkan ayat al-Quran yang menerima taubatnya. Ka'b berkata itu adalah **hari paling bahagia** dalam hidupnya!
+Sebagai hukuman, **tidak ada yang boleh bicara dengan Ka'b selama 50 hari**. Sangat kesepian! Tapi setelah 50 hari yang berat itu, Allah menurunkan ayat al-Quran yang menerima taubatnya. Ka'b berkata itu adalah **hari paling bahagia** dalam hidupnya!
 
 > 🎨 *Ilustrasi: Ka'b bin Malik duduk sendirian di sudut masjid, orang-orang berjalan melewatinya tanpa menyapa. Wajahnya sedih tapi penuh harap. Cahaya lembut dari jendela menyinarinya. Warna: biru kelabu, dengan secercah emas dari cahaya jendela. Mood: kesepian tapi penuh harapan. Komposisi: Ka'b sendirian di kiri, orang-orang berlalu di kanan, cahaya dari atas.*
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 💪 Teladannya
 
 - **Berkorban sesuai kemampuan** 💰 — Abu Bakr memberi semua hartanya, sahabat miskin memberi segenggam kurma. Keduanya sama mulianya di mata Allah! Yang penting niatnya, bukan jumlahnya.
@@ -59,3 +65,6 @@ Sebagai hukuman, **tidak ada yang boleh bicara dengan Ka'b selama 50 hari**. bet
 - **Ujian tidak selalu berupa hal yang menakutkan** 🌾 — Ujian di Tabuk bukan monster atau musuh yang mengerikan. Ujiannya adalah buah kurma yang matang, kebun yang subur, dan cuaca yang panas. Kadang ujian terberat adalah meninggalkan kenyamanan!
 
 > 🎨 *Ilustrasi: Seorang anak berdiri di persimpangan jalan. Satu jalan menuju taman bermain yang menyenangkan, jalan lain menuju sekolah yang menanjak. Anak itu tersenyum dan memilih jalan yang menanjak. Warna: hijau cerah, biru, kuning matahari. Mood: penuh tekad dan semangat. Komposisi: anak di tengah persimpangan, dua jalan di kiri dan kanan.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

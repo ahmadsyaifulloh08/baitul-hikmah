@@ -14,6 +14,8 @@ The problem? It was the **scorching hot summer** and the fruits in the orchards 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🛡 What Happened?
 
 This is one of the most inspiring moments in Islamic history!
@@ -32,6 +34,8 @@ Finally, the Prophet set out with about **30,000 soldiers** — the longest and 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🕊 What Happened Next?
 
 When the Muslim army arrived at Tabuk... **the enemy was already gone!** The Roman forces had retreated, intimidated by Islam's great strength. There was no battle at all!
@@ -48,6 +52,8 @@ As punishment, **no one was allowed to speak to Ka'b for 50 days**. how lonely t
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 💪 What Can We Learn?
 
 - **Give what you can** 💰 — Abu Bakr gave all his wealth; a poor companion gave a handful of dates. Both were equally noble in Allah's eyes! What matters is the intention, not the amount.
@@ -59,3 +65,6 @@ As punishment, **no one was allowed to speak to Ka'b for 50 days**. how lonely t
 - **Tests aren't always scary things** 🌾 — The test at Tabuk wasn't a monster or a terrifying enemy. The test was ripe dates, lush orchards, and hot weather. Sometimes the hardest test is leaving behind comfort!
 
 > 🎨 *Illustration: A child standing at a fork in the road. One path leads to a fun playground, the other to a school uphill. The child smiles and chooses the uphill path. Colors: bright green, blue, sunshine yellow. Mood: determined and spirited. Composition: child in the center at the fork, two paths left and right.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

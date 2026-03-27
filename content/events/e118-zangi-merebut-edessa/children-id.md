@@ -12,6 +12,8 @@ Zangi memilih Edessa sebagai target pertama karena kota ini paling lemah dan sul
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Ceritanya
 
 Pada bulan Desember 1144 M, Zangi memimpin serangan besar terhadap Edessa. Tentaranya terdiri dari berbagai suku: Turki, Arab, dan Kurdi yang bersatu untuk jihad. Mereka membawa peralatan pengepungan yang canggih dan semangat yang tinggi.
@@ -26,6 +28,8 @@ Berbeda dengan cara brutal Tentara Salib di Yerusalem, Zangi memperlakukan pendu
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajarannya
 
 Kemenangan Zangi di Edessa mengajarkan bahwa persatuan adalah kunci kekuatan. Sebelumnya, para penguasa Muslim saling berperang dan lemah. Ketika mereka bersatu di bawah kepemimpinan Zangi, mereka bisa mengalahkan Tentara Salib.
@@ -40,6 +44,8 @@ Kemenangan ini menjadi inspirasi bagi pemimpin Muslim lainnya bahwa Tentara Sali
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Dalil
 
 Al-Qur'an menjanjikan bahwa Allah akan menolong orang-orang yang menolong agama-Nya:
@@ -54,3 +60,6 @@ Zangi dan tentaranya berjuang bukan untuk kekuasaan pribadi, tetapi untuk membeb
 Kisah Zangi mengajarkan bahwa ketika umat Islam bersatu, bersiap dengan baik, dan berjuang di jalan yang benar, Allah akan memberikan kemenangan. Kita harus selalu mengingat bahwa kekuatan sejati datang dari Allah.
 
 🎨 *Ilustrasi: Suasana malam hari di kamp tentara Muslim setelah kemenangan. Para prajurit sedang shalat malam bersama-sama di bawah bintang-bintang. Tenda-tenda berkibar tertiup angin, dan suara dzikir terdengar lembut. Warna dominan: biru malam, putih bintang, hijau tenda, emas cahaya lentera. Suasana syukur dan kedamaian. Komposisi: barisan shalat di center, tenda-tenda di background, langit berbintang luas di atas.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

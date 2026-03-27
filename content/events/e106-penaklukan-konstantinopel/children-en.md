@@ -10,6 +10,8 @@ In the center of the city stood a very beautiful building called Hagia Sophia. T
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## ⚔️ The Brave Young Sultan
 
 Sultan Mehmed II became the leader of the Ottoman Turkish Empire when he was only 21 years old. Although still young, he had a big dream: to conquer Constantinople. Many sultans before him had tried, but always failed because the city walls were too strong.
@@ -20,6 +22,8 @@ Mehmed II was different from the others. He was very smart and liked learning ne
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🔥 Giant Cannons and Warfare
 
 The cannon made for Sultan Mehmed was very big and frightening. Its length was like two elephants lined up! The sound of this cannon was so loud it could be heard from 16 kilometers away. The cannonball it fired weighed six hundred kilograms - heavier than five cows!
@@ -30,6 +34,8 @@ The war lasted for 53 days. Every day, the giant cannon fired at the city walls 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🕌 Hagia Sophia Becomes a Mosque
 
 After successfully conquering the city, the first thing Sultan Mehmed did was go to Hagia Sophia. He was amazed by the beauty of this building. Its dome was so high and wide, like the sky covering the earth.
@@ -40,6 +46,8 @@ Sultan Mehmed decided to convert Hagia Sophia into a mosque. He did not destroy 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 Lessons and Wisdom
 
 > وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ ﴿٥٥﴾
@@ -51,3 +59,6 @@ The conquest of Constantinople teaches us that with strong determination, good p
 The way Sultan Mehmed treated the defeated city residents is also exemplary. He did not destroy the existing beauty, but added Islamic touches. This shows that Islam teaches tolerance and appreciation of beauty.
 
 🎨 *Illustration: Sultan Mehmed praying inside the transformed Hagia Sophia mosque, soft light from the dome, beautiful Islamic ornaments, calm and solemn atmosphere, warm and peaceful colors, composition showing a spiritual moment*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

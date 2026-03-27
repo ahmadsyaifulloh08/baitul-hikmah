@@ -14,6 +14,8 @@ Uthman was a wealthy merchant, but his wealth never made him proud — instead, 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## A Well for Everyone
 
 One day, the people of Madinah had trouble getting clean water. The only good well was owned by a merchant who sold water at high prices.
@@ -26,6 +28,8 @@ When Prophet Muhammad ﷺ asked for help preparing an army, Uthman donated **300
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## Becoming the Third Caliph
 
 After Caliph **Umar ibn al-Khattab** passed away, the senior companions held a meeting to choose the next caliph. They chose Uthman because of his wisdom, gentleness, and dedication to Islam.
@@ -40,6 +44,8 @@ As caliph, Uthman accomplished many great things:
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## A Great Trial and Patience
 
 Near the end of his time as caliph, a group of troublemakers grew unhappy and caused unrest. They surrounded Uthman's house for many days.
@@ -51,3 +57,6 @@ Uthman passed away as a martyr while he was reading the Quran. Prophet Muhammad 
 Uthman's story teaches us about **generosity**, **patience**, and **love of peace**. He chose to sacrifice himself rather than cause conflict among Muslims.
 
 🎨 *Illustration: An elderly man in a white robe sitting calmly in a simple room reading an open Quran, soft light from a window illuminating his face. Dominant colors: white and golden yellow. Mood: peaceful and resolute. Composition: close-up, character centered, open mushaf in his lap, window light from the left.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

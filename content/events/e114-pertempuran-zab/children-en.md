@@ -10,6 +10,8 @@ Caliph Marwan II, the last Umayyad ruler, had to fight a revolutionary movement 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The Battle Story
 
 Abu Muslim al-Khurasani, the charismatic Abbasid general, successfully organized forces consisting of Persians, Turkics, and Arabs. They used the slogan "*ar-rida min al Muhammad*" (the one approved from Muhammad's family) to attract support from various groups dissatisfied with the Umayyads.
@@ -22,6 +24,8 @@ The battle began with Umayyad cavalry attacks, but Abbasid forces had strong def
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 Great Changes
 
 Marwan II was wounded in battle and had to flee. He was pursued to Egypt and was eventually killed in August 750 CE. His death marked the end of the Umayyad dynasty in the East, though one branch of the family managed to survive and establish a kingdom in Cordoba, Spain.
@@ -34,6 +38,8 @@ This change was not only political, but also cultural. While the Umayyads involv
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Wisdom
 
 The Battle of the Great Zab teaches that no power is eternal except Allah's power. In the Quran, Allah says:
@@ -45,3 +51,6 @@ The Battle of the Great Zab teaches that no power is eternal except Allah's powe
 This dynastic change did not mean the decline of Islamic civilization. On the contrary, the Abbasid era became the golden age of science with Bayt al-Hikmah (House of Wisdom) in Baghdad. However, we must also appreciate Umayyad achievements in architecture (Umayyad Mosque, Dome of the Rock) and Islamic expansion. Each era has its own contributions.
 
 🎨 *Illustration: House of Wisdom in Baghdad with scholars from various nations translating Greek, Persian, and Indian books. There are large libraries, telescopes, globes, and scientific instruments. In the background, the silhouette of Damascus Umayyad Mosque is visible as tribute to the previous era. Setting: magnificent center of learning with golden and green colors, shining light of knowledge. Atmosphere of civilizational continuity and scientific progress.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

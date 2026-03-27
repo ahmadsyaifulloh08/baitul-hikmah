@@ -12,6 +12,8 @@ Pasukan Bizantium jauh lebih besar jumlahnya, mencapai 100.000-150.000 orang. Na
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Ceritanya
 
 Pertempuran dimulai pagi hari dengan pasukan Seljuk menggunakan taktik khas penunggang kuda stepa. Mereka menyerang dengan panah dari kejauhan, lalu mundur untuk menarik musuh keluar dari formasi. Ketika pasukan Bizantium mengejar, kavaleri Seljuk kembali menyerang dari samping.
@@ -26,6 +28,8 @@ Alp Arslan setuju membebaskan Romanos setelah kaisar berjanji membayar tebusan d
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajarannya
 
 Pertempuran Manzikert mengajarkan bahwa jumlah pasukan yang besar tidak selalu menjamin kemenangan. Yang lebih penting adalah persatuan, strategi yang tepat, dan kepemimpinan yang baik. Pasukan Seljuk menang karena mereka lebih bersatu dan memiliki taktik yang superior.
@@ -40,6 +44,8 @@ Kemenangan Manzikert juga memiliki dampak jangka panjang yang besar. Kekaisaran 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Dalil
 
 Islam mengajarkan bahwa dalam perang, umat Muslim harus selalu mencari perdamaian jika musuh menginginkannya. Al-Quran berfirman:
@@ -56,3 +62,6 @@ Kemenangan di Manzikert juga menunjukkan bahwa Allah SWT membantu orang-orang ya
 Para prajurit Seljuk juga dikenal sebagai orang-orang yang taat beragama. Mereka shalat berjamaah sebelum pertempuran dan selalu mengingat Allah dalam setiap tindakan mereka.
 
 🎨 *Ilustrasi: Sultan Alp Arslan dan para prajurit Seljuk sedang shalat berjamaah di medan perang sebelum pertempuran dimulai. Mereka berbaris rapi menghadap kiblat dengan latar belakang fajar yang keemasan. Kuda-kuda mereka berada di belakang dalam keadaan tenang. Setting: dataran terbuka dengan cahaya subuh. Warna dominan: putih sajadah, emas cahaya fajar, coklat tanah, biru jubah. Suasana: khusyuk dan spiritual. Komposisi: wide shot dengan barisan shalat sebagai focal point.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

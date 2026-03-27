@@ -10,6 +10,8 @@ Alhambra bukan hanya istana biasa, tetapi seperti kota kecil yang lengkap. Di da
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## ⭐ Seni Arsitektur yang Luar Biasa
 
 Yang membuat Alhambra begitu istimewa adalah seni hiasannya yang sangat indah. Dinding-dinding istana dipenuhi dengan ukiran-ukiran yang rumit berbentuk pola-pola geometris. Ada juga tulisan-tulisan kaligrafi Arab yang berisi ayat-ayat Al-Quran dan puisi-puisi indah.
@@ -20,6 +22,8 @@ Langit-langit istana dibuat dengan teknik yang disebut muqarnas, seperti sarang 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 💧 Keajaiban Air dan Taman
 
 Salah satu keajaiban Alhambra adalah sistem airnya yang sangat canggih. Air dialirkan melalui saluran-saluran kecil ke seluruh istana, menciptakan suara gemericik yang menenangkan. Taman-taman istana dipenuhi air mancur, kolam-kolam kecil, dan tanaman harum.
@@ -30,6 +34,8 @@ Courtyard (halaman dalam) yang paling terkenal adalah Court of Lions dengan air 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pusat Ilmu Pengetahuan
 
 Alhambra bukan hanya istana yang indah, tetapi juga pusat ilmu pengetahuan dan kebudayaan. Para raja Nasrid mengundang para ulama, penyair, seniman, dan ilmuwan dari seluruh dunia Islam untuk tinggal di istana. Perpustakaan istana menyimpan ribuan manuskrip tentang berbagai ilmu.
@@ -40,6 +46,8 @@ Di istana ini lahir karya-karya sastra Arab-Andalusia yang indah. Puisi-puisi di
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Keindahan yang Abadi
 
 > إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ
@@ -51,3 +59,6 @@ Alhambra mengajarkan kita bahwa Islam sangat menghargai keindahan. Para arsitek 
 Meskipun kini Spanyol tidak lagi dikuasai Muslim, Alhambra tetap berdiri sebagai bukti kehebatan peradaban Islam. Jutaan orang dari seluruh dunia datang untuk mengagumi keindahannya. UNESCO menjadikan Alhambra sebagai Warisan Dunia karena nilai seni dan sejarahnya yang luar biasa.
 
 🎨 *Ilustrasi: Pengunjung dari berbagai negara dan agama mengagumi keindahan Alhambra, anak-anak membaca buku tentang sejarah Islam, fotografer mengabadikan arsitektur, guide sedang menjelaskan, bendera UNESCO berkibar, suasana apresiatif dan damai, simbol warisan budaya dunia*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

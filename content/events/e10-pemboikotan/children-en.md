@@ -22,7 +22,7 @@ Small children cried from hunger. The sound of their crying could be heard outsi
 
 ## 🌙 Secret Help
 
-But do you know? Not all Quraysh people agreed with this cruelty. There were good people who secretly helped!
+Not all Quraysh people agreed with this cruelty. There were good people who secretly helped!
 
 **Hisham ibn Amr**, a brave man, every night loaded his camel with food. Then he would release the camel toward the valley mouth so the Banu Hashim family could take the food. He did this repeatedly, even though it was very dangerous for him if discovered.
 

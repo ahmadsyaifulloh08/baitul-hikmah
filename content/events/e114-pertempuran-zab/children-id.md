@@ -10,6 +10,8 @@ Khalifah Marwan II, penguasa terakhir Umayyah, harus melawan gerakan revolusi ya
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Cerita Pertempuran
 
 Abu Muslim al-Khurasani, jenderal karismatik Abbasiyah, berhasil mengorganisir pasukan yang terdiri dari orang Persia, Turki, dan Arab. Mereka menggunakan slogan "ar-rida min al Muhammad" (yang diridhai dari keluarga Muhammad) untuk menarik dukungan dari berbagai kelompok yang tidak puas dengan Umayyah.
@@ -22,6 +24,8 @@ Pertempuran dimulai dengan serangan kavaleri Umayyah, tapi pasukan Abbasiyah mem
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Perubahan Besar
 
 Marwan II terluka dalam pertempuran dan harus melarikan diri. Ia terus dikejar hingga ke Mesir dan akhirnya terbunuh pada Agustus 750 M. Kematiannya menandai berakhirnya dinasti Umayyah di Timur, meski satu cabang keluarga berhasil bertahan dan mendirikan kerajaan di Cordoba, Spanyol.
@@ -34,6 +38,8 @@ Perubahan ini bukan hanya politik, tapi juga budaya. Jika Umayyah lebih banyak m
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Hikmah
 
 Pertempuran Zab Besar mengajarkan bahwa tidak ada kekuasaan yang kekal kecuali kekuasaan Allah. Dalam Al-Quran, Allah berfirman:
@@ -45,3 +51,6 @@ Pertempuran Zab Besar mengajarkan bahwa tidak ada kekuasaan yang kekal kecuali k
 Perubahan dinasti ini tidak berarti kemunduran peradaban Islam. Sebaliknya, era Abbasiyah menjadi masa keemasan ilmu pengetahuan dengan Bayt al-Hikmah (Rumah Hikmah) di Baghdad. Namun kita juga harus menghargai prestasi Umayyah dalam arsitektur (Masjid Umayyah, Dome of the Rock) dan ekspansi Islam. Setiap era memiliki kontribusinya masing-masing.
 
 🎨 *Ilustrasi: Rumah Hikmah di Baghdad dengan para ilmuwan dari berbagai bangsa menerjemahkan kitab-kitab Yunani, Persia, dan India. Ada perpustakaan besar, teleskop, globe, dan alat-alat sains. Di background terlihat siluet Masjid Umayyah Damaskus sebagai penghormatan pada era sebelumnya. Setting: pusat ilmu pengetahuan yang megah dengan warna emas dan hijau, cahaya ilmu yang bersinar. Suasana kontinuitas peradaban dan kemajuan ilmu.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

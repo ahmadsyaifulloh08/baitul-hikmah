@@ -10,6 +10,8 @@ This mosque was built on the site of what used to be Saint Vincent Church belong
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 The Construction Story
 
 The most interesting aspect of the Cordoba Mosque was its unprecedented architectural innovation. The architects created a unique system of columns and double arches that had never existed before. Lower arches supported upper arches, so the ceiling could be high and look very magnificent.
@@ -22,11 +24,13 @@ The most famous feature was the zebra pattern on the arches - red from brick and
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌟 Wonders and Development
 
 The Cordoba Mosque was not built all at once, but developed in several phases over hundreds of years. Each ruler added new sections that became increasingly beautiful. Abd al-Rahman III added a tall minaret when he proclaimed himself caliph, showing his political power.
 
-The most spectacular was the expansion by Al-Hakam II who added a new *mihrab* with extraordinarily beautiful mosaics. He even brought special artists from Constantinople (present-day Istanbul) to create these mosaics. Imagine, Byzantine Christian artists working for an Islamic mosque!
+The most spectacular was the expansion by Al-Hakam II who added a new *mihrab* with extraordinarily beautiful mosaics. He even brought special artists from Constantinople (present-day Istanbul) to create these mosaics. Byzantine Christian artists worked on this Islamic mosque!
 
 This mosque also had the world's largest library at that time, with thousands of books in various languages: Arabic, Latin, Greek, and Hebrew. Famous scholars like Ibn Rushd (Averroes) often taught and discussed here. The mosque was not only a place of worship, but also a center of knowledge.
 
@@ -34,6 +38,8 @@ This mosque also had the world's largest library at that time, with thousands of
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🤲 Prayer & Wisdom
 
 The Cordoba Mosque teaches us about resilience and strong vision. Abd al-Rahman and his family did not give up when facing difficulties, but built a new civilization that was even more beautiful than before. Allah SWT says:
@@ -45,3 +51,6 @@ The Cordoba Mosque teaches us about resilience and strong vision. Abd al-Rahman 
 This mosque also shows that diversity is beautiful. Different columns actually created harmony. Artists from various religions and nations worked together to create extraordinary works of art. Islam appreciates skill and beauty from wherever they come.
 
 🎨 *Illustration: Night view of Cordoba with the Cordoba Mosque as the illuminated city center. There are people from various religions and nations walking peacefully in the city streets. Stars shine brightly in the Andalusian sky. Setting: Islamic-Andalusian city with harmonious architecture, warm colors of night lights, golden mosque lamps, blue starry night. Atmosphere of peace and tolerance.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

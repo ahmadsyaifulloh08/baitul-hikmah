@@ -12,6 +12,8 @@ Kenapa ia dikirim ke sana? Karena ada sekelompok perempuan dan anak-anak Muslim 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Perjalanan Jauh ke Negeri Sindh
 
 Muhammad bin Qasim berangkat dengan pasukan sekitar **6.000 prajurit berkuda**, ditambah alat-alat perang berat seperti *manjaniq* (mesin pelontar batu raksasa). Perjalanan ke Sindh sangat jauh — melewati gurun pasir dan pegunungan.
@@ -24,6 +26,8 @@ Setelah merebut Debal, Muhammad bin Qasim terus bergerak ke utara menyusuri Sung
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Pertempuran Melawan Gajah Perang!
 
 Pertempuran terbesar terjadi melawan **Raja Dahir** sendiri. Raja Dahir membawa senjata yang belum pernah dihadapi pasukan Arab — **gajah perang**! 🐘 Gajah-gajah raksasa ini memakai baju besi dan sangat menakutkan.
@@ -36,6 +40,8 @@ Raja Dahir akhirnya gugur dalam pertempuran. Setelah itu, Muhammad bin Qasim ter
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Islam Datang ke Anak Benua India
 
 Muhammad bin Qasim bukan hanya panglima yang hebat — ia juga pemimpin yang **bijaksana dan adil**. Ia membiarkan kuil-kuil Hindu tetap berdiri dan mengizinkan penduduk lokal menjalankan ibadah mereka. Ia juga melibatkan pemimpin-pemimpin setempat dalam pemerintahan.
@@ -49,3 +55,6 @@ Pelajaran dari kisah ini:
 - **Melindungi yang lemah** — Ekspedisi ini bermula dari keinginan menyelamatkan tawanan yang tidak berdaya
 
 🎨 *Ilustrasi: Muhammad bin Qasim berbicara dengan pemimpin lokal di sebuah kota yang baru ditaklukkan. Penduduk dari berbagai latar belakang mendengarkan. Di belakang, kuil Hindu dan masjid baru berdampingan. Warna dominan hijau, putih, dan cokelat tanah. Mood damai dan penuh harapan. Komposisi kelompok orang dengan bangunan di latar belakang.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

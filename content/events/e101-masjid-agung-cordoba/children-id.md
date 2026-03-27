@@ -10,6 +10,8 @@ Masjid ini dibangun di tempat yang dulunya adalah Gereja Saint Vincent milik uma
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Cerita Pembangunan
 
 Yang paling menarik dari Masjid Cordoba adalah inovasi arsitekturnya yang belum pernah ada sebelumnya. Para arsitek menciptakan sistem kolom dan lengkungan ganda (double arches) yang sangat unik. Lengkungan bawah menopang lengkungan atas, sehingga langit-langit bisa tinggi dan terlihat sangat megah.
@@ -22,6 +24,8 @@ Yang paling terkenal adalah pola zebra pada lengkungan - warna merah dari batu b
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Keajaiban dan Perkembangan
 
 Masjid Cordoba tidak dibangun sekali jadi, tetapi berkembang dalam beberapa fase selama ratusan tahun. Setiap penguasa menambahkan bagian baru yang semakin indah. Abd al-Rahman III menambahkan menara yang tinggi ketika ia memproklamirkan diri sebagai khalifah, menunjukkan kekuatan politiknya.
@@ -34,6 +38,8 @@ Masjid ini juga memiliki perpustakaan terbesar di dunia pada zamannya, dengan ri
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Hikmah
 
 Masjid Cordoba mengajarkan kita tentang ketahanan dan visi yang kuat. Abd al-Rahman dan keluarganya tidak menyerah ketika menghadapi kesulitan, tetapi membangun peradaban baru yang bahkan lebih indah dari sebelumnya. Allah SWT berfirman:
@@ -45,3 +51,6 @@ Masjid Cordoba mengajarkan kita tentang ketahanan dan visi yang kuat. Abd al-Rah
 Masjid ini juga menunjukkan bahwa keberagaman itu indah. Kolom-kolom yang berbeda-beda justru menciptakan keharmonisan. Seniman dari berbagai agama dan bangsa bekerja sama menciptakan karya seni yang luar biasa. Islam menghargai keahlian dan keindahan dari mana pun asalnya.
 
 🎨 *Ilustrasi: Pemandangan Cordoba di malam hari dengan Masjid Cordoba sebagai pusat kota yang bercahaya. Ada orang-orang dari berbagai agama dan bangsa berjalan damai di jalan-jalan kota. Bintang-bintang bersinar terang di langit Andalusia. Setting: kota Islam-Andalusia dengan arsitektur yang harmonis, warna hangat cahaya malam, emas lampu masjid, biru malam berbintang. Suasana damai dan toleransi.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

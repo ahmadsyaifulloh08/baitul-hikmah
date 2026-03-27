@@ -2,52 +2,56 @@
 
 ## 🌍 What Happened?
 
-On July 4, 1187 CE, a great battle occurred that changed history at a place called Hattin, near the Sea of Tiberias. **Salahuddin al-Ayyubi** led Muslim forces against Crusader armies commanded by **Guy de Lusignan**, King of Jerusalem.
+On July 4, 1187 CE, a great battle occurred that changed history at a place called Hattin, near the Sea of Tiberias. **Saladin al-Ayyubi** led the Muslim army against the Crusader forces led by **Guy de Lusignan**, King of Jerusalem.
 
-This battle began because **Reginald of Châtillon**, ruler of Kerak fortress, violated the peace treaty. He attacked Muslim merchant caravans who were performing the pilgrimage in 1186 CE. This action made Salahuddin very angry and decided to launch a major war.
+This battle began because **Reginald of Châtillon**, ruler of Kerak fortress, violated the peace treaty. He attacked a Muslim trade caravan that was performing the hajj pilgrimage in 1186 CE. This action made Saladin very angry and decided to launch a great war.
 
-Salahuddin had long prepared for this moment. Since successfully uniting Egypt and the Levant under the Ayyubid Dynasty, he built a very strong army. His forces consisted of troops from Egypt, Syria, Mesopotamia, and Anatolia—a united Muslim coalition.
+Saladin had long prepared for this moment. Since successfully uniting Egypt and Syria under the Ayyubid Dynasty, he built a very strong army. His forces consisted of troops from Egypt, Syria, Mesopotamia, and Anatolia—a united Muslim coalition.
 
-🎨 *Illustration Brief: Setting: Barren plains of Hattin with rocky hills in distance, scorching morning sun shining. Characters & Pose: Salahuddin in battle armor on horseback in front of army ranks with green banners flying, right hand raised giving command, firm and confident expression. Key Objects: White horse, curved sword, green banner with Arabic writing, ornate steel helmet. Dominant Colors: Green banner, white horse, brown earth, blue morning sky. Mood: Ready for battle, leading. Composition: Foreground Salahuddin on horseback, background tight formation of Muslim army.*
+> **🎨 Illustration Brief:**
+> *Setting: Arid plains of Hattin with rocky hills in the distance, bright morning sun shining harshly. Characters: Saladin in battle armor on horseback in front of army ranks with green banners flying, right hand raised giving command, firm and confident expression. Key objects: white horse, curved sword, green banner with Arabic writing, ornate steel helmet. Dominant colors: banner green, horse white, earth brown, morning sky blue. Mood: ready for battle, leading. Composition: foreground Saladin on horseback, background tight Muslim army formations.*
 
 ---
 
 ## 📖 The Story
 
-Salahuddin used a very clever strategy. He attacked **Tiberias** fortress to trap Crusader forces out of their strong fortresses. **Raymond III of Tripoli**, whose wife was trapped in Tiberias, actually advised against coming to help because he knew this was a trap.
+Saladin used a very clever strategy. He attacked **Tiberias** fortress to trap the Crusader forces out of their strong fortresses. **Raymond III of Tripoli**, whose wife was besieged in Tiberias, actually advised against coming to help because he knew this was a trap.
 
-However, pressure from young knights forced King Guy to decide to move to help Tiberias on July 2. Crusader forces had to march across barren territory without enough water in the middle of a very hot summer.
+However, pressure from the young knights forced King Guy to decide to move to help Tiberias on July 2. The Crusader army had to march across arid territory without sufficient water in the middle of a very hot summer.
 
-Salahuddin deliberately burned grass and bushes along the road to make the air even hotter and smoky. On the night of July 3, Crusader forces camped on the Hattin plateau in conditions of thirst and exhaustion. They were surrounded by Muslim forces who continuously disturbed their rest.
+Saladin deliberately burned grass and bushes along the road to make the air even hotter and smoky. On the night of July 3, the Crusader forces camped on the Hattin plateau in a thirsty and exhausted state. They were surrounded by Muslim forces that continuously disturbed their rest.
 
-🎨 *Illustration Brief: Setting: Crusader camp at night with scattered small fires, dark sky full of stars. Characters & Pose: Crusader soldiers sitting tired around fires, some drinking from nearly empty water containers, weary and anxious faces. Key Objects: Torn tents, empty water containers, weapons stuck in ground, thin smoke from fires. Dominant Colors: Black night, yellow fire, gray smoke, red embers. Mood: Tired, anxious, desperate. Composition: Foreground tired soldiers, background silhouettes of watching Muslim forces.*
+> **🎨 Illustration Brief:**
+> *Setting: Crusader camp at night with small fires scattered, dark sky full of stars. Characters: Crusader soldiers sitting tired around fires, some drinking from nearly empty water containers, tired and anxious faces. Key objects: torn tents, empty water containers, weapons stuck in ground, thin smoke from fires. Dominant colors: night black, fire yellow, smoke gray, ember red. Mood: tired, anxious, desperate. Composition: foreground tired soldiers, background silhouettes of Muslim forces watching.*
 
 ---
 
-## 🌟 The Lesson
+## 🌟 The Lessons
 
-The battle began at dawn on July 4 with attacks from three directions. Salahuddin led the center, his son **al-Afdal** led the right, and **Taq al-Din** led the left. Their strategy was to surround Crusader forces from all directions so they could not escape.
+The battle began at dawn on July 4 with attacks from three directions. Saladin led the center, his son **al-Afdal** led the right, and **Taqi al-Din** led the left. Their strategy was to surround the Crusader forces from all sides so they could not escape.
 
-A rain of arrows from Muslim archers succeeded in breaking Crusader battle lines. The **True Cross**, the most sacred object for Christians, was successfully captured by Muslim forces. This gave a tremendous psychological impact to Crusader soldiers.
+Rain of arrows from Muslim archers successfully broke the Crusader ranks. The **True Cross**, the holiest object for Christians, was captured by Muslim forces. This had a tremendous psychological impact on the Crusader soldiers.
 
-Finally Guy de Lusignan surrendered after Salahuddin offered him water—showing noble character in war according to Islam. However, when Guy offered the same water to Reginald of Châtillon, Salahuddin refused and executed Reginald for repeatedly violating peace treaties.
+Finally Guy de Lusignan surrendered after Saladin offered him water—showing noble character in war according to Islam. However, when Guy offered the same water to Reginald of Châtillon, Saladin refused and executed Reginald for repeatedly violating peace treaties.
 
-🎨 *Illustration Brief: Setting: Summit of Hattin hill with ancient ruins, scorching midday with dust flying. Characters & Pose: Salahuddin standing with drawn sword facing Guy de Lusignan kneeling in surrender, surrounded by Muslim and Crusader soldiers, Salahuddin's expression firm but honorable. Key Objects: Salahuddin's sword, Guy's fallen crown, torn banners, captured True Cross. Dominant Colors: Yellow dust, brown earth, black sword, white robes. Mood: Victory, historic. Composition: Foreground Salahuddin and Guy, background soldiers from both sides.*
+> **🎨 Illustration Brief:**
+> *Setting: Hattin hilltop with ancient ruins, harsh midday with dust flying. Characters: Saladin standing with drawn sword facing Guy de Lusignan who kneels in surrender, surrounded by Muslim and Crusader soldiers, Saladin's expression firm but honorable. Key objects: Saladin's sword, Guy's fallen crown, torn banners, captured True Cross. Dominant colors: dust yellow, earth brown, sword black, robe white. Mood: victory, historic. Composition: foreground Saladin and Guy, background soldiers from both sides.*
 
 ---
 
 ## 🤲 Prayer & Scripture
 
-Victory at Hattin opened the way for Salahuddin to recapture almost the entire territory of the Kingdom of Jerusalem. Within three months after Hattin, dozens of Crusader cities surrendered without resistance. Most importantly, **Jerusalem was successfully recaptured** in October 1187 CE.
+The victory at Hattin opened the way for Saladin to recapture almost the entire Kingdom of Jerusalem. Within three months after Hattin, dozens of Crusader cities surrendered without resistance. Most importantly, **Jerusalem was successfully recaptured** in October 1187 CE.
 
-Unlike when Crusaders captured Jerusalem in 1099 CE with massacres, Salahuddin granted amnesty to all Christian inhabitants. They were allowed to leave safely after paying ransom. This showed the noble character of Islam in warfare.
+Unlike when the Crusaders captured Jerusalem in 1099 CE accompanied by massacres, Saladin granted amnesty to all Christian residents. They were allowed to leave safely after paying ransom. This showed the noble character of Islam in war.
 
 Allah SWT teaches that victory comes from Him:
 
 > وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّهَ لَعَلَّكُمْ تَشْكُرُونَ ﴿١٢٣﴾
 >
-> *"And indeed Allah had given you victory at Badr when you were few in number. So fear Allah that you may be grateful."* ﴾123﴿
+> *"And already had Allah given you victory at Badr while you were few in number. So fear Allah that you may be grateful."* ﴾123﴿
 
-Hattin proved that success does not depend only on troop numbers, but on clever strategy, strong leadership, and most importantly, Muslim unity. Salahuddin succeeded because he united various Muslim forces in one shared vision. Subhanallah.
+Hattin proved that success depends not only on the number of soldiers, but on clever strategy, strong leadership, and most importantly, the unity of Muslims. Saladin succeeded because he united various Muslim forces in one shared vision. Subhanallah.
 
-🎨 *Illustration Brief: Setting: Al-Aqsa Mosque in Jerusalem after liberation, evening with golden light illuminating the dome. Characters & Pose: Salahuddin and Muslim soldiers performing congregational prayer devoutly, imam in front of mihrab, neat rows facing qibla. Key Objects: Lined prayer rugs, black Abbasid banners, Arabic calligraphy on walls, hanging lamps. Dominant Colors: Golden evening light, green prayer rugs, white robes, brown marble. Mood: Devout, grateful, dignified victory. Composition: Foreground praying congregation, background magnificent mosque architecture.*
+> **🎨 Illustration Brief:**
+> *Setting: Al-Aqsa Mosque in Jerusalem after liberation, evening with golden light illuminating the dome. Characters: Saladin and Muslim soldiers praying in congregation with devotion, imam in front of mihrab, neat rows facing qibla. Key objects: prayer mats in rows, black Abbasid banners, Arabic calligraphy on walls, hanging lamps. Dominant colors: evening gold, prayer mat green, robe white, marble brown. Mood: devotion, gratitude, dignified victory. Composition: foreground congregation praying, background magnificent mosque architecture.*

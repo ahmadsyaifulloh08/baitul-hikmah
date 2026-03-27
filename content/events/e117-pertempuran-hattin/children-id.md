@@ -12,6 +12,8 @@ Salahuddin sudah lama mempersiapkan momen ini. Sejak berhasil menyatukan Mesir d
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Ceritanya
 
 Salahuddin menggunakan strategi yang sangat cerdas. Ia menyerang benteng **Tiberias** untuk menjebak pasukan Salib keluar dari benteng-benteng mereka yang kuat. **Raymond III dari Tripoli** yang istrinya terkepung di Tiberias, justru menyarankan agar tidak datang menolong karena ia tahu ini adalah jebakan.
@@ -24,6 +26,8 @@ Salahuddin sengaja membakar rumput dan semak-semak di sepanjang jalan untuk memb
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajarannya
 
 Pertempuran dimulai pada fajar 4 Juli dengan serangan dari tiga arah. Salahuddin memimpin tengah, putranya **al-Afdal** memimpin kanan, dan **Taq al-Din** memimpin kiri. Strategi mereka adalah mengepung pasukan Salib dari segala arah agar tidak bisa melarikan diri.
@@ -36,6 +40,8 @@ Akhirnya Guy de Lusignan menyerah setelah Salahuddin menawarkan air kepadanya—
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Dalil
 
 Kemenangan di Hattin membuka jalan bagi Salahuddin untuk merebut kembali hampir seluruh wilayah Kerajaan Yerusalem. Dalam tiga bulan setelah Hattin, puluhan kota Salib menyerah tanpa perlawanan. Yang terpenting, **Yerusalem berhasil direbut kembali** pada Oktober 1187 M.
@@ -51,3 +57,6 @@ Allah SWT mengajarkan bahwa kemenangan datang dari-Nya:
 Hattin membuktikan bahwa kesuksesan bukan hanya bergantung pada jumlah tentara, tetapi pada strategi yang cerdas, kepemimpinan yang kuat, dan yang terpenting, persatuan umat Islam. Salahuddin berhasil karena ia menyatukan berbagai kekuatan Muslim dalam satu visi bersama. Subhanallah.
 
 🎨 *Ilustrasi: Setting: Masjid Al-Aqsa di Yerusalem setelah pembebasan, sore hari dengan cahaya emas menerangi kubah. Karakter & Pose: Salahuddin dan para prajurit Muslim sedang shalat berjamaah dengan khusyuk, imam di depan mihrab, barisan rapi menghadap kiblat. Objek Kunci: Sajadah berjajar, bendera hitam Abbasiyah, kaligrafi Arab di dinding, lampu gantung. Warna Dominan: Emas cahaya sore, hijau sajadah, putih jubah, coklat marmer. Suasana: Khusyuk, syukur, kemenangan yang bermartabat. Komposisi: Foreground jamaah shalat, background arsitektur masjid yang megah.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

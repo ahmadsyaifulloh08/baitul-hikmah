@@ -10,6 +10,8 @@ Konstantinopel adalah kota yang sangat penting karena letaknya menghubungkan Ero
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Cerita Pengepungan
 
 Komando ekspedisi dipimpin oleh Maslama ibn Abdul Malik, saudara khalifah yang merupakan jenderal berpengalaman. Strateginya adalah pengepungan ganda: armada laut memblokade pelabuhan, sementara pasukan darat mengepung dari daratan. Ini untuk memutus semua jalur suplai makanan dan bantuan ke Konstantinopel.
@@ -22,6 +24,8 @@ Pengepungan berlangsung selama musim dingin yang sangat keras (717-718 M). Pasuk
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajaran dari Kegagalan
 
 Pengepungan ini akhirnya gagal karena beberapa faktor. Pertama, teknologi militer Bizantium lebih canggih, terutama api Yunani yang menghancurkan banyak kapal Muslim. Kedua, diplomasi Kaisar Leo III berhasil mendapat bantuan dari Kerajaan Bulgaria yang menyerang pasukan Muslim dari belakang.
@@ -34,6 +38,8 @@ Kegagalan ini mengajarkan bahwa kekuatan militer saja tidak cukup. Dibutuhkan pe
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Hikmah
 
 Meskipun gagal, pengepungan ini memberikan pelajaran penting. Allah SWT mengingatkan pentingnya persiapan yang matang dalam Al-Quran:
@@ -45,3 +51,6 @@ Meskipun gagal, pengepungan ini memberikan pelajaran penting. Allah SWT menginga
 Kegagalan ini mengubah fokus Umayyah dari ekspansi militer ke pembangunan peradaban. Hasilnya luar biasa! Mereka membangun masjid-masjid indah seperti Masjid Umayyah di Damaskus dan mengembangkan ilmu pengetahuan, seni, dan arsitektur yang sangat maju. Kadang kegagalan justru membawa kita ke jalan yang lebih baik.
 
 🎨 *Ilustrasi: Pemandangan damai menunjukkan hasil positif dari kegagalan ini - Masjid Umayyah yang indah di Damaskus, perpustakaan dengan para ulama belajar, seniman membuat karya seni Islam. Kontras dengan scene perang sebelumnya. Setting: kota Islam yang maju dengan arsitektur indah, taman, dan pusat pembelajaran. Warna hangat dan damai. Suasana kemajuan peradaban dan kebijaksanaan.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

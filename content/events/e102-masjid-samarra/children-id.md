@@ -12,6 +12,8 @@ Kota Samarra sendiri dibangun dari nol oleh Khalifah Al-Mu'tasim pada tahun 836 
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🔬 Penjelasan
 
 Pembangunan Masjid Agung Samarra dimulai pada tahun 848 M dan selesai pada 852 M di bawah perintah Khalifah Al-Mutawakkil. Para arsitek menggunakan teknik konstruksi yang sangat maju, menggabungkan batu bata yang dibakar dengan mortar kapur berkualitas tinggi.
@@ -26,6 +28,8 @@ Para seniman Samarra mengembangkan teknik dekorasi baru yang disebut "luster" un
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌍 Dampak modern
 
 Desain Menara Malwiya mempengaruhi arsitektur masjid di seluruh dunia Islam. Bentuk spiralnya yang unik kemudian diadopsi oleh berbagai bangunan, termasuk Masjid Ibn Tulun di Kairo yang dibangun tahun 879 M.
@@ -40,6 +44,8 @@ Saat ini, Situs Arkeologi Samarra telah ditetapkan sebagai Situs Warisan Dunia U
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Islam & Ilmu
 
 Islam mengajarkan bahwa Allah SWT ada di mana-mana dan kita bisa menghadap ke arah mana pun untuk berdoa, meskipun kiblat tetap menjadi arah khusus untuk shalat. Al-Quran berfirman:
@@ -56,3 +62,6 @@ Perpustakaan Samarra menyimpan manuskrip dalam berbagai bahasa: Arab, Persia, Yu
 Menara Malwiya juga digunakan untuk pengamatan astronomi, yang merupakan bagian penting dari ilmu pengetahuan Islam. Para ilmuwan Muslim menggunakan pengamatan bintang untuk menentukan waktu shalat, arah kiblat, dan kalender Islam.
 
 🎨 *Ilustrasi: Seorang ilmuwan Muslim dengan jubah hijau sedang menggunakan astrolabe dan alat astronomi lainnya di puncak Menara Malwiya untuk mengamati bintang-bintang. Di bawahnya terlihat kota Samarra yang berkilauan di malam hari. Ada gulungan manuskrip dan alat tulis di sampingnya. Setting: puncak menara pada malam berbintang. Warna dominan: hijau jubah ilmuwan, emas alat astronomi, biru malam, putih bintang. Suasana: tenang dan penuh konsentrasi ilmiah. Komposisi: medium shot dengan latar langit malam yang indah.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

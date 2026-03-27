@@ -14,6 +14,8 @@ Menara Qutb setinggi 72,5 meter - lebih tinggi dari gedung 20 lantai! Pada zaman
 
 🎨 *Ilustrasi: Konstruksi menara dengan pekerja menggunakan sistem katrol dan tangga bambu. Background: kota Delhi kuno dengan rumah-rumah kecil. Karakter: pekerja dengan pakaian sederhana sedang mengangkat batu besar, arsitek dengan jubah elegan memeriksa gambar. Objek kunci: batu merah, katrol kayu, tangga bambu, gulungan arsitektur. Warna dominan: merah bata, coklat kayu, putih, biru langit. Mood: kerja sama dan kemajuan. Komposisi: menara setengah jadi di center, aktivitas konstruksi di foreground.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 📖 Ceritanya
 
 Masjid **Quwwat-ul-Islam** dibangun dengan cara yang menarik. Para pembangun menggunakan material dari 27 kuil Hindu dan Jain yang ada di lokasi itu. Mereka tidak membuang pilar-pilar berukir indah, tetapi menggabungkannya dengan desain Islam.
@@ -28,6 +30,8 @@ Menara ini berfungsi ganda: sebagai **menara kemenangan** untuk memamerkan kekua
 
 🎨 *Ilustrasi: Qutb Minar menjulang tinggi dengan detail kaligrafi Arab di setiap tingkatnya. Background: kota Delhi dengan rumah-rumah tradisional. Karakter: muazin kecil di atas menara sedang mengumandangkan azan, penduduk kota di bawah mendengarkan. Objek kunci: menara berlapis lima, kaligrafi emas, rumah-rumah kecil di bawah. Warna dominan: merah bata, emas, hijau, biru langit. Mood: kemegahan dan spiritualitas. Komposisi: menara mendominasi center frame, kota menyebar di base.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🌟 Pelajarannya
 
 Kompleks Qutb mengajarkan bahwa **perpaduan budaya** bisa menciptakan sesuatu yang lebih indah. Meski dimulai dengan penaklukan, akhirnya tercipta arsitektur yang memadukan keindahan Hindu dan Islam.
@@ -42,6 +46,8 @@ Hingga kini, Qutb Minar masih berdiri tegak setelah hampir 900 tahun! Ini menunj
 
 🎨 *Ilustrasi: Qutb Minar modern sebagai landmark wisata dengan turis dari berbagai negara. Background: Delhi modern dengan gedung-gedung tinggi. Karakter: keluarga turis mengagumi menara, pemandu wisata menjelaskan sejarah. Objek kunci: kamera, buku panduan, bendera negara-negara, tas ransel. Warna dominan: merah bata, putih, biru langit, warna-warni pakaian turis. Mood: kekaguman dan pembelajaran. Komposisi: menara kuno kontras dengan kota modern, aktivitas turis di foreground.*
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## 🤲 Doa & Dalil
 
 Kisah Qutb Minar mengingatkan kita bahwa Allah SWT mengutus Nabi Muhammad ﷺ sebagai rahmat untuk seluruh alam, bukan hanya untuk satu kaum saja.
@@ -54,3 +60,6 @@ Kisah Qutb Minar mengingatkan kita bahwa Allah SWT mengutus Nabi Muhammad ﷺ se
 **Doa**: "Ya Allah, jadikanlah kami seperti para pembangun Qutb Minar yang mampu menciptakan keindahan dari perbedaan, dan berikanlah kami hikmah untuk saling menghargai warisan budaya yang berbeda."
 
 🎨 *Ilustrasi: Anak-anak dari berbagai budaya berdoa bersama di halaman Qutb Minar. Background: menara menjulang dengan sinar matahari golden hour. Karakter: anak-anak dalam berbagai pakaian tradisional duduk melingkar dengan tangan terbuka berdoa. Objek kunci: sajadah kecil, Quran, bunga-bunga warna-warni, burung merpati terbang. Warna dominan: emas golden hour, putih, warna-warni pakaian, hijau taman. Mood: damai dan spiritual. Komposisi: circle anak-anak di foreground, menara megah di background dengan cahaya dramatis.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*

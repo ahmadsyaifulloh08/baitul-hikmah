@@ -10,6 +10,8 @@ Caliph al-Walid did not take the church by force, but conducted good negotiation
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🔧 Construction Process
 
 The construction of the Umayyad Mosque required the best architects and artists from various countries. There were experts from Byzantium (present-day Turkey), Persia (present-day Iran), and Arabs working together to create a unique design. They combined different architectural styles into one beautiful unity.
@@ -22,6 +24,8 @@ The architectural team also created important innovations such as a ventilation 
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌍 Beauty and Impact
 
 The mosaics of the Umayyad Mosque are considered one of the finest works of Islamic art throughout history. Using millions of pieces of colored glass and gold, these mosaics depict heavenly scenes with gardens, rivers, and beautiful palaces. There are no human or animal images, in accordance with Islamic art principles.
@@ -34,6 +38,8 @@ The Umayyad Mosque became a model for building grand mosques throughout the Isla
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 Meaning and Lessons
 
 The Umayyad Mosque teaches many valuable lessons. First, the importance of dialogue and tolerance between religions. Caliph al-Walid showed that religious differences do not have to result in conflict, but can be resolved through fair and respectful negotiation.
@@ -47,3 +53,6 @@ Second, Islam values beauty and art. The beautiful mosaics and amazing calligrap
 Third, the importance of international cooperation. Architects from various nations worked together to create an extraordinarily beautiful mosque. This shows that cultural diversity can enrich the treasury of Islamic arts and architecture.
 
 🎨 *Illustration: Night view of Damascus with the Umayyad Mosque illuminated by soft light. There are Muslim and Christian children playing together in the city park, while adults from various religions trade peacefully in the night market. Setting: multicultural city with Islamic and Christian architecture side by side, warm colors of night lights and stars. Harmonious atmosphere of tolerance.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

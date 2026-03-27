@@ -12,6 +12,8 @@ Samarra city itself was built from scratch by Caliph Al-Mu'tasim in 836 CE as th
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🔬 Explanation
 
 Construction of the Great Mosque of Samarra began in 848 CE and was completed in 852 CE under the command of Caliph Al-Mutawakkil. The architects used very advanced construction techniques, combining fired brick with high-quality lime mortar.
@@ -26,6 +28,8 @@ Samarra artists developed a new decorative technique called "luster" for ceramic
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 🌍 Modern impact
 
 The design of Malwiya Tower influenced mosque architecture throughout the Islamic world. Its unique spiral shape was later adopted by various buildings, including the Ibn Tulun Mosque in Cairo built in 879 CE.
@@ -40,6 +44,8 @@ Today, the Samarra Archaeological Site has been designated as a UNESCO World Her
 
 ---
 
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*
 ## 📖 Islam & Science
 
 Islam teaches that Allah SWT is everywhere and we can face any direction to pray, although the qibla remains the special direction for prayer. The Quran states:
@@ -56,3 +62,6 @@ The Samarra library stored manuscripts in various languages: Arabic, Persian, Gr
 The Malwiya Tower was also used for astronomical observation, which was an important part of Islamic science. Muslim scientists used star observations to determine prayer times, qibla direction, and the Islamic calendar.
 
 🎨 *Illustration: A Muslim scientist in green robes using an astrolabe and other astronomical instruments at the top of Malwiya Tower to observe stars. Below him, the city of Samarra sparkles at night. There are manuscript scrolls and writing instruments beside him. Setting: top of tower on a starry night. Dominant colors: green scientist's robe, golden astronomical instruments, blue night, white stars. Mood: calm and full of scientific concentration. Composition: medium shot with beautiful night sky background.*
+
+> **🎨 Illustration Brief:**
+> *[Setting], [main character], [key objects/elements]. Dominant colors [color 1], [color 2], [color 3]. Mood [atmosphere]. Composition [layout/perspective].*

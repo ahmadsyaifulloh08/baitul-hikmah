@@ -2,13 +2,13 @@
 
 ## 🤫 From Secret to Open
 
-Remember the story of the secret da'wah? For three years, Prophet Muhammad SAW invited people to Islam quietly. But now, Allah commanded something new:
+For three years, Prophet Muhammad SAW invited people to Islam quietly. Now, Allah commanded something new:
 
 "And warn your closest kindred! ﴾214﴿" (QS. Al-Shu'ara': 214)
 
 It was time to speak openly! No more hiding. Prophet Muhammad SAW had to deliver the message of Islam to everyone — starting with his own family.
 
-How nerve-wracking! Three years of secrecy, and now he had to stand before everyone and say: "I bring a message from Allah." But the Prophet was not afraid, because he knew this was Allah's command.
+Three years of secrecy, and now he had to stand before everyone and say: "I bring a message from Allah." The Prophet was not afraid, because he knew this was Allah's command.
 
 > **🎨 Illustration Brief:**
 > *Prophet Muhammad SAW stands at the foot of Mount Safa, looking upward. At the summit, bright morning sunlight shines. Behind him, the silhouette of Mecca with stone houses. Golden morning light, brown hillside, clear blue sky. Mood full of determination and courage. Vertical composition — figure below, hill and light above.*
@@ -23,7 +23,7 @@ After eating, Prophet Muhammad SAW stood and said: "O my family, I bring you som
 
 But before he could finish, his uncle **Abu Lahab** cut him off: "Enough! Everyone leave!" And the gathering broke up.
 
-Did the Prophet give up? No! He held another dinner and delivered his message again. That's our Prophet — he never gave up!
+The Prophet did not give up. He held another dinner and delivered his message again with patience.
 
 > **🎨 Illustration Brief:**
 > *Large room with mats on the floor. Many people sit in a circle with plates of food in the center. Prophet Muhammad SAW stands on one side, speaking with a raised hand. In the corner, an angry older man (Abu Lahab) is about to stand. Warm room colors, yellow lamplight, varied clothing. Tense but determined mood. Wide composition — many figures, focus on the standing Prophet.*
@@ -57,7 +57,7 @@ After the Prophet finished speaking, everyone was silent. Then Abu Lahab stood a
 
 Abu Lahab was furious. He was the Prophet's uncle who opposed Islam the most fiercely. His wife, **Umm Jamil**, even placed sharp thorns on paths the Prophet walked so his feet would be hurt!
 
-But happened? Allah revealed a special surah about Abu Lahab — **Surah al-Lahab** — declaring that Abu Lahab's wealth and power would not save him.
+Allah revealed a special surah about Abu Lahab — **Surah al-Lahab** — declaring that Abu Lahab's wealth and power would not save him.
 
 The lesson: wealth and power mean nothing if our hearts reject the truth.
 
@@ -74,7 +74,7 @@ The lesson: wealth and power mean nothing if our hearts reject the truth.
 
 **If you fail once, try again!** The first dinner failed because Abu Lahab broke it up. But the Prophet didn't give up — he tried again and again.
 
-**Insults are not the end.** Abu Lahab insulted the Prophet in front of everyone. But the Prophet didn't insult back. He stayed calm and continued his mission. What extraordinary character!
+**Insults are not the end.** Abu Lahab insulted the Prophet in front of everyone. But the Prophet didn't insult back. He stayed calm and continued his mission. Such noble character!
 
 > **🎨 Illustration Brief:**
 > *A child stands before classmates, hands slightly trembling but face full of determination, delivering something important. listen — some smile supportively, some watch curiously. Light from a window illuminates the child. Bright classroom colors, warm light. Mood full of courage. Focused composition — one child in front, behind.*

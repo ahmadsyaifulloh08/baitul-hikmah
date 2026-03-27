@@ -14,6 +14,8 @@ Selain itu, Utsman adalah seorang pedagang yang sangat kaya. Tapi kekayaannya ti
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Sumur untuk Semua Orang
 
 Suatu hari, penduduk Madinah kesulitan mendapatkan air bersih. Satu-satunya sumur yang bagus dimiliki oleh seorang pedagang yang menjual airnya dengan harga mahal.
@@ -26,6 +28,8 @@ Ketika Nabi Muhammad ﷺ meminta bantuan untuk mempersiapkan pasukan perang, Uts
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Menjadi Khalifah Ketiga
 
 Setelah Khalifah **Umar ibn al-Khaththab** wafat, para sahabat senior bermusyawarah untuk memilih khalifah baru. Mereka memilih Utsman karena kebijaksanaan, kelembutan, dan pengabdiannya kepada Islam.
@@ -40,6 +44,8 @@ Sebagai khalifah, Utsman melakukan banyak hal hebat:
 
 ---
 
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
 ## Ujian Berat dan Kesabaran
 
 Di akhir masa kepemimpinannya, ada sekelompok orang yang tidak puas dan membuat keributan. Mereka mengepung rumah Utsman selama berhari-hari.
@@ -51,3 +57,6 @@ Utsman akhirnya wafat sebagai syahid, saat ia sedang membaca al-Quran. Nabi Muha
 Kisah Utsman mengajarkan kita tentang **kedermawanan**, **kesabaran**, dan **cinta perdamaian**. Ia lebih memilih berkorban daripada menyebabkan pertikaian di antara umat Islam.
 
 🎨 *Ilustrasi: Seorang laki-laki tua berjubah putih duduk tenang di ruangan sederhana membaca mushaf al-Quran terbuka, cahaya lembut dari jendela menerangi wajahnya. Warna dominan putih dan kuning keemasan. Mood: damai dan penuh keteguhan. Komposisi: close-up, karakter di tengah, mushaf terbuka di pangkuan, cahaya jendela dari kiri.*
+
+> **🎨 Brief Ilustrasi:**
+> *[Setting], [karakter utama], [objek/elemen kunci]. Warna dominan [warna 1], [warna 2], [warna 3]. Mood [suasana]. Komposisi [tata letak/perspektif].*
