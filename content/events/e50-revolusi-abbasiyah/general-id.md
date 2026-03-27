@@ -10,7 +10,7 @@ Pada pertengahan abad ke-8 M, Dinasti Umayyah yang telah berkuasa sejak 661 M me
 
 **Diskriminasi sistematis terhadap *mawali*** (orang non-Arab yang masuk Islam) menjadi sumber ketegangan paling fundamental. Meski telah memeluk Islam — bahkan sering lebih taat daripada Arab sendiri — mereka tetap diperlakukan sebagai warga kelas dua. Mereka dikenakan pajak *jizyah* seperti non-Muslim, dilarang mengucapkan *adzan*, dan hampir tidak pernah mendapat jabatan tinggi dalam pemerintahan.^2
 
-Ibn al-Athir dalam *Al-Kamil fi al-Tarikh* mencatat keluhan yang sering disuarakan kalangan *mawali* Persia: *"Kami masuk Islam dengan tulus, belajar bahasa Arab dengan tekun, bahkan hafal Al-Quran lebih baik dari orang Arab. Namun mereka tetap memanggil kami 'ajam (barbar) dan menganggap kami tidak layak memimpin."*^3^12
+Ibn al-Athir dalam *Al-Kamil fi al-Tarikh* mencatat keluhan yang sering disuarakan kalangan *mawali* Persia: *"Kami masuk Islam dengan tulus, belajar bahasa Arab dengan tekun, bahkan hafal Al-Quran lebih baik dari orang Arab. Namun mereka tetap memanggil kami 'ajam (barbar) dan menganggap kami tidak layak memimpin."*^3
 
 **Perpecahan internal keluarga Umayyah** semakin memperparah situasi. Rivalitas antara cabang **Sufyaniyah** (keturunan Mu'awiyah) dan **Marwaniyah** (keturunan Marwan bin Hakam) menciptakan intrik istana yang tak berkesudahan. Setiap pergantian khalifah diwarnai konspirasi, pembunuhan politik, dan perebutan tahta yang brutal.^2
 
@@ -279,4 +279,3 @@ Toleransi religius yang dipraktikkan Abbasiyah memungkinkan terjadinya dialog da
 9. Sourdel, Dominique, *Medieval Islam*, London: Routledge & Kegan Paul, 1983.
 10. Shaban, M.A., *The Abbasid Revolution*, Cambridge: Cambridge University Press, 1970.
 11. Bulliet, Richard W., *Conversion to Islam in the Medieval Period*, Harvard University Press, 1979.
-12. Al-Qur'an al-Karim. QS. Ar-Rum (30): 22.

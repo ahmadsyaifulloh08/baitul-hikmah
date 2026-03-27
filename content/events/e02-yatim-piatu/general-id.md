@@ -17,7 +17,7 @@ Dari sudut pandang teologis, keyatiman sejak sebelum lahir merupakan bagian dari
 > *"Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu? ﴾6﴿"*
 > — QS. Ad-Dhuha (93): 6
 
-## Di Padang Pasir Bani Sa'd: Masa Penyusuan^8
+## Di Padang Pasir Bani Sa'd: Masa Penyusuan
 
 Tradisi masyarakat Arab, khususnya kaum bangsawan Quraisy, mengharuskan bayi-bayi mereka diasuh oleh ibu susu*murdhi'ah* dari kabilah Badui di pedalaman. Tujuannya ganda: agar anak tumbuh dengan fisik yang kuat di udara padang pasir yang segar, dan agar ia menguasai bahasa Arab yang fasih dan murni*fashahah*, jauh dari pengaruh dialek kota yang telah tercampur logat asing para pedagang.^1
 
@@ -157,5 +157,3 @@ Dalam menyusun kronologi ini, terdapat beberapa catatan penting mengenai perbeda
 5. Ibn Sa'd, *Al-Tabaqat al-Kubra*, jilid 1 (Beirut: Dar Shadir, 1968).
 6. Al-Bayhaqi, *Dalail al-Nubuwwah* (Beirut: Dar al-Kutub al-Ilmiyyah, 1985).
 7. Ibn Qayyim al-Jauziyyah, *Zad al-Ma'ad fi Hady Khair al-Ibad*, jilid 1 (Beirut: Mu'assasat al-Risalah, 1994).
-
-8. Al-Qur'an al-Karim. QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10.
