@@ -1,53 +1,72 @@
-# Umar ibn Abd al-Aziz — The Just Caliph 🌟
+# Umar ibn Abdul Aziz — The Just Caliph 👑
 
 ---
 
-## A Caliph Unlike Any Other
+## 🧑 Who Was He?
 
-Among the Umayyad caliphs who lived in luxury in the magnificent palaces of Damascus, there was one who was very different. His name was **Umar ibn Abd al-Aziz**, and he was called **"the Second Umar"** because his sense of justice was like that of his great-grandfather, **Umar ibn al-Khattab** — one of the greatest caliphs in Islamic history.
+**Umar ibn Abdul Aziz** was the eighth caliph of the Umayyad Dynasty who ruled from 717-720 CE. He was the great-great-grandson of **Umar ibn al-Khattab** through his mother — **Umm Ashim**, who was the granddaughter of Umar al-Faruq.
 
-When he was made caliph in 717 CE, Umar climbed the pulpit with a **pale face and teary eyes**. He told the people: *"I did not ask for this position. If you do not want me, choose someone else."* But the people cried out: "We choose you!"
+Umar was unlike other Umayyad caliphs who lived luxuriously. Since childhood, he was famous for his zuhd (simple living) and always seeking justice. When appointed as caliph to replace Sulaiman ibn Abdul Malik, many were surprised because he wasn't the direct son.
 
-🎨 *Illustration: Umar ibn Abd al-Aziz standing at a mosque pulpit, dressed simply (white robe with patches), speaking to the people filling the mosque. His face is serious yet full of compassion. Dominant colors of white, brown, and golden light. Solemn and moving mood. Umar on the pulpit above, people below.*
+What made him special was that Umar ascended the throne when the Umayyad Dynasty was at its peak of power — territories from Spain to China — but also full of problems: corruption, tax injustice, and family nepotism.
 
----
+Historians called him **"Umar al-Thani"** (Umar the Second) because like his great-great-grandfather, he was very just and loved truth.
 
-## Returning Wealth to the People
-
-The first thing Umar did after becoming caliph was truly astonishing — he **returned all his personal wealth** to the state treasury! Prize horses, jewelry, properties — all returned.
-
-He also ordered the entire Banu Umayyah family to return assets they had taken unfairly. how angry his family was! But Umar did not care — for him, justice was more important than family ties.
-
-His wife, **Fatimah** — who was actually the daughter of a previous caliph — was also asked to return all her jewelry. Fatimah was not angry. She said: *"I would rather be with you than with all the jewelry in the world."* 💕
-
-🎨 *Illustration: Umar and Fatimah in their simple home. Fatimah handing over a jewelry box to a treasury official. Their home is clean but very modest. Dominant colors of warm brown, white, and a touch of gold. Warm and sacrificial mood. Simple interior composition.*
+🎨 *Illustration: Umar ibn Abdul Aziz standing simply in magnificent Umayyad palace wearing patched clothes, contrasting with surrounding luxury. In his hand is the Quran, while behind him is a map of the vast caliphate territory. His facial expression shows determination and sadness seeing injustice. Dominant colors of white simple clothes, golden palace, green Quran, blue map. Atmosphere contrasting simplicity and grandeur. Composition: Umar in center with humble posture, palace luxury as background, map showing scope of responsibility.*
 
 ---
 
-## Justice for Everyone
+## ⭐ What Did He Do?
 
-Umar's most important reform was about **taxes**. Before him, people who had converted to Islam but were not Arab were still forced to pay the non-Muslim tax — even though they were already Muslim! This was terribly unfair.
+On his first day as caliph, Umar immediately shocked everyone by **returning all personal wealth** to the state treasury. Special horses, slaves, properties, and jewelry — everything returned! He also ordered all Bani Umayyad family members to return illegally obtained wealth.
 
-Umar abolished this injustice. When his governors protested that state income would decrease, Umar answered: *"By Allah, I wish that all people would embrace Islam even if you and I have to earn our own living."*
+**Tax reform** was the biggest. Non-Arab Muslims (*mawali*) — especially from Persia and Egypt — were still taxed *jizyah* despite being Muslim. Umar abolished this! When governors protested because revenue would decrease, Umar said: *"I hope everyone converts to Islam so you and I must seek livelihood with our own hands."*
 
-He also ended the terrible tradition of **cursing Ali ibn Abi Talib** in mosques. Instead, he ordered the recitation of a Quranic verse: **"Indeed, Allah commands justice and benevolence."** (QS An-Nahl: 90)
+Umar also **stopped cursing Ali ibn Abi Talib** from pulpits. For decades, Umayyad caliphs had the bad tradition of cursing Ali in mosques. Umar replaced this with Quranic verses: *"Indeed, Allah orders justice and good conduct."*
 
-🎨 *Illustration: Umar sitting in a simple court, listening to complaints from people of various backgrounds — Arab, Persian, African. Everyone treated equally. Dominant colors of blue, white, and brown. Fair and attentive mood. Umar in the center, people on both sides.*
+He dismissed corrupt officials, banned torture, built infrastructure, and sent peaceful missionary letters to non-Muslim kings.
+
+🎨 *Illustration: Umar standing at grand mosque pulpit with open Quran, replacing tradition of cursing with verses about justice. Diverse congregation — Arab, Persian, Egyptian — listening with relieved and happy faces. In corner, treasure chests being returned to state treasury. Golden light enters through windows illuminating the scene. Dominant colors of brown wooden pulpit, green Quran, golden light, various congregation clothing. Atmosphere of wisdom and liberation from hatred. Composition: Umar elevated at pulpit, diverse congregation faces looking up with hope, treasury being returned in background.*
 
 ---
 
-## A Short Life, an Enduring Legacy
+## 💡 Why Was He Extraordinary?
 
-Sadly, Umar only ruled for **two years and five months**. He passed away in 720 CE at about 39 years old. Many believe he was poisoned by his own family members who were angry about his reforms.
+**Reform from within** — Umar was a ruling family member who dared change the corrupt system from position of power. He sacrificed family interests for justice.
 
-Even though his time in power was very short, Umar ibn Abd al-Aziz proved that an **honest, just, and humble** leader can change the world — even in a short time.
+**Extreme zuhd lifestyle** — Despite being caliph of the world's largest nation, Umar's salary was only **2 dirhams per day**. He lived in a simple house, ate bread + olive oil, wore patched clothes.
 
-Prophet Muhammad ﷺ said: **"Each of you is a shepherd, and each of you will be asked about his flock."** (Narrated by al-Bukhari & Muslim)
+**Justice without favoritism** — Mawali Muslims who were oppressed for decades finally gained full equality. This was a revolution in social justice!
 
-Lessons from Umar's story:
-- **Justice takes courage** — Umar dared to stand against his own family for justice
-- **Simplicity is strength** — He led the world's largest empire while living on two dirhams a day
-- **Short time, huge impact** — Just two years, but remembered throughout history
-- **True leaders serve** — It is not the people who serve the leader, but the leader who serves the people
+**Supportive wife** — **Fatimah binti Abdul Malik** (daughter of caliph) willingly returned all her jewelry to state treasury. She said: *"I prefer being with you over all the world's jewelry."*
 
-🎨 *Illustration: Sunrise over the city of Damascus, illuminating mosques and houses. In the sky, stars still faintly visible. Symbolizing Umar's brief but brilliant light of justice. Dominant colors of dawn gold, morning sky blue, and white. Inspirational and hopeful mood. Wide landscape composition with sunrise.*
+**Great impact in short time** — Only ruled **2 years 5 months**, but successfully changed history's direction and became the standard for ideal leadership.
+
+**Sacrificing life** — Many believe Umar was poisoned by his own family due to his reforms. He knew the risks but continued anyway.
+
+🎨 *Illustration: Umar's simple house with minimal furniture. Umar and Fatimah sharing simple bread meal at small wooden table while reading Quran. On wall hangs map of vast caliphate territory. Through window, happy people working in fields are visible. Gentle candlelight illuminates their peaceful faces. Dominant colors of brown wood, white bread, yellow candle, green fields. Peaceful atmosphere and blessings of simplicity. Composition: intimate dinner scene in foreground, vast empire map showing responsibility, peaceful countryside through window.*
+
+---
+
+## 📖 Allah Says...
+
+Umar ibn Abdul Aziz often quoted the verse he used to replace cursing at pulpits:
+
+> إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ
+
+*"Indeed, Allah orders justice and good conduct and giving to relatives."* (QS. An-Nahl: 90)
+
+Umar also often remembered Prophet's ﷺ hadith about leaders' responsibility:
+
+*"Each of you is a shepherd, and each of you will be questioned about his flock."* (HR. Bukhari & Muslim)
+
+Prophet ﷺ once said about the return of justice:
+
+*"There will be a caliphate following the prophetic way."*
+
+Many scholars believe this refers to Umar ibn Abdul Aziz's leadership — an Umayyad caliph who emulated the Rightly-Guided Caliphs.
+
+**Wisdom for us:**
+True justice requires real sacrifice. Umar proved that a true leader is willing to lose everything for truth. And though he died young at age 39, his name is remembered as the best example of leadership in Islamic history.
+
+🎨 *Illustration: Umar ibn Abdul Aziz's simple grave visited by people from various nations bringing flowers and praying. Simple stone gravestone with calligraphic inscription of name and date. Shady olive tree providing shelter, peaceful birds perching. In distance, modern city with mosques and schools showing his continuing legacy of justice. Dominant colors of green leaves, white flowers, gray gravestone, blue sky. Atmosphere of reverence and respect. Composition: grave as focal point, visitors from various backgrounds paying respect, legacy of justice visible in thriving city background.*
