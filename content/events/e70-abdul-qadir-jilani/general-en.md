@@ -12,7 +12,7 @@ Abdul Qadir's father, Abu Salih Musa, was a righteous and respected man in his c
 
 ## Early Education and Spiritual Calling
 
-Abdul Qadir's early education began in his hometown of Jilan. He demonstrated extraordinary intelligence in memorizing the Qur'an and studying basic religious sciences. His local teachers recognized his great potential and suggested that he continue his education in larger centers of learning.^1
+Abdul Qadir's early education began in his hometown of Jilan. He demonstrated extraordinary intelligence in memorizing the Qur'an and studying basic religious sciences. His local teachers recognized his great potential and suggested that he continue his education in larger centers of learning.^1^4
 
 At the age of 18, Abdul Qadir made an important decision to leave his hometown in Jilan to seek knowledge in Baghdad. This decision was not easy, considering Baghdad was a highly competitive center of learning that required mature mental and spiritual preparation. Before departing, his mother gave him advice and prayers that would become his life's guidance: "My son, never speak falsehood, even under the most threatening circumstances."^2
 
@@ -132,3 +132,4 @@ The Qadiriyyah Order to this day remains active in various parts of the world, w
 1. Al-Jilani, Abdul Qadir, *Futuh al-Ghaib*, Cairo: Dar al-Kutub al-Ilmiyyah, 1986.
 2. Trimingham, J.S., *The Sufi Orders in Islam*, Oxford: Oxford University Press, 1971.
 3. Al-Dhahabi, Shams al-Din, *Siyar A'lam al-Nubala*, Beirut: Muassasah al-Risalah, 1985.
+4. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.

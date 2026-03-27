@@ -6,7 +6,7 @@ Abad ke-11 Masehi merupakan periode penting dalam sejarah pemikiran Islam. Pada 
 
 Baghdad sebagai pusat keilmuan Islam mengalami dinamika intelektual yang kompleks. Para filosof Muslim seperti al-Farabi dan Ibn Sina telah mengembangkan pemikiran falsafi yang mendalam, serta menerjemahkan dan mengkomentar karya-karya Aristoteles dan Plato. Namun hal ini menimbulkan kekhawatiran di kalangan ulama tradisional yang merasa ajaran Islam mulai tercampur dengan pemikiran Yunani.^2
 
-Madrasah Nizamiyyah yang didirikan Wazir Nizam al-Mulk menjadi arena perdebatan intelektual yang sengit. Di satu sisi, para filosof mengembangkan sistem pemikiran yang rasional dan logis. Di sisi lain, para ulama tradisional mempertahankan kemurnian ajaran Islam berdasarkan Al-Qur'an dan hadits. Ketegangan ini memerlukan sosok yang mampu membangun jembatan antara kedua kubu tersebut.^3
+Madrasah Nizamiyyah yang didirikan Wazir Nizam al-Mulk menjadi arena perdebatan intelektual yang sengit. Di satu sisi, para filosof mengembangkan sistem pemikiran yang rasional dan logis. Di sisi lain, para ulama tradisional mempertahankan kemurnian ajaran Islam berdasarkan Al-Qur'an dan hadits. Ketegangan ini memerlukan sosok yang mampu membangun jembatan antara kedua kubu tersebut.^3^6
 
 Di tengah kondisi tersebut, muncul seorang tokoh besar yang mampu menjembatani berbagai aliran pemikiran Islam. **Abu Hamid Muhammad ibn Muhammad al-Ghazali** (1058-1111 M) lahir di Thus, Khurasan (kini Iran), dalam keluarga yang sederhana namun memiliki kecintaan tinggi terhadap ilmu pengetahuan. Ayahnya seorang pemintal wol yang saleh, yang sebelum wafat menitipkan pendidikan al-Ghazali kepada seorang sufi.
 
@@ -136,3 +136,4 @@ Al-Ghazali berhasil menunjukkan bahwa Islam adalah agama yang seimbang, yang men
 3. Al-Ghazali, Abu Hamid, *Al-Munqidz min al-Dalal*, Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
 4. Al-Subki, Taj al-Din, *Tabaqat al-Shafi'iyyah al-Kubra*, Kairo: Maktabah Isa al-Babi al-Halabi, 1964.
 5. Nakamura, Kojiro, *Ghazali and Prayer in the Ihya*, Kuala Lumpur: Islamic Book Trust, 2008.
+6. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.

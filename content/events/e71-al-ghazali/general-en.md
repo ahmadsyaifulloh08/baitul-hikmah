@@ -6,7 +6,7 @@ The 11th century CE marked a crucial period in Islamic intellectual history. Dur
 
 Baghdad as the center of Islamic learning experienced complex intellectual dynamics. Muslim philosophers like al-Farabi and Ibn Sina had developed profound philosophical thought and translated and commented on the works of Aristotle and Plato. However, this raised concerns among traditional scholars who felt Islamic teachings were becoming mixed with Greek philosophy.^2
 
-The Nizamiyyah Madrasah established by Vizier Nizam al-Mulk became an arena for fierce intellectual debates. On one side, philosophers developed rational and logical systems of thought. On the other side, traditional scholars defended the purity of Islamic teachings based on the Qur'an and hadith. This tension required a figure capable of building bridges between both camps.^3
+The Nizamiyyah Madrasah established by Vizier Nizam al-Mulk became an arena for fierce intellectual debates. On one side, philosophers developed rational and logical systems of thought. On the other side, traditional scholars defended the purity of Islamic teachings based on the Qur'an and hadith. This tension required a figure capable of building bridges between both camps.^3^4
 
 Amidst these conditions emerged a great figure who could bridge various streams of Islamic thought. **Abu Hamid Muhammad ibn Muhammad al-Ghazali** (1058-1111 CE) was born in Tus, Khurasan (now Iran), in a simple family with great love for knowledge. His father was a pious wool-spinner who, before his death, entrusted al-Ghazali's education to a Sufi.
 
@@ -134,3 +134,4 @@ Al-Ghazali succeeded in showing that Islam is a balanced religion that accommoda
 1. Al-Ghazali, Abu Hamid, *Ihya Ulum al-Din*, Cairo: Dar al-Ma'arif, 1957.
 2. Watt, W. Montgomery, *Muslim Intellectual: A Study of Al-Ghazali*, Edinburgh: Edinburgh University Press, 1963.
 3. Al-Ghazali, Abu Hamid, *Al-Munqidz min al-Dalal*, Beirut: Dar al-Kutub al-Ilmiyyah, 1988.
+4. Al-Qur'an al-Karim. QS. Al-Anbiya' (21): 107.

@@ -2,7 +2,7 @@
 
 ## Context: Diversity of Recitations and the Threat of Division
 
-After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee. This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^1
+After the death of Prophet Muhammad ﷺ, the Quran had been codified into a single *mushaf* on the orders of Abu Bakr al-Siddiq, with **Zayd ibn Thabit** heading the compilation committee. This *mushaf* was kept by Abu Bakr, then by Umar ibn al-Khattab, and after Umar's death, it remained in the custody of Hafsah bint Umar.^1^3
 
 However, as Islamic territories expanded rapidly under Uthman's caliphate, companions scattered across various regions taught the Quran according to the *qira'at* (recitation variants) they had received directly from the Prophet ﷺ. The people of Syria followed the reading of **Ubayy ibn Ka'b**, those of Kufa followed **Abdullah ibn Mas'ud**, those of Basra followed **Abu Musa al-Ash'ari**, and so on.
 
@@ -100,3 +100,4 @@ Beyond a technical project, this standardization became a symbol of Muslim unity
 
 1. **Ibn Abi Dawud, Abu Bakr Abdullah ibn Sulayman.** *Al-Masahif* (The Book of Quranic Manuscripts). Ed. Muhibb al-Din Wa'izh. Beirut: Dar al-Basha'ir al-Islamiyyah, 2002.
 2. Al-Suyuti, Jalal al-Din, *Al-Itqan fi Ulum al-Quran*, Cairo: Dar al-Turath, 1967.
+3. Al-Qur'an al-Karim. QS. Al-Hijr (15): 9.

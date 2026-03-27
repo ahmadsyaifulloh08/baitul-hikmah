@@ -12,7 +12,7 @@ Ayah Abdul Qadir, Abu Salih Musa, adalah seorang yang saleh dan terpandang di ko
 
 ## Pendidikan Awal dan Panggilan Spiritual
 
-Pendidikan awal Abdul Qadir dimulai di kampung halamannya di Jilan. Ia menunjukkan kecerdasan yang luar biasa dalam menghafal Al-Qur'an dan mempelajari ilmu-ilmu dasar agama. Para guru lokalnya mengakui potensi besar yang dimilikinya dan menyarankan agar ia melanjutkan pendidikan ke pusat-pusat keilmuan yang lebih besar.^1
+Pendidikan awal Abdul Qadir dimulai di kampung halamannya di Jilan. Ia menunjukkan kecerdasan yang luar biasa dalam menghafal Al-Qur'an dan mempelajari ilmu-ilmu dasar agama. Para guru lokalnya mengakui potensi besar yang dimilikinya dan menyarankan agar ia melanjutkan pendidikan ke pusat-pusat keilmuan yang lebih besar.^1^6
 
 Pada usia 18 tahun, Abdul Qadir membuat keputusan penting untuk meninggalkan kampung halamannya di Jilan untuk menuntut ilmu di Baghdad. Keputusan ini bukanlah hal yang mudah, mengingat Baghdad adalah pusat keilmuan yang sangat kompetitif dan membutuhkan kesiapan mental serta spiritual yang matang. Sebelum berangkat, ibunya memberikan nasihat dan do'a yang akan menjadi pedoman hidupnya: "Anakku, janganlah sekali-kali berkata dusta, meskipun dalam keadaan terancam sekalipun."^2
 
@@ -134,3 +134,4 @@ Tarekat Qadiriyyah hingga hari ini masih aktif di berbagai belahan dunia, dengan
 3. Al-Dhahabi, Syams al-Din, *Siyar A'lam al-Nubala*, Beirut: Muassasah al-Risalah, 1985.
 4. Schimmel, Annemarie, *Mystical Dimensions of Islam*, Chapel Hill: University of North Carolina Press, 1975.
 5. Al-Jilani, Abdul Qadir, *Al-Ghunya li Thalib Tariq al-Haqq*, Beirut: Dar al-Jinan, 1990.
+6. Al-Qur'an al-Karim. QS. Al-Fajr (89): 27-30.
