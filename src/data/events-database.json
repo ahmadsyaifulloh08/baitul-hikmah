@@ -290,13 +290,13 @@
           "id": "al-bukhari",
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Shahih Muslim",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-sa-d",
@@ -305,7 +305,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-fil-quraisy",
+          "id": "qs-qs--al-fil--105---1-5--qs--quraisy--106",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Fil (105): 1-5; QS. Quraisy (106): 1-4",
           "type": "quran"
@@ -424,16 +424,10 @@
           "type": "primary"
         },
         {
-          "id": "ibn-qayyim-al-jauziy",
+          "id": "ibn-qayyim-al-jauziyyah",
           "title": "Zad al-Ma'ad fi Hady Khair al-Ibad",
           "author": "Ibn Qayyim al-Jauziyyah",
           "type": "primary"
-        },
-        {
-          "id": "qs-ad-dhuha-al-an-am-an-nisa",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Ad-Dhuha (93): 6, 6-8, 9; QS. Al-An'am (6): 152; QS. An-Nisa (4): 10",
-          "type": "quran"
         }
       ],
       "characters": [
@@ -525,7 +519,7 @@
           "type": "hadith"
         },
         {
-          "id": "qs-quraisy",
+          "id": "qs-qs--quraisy--106---1-4",
           "title": "Al-Quran al-Karim",
           "author": "QS. Quraisy (106): 1–4",
           "type": "quran"
@@ -718,13 +712,13 @@
           "type": "primary"
         },
         {
-          "id": "ibn-hajar-al-asqalan",
+          "id": "ibn-hajar-al-asqalani",
           "title": "Fath al-Bari Syarh Shahih al-Bukhari",
           "author": "Ibn Hajar al-Asqalani",
           "type": "hadith"
         },
         {
-          "id": "qs-al--alaq",
+          "id": "qs-qs--al--alaq--96---1-5",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-'Alaq (96): 1–5",
           "type": "quran"
@@ -779,7 +773,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al--ashr-al--alaq",
+          "id": "qs-qs--al--ashr--103---1-3--qs--al--alaq--9",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-'Ashr (103): 1–3; QS. Al-'Alaq (96): 1",
           "type": "quran"
@@ -815,7 +809,7 @@
           "id": "al-bukhari",
           "title": "Shahih al-Bukhari",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -824,7 +818,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-syu-ara---26---214---al-lah",
+          "id": "qs-qs--al-syu-ara---26---214--qs--al-lahab",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Syu'ara' (26): 214; QS. Al-Lahab (111): 1–5",
           "type": "quran"
@@ -876,7 +870,7 @@
           "type": "primary"
         },
         {
-          "id": "ibn-hajar-al-asqalan",
+          "id": "ibn-hajar-al-asqalani",
           "title": "Al-Ishabah fi Tamyiz al-Shahabah",
           "author": "Ibn Hajar al-Asqalani",
           "type": "primary"
@@ -888,7 +882,7 @@
           "type": "hadith"
         },
         {
-          "id": "qs-al-hujurat",
+          "id": "qs-qs--al-hujurat--49---13",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hujurat (49): 13",
           "type": "quran"
@@ -946,7 +940,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-maryam",
+          "id": "qs-qs--maryam--19---1-3--30",
           "title": "Al-Quran al-Karim",
           "author": "QS. Maryam (19): 1–3, 30",
           "type": "quran"
@@ -1003,7 +997,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah",
+          "id": "qs-qs--al-baqarah--2---214",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 214",
           "type": "quran"
@@ -1068,7 +1062,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-qashash-al-dhuha",
+          "id": "qs-qs--al-qashash--28---56--qs--al-dhuha--9",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Qashash (28): 56; QS. Al-Dhuha (93): 6–8",
           "type": "quran"
@@ -1133,13 +1127,7 @@
           "type": "primary"
         },
         {
-          "id": "al-thabari",
-          "title": "Tafsir al-Thabari",
-          "author": "Al-Thabari",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-najm-al-isra",
+          "id": "qs-qs--al-najm--53---13-17--qs--al-isra---1",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Najm (53): 13–17; QS. Al-Isra' (17): 1",
           "type": "quran"
@@ -1202,13 +1190,7 @@
           "type": "hadith"
         },
         {
-          "id": "al-thabari",
-          "title": "Tafsir al-Thabari",
-          "author": "Al-Thabari",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-anfal",
+          "id": "qs-qs--al-anfal--8---23",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anfal (8): 23",
           "type": "quran"
@@ -1303,10 +1285,10 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-al-anfal-yasin-al-tawbah",
+          "id": "qs-qs--al-anfal--8---30--qs--yasin--36---9",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anfal (8): 30; QS. Yasin (36): 9; QS. Al-Tawbah (9): 40",
           "type": "quran"
@@ -1351,13 +1333,13 @@
           "type": "primary"
         },
         {
-          "id": "abu-ubayd-al-qasim-b",
+          "id": "abu-ubayd-al-qasim-bin-sallam",
           "title": "Abu Ubayd al-Qasim bin Sallam.",
-          "author": "Abu Ubayd al-Qasim bin Sallam. Al-Amwal. Tahqiq: Muhammad Khalil Harras. Kairo: Dar al-Fikr",
+          "author": "Abu Ubayd al-Qasim bin Sallam",
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah",
+          "id": "qs-qs--al-baqarah--2---256",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 256",
           "type": "quran"
@@ -1405,7 +1387,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         }
       ],
       "characters": []
@@ -1438,16 +1420,16 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-al-baqarah--2---144",
+          "id": "qs-qs--al-baqarah--2---144--142--143--143",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 144, 142, 143, 143, 143",
           "type": "quran"
@@ -1485,7 +1467,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "al-mubarakfuri",
@@ -1500,7 +1482,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal",
+          "id": "qs-qs--al-anfal--8---9--10--11--41",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anfal (8): 9, 10, 11, 41",
           "type": "quran"
@@ -1538,7 +1520,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "al-mubarakfuri",
@@ -1553,7 +1535,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran",
+          "id": "qs-qs--ali-imran--3---152--165--139",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 152, 165, 139",
           "type": "quran"
@@ -1590,7 +1572,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -1605,7 +1587,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-ahzab",
+          "id": "qs-qs--al-ahzab--33---9--10",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Ahzab (33): 9, 10",
           "type": "quran"
@@ -1640,7 +1622,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -1655,7 +1637,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-fath",
+          "id": "qs-qs--al-fath--48---18--1",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Fath (48): 18, 1",
           "type": "quran"
@@ -1695,7 +1677,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -1707,10 +1689,10 @@
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-ali-imran-al-anbiya",
+          "id": "qs-qs--ali-imran--3---64--qs--al-anbiya--21",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 64; QS. Al-Anbiya (21): 107",
           "type": "quran"
@@ -1747,7 +1729,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -1850,16 +1832,16 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-al-fath-al-isra-an-nashr",
+          "id": "qs-qs--al-fath--48---1--27--qs--al-isra--17",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Fath (48): 1, 27; QS. Al-Isra (17): 81; QS. An-Nashr (110): 1-2",
           "type": "quran"
@@ -1907,10 +1889,10 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-an-najm-al-isra-saba-ash-shaffat-al-hajj",
+          "id": "qs-qs--an-najm--53---19-20--qs--al-isra--17",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Najm (53): 19-20; QS. Al-Isra (17): 81; QS. Saba (34): 49; QS. Ash-Shaffat (37): 91-93; QS. Al-Hajj (22): 26",
           "type": "quran"
@@ -1958,10 +1940,10 @@
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-at-taubah",
+          "id": "qs-qs--at-taubah--9---25--26",
           "title": "Al-Quran al-Karim",
           "author": "QS. At-Taubah (9): 25, 26",
           "type": "quran"
@@ -2013,16 +1995,16 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-at-taubah",
+          "id": "qs-qs--at-taubah--9---41--79--92--49--118",
           "title": "Al-Quran al-Karim",
           "author": "QS. At-Taubah (9): 41, 79, 92, 49, 118",
           "type": "quran"
@@ -2073,7 +2055,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nashr-al-hujurat-ali-imran-al-baqarah",
+          "id": "qs-qs--an-nashr--110---1-3--qs--al-hujurat",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nashr (110): 1-3; QS. Al-Hujurat (49): 4; QS. Ali Imran (3): 61; QS. Al-Baqarah (2): 256",
           "type": "quran"
@@ -2109,7 +2091,7 @@
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim bin al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "al-mubarakfuri",
@@ -2118,10 +2100,10 @@
           "type": "primary"
         },
         {
-          "id": "ahmad-bin-hanbal--al",
+          "id": "ahmad-bin-hanbal",
           "title": "Ahmad bin Hanbal.",
-          "author": "Ahmad bin Hanbal. Al-Musnad. Hadits no. 23489 (khutbah persamaan manusia)",
-          "type": "primary"
+          "author": "Ahmad bin Hanbal",
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -2130,7 +2112,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah-al-ma-idah",
+          "id": "qs-qs--al-baqarah--2---125--qs--al-ma-idah",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 125; QS. Al-Ma'idah (5): 3",
           "type": "quran"
@@ -2168,7 +2150,7 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad bin Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "ibn-hisham",
@@ -2183,7 +2165,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran",
+          "id": "qs-qs--ali-imran--3---144",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 144",
           "type": "quran"
@@ -2281,7 +2263,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-ma-idah",
+          "id": "qs-qs--al-ma-idah--5---54",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Ma'idah (5): 54",
           "type": "quran"
@@ -2334,7 +2316,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran",
+          "id": "qs-qs--ali-imran--3---169",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 169",
           "type": "quran"
@@ -2370,18 +2352,18 @@
       "sources": [
         {
           "id": "al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
+          "title": "Al-Tabari, Abu Ja'far Muhammad bin Jarir.",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
-          "id": "al-suyuti",
-          "title": "Al-Itqan fi Ulum al-Quran",
-          "author": "Al-Suyuti",
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "qs-al-taubah-al-hijr",
+          "id": "qs-qs--al-taubah--9---128-129--128--qs--al",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Taubah (9): 128-129, 128; QS. Al-Hijr (15): 9",
           "type": "quran"
@@ -2433,7 +2415,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-at-taubah",
+          "id": "qs-qs--at-taubah--9---14",
           "title": "Al-Quran al-Karim",
           "author": "QS. At-Taubah (9): 14",
           "type": "quran"
@@ -2532,7 +2514,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya",
+          "id": "qs-qs--al-anbiya--21---105",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anbiya (21): 105",
           "type": "quran"
@@ -2584,7 +2566,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra",
+          "id": "qs-qs--al-isra--17---1",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Isra (17): 1",
           "type": "quran"
@@ -2686,22 +2668,22 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "al-tirmidzi",
           "title": "Al-Tirmidzi, Abu Isa Muhammad.",
           "author": "Al-Tirmidzi",
-          "type": "primary"
+          "type": "hadith"
         },
         {
-          "id": "qs-al-baqarah",
+          "id": "qs-qs--al-baqarah--2---137",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 137",
           "type": "quran"
@@ -2744,13 +2726,7 @@
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-hijr--15---9",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hijr (15): 9",
-          "type": "quran"
+          "type": "hadith"
         }
       ],
       "characters": []
@@ -2802,13 +2778,13 @@
           "id": "al-bukhari",
           "title": "Al-Bukhari, Abu Abdullah Muhammad ibn Ismail.",
           "author": "Al-Bukhari",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "muslim",
           "title": "Muslim, Abu al-Husain Muslim ibn al-Hajjaj.",
           "author": "Muslim",
-          "type": "primary"
+          "type": "hadith"
         }
       ],
       "characters": []
@@ -2851,10 +2827,10 @@
           "type": "primary"
         },
         {
-          "id": "nasr-ibn-muzahim-al-",
+          "id": "nasr-ibn-muzahim-al-minqari",
           "title": "Nasr ibn Muzahim al-Minqari.",
-          "author": "Nasr ibn Muzahim al-Minqari. Waq'at Shiffin (Peristiwa Shiffin). Tahqiq: Abdul Salam Muhammad Harun. Kairo: Al-Mu'assasah al-Arabiyyah al-Haditsah",
-          "type": "primary"
+          "author": "Nasr ibn Muzahim al-Minqari",
+          "type": "hadith"
         }
       ],
       "characters": []
@@ -2948,7 +2924,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nisa",
+          "id": "qs-qs--an-nisa--4---75",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nisa (4): 75",
           "type": "quran"
@@ -3029,25 +3005,31 @@
       ],
       "sources": [
         {
-          "id": "mujir-al-din-al-hanb",
-          "title": "Mujir al-Din al-Hanbali, Abu al-Yumn.",
+          "id": "mujir-al-din-al-hanbali",
+          "title": "Al-Uns al-Jalil bi Tarikh al-Quds wa al-Khalil",
           "author": "Mujir al-Din al-Hanbali",
           "type": "primary"
         },
         {
           "id": "al-tabari",
-          "title": "Al-Tabari, Abu Ja'far Muhammad ibn Jarir.",
+          "title": "Tarikh al-Rusul wa al-Muluk",
           "author": "Al-Tabari",
           "type": "primary"
         },
         {
           "id": "ibn-kathir",
-          "title": "Ibn Kathir, Ismail ibn Umar.",
+          "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
           "type": "primary"
         },
         {
-          "id": "qs-al-isra-an-nisa-al-ikhlas-yusuf",
+          "id": "grabar",
+          "title": "The Shape of the Holy: Early Islamic Jerusalem",
+          "author": "Grabar",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-isra--17---1--qs--an-nisa--4---17",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Isra (17): 1; QS. An-Nisa (4): 171; QS. Al-Ikhlas (112): 1-4; QS. Yusuf (12): 111",
           "type": "quran"
@@ -3081,25 +3063,61 @@
       ],
       "sources": [
         {
-          "id": "ibn-al-qifti",
-          "title": "Ibn al-Qifti, Jamal al-Din.",
-          "author": "Ibn al-Qifti",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-abi-usaybi-ah",
-          "title": "Ibn Abi Usaybi'ah, Ahmad ibn al-Qasim.",
-          "author": "Ibn Abi Usaybi'ah",
+          "id": "gutas",
+          "title": "Greek Thought, Arabic Culture",
+          "author": "Gutas",
           "type": "primary"
         },
         {
           "id": "ibn-al-nadim",
-          "title": "Ibn al-Nadim, Abu al-Faraj Muhammad.",
+          "title": "Al-Fihrist",
           "author": "Ibn al-Nadim",
           "type": "primary"
         },
         {
-          "id": "qs-al-alaq-al-baqarah",
+          "id": "saliba",
+          "title": "Islamic Science and the Making of the European Renaissance",
+          "author": "Saliba",
+          "type": "primary"
+        },
+        {
+          "id": "strohmaier",
+          "title": "\"Hunayn ibn Ishaq and the Reception of Greek Medicine in Arabic\"",
+          "author": "Strohmaier",
+          "type": "primary"
+        },
+        {
+          "id": "bergstr-sser",
+          "title": "Hunain ibn Ishaq über die syrischen und arabischen Galen-Übersetzungen",
+          "author": "Bergsträsser",
+          "type": "primary"
+        },
+        {
+          "id": "montgomery",
+          "title": "\"The Empty Hijaz\"",
+          "author": "Montgomery",
+          "type": "primary"
+        },
+        {
+          "id": "endress",
+          "title": "\"The Circle of al-Kindi: Early Arabic Translations from the Greek\"",
+          "author": "Endress",
+          "type": "primary"
+        },
+        {
+          "id": "cooperson",
+          "title": "Al-Ma'mun",
+          "author": "Cooperson",
+          "type": "primary"
+        },
+        {
+          "id": "kennedy",
+          "title": "When Baghdad Ruled the Muslim World",
+          "author": "Kennedy",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-alaq--96---1-5--qs--al-baqarah--2",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Alaq (96): 1-5; QS. Al-Baqarah (2): 251",
           "type": "quran"
@@ -3151,7 +3169,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-muhammad",
+          "id": "qs-qs--muhammad--47---7",
           "title": "Al-Quran al-Karim",
           "author": "QS. Muhammad (47): 7",
           "type": "quran"
@@ -3185,9 +3203,9 @@
       ],
       "sources": [
         {
-          "id": "ali-ibn-muhammad-al-",
+          "id": "ali-ibn-muhammad-al-kufi",
           "title": "Ali ibn Muhammad al-Kufi.",
-          "author": "Ali ibn Muhammad al-Kufi. Chach Nama (juga dikenal sebagai Fathnama Sindh). Terjemahan Inggris oleh Mirza Kalichbeg Fredunbeg. Karachi",
+          "author": "Ali ibn Muhammad al-Kufi",
           "type": "primary"
         },
         {
@@ -3203,7 +3221,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nisa",
+          "id": "qs-qs--an-nisa--4---75",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nisa (4): 75",
           "type": "quran"
@@ -3255,7 +3273,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nahl",
+          "id": "qs-qs--an-nahl--16---90",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nahl (16): 90",
           "type": "quran"
@@ -3305,12 +3323,6 @@
           "type": "primary"
         },
         {
-          "id": "al-ya-qubi",
-          "title": "Tarikh al-Ya'qubi",
-          "author": "Al-Ya'qubi",
-          "type": "primary"
-        },
-        {
           "id": "theophanes-the-confessor",
           "title": "Chronographia",
           "author": "Theophanes the Confessor",
@@ -3329,7 +3341,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hasyr",
+          "id": "qs-qs--al-hasyr--59---2",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hasyr (59): 2",
           "type": "quran"
@@ -3361,7 +3373,7 @@
       "sources": [
         {
           "id": "ibn-abd-al-hakam",
-          "title": "Futuh Misr wa Akhbaruha",
+          "title": "Futuh Misr wa al-Maghrib",
           "author": "Ibn Abd al-Hakam",
           "type": "primary"
         },
@@ -3372,6 +3384,24 @@
           "type": "primary"
         },
         {
+          "id": "ibn-al-qutiyya",
+          "title": "Tarikh Iftitah al-Andalus",
+          "author": "Ibn al-Qutiyya",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-idhari-al-marrakushi",
+          "title": "Al-Bayan al-Mughrib fi Akhbar al-Andalus wa al-Maghrib",
+          "author": "Ibn Idhari al-Marrakushi",
+          "type": "primary"
+        },
+        {
+          "id": "chronicle-of-754",
+          "title": "Chronica Muzarabica",
+          "author": "Chronicle of 754",
+          "type": "primary"
+        },
+        {
           "id": "paul-the-deacon",
           "title": "Historia Langobardorum",
           "author": "Paul the Deacon",
@@ -3379,14 +3409,14 @@
         },
         {
           "id": "fredegar-chronicle",
-          "title": "Chronicon Fredegarii",
+          "title": "Chronicon Fredegarii Continuationes",
           "author": "Fredegar Chronicle",
           "type": "primary"
         },
         {
-          "id": "ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
-          "author": "Ibn al-Athir",
+          "id": "royal-frankish-annals",
+          "title": "Annales Regni Francorum",
+          "author": "Royal Frankish Annals",
           "type": "primary"
         },
         {
@@ -3397,12 +3427,60 @@
         },
         {
           "id": "hugh-kennedy",
-          "title": "The Great Arab Conquests",
+          "title": "The Great Arab Conquests: How the Spread of Islam Changed the World We Live In",
           "author": "Hugh Kennedy",
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah",
+          "id": "bernard-s",
+          "title": "Early Carolingian Warfare: Prelude to Empire",
+          "author": "Bernard S",
+          "type": "primary"
+        },
+        {
+          "id": "paul-fouracre",
+          "title": "The Age of Charles Martel",
+          "author": "Paul Fouracre",
+          "type": "primary"
+        },
+        {
+          "id": "david-levering-lewis",
+          "title": "God's Crucible: Islam and the Making of Europe, 570-1215",
+          "author": "David Levering Lewis",
+          "type": "primary"
+        },
+        {
+          "id": "pierre-rich",
+          "title": "The Carolingians: A Family Who Forged Europe",
+          "author": "Pierre Riché",
+          "type": "primary"
+        },
+        {
+          "id": "thomas-f",
+          "title": "Islamic and Christian Spain in the Early Middle Ages",
+          "author": "Thomas F",
+          "type": "primary"
+        },
+        {
+          "id": "charles-burnett",
+          "title": "The Introduction of Arabic Learning into England",
+          "author": "Charles Burnett",
+          "type": "primary"
+        },
+        {
+          "id": "henri-pirenne",
+          "title": "Mohammed and Charlemagne",
+          "author": "Henri Pirenne",
+          "type": "primary"
+        },
+        {
+          "id": "michael-mccormick",
+          "title": "Origins of the European Economy: Communications and Commerce AD 300-900",
+          "author": "Michael McCormick",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-baqarah--2---251",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 251",
           "type": "quran"
@@ -3452,12 +3530,6 @@
           "type": "primary"
         },
         {
-          "id": "al-ya-qubi",
-          "title": "Tarikh al-Ya'qubi",
-          "author": "Al-Ya'qubi",
-          "type": "primary"
-        },
-        {
           "id": "al-baladhuri",
           "title": "Ansab al-Ashraf",
           "author": "Al-Baladhuri",
@@ -3476,7 +3548,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-qasas",
+          "id": "qs-qs--al-qasas--28---83",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Qasas (28): 83",
           "type": "quran"
@@ -3571,12 +3643,6 @@
           "title": "Conversion to Islam in the Medieval Period",
           "author": "Bulliet",
           "type": "primary"
-        },
-        {
-          "id": "qs-ar-rum",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Ar-Rum (30): 22",
-          "type": "quran"
         }
       ]
     },
@@ -3610,9 +3676,15 @@
           "type": "primary"
         },
         {
-          "id": "chavannes",
-          "title": "Documents sur les Tou-kiue (Turcs) occidentaux",
-          "author": "Chavannes",
+          "id": "zizhi-tongjian",
+          "title": "Zizhi Tongjian",
+          "author": "Zizhi Tongjian (资治通鉴)",
+          "type": "primary"
+        },
+        {
+          "id": "golden",
+          "title": "Central Asia in World History",
+          "author": "Golden",
           "type": "primary"
         },
         {
@@ -3622,9 +3694,15 @@
           "type": "primary"
         },
         {
-          "id": "zizhi-tongjian",
-          "title": "Zizhi Tongjian",
-          "author": "Zizhi Tongjian (资治通鉴)",
+          "id": "chavannes",
+          "title": "Documents sur les Tou-kiue (Turcs) occidentaux",
+          "author": "Chavannes",
+          "type": "primary"
+        },
+        {
+          "id": "tang-shu",
+          "title": "Tang Shu",
+          "author": "Tang Shu (唐书)",
           "type": "primary"
         },
         {
@@ -3634,15 +3712,15 @@
           "type": "primary"
         },
         {
-          "id": "barthold",
-          "title": "Turkestan Down to the Mongol Invasion",
-          "author": "Barthold",
-          "type": "primary"
-        },
-        {
           "id": "needham",
           "title": "Science and Civilization in China",
           "author": "Needham",
+          "type": "primary"
+        },
+        {
+          "id": "barthold",
+          "title": "Turkestan Down to the Mongol Invasion",
+          "author": "Barthold",
           "type": "primary"
         },
         {
@@ -3658,15 +3736,57 @@
           "type": "primary"
         },
         {
-          "id": "al-tabari",
-          "title": "op. cit.",
-          "author": "Al-Tabari",
+          "id": "al-mas-udi",
+          "title": "Muruj al-Dhahab",
+          "author": "Al-Mas'udi",
           "type": "primary"
         },
         {
-          "id": "golden",
-          "title": "Central Asia in World History",
-          "author": "Golden",
+          "id": "pritsak",
+          "title": "\"The Türk Empire\"",
+          "author": "Pritsak",
+          "type": "primary"
+        },
+        {
+          "id": "pulleyblank",
+          "title": "The Background of the Rebellion of An Lu-shan",
+          "author": "Pulleyblank",
+          "type": "primary"
+        },
+        {
+          "id": "bulliet",
+          "title": "Conversion to Islam in the Medieval Period",
+          "author": "Bulliet",
+          "type": "primary"
+        },
+        {
+          "id": "bloom",
+          "title": "Paper Before Print: The History and Impact of Paper in the Islamic World",
+          "author": "Bloom",
+          "type": "primary"
+        },
+        {
+          "id": "watson",
+          "title": "\"The Spread of Paper Technology\"",
+          "author": "Watson",
+          "type": "primary"
+        },
+        {
+          "id": "gutas",
+          "title": "Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement",
+          "author": "Gutas",
+          "type": "primary"
+        },
+        {
+          "id": "hodgson",
+          "title": "The Venture of Islam",
+          "author": "Hodgson",
+          "type": "primary"
+        },
+        {
+          "id": "frye",
+          "title": "The History of Ancient Iran",
+          "author": "Frye",
           "type": "primary"
         },
         {
@@ -3676,19 +3796,43 @@
           "type": "primary"
         },
         {
-          "id": "bloom",
-          "title": "Paper Before Print",
-          "author": "Bloom",
-          "type": "primary"
-        },
-        {
           "id": "bulliet",
           "title": "Cotton, Climate, and Camels in Early Islamic Iran",
           "author": "Bulliet",
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal",
+          "id": "burns",
+          "title": "\"Paper Comes to the West\"",
+          "author": "Burns",
+          "type": "primary"
+        },
+        {
+          "id": "haskins",
+          "title": "The Renaissance of the Twelfth Century",
+          "author": "Haskins",
+          "type": "primary"
+        },
+        {
+          "id": "millward",
+          "title": "Eurasian Crossroads: A History of Xinjiang",
+          "author": "Millward",
+          "type": "primary"
+        },
+        {
+          "id": "jackson",
+          "title": "The Delhi Sultanate: A Political and Military History",
+          "author": "Jackson",
+          "type": "primary"
+        },
+        {
+          "id": "lapidus",
+          "title": "A History of Islamic Societies",
+          "author": "Lapidus",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-anfal--8---60",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anfal (8): 60",
           "type": "quran"
@@ -3766,75 +3910,15 @@
           "type": "primary"
         },
         {
-          "id": "al-qurashi",
-          "title": "Al-Jawahir al-Mudiyyah fi Tabaqat al-Hanafiyyah",
-          "author": "Al-Qurashi",
-          "type": "primary"
-        },
-        {
-          "id": "abu-yusuf",
-          "title": "Kitab al-Kharaj",
-          "author": "Abu Yusuf",
-          "type": "primary"
-        },
-        {
-          "id": "wensink",
-          "title": "The Muslim Creed",
-          "author": "Wensink",
-          "type": "primary"
+          "id": "qs-al-quran",
+          "title": "Al-Quran al-Karim",
+          "author": "Al-Quran",
+          "type": "quran"
         },
         {
           "id": "muhammad-al-syaybani",
           "title": "Al-Mabsut",
           "author": "Muhammad al-Syaybani",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
-          "author": "Ibn al-Athir",
-          "type": "primary"
-        },
-        {
-          "id": "al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
-          "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "al-khatib-al-baghdadi",
-          "title": "op. cit.",
-          "author": "Al-Khatib al-Baghdadi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-kathir",
-          "title": "Al-Bidayah wa al-Nihayah",
-          "author": "Ibn Kathir",
-          "type": "primary"
-        },
-        {
-          "id": "bulliet",
-          "title": "The Patricians of Nishapur",
-          "author": "Bulliet",
-          "type": "primary"
-        },
-        {
-          "id": "inalcik",
-          "title": "The Ottoman Empire: The Classical Age 1300-1600",
-          "author": "Inalcik",
-          "type": "primary"
-        },
-        {
-          "id": "coulson",
-          "title": "A History of Islamic Law",
-          "author": "Coulson",
-          "type": "primary"
-        },
-        {
-          "id": "kamali",
-          "title": "Principles of Islamic Jurisprudence",
-          "author": "Kamali",
           "type": "primary"
         }
       ]
@@ -3880,22 +3964,16 @@
           "type": "primary"
         },
         {
-          "id": "al-khatib-al-baghdadi",
-          "title": "Tarikh Baghdad",
-          "author": "Al-Khatib al-Baghdadi",
-          "type": "primary"
-        },
-        {
           "id": "malik-ibn-anas",
           "title": "Al-Muwatta",
           "author": "Malik ibn Anas",
-          "type": "hadith"
+          "type": "primary"
         },
         {
           "id": "ibn-abd-al-barr",
           "title": "Al-Tamhid lima fi al-Muwatta min al-Ma'ani wa al-Asanid",
           "author": "Ibn Abd al-Barr",
-          "type": "hadith"
+          "type": "primary"
         },
         {
           "id": "al-qarafi",
@@ -3904,33 +3982,9 @@
           "type": "primary"
         },
         {
-          "id": "al-shatibi",
-          "title": "Al-I'tisam",
-          "author": "Al-Shatibi",
-          "type": "primary"
-        },
-        {
           "id": "al-tabari",
           "title": "Tarikh al-Rusul wa al-Muluk",
           "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "al-suyuti",
-          "title": "Tanwir al-Hawalik Sharh Muwatta Malik",
-          "author": "Al-Suyuti",
-          "type": "hadith"
-        },
-        {
-          "id": "al-baji",
-          "title": "Al-Muntaqa Sharh al-Muwatta",
-          "author": "Al-Baji",
-          "type": "hadith"
-        },
-        {
-          "id": "schacht",
-          "title": "An Introduction to Islamic Law",
-          "author": "Schacht",
           "type": "primary"
         },
         {
@@ -3952,33 +4006,15 @@
           "type": "primary"
         },
         {
-          "id": "hallaq",
-          "title": "The Origins and Evolution of Islamic Law",
-          "author": "Hallaq",
-          "type": "primary"
-        },
-        {
           "id": "patton",
           "title": "Ahmed ibn Hanbal and the Mihna",
           "author": "Patton",
           "type": "primary"
         },
         {
-          "id": "qs-al-quran-al-karim",
-          "title": "Al-Quran al-Karim",
-          "author": "Al-Quran al-Karim",
-          "type": "quran"
-        },
-        {
           "id": "ibn-kathir",
           "title": "Al-Bidayah wa al-Nihayah",
           "author": "Ibn Kathir",
-          "type": "primary"
-        },
-        {
-          "id": "al-dhahabi",
-          "title": "op. cit.",
-          "author": "Al-Dhahabi",
           "type": "primary"
         },
         {
@@ -3994,16 +4030,10 @@
           "type": "primary"
         },
         {
-          "id": "al-wansharisi",
-          "title": "Al-Mi'yar al-Mu'rib",
-          "author": "Al-Wansharisi",
-          "type": "primary"
-        },
-        {
           "id": "azami",
           "title": "Studies in Hadith Methodology and Literature",
           "author": "Azami",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "kamali",
@@ -4048,75 +4078,9 @@
           "type": "primary"
         },
         {
-          "id": "al-attar",
-          "title": "op. cit.",
-          "author": "Al-Attar",
-          "type": "primary"
-        },
-        {
           "id": "al-sulami",
           "title": "Tabaqat al-Sufiyyah",
           "author": "Al-Sulami",
-          "type": "primary"
-        },
-        {
-          "id": "al-qushayri",
-          "title": "Al-Risalah al-Qushayriyyah",
-          "author": "Al-Qushayri",
-          "type": "primary"
-        },
-        {
-          "id": "al-jahiz",
-          "title": "Kitab al-Bukhala'",
-          "author": "Al-Jahiz",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-jawzi",
-          "title": "Sifat al-Safwah",
-          "author": "Ibn al-Jawzi",
-          "type": "primary"
-        },
-        {
-          "id": "schimmel",
-          "title": "Mystical Dimensions of Islam",
-          "author": "Schimmel",
-          "type": "primary"
-        },
-        {
-          "id": "massignon",
-          "title": "Essay on the Origins of the Technical Language of Islamic Mysticism",
-          "author": "Massignon",
-          "type": "primary"
-        },
-        {
-          "id": "al-attar",
-          "title": "op. cit.",
-          "author": "Al-Attar",
-          "type": "primary"
-        },
-        {
-          "id": "arberry",
-          "title": "Muslim Saints and Mystics",
-          "author": "Arberry",
-          "type": "primary"
-        },
-        {
-          "id": "al-junayd",
-          "title": "Rasa'il al-Junayd",
-          "author": "Al-Junayd",
-          "type": "primary"
-        },
-        {
-          "id": "al-hujwiri",
-          "title": "Kashf al-Mahjub",
-          "author": "Al-Hujwiri",
-          "type": "primary"
-        },
-        {
-          "id": "nicholson",
-          "title": "The Mystics of Islam",
-          "author": "Nicholson",
           "type": "primary"
         },
         {
@@ -4126,51 +4090,15 @@
           "type": "primary"
         },
         {
-          "id": "attar",
-          "title": "op. cit.",
-          "author": "Attar",
-          "type": "primary"
-        },
-        {
-          "id": "al-baghdadi",
-          "title": "Tarikh Baghdad",
-          "author": "Al-Baghdadi",
-          "type": "primary"
-        },
-        {
-          "id": "al-makki",
-          "title": "Qut al-Qulub",
-          "author": "Al-Makki",
-          "type": "primary"
-        },
-        {
           "id": "ibn-arabi",
           "title": "Futuhat al-Makkiyyah",
           "author": "Ibn Arabi",
           "type": "primary"
         },
         {
-          "id": "ibn-arabi",
-          "title": "op. cit.",
-          "author": "Ibn Arabi",
-          "type": "primary"
-        },
-        {
-          "id": "al-dhahabi",
-          "title": "op. cit.",
-          "author": "Al-Dhahabi",
-          "type": "primary"
-        },
-        {
-          "id": "ernst",
-          "title": "The Shambhala Guide to Sufism",
-          "author": "Ernst",
-          "type": "primary"
-        },
-        {
-          "id": "cornell",
-          "title": "Realm of the Saint",
-          "author": "Cornell",
+          "id": "schimmel",
+          "title": "Mystical Dimensions of Islam",
+          "author": "Schimmel",
           "type": "primary"
         }
       ]
@@ -4212,7 +4140,7 @@
           "type": "primary"
         },
         {
-          "id": "al-khatib-al-baghdad",
+          "id": "al-khatib-al-baghdadi",
           "title": "Tarikh Baghdad",
           "author": "Al-Khatib al-Baghdadi",
           "type": "primary"
@@ -4230,9 +4158,9 @@
           "type": "primary"
         },
         {
-          "id": "hunayn-ibn-ishaq--ri",
+          "id": "hunayn-ibn-ishaq",
           "title": "Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus",
-          "author": "Hunayn ibn Ishaq. Risalah ila Ali ibn Yahya fi Dhikr ma Turjima min Kutub Jalinus (Surat kepada Ali ibn Yahya tentang Karya-karya Galen yang Diterjemahkan).",
+          "author": "Hunayn ibn Ishaq",
           "type": "primary"
         },
         {
@@ -4242,7 +4170,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-taha-al-mujadalah",
+          "id": "qs-qs--taha--20---114--qs--al-mujadalah--58",
           "title": "Al-Quran al-Karim",
           "author": "QS. Taha (20): 114; QS. al-Mujadalah (58): 11",
           "type": "quran"
@@ -4295,7 +4223,7 @@
           "id": "al-razi",
           "title": "Manaqib al-Imam al-Shafi'i",
           "author": "Al-Razi",
-          "type": "hadith"
+          "type": "primary"
         },
         {
           "id": "al-bayhaqi",
@@ -4349,48 +4277,12 @@
           "id": "al-shafi-i",
           "title": "Ikhtilaf al-Hadith",
           "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "Al-Risala",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
-          "type": "primary"
+          "type": "hadith"
         },
         {
           "id": "hallaq",
           "title": "A History of Islamic Legal Theories",
           "author": "Hallaq",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "Al-Risala",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
           "type": "primary"
         },
         {
@@ -4415,24 +4307,6 @@
           "id": "coulson",
           "title": "A History of Islamic Law",
           "author": "Coulson",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "Al-Risala",
-          "author": "Al-Shafi'i",
-          "type": "hadith"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "op. cit.",
-          "author": "Al-Shafi'i",
           "type": "primary"
         },
         {
@@ -4474,50 +4348,8 @@
       "sources": [
         {
           "id": "gutas",
-          "title": "Greek Thought, Arabic Culture",
+          "title": "Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society",
           "author": "Gutas",
-          "type": "primary"
-        },
-        {
-          "id": "al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
-          "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "saliba",
-          "title": "Islamic Science and the Making of the European Renaissance",
-          "author": "Saliba",
-          "type": "primary"
-        },
-        {
-          "id": "bulliet",
-          "title": "Cotton, Climate, and Camels in Early Islamic Iran",
-          "author": "Bulliet",
-          "type": "primary"
-        },
-        {
-          "id": "bergstr-sser",
-          "title": "Hunayn ibn Ishaq über die syrischen und arabischen Galenübersetzungen",
-          "author": "Bergsträsser",
-          "type": "primary"
-        },
-        {
-          "id": "strohmaier",
-          "title": "\"Hunayn ibn Ishaq\"",
-          "author": "Strohmaier",
-          "type": "primary"
-        },
-        {
-          "id": "rashed",
-          "title": "The Development of Arabic Mathematics",
-          "author": "Rashed",
-          "type": "primary"
-        },
-        {
-          "id": "al-farabi",
-          "title": "Ihsa al-Ulum",
-          "author": "Al-Farabi",
           "type": "primary"
         },
         {
@@ -4527,85 +4359,7 @@
           "type": "primary"
         },
         {
-          "id": "saliba",
-          "title": "A History of Arabic Astronomy",
-          "author": "Saliba",
-          "type": "primary"
-        },
-        {
-          "id": "de-young",
-          "title": "\"The Arabic Version of Euclid's Elements\"",
-          "author": "De Young",
-          "type": "primary"
-        },
-        {
-          "id": "ullmann",
-          "title": "Islamic Medicine",
-          "author": "Ullmann",
-          "type": "primary"
-        },
-        {
-          "id": "savage-smith",
-          "title": "\"Medicine\"",
-          "author": "Savage-Smith",
-          "type": "primary"
-        },
-        {
-          "id": "adamson",
-          "title": "Al-Kindi",
-          "author": "Adamson",
-          "type": "primary"
-        },
-        {
-          "id": "sesiano",
-          "title": "An Introduction to the History of Algebra",
-          "author": "Sesiano",
-          "type": "primary"
-        },
-        {
-          "id": "endress",
-          "title": "\"The Circle of al-Kindi\"",
-          "author": "Endress",
-          "type": "primary"
-        },
-        {
-          "id": "patton",
-          "title": "Ahmed ibn Hanbal and the Mihna",
-          "author": "Patton",
-          "type": "primary"
-        },
-        {
-          "id": "van-ess",
-          "title": "Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra",
-          "author": "Van Ess",
-          "type": "primary"
-        },
-        {
-          "id": "peters",
-          "title": "Aristoteles Arabus",
-          "author": "Peters",
-          "type": "primary"
-        },
-        {
-          "id": "haskins",
-          "title": "The Renaissance of the Twelfth Century",
-          "author": "Haskins",
-          "type": "primary"
-        },
-        {
-          "id": "burnett",
-          "title": "The Introduction of Arabic Learning into England",
-          "author": "Burnett",
-          "type": "primary"
-        },
-        {
-          "id": "montgomery",
-          "title": "\"The Empty Hijra\"",
-          "author": "Montgomery",
-          "type": "primary"
-        },
-        {
-          "id": "qs-an-nahl",
+          "id": "qs-qs--an-nahl--16---89",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nahl (16): 89",
           "type": "quran"
@@ -4649,15 +4403,15 @@
           "type": "primary"
         },
         {
-          "id": "euclid--elements---g",
+          "id": "euclid",
           "title": "Elements",
-          "author": "Euclid. Elements — geometri Yunani klasik.",
+          "author": "Euclid",
           "type": "primary"
         },
         {
-          "id": "brahmagupta--brahmas",
+          "id": "brahmagupta",
           "title": "Brahmasphutasiddhanta",
-          "author": "Brahmagupta. Brahmasphutasiddhanta — matematika India abad ke-7.",
+          "author": "Brahmagupta",
           "type": "primary"
         },
         {
@@ -4667,7 +4421,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nisa",
+          "id": "qs-qs--an-nisa--4---11",
           "title": "Al-Quran al-Karim",
           "author": "QS. an-Nisa (4): 11",
           "type": "quran"
@@ -4741,14 +4495,8 @@
         },
         {
           "id": "davidson",
-          "title": "Proofs for Eternity, Creation and the Existence of God",
+          "title": "Proofs for Proofs for Eternity, Creation and the Existence of God",
           "author": "Davidson",
-          "type": "primary"
-        },
-        {
-          "id": "al-kindi",
-          "title": "op. cit.",
-          "author": "Al-Kindi",
           "type": "primary"
         },
         {
@@ -4770,15 +4518,63 @@
           "type": "primary"
         },
         {
+          "id": "singh",
+          "title": "The Code Book: The Secret History of Codes and Code-breaking",
+          "author": "Singh",
+          "type": "primary"
+        },
+        {
+          "id": "saliba",
+          "title": "Islamic Science and the Making of the European Renaissance",
+          "author": "Saliba",
+          "type": "primary"
+        },
+        {
           "id": "lindberg",
           "title": "Theories of Vision from al-Kindi to Kepler",
           "author": "Lindberg",
           "type": "primary"
         },
         {
+          "id": "rosen",
+          "title": "\"Al-Kindi's Planetary Theory\"",
+          "author": "Rosen",
+          "type": "primary"
+        },
+        {
+          "id": "kahn",
+          "title": "The Codebreakers",
+          "author": "Kahn",
+          "type": "primary"
+        },
+        {
           "id": "sabra",
-          "title": "\"The Andalusian Revolt against Ptolemaic Astronomy\"",
+          "title": "Theories of Light from Descartes to Newton",
           "author": "Sabra",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-haytham",
+          "title": "Kitab al-Manazir",
+          "author": "Ibn al-Haytham",
+          "type": "primary"
+        },
+        {
+          "id": "smith",
+          "title": "\"Getting the Big Picture in Perspectivist Optics\"",
+          "author": "Smith",
+          "type": "primary"
+        },
+        {
+          "id": "eastwood",
+          "title": "\"Al-Kindi's Optics in the Medieval West\"",
+          "author": "Eastwood",
+          "type": "primary"
+        },
+        {
+          "id": "russell",
+          "title": "\"The Emergence of Physiological Optics\"",
+          "author": "Russell",
           "type": "primary"
         },
         {
@@ -4789,38 +4585,68 @@
         },
         {
           "id": "savage-smith",
-          "title": "\"Medicine\"",
+          "title": "\"Druggists and Pharmacology in Medieval Islamic Medicine\"",
           "author": "Savage-Smith",
           "type": "primary"
         },
         {
-          "id": "huff",
-          "title": "The Rise of Early Modern Science",
-          "author": "Huff",
+          "id": "burnett",
+          "title": "\"Arabic Mathematical Theory of Pharmacology\"",
+          "author": "Burnett",
           "type": "primary"
         },
         {
-          "id": "saliba",
-          "title": "Islamic Science and the Making of the European Renaissance",
-          "author": "Saliba",
+          "id": "pormann",
+          "title": "\"The Development of Medical Teaching in Medieval Baghdad\"",
+          "author": "Pormann",
           "type": "primary"
         },
         {
-          "id": "marenbon",
-          "title": "Medieval Philosophy",
-          "author": "Marenbon",
+          "id": "conrad",
+          "title": "\"The Social Structure of Medicine in Medieval Islamic Society\"",
+          "author": "Conrad",
           "type": "primary"
         },
         {
-          "id": "farmer",
-          "title": "A History of Arabian Music",
-          "author": "Farmer",
+          "id": "van-ess",
+          "title": "Theologie und Gesellschaft im 2. und 3. Jahrhundert Hidschra",
+          "author": "Van Ess",
           "type": "primary"
         },
         {
-          "id": "wright",
-          "title": "The Modal System of Arab and Persian Music",
-          "author": "Wright",
+          "id": "frank",
+          "title": "Beings and Their Attributes: The Teaching of the Basrian School of the Mu'tazila",
+          "author": "Frank",
+          "type": "primary"
+        },
+        {
+          "id": "peters",
+          "title": "God's Created Speech: A Study in the Speculative Theology of the Mu'tazili Qadi l-Qudat Abu l-Hasan Abd al-Jabbar",
+          "author": "Peters",
+          "type": "primary"
+        },
+        {
+          "id": "wolfson",
+          "title": "The Philosophy of the Kalam",
+          "author": "Wolfson",
+          "type": "primary"
+        },
+        {
+          "id": "madelung",
+          "title": "\"The Origins of the Controversy Concerning the Creation of the Koran\"",
+          "author": "Madelung",
+          "type": "primary"
+        },
+        {
+          "id": "cook",
+          "title": "Commanding Right and Forbidding Wrong in Islamic Thought",
+          "author": "Cook",
+          "type": "primary"
+        },
+        {
+          "id": "cooperson",
+          "title": "\"Ahmad ibn Hanbal and Bishr al-Hafi: A Case Study in Biographical Traditions\"",
+          "author": "Cooperson",
           "type": "primary"
         },
         {
@@ -4830,25 +4656,31 @@
           "type": "primary"
         },
         {
-          "id": "frank",
-          "title": "Al-Ghazali and the Ash'arite School",
-          "author": "Frank",
+          "id": "marenbon",
+          "title": "Medieval Philosophy",
+          "author": "Marenbon",
           "type": "primary"
         },
         {
-          "id": "burnett",
-          "title": "\"The Coherence of the Arabic-Latin Translation Program\"",
-          "author": "Burnett",
+          "id": "craig",
+          "title": "The Kalam Cosmological Argument",
+          "author": "Craig",
           "type": "primary"
         },
         {
-          "id": "crombie",
-          "title": "Robert Grosseteste and the Origins of Experimental Science",
-          "author": "Crombie",
+          "id": "rahman",
+          "title": "\"The Eternity of the World and the Heavenly Bodies in Islamic Philosophy\"",
+          "author": "Rahman",
           "type": "primary"
         },
         {
-          "id": "qs-al-isra",
+          "id": "hasse",
+          "title": "\"The Soul's Faculties\"",
+          "author": "Hasse",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-isra--17---85",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Isra (17): 85",
           "type": "quran"
@@ -4906,150 +4738,6 @@
           "title": "Manaqib Ahmad ibn Hanbal",
           "author": "Ibn al-Jawzi",
           "type": "primary"
-        },
-        {
-          "id": "ibn-abi-ya-la",
-          "title": "Tabaqat al-Hanabilah",
-          "author": "Ibn Abi Ya'la",
-          "type": "primary"
-        },
-        {
-          "id": "ahmad-ibn-hanbal",
-          "title": "Musnad Ahmad",
-          "author": "Ahmad ibn Hanbal",
-          "type": "hadith"
-        },
-        {
-          "id": "al-shafi-i",
-          "title": "Al-Umm",
-          "author": "Al-Shafi'i",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-rajab-al-hanbali",
-          "title": "Sharh 'Ilal al-Tirmidhi",
-          "author": "Ibn Rajab al-Hanbali",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-qayyim-al-jawziyyah",
-          "title": "I'lam al-Muwaqqi'in",
-          "author": "Ibn Qayyim al-Jawziyyah",
-          "type": "primary"
-        },
-        {
-          "id": "al-tufi",
-          "title": "Sharh Mukhtasar al-Rawdah",
-          "author": "Al-Tufi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-taymiyyah",
-          "title": "Majmu' al-Fatawa",
-          "author": "Ibn Taymiyyah",
-          "type": "primary"
-        },
-        {
-          "id": "al-marwadhi",
-          "title": "Masa'il Ahmad ibn Hanbal",
-          "author": "Al-Marwadhi",
-          "type": "primary"
-        },
-        {
-          "id": "ahmad-ibn-hanbal",
-          "title": "Musnad Ahmad",
-          "author": "Ahmad ibn Hanbal",
-          "type": "hadith"
-        },
-        {
-          "id": "al-sakhawi",
-          "title": "Fath al-Mughith",
-          "author": "Al-Sakhawi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-hajar-al-asqalani",
-          "title": "Tahdhib al-Tahdhib",
-          "author": "Ibn Hajar al-Asqalani",
-          "type": "primary"
-        },
-        {
-          "id": "al-mizzi",
-          "title": "Tahdhib al-Kamal",
-          "author": "Al-Mizzi",
-          "type": "primary"
-        },
-        {
-          "id": "al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
-          "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "patton",
-          "title": "Ahmed ibn Hanbal and the Mihna",
-          "author": "Patton",
-          "type": "primary"
-        },
-        {
-          "id": "van-ess",
-          "title": "Theologie und Gesellschaft",
-          "author": "Van Ess",
-          "type": "primary"
-        },
-        {
-          "id": "cook",
-          "title": "Commanding Right and Forbidding Wrong in Islamic Thought",
-          "author": "Cook",
-          "type": "primary"
-        },
-        {
-          "id": "al-mas-udi",
-          "title": "Muruj al-Dhahab",
-          "author": "Al-Mas'udi",
-          "type": "primary"
-        },
-        {
-          "id": "al-lalaka-i",
-          "title": "Sharh Usul I'tiqad Ahl al-Sunnah",
-          "author": "Al-Lalaka'i",
-          "type": "primary"
-        },
-        {
-          "id": "abu-dawud-al-sijistani",
-          "title": "Sunan Abu Dawud",
-          "author": "Abu Dawud al-Sijistani",
-          "type": "hadith"
-        },
-        {
-          "id": "laoust",
-          "title": "\"Ahmad ibn Hanbal\"",
-          "author": "Laoust",
-          "type": "primary"
-        },
-        {
-          "id": "spectorsky",
-          "title": "\"Ahmad ibn Hanbal's Fiqh\"",
-          "author": "Spectorsky",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-taymiyyah",
-          "title": "Minhaj al-Sunnah al-Nabawiyyah",
-          "author": "Ibn Taymiyyah",
-          "type": "primary"
-        },
-        {
-          "id": "delong-bas",
-          "title": "Wahhabi Islam",
-          "author": "DeLong-Bas",
-          "type": "primary"
-        },
-        {
-          "id": "brown",
-          "title": "Hadith: Muhammad's Legacy in the Medieval and Modern World",
-          "author": "Brown",
-          "type": "primary"
         }
       ]
     },
@@ -5085,6 +4773,12 @@
           "id": "al-qushayri",
           "title": "Al-Risalah al-Qushayriyyah",
           "author": "Al-Qushayri",
+          "type": "hadith"
+        },
+        {
+          "id": "al-mas-udi",
+          "title": "Muruj al-Dhahab",
+          "author": "Al-Mas'udi",
           "type": "primary"
         },
         {
@@ -5094,9 +4788,27 @@
           "type": "primary"
         },
         {
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "al-nadim",
+          "title": "Al-Fihrist",
+          "author": "Al-Nadim",
+          "type": "primary"
+        },
+        {
           "id": "al-hujwiri",
           "title": "Kashf al-Mahjub",
           "author": "Al-Hujwiri",
+          "type": "primary"
+        },
+        {
+          "id": "al-sulami",
+          "title": "Tabaqat al-Sufiyyah",
+          "author": "Al-Sulami",
           "type": "primary"
         },
         {
@@ -5109,138 +4821,6 @@
           "id": "al-kalabadhi",
           "title": "Al-Ta'arruf li-Madhhab Ahl al-Tasawwuf",
           "author": "Al-Kalabadhi",
-          "type": "primary"
-        },
-        {
-          "id": "smith",
-          "title": "An Early Mystic of Baghdad: A Study of the Life and Teaching of Harith B. Asad al-Muhasibi",
-          "author": "Smith",
-          "type": "primary"
-        },
-        {
-          "id": "al-junayd",
-          "title": "op. cit.",
-          "author": "Al-Junayd",
-          "type": "primary"
-        },
-        {
-          "id": "abdel-kader",
-          "title": "The Life, Personality and Writings of al-Junayd",
-          "author": "Abdel-Kader",
-          "type": "primary"
-        },
-        {
-          "id": "schimmel",
-          "title": "Mystical Dimensions of Islam",
-          "author": "Schimmel",
-          "type": "primary"
-        },
-        {
-          "id": "al-junayd",
-          "title": "Rasa'il",
-          "author": "Al-Junayd",
-          "type": "primary"
-        },
-        {
-          "id": "sells",
-          "title": "Early Islamic Mysticism",
-          "author": "Sells",
-          "type": "primary"
-        },
-        {
-          "id": "al-sarraj",
-          "title": "Kitab al-Luma'",
-          "author": "Al-Sarraj",
-          "type": "primary"
-        },
-        {
-          "id": "al-qushayri",
-          "title": "Al-Risalah",
-          "author": "Al-Qushayri",
-          "type": "primary"
-        },
-        {
-          "id": "ernst",
-          "title": "The Shambhala Guide to Sufism",
-          "author": "Ernst",
-          "type": "primary"
-        },
-        {
-          "id": "al-junayd",
-          "title": "Rasa'il",
-          "author": "Al-Junayd",
-          "type": "primary"
-        },
-        {
-          "id": "karamustafa",
-          "title": "Sufism: The Formative Period",
-          "author": "Karamustafa",
-          "type": "primary"
-        },
-        {
-          "id": "green",
-          "title": "Sufism: A Global History",
-          "author": "Green",
-          "type": "primary"
-        },
-        {
-          "id": "trimingham",
-          "title": "The Sufi Orders in Islam",
-          "author": "Trimingham",
-          "type": "primary"
-        },
-        {
-          "id": "al-junayd",
-          "title": "Rasa'il al-Junayd",
-          "author": "Al-Junayd",
-          "type": "primary"
-        },
-        {
-          "id": "al-ghazali",
-          "title": "Ihya Ulum al-Din",
-          "author": "Al-Ghazali",
-          "type": "primary"
-        },
-        {
-          "id": "b-wering",
-          "title": "The Mystical Vision of Existence in Classical Islam",
-          "author": "Böwering",
-          "type": "primary"
-        },
-        {
-          "id": "melchert",
-          "title": "\"The Hanabilah and the Early Sufis\"",
-          "author": "Melchert",
-          "type": "primary"
-        },
-        {
-          "id": "chodkiewicz",
-          "title": "An Ocean Without Shore: Ibn Arabi, the Book, and the Law",
-          "author": "Chodkiewicz",
-          "type": "primary"
-        },
-        {
-          "id": "massignon",
-          "title": "The Passion of al-Hallaj",
-          "author": "Massignon",
-          "type": "primary"
-        },
-        {
-          "id": "knysh",
-          "title": "Islamic Mysticism: A Short History",
-          "author": "Knysh",
-          "type": "primary"
-        },
-        {
-          "id": "al-ghazali",
-          "title": "Ihya Ulum al-Din",
-          "author": "Al-Ghazali",
-          "type": "primary"
-        },
-        {
-          "id": "hoffman",
-          "title": "Sufism, Mystics, and Saints in Modern Egypt",
-          "author": "Hoffman",
           "type": "primary"
         }
       ]
@@ -5281,93 +4861,27 @@
           "type": "primary"
         },
         {
+          "id": "al-mas-udi",
+          "title": "Muruj al-Dhahab",
+          "author": "Al-Mas'udi",
+          "type": "primary"
+        },
+        {
+          "id": "browne",
+          "title": "A Literary History of Persia",
+          "author": "Browne",
+          "type": "primary"
+        },
+        {
+          "id": "al-hallaj",
+          "title": "Akhbar al-Hallaj",
+          "author": "Al-Hallaj",
+          "type": "primary"
+        },
+        {
           "id": "al-khatib-al-baghdadi",
           "title": "Tarikh Baghdad",
           "author": "Al-Khatib al-Baghdadi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-nadim",
-          "title": "Al-Fihrist",
-          "author": "Ibn al-Nadim",
-          "type": "primary"
-        },
-        {
-          "id": "al-tustari",
-          "title": "Tafsir al-Tustari",
-          "author": "Al-Tustari",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "Akhbar al-Hallaj",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "al-sarraj",
-          "title": "Kitab al-Luma' fi al-Tasawwuf",
-          "author": "Al-Sarraj",
-          "type": "primary"
-        },
-        {
-          "id": "al-qushayri",
-          "title": "Al-Risalah al-Qushayriyyah",
-          "author": "Al-Qushayri",
-          "type": "primary"
-        },
-        {
-          "id": "ernst",
-          "title": "Words of Ecstasy in Sufism",
-          "author": "Ernst",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "Akhbar al-Hallaj",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "schimmel",
-          "title": "Mystical Dimensions of Islam",
-          "author": "Schimmel",
-          "type": "primary"
-        },
-        {
-          "id": "massignon",
-          "title": "Essai sur les origines du lexique technique de la mystique musulmane",
-          "author": "Massignon",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "Diwan al-Hallaj",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "sells",
-          "title": "Early Islamic Mysticism",
-          "author": "Sells",
-          "type": "primary"
-        },
-        {
-          "id": "b-wering",
-          "title": "The Mystical Vision of Existence in Classical Islam",
-          "author": "Böwering",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "op. cit.",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "mason",
-          "title": "Al-Hallaj",
-          "author": "Mason",
           "type": "primary"
         },
         {
@@ -5383,99 +4897,15 @@
           "type": "primary"
         },
         {
-          "id": "al-hallaj",
-          "title": "Kitab al-Tawasin",
-          "author": "Al-Hallaj",
+          "id": "local-hagiographical-accounts",
+          "title": "Local hagiographical accounts compiled in Massignon collection",
+          "author": "Local hagiographical accounts compiled in Massignon collection",
           "type": "primary"
         },
         {
-          "id": "chodkiewicz",
-          "title": "An Ocean Without Shore",
-          "author": "Chodkiewicz",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "Kitab al-Tawasin",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "chodkiewicz",
-          "title": "Seal of the Saints",
-          "author": "Chodkiewicz",
-          "type": "primary"
-        },
-        {
-          "id": "al-hallaj",
-          "title": "Diwan al-Hallaj",
-          "author": "Al-Hallaj",
-          "type": "primary"
-        },
-        {
-          "id": "attar",
-          "title": "Tadhkirat al-Awliya",
-          "author": "Attar",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-dawud-al-zahiri",
-          "title": "references in historical sources.",
-          "author": "Ibn Dawud al-Zahiri",
-          "type": "primary"
-        },
-        {
-          "id": "van-ess",
-          "title": "Theologie und Gesellschaft",
-          "author": "Van Ess",
-          "type": "primary"
-        },
-        {
-          "id": "al-shibli",
-          "title": "Abu Bakr, defense of al-Hallaj in various sources.",
-          "author": "Al-Shibli",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-suraij",
-          "title": "Abu al-Abbas, fatwa on mystical statements.",
-          "author": "Ibn Suraij",
-          "type": "primary"
-        },
-        {
-          "id": "al-mas-udi",
-          "title": "Muruj al-Dhahab",
-          "author": "Al-Mas'udi",
-          "type": "primary"
-        },
-        {
-          "id": "massignon",
-          "title": "La Passion de Husayn Ibn Mansur Hallaj",
-          "author": "Massignon",
-          "type": "primary"
-        },
-        {
-          "id": "karamustafa",
-          "title": "Sufism: The Formative Period",
-          "author": "Karamustafa",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-arabi",
-          "title": "Muhyi al-Din, references to al-Hallaj in various works.",
-          "author": "Ibn Arabi",
-          "type": "primary"
-        },
-        {
-          "id": "ritter",
-          "title": "Das Meer der Seele",
-          "author": "Ritter",
-          "type": "primary"
-        },
-        {
-          "id": "attar",
-          "title": "Tadhkirat al-Awliya",
-          "author": "Attar",
+          "id": "al-tustari",
+          "title": "Tafsir al-Tustari",
+          "author": "Al-Tustari",
           "type": "primary"
         }
       ]
@@ -5504,13 +4934,13 @@
       "sources": [
         {
           "id": "al-kattani",
-          "title": "Fihris al-Faharis wa al-Athbat",
+          "title": "Fihris al-Faharis wa al-Athbat wa Mu'jam al-Maajim wa al-Mashayikh wa al-Musalsalat",
           "author": "Al-Kattani",
           "type": "primary"
         },
         {
           "id": "ibn-abi-zar",
-          "title": "Al-Anis al-Mutrib bi Rawd al-Qirtas",
+          "title": "Al-Anis al-Mutrib bi Rawd al-Qirtas fi Akhbar Muluk al-Maghrib wa Tarikh Madinat Fas",
           "author": "Ibn Abi Zar'",
           "type": "primary"
         },
@@ -5540,33 +4970,21 @@
         },
         {
           "id": "nakosteen",
-          "title": "History of Islamic Origins of Western Education",
+          "title": "History of Islamic Origins of Western Education A.D. 800-1350",
           "author": "Nakosteen",
           "type": "primary"
         },
         {
-          "id": "qs-taha",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Taha (20): 114",
-          "type": "quran"
-        },
-        {
           "id": "bulliet",
-          "title": "Cotton, Climate, and Camels in Early Islamic Iran",
+          "title": "Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History",
           "author": "Bulliet",
           "type": "primary"
         },
         {
-          "id": "al-kattani",
-          "title": "Tarikh Jami' al-Qarawiyyin",
-          "author": "Al-Kattani",
-          "type": "primary"
-        },
-        {
-          "id": "haskins",
-          "title": "The Rise of Universities",
-          "author": "Haskins",
-          "type": "primary"
+          "id": "qs-qs--taha--20---114",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Taha (20): 114",
+          "type": "quran"
         }
       ]
     },
@@ -5625,20 +5043,8 @@
         },
         {
           "id": "lindberg",
-          "title": "The Beginnings of Western Science",
+          "title": "The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context, 600 B.C. to A.D. 1450",
           "author": "Lindberg",
-          "type": "primary"
-        },
-        {
-          "id": "lynn-white-jr",
-          "title": "Medieval Religion and Technology",
-          "author": "Lynn White Jr",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-hazm",
-          "title": "Tawq al-Hamamah",
-          "author": "Ibn Hazm",
           "type": "primary"
         },
         {
@@ -5648,13 +5054,31 @@
           "type": "primary"
         },
         {
-          "id": "menocal",
-          "title": "The Ornament of the World",
-          "author": "Menocal",
+          "id": "makdisi",
+          "title": "The Rise of Colleges: Institutions of Learning in Islam and the West",
+          "author": "Makdisi",
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---64",
+          "id": "lynn-white-jr",
+          "title": "Medieval Religion and Technology: Collected Essays",
+          "author": "Lynn White Jr",
+          "type": "primary"
+        },
+        {
+          "id": "bulliet",
+          "title": "Cotton, Climate, and Camels in Early Islamic Iran: A Moment in World History",
+          "author": "Bulliet",
+          "type": "primary"
+        },
+        {
+          "id": "haskins",
+          "title": "The Renaissance of the Twelfth Century",
+          "author": "Haskins",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--ali-imran--3---64",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 64",
           "type": "quran"
@@ -5714,27 +5138,9 @@
           "type": "primary"
         },
         {
-          "id": "ibn-al-qalanisi",
-          "title": "Dhayl Ta'rikh Dimashq",
-          "author": "Ibn al-Qalanisi",
-          "type": "primary"
-        },
-        {
-          "id": "canard",
-          "title": "Histoire de la Dynastie des H'amdanides",
-          "author": "Canard",
-          "type": "primary"
-        },
-        {
-          "id": "lyons",
-          "title": "Saladin: The Politics of the Holy War",
-          "author": "Lyons",
-          "type": "primary"
-        },
-        {
-          "id": "abu-shama",
-          "title": "Kitab al-Rawdatayn fi Akhbar al-Dawlatayn",
-          "author": "Abu Shama",
+          "id": "makdisi",
+          "title": "The Rise of Humanism in Classical Islam and the Christian West",
+          "author": "Makdisi",
           "type": "primary"
         },
         {
@@ -5744,22 +5150,16 @@
           "type": "primary"
         },
         {
+          "id": "abu-shama",
+          "title": "Kitab al-Rawdatayn fi Akhbar al-Dawlatayn",
+          "author": "Abu Shama",
+          "type": "primary"
+        },
+        {
           "id": "ibn-taghribirdi",
           "title": "Al-Nujum al-Zahirah fi Muluk Misr wa al-Qahirah",
           "author": "Ibn Taghribirdi",
           "type": "primary"
-        },
-        {
-          "id": "makdisi",
-          "title": "The Rise of Humanism in Classical Islam and the Christian West",
-          "author": "Makdisi",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-mujadalah-taha",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Mujadalah (58): 11; QS. Taha (20): 114",
-          "type": "quran"
         },
         {
           "id": "crecelius",
@@ -5780,10 +5180,10 @@
           "type": "primary"
         },
         {
-          "id": "skovgaard-petersen",
-          "title": "Defining Islam for the Egyptian State",
-          "author": "Skovgaard-Petersen",
-          "type": "primary"
+          "id": "qs-qs--al-mujadalah--58---11--qs--taha--20",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Al-Mujadalah (58): 11; QS. Taha (20): 114",
+          "type": "quran"
         }
       ]
     },
@@ -5810,27 +5210,27 @@
       "status": "draft",
       "sources": [
         {
+          "id": "al-biruni",
+          "title": "Kitab al-Hind",
+          "author": "Al-Biruni",
+          "type": "primary"
+        },
+        {
+          "id": "al-biruni",
+          "title": "Al-Qanun al-Mas'udi fi'l-Hay'ah wa'l-Nujum",
+          "author": "Al-Biruni",
+          "type": "primary"
+        },
+        {
           "id": "sachau",
-          "title": "Alberuni's India",
+          "title": "Alberuni's India: An Account of the Religion, Philosophy, Literature, Geography, Chronology, Astronomy, Customs, Laws and Astrology of India",
           "author": "Sachau",
           "type": "primary"
         },
         {
-          "id": "bosworth",
-          "title": "The Ghaznavids: Their Empire in Afghanistan and Eastern Iran",
-          "author": "Bosworth",
-          "type": "primary"
-        },
-        {
-          "id": "kennedy",
-          "title": "The Exhaustive Treatise on Shadows by Abu al-Rayhan al-Biruni",
-          "author": "Kennedy",
-          "type": "primary"
-        },
-        {
-          "id": "nazim",
-          "title": "The Life and Times of Sultan Mahmud of Ghazna",
-          "author": "Nazim",
+          "id": "nasr",
+          "title": "An Introduction to Islamic Cosmological Doctrines",
+          "author": "Nasr",
           "type": "primary"
         },
         {
@@ -5840,94 +5240,28 @@
           "type": "primary"
         },
         {
-          "id": "al-biruni",
-          "title": "Kitab al-Hind",
-          "author": "Al-Biruni",
+          "id": "al-dhahabi",
+          "title": "Siyar A'lam al-Nubala'",
+          "author": "Al-Dhahabi",
           "type": "primary"
         },
         {
-          "id": "lawrence",
-          "title": "Shahrastani on the Indian Religions",
-          "author": "Lawrence",
+          "id": "bosworth",
+          "title": "The Ghaznavids: Their Empire in Afghanistan and Eastern Iran 994-1040",
+          "author": "Bosworth",
           "type": "primary"
         },
         {
-          "id": "al-biruni",
-          "title": "Al-Qanun al-Mas'udi",
-          "author": "Al-Biruni",
+          "id": "samso",
+          "title": "Islamic Astronomy and Medieval Spain",
+          "author": "Samso",
           "type": "primary"
         },
         {
-          "id": "ahmad",
-          "title": "Al-Biruni",
-          "author": "Ahmad",
-          "type": "primary"
-        },
-        {
-          "id": "saliba",
-          "title": "Islamic Science and the Making of the European Renaissance",
-          "author": "Saliba",
-          "type": "primary"
-        },
-        {
-          "id": "nasr",
-          "title": "Islamic Life and Thought",
-          "author": "Nasr",
-          "type": "primary"
-        },
-        {
-          "id": "turner",
-          "title": "Science in Medieval Islam",
-          "author": "Turner",
-          "type": "primary"
-        },
-        {
-          "id": "berggren",
-          "title": "Episodes in the Mathematics of Medieval Islam",
-          "author": "Berggren",
-          "type": "primary"
-        },
-        {
-          "id": "rashed",
-          "title": "The Development of Arabic Mathematics",
-          "author": "Rashed",
-          "type": "primary"
-        },
-        {
-          "id": "levey",
-          "title": "Early Arabic Pharmacology",
-          "author": "Levey",
-          "type": "primary"
-        },
-        {
-          "id": "al-biruni",
-          "title": "The Chronology of Ancient Nations",
-          "author": "Al-Biruni",
-          "type": "primary"
-        },
-        {
-          "id": "michot",
-          "title": "Ibn Sina: Lettre au Vizir Abu Sa'd",
-          "author": "Michot",
-          "type": "primary"
-        },
-        {
-          "id": "qs-fussilat",
+          "id": "qs-qs--fussilat--41---53--9",
           "title": "Al-Quran al-Karim",
-          "author": "QS. Fussilat (41): 53",
+          "author": "QS. Fussilat (41): 53.^9",
           "type": "quran"
-        },
-        {
-          "id": "pines",
-          "title": "Studies in Arabic Versions of Greek Texts and in Mediaeval Science",
-          "author": "Pines",
-          "type": "primary"
-        },
-        {
-          "id": "lindberg",
-          "title": "The Beginnings of Western Science",
-          "author": "Lindberg",
-          "type": "primary"
         }
       ]
     },
@@ -5979,45 +5313,15 @@
           "type": "primary"
         },
         {
-          "id": "habibullah",
-          "title": "The Foundation of Muslim Rule in India",
-          "author": "Habibullah",
-          "type": "primary"
-        },
-        {
           "id": "eaton",
           "title": "Temple Desecration and Indo-Muslim States",
           "author": "Eaton",
           "type": "primary"
         },
         {
-          "id": "jackson",
-          "title": "The Delhi Sultanate: A Political and Military History",
-          "author": "Jackson",
-          "type": "primary"
-        },
-        {
           "id": "gardizi",
           "title": "Zayn al-Akhbar",
           "author": "Gardizi",
-          "type": "primary"
-        },
-        {
-          "id": "rizvi",
-          "title": "A History of Sufism in India",
-          "author": "Rizvi",
-          "type": "primary"
-        },
-        {
-          "id": "ernst",
-          "title": "Eternal Garden: Mysticism, History, and Politics at a South Asian Sufi Center",
-          "author": "Ernst",
-          "type": "primary"
-        },
-        {
-          "id": "sachau",
-          "title": "Alberuni's India",
-          "author": "Sachau",
           "type": "primary"
         },
         {
@@ -6039,13 +5343,7 @@
           "type": "primary"
         },
         {
-          "id": "troll",
-          "title": "Muslim Shrines in India",
-          "author": "Troll",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-hujurat--49---13",
+          "id": "qs-qs--al-hujurat--49---13",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hujurat (49): 13",
           "type": "quran"
@@ -6129,64 +5427,10 @@
           "type": "primary"
         },
         {
-          "id": "al-haytham",
-          "title": "Al-Shukuk ala Batlamyus",
-          "author": "Al-Haytham",
-          "type": "primary"
-        },
-        {
-          "id": "berggren",
-          "title": "Episodes in the Mathematics of Medieval Islam",
-          "author": "Berggren",
-          "type": "primary"
-        },
-        {
-          "id": "rashed",
-          "title": "Geometry and Dioptrics in Classical Islam",
-          "author": "Rashed",
-          "type": "primary"
-        },
-        {
-          "id": "huff",
-          "title": "The Rise of Early Modern Science",
-          "author": "Huff",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-haytham",
-          "title": "Kitab al-Manazir",
-          "author": "Ibn al-Haytham",
-          "type": "primary"
-        },
-        {
-          "id": "hogendijk",
-          "title": "Ibn al-Haytham's Completion of the Conics",
-          "author": "Hogendijk",
-          "type": "primary"
-        },
-        {
-          "id": "qs-saba-fatir",
+          "id": "qs-qs--saba--34---6--qs--fatir--35---28",
           "title": "Al-Quran al-Karim",
           "author": "QS. Saba (34): 6; QS. Fatir (35): 28",
           "type": "quran"
-        },
-        {
-          "id": "burnett",
-          "title": "The Introduction of Arabic Learning into England",
-          "author": "Burnett",
-          "type": "primary"
-        },
-        {
-          "id": "lindberg",
-          "title": "Roger Bacon and the Origins of Perspectiva",
-          "author": "Lindberg",
-          "type": "primary"
-        },
-        {
-          "id": "nasr",
-          "title": "Islamic Life and Thought",
-          "author": "Nasr",
-          "type": "primary"
         }
       ]
     },
@@ -6250,118 +5494,10 @@
           "type": "primary"
         },
         {
-          "id": "ibn-sina",
-          "title": "Al-Qanun fi al-Tibb",
-          "author": "Ibn Sina",
-          "type": "primary"
-        },
-        {
-          "id": "haddad",
-          "title": "History of Arab Medicine",
-          "author": "Haddad",
-          "type": "primary"
-        },
-        {
-          "id": "nasr",
-          "title": "Islamic Science: An Illustrated Study",
-          "author": "Nasr",
-          "type": "primary"
-        },
-        {
-          "id": "ullmann",
-          "title": "Islamic Medicine",
-          "author": "Ullmann",
-          "type": "primary"
-        },
-        {
-          "id": "dols",
-          "title": "Medieval Islamic Medicine",
-          "author": "Dols",
-          "type": "primary"
-        },
-        {
-          "id": "qs-yunus--10---57",
+          "id": "qs-qs--yunus--10---57",
           "title": "Al-Quran al-Karim",
           "author": "QS. Yunus (10): 57",
           "type": "quran"
-        },
-        {
-          "id": "ibn-sina",
-          "title": "Kitab al-Shifa",
-          "author": "Ibn Sina",
-          "type": "primary"
-        },
-        {
-          "id": "marmura",
-          "title": "The Metaphysics of The Healing",
-          "author": "Marmura",
-          "type": "primary"
-        },
-        {
-          "id": "davidson",
-          "title": "Alfarabi, Avicenna, and Averroes on Intellect",
-          "author": "Davidson",
-          "type": "primary"
-        },
-        {
-          "id": "black",
-          "title": "Logic and Aristotle's Rhetoric and Poetics",
-          "author": "Black",
-          "type": "primary"
-        },
-        {
-          "id": "rashed",
-          "title": "Encyclopedia of the History of Arabic Science",
-          "author": "Rashed",
-          "type": "primary"
-        },
-        {
-          "id": "wickens",
-          "title": "Avicenna: Scientist and Philosopher",
-          "author": "Wickens",
-          "type": "primary"
-        },
-        {
-          "id": "burnett",
-          "title": "The Introduction of Arabic Learning into England",
-          "author": "Burnett",
-          "type": "primary"
-        },
-        {
-          "id": "siraisi",
-          "title": "Medieval and Early Renaissance Medicine",
-          "author": "Siraisi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-nafis",
-          "title": "Sharh Tashrih al-Qanun",
-          "author": "Ibn al-Nafis",
-          "type": "primary"
-        },
-        {
-          "id": "bulliet",
-          "title": "The Patricians of Nishapur",
-          "author": "Bulliet",
-          "type": "primary"
-        },
-        {
-          "id": "pormann",
-          "title": "Medieval Islamic Medicine",
-          "author": "Pormann",
-          "type": "primary"
-        },
-        {
-          "id": "savage-smith",
-          "title": "Islamic Medical Manuscripts",
-          "author": "Savage-Smith",
-          "type": "primary"
-        },
-        {
-          "id": "saliba",
-          "title": "Islamic Science and the Making of the European Renaissance",
-          "author": "Saliba",
-          "type": "primary"
         }
       ]
     },
@@ -6400,12 +5536,6 @@
           "type": "primary"
         },
         {
-          "id": "chamberlain",
-          "title": "Knowledge and Social Practice in Medieval Damascus",
-          "author": "Chamberlain",
-          "type": "primary"
-        },
-        {
           "id": "al-subki",
           "title": "Tabaqat al-Shafi'iyya al-Kubra",
           "author": "Al-Subki",
@@ -6421,18 +5551,6 @@
           "id": "berkey",
           "title": "The Transmission of Knowledge in Medieval Cairo",
           "author": "Berkey",
-          "type": "primary"
-        },
-        {
-          "id": "sivan",
-          "title": "L'Islam et la Croisade",
-          "author": "Sivan",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-jawzi",
-          "title": "Al-Muntazam fi Tarikh al-Muluk wa al-Umam",
-          "author": "Ibn al-Jawzi",
           "type": "primary"
         },
         {
@@ -6454,51 +5572,15 @@
           "type": "primary"
         },
         {
-          "id": "lambton",
-          "title": "Continuity and Change in Medieval Persia",
-          "author": "Lambton",
-          "type": "primary"
-        },
-        {
-          "id": "al-ghazali",
-          "title": "Al-Munqidh min al-Dalal",
-          "author": "Al-Ghazali",
-          "type": "primary"
-        },
-        {
-          "id": "watt",
-          "title": "Muslim Intellectual",
-          "author": "Watt",
-          "type": "primary"
-        },
-        {
-          "id": "qs-taha--20---114",
+          "id": "qs-qs--taha--20---114",
           "title": "Al-Quran al-Karim",
           "author": "QS. Taha (20): 114",
           "type": "quran"
         },
         {
-          "id": "gil",
-          "title": "A History of Palestine, 634-1099",
-          "author": "Gil",
-          "type": "primary"
-        },
-        {
           "id": "hodgson",
           "title": "The Venture of Islam",
           "author": "Hodgson",
-          "type": "primary"
-        },
-        {
-          "id": "tritton",
-          "title": "Materials on Muslim Education in the Middle Ages",
-          "author": "Tritton",
-          "type": "primary"
-        },
-        {
-          "id": "pedersen",
-          "title": "The Arabic Book",
-          "author": "Pedersen",
           "type": "primary"
         },
         {
@@ -6550,45 +5632,9 @@
           "type": "primary"
         },
         {
-          "id": "morgan",
-          "title": "The Mongols",
-          "author": "Morgan",
-          "type": "primary"
-        },
-        {
-          "id": "jackson",
-          "title": "The Mongols and the West",
-          "author": "Jackson",
-          "type": "primary"
-        },
-        {
-          "id": "rahman",
-          "title": "Islam and Modernity",
-          "author": "Rahman",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-khaldun",
-          "title": "Al-Muqaddimah",
-          "author": "Ibn Khaldun",
-          "type": "primary"
-        },
-        {
           "id": "nasr",
           "title": "Traditional Islam in the Modern World",
           "author": "Nasr",
-          "type": "primary"
-        },
-        {
-          "id": "eickelman",
-          "title": "Knowledge and Power in Morocco",
-          "author": "Eickelman",
-          "type": "primary"
-        },
-        {
-          "id": "hodgson",
-          "title": "Rethinking World History",
-          "author": "Hodgson",
           "type": "primary"
         }
       ]
@@ -6629,12 +5675,6 @@
           "type": "primary"
         },
         {
-          "id": "bosworth",
-          "title": "The New Islamic Dynasties",
-          "author": "Bosworth",
-          "type": "primary"
-        },
-        {
           "id": "ostrogorsky",
           "title": "History of the Byzantine State",
           "author": "Ostrogorsky",
@@ -6659,18 +5699,6 @@
           "type": "primary"
         },
         {
-          "id": "haldon",
-          "title": "The Byzantine Wars",
-          "author": "Haldon",
-          "type": "primary"
-        },
-        {
-          "id": "hillenbrand",
-          "title": "Turkish Myth and Muslim Symbol",
-          "author": "Hillenbrand",
-          "type": "primary"
-        },
-        {
           "id": "friendly",
           "title": "The Dreadful Day: The Battle of Manzikert",
           "author": "Friendly",
@@ -6680,24 +5708,6 @@
           "id": "mcgeer",
           "title": "Sowing the Dragon's Teeth",
           "author": "McGeer",
-          "type": "primary"
-        },
-        {
-          "id": "shepard",
-          "title": "The Cambridge History of the Byzantine Empire",
-          "author": "Shepard",
-          "type": "primary"
-        },
-        {
-          "id": "grousset",
-          "title": "L'Empire du Levant",
-          "author": "Grousset",
-          "type": "primary"
-        },
-        {
-          "id": "smail",
-          "title": "Crusading Warfare",
-          "author": "Smail",
           "type": "primary"
         },
         {
@@ -6713,45 +5723,15 @@
           "type": "primary"
         },
         {
-          "id": "ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
-          "author": "Ibn al-Athir",
-          "type": "primary"
-        },
-        {
           "id": "al-husaini",
           "title": "Akhbar al-Dawla al-Seljuqiyya",
           "author": "Al-Husaini",
           "type": "primary"
         },
         {
-          "id": "psellus",
-          "title": "Fourteen Byzantine Rulers",
-          "author": "Psellus",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-anfal--8---61",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 61",
-          "type": "quran"
-        },
-        {
           "id": "garland",
           "title": "Byzantine Empresses",
           "author": "Garland",
-          "type": "primary"
-        },
-        {
-          "id": "m-likoff",
-          "title": "La Geste de Melik Danismend",
-          "author": "Mélikoff",
-          "type": "primary"
-        },
-        {
-          "id": "turan",
-          "title": "Selçuklular Zamanında Türkiye",
-          "author": "Turan",
           "type": "primary"
         },
         {
@@ -6779,51 +5759,15 @@
           "type": "primary"
         },
         {
-          "id": "humphreys",
-          "title": "From Saladin to the Mongols",
-          "author": "Humphreys",
-          "type": "primary"
-        },
-        {
           "id": "france",
           "title": "Western Warfare in the Age of the Crusades",
           "author": "France",
           "type": "primary"
         },
         {
-          "id": "nicolle",
-          "title": "The Age of Charlemagne",
-          "author": "Nicolle",
-          "type": "primary"
-        },
-        {
-          "id": "lambton",
-          "title": "Continuity and Change in Medieval Persia",
-          "author": "Lambton",
-          "type": "primary"
-        },
-        {
-          "id": "lilie",
-          "title": "Byzantium and the Crusader States",
-          "author": "Lilie",
-          "type": "primary"
-        },
-        {
           "id": "hillenbrand",
           "title": "The Crusades: Islamic Perspectives",
           "author": "Hillenbrand",
-          "type": "primary"
-        },
-        {
-          "id": "oman",
-          "title": "A History of the Art of War in the Middle Ages",
-          "author": "Oman",
-          "type": "primary"
-        },
-        {
-          "id": "el-azhari",
-          "title": "The Saljuqs of Syria",
-          "author": "El-Azhari",
           "type": "primary"
         }
       ]
@@ -6851,9 +5795,9 @@
       "status": "draft",
       "sources": [
         {
-          "id": "al-nabahani",
-          "title": "Jami' Karamat al-Awliya'",
-          "author": "Al-Nabahani",
+          "id": "al-jilani",
+          "title": "Futuh al-Ghaib",
+          "author": "Al-Jilani",
           "type": "primary"
         },
         {
@@ -6863,13 +5807,25 @@
           "type": "primary"
         },
         {
+          "id": "al-dhahabi",
+          "title": "Siyar A'lam al-Nubala",
+          "author": "Al-Dhahabi",
+          "type": "primary"
+        },
+        {
+          "id": "schimmel",
+          "title": "Mystical Dimensions of Islam",
+          "author": "Schimmel",
+          "type": "primary"
+        },
+        {
           "id": "al-jilani",
           "title": "Al-Ghunya li Thalib Tariq al-Haqq",
           "author": "Al-Jilani",
           "type": "primary"
         },
         {
-          "id": "qs-al-fajr",
+          "id": "qs-qs--al-fajr--89---27-30",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Fajr (89): 27-30",
           "type": "quran"
@@ -6917,7 +5873,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah--2---256",
+          "id": "qs-qs--al-baqarah--2---256",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 256",
           "type": "quran"
@@ -6954,8 +5910,20 @@
         },
         {
           "id": "watt",
-          "title": "Muslim Intellectual: A Study of al-Ghazali",
+          "title": "Muslim Intellectual: A Study of Al-Ghazali",
           "author": "Watt",
+          "type": "primary"
+        },
+        {
+          "id": "al-ghazali",
+          "title": "Al-Munqidz min al-Dalal",
+          "author": "Al-Ghazali",
+          "type": "primary"
+        },
+        {
+          "id": "al-subki",
+          "title": "Tabaqat al-Shafi'iyyah al-Kubra",
+          "author": "Al-Subki",
           "type": "primary"
         },
         {
@@ -6965,7 +5933,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya---21---107",
+          "id": "qs-qs--al-anbiya---21---107",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anbiya' (21): 107",
           "type": "quran"
@@ -7011,7 +5979,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah--2---190",
+          "id": "qs-qs--al-baqarah--2---190",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 190",
           "type": "quran"
@@ -7059,7 +6027,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-hajj--22---40",
+          "id": "qs-qs--al-hajj--22---40",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hajj (22): 40",
           "type": "quran"
@@ -7109,7 +6077,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya",
+          "id": "qs-qs--al-anbiya--21---105",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anbiya (21): 105",
           "type": "quran"
@@ -7147,9 +6115,45 @@
           "type": "primary"
         },
         {
+          "id": "matthew-of-edessa",
+          "title": "Zhamanakagrutyun",
+          "author": "Matthew of Edessa",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-al-qalanisi",
+          "title": "Dhayl Tarikh Dimashq",
+          "author": "Ibn al-Qalanisi",
+          "type": "primary"
+        },
+        {
           "id": "william-dari-tyre",
           "title": "Historia Rerum in Partibus Transmarinis Gestarum",
           "author": "William dari Tyre",
+          "type": "primary"
+        },
+        {
+          "id": "quantum-praedecessores",
+          "title": "Quantum praedecessores",
+          "author": "Quantum praedecessores",
+          "type": "primary"
+        },
+        {
+          "id": "gerhoch-dari-reichersberg",
+          "title": "De investigatione Antichristi",
+          "author": "Gerhoch dari Reichersberg",
+          "type": "primary"
+        },
+        {
+          "id": "bernard-dari-clairvaux",
+          "title": "Epistolae",
+          "author": "Bernard dari Clairvaux",
+          "type": "primary"
+        },
+        {
+          "id": "otto-dari-freising",
+          "title": "Gesta Friderici",
+          "author": "Otto dari Freising",
           "type": "primary"
         },
         {
@@ -7159,15 +6163,45 @@
           "type": "primary"
         },
         {
-          "id": "ibn-al-qalanisi",
-          "title": "Tarikh Dimashq",
-          "author": "Ibn al-Qalanisi",
+          "id": "annales-herbipolenses",
+          "title": "ed. Georg Heinrich Pertz, MGH Scriptores 16, Hannover, 1859.",
+          "author": "Annales Herbipolenses",
           "type": "primary"
         },
         {
-          "id": "al-maqqari",
-          "title": "Nafh al-Tib min Ghusn al-Andalus al-Ratib",
-          "author": "Al-Maqqari",
+          "id": "john-dari-salisbury",
+          "title": "Historia Pontificalis",
+          "author": "John dari Salisbury",
+          "type": "primary"
+        },
+        {
+          "id": "niketas-choniates",
+          "title": "Historia",
+          "author": "Niketas Choniates",
+          "type": "primary"
+        },
+        {
+          "id": "michael-dari-syria",
+          "title": "Chronique",
+          "author": "Michael dari Syria",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-wasil",
+          "title": "Mufarrij al-Kurub fi Akhbar Bani Ayyub",
+          "author": "Ibn Wasil",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-shaddad",
+          "title": "Al-Nawadir al-Sultaniyya wa al-Mahasin al-Yusufiyya",
+          "author": "Ibn Shaddad",
+          "type": "primary"
+        },
+        {
+          "id": "lignages-d-outremer",
+          "title": "Lignages d'Outremer",
+          "author": "Lignages d'Outremer",
           "type": "primary"
         },
         {
@@ -7177,7 +6211,61 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-ra-d",
+          "id": "sibt-ibn-al-jawzi",
+          "title": "Mir'at al-Zaman fi Tarikh al-A'yan",
+          "author": "Sibt ibn al-Jawzi",
+          "type": "primary"
+        },
+        {
+          "id": "chronicon-mauriniacense",
+          "title": "Collection de textes pour servir à l'étude et à l'enseignement de l'histoire",
+          "author": "Chronicon Mauriniacense",
+          "type": "primary"
+        },
+        {
+          "id": "al-isfahani",
+          "title": "Al-Barq al-Shami",
+          "author": "Al-Isfahani",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-jubayr",
+          "title": "Rihla",
+          "author": "Ibn Jubayr",
+          "type": "primary"
+        },
+        {
+          "id": "abu-al-fida",
+          "title": "Al-Mukhtasar fi Akhbar al-Bashar",
+          "author": "Abu al-Fida'",
+          "type": "primary"
+        },
+        {
+          "id": "jonathan-phillips",
+          "title": "The Second Crusade: Extending the Frontiers of Christendom",
+          "author": "Jonathan Phillips",
+          "type": "primary"
+        },
+        {
+          "id": "michael-mccormick",
+          "title": "Origins of the European Economy: Communications and Commerce AD 300-900",
+          "author": "Michael McCormick",
+          "type": "primary"
+        },
+        {
+          "id": "christopher-tyerman",
+          "title": "God's War: A New History of the Crusades",
+          "author": "Christopher Tyerman",
+          "type": "primary"
+        },
+        {
+          "id": "alan-forey",
+          "title": "The Military Orders: From the Twelfth to the Early Fourteenth Centuries",
+          "author": "Alan Forey",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-ra-d--13---11",
           "title": "Al-Quran al-Karim",
           "author": "QS. al-Ra'd (13): 11",
           "type": "quran"
@@ -7238,25 +6326,7 @@
           "type": "primary"
         },
         {
-          "id": "ibn-arabi",
-          "title": "Fusus al-Hikam",
-          "author": "Ibn Arabi",
-          "type": "primary"
-        },
-        {
-          "id": "al-safadi",
-          "title": "A'yan al-'Asr wa A'wan al-Nasr",
-          "author": "Al-Safadi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-taymiyyah",
-          "title": "Majmu' al-Fatawa",
-          "author": "Ibn Taymiyyah",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-dhariyat--51---56",
+          "id": "qs-qs--al-dhariyat--51---56",
           "title": "Al-Quran al-Karim",
           "author": "QS. al-Dhariyat (51): 56",
           "type": "quran"
@@ -7335,7 +6405,25 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---103",
+          "id": "creswell",
+          "title": "The Muslim Architecture of Egypt",
+          "author": "Creswell",
+          "type": "primary"
+        },
+        {
+          "id": "hillenbrand",
+          "title": "The Crusades: Islamic Perspectives",
+          "author": "Hillenbrand",
+          "type": "primary"
+        },
+        {
+          "id": "rabbat",
+          "title": "The Citadel of Cairo: A New Interpretation of Royal Mamluk Architecture",
+          "author": "Rabbat",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--ali-imran--3---103",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 103",
           "type": "quran"
@@ -7377,43 +6465,7 @@
           "type": "primary"
         },
         {
-          "id": "ibn-rushd",
-          "title": "Tahafut al-Tahafut",
-          "author": "Ibn Rushd",
-          "type": "primary"
-        },
-        {
-          "id": "al-ghazali",
-          "title": "Tahafut al-Falasifah",
-          "author": "Al-Ghazali",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-rushd",
-          "title": "Kashf 'an Manahij al-Adillah fi 'Aqa'id al-Millah",
-          "author": "Ibn Rushd",
-          "type": "primary"
-        },
-        {
-          "id": "majid-fakhry",
-          "title": "Averroes: His Life, Works and Influence",
-          "author": "Majid Fakhry",
-          "type": "primary"
-        },
-        {
-          "id": "ernest-renan",
-          "title": "Averroès et l'averroïsme: essai historique",
-          "author": "Ernest Renan",
-          "type": "primary"
-        },
-        {
-          "id": "al-marrakushi",
-          "title": "Al-Mu'jib fi Talkhis Akhbar al-Maghrib",
-          "author": "Al-Marrakushi",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-isra---17---85",
+          "id": "qs-qs--al-isra---17---85",
           "title": "Al-Quran al-Karim",
           "author": "QS. al-Isra' (17): 85",
           "type": "quran"
@@ -7463,37 +6515,7 @@
           "type": "primary"
         },
         {
-          "id": "itinerarium-peregrinorum-et-ge",
-          "title": "kronik Salib Ketiga.",
-          "author": "Itinerarium Peregrinorum et Gesta Regis Ricardi",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-al-athir",
-          "title": "Al-Kamil fi al-Tarikh",
-          "author": "Ibn al-Athir",
-          "type": "primary"
-        },
-        {
-          "id": "al-maqrizi",
-          "title": "Al-Suluk li Ma'rifat Duwal al-Muluk",
-          "author": "Al-Maqrizi",
-          "type": "primary"
-        },
-        {
-          "id": "william-dari-tyre",
-          "title": "Historia Rerum in Partibus Transmarinis Gestarum",
-          "author": "William dari Tyre",
-          "type": "primary"
-        },
-        {
-          "id": "ibn-wasil",
-          "title": "Mufarrij al-Kurub fi Akhbar Bani Ayyub",
-          "author": "Ibn Wasil",
-          "type": "primary"
-        },
-        {
-          "id": "qs-ali-imran--3---123",
+          "id": "qs-qs--ali-imran--3---123",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 123",
           "type": "quran"
@@ -7526,9 +6548,9 @@
       ],
       "sources": [
         {
-          "id": "baha-al-din-ibn-shad",
+          "id": "baha-al-din-ibn-shaddad",
           "title": "al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah",
-          "author": "Baha al-Din ibn Shaddad. al-Nawadir al-Sultaniyyah wa al-Mahasin al-Yusufiyyah (Anekdot Sultan dan Kebaikan-kebaikan Yusuf).",
+          "author": "Baha al-Din ibn Shaddad",
           "type": "primary"
         },
         {
@@ -7538,15 +6560,15 @@
           "type": "primary"
         },
         {
-          "id": "imad-al-din-al-isfah",
+          "id": "imad-al-din-al-isfahani",
           "title": "al-Fath al-Qussi fi al-Fath al-Qudsi",
-          "author": "Imad al-Din al-Isfahani. al-Fath al-Qussi fi al-Fath al-Qudsi (Kisah Agung tentang Pembebasan Yerusalem).",
+          "author": "Imad al-Din al-Isfahani",
           "type": "primary"
         },
         {
-          "id": "william-of-tyre--his",
+          "id": "william-of-tyre",
           "title": "Historia Rerum in Partibus Transmarinis Gestarum",
-          "author": "William of Tyre. Historia Rerum in Partibus Transmarinis Gestarum (Sejarah Peristiwa di Tanah Seberang Laut).",
+          "author": "William of Tyre",
           "type": "primary"
         },
         {
@@ -7556,7 +6578,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra-al-baqarah",
+          "id": "qs-qs--al-isra---17---1--qs--al-baqarah--2",
           "title": "Al-Quran al-Karim",
           "author": "QS. al-Isra' (17): 1; QS. al-Baqarah (2): 190",
           "type": "quran"
@@ -7619,7 +6641,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-mumtahanah",
+          "id": "qs-qs--al-mumtahanah--60---8",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Mumtahanah (60): 8",
           "type": "quran"
@@ -7650,28 +6672,22 @@
       "status": "draft",
       "sources": [
         {
-          "id": "geoffroy-de-villehardouin",
-          "title": "La Conquête de Constantinople",
-          "author": "Geoffroy de Villehardouin",
-          "type": "primary"
-        },
-        {
-          "id": "niketas-choniates",
-          "title": "Historia",
-          "author": "Niketas Choniates",
-          "type": "primary"
-        },
-        {
-          "id": "robert-de-clari",
-          "title": "The Conquest of Constantinople",
-          "author": "Robert de Clari",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-hasyr",
+          "id": "qs-qs--al-hasyr--59---14",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hasyr (59): 14",
           "type": "quran"
+        },
+        {
+          "id": "phillips",
+          "title": "The Fourth Crusade and the Sack of Constantinople",
+          "author": "Phillips",
+          "type": "primary"
+        },
+        {
+          "id": "queller",
+          "title": "The Fourth Crusade: The Conquest of Constantinople",
+          "author": "Queller",
+          "type": "primary"
         }
       ]
     },
@@ -7704,19 +6720,19 @@
           "type": "primary"
         },
         {
-          "id": "ahmad-y--hassan",
+          "id": "ahmad-y",
           "title": "Science and Technology in Islam",
-          "author": "Ahmad Y. Hassan",
+          "author": "Ahmad Y",
           "type": "primary"
         },
         {
-          "id": "donald-r--hill",
+          "id": "donald-r",
           "title": "A History of Engineering in Classical and Medieval Times",
-          "author": "Donald R. Hill",
+          "author": "Donald R",
           "type": "primary"
         },
         {
-          "id": "qs-ar-rahman-al-jatsiyah",
+          "id": "qs-qs--ar-rahman--55---33--qs--al-jatsiyah",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ar-Rahman (55): 33; QS. Al-Jatsiyah (45): 13",
           "type": "quran"
@@ -7759,12 +6775,30 @@
         },
         {
           "id": "ibn-battuta",
-          "title": "Rihla",
+          "title": "Al-Rihla",
           "author": "Ibn Battuta",
           "type": "primary"
         },
         {
-          "id": "qs-al-hujurat--49---13",
+          "id": "jackson",
+          "title": "The Delhi Sultanate: A Political and Military History",
+          "author": "Jackson",
+          "type": "primary"
+        },
+        {
+          "id": "habib",
+          "title": "Politics and Society during the Early Medieval Period",
+          "author": "Habib",
+          "type": "primary"
+        },
+        {
+          "id": "lal",
+          "title": "History of the Khaljis",
+          "author": "Lal",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-hujurat--49---13",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Hujurat (49): 13",
           "type": "quran"
@@ -7814,7 +6848,25 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah",
+          "id": "lewis",
+          "title": "Rumi: Past and Present, East and West",
+          "author": "Lewis",
+          "type": "primary"
+        },
+        {
+          "id": "chittick",
+          "title": "The Sufi Path of Love: The Spiritual Teachings of Rumi",
+          "author": "Chittick",
+          "type": "primary"
+        },
+        {
+          "id": "safi",
+          "title": "Radical Love: Teachings from the Islamic Mystical Tradition",
+          "author": "Safi",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--al-baqarah--2---115",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 115",
           "type": "quran"
@@ -7846,28 +6898,22 @@
       "status": "draft",
       "sources": [
         {
-          "id": "oliver-dari-paderborn",
-          "title": "Historia Damiatina",
-          "author": "Oliver dari Paderborn",
-          "type": "primary"
-        },
-        {
-          "id": "al-maqrizi",
-          "title": "Al-Suluk li-Ma'rifat Duwal al-Muluk",
-          "author": "al-Maqrizi",
-          "type": "primary"
-        },
-        {
-          "id": "van-cleve",
-          "title": "The Fifth Crusade",
-          "author": "Van Cleve",
-          "type": "primary"
-        },
-        {
-          "id": "qs-ali-imran",
+          "id": "qs-qs--ali-imran--3---126",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 126",
           "type": "quran"
+        },
+        {
+          "id": "powell",
+          "title": "Anatomy of a Crusade 1213-1221",
+          "author": "Powell",
+          "type": "primary"
+        },
+        {
+          "id": "donovan",
+          "title": "Pelagius and the Fifth Crusade",
+          "author": "Donovan",
+          "type": "primary"
         }
       ]
     },
@@ -7895,28 +6941,22 @@
       "status": "draft",
       "sources": [
         {
+          "id": "qs-qs--hud--11---118-119",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. Hud (11): 118-119",
+          "type": "quran"
+        },
+        {
           "id": "abulafia",
           "title": "Frederick II: A Medieval Emperor",
           "author": "Abulafia",
           "type": "primary"
         },
         {
-          "id": "ibn-wasil",
-          "title": "Mufarrij al-Kurub fi Akhbar Bani Ayyub",
-          "author": "Ibn Wasil",
+          "id": "riley-smith",
+          "title": "The Crusades: A History",
+          "author": "Riley-Smith",
           "type": "primary"
-        },
-        {
-          "id": "van-cleve",
-          "title": "The Emperor Frederick II of Hohenstaufen",
-          "author": "Van Cleve",
-          "type": "primary"
-        },
-        {
-          "id": "qs-hud",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Hud (11): 118-119",
-          "type": "quran"
         }
       ]
     },
@@ -7961,7 +7001,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---103",
+          "id": "qs-qs--ali-imran--3---103",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 103",
           "type": "quran"
@@ -8012,7 +7052,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-baqarah--2---216",
+          "id": "qs-qs--al-baqarah--2---216",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Baqarah (2): 216",
           "type": "quran"
@@ -8058,7 +7098,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ar-rum",
+          "id": "qs-qs--ar-rum--30---22",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ar-Rum (30): 22",
           "type": "quran"
@@ -8097,9 +7137,9 @@
           "type": "primary"
         },
         {
-          "id": "rashid-al-din-hamada",
+          "id": "rashid-al-din-hamadani",
           "title": "Jami' al-Tawarikh",
-          "author": "Rashid al-Din Hamadani. Jami' al-Tawarikh (Kumpulan Sejarah). Tehran: Iqbal",
+          "author": "Rashid al-Din Hamadani",
           "type": "primary"
         },
         {
@@ -8133,7 +7173,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ar-ra-d-al-anfal",
+          "id": "qs-qs--ar-ra-d--13---11--qs--al-anfal--8",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ar-Ra'd (13): 11; QS. Al-Anfal (8): 46",
           "type": "quran"
@@ -8195,7 +7235,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anfal--8---10",
+          "id": "qs-qs--al-anfal--8---10",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anfal (8): 10",
           "type": "quran"
@@ -8250,7 +7290,19 @@
           "type": "primary"
         },
         {
-          "id": "qs-hud",
+          "id": "david-ayalon",
+          "title": "Studies on the Mamluks of Egypt (1250-1517)",
+          "author": "David Ayalon",
+          "type": "primary"
+        },
+        {
+          "id": "jonathan-riley-smith",
+          "title": "The Crusades: A History",
+          "author": "Jonathan Riley-Smith",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--hud--11---49",
           "title": "Al-Quran al-Karim",
           "author": "QS. Hud (11): 49",
           "type": "quran"
@@ -8305,12 +7357,6 @@
           "title": "The Seventh Crusade, 1244-1254: Sources and Documents",
           "author": "Peter Jackson",
           "type": "primary"
-        },
-        {
-          "id": "qs-al-anfal--8---60",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Anfal (8): 60",
-          "type": "quran"
         }
       ]
     },
@@ -8361,7 +7407,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nashr",
+          "id": "qs-qs--an-nashr--110---1-3",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nashr (110): 1-3",
           "type": "quran"
@@ -8411,11 +7457,53 @@
         {
           "id": "yossef-rapoport-dan-shahab-ahm",
           "title": "Ibn Taymiyya and His Times",
-          "author": "Yossef Rapoport dan Shahab Ahmed (eds.)",
+          "author": "Yossef Rapoport dan Shahab Ahmed (eds",
           "type": "primary"
         },
         {
-          "id": "qs-an-nisa---4---135",
+          "id": "ibn-taymiyah",
+          "title": "Majmu' Fatawa Shaykh al-Islam Ibn Taymiyah",
+          "author": "Ibn Taymiyah",
+          "type": "primary"
+        },
+        {
+          "id": "al-safadi",
+          "title": "A'yan al-Asr wa A'wan al-Nasr",
+          "author": "Al-Safadi",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-kathir",
+          "title": "Al-Bidayah wa al-Nihayah",
+          "author": "Ibn Kathir",
+          "type": "primary"
+        },
+        {
+          "id": "ibn-qayyim-al-jawziyyah",
+          "title": "I'lam al-Muwaqqi'in",
+          "author": "Ibn Qayyim al-Jawziyyah",
+          "type": "primary"
+        },
+        {
+          "id": "ahmad-ibn-abd-al-halim-ibn-tay",
+          "title": "Al-Siyasah al-Shar'iyyah",
+          "author": "Ahmad ibn Abd al-Halim ibn Taymiyah",
+          "type": "primary"
+        },
+        {
+          "id": "muhammad-ibn-abd-al-wahhab",
+          "title": "Kitab al-Tawhid",
+          "author": "Muhammad ibn Abd al-Wahhab",
+          "type": "primary"
+        },
+        {
+          "id": "muhammad-abduh",
+          "title": "Tafsir al-Manar",
+          "author": "Muhammad Abduh",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--an-nisa---4---135",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nisa' (4): 135",
           "type": "quran"
@@ -8447,9 +7535,9 @@
       "status": "draft",
       "sources": [
         {
-          "id": "a-h--hill--trans",
+          "id": "a",
           "title": "The Hikayat Raja-Raja Pasai",
-          "author": "A.H. Hill (trans.)",
+          "author": "A",
           "type": "primary"
         },
         {
@@ -8471,7 +7559,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-anbiya---21---107",
+          "id": "qs-qs--al-anbiya---21---107",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Anbiya' (21): 107",
           "type": "quran"
@@ -8526,7 +7614,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-mumtahanah",
+          "id": "qs-qs--al-mumtahanah--60---8",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Mumtahanah (60): 8",
           "type": "quran"
@@ -8565,9 +7653,9 @@
           "type": "primary"
         },
         {
-          "id": "ross-e--dunn",
+          "id": "ross-e",
           "title": "The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century",
-          "author": "Ross E. Dunn",
+          "author": "Ross E",
           "type": "primary"
         },
         {
@@ -8583,7 +7671,13 @@
           "type": "primary"
         },
         {
-          "id": "qs-ar-rum--30---22",
+          "id": "sen",
+          "title": "The Formation of Chinese Maritime Customs",
+          "author": "Sen",
+          "type": "primary"
+        },
+        {
+          "id": "qs-qs--ar-rum--30---22",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ar-Rum (30): 22",
           "type": "quran"
@@ -8638,7 +7732,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-ali-imran--3---140",
+          "id": "qs-qs--ali-imran--3---140",
           "title": "Al-Quran al-Karim",
           "author": "QS. Ali Imran (3): 140",
           "type": "quran"
@@ -8690,12 +7784,6 @@
           "title": "Ibn Khaldun: Life and Times",
           "author": "Allen James Fromherz",
           "type": "primary"
-        },
-        {
-          "id": "qs-al-isra---17---70",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Isra' (17): 70",
-          "type": "quran"
         }
       ]
     },
@@ -8734,9 +7822,9 @@
           "type": "primary"
         },
         {
-          "id": "c-c--brown--trans",
+          "id": "c",
           "title": "Sejarah Melayu or Malay Annals",
-          "author": "C.C. Brown (trans.)",
+          "author": "C",
           "type": "primary"
         },
         {
@@ -8746,7 +7834,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-quraisy",
+          "id": "qs-qs--quraisy--106---1-4",
           "title": "Al-Quran al-Karim",
           "author": "QS. Quraisy (106): 1-4",
           "type": "quran"
@@ -8799,12 +7887,6 @@
           "title": "The History of Java",
           "author": "Raffles",
           "type": "primary"
-        },
-        {
-          "id": "qs-al-hujurat--49---10",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Hujurat (49): 10",
-          "type": "quran"
         }
       ]
     },
@@ -8863,7 +7945,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-as-sajdah--32---24",
+          "id": "qs-qs--as-sajdah--32---24",
           "title": "Al-Quran al-Karim",
           "author": "QS. As-Sajdah (32): 24",
           "type": "quran"
@@ -8917,7 +7999,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-an-nahl",
+          "id": "qs-qs--an-nahl--16---125",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nahl (16): 125",
           "type": "quran"
@@ -8951,39 +8033,21 @@
       ],
       "sources": [
         {
-          "id": "ibn-al-khatib",
-          "title": "al-Ihata fi Akhbar Gharnata",
-          "author": "Ibn al-Khatib",
+          "id": "harvey",
+          "title": "Islamic Spain, 1250 to 1500",
+          "author": "Harvey",
           "type": "primary"
         },
         {
-          "id": "al-maqqari",
-          "title": "Nafh al-Tib min Ghusn al-Andalus al-Ratib",
-          "author": "Al-Maqqari",
+          "id": "watt",
+          "title": "A History of Islamic Spain",
+          "author": "Watt",
           "type": "primary"
         },
         {
-          "id": "hernando-del-pulgar",
-          "title": "Crónica de los Reyes Católicos",
-          "author": "Hernando del Pulgar",
-          "type": "primary"
-        },
-        {
-          "id": "maria-rosa-menocal",
-          "title": "The Ornament of the World",
-          "author": "Maria Rosa Menocal",
-          "type": "primary"
-        },
-        {
-          "id": "l-p--harvey",
-          "title": "Islamic Spain, 1250-1500",
-          "author": "L.P. Harvey",
-          "type": "primary"
-        },
-        {
-          "id": "richard-fletcher",
-          "title": "Moorish Spain",
-          "author": "Richard Fletcher",
+          "id": "fernandez-armesto",
+          "title": "Granada: The Fall of Muslim Spain",
+          "author": "Fernandez-Armesto",
           "type": "primary"
         }
       ],
@@ -9036,7 +8100,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-an-am--6---151",
+          "id": "qs-qs--al-an-am--6---151",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-An'am (6): 151",
           "type": "quran"
@@ -9078,13 +8142,13 @@
           "type": "primary"
         },
         {
-          "id": "ibn-sad",
+          "id": "ibn-sa-d",
           "title": "Kitab at-Tabaqat al-Kabir",
           "author": "Ibn Sa'd",
           "type": "primary"
         },
         {
-          "id": "qs-at-taubah",
+          "id": "qs-qs--at-taubah--9---108",
           "title": "Al-Quran al-Karim",
           "author": "QS. At-Taubah (9): 108",
           "type": "quran"
@@ -9128,13 +8192,13 @@
           "type": "primary"
         },
         {
-          "id": "ibn-sad",
+          "id": "ibn-sa-d",
           "title": "Kitab at-Tabaqat al-Kabir",
           "author": "Ibn Sa'd",
           "type": "primary"
         },
         {
-          "id": "qs-thaha",
+          "id": "qs-qs--thaha--20---114",
           "title": "Al-Quran al-Karim",
           "author": "QS. Thaha (20): 114",
           "type": "quran"
@@ -9206,7 +8270,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-isra---17---1",
+          "id": "qs-qs--al-isra---17---1",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Isra' (17): 1",
           "type": "quran"
@@ -9278,7 +8342,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-al-a-raf--7---180",
+          "id": "qs-qs--al-a-raf--7---180",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-A'raf (7): 180",
           "type": "quran"
@@ -9350,7 +8414,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-at-taubah--9---109",
+          "id": "qs-qs--at-taubah--9---109",
           "title": "Al-Quran al-Karim",
           "author": "QS. At-Taubah (9): 109",
           "type": "quran"
@@ -9380,87 +8444,9 @@
       "status": "draft",
       "sources": [
         {
-          "id": "northedge",
-          "title": "The Historical Topography of Samarra",
-          "author": "Northedge",
-          "type": "primary"
-        },
-        {
-          "id": "herzfeld",
-          "title": "Geschichte der Stadt Samarra",
-          "author": "Herzfeld",
-          "type": "primary"
-        },
-        {
-          "id": "creswell",
-          "title": "Early Muslim Architecture",
-          "author": "Creswell",
-          "type": "primary"
-        },
-        {
-          "id": "northedge",
-          "title": "Samarra: Capital of the Abbasid Caliphate",
-          "author": "Northedge",
-          "type": "primary"
-        },
-        {
-          "id": "adams",
-          "title": "Land Behind Baghdad",
-          "author": "Adams",
-          "type": "primary"
-        },
-        {
-          "id": "grabar",
-          "title": "The Formation of Islamic Art",
-          "author": "Grabar",
-          "type": "primary"
-        },
-        {
-          "id": "hillenbrand",
-          "title": "Islamic Architecture",
-          "author": "Hillenbrand",
-          "type": "primary"
-        },
-        {
-          "id": "bloom",
-          "title": "Minaret: Symbol of Islam",
-          "author": "Bloom",
-          "type": "primary"
-        },
-        {
           "id": "al-tabari",
           "title": "Tarikh al-Rusul wa al-Muluk",
           "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "sarre",
-          "title": "Archäologische Reise im Euphrat- und Tigris-Gebiet",
-          "author": "Sarre",
-          "type": "primary"
-        },
-        {
-          "id": "sourdel-thomine",
-          "title": "Cahiers de Civilisation Médiévale",
-          "author": "Sourdel-Thomine",
-          "type": "primary"
-        },
-        {
-          "id": "kennedy",
-          "title": "The Court of the Caliphs",
-          "author": "Kennedy",
-          "type": "primary"
-        },
-        {
-          "id": "ettinghausen",
-          "title": "The Art and Architecture of Islam",
-          "author": "Ettinghausen",
-          "type": "primary"
-        },
-        {
-          "id": "rogers",
-          "title": "The Islamic City",
-          "author": "Rogers",
           "type": "primary"
         },
         {
@@ -9470,171 +8456,9 @@
           "type": "primary"
         },
         {
-          "id": "watson",
-          "title": "Ceramics from Islamic Lands",
-          "author": "Watson",
-          "type": "primary"
-        },
-        {
-          "id": "flood",
-          "title": "The Great Mosque of Damascus",
-          "author": "Flood",
-          "type": "primary"
-        },
-        {
-          "id": "rabbat",
-          "title": "Muqarnas",
-          "author": "Rabbat",
-          "type": "primary"
-        },
-        {
-          "id": "burckhardt",
-          "title": "Art of Islam",
-          "author": "Burckhardt",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-baqarah--2---115",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. Al-Baqarah (2): 115",
-          "type": "quran"
-        },
-        {
-          "id": "baer",
-          "title": "Muqarnas",
-          "author": "Baer",
-          "type": "primary"
-        },
-        {
-          "id": "george",
-          "title": "The Rise of Islamic Calligraphy",
-          "author": "George",
-          "type": "primary"
-        },
-        {
-          "id": "jenkins",
-          "title": "Metropolitan Museum Journal",
-          "author": "Jenkins",
-          "type": "primary"
-        },
-        {
-          "id": "herzfeld",
-          "title": "Ernst, \"Erster vorläufiger Bericht über die Ausgrabungen von",
-          "author": "Herzfeld",
-          "type": "primary"
-        },
-        {
-          "id": "makdisi",
-          "title": "The Rise of Colleges",
-          "author": "Makdisi",
-          "type": "primary"
-        },
-        {
-          "id": "sourdel",
-          "title": "Le vizirat 'abbāside",
-          "author": "Sourdel",
-          "type": "primary"
-        },
-        {
-          "id": "gil",
-          "title": "Journal of Near Eastern Studies",
-          "author": "Gil",
-          "type": "primary"
-        },
-        {
-          "id": "griffith",
-          "title": "The Church in the Shadow of the Mosque",
-          "author": "Griffith",
-          "type": "primary"
-        },
-        {
-          "id": "gutas",
-          "title": "Greek Thought, Arabic Culture",
-          "author": "Gutas",
-          "type": "primary"
-        },
-        {
-          "id": "kennedy",
-          "title": "When Baghdad Ruled the Muslim World",
-          "author": "Kennedy",
-          "type": "primary"
-        },
-        {
-          "id": "le-strange",
-          "title": "Baghdad During the Abbasid Caliphate",
-          "author": "Le Strange",
-          "type": "primary"
-        },
-        {
-          "id": "morgan",
-          "title": "The Mongols",
-          "author": "Morgan",
-          "type": "primary"
-        },
-        {
-          "id": "unesco",
-          "title": "\"Samarra Archaeological City\", World Heritage List, 2007.",
-          "author": "UNESCO",
-          "type": "primary"
-        },
-        {
-          "id": "bloom",
-          "title": "Muqarnas",
-          "author": "Bloom",
-          "type": "primary"
-        },
-        {
           "id": "creswell",
-          "title": "The Muslim Architecture of Egypt",
+          "title": "Early Muslim Architecture",
           "author": "Creswell",
-          "type": "primary"
-        },
-        {
-          "id": "bianca",
-          "title": "Urban Form in the Arab World",
-          "author": "Bianca",
-          "type": "primary"
-        },
-        {
-          "id": "serageldin",
-          "title": "Architecture of the Contemporary Mosque",
-          "author": "Serageldin",
-          "type": "primary"
-        },
-        {
-          "id": "bahrani",
-          "title": "Journal of Visual Culture",
-          "author": "Bahrani",
-          "type": "primary"
-        },
-        {
-          "id": "lewuillon",
-          "title": "Journal of Archaeological Science",
-          "author": "Lewuillon",
-          "type": "primary"
-        },
-        {
-          "id": "stone",
-          "title": "The Destruction of Cultural Heritage in Iraq",
-          "author": "Stone",
-          "type": "primary"
-        },
-        {
-          "id": "kostof",
-          "title": "The City Shaped",
-          "author": "Kostof",
-          "type": "primary"
-        },
-        {
-          "id": "benevolo",
-          "title": "The History of the City",
-          "author": "Benevolo",
-          "type": "primary"
-        },
-        {
-          "id": "lowenthal",
-          "title": "The Heritage Crusade and the Spoils of History",
-          "author": "Lowenthal",
           "type": "primary"
         }
       ]
@@ -9663,28 +8487,22 @@
       "status": "draft",
       "sources": [
         {
-          "id": "hasan",
-          "title": "History of the Delhi Sultanate",
-          "author": "Hasan",
-          "type": "primary"
-        },
-        {
-          "id": "al-utbi",
-          "title": "Kitab al-Yamini",
-          "author": "Al-Utbi",
-          "type": "primary"
-        },
-        {
-          "id": "cunningham",
-          "title": "Archaeological Survey of India Reports",
-          "author": "Cunningham",
-          "type": "primary"
-        },
-        {
-          "id": "qs-al-maidah",
+          "id": "qs-qs--al-maidah--5---48",
           "title": "Al-Quran al-Karim",
           "author": "QS. Al-Maidah (5): 48",
           "type": "quran"
+        },
+        {
+          "id": "flood",
+          "title": "Objects of Translation: Material Culture and Medieval Hindu-Muslim Encounter",
+          "author": "Flood",
+          "type": "primary"
+        },
+        {
+          "id": "asher",
+          "title": "Architecture of Mughal India",
+          "author": "Asher",
+          "type": "primary"
         }
       ]
     },
@@ -9729,7 +8547,7 @@
           "type": "primary"
         },
         {
-          "id": "qs-taha--20---114",
+          "id": "qs-qs--taha--20---114",
           "title": "Al-Quran al-Karim",
           "author": "QS. Taha (20): 114",
           "type": "quran"
@@ -9783,12 +8601,6 @@
           "title": "The Alhambra",
           "author": "Fernández-Puertas",
           "type": "primary"
-        },
-        {
-          "id": "muslim",
-          "title": "Sahih Muslim",
-          "author": "Muslim",
-          "type": "hadith"
         }
       ]
     },
@@ -9821,25 +8633,19 @@
           "type": "primary"
         },
         {
-          "id": "roger-crowley",
-          "title": "1453: The Holy War for Constantinople and the Clash of Islam and the West",
-          "author": "Roger Crowley",
-          "type": "primary"
-        },
-        {
           "id": "halil-i-nalc-k",
           "title": "The Ottoman Empire: The Classical Age 1300-1600",
           "author": "Halil İnalcık",
           "type": "primary"
         },
         {
-          "id": "donald-m--nicol",
+          "id": "donald-m",
           "title": "The Immortal Emperor: The Life and Legend of Constantine Palaiologos",
-          "author": "Donald M. Nicol",
+          "author": "Donald M",
           "type": "primary"
         },
         {
-          "id": "qs-an-nur",
+          "id": "qs-qs--an-nur--24---55",
           "title": "Al-Quran al-Karim",
           "author": "QS. An-Nur (24): 55",
           "type": "quran"
