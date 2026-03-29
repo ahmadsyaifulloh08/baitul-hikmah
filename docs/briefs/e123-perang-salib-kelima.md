@@ -1,13 +1,4 @@
-# E123 — Perang Salib Kelima (3 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E123 — Perang Salib Kelima (16 slides)
 
 ## Base Palette
 - Egyptian desert and Nile river campaign
@@ -17,14 +8,71 @@
 ## Character Lock (copy-paste ke setiap prompt yang relevan)
 - **Crusader armies in Egypt**: European forces attempting to attack through Egypt
 - **Ayyubid defenders**: Muslim Egyptian and Syrian defenders protecting the Nile Delta
+- **Cardinal Pelagius**: Arrogant papal legate in red cardinal robes
+- **Sultan al-Kamil**: Wise Ayyubid ruler in green and gold royal attire
 
 ## Slides
 
-### slide-01 — Tentara Salib menyerang melalui Mesir
-Crusader armies attempting invasion through Egypt instead of direct assault on Holy Land. European forces approaching Nile Delta region. Strategic shift in Crusader tactics. Desert and river landscape with military campaign atmosphere. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Konsili Lateran IV menyerukan strategi baru menyerang Mesir
 
-### slide-02 — Pertahanan di delta Sungai Nil
-Muslim Ayyubid forces defending the Nile Delta against Crusader invasion. River fortifications and strategic defensive positions. Brown fortress and blue river defensive preparations. Determined resistance mood. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. A grand assembly hall inside the Lateran Palace in Rome filled with bishops, cardinals, and nobles. A papal figure in white robes and golden tiara stands on an elevated platform before a large map of the Mediterranean with Egypt marked prominently. Cardinals in red robes sit in tiered rows. Tall Gothic windows cast light beams across the marble floor. Kingdom banners hang from the ceiling. Dominant colors are white marble, red cardinal robes, gold decorations, and warm light. The atmosphere conveys strategic planning and religious determination, with speaker on platform in center, assembly filling the hall, and grand architecture framing. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Kegagalan serangan Tentara Salib
-Failed Crusader assault in Egypt, forces retreating from Nile Delta. Muslim victory in defending Egyptian territory. Green Islamic banners showing successful defense. Victorious resistance without excessive triumph over defeated enemies. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Armada Salib berlayar menuju pantai Mesir
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Crusader armies in Egypt -- European forces attempting to attack through Egypt -- sail as a massive war fleet across the deep Mediterranean Sea toward the coast of Egypt. Dozens of ships with red crosses on white sails stretch from left to right across the horizon. Strong winds billow the sails. In the distance the Egyptian coastline becomes visible with date palms and low buildings. Seabirds circle above the armada. Deep blue waves break against the lead ship bow. Dominant colors are deep blue sea, white sails, red crosses, and green Egyptian shore. The atmosphere conveys a grand military expedition, with armada filling center, Egyptian coast on horizon, and expansive sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Cardinal Pelagius menolak tawaran damai al-Kamil
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Cardinal Pelagius -- arrogant papal legate in red cardinal robes -- stands with an arrogant expression and one hand raised in flat rejection inside a luxurious Crusader command tent. Before him a Muslim envoy kneels offering a sealed scroll from Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire. King John of Brienne sits nearby with a worried face, hand supporting his chin in frustration. Maps of Egypt and Jerusalem are spread on the table between them. Candles illuminate the tense scene. Dominant colors are red cardinal robes, brown tent, white scroll, and gold decorations. The atmosphere conveys dangerous arrogance and squandered opportunity, with Pelagius standing in rejection at center, envoy in foreground, and worried John at the side. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Sultan al-Kamil menyusun strategi pertahanan dengan sabar
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire -- sits in a domed war council chamber in Cairo, leaning over a Nile Delta map on a carved wooden table, pointing to strategic river positions. Trusted generals in military attire surround the table with focused expressions. Through arched windows the Nile and Citadel of Cairo are visible. Oil lamps cast warm amber light. Scrolls and dispatches are stacked neatly. Dominant colors are green robes, gold lamp light, brown wood, and blue Nile through windows. The atmosphere conveys patient strategic brilliance, with al-Kamil at center over map, generals surrounding, and Cairo visible through windows. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Pengepungan panjang Damietta di muara Sungai Nil
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A wide panoramic view of the siege of Damietta at the mouth of the Nile River. Massive wooden siege towers and large trebuchets stand before the city thick double walls. Crusader soldiers build trenches and barricades around the city perimeter. Inside the walls green Ayyubid banners fly from defense towers. The wide Nile River flows beside the city toward the sea. Small war boats patrol the river. Crusader military camps stretch across the flat delta plain. Dominant colors are brown Egyptian earth, grey city walls, blue Nile, and green banners. The atmosphere conveys a grueling long-term siege, with siege engines in foreground, Damietta walls in center, and Nile River in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Rantai besi raksasa memblokir kapal Salib di sungai
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Ayyubid defenders -- Muslim Egyptian and Syrian defenders protecting the Nile Delta -- guard two stone defense towers as a massive iron chain stretches across the Nile between them at Damietta. Crusader ships approach from the sea but are blocked by the enormous chain, each link weighing as much as a man. Ayyubid archers stand ready atop the towers. A special Crusader floating siege tower attempts to navigate past using a complex pulley system. Water churns around the chain. Dominant colors are dark iron chain, brown tower stone, blue-green river water, and white ship sails. The atmosphere conveys technological confrontation and desperate ingenuity, with the chain stretching across center between towers, ships approaching from foreground, and river stretching behind. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Damietta jatuh setelah 18 bulan pengepungan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Crusader soldiers enter the open gates of Damietta, marching in formation with cross banners raised high. The city shows signs of terrible suffering from the long siege. Egyptian buildings with distinctive architecture line the entry road but many show damage. Few gaunt survivors peer from doorways. The fierce Egyptian sun blazes down from above. A minaret stands in the distance. Rubble is scattered across the streets. Dominant colors are brown buildings, red cross banners, harsh yellow sunlight, and grey armor. The atmosphere conveys a hollow victory after terrible suffering, with troops entering gates in center, damaged city stretching beyond, and blazing sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Konflik internal antara Pelagius dan John dari Brienne
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Cardinal Pelagius -- arrogant papal legate in red cardinal robes -- and King John of Brienne in battle-worn armor face each other in heated argument inside the newly occupied palace of Damietta. Pelagius points aggressively toward a southern map direction while John gestures in frustration toward a peace treaty on the table. Other Crusader commanders stand uncomfortably between them, some supporting each leader. Italian merchants lurk in the background clutching trade documents. Dominant colors are red cardinal robes, silver worn armor, brown palace stone, and warm torch light. The atmosphere conveys internal fracture and fatal disagreement, with two leaders confronting in center, divided supporters on each side, and merchants in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Tentara Salib maju sombong ke arah Mansura
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Crusader armies in Egypt -- European forces attempting to attack through Egypt -- march as a long column along the banks of the Nile River heading south toward Mansura. Mounted knights and infantry move along a narrow path between the wide river and green Egyptian farmland. Cross banners flutter along the column. The Egyptian sun beats down mercilessly. In the far distance the town of Mansura is faintly visible on the riverbank. Egyptian farmers watch warily from behind date palm trees. Dominant colors are yellow sand, blue Nile, red cross banners, and green farmland. The atmosphere conveys overconfident advance into a trap, with the marching column stretching through center, Nile on one side, and farmland on other. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Al-Kamil memerintahkan pembukaan bendungan Nil
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire -- stands on a high stone dam embankment with robes flowing in wind, raising his hand giving the decisive command. Engineers prepare to open the sluice gates. Below the dam Nile waters churn with enormous power, ready to unleash. In the far distance across the flat delta plain tiny specks of the Crusader army are visible, unaware of coming disaster. Dark storm clouds gather overhead. Dominant colors are green robes, brown dam stone, churning blue water, and dark grey sky. The atmosphere conveys a decisive masterstroke about to unfold, with al-Kamil commanding from dam in center, engineers behind, and distant Crusader army in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-11 — Banjir Nil mengepung seluruh pasukan Salib
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire -- with Ayyubid troops stands on elevated ground watching the enemy destruction as massive flooding from the Nile engulfs the entire plain where the Crusader camp stood. Muddy brown water rises waist-high, drowning tents, supply carts, and war equipment. Crusader soldiers panic trying to reach higher ground. War horses swim in fear. Dark sky with heavy clouds adds drama. Dominant colors are brown floodwater, dark grey sky, white soaked tents, and green high ground. The atmosphere conveys total catastrophe and desperation, with trapped soldiers in floodwater at center, al-Kamil watching from background, and dark sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-12 — Penyakit dan kelaparan melanda pasukan yang terjebak
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A miserable Crusader camp on a small patch of muddy high ground surrounded by floodwater. Sick and starving soldiers lie on the wet earth, some shivering with fever. A makeshift medical tent shelters the worst cases. Rusty armor and broken weapons are scattered about. Horses stand gaunt and exhausted. Tattered cross banners droop in the humid air. Mosquitoes swarm in clouds above stagnant water. Distant Ayyubid patrol boats circle the trapped army. Dominant colors are muddy brown, sickly grey, rust red, and murky green water. The atmosphere conveys complete physical and moral collapse, with suffering camp on muddy island in center, floodwater surrounding, and patrol boats in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-13 — Cardinal Pelagius terpaksa berlutut menyerah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Cardinal Pelagius -- arrogant papal legate in red cardinal robes, now wet and mud-stained -- kneels in the mire before envoys of Sultan al-Kamil. He surrenders the cross banner and the keys of Damietta city. The remaining Crusader knights stand behind him with bowed heads, their armor rusted and battered. Ayyubid defenders -- Muslim Egyptian and Syrian defenders protecting the Nile Delta -- stand tall watching the surrender. Remnants of floodwater still pool on the ground around them. Sunlight begins breaking through clouds. Dominant colors are stained red robes, brown mud, green Ayyubid soldiers, and grey rusted armor. The atmosphere conveys total and humiliating defeat, with Pelagius kneeling in center, Crusader soldiers behind, and Ayyubid witnesses flanking. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-14 — Al-Kamil memperlakukan musuh yang kalah dengan mulia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire -- personally oversees the treatment of defeated Crusaders with dignified compassion. Ayyubid medics tend to wounded Crusader soldiers. Servants distribute food and water to starving prisoners. John of Brienne receives a respectful personal gift from the sultan. The background shows the Ayyubid camp with orderly tents and green banners. Warm afternoon light softens the scene. Dominant colors are green royal attire, gold warm light, white medical supplies, and brown camp ground. The atmosphere conveys noble mercy and civilized treatment of defeated enemies, with al-Kamil overseeing aid in center, medical care on one side, and food distribution on other. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-15 — Pasukan Salib meninggalkan Mesir dengan tangan hampa
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A long column of defeated Crusader soldiers trudges northward along the Egyptian coast toward waiting ships. They carry no banners and wear tattered, muddy clothing. Some limp with injuries supported by comrades. Behind them the city of Damietta stands whole and restored, with green Ayyubid banners flying proudly from its towers. Egyptian civilians watch from a respectful distance. The Mediterranean Sea stretches ahead with transport ships waiting. Dominant colors are grey-brown trudging column, blue sea ahead, green banners behind, and sandy coast. The atmosphere conveys exhausted retreat and complete failure, with retreating column in center foreground, Damietta in background, and sea and ships ahead. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-16 — Sultan al-Kamil bersyukur di istana Ayyubi Kairo
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan al-Kamil -- wise Ayyubid ruler in green and gold royal attire -- sits with calm authority on the Ayyubid palace throne in Cairo wearing dark green robes and a golden sultan crown. Before him Crusader envoys in white robes present the documents of Damietta return. Advisors and generals stand on both sides of the throne. The palace interior is adorned with beautiful Islamic arches. Soft light enters through geometric lattice windows. Dominant colors are golden palace decorations, green sultan robes, white envoy robes, and warm brown wood. The atmosphere conveys dignified and wise victory, with al-Kamil centered on throne, envoys in foreground, and palace grandeur in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%

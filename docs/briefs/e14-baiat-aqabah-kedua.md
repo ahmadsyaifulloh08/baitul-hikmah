@@ -1,20 +1,11 @@
-# E14 — Baiat Aqabah Kedua (4 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E14 — Baiat Aqabah Kedua (10 slides)
 
 ## Base Palette
 - Golden sunset, brown earth, white simple clothing
-- Deep blue night, silver starlight and moonlight  
+- Deep blue night, silver starlight and moonlight
 - Golden dawn breaking through darkness
 
-## Character Lock (copy-paste ke setiap prompt yang relevan)
+## Character Lock
 - **GOLDEN GLOW**: A small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. ALWAYS this exact form -- no column, ribbon, burst, or starburst.
 - **75 Muslims from Madinah**: Men and women in simple travel clothes, determined faces
 - **Al-Abbas**: Middle-aged Arab man, protective uncle, has not embraced Islam yet but caring
@@ -22,14 +13,42 @@
 
 ## Slides
 
-### slide-01 — Rombongan 75 orang menuju Makkah
-Desert path under sunset sky, group traveling toward Makkah. 75 people from Madinah — men and women in simple clothing with determined faces — walking in long formation. Walking sticks, travel provisions, dust from road. Orange sunset, brown earth, white clothing. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Rombongan 75 muslim Madinah berjalan menuju Makkah saat senja
 
-### slide-02 — Pertemuan rahasia di celah Bukit Aqabah
-Rock crevice at Aqabah hill during night with starlight and crescent moon. GOLDEN GLOW in center, al-Abbas beside, surrounded by dozens of people in circle. Large rocks forming natural walls, starry sky above. Dark blue night, silver moonlight and stars. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. 75 Muslims from Madinah -- men and women in simple travel clothes, determined faces. A desert trail under a dramatic sunset sky of orange and purple. A long procession of 75 people from Madinah, men and women, walk in formation toward Makkah. They wear simple white and cream travel clothing with faces full of determination. Carrying walking staffs and travel provisions. Dust rises behind the procession. Sand hills on both sides of the road. A large setting sun on the horizon ahead. Colors: orange sunset, brown earth, white clothing, purple sky. Mood: hope and courage of an unstoppable movement. Wide composition with the procession stretching from foreground toward the horizon. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Momen jabat tangan bai'at
-Still in rock crevice with moonlight, focus on handshake moment. Hand of GOLDEN GLOW shown from behind shaking hands with Madinah Muslim, queue of people waiting their turn in background. Firm handshake as symbol of pledge. Golden soft moonlight, blue night. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Muslim Madinah menyelinap keluar dari kemah di tengah malam
 
-### slide-04 — Dua belas naqib terpilih saat fajar
-Aqabah crevice during dawn breaking, transition from night to morning. Twelve naqib standing firmly before GOLDEN GLOW in formation, showing leadership and responsibility. Dawn light beginning to illuminate faces full of determination. Gradient from blue night to purple and golden dawn. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Pilgrim camp at Mina in the darkness of night. Several Muslim figures from Madinah sneak out of their tents very carefully, one by one, crouching low to stay unseen. White tents stand in rows in the darkness. Some Quraisy guards sleep near a dying campfire. Stars fill the dark sky. The Muslims move silently toward Aqabah hill visible as a dark silhouette. Colors: dark blue night, black shadows, silver stars, faintly visible white tents. Mood: tense and cautious. Composition with sneaking figures at center, sleeping camp in background, Aqabah hill as a silhouette in the distance. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Al-Abbas berbicara kepada muslim Madinah di celah Aqabah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Al-Abbas -- middle-aged Arab man, protective uncle, has not embraced Islam yet but caring. Dark rocky crevice at Aqabah Hill at midnight. Al-Abbas, a middle-aged Arab man with a greying beard wearing distinguished brown robes, stands beside GOLDEN GLOW and speaks to dozens of Muslims from Madinah gathered in a tight circle. His hand is raised with authority, warning them to only take this responsibility if they are truly capable. Large boulders form natural walls. A crescent moon and stars illuminate from above. Colors: dark blue night, silver moon, brown stone and robes. Mood: solemn and testing courage. Centered composition with Al-Abbas and GOLDEN GLOW at center, people surrounding them. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Al-Bara bin Marur mengulurkan tangan pertama untuk bai'at
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Still in the dark rocky crevice of Aqabah with silver moonlight. Al-Bara bin Marur, the oldest leader with a long white beard and a face full of courage, steps forward from the crowd and firmly extends his right hand toward GOLDEN GLOW. People behind him watch with held breath. His facial expression shows absolute resolve without the slightest hesitation. Colors: silver moonlight, blue night, brown stone, soft gold. Mood: brave and decisive. Composition with Al-Bara and GOLDEN GLOW in center foreground, crowd watching in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Abu al-Haitsam bertanya tentang masa depan hubungan dengan Nabi
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Rocky crevice of Aqabah bathed in moonlight. Abu al-Haitsam bin al-Tayyihan, a medium-built Arab man with a sharp and intelligent face, stands from the crowd and asks directly with outstretched hands: will the Prophet return to Makkah and leave them behind if Allah grants victory? People around him nod because the question represents all their concerns. GOLDEN GLOW responds calmly and warmly. Stars shine brightly in the narrow sky between stone walls. Colors: blue night, silver stars, brown stone, soft golden GOLDEN GLOW. Mood: honest and caring. Composition with Abu al-Haitsam standing at center-left facing GOLDEN GLOW at center-right. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Peringatan keras: bai'at ini berarti perang melawan seluruh dunia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. In the rocky crevice of Aqabah, Al-Abbas bin Ubadah bin Nadhlah, a sturdy young man, stands from the crowd and speaks firmly to his own people. His hand points toward Makkah as a warning that this pledge means being ready to fight against all of humanity. His face is serious yet full of conviction. People around him listen with tense faces then nod firmly. GOLDEN GLOW observes calmly from the side. Large boulders surround the gathering. Sharp shadows from moonlight. Colors: dark blue night, silver moon, brown stone. Mood: tense yet full of resolution. Composition with the young man standing at center, crowd seated around him. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Satu per satu 75 orang maju berjabat tangan bai'at
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Rocky crevice of Aqabah bathed in golden moonlight. A long line of 75 people wait patiently and solemnly for their turn to shake hands with GOLDEN GLOW. Several people at the front of the line step forward one by one, hands extended with determination. Two women are visible among the group with head coverings. Moonlight illuminates faces full of hope. Colors: soft golden moonlight, deep blue night, brown stone and skin. Mood: solemn commitment and the weight of history. Composition with the line from foreground toward GOLDEN GLOW at center-back. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Dua belas naqib dipilih sebagai pemimpin utusan Madinah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Twelve Naqib -- selected leaders among the group, standing with dignity and responsibility. Aqabah crevice nearing dawn, the sky beginning to shift from dark to purple-blue. Twelve chosen naqib, nine from the Khazraj tribe and three from the Aus tribe, stand tall in an orderly row before GOLDEN GLOW. They wear simple robes with turbans, their faces showing dignity and the heavy responsibility they have just accepted. GOLDEN GLOW stands before them. The first dawn light begins to touch the top of the rocks above. Colors: purple pre-dawn sky, fading dark blue, brown stone, white turbans. Mood: responsibility and new leadership. Composition with twelve naqib lined up facing GOLDEN GLOW at center, dawn sky in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Teriakan setan dari puncak Aqabah memperingatkan Quraisy
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Rocky crevice of Aqabah at early dawn. From the top of a high rock above, a dark terrifying silhouette screams to warn the people of Mina about this secret meeting. Below, the Muslims from Madinah are startled and look upward. Al-Abbas bin Ubadah spontaneously draws his sword and offers to attack the people of Mina, but GOLDEN GLOW calmly raises a hand commanding them to return peacefully. The dawn sky begins to gradient from dark to purple. The scream echoes off the stone walls. Colors: dark silhouette, purple dawn, brown stone, soft gold. Mood: tense and dramatic yet controlled by prophetic wisdom. Vertical composition with silhouette at the top of the rock above, Muslim group at center below. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Fajar menyingsing di Aqabah menandai awal mula hijrah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Rocky crevice of Aqabah at full dawn. The sky gradients beautifully from remaining night blue on one side toward gold and orange dawn on the other. The first sunrays illuminate the faces of 75 Muslims from Madinah standing together with expressions of hope and determination. GOLDEN GLOW at their center. Valley rocks that were dark now glow warm gold. Dawn birds fly in the sky. The pledge is complete, and the world will change forever with the hijrah that is about to come. Colors: golden dawn, orange sunrise, fading blue sky, warm brown stone. Mood: hope and the beginning of a new era. Centered composition with the large group at center, dramatic dawn sky stretching above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%

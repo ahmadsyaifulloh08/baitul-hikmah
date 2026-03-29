@@ -1,35 +1,54 @@
-# E13 — Baiat Aqabah (4 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E13 — Baiat Aqabah (10 slides)
 
 ## Base Palette
 - White tents, golden sand, evening blue sky
 - Night blue with silver moonlight
 - Warm brown stone, peaceful morning light
 
-## Character Lock (copy-paste ke setiap prompt yang relevan)
+## Character Lock
 - **GOLDEN GLOW**: A small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. ALWAYS this exact form -- no column, ribbon, burst, or starburst.
 - **Six men from Yathrib**: Arab men in simple travel robes, eager expressions, seated cross-legged
 - **Twelve men from Yathrib**: Mix of Khazraj and Aus tribes, simple robes, reverent posture
-- **Mush'ab bin Umair**: Young man in modest clothing, bright face, patient teacher demeanor
+- **Mushab bin Umair**: Young man in modest clothing, bright face, patient teacher demeanor
 
 ## Slides
 
-### slide-01 — Pertemuan dengan enam orang Yatsrib
-White pilgrim tents scattered across desert sand near Makkah during evening. GOLDEN GLOW sitting cross-legged before six Arab men from Yatsrib listening attentively. Open Quran manuscript, white tents in background. Golden sand, blue evening sky. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Makkah setelah tahun kesedihan: dakwah mencapai titik jenuh
 
-### slide-02 — Bai'at di lembah Aqabah malam hari  
-Night in narrow Aqabah valley with large rocks. GOLDEN GLOW seated on stone, twelve Arab men kneeling before with hands extended for pledge. Hands joining together, stones as seating. Dark blue night, silver moonlight, brown rocks. Crescent moon in sky above. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Wide view of Makkah at dusk with empty streets and closed doors. The city feels hostile and unwelcoming. Houses of Bani Hasyim stand quiet with no protection banner above them, symbolizing the loss of Abu Thalib guardianship. A few Quraisy elders stand at a distance with arms crossed in rejection. The sky is heavy with dark orange and grey, reflecting the grief of Am al-Huzn, the Year of Sadness. Dust swirls through abandoned market stalls. Colors: muted grey-brown buildings, dark orange heavy sky, cold shadows. Mood: isolation, sorrow, and the weight of relentless rejection after thirteen years of dakwah. Wide composition showing the lonely cityscape, closed doors prominent in the foreground. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Mush'ab mengajar di Yatsrib
-Simple house courtyard in Yathrib during bright morning with shady date palm tree. Mush'ab bin Umair — young man in modest clothing with bright face — sitting under tree, surrounded by adults and children listening. Quran pages, dates, simple mats. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Nabi Muhammad SAW mendatangi kemah-kemah jamaah haji satu per satu
 
-### slide-04 — Transformasi dari kecil menjadi besar
-Split time scene — left: twelve people in dark Aqabah valley at night; right: bright Madinah city with Nabawi mosque in center during sunny day. Tree growing across both scenes as symbol of development. Transition from dark blue left to bright gold right. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Desert plain near Makkah during hajj season with dozens of white pilgrim tents lined up on golden sand. GOLDEN GLOW walks among the tents, approaching each group to deliver the message. Several Arab groups from various tribes sit in front of their tents. The low afternoon sun casts warm golden light. Brown hills of Makkah visible in the distance. Fine dust drifts in the desert wind. Colors: white tents, golden sand and afternoon light, blue sky. Mood: hope and tireless perseverance that never fades. Wide composition with GOLDEN GLOW walking at center among rows of tents, Makkah hills in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Pertemuan pertama dengan enam orang Yatsrib yang bersinar matanya
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Six men from Yathrib -- Arab men in simple travel robes, eager expressions, seated cross-legged. An open white tent in the Makkah desert at twilight. GOLDEN GLOW sits cross-legged on a simple mat facing six Arab men from Yathrib in simple travel robes. Their eyes shine with recognition and joy. They whisper to each other with amazed faces, remembering stories from the Jewish people about a promised prophet. Golden-orange twilight colors the sky. Other white tents visible in the background. Colors: white tent, golden sand, orange twilight, blue sky. Mood: joy and discovery. Intimate composition with GOLDEN GLOW and six men in a small circle at center. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Dua belas orang dari Yatsrib menyelinap ke lembah Aqabah malam hari
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Twelve men from Yathrib -- mix of Khazraj and Aus tribes, simple robes, reverent posture. Dark night in the narrow rocky valley of Aqabah near Mina. Twelve figures move carefully among large boulders toward a secret meeting point. A thin crescent moon shines in the starry sky. Their shadows fall long against the stone walls. Ten from the Khazraj tribe and two from the Aus tribe, old enemies now united by faith. They wear simple robes and move without sound. Large rocks form natural walls on both sides of the valley. Colors: dark blue night, silver moonlight, dark brown stone. Mood: secrecy and courage. Composition with figures moving from foreground toward center of the valley, crescent moon in the sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Bai'at Aqabah Pertama di bawah cahaya bulan sabit
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Dark and narrow rocky crevice of Aqabah valley. GOLDEN GLOW sits on a large boulder at center. Twelve men kneel before it with hands extended for a handshake as a sign of pledge. A bright crescent moon shines through a gap in the sky between the rock walls. Silver moonlight illuminates their faces of determination. Colors: dark blue night, silver moon, brown stone, soft gold. Mood: sacred and historic. Half-circle composition with twelve men surrounding GOLDEN GLOW at center, crescent moon in the sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Isi janji bai'at: enam sumpah suci di malam sunyi
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Close-up scene in the rocky crevice of Aqabah bathed in silver moonlight. The hands of twelve men are raised together in a solemn oath. In the night sky above them, six stars shine brighter than the others, symbolizing six sacred vows: not associating partners with Allah, not stealing, not committing adultery, not killing children, not slandering, and not disobeying in goodness. GOLDEN GLOW sits calmly before them receiving the oath. Their faces are serious and solemn in the moonlight. Large boulders surround the gathering. Colors: dark deep blue, silver moon, golden bright stars, brown stone. Mood: sacred and deeply meaningful. Vertical composition with raised hands at center bottom, six bright stars in the sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Mushab bin Umair berangkat ke Yatsrib membawa misi dakwah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Mushab bin Umair -- young man in modest clothing, bright face, patient teacher demeanor. Desert trail in the morning with golden sunrise light. Mushab bin Umair, a young man in modest clothing with a bright face full of determination, walks alone northward toward Yathrib. On his back only simple provisions and a scroll of scripture. Behind him, the city of Makkah is visible in the distance with brown hills. Ahead, a long road stretches to the horizon. His morning shadow extends long on the sand. Colors: golden morning light, brown sand and hills, bright blue sky. Mood: courage and sacrifice of a young man who left luxury behind. Composition with Mushab walking at center, Makkah in background left, long road ahead. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Mushab mengajar Al-Quran di halaman rumah As'ad bin Zurarah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Mushab bin Umair -- young man in modest clothing, bright face, patient teacher demeanor. A simple house courtyard in Yathrib on a bright morning with lush date palm trees providing shade. Mushab bin Umair sits under a date palm on a simple mat, his face glowing with patience and gentleness. Surrounded by adult men and women and children sitting in a circle listening attentively. Sheets of scripture open in his lap. Dates and drinking water available in clay vessels. Simple stone house wall behind. Colors: green palm leaves, warm brown earth and tree, golden morning light. Mood: peaceful knowledge and tranquility. Centered composition with Mushab under the palm tree, students circling around him. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Sad bin Muadz masuk Islam dan seluruh suku Aus mengikuti
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Mushab bin Umair -- young man in modest clothing, bright face, patient teacher demeanor. A wide courtyard in the middle of the Aus tribal settlement in Yathrib. Sad bin Muadz, a tall dignified tribal leader with a white turban and distinguished brown robes, stands among his people raising his hand to declare his acceptance of Islam. Dozens of Aus tribe members stand around him with surprised expressions that gradually turn to agreement. Mushab stands to the side with a grateful smile. Stone houses and date palm trees of Yathrib frame the scene. Bright midday light. Colors: white turban, brown robes, green palm trees, blue sky. Mood: historic and transformative. Centered composition with Sa'd standing tall at center, his people surrounding him, Mushab at the side. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Transformasi dari dua belas orang menjadi komunitas besar menuju Madinah
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Split-time vista in one frame. Left side: twelve small figures gathered in the dark Aqabah valley under moonlight, a humble beginning. Right side: the living and glowing city of Yathrib with busy houses, a small mosque at center, and dozens of people gathering as a thriving Muslim community. A tree grows across both sides as a symbol of growth, its roots in the dark side and its lush leaves in the bright side. Colors: gradual transition from dark blue on the left toward bright gold on the right. Mood: transformative and full of hope, showing that from something small something great is born. Horizontal split composition with the tree as a visual bridge at center. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%

@@ -1,17 +1,8 @@
-# E122 — Perang Salib Keempat (3 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E122 — Perang Salib Keempat (16 slides)
 
 ## Base Palette
 - Naval blue with Venetian ships and maritime
-- Byzantine purple and gold Constantinople 
+- Byzantine purple and gold Constantinople
 - Tragic orange and grey showing misdirected campaign
 
 ## Character Lock (copy-paste ke setiap prompt yang relevan)
@@ -21,11 +12,66 @@
 
 ## Slides
 
-### slide-01 — Kapal-kapal Venesia dengan tentara Salib
-Venetian ships carrying Crusader armies. Large maritime expedition with European soldiers on Italian merchant vessels. Naval flags and maritime equipment. Blue nautical colors with commercial and military expedition atmosphere. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Paus Innocent III menyerukan perang salib baru
 
-### slide-02 — Serangan ke Konstantinopel alih-alih Yerusalem
-Crusader forces attacking Constantinople instead of Jerusalem. Byzantine city under siege by fellow Christians. Purple and gold Byzantine architecture. Misdirected campaign showing historical irony without celebrating violence. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Pope Innocent III stands on the balcony of a grand Roman basilica addressing a massive crowd below. He wears white papal robes and a tall golden tiara, arms raised in passionate exhortation. Below him thousands of knights, nobles, and common people listen with fervent expressions. Papal banners in yellow and white flutter from the building. Behind the crowd the domes and spires of medieval Rome stretch into the distance under a dramatic sky. Dominant colors are white and gold papal attire, grey stone, blue sky, and red and silver crowd. The atmosphere conveys religious fervor and urgent call to arms, with the Pope on balcony in upper center, massive crowd below, and Roman skyline in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Dampak tragis penyimpangan misi
-Aftermath showing the tragic consequences of the diverted Fourth Crusade. Byzantine Empire weakened, original Holy Land mission abandoned. Orange and grey colors showing disappointment and historical tragedy. Somber reflection on misdirected religious campaign. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Para baron bersumpah di turnamen Ecry-sur-Aisne
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A grand medieval tournament ground at the castle of Ecry-sur-Aisne where noble knights in colorful heraldic surcoats kneel together on the grass, their swords planted before them in the earth. Count Thibaut of Champagne stands at center raising his sword skyward in a solemn oath. Tournament banners in many colors flutter from tall poles. Ladies and clergy watch from wooden stands decorated with flowers. Evening golden light bathes the scene. Dominant colors are multi-colored heraldry, green grass, gold evening light, and silver armor. The atmosphere conveys solemn pledging and chivalric devotion, with kneeling knights in center, Thibaut standing among them, and castle and stands in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Doge Dandolo merekrut tentara Salib di Venesia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Venetian merchants -- Italian traders and ship captains with commercial interests -- are represented by Doge Enrico Dandolo, an elderly blind man in red Venetian robes and distinctive doge cap, standing on a high wooden podium at the grand Venetian shipyard. Crusader armies -- European soldiers originally intended for Holy Land -- gather below in silver armor, listening with uncertain expressions. Behind them the canals of Venice are filled with large war galleys with long oars. Tall ship masts rise above the scene. The winged lion banner of Venice flutters in the sea breeze. Dominant colors are Venetian red, sea blue, silver armor, and brown ship wood. The atmosphere conveys intrigue and high-stakes negotiation, with the Doge on center podium, soldiers surrounding below, and ship armada in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Krisis keuangan dan utang besar kepada Venesia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Inside a large Venetian counting house, Crusader leaders in travel-worn cloaks stand before a table covered with coins and ledgers. Venetian bankers in dark robes point sternly at deficits in their books. Piles of silver coins on one side are dwarfed by stacks of unpaid promissory notes. Through arched windows the idle Venetian armada sits in harbor, costing money daily. Candles flicker in the tense room. Dominant colors are gold and silver coins, dark wood, warm candlelight, and blue harbor through windows. The atmosphere conveys financial crisis and desperation, with the negotiation table in center and harbor armada through windows in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Penyerangan kota Zara sesama Kristen
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Venetian war galleys surround the port city of Zara on the Adriatic coast. White city walls face the clear blue sea. Crusader armies -- European soldiers originally intended for Holy Land -- descend from ships onto the docks carrying siege ladders, with red crosses on their chests. City residents stand atop walls with horrified expressions, hanging banners marked with crosses from windows and walls to show they are fellow Christians. A large cross stands on the church tower. Dominant colors are white city walls, blue Adriatic, red crosses, and brown ships. The atmosphere conveys contradiction and deep moral tragedy, with ships landing in foreground, Zara walls in center, and open sea in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Pangeran Alexius memohon bantuan di kabin kapal
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Young Prince Alexius in purple and gold Byzantine royal garments kneels before Crusader leaders inside a luxurious ship cabin. His face pleads desperately with hands raised in supplication. Barons and knights sit around him with interested expressions, eyeing an open treasure chest beside Alexius. Candles illuminate the dark wooden cabin interior. A map of Constantinople is spread across the table. Dominant colors are royal purple, gold jewelry, brown wood cabin, and white candlelight. The atmosphere conveys dramatic political calculation and desperate bargaining, with Alexius kneeling in center, Crusader leaders surrounding, and city map in foreground. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Armada raksasa berlayar menuju Konstantinopel
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A colossal armada of Venetian and Crusader warships sails in formation toward Constantinople. Hundreds of white and red sails fill the sea surface. On the horizon the silhouette of Constantinople appears with the massive Theodosian walls and the great dome of Hagia Sophia towering above. A dramatic sunset sky in orange and purple creates an ominous atmosphere. Seagulls circle above the fleet. Waves reflect the sunset colors. Dominant colors are dark blue sea, orange sunset, golden Hagia Sophia dome, and white sails. The atmosphere conveys grandeur mixed with dread, with the armada filling foreground, Constantinople silhouette on horizon, and dramatic sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Serangan pertama ke tembok laut Konstantinopel
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Venetian warships press against the towering sea walls of Constantinople. Siege ladders and wooden ship bridges drop onto the wall tops. Crusader soldiers climb with shields on their backs while Byzantine civilians -- Eastern Christian residents of Constantinople -- watch as defenders pour boiling oil from above. Fires blaze at several points along the walls. Hagia Sophia stands magnificent behind the walls, its golden dome reflecting sunlight. Rough sea churns below the ships. Dominant colors are grey stone walls, blue sea, orange fire, and golden dome. The atmosphere conveys an intense naval assault, with ships and walls clashing in center, sea in foreground, and city behind walls in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Rantai Galata diputus dan Golden Horn terbuka
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A dramatic moment as the massive Venetian ship Aquila crashes through the enormous iron chain stretching across the Golden Horn harbor. The thick chain snaps with tremendous force, links flying through the air. Venetian galleys surge forward through the gap into the protected harbor. The Galata Tower stands on one side. On the far shore Constantinople glimmers with its palaces and churches. Sailors cheer from the decks. Dominant colors are dark iron chain, blue harbor water, red Venetian sails, and gold city gleam. The atmosphere conveys a decisive breakthrough moment, with the chain breaking in center, Aquila crashing through, and Constantinople harbor opening beyond. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Alexius IV gagal memenuhi janji besarnya
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Inside the opulent Byzantine throne room, young Emperor Alexius IV sits uncomfortably on the golden throne with a troubled expression. Before him angry Crusader envoys in dusty armor gesture forcefully, pointing at unfulfilled contract documents. Behind Alexius, court officials whisper nervously to each other. Sacred golden icons and religious artwork line the marble walls. Empty treasure chests sit open nearby. Dominant colors are gold throne and icons, purple imperial drapes, grey marble, and silver armor. The atmosphere conveys broken promises and escalating tension, with Alexius on throne in center, angry envoys in foreground, and anxious court behind. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-11 — Kudeta Mourtzouphlos dan pembunuhan Alexius IV
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A dark and sinister corridor inside the Byzantine imperial palace at night. Shadowy armed figures led by the stern-faced Alexius Doukas Mourtzouphlos in dark military garb advance through torchlit marble hallways. Flickering torches cast long menacing shadows on the walls. Byzantine mosaics gleam faintly on the ceiling. A purple imperial cloak lies crumpled and abandoned on the floor. Guards with drawn swords stand at doorways. Dominant colors are deep shadow black, orange torchlight, purple cloak, and grey marble. The atmosphere conveys treachery and violent palace intrigue, with conspirators moving through corridor in center, dramatic torchlight illumination, and palace architecture framing. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-12 — Penjarahan Konstantinopel yang tragis
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. The magnificent interior of Hagia Sophia being looted. Crusader soldiers carry out golden icons, silver chalices, and silk fabrics. Sunlight pierces through the enormous dome illuminating the chaos below. Beautiful Byzantine mosaics cover walls that show cracks. Ancient books and manuscripts scatter across the marble floor. Thin smoke floats in the air. Great marble pillars stand as silent witnesses to the tragedy. Dominant colors are gold plundered treasures, grey marble, red stains, and white dome light. The atmosphere conveys devastating tragedy and cultural destruction, with looting in foreground, massive dome above, and dramatic light from center. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-13 — Kekayaan Konstantinopel dirampas dan dibagi
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Venetian merchants -- Italian traders and ship captains with commercial interests -- with scales catalog everything in a vast open square in Constantinople filled with mountains of plundered treasure. Golden religious artifacts, silver plates, gems, silk bolts, and manuscripts sorted into piles. Crusader knights argue over division of spoils. Smoke rises from burning buildings behind. Damaged Roman statues lie toppled on the ground. Dominant colors are glittering gold and silver, dark grey smoke, red distant flames, and white marble. The atmosphere conveys greed and moral decay amidst devastation, with treasure piles in center, merchants dividing in foreground, and burning city in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-14 — Perpecahan Kristen Ortodoks dan Katolik semakin dalam
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Two groups stand facing each other in a damaged Constantinople square. On one side Catholic bishops with Latin crosses and white robes. On the other Orthodox priests with Byzantine crosses and black robes. Both groups show expressions of deep sorrow and anger. Building rubble is scattered around them. A toppled bronze statue of a Byzantine emperor lies on the ground. A heavy grey overcast sky covers the city. Dominant colors are black Orthodox robes, white Catholic robes, grey rubble, and dull sky. The atmosphere conveys a painful and irreparable schism, with two groups confronting in center, ruins surrounding, and somber sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-15 — Kekaisaran Latin didirikan di atas reruntuhan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Baldwin of Flanders sits on the Byzantine imperial throne in a damaged but still magnificent throne room. He wears a makeshift golden crown and purple imperial robes that do not quite fit. Venetian officials and Crusader barons stand around him holding maps showing the divided Byzantine territories. Through broken windows, the damaged skyline of Constantinople is visible with scaffolding on Hagia Sophia. Dominant colors are purple imperial, gold crown, grey damaged stone, and blue sky through broken windows. The atmosphere conveys hollow victory built on destruction, with Baldwin on throne in center, officials flanking, and damaged city visible through windows. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-16 — Konstantinopel yang terluka perlahan bangkit kembali
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A panoramic view of Constantinople from a distance in early morning with sunrise on the eastern horizon. Hagia Sophia still stands strong despite some visible damage. Byzantine civilians -- Eastern Christian residents of Constantinople -- begin repairing buildings and clearing streets. Small fishing boats resume activity in the harbor. Golden dawn light bathes the wounded city walls. Birds fly across a sky that is beginning to clear. Green plants begin growing among the rubble. Dominant colors are golden dawn, grey walls, green new sprouts, and blue morning sky. The atmosphere conveys fragile hope amid lingering sorrow, with the city in center, sunrise in background, and recovery activity in foreground. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%

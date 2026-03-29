@@ -1,36 +1,60 @@
-# E15 — Hijrah Madinah (4 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E15 — Hijrah Madinah (11 slides)
 
 ## Base Palette
 - Night blue with golden soft light
-- Brown cave stone with thin light from outside  
+- Brown cave stone with thin light from outside
 - Desert sand with blue sky and clouds
 - Fresh green of Madinah with warm gold
 
-## Character Lock (copy-paste ke setiap prompt yang relevan)
+## Character Lock
 - **GOLDEN GLOW**: A small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. ALWAYS this exact form -- no column, ribbon, burst, or starburst.
 - **Ali ibn Abi Talib**: Young brave Arab man with short dark beard. He wears olive green robes and white turban. Athletic compact build, youthful intense eyes, courageous expression
 - **Abu Bakr al-Siddiq**: Slim gentle-looking Arab man about 38 years old with light brown reddish beard medium length. He wears white robes and white turban. Soft features, kind eyes, compassionate expression
 - **Suraqah bin Malik**: Arab horseman tracker, determined expression turning to surprise
+- **Asma binti Abu Bakr**: Young Arab woman in modest clothing, brave and resourceful
 
 ## Slides
 
-### slide-01 — Nabi keluar rumah tanpa terlihat
-GOLDEN GLOW walking past sleeping young men in front of simple Makkah house at night. Ali sleeping inside house covered by green blanket, Quraisy youth sleeping outside. Open house door, moonlight. Dark blue night, gentle golden soft light. Ali — young brave Arab man with short dark beard, olive green robes, white turban. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Konspirasi Dar al-Nadwah: Quraisy merencanakan pembunuhan
 
-### slide-02 — Bersembunyi di Gua Tsur
-Two figures inside dark cave, with silhouettes of tracker feet visible at cave mouth. Small stone cave with little light from outside. GOLDEN GLOW sitting calmly, Abu Bakr — slim Arab man, light brown beard, white robes — beside looking worried but loyal. Spider web at cave mouth, thin light from outside. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Interior of the Dar al-Nadwah council hall in Makkah. A large room with stone pillars and torches burning on the walls. Dozens of Quraisy leaders sit in a circle with faces full of hatred and deceit. Abu Jahal stands in the center raising his hand, proposing an assassination plan with one young man from each clan striking together so that blood is spread evenly. Dark shadows fall on their faces from flickering torchlight. A simple map of Makkah spread on the floor. Colors: red torchfire, dark brown stone, black shadows, faces bathed in firelight. Mood: dark conspiracy and evil. Centered composition with Abu Jahal standing at center, Quraisy leaders circling around him. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Suraqah mengejar tapi kudanya terperosok
-Horseman with horse sinking into desert sand. Vast desert with coastal path visible. Suraqah on horse sinking in sand with surprised expression. Horse struggling in quicksand, dust rising. Two distant riders visible in background. Yellow sand, blue sky. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Ali ibn Abi Talib tidur sebagai umpan di tempat tidur Nabi
 
-### slide-04 — Sambutan hangat di Madinah
-People of Madinah welcoming with great joy. Outskirts of Madinah city with date palm trees. People cheering happily, children running, GOLDEN GLOW on camel entering. Date palm trees, Madinah houses in background. Fresh green, warm gold colors. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Ali ibn Abi Talib -- young brave Arab man with short dark beard, wearing olive green robes and white turban, athletic compact build, youthful intense eyes, courageous expression. Interior of a simple house in Makkah at night. Ali ibn Abi Talib lies on the bed wrapped in a green cloth belonging to the Prophet. His face is calm and brave, willing to risk his life as a decoy. Through a small window, moonlight falls across the room. A clay oil lamp flickers on a low shelf. Outside the door, shadows of armed Quraisy youths are visible gathering with drawn swords. Colors: dark blue night, silver moonlight, green blanket, warm amber lamp. Mood: quiet courage and sacrifice. Composition with Ali lying at center, moonlit window above, threatening shadows at the door. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Nabi keluar melewati pemuda Quraisy yang tertidur tanpa terlihat
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Night street outside the same Makkah house. GOLDEN GLOW walks calmly past a group of armed Quraisy youths who have fallen asleep on the ground, swords and spears scattered beside them. Allah has sealed their eyes so none see the Prophet passing by. The front door of the house stands wide open behind. Stars fill the dark sky above the flat rooftops of Makkah. Colors: dark blue night, soft golden glow from the Prophet, steel glint of weapons on the ground. Mood: miraculous divine protection, silent and awe-inspiring. Wide composition with GOLDEN GLOW at center walking forward, armed sleeping youths scattered on both sides of the narrow street. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Nabi dan Abu Bakr tiba di Gua Tsur saat malam
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Abu Bakr al-Siddiq -- slim gentle-looking Arab man about 38 years old with light brown reddish beard medium length, wearing white robes and white turban, soft features, kind eyes, compassionate expression. Exterior of Cave Tsur on a rocky mountainside beneath a canopy of stars. GOLDEN GLOW and Abu Bakr al-Siddiq climb the rocky path toward the dark cave mouth. Abu Bakr goes ahead first to check the cave for danger, his hand reaching into the dark opening. Large jagged rocks frame the entrance. A low crescent moon sits on the horizon behind them. Colors: dark grey rock, dark blue starry sky, faint gold from the Prophet, silver crescent moon. Mood: tense anticipation and steadfast friendship on a dangerous night. Composition with two figures climbing toward the cave mouth at upper center, rocky terrain below. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Abu Bakr menutup lubang gua dengan tumitnya demi melindungi Nabi
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Abu Bakr al-Siddiq -- slim gentle-looking Arab man about 38 years old with light brown reddish beard medium length, wearing white robes, soft features, kind eyes, compassionate expression. Dark interior of Cave Tsur. Abu Bakr al-Siddiq sits pressing his heel hard against a small hole in the cave wall to block a venomous snake. His face shows pain but absolute resolve not to move. GOLDEN GLOW rests peacefully nearby, head in Abu Bakr lap. A drop of blood seeps from Abu Bakr heel. Rough brown stone walls surround them, only a sliver of pale light enters from the cave mouth. Colors: dark brown stone, warm golden light of the Prophet, muted earthy tones. Mood: selfless devotion and endurance of pain to protect the beloved. Close composition with two figures at center, Abu Bakr heel pressing the wall at left. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Jaringan pendukung: Asma, Abdullah, dan Amir menjaga keselamatan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Asma binti Abu Bakr -- young Arab woman in modest clothing, brave and resourceful. Triptych scene in one frame showing three supporting roles of the hijrah. Left section: Abdullah bin Abu Bakr, a young man, peers from behind a wall in Makkah gathering intelligence as a spy. Center section: Asma binti Abu Bakr walks at night carrying a bundle of food with a belt torn in two to tie the provisions. Right section: Amir bin Fuhairah herds goats over footprints in the sand to erase all traces. A starry night sky stretches above all three. Colors: blue night, brown earth, white clothing, silver stars. Mood: every small role contributes to the great mission. Horizontal triptych composition with three scenes side by side. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Pelacak Quraisy berdiri di depan gua tapi tidak masuk
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. The mouth of Cave Tsur seen from inside looking outward. Bright desert light floods the entrance. Three Quraisy trackers stand right at the cave opening, peering inside, their silhouettes dark against the bright sky. A beautiful spider web stretches perfectly across the cave mouth, glistening with dew in the sunlight. A pair of wild doves nest calmly on the cave lip. Inside the dark cave, two faint figures huddle close together in shadow. The trackers point at each other in confusion, certain no one could enter without breaking the spider web. Colors: bright golden exterior light, dark shadowy interior, silver spider silk catching light. Mood: miraculous divine protection holding danger at bay. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Suraqah mengejar tapi kudanya terperosok di pasir berkali-kali
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Suraqah bin Malik -- Arab horseman tracker, determined expression turning to shock. Wide open desert with a coastal path in the distance. Suraqah bin Malik, an Arab horseman tracker with an expression of shock, sits on his horse which has sunk into soft sand for the third time. A cloud of dust billows around the struggling horse. His face is full of astonishment as he realizes divine power protects the Prophet. Far in the distance, two small riders continue their journey calmly on the horizon. The Quraisy promised 100 camels as a reward but Allah foils every pursuit. Colors: bright yellow sand, pale blue sky, golden-brown dust cloud. Mood: dramatic and awe-inspiring, human power overcome by divine will. Composition with Suraqah and horse at center-right, vast desert stretching to distant riders at left. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Suraqah berhenti mengejar dan meminta jaminan keamanan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. Abu Bakr al-Siddiq -- slim gentle-looking Arab man about 38 years old with light brown reddish beard medium length, wearing white robes. Suraqah bin Malik -- Arab horseman tracker, determined expression turning to humility. Desert rest stop scene. Suraqah bin Malik has dismounted from his horse and kneels humbly before GOLDEN GLOW and Abu Bakr al-Siddiq. His horse stands nearby, legs dusty from sinking in the sand. The Prophet calmly extends a gesture of peace and promises that one day Suraqah will wear the bracelets of the Persian king. Suraqah raises both hands in surrender and respect. Rocky desert terrain with sparse bushes. Colors: warm brown sand, blue sky, golden afternoon light. Mood: transformation from hunter to seeker of truth. Composition with three figures at center, horse behind, open desert surrounding. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Nabi tiba di Quba dan mendirikan masjid pertama dalam Islam
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. The village of Quba on the southern outskirts of Madinah on a bright day. GOLDEN GLOW stands in the middle of an open plot of land where the first foundation stones of Masjid Quba are being laid. Several companions lift large stones and arrange them to form the basic walls of the mosque. Lush date palm trees surround the area. The red earth of Madinah contrasts with the bright blue sky. Quba residents stand watching with faces full of joy. Colors: red-brown earth, fresh green palm trees, blue sky, golden daylight. Mood: building spirit and the beginning of a new civilization. Composition with GOLDEN GLOW and mosque construction at center, palm trees framing the scene. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-11 — Sambutan penuh sukacita di Madinah dengan nyanyian anak-anak Anshar
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. GOLDEN GLOW -- a small warm circular golden-white light, about 15% of image height, with 5-7 soft rays radiating outward. The outskirts of Madinah city with tall date palm trees lining both sides of the road. GOLDEN GLOW rides a camel entering the city from the right. The entire city erupts in joy. Men cheer, young Anshar girls sing a famous welcome song about the full moon rising. Children run along the camel path. The residents have been waiting every day at the city edge. This day marks the beginning of the Islamic Hijri calendar. Colors: fresh green palm fronds, warm golden sunlight, colorful clothing of the joyful crowd. Mood: pure celebration, deep gratitude, triumph of faith and trust in Allah. Wide composition with GOLDEN GLOW on camel from the right, welcoming crowd filling the left and center, palm trees framing. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%

@@ -12,6 +12,19 @@
 
 ---
 
+## 0. Gemini Prompt Optimization
+
+- **Sweet spot**: 200-1000 chars — model paling efektif di range ini
+- **Max input**: ~4000 chars — detail di akhir prompt cenderung terabaikan
+- **Prioritas awal**: Model beri bobot lebih pada kata-kata di awal prompt
+- **Struktur optimal**: Subjek + Aksi + Lingkungan + Pencahayaan + Gaya Artistik
+- **Gunakan koma** untuk pisahkan elemen — AI proses lebih jernih
+- **Hindari** terlalu banyak kata sifat bertumpuk — mengaburkan gaya utama
+- **Risiko prompt panjang**: kontradiksi antar instruksi, detail akhir diabaikan
+- **Char limit per brief**: tidak lagi 750 — boleh sampai ~1000 chars untuk detail yang kaya
+
+---
+
 ## 1. Larangan Visualisasi Nabi Muhammad ﷺ (MUTLAK)
 
 | ❌ DILARANG | ✅ BOLEH |

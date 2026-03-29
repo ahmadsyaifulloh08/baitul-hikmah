@@ -1,13 +1,4 @@
-# E127 — Sultan Baibars (3 slides)
-
-> ⚠️ **WAJIB BACA SEBELUM GENERATE:**
-> 1. `docs/illustration-registry.md` — master character descriptions
-> 2. `docs/illustration-guide.md` — rules & larangan
-> 3. `docs/operations/batch-image-generation-v4.md` — workflow
->
-> Copy-paste EXACT character descriptions dari registry ke prompt.
-> JANGAN parafrase atau mengubah wording.
-> **Max 750 chars per prompt. No parentheses, no single quotes, no em dash.**
+# E127 — Sultan Baibars (16 slides)
 
 ## Base Palette
 - Mamluk military gold and green strength
@@ -15,16 +6,71 @@
 - Victory celebration with Islamic banners
 
 ## Character Lock (copy-paste ke setiap prompt yang relevan)
-- **Sultan Baibars**: Powerful Mamluk ruler with commanding presence, military regalia, strategic mind
+- **Sultan Baibars**: Powerful Mamluk ruler with commanding presence, piercing blue eyes, black beard, military regalia, strategic mind
 - **Mamluk forces**: Elite Muslim cavalry and infantry with distinctive equipment
 
 ## Slides
 
-### slide-01 — Sultan Baibars memimpin pasukan Mamluk
-Sultan Baibars — powerful Mamluk ruler with commanding presence, military regalia — leading elite Mamluk forces. Distinctive cavalry and military organization. Gold and green Mamluk military colors. Strong leadership and military excellence atmosphere. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-01 — Portrait Sultan Baibars sang Singa Mesir di atas kuda perang
 
-### slide-02 — Merebut benteng-benteng Tentara Salib
-Baibars leading successful siege operations against Crusader strongholds. Strategic military campaigns reclaiming fortified positions. Focus on military strategy rather than graphic violence. Brown castle warfare with tactical expertise mood. 16:9 1792x1024, no text in image, CENTER 70%.
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with commanding presence, piercing blue eyes, black beard, and military regalia -- atop a powerful brown Arabian horse with luxurious gold-patterned saddle. A tall figure wearing a Mamluk helm emblazoned with a golden lion, gleaming silver chainmail armor, and a dark blue cloak with gold embroidery. Right hand holds a curved sword at his side. Background shows Cairo with mosque domes and the majestic Citadel fortress. Clear blue sky above. Dominant colors: blue, gold, silver, brown horse. Atmosphere of commanding authority and martial power. Composition: portrait centered with Baibars facing slightly sideways, Cairo Citadel towering in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
 
-### slide-03 — Kemenangan besar melawan Tentara Salib
-Major Mamluk victories under Baibars effectively ending Crusader presence in the region. Islamic banners triumphant over former Crusader territories. Green victory banners with dignified celebration of liberation rather than excessive triumph. 16:9 1792x1024, no text in image, CENTER 70%.
+### slide-02 — Baibars muda dilatih sebagai Mamluk elit di Mesir
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A grand military training hippodrome in Cairo. Young Mamluk recruits practice horsemanship and archery on horseback. A young Baibars -- a boy with bright blue eyes -- rides at full gallop, releasing an arrow with perfect form, hitting a distant target. Instructors watch from sidelines. Other recruits practice sword techniques on dummies. The Citadel of Cairo rises in the background. Sandy ground and blue sky frame the scene. Dominant colors: sandy gold ground, blue sky, brown horses, silver weapons. Atmosphere of intense elite military training. Composition: young Baibars mid-action in center, trainees around, Citadel in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-03 — Naik tahta sebagai Sultan Mamluk di Citadel Kairo
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- sits on the golden throne inside the great hall of Cairo Citadel. He wears ceremonial deep blue and gold Mamluk robes with a sultan crown. Blue eyes stare forward with cold determination. Senior emirs in military dress kneel in allegiance. Stone columns with geometric patterns line the hall. Green banners hang from ceiling. Oil lamps cast warm golden light. Through archways Cairo spreads below. Dominant colors: gold throne, deep blue robes, green banners, warm stone. Atmosphere of newly seized power and fierce determination. Composition: Baibars on throne in center, kneeling emirs before, grand hall surrounding. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-04 — Jaringan mata-mata Baibars menyusup ke benteng musuh
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A dark chamber inside a Crusader fortress at night. A Mamluk spy disguised as a local merchant hands a rolled parchment of secret information to a courier hiding behind a stone pillar. Dim candlelight illuminates their alert and wary faces. On the wall hangs a fortress map with strategic markings. Long shadows fall across the stone floor. Through a small window a Crusader tower is visible under moonlight. Dominant colors: dark brown, yellow candlelight, grey stone, black shadows. Atmosphere of mystery and high-stakes espionage. Composition: two figures meeting in center, stone pillars framing the scene, candlelight as primary light source. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-05 — Sistem pos kilat Baridi mengirim pesan lintas kerajaan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A Mamluk courier rider in light traveling clothes races a white Arabian horse across a golden desert under a bright midday sun. In one hand he carries a sealed leather message tube. In the distance the next relay post tower stands on a small hill, with a replacement rider and fresh horse already waiting. A long trail of dust stretches behind the galloping rider. The golden desert extends wide with low rolling hills. A hawk soars high in the blue sky above. Dominant colors: gold sand, white horse, blue sky, brown leather. Atmosphere of speed and critical military efficiency. Composition: courier galloping in center foreground, relay tower in mid-background, vast desert stretching beyond. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-06 — Peta strategi besar merencanakan pembebasan seluruh Levant
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- stands pointing with a command baton in the strategy room in Cairo Citadel with domed ceiling and bronze lamps. A large Levant map spreads across a massive wooden table. Mamluk generals sit around with serious expressions. Crusader fortresses are marked with red cross flags, liberated areas with green Islamic flags. Scrolls stack at table edges. Weapons hang on stone walls. Dominant colors: warm brown, green flags, red markings, blue map details. Atmosphere of serious strategic planning. Composition: overhead angle showing map in center, Baibars and generals surrounding the table. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-07 — Pengepungan benteng Krak des Chevaliers yang legendaris
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and military regalia -- on horseback commands from a higher hill. The magnificent Krak des Chevaliers stands on a hilltop with thick white double walls and tall towers. Mamluk cavalry surrounds it from all directions. Trebuchets are positioned at strategic points. Supply routes are blocked with wooden barricades on mountain roads. Green-gold Mamluk banners flutter. Dominant colors: white fortress stone, green banners, grey mountains, blue sky. Atmosphere of strategic patience and inevitable conquest. Composition: wide view with fortress in center, Mamluk forces encircling from foreground and sides. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-08 — Krak des Chevaliers akhirnya menyerah setelah 36 hari
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and military regalia -- on horseback watches with composed dignity. The gate of Krak des Chevaliers opens as surviving Hospitaller knights in white robes with red crosses walk out carrying their belongings. Mamluk soldiers stand in formation on both sides creating a corridor. Behind Baibars the green Mamluk banner rises over the fortress outer wall for the first time. Mountains surround the scene. Dominant colors: white fortress and Hospitaller robes, green banners, grey stone, blue sky. Atmosphere of historic surrender with honorable terms. Composition: knights exiting gate in center, Mamluk soldiers flanking, Baibars observing from one side. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-09 — Surat ancaman Baibars kepada Bohemond dari Antiokia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- dictates a threatening letter in a military command tent. He stands with arms crossed, blue eyes burning with fierce resolve, while a scribe in white writes rapidly on parchment with a reed pen. A golden ink well and the sultan seal sit on the desk. Behind them a map of Antioch with attack plans is pinned to a frame. Oil lamps illuminate the scene. Dominant colors: gold ink and seal, white parchment, dark tent, amber lamplight. Atmosphere of calculated intimidation and psychological warfare. Composition: Baibars over scribe in center, letter in foreground, attack map in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-10 — Pasukan Mamluk menyerbu kota Antiokia
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Mamluk forces -- elite Muslim cavalry and infantry with distinctive equipment -- charge through the great gates of Antioch. Mamluk cavalry in chainmail and winged helmets ride powerful horses, raising curved swords and green Islamic banners. Dust and smoke billow from the battle. Crusader defenders in armor marked with red crosses fall back through the city streets. Byzantine-style stone buildings line the wide boulevard. Small fires burn on several rooftops. Dominant colors: green banners, red crosses, grey stone, gold dust. Atmosphere of an epic and decisive military conquest. Composition: Mamluk cavalry charging through gates in center, city stretching into background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-11 — Satu demi satu benteng Salib jatuh ke tangan Mamluk
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. A montage composition showing multiple Crusader fortresses in various states of capture. In the foreground a fortress gate opens with a white surrender flag. In middle ground another fortress flies green Mamluk banners on its towers. In background a third fortress burns with rising smoke. Mamluk cavalry moves between them on dusty roads. The Levant coast stretches behind with Mediterranean visible. Dominant colors: grey stone, green victory banners, orange fire, blue sea. Atmosphere of unstoppable systematic conquest across the region. Composition: multiple fortresses at different depths, Mamluk forces connecting them. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-12 — Pertempuran Elbistan melawan pasukan Mongol
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and military regalia -- leads the front line of a fast-moving Mamluk cavalry charge on the open plains of Anatolia at dawn. Hundreds of mounted warriors with bows and arrows gallop in a wave-like formation leaving thick dust behind. In the opposing line Mongol warriors in fur-trimmed armor brace for impact. The rising sun casts long dramatic silhouettes. Green Mamluk banners clash against dark Mongol standards. Dominant colors: golden dawn, brown dust, green Mamluk banners, dark Mongol colors. Atmosphere of a massive cavalry clash between two military superpowers. Composition: Baibars leading charge in center, waves of cavalry stretching behind, Mongols ahead, dawn sky above. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-13 — Reformasi militer furusiyya dan modernisasi pasukan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- observes from an elevated stand. A grand military hippodrome in Cairo bustles with organized training. Mamluk warriors practice horseback maneuvers in formation. Archers on galloping horses hit targets with precision. Sword fighters spar with advanced techniques. Instructors consult written military doctrine manuals. The Citadel and mosque domes form the backdrop. Dominant colors: sandy ground, silver weapons, brown horses, blue sky, gold Citadel. Atmosphere of elite disciplined military excellence and modernization. Composition: training activities in center, Baibars on stand, Cairo skyline in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-14 — Pembangunan madrasah, perpustakaan, dan infrastruktur
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Panoramic view of Cairo under Baibars showing grand construction. Workers build a new madrasah with Islamic arches and geometric tiles. Beside it a library with shelves through open windows. Caravans arrive at a newly built caravanserai in middle ground. Alexandria harbor with trading ships in the distance. Scholars enter the madrasah. The scene buzzes with prosperity. Dominant colors: cream stone, green garden courtyards, blue harbor, warm golden light. Atmosphere of civilization building and cultural renaissance. Composition: madrasah in foreground, caravanserai in middle, harbor in background, all connected. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-15 — Diplomasi global Baibars dengan berbagai kerajaan
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- in the grand reception hall of Cairo Citadel receives multiple diplomatic delegations. On one side a Byzantine envoy presents a sealed letter. On another an envoy from a European kingdom offers trade agreements. A restored Abbasid caliph in black robes sits on a smaller throne beside Baibars. Trade route maps cover the walls. Dominant colors: gold hall, varied costume colors, green Mamluk banners, brown wood. Atmosphere of global political sophistication and multilateral diplomacy. Composition: Baibars at center receiving delegations, caliph beside him, world maps behind. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
+
+### slide-16 — Baibars bersujud syukur di mihrab Masjid Umayyah Damaskus
+
+Create an image: Warm watercolor storybook illustration for children age 6-12. Sultan Baibars -- powerful Mamluk ruler with piercing blue eyes, black beard, and commanding presence -- prostrates in grateful prayer on a red and blue Persian carpet before the mihrab of the Umayyad Mosque in Damascus. Warm golden light from mosaic windows illuminates his figure. Helm and sword placed respectfully beside the prayer rug. Grand mosque with marble pillars, golden Arabic calligraphy mosaics, and bronze hanging lamps. Marble floor gleams with reflected light. Dominant colors: golden light, red-blue carpet, white marble, green accents. Atmosphere of profound gratitude and humble devotion before Allah. Composition: Baibars prostrating in center foreground, mihrab and mosque architecture in background. CRITICAL: Do NOT include ANY text, words, letters, labels, captions, titles, signatures, or writing of any kind in the image. 16:9 1792x1024, no text in image, CENTER 70%
