@@ -1,73 +1,69 @@
-# Wa'ad al-Mau'udah — Islam Menyelamatkan Anak Perempuan
+# Wa'ad al-Mau'udah — Islam Menyelamatkan Anak Perempuan 🌹
 
-## ⚔️ Zaman Jahiliyyah 🏜️
+---
+
+## Zaman Jahiliyyah
 
 Sebelum Islam datang, bangsa Arab hidup di zaman yang disebut **Jahiliyyah** — zaman kebodohan. Pada masa itu, banyak suku Arab yang belum mengenal ajaran tauhid. Mereka menyembah berhala dan memiliki banyak kebiasaan buruk.
 
 Salah satu kebiasaan paling buruk adalah cara mereka memperlakukan anak perempuan. Anak perempuan dianggap lemah dan membawa malu bagi keluarga.
 
-🎨 **Brief Ilustrasi:**
-*[Padang pasir Arab yang gersang, siluet perkampungan suku dengan tenda-tenda, langit senja kemerahan, suasana suram dan gelap, warna coklat-abu dominan, mood sedih dan sunyi, komposisi wide landscape]*
+🎨 *Ilustrasi: Padang pasir Arab yang gersang dengan siluet perkampungan suku dan tenda-tenda. Langit senja kemerahan, suasana suram dan gelap. Warna coklat-abu dominan. Mood sedih dan sunyi. Komposisi wide landscape.*
 
 ---
 
-## ⚔️ Nasib Anak Perempuan ☹️
+## Nasib Anak Perempuan
 
 Di beberapa suku Arab, ketika seorang ayah mendengar kabar kelahiran anak perempuan, wajahnya langsung berubah murung. Ia merasa malu kepada kaumnya. Sebagian ayah bahkan memilih untuk menyingkirkan bayi perempuan mereka — sebuah kebiasaan keji yang disebut **Wa'ad al-Mau'udah**.
 
 Tidak semua suku melakukan ini, tetapi kebiasaan ini cukup tersebar di Jazirah Arab. Anak perempuan diperlakukan tidak adil hanya karena jenis kelaminnya.
 
-🎨 **Brief Ilustrasi:**
-*[Seorang pria Arab duduk tertunduk dengan ekspresi sedih dan gelisah di dalam tenda, cahaya redup dari lentera, warna gelap dominan, mood berat dan muram, komposisi close-up emosional]*
+🎨 *Ilustrasi: Seorang pria Arab duduk tertunduk dengan ekspresi sedih dan gelisah di luar tenda saat senja. Di dalam tenda, cahaya hangat menyala tempat sang ibu menggendong bayinya dengan aman. Kontras antara gelap di luar dan hangat di dalam. Warna coklat-abu gelap di luar, amber hangat di dalam tenda. Mood tragis dan penuh konflik batin. Komposisi medium shot.*
 
 ---
 
-## ⚔️ Ayat yang Menggambarkan Keadaan Itu 📜
+## Allah Menggambarkan Keadaan Itu
 
 Allah menggambarkan reaksi orang Jahiliyyah saat mendapat kabar kelahiran anak perempuan:
 
-> *"Dan apabila seseorang dari mereka diberi kabar dengan (kelahiran) anak perempuan, hitamlah (merah padamlah) mukanya, dan dia sangat marah. Ia menyembunyikan dirinya dari orang banyak, disebabkan buruknya berita yang disampaikan kepadanya. Apakah dia akan memeliharanya dengan menanggung kehinaan ataukah akan memendam­kannya ke dalam tanah (hidup-hidup)?"*
+> *"Dan apabila seseorang dari mereka diberi kabar dengan kelahiran anak perempuan, hitamlah mukanya, dan dia sangat marah. Ia menyembunyikan dirinya dari orang banyak, disebabkan buruknya berita yang disampaikan kepadanya. Apakah dia akan memeliharanya dengan menanggung kehinaan ataukah akan memendamkannya ke dalam tanah? Ketahuilah, alangkah buruknya apa yang mereka tetapkan."*
 > — **QS. An-Nahl (16): 58-59**
 
 Begitulah buruknya pemikiran zaman Jahiliyyah terhadap anak perempuan.
 
-🎨 **Brief Ilustrasi:**
-*[Lembaran mushaf Al-Quran terbuka dengan cahaya lembut menyinari, ornamen Islamic di pinggir, warna emas dan krem dominan, mood khusyuk dan serius, komposisi centered pada teks]*
+🎨 *Ilustrasi: Tangan terbuka memegang bunga layu yang masih punya satu kelopak hidup berwarna pink cerah. Tetesan air mata jatuh ke bunga. Latar belakang langit mendung abu-abu. Warna coklat tangan, pink kelopak, abu langit. Mood mengharukan dan rapuh. Komposisi detail shot simbolis.*
 
 ---
 
-## 📖 Islam Datang Membawa Perubahan ☀️
+## Islam Datang Membawa Perubahan ☀️
 
 Kemudian Allah mengutus Nabi Muhammad ﷺ dengan membawa Islam. Islam datang dengan tegas melarang kebiasaan buruk ini. Allah berfirman bahwa kelak di hari kiamat, bayi-bayi perempuan yang menjadi korban akan ditanya:
-
-<ayat>وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ۝ بِأَيِّ ذَنبٍ قُتِلَتْ</ayat>
 
 > *"Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah ia dibunuh."*
 > — **QS. At-Takwir (81): 8-9**
 
 Ayat ini menunjukkan bahwa bayi perempuan itu **tidak berdosa sama sekali**. Allah akan meminta pertanggungjawaban dari orang-orang yang menzalimi mereka.
 
-🎨 **Brief Ilustrasi:**
-*[Matahari terbit dari balik gunung pasir, sinarnya menembus kegelapan, siluet Ka'bah di kejauhan, warna emas-kuning cerah kontras dengan gelap di bawah, mood harapan dan keadilan, komposisi dramatis cahaya vs gelap]*
+🎨 *Ilustrasi: Matahari terbit emas yang megah dari balik gunung pasir. Sisi kiri masih gelap malam dengan awan abu. Sisi kanan bersinar emas-putih. Di mana cahaya menyentuh tanah, tunas hijau dan bunga bermekaran dari pasir. Warna indigo-abu di kiri, emas-putih-hijau di kanan. Mood harapan besar dan perubahan ilahi. Komposisi wide dramatic landscape.*
 
 ---
 
-## 📖 Nabi Muhammad ﷺ Memuliakan Anak Perempuan 💝
+## Nabi Muhammad ﷺ Memuliakan Anak Perempuan 💝
 
 Nabi Muhammad ﷺ sendiri memberikan teladan langsung. Beliau sangat menyayangi putri-putrinya, terutama **Fatimah Az-Zahra**. Setiap kali Fatimah datang, Nabi ﷺ berdiri menyambutnya, mencium keningnya, dan mempersilakannya duduk di tempatnya.
 
 Nabi ﷺ juga bersabda:
 
-> *"Barangsiapa memelihara dua orang anak perempuan hingga dewasa, maka ia akan datang pada hari kiamat bersamaku."* — **HR. Muslim**
+> *"Barangsiapa memelihara dua orang anak perempuan hingga dewasa, maka ia akan datang pada hari kiamat bersamaku."*
+> — **HR. Muslim**
 
 Beliau mengatakan ini sambil merapatkan dua jarinya, menunjukkan betapa dekatnya orang itu dengan Nabi ﷺ di surga.
 
-🎨 **Brief Ilustrasi:**
-*[Nabi (tanpa wajah, cahaya putih di kepala) duduk di masjid sederhana dengan dua anak perempuan kecil di dekatnya, suasana hangat dan penuh kasih, warna hijau-emas lembut, mood bahagia dan damai, komposisi intimate family scene]*
+🎨 *Ilustrasi: Cahaya emas hangat (representasi Nabi) duduk di halaman masjid Madinah yang sederhana. Seorang anak perempuan kecil berdiri gembira di samping cahaya, mengulurkan kedua tangan. Para sahabat duduk menonton dengan senyum lembut. Pohon kurma memberikan naungan. Warna emas hangat, hijau daun, krem dinding, coklat tanah. Mood kasih sayang murni. Komposisi medium shot.*
 
 ---
 
-## 📖 Perempuan Mulia dalam Islam 🌹
+## Perempuan Mulia dalam Islam 🌹
 
 Islam mengubah total kedudukan perempuan. Berikut beberapa contohnya:
 
@@ -79,58 +75,50 @@ Islam mengubah total kedudukan perempuan. Berikut beberapa contohnya:
 
 Islam memberikan hak waris, hak pendidikan, dan kehormatan penuh kepada perempuan.
 
-🎨 **Brief Ilustrasi:**
-*[Tiga medali emas dengan siluet wanita berhijab di masing-masing, nama Khadijah-Aisyah-Fatimah tertulis, background ornamen Islamic geometris, warna emas-hijau-ungu royal, mood megah dan terhormat, komposisi triptych simetris]*
+🎨 *Ilustrasi: Tiga panel komposisi triptych. Kiri: perempuan berhijab krem mengelola barang dagangan dan gulungan di pasar Makkah (Khadijah). Tengah: perempuan berjubah putih dikelilingi buku dan murid di masjid (Aisyah). Kanan: perempuan berjubah biru mengawasi pembangunan masjid-universitas di Fez (Fatimah al-Fihri). Warna krem-emas, putih-amber, biru-hijau. Mood kekuatan dan warisan. Komposisi tiga panel sejajar.*
 
 ---
 
-## 📖 Hak-Hak Perempuan dalam Islam ⚖️
+## Hak-Hak Perempuan dalam Islam ⚖️
 
 Islam menetapkan hak-hak perempuan yang belum pernah ada sebelumnya di Jazirah Arab:
 
 - **Hak mendapat warisan** — perempuan berhak atas harta keluarganya
 - **Hak memilih suami** — tidak boleh dipaksa menikah
-- **Hak menuntut ilmu** — Nabi ﷺ bersabda: "Menuntut ilmu wajib bagi setiap Muslim" (laki-laki dan perempuan)
+- **Hak menuntut ilmu** — Nabi ﷺ bersabda: "Menuntut ilmu wajib bagi setiap Muslim"
 - **Hak memiliki harta** — harta istri adalah miliknya sendiri
 
 Semua ini diberikan Islam **1.400 tahun yang lalu**, jauh sebelum banyak negara lain memberikan hak yang sama kepada perempuan.
 
-🎨 **Brief Ilustrasi:**
-*[Timbangan keadilan (mizan) yang seimbang sempurna, di satu sisi simbol buku dan di sisi lain simbol rumah, latar belakang pattern Islamic biru-emas, mood adil dan seimbang, komposisi simetris centered]*
+🎨 *Ilustrasi: Timbangan keadilan emas yang seimbang sempurna di atas permukaan marmer. Di satu sisi, kotak perhiasan dengan koin emas melambangkan hak mahar. Di sisi lain, buku terbuka dengan pena melambangkan hak pendidikan. Di belakang, lengkungan dekoratif membingkai taman hijau yang terlihat dari jendela. Warna emas, krem marmer, hijau taman. Mood adil dan bermartabat. Komposisi simetris centered.*
 
 ---
 
-## 🌟 Pelajaran: Setiap Anak Berharga 💎
+## Setiap Anak Berharga 💎
 
 Pelajaran utama dari kisah ini: **setiap anak adalah karunia Allah**, baik laki-laki maupun perempuan. Tidak ada yang boleh direndahkan karena jenis kelaminnya.
 
-Islam mengajarkan bahwa nilai seseorang ditentukan oleh **ketakwaannya**, bukan oleh apakah ia laki-laki atau perempuan. Allah berfirman bahwa yang paling mulia di sisi-Nya adalah yang paling bertakwa.
+Islam mengajarkan bahwa nilai seseorang ditentukan oleh **ketakwaannya**, bukan oleh apakah ia laki-laki atau perempuan. Memiliki anak perempuan adalah **berkah besar** dan jalan menuju surga bagi orang tua yang membesarkannya dengan baik.
 
-Memiliki anak perempuan adalah **berkah besar** dan jalan menuju surga bagi orang tua yang membesarkannya dengan baik.
-
-🎨 **Brief Ilustrasi:**
-*[Sebuah berlian bersinar terang di tengah, dikelilingi siluet anak-anak laki-laki dan perempuan bermain bersama, cahaya warm golden, warna cerah dan hangat, mood gembira dan penuh harapan, komposisi radial dari tengah]*
+🎨 *Ilustrasi: Seorang ayah Muslim berpakaian putih bersih dan berkeffiyeh mencium kening putrinya yang berusia sekitar enam tahun. Anak tersenyum memejamkan mata, memakai hijab kecil berwarna cerah. Mereka duduk bersama di atas tikar di rumah sederhana. Cahaya lentera emas menciptakan halo di sekeliling mereka. Warna putih jubah, cerah baju anak, emas lentera. Mood cinta tanpa syarat. Komposisi medium shot intim.*
 
 ---
 
-## 🌟 Pelajaran: Keberanian Melawan Kebiasaan Buruk 💪
+## Keberanian Melawan Kebiasaan Buruk 💪
 
 Islam tidak hanya mengubah satu kebiasaan — Islam mengubah seluruh peradaban. Keberanian untuk menentang tradisi yang salah adalah bagian dari iman.
 
-Ketika melihat sesuatu yang tidak adil, seorang Muslim harus berani bersuara. Nabi ﷺ bersabda bahwa mengubah kemungkaran bisa dengan tangan, lisan, atau hati — dan itu adalah selemah-lemahnya iman.
-
 Perubahan besar dimulai dari keberanian mengatakan: **"Ini salah, dan harus diubah."**
 
-🎨 **Brief Ilustrasi:**
-*[Seorang anak berdiri tegak di atas bukit kecil menghadap matahari terbit, bayangan panjang di belakangnya, tangan mengepal penuh tekad, warna orange-emas sunrise, mood berani dan inspiratif, komposisi low-angle heroic]*
+Nabi ﷺ bersabda bahwa mengubah kemungkaran bisa dengan tangan, lisan, atau hati — dan yang terakhir itu adalah selemah-lemahnya iman.
+
+🎨 *Ilustrasi: Beberapa anak perempuan dari berbagai usia bermain bahagia di taman penuh bunga dan pohon buah. Ada yang membaca buku di bawah pohon, ada yang mengejar kupu-kupu, ada yang menyiram tanaman. Air mancur bergemericik di tengah. Tembok batu dengan tanaman merambat mengelilingi taman. Warna hijau cerah, pink-kuning-putih bunga, biru langit, baju anak berwarna-warni. Mood gembira dan bebas. Komposisi wide shot.*
 
 ---
 
-## 🤲 Doa dan Dalil 📿
+## Doa dan Dalil 🤲
 
-**Ayat utama:**
-
-<ayat>وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ۝ بِأَيِّ ذَنبٍ قُتِلَتْ</ayat>
+**Ayat tentang wa'ad:**
 
 > *"Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah ia dibunuh."*
 > — **QS. At-Takwir (81): 8-9**
@@ -145,9 +133,6 @@ Perubahan besar dimulai dari keberanian mengatakan: **"Ini salah, dan harus diub
 > *Rabbighfir lii wa liwaalidayya warhamhumaa kamaa rabbayaanii shaghiiraa.*
 > "Ya Allah, ampunilah aku dan kedua orang tuaku, sayangilah mereka sebagaimana mereka menyayangiku di waktu kecil."
 
-Subhanallah — Islam benar-benar agama yang memuliakan setiap manusia.
+Subhanallah.
 
-🎨 **Brief Ilustrasi:**
-*[Dua tangan terangkat berdoa dengan cahaya lembut dari atas, butiran cahaya seperti bintang mengelilingi, latar langit malam bertabur bintang, warna biru tua-emas-putih, mood khusyuk dan penuh harap, komposisi vertikal ke atas]*
-
----
+🎨 *Ilustrasi: Dua tangan terangkat berdoa dengan cahaya lembut turun dari atas. Butiran cahaya seperti bintang mengelilingi. Latar langit malam bertabur bintang dengan bulan sabit. Warna biru tua, emas, putih bintang. Mood khusyuk dan penuh harap. Komposisi vertikal ke atas.*
