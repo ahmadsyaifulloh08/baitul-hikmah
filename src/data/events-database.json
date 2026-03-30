@@ -8685,39 +8685,69 @@
       ],
       "sources": [
         {
+          "id": "jawad-ali",
+          "title": "Al-Mufassal fi Tarikh al-Arab qabl al-Islam",
+          "author": "Jawad Ali",
+          "type": "primary"
+        },
+        {
+          "id": "al-qurtubi",
+          "title": "Al-Jami li Ahkam al-Quran",
+          "author": "Al-Qurtubi",
+          "type": "tafsir"
+        },
+        {
+          "id": "al-alusi",
+          "title": "Ruh al-Ma'ani fi Tafsir al-Quran al-Azim",
+          "author": "Al-Alusi",
+          "type": "tafsir"
+        },
+        {
+          "id": "ibn-al-athir",
+          "title": "Usd al-Ghabah fi Ma'rifat al-Sahabah",
+          "author": "Ibn al-Athir",
+          "type": "primary"
+        },
+        {
+          "id": "leila-ahmed",
+          "title": "Women and Gender in Islam",
+          "author": "Leila Ahmed",
+          "type": "academic"
+        },
+        {
           "id": "ibn-hisham",
           "title": "Al-Sirah al-Nabawiyyah",
           "author": "Ibn Hisham",
           "type": "primary"
         },
         {
-          "id": "al-mubarakfuri",
-          "title": "Al-Rahiq al-Makhtum",
-          "author": "Al-Mubarakfuri",
+          "id": "ibn-hajar",
+          "title": "Al-Isabah fi Tamyiz al-Sahabah",
+          "author": "Ibn Hajar al-Asqalani",
           "type": "primary"
         },
         {
-          "id": "al-tabari",
-          "title": "Tarikh al-Rusul wa al-Muluk",
-          "author": "Al-Tabari",
-          "type": "primary"
-        },
-        {
-          "id": "muslim",
-          "title": "Shahih Muslim",
-          "author": "Muslim ibn al-Hajjaj",
+          "id": "al-nawawi",
+          "title": "Riyadh al-Salihin",
+          "author": "Al-Nawawi",
           "type": "hadith"
         },
         {
-          "id": "quran-at-takwir",
-          "title": "Al-Quran al-Karim",
-          "author": "QS. At-Takwir (81): 8-9",
-          "type": "quran"
+          "id": "akram-nadwi",
+          "title": "Al-Muhaddithat: The Women Scholars in Islam",
+          "author": "Akram Nadwi",
+          "type": "academic"
         },
         {
-          "id": "quran-an-nahl",
+          "id": "nakosteen",
+          "title": "History of Islamic Origins of Western Education",
+          "author": "Mehdi Nakosteen",
+          "type": "academic"
+        },
+        {
+          "id": "qs-waad",
           "title": "Al-Quran al-Karim",
-          "author": "QS. An-Nahl (16): 58-59",
+          "author": "QS. At-Takwir (81): 8-9; QS. Al-An'am (6): 151; QS. An-Nahl (16): 58-59; QS. An-Nisa (4): 4, 7; QS. Al-Baqarah (2): 228",
           "type": "quran"
         }
       ],

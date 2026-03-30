@@ -101,7 +101,7 @@ Menjadi portal digital terlengkap dan terindah untuk menelusuri sejarah peradaba
 
 **URL**: `baitul-hikmah.id/`
 
-Tampilan utama berupa **timeline grid** — mirip format di `agents.ahadgroup.id/governance?tab=research`.
+Tampilan utama berupa **timeline grid** — mirip format di `agents.ahadbyte.id/governance?tab=research`.
 
 **Layout:**
 - **Grid columns**: Kolom pertama = Tahun | Kolom sisanya = Region (Arabia, Levant/Sham, Persia/Iraq, Egypt/N.Africa, Al-Andalus, Central Asia, India/SE Asia, Nusantara, China)
@@ -110,7 +110,7 @@ Tampilan utama berupa **timeline grid** — mirip format di `agents.ahadgroup.id
 - **Sticky header**: Row header region tetap visible saat scroll
 - **Click event** → navigasi ke halaman detail `/event/[slug]`
 
-**Referensi visual**: Persis seperti tab Research di `agents.ahadgroup.id/governance?tab=research`
+**Referensi visual**: Persis seperti tab Research di `agents.ahadbyte.id/governance?tab=research`
 
 **Filter (multi-select):**
 - Category filter buttons: Kenabian ☆ | Politik ♛ | Ilmu Pengetahuan ≡ | Militer ⚔ | Peradaban ◆ | Kemunduran ↓

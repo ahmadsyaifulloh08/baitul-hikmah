@@ -76,3 +76,5 @@ Dari perspektif sejarah peradaban, kisah wa'ad al-mau'udah dan penghapusannya ol
 8. Al-Nawawi, *Riyadh al-Salihin*, Kitab al-Birr wa al-Silah (Beirut: Dar Ibn Kathir, 1987).
 9. Akram Nadwi, *al-Muhaddithat: The Women Scholars in Islam* (Oxford: Interface Publications, 2007).
 10. Mehdi Nakosteen, *History of Islamic Origins of Western Education* (Boulder: University of Colorado Press, 1964).
+
+11. Al-Qur'an al-Karim. QS. At-Takwir (81): 8-9; QS. Al-An'am (6): 151; QS. An-Nahl (16): 58-59; QS. An-Nisa (4): 4, 7; QS. Al-Baqarah (2): 228.

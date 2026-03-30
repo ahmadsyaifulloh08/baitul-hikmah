@@ -70,3 +70,5 @@ The contrast with contemporary civilizations is instructive. In Rome, the *patri
 8. Sahih Muslim. Trans. Abdul Hamid Siddiqui. Lahore: Sh. Muhammad Ashraf, 1971.
 9. Stowasser, Barbara Freyer. *Women in the Qur'an, Traditions, and Interpretation*. Oxford: Oxford University Press, 1994.
 10. Muranyi, Miklos. "Wa'd." In *Encyclopaedia of Islam*, Second Edition. Leiden: Brill, 2002.
+
+11. Al-Qur'an al-Karim. QS. At-Takwir (81): 8-9; QS. Al-An'am (6): 151; QS. An-Nahl (16): 58-59; QS. An-Nisa (4): 7-12.
