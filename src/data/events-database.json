@@ -8651,6 +8651,93 @@
           "type": "quran"
         }
       ]
+    },
+    {
+      "id": "e129",
+      "title": "Wa'ad al-Mau'udah — Penguburan Anak Perempuan di Zaman Jahiliyyah",
+      "year": -600,
+      "year_end": 610,
+      "era": "pre_islamic",
+      "regions": [
+        "arabia"
+      ],
+      "category": "social",
+      "desc": "Praktik penguburan anak perempuan hidup-hidup (wa'ad) di zaman Jahiliyyah, dan bagaimana Islam mengakhiri tradisi keji ini serta mengangkat derajat perempuan.",
+      "figures": [
+        "Nabi Muhammad SAW",
+        "Qays bin Ashim al-Tamimi",
+        "Zaid bin Amr bin Nufail"
+      ],
+      "significance": "high",
+      "status": "published",
+      "title_id": "Wa'ad al-Mau'udah — Penguburan Anak Perempuan di Zaman Jahiliyyah",
+      "title_en": "Wa'ad al-Mau'udah — Female Infanticide in Pre-Islamic Arabia",
+      "location": "Jazirah Arab",
+      "tags": [
+        "waad",
+        "mauudah",
+        "infanticide",
+        "jahiliyyah",
+        "hak-perempuan",
+        "pra-islam",
+        "at-takwir",
+        "anak-perempuan"
+      ],
+      "sources": [
+        {
+          "id": "ibn-hisham",
+          "title": "Al-Sirah al-Nabawiyyah",
+          "author": "Ibn Hisham",
+          "type": "primary"
+        },
+        {
+          "id": "al-mubarakfuri",
+          "title": "Al-Rahiq al-Makhtum",
+          "author": "Al-Mubarakfuri",
+          "type": "primary"
+        },
+        {
+          "id": "al-tabari",
+          "title": "Tarikh al-Rusul wa al-Muluk",
+          "author": "Al-Tabari",
+          "type": "primary"
+        },
+        {
+          "id": "muslim",
+          "title": "Shahih Muslim",
+          "author": "Muslim ibn al-Hajjaj",
+          "type": "hadith"
+        },
+        {
+          "id": "quran-at-takwir",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. At-Takwir (81): 8-9",
+          "type": "quran"
+        },
+        {
+          "id": "quran-an-nahl",
+          "title": "Al-Quran al-Karim",
+          "author": "QS. An-Nahl (16): 58-59",
+          "type": "quran"
+        }
+      ],
+      "characters": [
+        {
+          "name_id": "Nabi Muhammad SAW",
+          "name_en": "Prophet Muhammad ﷺ",
+          "role": "reformer"
+        },
+        {
+          "name_id": "Qays bin Ashim al-Tamimi",
+          "name_en": "Qays ibn Asim al-Tamimi",
+          "role": "repentant father"
+        },
+        {
+          "name_id": "Zaid bin Amr bin Nufail",
+          "name_en": "Zayd ibn Amr ibn Nufayl",
+          "role": "pre-Islamic opponent of wa'ad"
+        }
+      ]
     }
   ],
   "workflow": {
