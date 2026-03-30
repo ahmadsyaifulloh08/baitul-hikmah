@@ -30,19 +30,28 @@ Sebagai kontras, terdapat pula tokoh-tokoh pra-Islam yang secara aktif menentang
 
 Al-Quran mengecam praktik wa'ad dengan bahasa yang sangat kuat dan emosional. Ayat yang paling ikonik terdapat dalam Surah at-Takwir, yang menggambarkan peristiwa-peristiwa Hari Kiamat:
 
-<ayat><arab>وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ﴿٨﴾ بِأَيِّ ذَنبٍ قُتِلَتْ ﴿٩﴾</arab><terjemahan>"Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah ia dibunuh?" (QS. At-Takwir: 8-9)</terjemahan></ayat>
+> وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ﴿٨﴾ بِأَيِّ ذَنبٍ قُتِلَتْ ﴿٩﴾
+>
+> "Dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, karena dosa apakah ia dibunuh?"
+> — QS. At-Takwir: 8-9
 
 Ayat ini mengguncang dengan pertanyaan retoris yang tajam: bayi yang tidak berdosa akan ditanya di Hari Kiamat — bukan sebagai terdakwa, melainkan sebagai saksi yang menuntut keadilan. Para pelaku wa'ad-lah yang sesungguhnya akan dimintai pertanggungjawaban. Al-Qurtubi menafsirkan bahwa penggunaan bentuk pasif (*su'ilat*) menunjukkan bahwa bayi tersebut adalah pihak yang dizalimi, dan pertanyaan ini ditujukan untuk mempermalukan para pembunuhnya. ^2 ^11
 
 Dalam Surah al-An'am, Al-Quran melarang pembunuhan anak dengan tegas:
 
-<ayat><arab>وَلَا تَقْتُلُوا أَوْلَادَكُم مِّنْ إِمْلَاقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ</arab><terjemahan>"Dan janganlah kamu membunuh anak-anakmu karena takut miskin. Kamilah yang memberi rezeki kepada mereka dan kepadamu." (QS. Al-An'am: 151)</terjemahan></ayat>
+> وَلَا تَقْتُلُوا أَوْلَادَكُم مِّنْ إِمْلَاقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ
+>
+> "Dan janganlah kamu membunuh anak-anakmu karena takut miskin. Kamilah yang memberi rezeki kepada mereka dan kepadamu."
+> — QS. Al-An'am: 151
 
 Ayat ini secara langsung membantah argumen ekonomi yang digunakan masyarakat Jahiliyyah untuk membenarkan wa'ad. Allah menegaskan bahwa rezeki setiap makhluk sudah dijamin — ketakutan akan kemiskinan bukanlah alasan yang sah untuk menghilangkan nyawa. ^2 ^11
 
 Sementara itu, Surah an-Nahl menggambarkan reaksi psikologis orang Jahiliyyah ketika mendengar kabar kelahiran anak perempuan:
 
-<ayat><arab>وَإِذَا بُشِّرَ أَحَدُهُم بِالْأُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ ﴿٥٨﴾ يَتَوَارَىٰ مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ ﴿٥٩﴾</arab><terjemahan>"Dan apabila seseorang dari mereka diberi kabar dengan kelahiran anak perempuan, wajahnya menjadi hitam (merah padam), dan ia sangat marah. Ia bersembunyi dari orang banyak karena buruknya berita yang disampaikan kepadanya. Apakah ia akan memeliharanya dengan menanggung kehinaan, ataukah menguburnya di dalam tanah? Ketahuilah, alangkah buruknya apa yang mereka tetapkan." (QS. An-Nahl: 58-59)</terjemahan></ayat>
+> وَإِذَا بُشِّرَ أَحَدُهُم بِالْأُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ ﴿٥٨﴾ يَتَوَارَىٰ مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ ﴿٥٩﴾
+>
+> "Dan apabila seseorang dari mereka diberi kabar dengan kelahiran anak perempuan, wajahnya menjadi hitam (merah padam), dan ia sangat marah. Ia bersembunyi dari orang banyak karena buruknya berita yang disampaikan kepadanya. Apakah ia akan memeliharanya dengan menanggung kehinaan, ataukah menguburnya di dalam tanah? Ketahuilah, alangkah buruknya apa yang mereka tetapkan."
+> — QS. An-Nahl: 58-59
 
 Ayat ini merekam dengan presisi psikologis bagaimana siklus kekerasan terhadap bayi perempuan bermula: dari rasa malu, kemarahan, penyembunyian, hingga keputusan fatal. Al-Quran mengakhirinya dengan kecaman tegas: *sa'a ma yahkumun* — alangkah buruknya keputusan mereka. ^3 ^11
 

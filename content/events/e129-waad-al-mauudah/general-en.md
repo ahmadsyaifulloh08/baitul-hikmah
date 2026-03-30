@@ -26,19 +26,28 @@ In contrast to these narratives of participation and repentance stands the figur
 
 The Quran addresses the practice of *wa'ad* with unambiguous moral force, framing it as one of the most grievous sins of the Jahiliyyah. The most direct and rhetorically powerful condemnation appears in Surah al-Takwir, where the buried infant girl is given voice on the Day of Judgment:
 
-<ayat><arab>وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ﴿٨﴾ بِأَىِّ ذَنۢبٍ قُتِلَتْ ﴿٩﴾</arab><terjemahan>"And when the girl-child who was buried alive is asked — for what sin was she killed?" (QS. At-Takwir: 8–9)</terjemahan></ayat>
+> وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ﴿٨﴾ بِأَىِّ ذَنۢبٍ قُتِلَتْ ﴿٩﴾
+>
+> "And when the girl-child who was buried alive is asked — for what sin was she killed?"
+> — QS. At-Takwir: 8–9
 
 The rhetorical strategy of these verses is remarkable: rather than addressing the perpetrators directly, God grants the voiceless victim a hearing in the cosmic court. The buried girl is not questioned about her own deeds but is asked to testify — a devastating inversion that places the guilt squarely upon her killers. ^11
 
 Surah al-An'am explicitly prohibits the killing of children on grounds of poverty, dismantling the primary economic justification for *wa'ad*:
 
-<ayat><arab>وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ</arab><terjemahan>"And do not kill your children out of poverty; We provide for you and for them." (QS. Al-An'am: 151)</terjemahan></ayat>
+> وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ
+>
+> "And do not kill your children out of poverty; We provide for you and for them."
+> — QS. Al-An'am: 151
 
 The verse reframes the issue theologically: sustenance (*rizq*) belongs to God, not to human calculation. A father who kills his child for fear of want has, in Quranic terms, committed both murder and an act of disbelief in divine providence.
 
 Surah an-Nahl captures the psychological moment of a father receiving news of a daughter's birth, exposing the toxic shame that undergirded the practice:
 
-<ayat><arab>وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ ﴿٥٨﴾ يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ ﴿٥٩﴾</arab><terjemahan>"And when one of them is given the news of a female child, his face turns dark and he is filled with grief. He hides himself from the people because of the evil of that which he has been informed. Should he keep it in humiliation, or bury it in the ground? Unquestionably, evil is what they decide." (QS. An-Nahl: 58–59)</terjemahan></ayat>
+> وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ ﴿٥٨﴾ يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ ﴿٥٩﴾
+>
+> "And when one of them is given the news of a female child, his face turns dark and he is filled with grief. He hides himself from the people because of the evil of that which he has been informed. Should he keep it in humiliation, or bury it in the ground? Unquestionably, evil is what they decide."
+> — QS. An-Nahl: 58–59
 
 The Quran does not merely prohibit *wa'ad*; it dismantles the entire moral and psychological architecture that sustained it — the shame, the economic rationalization, and the dehumanization of female life. ^12
 
