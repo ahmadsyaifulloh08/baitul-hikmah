@@ -49,20 +49,22 @@ Ayat umum yang bisa ditempelkan ke event apa saja. **Lebih baik tanpa kutipan da
 
 Setiap kutipan Al-Quran **WAJIB** menyertakan teks Arab asli.
 
-**Format standar:**
+**Format standar — Blockquote Markdown:**
 
-```
-<ayat>
-  <arab>إِنَّ مَعَ الْعُسْرِ يُسْرًا</arab>
-  <terjemahan>"Sesungguhnya bersama kesulitan ada kemudahan." (QS. Al-Insyirah: 6)</terjemahan>
-</ayat>
+```markdown
+> إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾
+>
+> *"Sesungguhnya bersama kesulitan ada kemudahan. ﴾6﴿"*
+> — QS. Al-Insyirah (94): 6
 ```
 
-- **Urutan**: Teks Arab → Terjemahan Indonesia (dan/atau English jika bilingual)
-- **Font Arab**: Amiri atau Scheherazade New
-- **Arah teks**: `dir="rtl"` untuk teks Arab
+- **Format**: Blockquote markdown (`>`) — BUKAN tag `<ayat>` (tag HTML tidak di-render oleh frontend)
+- **Urutan**: Teks Arab → baris kosong blockquote → Terjemahan italic → referensi surah
+- **Font Arab**: Otomatis Amiri (renderer detect Arabic chars → apply RTL + Amiri)
+- **Arah teks**: Otomatis `dir="rtl"` (renderer detect Arabic > 40% chars)
 - **Tidak boleh** menampilkan terjemahan saja tanpa teks Arab asli
 - **Transliterasi Latin** (opsional): bisa ditambahkan di antara Arab dan terjemahan
+- **⚠️ DILARANG pakai tag `<ayat><arab>...</arab><terjemahan>...</terjemahan></ayat>`** — frontend TIDAK render tag ini. Selalu gunakan blockquote markdown.
 
 ### Pemisah Ayat — WAJIB Konsisten
 
