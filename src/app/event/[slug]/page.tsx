@@ -1,3 +1,5 @@
+// See: docs/PRD.md Section 3.3 (Halaman Detail Event)
+// PRD#3.3: Event detail page — static generation per slug, dual-mode content
 import { events, slugify } from '@/lib/data'
 import EventContent from './EventContent'
 

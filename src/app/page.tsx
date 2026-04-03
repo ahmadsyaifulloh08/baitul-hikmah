@@ -1,3 +1,6 @@
+// See: docs/PRD.md Section 3.1 (Timeline Mode) + Section 3.2 (Map Mode)
+// PRD#3.1: Homepage with timeline grid — era bands, region columns, category filters, search
+// PRD#3.2: Map mode toggle — MapLibre GIS with year slider, event markers
 'use client'
 
 import { useState } from 'react'

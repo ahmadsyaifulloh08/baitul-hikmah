@@ -1,3 +1,5 @@
+// See: docs/PRD.md Section 3.4 (Halaman Tentang)
+// PRD#3.4: About page — project vision, methodology overview, content statistics
 'use client'
 
 import Header from '@/components/Header'

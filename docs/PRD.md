@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Visi & Misi
+## 1. Visi & Misi 🚀
 
 ### Visi
 Menjadi portal digital terlengkap dan terindah untuk menelusuri sejarah peradaban Islam — dari Tahun Gajah (570 M) hingga jatuhnya Al-Andalus (1492 M) — dengan pendekatan riset ilmiah (Manhaj Bukhari) dan penyajian visual yang imersif.
@@ -31,7 +31,7 @@ Menjadi portal digital terlengkap dan terindah untuk menelusuri sejarah peradaba
 
 ---
 
-## 2. Target Audiens
+## 2. Target Audiens 🚀
 
 ### Segmen A: General (Default)
 - **Profil**: Muslim dewasa, mahasiswa, peneliti, educator, pencari pengetahuan
@@ -97,7 +97,7 @@ Menjadi portal digital terlengkap dan terindah untuk menelusuri sejarah peradaba
 
 ## 3. Sitemap & Fitur
 
-### 3.1 Halaman Utama — Timeline Mode
+### 3.1 Halaman Utama — Timeline Mode 🚀
 
 **URL**: `baitul-hikmah.id/`
 
@@ -122,7 +122,7 @@ Tampilan utama berupa **timeline grid** — mirip format di `agents.ahadbyte.id/
 
 **Data source**: `events-database.json` (128 events, sudah terstruktur)
 
-### 3.2 Halaman Utama — Map Mode (GIS Interaktif)
+### 3.2 Halaman Utama — Map Mode (GIS Interaktif) 🚀
 
 **URL**: `baitul-hikmah.id/map`
 
@@ -172,7 +172,7 @@ Peta dunia interaktif ala WebGIS yang menampilkan events berdasarkan lokasi geog
 - Tiles: **CARTO** raster basemaps (`light_all` only) — no self-hosted tiles needed
 - Animasi: CSS transitions + MapLibre flyTo untuk smooth region panning
 
-### 3.3 Halaman Detail Event
+### 3.3 Halaman Detail Event 🚀
 
 **URL**: `baitul-hikmah.id/event/{event-id}` (contoh: `/event/tahun-gajah`)
 
@@ -224,7 +224,7 @@ Tokoh: [Nama1] [Nama2] [Nama3] ...                       ← pills (fontSize 12,
 - **Close**: Tombol close (X) untuk kembali ke halaman event dewasa
 - **Audio** (future): Option baca cerita (TTS dengan suara warm) — auto-advance slide per narasi
 
-### 3.4 Halaman Tentang
+### 3.4 Halaman Tentang 🚀
 
 **URL**: `baitul-hikmah.id/about`
 
@@ -233,7 +233,7 @@ Tokoh: [Nama1] [Nama2] [Nama3] ...                       ← pills (fontSize 12,
 - Tim (Ahmad + AI Research Partner)
 - Sumber data & referensi utama
 
-### 3.5 Halaman Metodologi
+### 3.5 Halaman Metodologi ⬜
 
 **URL**: `baitul-hikmah.id/methodology`
 
@@ -272,7 +272,7 @@ Riset dan penulisan dimulai dari event `e01` — peristiwa paling awal dalam tim
 
 ---
 
-## 5. Design & Frontend
+## 5. Design & Frontend 🚀
 
 ### Design System
 - **Referensi utama**: [21st.dev](https://21st.dev) — modern, clean, component-driven UI
@@ -417,7 +417,7 @@ Seluruh resource di bawah ini **free & open source** (atau free tier cukup), dip
 
 ---
 
-## 7. Multi-Agent Development Model
+## 7. Multi-Agent Development Model 🚀
 
 ### Agent Assignment
 
@@ -687,7 +687,7 @@ npx wrangler pages deploy out --project-name=baitul-hikmah --branch=develop --co
 
 ---
 
-## 8. Tech Stack
+## 8. Tech Stack 🚀
 
 | Layer | Technology | Rationale |
 |-------|-----------|-----------|
@@ -743,7 +743,7 @@ Menggunakan 1 CF Pages project dengan branch-based deployment (best practice):
 
 ---
 
-## 9. Data Architecture
+## 9. Data Architecture 🚀
 
 ### Content Model per Event
 
@@ -808,7 +808,7 @@ Event
 
 ---
 
-## 10. SEO & Metadata
+## 10. SEO & Metadata ⚠️
 
 - **Open Graph**: Per event — gambar, title, deskripsi
 - **Structured Data**: JSON-LD (Article, Event, Person schemas)
@@ -1002,7 +1002,7 @@ Project Baitul Hikmah memiliki 2 dokumen utama yang saling terkait:
 ---
 
 
-## 15. Content Standards & Writing Guidelines
+## 15. Content Standards & Writing Guidelines 🚀
 
 > **📄 Dipindahkan ke dokumen terpisah untuk efisiensi token.**
 > Baca: [`docs/content-style-guide.md`](docs/content-style-guide.md)
@@ -1032,7 +1032,7 @@ Project Baitul Hikmah memiliki 2 dokumen utama yang saling terkait:
 
 ---
 
-## 16. Children Slideshow — Illustration Guidelines
+## 16. Children Slideshow — Illustration Guidelines 🚀
 
 > **📄 Dipindahkan ke dokumen terpisah untuk efisiensi token.**
 > Baca: [`docs/illustration-guide.md`](docs/illustration-guide.md)

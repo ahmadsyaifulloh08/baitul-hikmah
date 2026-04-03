@@ -1,3 +1,7 @@
+// See: docs/PRD.md Section 5 (Design System) + Section 8 (Tech Stack) + Section 10 (SEO)
+// PRD#5: Light mode only, Amiri font for Arabic, design system
+// PRD#8: Next.js static export, Cloudflare Pages deployment
+// PRD#10: Base metadata (title, description)
 import type { Metadata } from 'next'
 // CSS loaded via <link> in <head> to avoid webpack CSS parsing issues in dev mode
 

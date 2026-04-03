@@ -1,3 +1,6 @@
+// See: docs/PRD.md Section 5 (Design System) + Section 1 (Bahasa)
+// PRD#5: Header component — site title, navigation, language toggle (ID/EN)
+// PRD#1: Bilingual support — Indonesian primary, English secondary
 'use client'
 
 import { useI18n } from '@/i18n/context'

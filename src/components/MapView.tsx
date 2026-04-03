@@ -1,3 +1,6 @@
+// See: docs/PRD.md Section 3.2 (Map Mode — GIS Interaktif)
+// PRD#3.2: MapLibre GL JS + CARTO tiles, year slider, event markers, region fly-to
+// PRD#3.2: Multi-select filters (era, category, region), event popup on click
 'use client'
 
 import { useEffect, useRef, useState, useMemo, useCallback } from 'react'

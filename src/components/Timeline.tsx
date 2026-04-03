@@ -1,3 +1,6 @@
+// See: docs/PRD.md Section 3.1 (Halaman Utama — Timeline Mode)
+// PRD#3.1: Timeline grid — year column, region columns, era bands, category color-coded
+// PRD#3.1: Multi-select category filters, search bar, click-to-detail navigation
 'use client'
 
 import { useState, useMemo, useRef } from 'react'

@@ -1,3 +1,5 @@
+// See: docs/PRD.md Section 5 (Design System) + Design Decisions Log (Bahasa ID/EN)
+// PRD#5: Custom i18n context — ID primary, EN secondary, no external i18n library
 'use client'
 
 import { createContext, useContext, useState, useCallback, type ReactNode } from 'react'

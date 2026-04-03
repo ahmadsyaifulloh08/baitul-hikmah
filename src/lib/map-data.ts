@@ -1,3 +1,6 @@
+// See: docs/PRD.md Section 9 (Data Architecture) + Section 3.2 (Map Mode)
+// PRD#9: GeoJSON event data — coordinates from event-coordinates.json
+// PRD#3.2: Map event markers, region coordinates, jitter for clustered events
 import { events, eras, type Event, type Era } from './data'
 import eventCoordinates from '@/data/event-coordinates.json'
 

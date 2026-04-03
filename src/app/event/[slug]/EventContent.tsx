@@ -1,5 +1,11 @@
 /**
  * EventContent.tsx — Event detail page with dual-mode content (general/children)
+ * 
+ * See: docs/PRD.md Section 3.3 (Detail Event) + Section 2B (Mode Anak-Anak)
+ * PRD#3.3: General mode — markdown article, badges, figures, citations, bibliography
+ * PRD#2B: Children mode — slideshow presentation, illustration-first, dark overlay text
+ * PRD#15: Content standards — blockquote Quran format, Arabic RTL, citation rendering
+ * PRD#16: Illustration guidelines — children slideshow image mapping
  *
  * Content flow:
  *   content/events/*.md → scripts/build-content.js → event-content-map.json → this file

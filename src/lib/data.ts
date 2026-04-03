@@ -1,3 +1,5 @@
+// See: docs/PRD.md Section 9 (Data Architecture)
+// PRD#9: Content model — events, eras, categories, regions from events-database.json
 import eventsDB from '@/data/events-database.json'
 
 export interface Event {
